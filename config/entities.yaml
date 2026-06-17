@@ -1,0 +1,73 @@
+# AXI0M / AXIOM canonical identity guardrails.
+# JSON ist gültiges YAML. Keine Secrets.
+
+{
+  "meta": {
+    "project": "senna-infoflow",
+    "purpose": "Canonical entity identity guardrails for AXI0M / AXIOM so public monitor results do not confuse User Yps' company with unrelated namespaces.",
+    "last_reviewed": "2026-06-17",
+    "source_of_truth": "User Yps + public AXI0M website"
+  },
+  "entities": {
+    "axi0m_company": {
+      "canonical_user_name": "AXI0M",
+      "public_brand_observed": "AXIOM",
+      "domain": "axi0m.de",
+      "official_urls": [
+        "https://axi0m.de/",
+        "https://axi0m.de/blog.html",
+        "https://api.axi0m.de/",
+        "https://app.axi0m.de/"
+      ],
+      "public_positioning": [
+        "Reliable scientific signal detection",
+        "deterministic signal analysis",
+        "dense numeric sequences",
+        "structured pattern detection",
+        "CUDA-backed reproducibility",
+        "hash-proofed provenance",
+        "bit-exact results",
+        "European data sovereignty",
+        "audit trails and reproducible process evidence"
+      ],
+      "public_contact_observed": [
+        "contact@axi0m.de",
+        "service@axi0m.de"
+      ],
+      "non_owned_or_unconfirmed": {
+        "github": [
+          "No official AXI0M GitHub organization or repository is owned/confirmed.",
+          "Do not treat github.com/axi0m/* or any AXIOM-like GitHub namespace as User Yps' company unless User Yps explicitly confirms it."
+        ],
+        "open_roles": [
+          "No public open positions or jobs source is owned/confirmed.",
+          "Do not infer hiring signals from third-party AXIOM/AXI0M pages."
+        ],
+        "external_social": [
+          "Do not infer official social accounts from name matches alone.",
+          "Only treat a profile as official if linked from axi0m.de or confirmed by User Yps."
+        ]
+      },
+      "local_only_note": "User Yps stated that GitHub pages, open positions, and other operational surfaces are not public and live locally / under User Yps' direct control.",
+      "monitor_handling": {
+        "official_identity_match_requires_any": [
+          "axi0m.de",
+          "api.axi0m.de",
+          "app.axi0m.de",
+          "explicit User Yps confirmation",
+          "exact public brand context: AXIOM Signal Detection"
+        ],
+        "treat_as_name_collision_unless_confirmed": [
+          "github.com/axi0m/*",
+          "AXIOM jobs",
+          "AXI0M jobs",
+          "AXIOM careers",
+          "unlinked LinkedIn/company pages",
+          "unlinked repositories",
+          "third-party open roles"
+        ],
+        "default_action_for_collision": "Do not store as AXI0M footprint. Mark as possible name collision or reputational false-positive."
+      }
+    }
+  }
+}
