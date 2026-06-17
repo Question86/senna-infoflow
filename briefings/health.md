@@ -1,8 +1,8 @@
 # Senna Pipeline Health
 
-_Generiert: 2026-06-17T22:16:09Z_
+_Generiert: 2026-06-17T22:38:24Z_
 
-Status: `ok`
+Status: `warning`
 
 ## State Hygiene
 
@@ -15,11 +15,11 @@ Status: `ok`
 
 ## Source Error Journal
 
-- appended this run: `0`
+- appended this run: `5`
 
 ## Output Validation
 
-- Keine Strukturprobleme erkannt.
+- **warning** `source_errors_present` — 5 source error(s) in latest run.
 
 ---
 

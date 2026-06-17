@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-17T22-38-24Z",
+  "generated_at": "2026-06-17T22:38:24Z",
+  "latest": {
+    "generated_at": "2026-06-17T22:38:24+00:00",
+    "date": "2026-06-17",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 0,
+      "today_file_total": 235,
+      "high": 0,
+      "medium": 0,
+      "observe": 0,
+      "source_errors": 5
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": []
+    },
+    "findings": [],
+    "source_errors": [
+      {
+        "source_id": "geofon_global_recent_rss",
+        "source_name": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='geofon.gfz.de', port=443): Max retries exceeded with url: /eqinfo/list.php?fmt=rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='geofon.gfz.de', port=443) at 0x7faae86715d0>, 'Connection to geofon.gfz.de timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_all_events_24h",
+        "source_name": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_24h.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7fb3290>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_all_events_week",
+        "source_name": "GDACS All Events Last Week",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7df5e50>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_orange_red_earthquakes",
+        "source_name": "GDACS Orange/Red Earthquakes",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_eq_3M.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7f54850>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_tropical_cyclones_week",
+        "source_name": "GDACS Tropical Cyclones Last Week",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_tc_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7f18450>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-17T22:38:24+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 0,
+      "clusters": 0,
+      "cross_source_confrmed": 0,
+      "hot": 0
+    },
+    "clusters": []
+  },
+  "topic_samples": []
+}
