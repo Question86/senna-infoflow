@@ -1,92 +1,214 @@
 # Regeln für Score, Priorisierung und Handlungsempfehlungen.
-# Diese Datei enthält nur Logik, keine Secrets.
+# JSON ist gültiges YAML. Keine Secrets.
 
-scoring:
-  # Etwas strenger als zuvor. Der Monitor soll weniger Müll hochziehen.
-  high_threshold: 24
-  medium_threshold: 12
-  observe_threshold: 1
-  max_score: 100
-  title_multiplier: 1.4
-  url_multiplier: 1.2
-  recent_bonus:
-    enabled: true
-    within_hours: 72
-    points: 2
-
-classification:
-  risk_terms:
-    - exploit
-    - vulnerability
-    - CVE
-    - breach
-    - leak
-    - leaked
-    - impersonation
-    - fake account
-    - phishing
-    - ransomware
-    - malware
-    - trojan
-    - stealer
-    - backdoor
-    - botnet
-    - command and control
-    - C2
-    - payload
-    - credential
-    - token theft
-    - supply chain
-    - dependency confusion
-    - typosquatting
-    - package compromise
-    - maintainer account
-    - Datenschutzverstoß
-    - DSGVO
-    - Shitstorm
-    - Kritik
-    - reputational risk
-    - brand risk
-    - scam
-    - fraud
-
-  opportunity_terms:
-    - product idea
-    - Produktidee
-    - feature request
-    - market gap
-    - use case
-    - workflow gap
-    - content opportunity
-    - Content-Chance
-    - tutorial
-    - guide
-    - explainer
-    - case study
-    - grant
-    - partnership
-    - collaboration
-    - open source
-    - automation
-    - local-first
-    - privacy-first
-
-actions:
-  default_observation: "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-  default_opportunity: "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-  default_risk: "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-  default_mixed: "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
-  identity_match: "Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist."
-  high_priority: "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster."
-
-briefing:
-  max_items_per_section: 15
-  max_items_per_source_per_section: 5
-  reminder_candidate_min_score: 24
-  include_source_errors: true
-
-http:
-  timeout_seconds: 15
-  polite_delay_seconds: 1.0
-  max_bytes_per_webpage: 500000
-  respect_robots_txt_for_webpage_check: true
+{
+  "scoring": {
+    "high_threshold": 24,
+    "medium_threshold": 12,
+    "observe_threshold": 1,
+    "max_score": 100,
+    "title_multiplier": 1.4,
+    "url_multiplier": 1.2,
+    "recent_bonus": {
+      "enabled": true,
+      "within_hours": 72,
+      "points": 2
+    }
+  },
+  "classification": {
+    "risk_terms": [
+      "exploit",
+      "actively exploited",
+      "exploited in the wild",
+      "vulnerability",
+      "CVE",
+      "CVSS 10",
+      "RCE",
+      "zero-day",
+      "breach",
+      "leak",
+      "leaked",
+      "impersonation",
+      "fake account",
+      "phishing",
+      "ransomware",
+      "malware",
+      "trojan",
+      "stealer",
+      "backdoor",
+      "botnet",
+      "command and control",
+      "C2",
+      "payload",
+      "credential",
+      "token theft",
+      "supply chain",
+      "dependency confusion",
+      "typosquatting",
+      "package compromise",
+      "maintainer account",
+      "Datenschutzverstoß",
+      "DSGVO",
+      "Shitstorm",
+      "Kritik",
+      "reputational risk",
+      "brand risk",
+      "scam",
+      "fraud",
+      "earthquake",
+      "tsunami warning",
+      "eruption",
+      "ash cloud",
+      "hurricane",
+      "typhoon",
+      "cyclone",
+      "storm surge",
+      "flood",
+      "wildfire",
+      "evacuation order",
+      "state of emergency",
+      "curfew",
+      "coup",
+      "martial law",
+      "missile strike",
+      "drone attack",
+      "sanctions",
+      "export ban",
+      "airspace closed",
+      "pipeline outage",
+      "port closure",
+      "blackout",
+      "grid emergency",
+      "famine",
+      "food insecurity",
+      "outbreak",
+      "avian flu",
+      "pandemic",
+      "market halted",
+      "trading suspended",
+      "guidance cut",
+      "profit warning",
+      "default",
+      "currency crisis"
+    ],
+    "opportunity_terms": [
+      "product idea",
+      "Produktidee",
+      "feature request",
+      "market gap",
+      "use case",
+      "workflow gap",
+      "content opportunity",
+      "Content-Chance",
+      "tutorial",
+      "guide",
+      "explainer",
+      "case study",
+      "grant",
+      "partnership",
+      "collaboration",
+      "open source",
+      "automation",
+      "local-first",
+      "privacy-first",
+      "agentic workflow",
+      "workflow automation",
+      "AI agents",
+      "developer tools",
+      "conference",
+      "summit",
+      "hackathon",
+      "startup event",
+      "demo day"
+    ]
+  },
+  "watchgraph_scoring": {
+    "enabled": true,
+    "principle": "High Priority nur bei Identitätsbezug, offizieller Quelle, aktiver Ausnutzung, Katastrophen-/Marktbestätigung oder unabhängiger Mehrfachbestätigung.",
+    "high_signal_boost_terms": [
+      "actively exploited",
+      "exploited in the wild",
+      "CISA KEV",
+      "emergency patch",
+      "state of emergency",
+      "evacuation order",
+      "airspace closed",
+      "tsunami warning",
+      "capital under curfew",
+      "central bank emergency",
+      "export ban",
+      "pipeline outage",
+      "port closure",
+      "market halted",
+      "trading suspended",
+      "red alert",
+      "orange alert"
+    ],
+    "demote_terms": [
+      "awesome",
+      "final year project",
+      "demo",
+      "portfolio",
+      "tutorial",
+      "boilerplate",
+      "sponsorship page",
+      "generated by AI",
+      "no copy on youtube"
+    ],
+    "cross_source_required": [
+      "X",
+      "LinkedIn",
+      "Reddit",
+      "Mastodon",
+      "Bluesky",
+      "single GitHub repository description",
+      "China social rumor"
+    ],
+    "official_source_classes": [
+      "government",
+      "emergency_management",
+      "central_bank",
+      "exchange",
+      "vendor_advisory",
+      "security_advisory",
+      "geoscience_institute",
+      "weather_agency",
+      "humanitarian_agency"
+    ],
+    "china_credibility_gate": {
+      "accept_if_any": [
+        "Reuters/AP/Bloomberg/FT/WSJ attribution",
+        "official Chinese statistics/customs/central-bank filing",
+        "HKEX/SEC/company IR filing",
+        "confirmed market price move"
+      ],
+      "demote_if_only": [
+        "anonymous social post",
+        "single influencer thread",
+        "unsourced repost chain",
+        "machine-translated repost"
+      ]
+    }
+  },
+  "actions": {
+    "default_observation": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "default_opportunity": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "default_risk": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "default_mixed": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+    "identity_match": "Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.",
+    "high_priority": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster.",
+    "watchgraph_hot": "Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung."
+  },
+  "briefing": {
+    "max_items_per_section": 15,
+    "max_items_per_source_per_section": 5,
+    "reminder_candidate_min_score": 24,
+    "include_source_errors": true
+  },
+  "http": {
+    "timeout_seconds": 15,
+    "polite_delay_seconds": 1.0,
+    "max_bytes_per_webpage": 500000,
+    "respect_robots_txt_for_webpage_check": true
+  }
+}
