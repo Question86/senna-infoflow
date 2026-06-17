@@ -55,3 +55,21 @@ sources:
       - GFZ
       - disaster
       - hot-lane
+
+  - id: telegram_public_inbox
+    name: Telegram Public Channel Inbox
+    type: manual_note
+    source_class: platform_social
+    enabled: true
+    path: inbox/telegram_public.md
+    keywords:
+      - Telegram
+      - public channel
+      - social velocity
+      - geopolitic
+      - tech leak
+      - hacker leak
+      - cyber
+      - AI
+      - AXI0M
+      - hot-lane
