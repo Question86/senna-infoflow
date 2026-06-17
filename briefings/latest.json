@@ -1,61 +1,41 @@
 {
-  "generated_at": "2026-06-17T21:31:36+00:00",
+  "generated_at": "2026-06-17T21:54:22+00:00",
   "date": "2026-06-17",
   "scope": "configured_public_sources_only",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 232,
+    "new_relevant_findings": 1,
+    "today_file_total": 233,
     "high": 0,
-    "medium": 0,
-    "observe": 6,
-    "source_errors": 4
+    "medium": 1,
+    "observe": 0,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
-    "observe": [
+    "medium": [
       {
-        "title": "Google to use UK and EU user IP addresses for ad personalization",
-        "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-        "source": "BleepingComputer Security",
+        "title": "M 3.8, Northern Chile",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luro",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
         "source_type": "rss",
-        "published_at": "2026-06-17T21:02:42+00:00",
-        "fetched_at": "2026-06-17T21:30:01+00:00",
-        "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
+        "published_at": null,
+        "fetched_at": "2026-06-17T21:53:37+00:00",
+        "summary": "2026-06-17 20:29:28 -19.58 -69.49 84 km A",
         "matched_keywords": [
-          "Security"
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
         ],
-        "relevance_score": 11,
-        "relevance_reason": "Security (+7.2); recent (+2.0); watchgraph region europe: EU (+2.0)",
-        "risk_or_opportunity": "observation",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": [],
-        "market_context": [],
-        "id": "88a5d390d90e9fa7f228"
-      },
-      {
-        "title": "Tropical Storm Arthur Forecast Discussion Number 7",
-        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/172054.shtml",
-        "source": "NOAA NHC Atlantic Tropical Cyclones",
-        "source_type": "rss",
-        "published_at": "2026-06-17T20:54:37+00:00",
-        "fetched_at": "2026-06-17T21:30:01+00:00",
-        "summary": "Issued at 400 PM CDT Wed Jun 17 2026 000 WTNT41 KNHC 172054 TCDAT1 Tropical Storm Arthur Discussion Number 7 NWS National Hurricane Center Miami FL AL012026 400 PM CDT Wed Jun 17 2026 The center of Arthur appears to have moved inland over Matagorda County, Texas, early this afternoon based on visible satellite images and surface observations. However, the circulation center has become more diffuse and less defined o…",
-        "matched_keywords": [
-          "cyclone",
-          "hurricane",
-          "Watchgraph:storms_floods_weather"
-        ],
-        "relevance_score": 9,
-        "relevance_reason": "hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "relevance_score": 12,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
         "risk_or_opportunity": "risk",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
         "watchgraph_modules": [
-          "storms_floods_weather"
+          "earthquakes_tsunami"
         ],
         "watchgraph_reasons": [
-          "storms_floods_weather: hurricane, cyclone"
+          "earthquakes_tsunami: earthquake"
         ],
         "market_context": [
           "MUV2.DE",
@@ -67,252 +47,37 @@
           "MLM",
           "HOLN.SW",
           "HD",
-          "LOW",
-          "XOM",
-          "CVX",
-          "SHEL",
-          "TTE",
-          "BP",
-          "ENB",
-          "SU",
-          "EQNR",
-          "CCJ",
-          "URA"
+          "LOW"
         ],
-        "id": "6beced776856c0ad4944"
-      },
-      {
-        "title": "Tropical Storm Arthur Wind Speed Probabilities Number 7",
-        "url": "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/172053.shtml",
-        "source": "NOAA NHC Atlantic Tropical Cyclones",
-        "source_type": "rss",
-        "published_at": "2026-06-17T20:53:36+00:00",
-        "fetched_at": "2026-06-17T21:30:01+00:00",
-        "summary": "Issued at 2100 UTC WED JUN 17 2026 000 FONT11 KNHC 172053 PWSAT1 TROPICAL STORM ARTHUR WIND SPEED PROBABILITIES NUMBER 7 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 2100 UTC WED JUN 17 2026 AT 2100Z THE CENTER OF TROPICAL STORM ARTHUR WAS LOCATED NEAR LATITUDE 28.9 NORTH...LONGITUDE 96.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 40 KTS...45 MPH...75 KM/H. Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH) ATLANTIC…",
-        "matched_keywords": [
-          "cyclone",
-          "hurricane",
-          "Watchgraph:storms_floods_weather"
-        ],
-        "relevance_score": 9,
-        "relevance_reason": "hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "storms_floods_weather"
-        ],
-        "watchgraph_reasons": [
-          "storms_floods_weather: hurricane, cyclone"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW",
-          "XOM",
-          "CVX",
-          "SHEL",
-          "TTE",
-          "BP",
-          "ENB",
-          "SU",
-          "EQNR",
-          "CCJ",
-          "URA"
-        ],
-        "id": "422d7735793e17a5d0bd"
-      },
-      {
-        "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
-        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172052.shtml",
-        "source": "NOAA NHC Atlantic Tropical Cyclones",
-        "source_type": "rss",
-        "published_at": "2026-06-17T20:53:06+00:00",
-        "fetched_at": "2026-06-17T21:30:01+00:00",
-        "summary": "...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... ...TROPICAL STORM WARNING REMAINS IN EFFECT FOR PORTIONS OF THE TEXAS AND LOUISIANA COAST... As of 4:00 PM CDT Wed Jun 17 the center of Arthur was located near 28.9, -96.1 with movement NNE at 7 mph. The minimum central pressure was 1001 mb with maximum sustained winds of about 45 mph.",
-        "matched_keywords": [
-          "cyclone",
-          "flood",
-          "Watchgraph:storms_floods_weather"
-        ],
-        "relevance_score": 9,
-        "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "storms_floods_weather"
-        ],
-        "watchgraph_reasons": [
-          "storms_floods_weather: cyclone, flood"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW",
-          "XOM",
-          "CVX",
-          "SHEL",
-          "TTE",
-          "BP",
-          "ENB",
-          "SU",
-          "EQNR",
-          "CCJ",
-          "URA"
-        ],
-        "id": "7ef3fe3a778e4ab22413"
-      },
-      {
-        "title": "Tropical Storm Arthur Forecast Advisory Number 7",
-        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/172051.shtml",
-        "source": "NOAA NHC Atlantic Tropical Cyclones",
-        "source_type": "rss",
-        "published_at": "2026-06-17T20:52:05+00:00",
-        "fetched_at": "2026-06-17T21:30:01+00:00",
-        "summary": "Issued at 2100 UTC WED JUN 17 2026 290 WTNT21 KNHC 172051 TCMAT1 TROPICAL STORM ARTHUR FORECAST/ADVISORY NUMBER 7 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 2100 UTC WED JUN 17 2026 TROPICAL STORM CENTER LOCATED NEAR 28.9N 96.1W AT 17/2100Z POSITION ACCURATE WITHIN 30 NM PRESENT MOVEMENT TOWARD THE NORTH-NORTHEAST OR 15 DEGREES AT 6 KT ESTIMATED MINIMUM CENTRAL PRESSURE 1001 MB MAX SUSTAINED WINDS 40 KT WITH GU…",
-        "matched_keywords": [
-          "cyclone",
-          "hurricane",
-          "Watchgraph:storms_floods_weather"
-        ],
-        "relevance_score": 9,
-        "relevance_reason": "hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "storms_floods_weather"
-        ],
-        "watchgraph_reasons": [
-          "storms_floods_weather: hurricane, cyclone"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW",
-          "XOM",
-          "CVX",
-          "SHEL",
-          "TTE",
-          "BP",
-          "ENB",
-          "SU",
-          "EQNR",
-          "CCJ",
-          "URA"
-        ],
-        "id": "2ecf5a238e5512a06021"
-      },
-      {
-        "title": "Tropical Storm Arthur Graphics",
-        "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/212600.shtml?cone",
-        "source": "NOAA NHC Atlantic Tropical Cyclones",
-        "source_type": "rss",
-        "published_at": "2026-06-17T21:26:00+00:00",
-        "fetched_at": "2026-06-17T21:30:01+00:00",
-        "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
-        "matched_keywords": [
-          "cyclone",
-          "Watchgraph:storms_floods_weather"
-        ],
-        "relevance_score": 7,
-        "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "storms_floods_weather"
-        ],
-        "watchgraph_reasons": [
-          "storms_floods_weather: cyclone"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW",
-          "XOM",
-          "CVX",
-          "SHEL",
-          "TTE",
-          "BP",
-          "ENB",
-          "SU",
-          "EQNR",
-          "CCJ",
-          "URA"
-        ],
-        "id": "38d75c54c0f93fd56291"
+        "id": "f1342f1a4f405719877f"
       }
-    ]
+    ],
+    "observe": []
   },
   "findings": [
     {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "source": "BleepingComputer Security",
+      "title": "M 3.8, Northern Chile",
+      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luro",
+      "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "source_type": "rss",
-      "published_at": "2026-06-17T21:02:42+00:00",
-      "fetched_at": "2026-06-17T21:30:01+00:00",
-      "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
+      "published_at": null,
+      "fetched_at": "2026-06-17T21:53:37+00:00",
+      "summary": "2026-06-17 20:29:28 -19.58 -69.49 84 km A",
       "matched_keywords": [
-        "Security"
+        "earthquake",
+        "GEOFON",
+        "GFZ",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+7.2); recent (+2.0); watchgraph region europe: EU (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "88a5d390d90e9fa7f228"
-    },
-    {
-      "title": "Tropical Storm Arthur Forecast Discussion Number 7",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/172054.shtml",
-      "source": "NOAA NHC Atlantic Tropical Cyclones",
-      "source_type": "rss",
-      "published_at": "2026-06-17T20:54:37+00:00",
-      "fetched_at": "2026-06-17T21:30:01+00:00",
-      "summary": "Issued at 400 PM CDT Wed Jun 17 2026 000 WTNT41 KNHC 172054 TCDAT1 Tropical Storm Arthur Discussion Number 7 NWS National Hurricane Center Miami FL AL012026 400 PM CDT Wed Jun 17 2026 The center of Arthur appears to have moved inland over Matagorda County, Texas, early this afternoon based on visible satellite images and surface observations. However, the circulation center has become more diffuse and less defined o…",
-      "matched_keywords": [
-        "cyclone",
-        "hurricane",
-        "Watchgraph:storms_floods_weather"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+      "relevance_score": 12,
+      "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "storms_floods_weather"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "storms_floods_weather: hurricane, cyclone"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -324,232 +89,10 @@
         "MLM",
         "HOLN.SW",
         "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
+        "LOW"
       ],
-      "id": "6beced776856c0ad4944"
-    },
-    {
-      "title": "Tropical Storm Arthur Wind Speed Probabilities Number 7",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/172053.shtml",
-      "source": "NOAA NHC Atlantic Tropical Cyclones",
-      "source_type": "rss",
-      "published_at": "2026-06-17T20:53:36+00:00",
-      "fetched_at": "2026-06-17T21:30:01+00:00",
-      "summary": "Issued at 2100 UTC WED JUN 17 2026 000 FONT11 KNHC 172053 PWSAT1 TROPICAL STORM ARTHUR WIND SPEED PROBABILITIES NUMBER 7 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 2100 UTC WED JUN 17 2026 AT 2100Z THE CENTER OF TROPICAL STORM ARTHUR WAS LOCATED NEAR LATITUDE 28.9 NORTH...LONGITUDE 96.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 40 KTS...45 MPH...75 KM/H. Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH) ATLANTIC…",
-      "matched_keywords": [
-        "cyclone",
-        "hurricane",
-        "Watchgraph:storms_floods_weather"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "watchgraph_reasons": [
-        "storms_floods_weather: hurricane, cyclone"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "422d7735793e17a5d0bd"
-    },
-    {
-      "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172052.shtml",
-      "source": "NOAA NHC Atlantic Tropical Cyclones",
-      "source_type": "rss",
-      "published_at": "2026-06-17T20:53:06+00:00",
-      "fetched_at": "2026-06-17T21:30:01+00:00",
-      "summary": "...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... ...TROPICAL STORM WARNING REMAINS IN EFFECT FOR PORTIONS OF THE TEXAS AND LOUISIANA COAST... As of 4:00 PM CDT Wed Jun 17 the center of Arthur was located near 28.9, -96.1 with movement NNE at 7 mph. The minimum central pressure was 1001 mb with maximum sustained winds of about 45 mph.",
-      "matched_keywords": [
-        "cyclone",
-        "flood",
-        "Watchgraph:storms_floods_weather"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "watchgraph_reasons": [
-        "storms_floods_weather: cyclone, flood"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "7ef3fe3a778e4ab22413"
-    },
-    {
-      "title": "Tropical Storm Arthur Forecast Advisory Number 7",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/172051.shtml",
-      "source": "NOAA NHC Atlantic Tropical Cyclones",
-      "source_type": "rss",
-      "published_at": "2026-06-17T20:52:05+00:00",
-      "fetched_at": "2026-06-17T21:30:01+00:00",
-      "summary": "Issued at 2100 UTC WED JUN 17 2026 290 WTNT21 KNHC 172051 TCMAT1 TROPICAL STORM ARTHUR FORECAST/ADVISORY NUMBER 7 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 2100 UTC WED JUN 17 2026 TROPICAL STORM CENTER LOCATED NEAR 28.9N 96.1W AT 17/2100Z POSITION ACCURATE WITHIN 30 NM PRESENT MOVEMENT TOWARD THE NORTH-NORTHEAST OR 15 DEGREES AT 6 KT ESTIMATED MINIMUM CENTRAL PRESSURE 1001 MB MAX SUSTAINED WINDS 40 KT WITH GU…",
-      "matched_keywords": [
-        "cyclone",
-        "hurricane",
-        "Watchgraph:storms_floods_weather"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "watchgraph_reasons": [
-        "storms_floods_weather: hurricane, cyclone"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "2ecf5a238e5512a06021"
-    },
-    {
-      "title": "Tropical Storm Arthur Graphics",
-      "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/212600.shtml?cone",
-      "source": "NOAA NHC Atlantic Tropical Cyclones",
-      "source_type": "rss",
-      "published_at": "2026-06-17T21:26:00+00:00",
-      "fetched_at": "2026-06-17T21:30:01+00:00",
-      "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
-      "matched_keywords": [
-        "cyclone",
-        "Watchgraph:storms_floods_weather"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "watchgraph_reasons": [
-        "storms_floods_weather: cyclone"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "38d75c54c0f93fd56291"
+      "id": "f1342f1a4f405719877f"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "gdacs_all_events_24h",
-      "source_name": "GDACS All Events Last 24h",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_24h.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f47db5847d0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_all_events_week",
-      "source_name": "GDACS All Events Last Week",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f47db53ab50>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_orange_red_earthquakes",
-      "source_name": "GDACS Orange/Red Earthquakes",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_eq_3M.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f47db539e50>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_tropical_cyclones_week",
-      "source_name": "GDACS Tropical Cyclones Last Week",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_tc_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f47db55e590>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    }
-  ]
+  "source_errors": []
 }

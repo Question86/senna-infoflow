@@ -4154,6 +4154,44 @@
     "id": "41b7d1cb7e77b8e641c0"
   },
   {
+    "title": "M 3.8, Northern Chile",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luro",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T21:53:37+00:00",
+    "summary": "2026-06-17 20:29:28 -19.58 -69.49 84 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f1342f1a4f405719877f"
+  },
+  {
     "title": "M 3.6, Chile-Bolivia Border Region",
     "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lupc",
     "source": "GEOFON/GFZ Global Recent Earthquakes RSS",

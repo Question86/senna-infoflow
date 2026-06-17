@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-17T21:31:36Z",
+  "generated_at": "2026-06-17T21:54:22Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -222,6 +222,34 @@
           "status": "emerging",
           "urls": [
             "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/212600.shtml?cone"
+          ]
+        }
+      ]
+    },
+    "title:m-3.8-northern-chile": {
+      "topic_key": "title:m-3.8-northern-chile",
+      "topic_label": "M 3.8, Northern Chile",
+      "last_seen_at": "2026-06-17T21:54:22Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-54-22Z:title:m-3.8-northern-chile",
+          "sample_index": 5939110,
+          "timestamp_utc": "2026-06-17T21:54:22Z",
+          "run_id": "2026-06-17T21-54-22Z",
+          "topic_key": "title:m-3.8-northern-chile",
+          "topic_label": "M 3.8, Northern Chile",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luro"
           ]
         }
       ]
