@@ -1,0 +1,48 @@
+# Senna Network Hub trend ranking model.
+# Keep the polling cadence at 5 minutes, then rank by shape over time.
+
+version: 1
+
+cadence_minutes: 5
+
+history_limit: 864
+# 864 * 5min = 3 days of run-level memory.
+
+windows:
+  short_burst: 10
+  pre_viral: 30
+  first_hour: 60
+  daily: 1440
+
+acceleration:
+  enabled: true
+  min_consecutive_rising_windows: 2
+  min_delta_per_run: 1
+  bonus_per_consecutive_run: 6
+  max_bonus: 24
+
+first_hour_boost:
+  enabled: true
+  max_age_minutes: 60
+  multiplier: 1.35
+  require_acceleration: true
+
+source_diversity:
+  bonus_per_distinct_source: 2
+  max_bonus: 12
+
+credibility:
+  tier1_confirmation_bonus: 8
+  social_only_cap: 19
+
+statuses:
+  quiet: "last_60_min == 0"
+  emerging: "first_hour and consecutively_rising"
+  accelerating: "two or more consecutive delta rises"
+  broadening: "distinct_sources >= 3 or cross-source confirmed"
+  mature: "older than 60 minutes but still ranking"
+
+outputs:
+  breaking_max_items: 3
+  trending_max_items: 10
+  strong_trend_score: 24
