@@ -1,19 +1,65 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T22:54:27+00:00",
+  "generated_at": "2026-06-17T23:35:00+00:00",
   "entities": {
-    "earthquake:philippines:unknown": {
-      "title": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
-      "first_seen_at": "2026-06-17T22:54:27+00:00",
-      "last_seen_at": "2026-06-17T22:54:27+00:00",
+    "storm:arthur": {
+      "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+      "first_seen_at": "2026-06-17T21:31:36+00:00",
+      "last_seen_at": "2026-06-17T23:35:00+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-17T21:31:36+00:00",
+          "count": 5
+        },
+        {
+          "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:16:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:38:24+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ]
+    },
+    "earthquake:philippines:unknown": {
+      "title": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
+      "first_seen_at": "2026-06-17T22:54:27+00:00",
+      "last_seen_at": "2026-06-17T22:54:27+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
           "at": "2026-06-17T22:54:27+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -44,6 +90,10 @@
         {
           "at": "2026-06-17T22:54:27+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -73,6 +123,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],
@@ -107,6 +161,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],
@@ -146,48 +204,14 @@
         {
           "at": "2026-06-17T22:54:27+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
         }
       ],
       "sources": [
         "BleepingComputer Security"
-      ]
-    },
-    "storm:arthur": {
-      "title": "Tropical Storm Arthur Forecast Discussion Number 7",
-      "first_seen_at": "2026-06-17T21:31:36+00:00",
-      "last_seen_at": "2026-06-17T21:31:36+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-17T21:31:36+00:00",
-          "count": 5
-        },
-        {
-          "at": "2026-06-17T21:54:22+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:13:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:16:09+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:38:24+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:54:27+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
       ]
     },
     "domain:openai.com": {
@@ -229,6 +253,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],
@@ -275,6 +303,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],
@@ -326,6 +358,10 @@
         {
           "at": "2026-06-17T22:54:27+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -375,6 +411,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],
@@ -426,6 +466,10 @@
         {
           "at": "2026-06-17T22:54:27+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -475,6 +519,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],
@@ -526,6 +574,10 @@
         {
           "at": "2026-06-17T22:54:27+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -575,6 +627,10 @@
         },
         {
           "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
           "count": 0
         }
       ],

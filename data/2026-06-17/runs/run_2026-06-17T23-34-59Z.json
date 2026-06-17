@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-17T23-34-59Z",
+  "generated_at": "2026-06-17T23:34:59Z",
+  "latest": {
+    "generated_at": "2026-06-17T23:34:59+00:00",
+    "date": "2026-06-17",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 1,
+      "today_file_total": 237,
+      "high": 0,
+      "medium": 0,
+      "observe": 1,
+      "source_errors": 5
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": [
+        {
+          "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-17T23:31:06+00:00",
+          "fetched_at": "2026-06-17T23:30:07+00:00",
+          "summary": "...CENTER OF ARTHUR RE-FORMS NORTHEASTWARD NEAR GALVESTON TEXAS... ...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 7:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.4, -94.9 with movement NE at 8 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 40 mph.",
+          "matched_keywords": [
+            "cyclone",
+            "flood",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 9,
+          "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: cyclone, flood"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "eb53a3b62d890d251ca2"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-17T23:31:06+00:00",
+        "fetched_at": "2026-06-17T23:30:07+00:00",
+        "summary": "...CENTER OF ARTHUR RE-FORMS NORTHEASTWARD NEAR GALVESTON TEXAS... ...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 7:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.4, -94.9 with movement NE at 8 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 40 mph.",
+        "matched_keywords": [
+          "cyclone",
+          "flood",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: cyclone, flood"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "eb53a3b62d890d251ca2"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "geofon_global_recent_rss",
+        "source_name": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='geofon.gfz.de', port=443): Max retries exceeded with url: /eqinfo/list.php?fmt=rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='geofon.gfz.de', port=443) at 0x7f37ec330f90>, 'Connection to geofon.gfz.de timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_all_events_24h",
+        "source_name": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_24h.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37eba898d0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_all_events_week",
+        "source_name": "GDACS All Events Last Week",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37ebac59d0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_orange_red_earthquakes",
+        "source_name": "GDACS Orange/Red Earthquakes",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_eq_3M.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37ebab2bd0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      },
+      {
+        "source_id": "gdacs_tropical_cyclones_week",
+        "source_name": "GDACS Tropical Cyclones Last Week",
+        "source_type": "rss",
+        "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_tc_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37eba43390>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-17T23:35:00+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 1,
+      "clusters": 1,
+      "cross_source_confrmed": 0,
+      "hot": 0
+    },
+    "clusters": [
+      {
+        "key": "storm:arthur",
+        "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+        "sources": [
+          "NOAA NHC Atlantic Tropical Cyclones"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml"
+        ],
+        "finding_count": 1,
+        "max_score": 9,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 14.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-17T23-34-59Z:title:summary-for-tropical-storm-arthur-at1-al012026",
+      "sample_index": 5939130,
+      "timestamp_utc": "2026-06-17T23:34:59Z",
+      "run_id": "2026-06-17T23-34-59Z",
+      "topic_key": "title:summary-for-tropical-storm-arthur-at1-al012026",
+      "topic_label": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+      "network_score": 9.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 11.0,
+      "status": "mature",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml"
+      ]
+    }
+  ]
+}

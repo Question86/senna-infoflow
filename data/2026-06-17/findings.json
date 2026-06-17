@@ -5204,6 +5204,53 @@
     "id": "f826b229624f71bbb31c"
   },
   {
+    "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+    "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml",
+    "source": "NOAA NHC Atlantic Tropical Cyclones",
+    "source_type": "rss",
+    "published_at": "2026-06-17T23:31:06+00:00",
+    "fetched_at": "2026-06-17T23:30:07+00:00",
+    "summary": "...CENTER OF ARTHUR RE-FORMS NORTHEASTWARD NEAR GALVESTON TEXAS... ...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 7:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.4, -94.9 with movement NE at 8 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 40 mph.",
+    "matched_keywords": [
+      "cyclone",
+      "flood",
+      "Watchgraph:storms_floods_weather"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "storms_floods_weather"
+    ],
+    "watchgraph_reasons": [
+      "storms_floods_weather: cyclone, flood"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "eb53a3b62d890d251ca2"
+  },
+  {
     "title": "M 5.0 - 68 km ESE of Bobon, Philippines",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su6s",
     "source": "USGS M4.5+ Earthquakes Past Hour",
