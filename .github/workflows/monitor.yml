@@ -17,27 +17,69 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+
       - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: "pip"
-      - run: |
+
+      - name: Install dependencies
+        run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Merge hot-lane sources
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import yaml
+
+          base_path = Path("config/sources.yaml")
+          hot_path = Path("config/hot_sources.yaml")
+
+          if not hot_path.exists():
+              print("No config/hot_sources.yaml found; skipping hot-lane merge.")
+              raise SystemExit(0)
+
+          base = yaml.safe_load(base_path.read_text(encoding="utf-8")) or {}
+          hot = yaml.safe_load(hot_path.read_text(encoding="utf-8")) or {}
+
+          base_sources = list(base.get("sources") or [])
+          hot_sources = list(hot.get("sources") or [])
+          existing_ids = {str(source.get("id")) for source in base_sources if isinstance(source, dict)}
+
+          merged_hot = [
+              source
+              for source in hot_sources
+              if isinstance(source, dict) and str(source.get("id")) not in existing_ids
+          ]
+
+          base["sources"] = merged_hot + base_sources
+          base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(f"Merged {len(merged_hot)} hot-lane source(s).")
+          PY
+
       - name: Run monitor
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 20
         run: python scripts/monitor.py
+
       - name: Run network hub postprocess
         run: python scripts/network_hub_postprocess.py
+
       - name: Write canonical report atoms and trend samples
         run: python scripts/write_canonical_reports.py
+
+      - name: Harden state and outputs
+        run: python scripts/harden_state_and_outputs.py
+
       - name: Commit generated briefings
         run: |
           git config user.name "senna-infoflow[bot]"
-          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
+          git config user.email "senna-inflow[bot]@users.noreply.github.com"
           git add data/ briefings/ reports/ state/
           if git diff --cached --quiet; then
             echo "No changes to commit."
