@@ -1,193 +1,599 @@
 # Öffentliche Quellen-Konfiguration für senna-infoflow.
-# Nur öffentliche, freigegebene oder von User Yps bereitgestellte Quellen eintragen.
 # Keine privaten Endpunkte, keine Tokens, keine personenbezogenen Daten Dritter.
-#
-# Prinzip:
-# - direkte AXI0M/User-Yps-Signale sind wichtiger als generische Tech-News
-# - breite Suchquellen werden eng gehalten, damit das Briefing nicht mit Müll geflutet wird
-# - fehlerhafte öffentliche Endpunkte bleiben dokumentiert, aber nicht aktiv
+# JSON ist gültiges YAML; aktive RSS-Knoten laufen sofort, API-Knoten bleiben deaktiviert bis Adapter existieren.
 
-meta:
-  project: senna-infoflow
-  owner_alias: User Yps
-  company: AXI0M
-  website: https://axi0m.de/blog.html
-  scope_notice: >
-    Dieses System prüft nur die hier konfigurierten öffentlichen Quellen.
-    Es behauptet nicht, das Internet vollständig zu überwachen.
-
-defaults:
-  enabled: true
-  max_items: 20
-
-sources:
-  # --- Direkte AXI0M-/User-Yps-Signale ---
-
-  - id: axi0m_blog
-    name: AXI0M Blog
-    type: webpage_check
-    enabled: true
-    url: https://axi0m.de/blog.html
-    keywords: ["AXI0M", "axi0m.de", "AI", "KI", "Open Source", "Automatisierung", "Datenschutz", "Webentwicklung", "Content-Chance"]
-
-  - id: axi0m_home
-    name: AXI0M Website
-    type: webpage_check
-    enabled: true
-    url: https://axi0m.de/
-    keywords: ["AXI0M", "axi0m.de", "Webentwicklung", "Automatisierung", "Datenschutz"]
-
-  - id: github_search_axi0m
-    name: "GitHub Search: AXI0M Mentions"
-    type: github_search
-    enabled: true
-    mode: issues
-    max_items: 20
-    query: '"AXI0M" OR "axi0m.de"'
-    keywords: ["AXI0M", "axi0m.de", "GitHub", "Open Source", "Reputationsrisiko"]
-
-  - id: github_search_senna_infoflow
-    name: "GitHub Search: senna-infoflow Mentions"
-    type: github_search
-    enabled: true
-    mode: issues
-    max_items: 20
-    query: '"senna-infoflow" OR "Question86"'
-    keywords: ["senna-infoflow", "Question86", "GitHub", "AXI0M", "Reputationsrisiko"]
-
-  - id: manual_notes
-    name: Manual Notes Inbox
-    type: manual_note
-    enabled: true
-    path: inbox/manual_notes.md
-    keywords: ["AXI0M", "User Yps", "Produktidee", "Content-Chance", "Datenschutz", "Automatisierung"]
-
-  # --- Plattform- und KI-Entwicklungen ---
-
-  - id: openai_news_rss
-    name: OpenAI News RSS
-    type: rss
-    enabled: true
-    max_items: 15
-    url: https://openai.com/news/rss.xml
-    keywords: ["OpenAI", "ChatGPT", "Custom GPT", "AI Agents", "automation", "safety", "privacy"]
-
-  - id: github_blog_atom
-    name: GitHub Blog Atom
-    type: rss
-    enabled: true
-    max_items: 15
-    url: https://github.blog/feed/
-    keywords: ["GitHub", "GitHub Actions", "Open Source", "security", "automation", "AI", "developer tools"]
-
-  - id: github_changelog_atom
-    name: GitHub Changelog Atom
-    type: rss
-    enabled: true
-    max_items: 15
-    url: https://github.blog/changelog/feed/
-    keywords: ["GitHub", "GitHub Actions", "Copilot", "CodeQL", "Dependabot", "security", "automation", "AI"]
-
-  - id: hn_ai_security
-    name: Hacker News AI/Security Search
-    type: hackernews
-    enabled: true
-    max_items: 15
-    query: "(OpenAI OR AI agents OR GitHub Actions OR cybersecurity OR privacy OR local-first)"
-    keywords: ["OpenAI", "AI Agents", "GitHub", "security", "privacy", "automation", "Open Source", "local-first"]
-
-  - id: hn_local_first_ai
-    name: Hacker News Local-first AI Search
-    type: hackernews
-    enabled: true
-    max_items: 10
-    query: "(local-first AI OR privacy-first AI OR offline LLM OR private agents)"
-    keywords: ["Local-first AI", "AI Agents", "privacy", "Open Source", "Produktidee", "Content-Chance"]
-
-  # --- Security- und Supply-Chain-Lage ---
-
-  - id: heise_security_atom
-    name: heise Security Alerts
-    type: rss
-    enabled: true
-    max_items: 15
-    url: https://www.heise.de/security/rss/alert-news-atom.xml
-    keywords: ["security", "CVE", "vulnerability", "Datenschutz", "Open Source", "Supply Chain Security"]
-
-  - id: bleepingcomputer_security
-    name: BleepingComputer Security
-    type: rss
-    enabled: true
-    max_items: 15
-    url: https://www.bleepingcomputer.com/feed/
-    keywords: ["security", "cybersecurity", "OpenAI", "GitHub", "AI", "phishing", "ransomware", "breach"]
-
-  - id: cisa_all_advisories
-    name: CISA Cybersecurity Advisories
-    type: rss
-    enabled: true
-    max_items: 15
-    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
-    keywords: ["CISA", "CVE", "vulnerability", "exploit", "supply chain", "security", "patch"]
-
-  - id: snyk_security_blog
-    name: Snyk Security Blog
-    type: rss
-    enabled: true
-    max_items: 10
-    url: https://snyk.io/blog/feed.xml
-    keywords: ["Snyk", "Open Source", "Supply Chain Security", "vulnerability", "AI security", "developer security"]
-
-  - id: portswigger_research
-    name: PortSwigger Research
-    type: rss
-    enabled: true
-    max_items: 10
-    url: https://portswigger.net/research/rss
-    keywords: ["web security", "vulnerability", "exploit", "API", "Webentwicklung", "security"]
-
-  # --- Breite GitHub-Suche, bewusst enger gefasst ---
-  # Vorher war diese Quelle zu breit und hat sehr viele schwache Repositories als Hochpriorität markiert.
-  # Stars/Pushed-Filter reduzieren Wegwerf-Repos, ohne das Signal vollständig zu verlieren.
-
-  - id: github_search_ai_security
-    name: "GitHub Search: AI Security Automation"
-    type: github_search
-    enabled: true
-    mode: repositories
-    max_items: 10
-    query: 'AI security automation privacy stars:>10 pushed:>2026-01-01'
-    keywords: ["AI", "security", "automation", "privacy", "Open Source", "Produktidee", "Content-Chance"]
-
-  - id: github_search_agent_security
-    name: "GitHub Search: Agent Security"
-    type: github_search
-    enabled: true
-    mode: repositories
-    max_items: 10
-    query: 'AI agent security sandbox permissions stars:>10 pushed:>2026-01-01'
-    keywords: ["AI Agents", "security", "sandbox", "permissions", "Open Source", "Produktidee"]
-
-  # --- Derzeit deaktiviert ---
-  # Reddit blockiert die öffentliche JSON-Suche in GitHub Actions aktuell mit 403.
-  # Nicht löschen: kann später über OAuth/API oder alternative Quellen sauber ersetzt werden.
-
-  - id: reddit_machinelearning
-    name: Reddit r/MachineLearning Search
-    type: reddit_json
-    enabled: false
-    subreddit: MachineLearning
-    query: "OpenAI OR GitHub OR privacy OR automation"
-    sort: new
-    time: week
-    keywords: ["OpenAI", "AI", "GitHub", "privacy", "automation"]
-
-  - id: reddit_cybersecurity
-    name: Reddit r/cybersecurity Search
-    type: reddit_json
-    enabled: false
-    subreddit: cybersecurity
-    query: "GitHub OR OpenAI OR AI OR privacy OR supply chain"
-    sort: new
-    time: week
-    keywords: ["GitHub", "OpenAI", "AI", "privacy", "supply chain", "security"]
+{
+  "meta": {
+    "project": "senna-infoflow",
+    "owner_alias": "User Yps",
+    "company": "AXI0M",
+    "website": "https://axi0m.de/blog.html",
+    "scope_notice": "Dieses System prüft nur konfigurierte öffentliche Quellen und behauptet keine vollständige Internetüberwachung.",
+    "watchgraph": {
+      "enabled": true,
+      "goal": "Frühwarnsystem für massenpsychologisch relevante Makro-/Mikrotrends und AXI0M-relevante Signale.",
+      "memory_repo": "Question86/keeper-clean",
+      "memory_path": "core_rules/senna_infoflow/"
+    }
+  },
+  "defaults": {
+    "enabled": true,
+    "max_items": 20
+  },
+  "sources": [
+    {
+      "id": "axi0m_blog",
+      "name": "AXI0M Blog",
+      "type": "webpage_check",
+      "enabled": true,
+      "url": "https://axi0m.de/blog.html",
+      "keywords": [
+        "AXI0M",
+        "axi0m.de",
+        "AI",
+        "KI",
+        "Open Source",
+        "Automatisierung",
+        "Datenschutz",
+        "Webentwicklung",
+        "Content-Chance"
+      ]
+    },
+    {
+      "id": "axi0m_home",
+      "name": "AXI0M Website",
+      "type": "webpage_check",
+      "enabled": true,
+      "url": "https://axi0m.de/",
+      "keywords": [
+        "AXI0M",
+        "axi0m.de",
+        "Webentwicklung",
+        "Automatisierung",
+        "Datenschutz"
+      ]
+    },
+    {
+      "id": "github_search_axi0m",
+      "name": "GitHub Search: AXI0M Mentions",
+      "type": "github_search",
+      "enabled": true,
+      "mode": "issues",
+      "max_items": 20,
+      "query": "\"AXI0M\" OR \"axi0m.de\"",
+      "keywords": [
+        "AXI0M",
+        "axi0m.de",
+        "GitHub",
+        "Open Source",
+        "Reputationsrisiko"
+      ]
+    },
+    {
+      "id": "github_search_senna_infoflow",
+      "name": "GitHub Search: senna-infoflow Mentions",
+      "type": "github_search",
+      "enabled": true,
+      "mode": "issues",
+      "max_items": 20,
+      "query": "\"senna-infoflow\" OR \"Question86\"",
+      "keywords": [
+        "senna-infoflow",
+        "Question86",
+        "GitHub",
+        "AXI0M",
+        "Reputationsrisiko"
+      ]
+    },
+    {
+      "id": "manual_notes",
+      "name": "Manual Notes Inbox",
+      "type": "manual_note",
+      "enabled": true,
+      "path": "inbox/manual_notes.md",
+      "keywords": [
+        "AXI0M",
+        "User Yps",
+        "Produktidee",
+        "Content-Chance",
+        "Datenschutz",
+        "Automatisierung"
+      ]
+    },
+    {
+      "id": "openai_news_rss",
+      "name": "OpenAI News RSS",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://openai.com/news/rss.xml",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "Custom GPT",
+        "AI Agents",
+        "automation",
+        "safety",
+        "privacy"
+      ]
+    },
+    {
+      "id": "github_blog_atom",
+      "name": "GitHub Blog Atom",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://github.blog/feed/",
+      "keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "Open Source",
+        "security",
+        "automation",
+        "AI",
+        "developer tools"
+      ]
+    },
+    {
+      "id": "github_changelog_atom",
+      "name": "GitHub Changelog Atom",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://github.blog/changelog/feed/",
+      "keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "Copilot",
+        "CodeQL",
+        "Dependabot",
+        "security",
+        "automation",
+        "AI"
+      ]
+    },
+    {
+      "id": "hn_ai_security",
+      "name": "Hacker News AI/Security Search",
+      "type": "hackernews",
+      "enabled": true,
+      "max_items": 15,
+      "query": "(OpenAI OR AI agents OR GitHub Actions OR cybersecurity OR privacy OR local-first)",
+      "keywords": [
+        "OpenAI",
+        "AI Agents",
+        "GitHub",
+        "security",
+        "privacy",
+        "automation",
+        "Open Source",
+        "local-first"
+      ]
+    },
+    {
+      "id": "hn_local_first_ai",
+      "name": "Hacker News Local-first AI Search",
+      "type": "hackernews",
+      "enabled": true,
+      "max_items": 10,
+      "query": "(local-first AI OR privacy-first AI OR offline LLM OR private agents)",
+      "keywords": [
+        "Local-first AI",
+        "AI Agents",
+        "privacy",
+        "Open Source",
+        "Produktidee",
+        "Content-Chance"
+      ]
+    },
+    {
+      "id": "heise_security_atom",
+      "name": "heise Security Alerts",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://www.heise.de/security/rss/alert-news-atom.xml",
+      "keywords": [
+        "security",
+        "CVE",
+        "vulnerability",
+        "Datenschutz",
+        "Open Source",
+        "Supply Chain Security"
+      ]
+    },
+    {
+      "id": "bleepingcomputer_security",
+      "name": "BleepingComputer Security",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "keywords": [
+        "security",
+        "cybersecurity",
+        "OpenAI",
+        "GitHub",
+        "AI",
+        "phishing",
+        "ransomware",
+        "breach"
+      ]
+    },
+    {
+      "id": "cisa_all_advisories",
+      "name": "CISA Cybersecurity Advisories",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "keywords": [
+        "CISA",
+        "CVE",
+        "vulnerability",
+        "exploit",
+        "supply chain",
+        "security",
+        "patch"
+      ]
+    },
+    {
+      "id": "snyk_security_blog",
+      "name": "Snyk Security Blog",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://snyk.io/blog/feed.xml",
+      "keywords": [
+        "Snyk",
+        "Open Source",
+        "Supply Chain Security",
+        "vulnerability",
+        "AI security",
+        "developer security"
+      ]
+    },
+    {
+      "id": "portswigger_research",
+      "name": "PortSwigger Research",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://portswigger.net/research/rss",
+      "keywords": [
+        "web security",
+        "vulnerability",
+        "exploit",
+        "API",
+        "Webentwicklung",
+        "security"
+      ]
+    },
+    {
+      "id": "usgs_significant_earthquakes",
+      "name": "USGS Significant Earthquakes",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom",
+      "keywords": [
+        "earthquake",
+        "tsunami warning",
+        "aftershock",
+        "capital",
+        "evacuation",
+        "infrastructure",
+        "disaster",
+        "PAGER",
+        "ShakeMap"
+      ]
+    },
+    {
+      "id": "gdacs_all_events_24h",
+      "name": "GDACS All Events Last 24h",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.gdacs.org/xml/rss_24h.xml",
+      "keywords": [
+        "earthquake",
+        "cyclone",
+        "flood",
+        "volcano",
+        "drought",
+        "disaster",
+        "evacuation",
+        "humanitarian",
+        "orange alert",
+        "red alert"
+      ]
+    },
+    {
+      "id": "gdacs_all_events_week",
+      "name": "GDACS All Events Last Week",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.gdacs.org/xml/rss_7d.xml",
+      "keywords": [
+        "earthquake",
+        "cyclone",
+        "flood",
+        "volcano",
+        "disaster",
+        "humanitarian",
+        "evacuation"
+      ]
+    },
+    {
+      "id": "gdacs_orange_red_earthquakes",
+      "name": "GDACS Orange/Red Earthquakes",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.gdacs.org/xml/rss_eq_3M.xml",
+      "keywords": [
+        "earthquake",
+        "tsunami",
+        "orange alert",
+        "red alert",
+        "evacuation",
+        "capital",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "gdacs_tropical_cyclones_week",
+      "name": "GDACS Tropical Cyclones Last Week",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.gdacs.org/xml/rss_tc_7d.xml",
+      "keywords": [
+        "tropical cyclone",
+        "hurricane",
+        "typhoon",
+        "storm surge",
+        "landfall",
+        "evacuation",
+        "flood",
+        "port closure"
+      ]
+    },
+    {
+      "id": "nhc_atlantic_cyclones",
+      "name": "NOAA NHC Atlantic Tropical Cyclones",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.nhc.noaa.gov/index-at.xml",
+      "keywords": [
+        "hurricane",
+        "cyclone",
+        "storm surge",
+        "landfall",
+        "evacuation",
+        "flood",
+        "port closure",
+        "energy"
+      ]
+    },
+    {
+      "id": "nhc_eastern_pacific_cyclones",
+      "name": "NOAA NHC Eastern Pacific Tropical Cyclones",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.nhc.noaa.gov/index-ep.xml",
+      "keywords": [
+        "hurricane",
+        "cyclone",
+        "storm surge",
+        "landfall",
+        "evacuation",
+        "flood",
+        "port closure"
+      ]
+    },
+    {
+      "id": "nhc_central_pacific_cyclones",
+      "name": "NOAA NHC Central Pacific Tropical Cyclones",
+      "type": "rss",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.nhc.noaa.gov/index-cp.xml",
+      "keywords": [
+        "hurricane",
+        "cyclone",
+        "storm surge",
+        "landfall",
+        "evacuation",
+        "flood",
+        "port closure"
+      ]
+    },
+    {
+      "id": "github_search_ai_security",
+      "name": "GitHub Search: AI Security Automation",
+      "type": "github_search",
+      "enabled": true,
+      "mode": "repositories",
+      "max_items": 10,
+      "query": "AI security automation privacy stars:>10 pushed:>2026-01-01",
+      "keywords": [
+        "AI",
+        "security",
+        "automation",
+        "privacy",
+        "Open Source",
+        "Produktidee",
+        "Content-Chance"
+      ]
+    },
+    {
+      "id": "github_search_agent_security",
+      "name": "GitHub Search: Agent Security",
+      "type": "github_search",
+      "enabled": true,
+      "mode": "repositories",
+      "max_items": 10,
+      "query": "AI agent security sandbox permissions stars:>10 pushed:>2026-01-01",
+      "keywords": [
+        "AI Agents",
+        "security",
+        "sandbox",
+        "permissions",
+        "Open Source",
+        "Produktidee"
+      ]
+    },
+    {
+      "id": "reddit_machinelearning",
+      "name": "Reddit r/MachineLearning Search",
+      "type": "reddit_json",
+      "enabled": false,
+      "subreddit": "MachineLearning",
+      "query": "OpenAI OR GitHub OR privacy OR automation",
+      "sort": "new",
+      "time": "week",
+      "keywords": [
+        "OpenAI",
+        "AI",
+        "GitHub",
+        "privacy",
+        "automation"
+      ]
+    },
+    {
+      "id": "reddit_cybersecurity",
+      "name": "Reddit r/cybersecurity Search",
+      "type": "reddit_json",
+      "enabled": false,
+      "subreddit": "cybersecurity",
+      "query": "GitHub OR OpenAI OR AI OR privacy OR supply chain",
+      "sort": "new",
+      "time": "week",
+      "keywords": [
+        "GitHub",
+        "OpenAI",
+        "AI",
+        "privacy",
+        "supply chain",
+        "security"
+      ]
+    },
+    {
+      "id": "gdelt_global_doc_api",
+      "name": "GDELT Global DOC API",
+      "type": "gdelt_doc_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "keywords": [
+        "capital",
+        "protest",
+        "war",
+        "sanctions",
+        "election",
+        "market",
+        "crisis",
+        "AI",
+        "cyber"
+      ]
+    },
+    {
+      "id": "reliefweb_disasters_api",
+      "name": "ReliefWeb Disaster Updates API",
+      "type": "reliefweb_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://api.reliefweb.int/v1/reports",
+      "keywords": [
+        "humanitarian",
+        "famine",
+        "refugees",
+        "displacement",
+        "cholera",
+        "food insecurity"
+      ]
+    },
+    {
+      "id": "cisa_kev_json",
+      "name": "CISA Known Exploited Vulnerabilities JSON",
+      "type": "json_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+      "keywords": [
+        "CISA KEV",
+        "actively exploited",
+        "vulnerability",
+        "emergency patch"
+      ]
+    },
+    {
+      "id": "nvd_cve_api",
+      "name": "NVD CVE API",
+      "type": "nvd_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+      "keywords": [
+        "CVE",
+        "CVSS 10",
+        "RCE",
+        "zero-day",
+        "critical vulnerability"
+      ]
+    },
+    {
+      "id": "nasa_firms_fire_api",
+      "name": "NASA FIRMS Active Fire API",
+      "type": "firms_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://firms.modaps.eosdis.nasa.gov/api/",
+      "keywords": [
+        "wildfire",
+        "active fire",
+        "smoke",
+        "evacuation",
+        "heat dome",
+        "air quality"
+      ]
+    },
+    {
+      "id": "fred_macro_api",
+      "name": "FRED Macro API",
+      "type": "fred_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://api.stlouisfed.org/fred/",
+      "keywords": [
+        "CPI",
+        "PPI",
+        "GDP",
+        "PMI",
+        "jobs report",
+        "bond yields",
+        "currency crisis"
+      ]
+    },
+    {
+      "id": "sf_open_data_events",
+      "name": "San Francisco Open Data Events",
+      "type": "socrata_api",
+      "enabled": false,
+      "requires_adapter": true,
+      "url": "https://data.sfgov.org/",
+      "keywords": [
+        "San Francisco",
+        "SF AI",
+        "startup event",
+        "hackathon",
+        "demo day",
+        "tech event"
+      ]
+    }
+  ]
+}
