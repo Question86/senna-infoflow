@@ -31,6 +31,38 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Merge hot-lane sources
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import yaml
+
+          base_path = Path("config/sources.yaml")
+          hot_path = Path("config/hot_sources.yaml")
+
+          if not hot_path.exists():
+              print("No config/hot_sources.yaml found; skipping hot-lane merge.")
+              raise SystemExit(0)
+
+          base = yaml.safe_load(base_path.read_text(encoding="utf-8")) or {}
+          hot = yaml.safe_load(hot_path.read_text(encoding="utf-8")) or {}
+
+          base_sources = list(base.get("sources") or [])
+          hot_sources = list(hot.get("sources") or [])
+          existing_ids = {str(source.get("id")) for source in base_sources if isinstance(source, dict)}
+
+          merged_hot = [
+              source
+              for source in hot_sources
+              if isinstance(source, dict) and str(source.get("id")) not in existing_ids
+          ]
+
+          base["sources"] = merged_hot + base_sources
+          base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(f"Merged {len(merged_hot)} hot-lane source(s).")
+          PY
+
       - name: Run monitor
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
