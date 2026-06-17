@@ -1,0 +1,57 @@
+# Hot-lane source overlay for senna-infoflow.
+# These sources are merged into config/sources.yaml at workflow runtime.
+# Keep this file small, official-source-heavy, and low-noise.
+
+sources:
+  - id: usgs_m45_earthquakes_hour
+    name: USGS M4.5+ Earthquakes Past Hour
+    type: rss
+    source_class: geoscience_institute
+    enabled: true
+    max_items: 20
+    url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.atom
+    keywords:
+      - earthquake
+      - tsunami warning
+      - aftershock
+      - PAGER
+      - ShakeMap
+      - infrastructure
+      - evacuation
+      - disaster
+      - hot-lane
+
+  - id: usgs_significant_earthquakes_hour
+    name: USGS Significant Earthquakes Past Hour
+    type: rss
+    source_class: geoscience_institute
+    enabled: true
+    max_items: 20
+    url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom
+    keywords:
+      - earthquake
+      - tsunami warning
+      - aftershock
+      - PAGER
+      - ShakeMap
+      - infrastructure
+      - evacuation
+      - disaster
+      - hot-lane
+
+  - id: geofon_global_recent_rss
+    name: GEOFON/GFZ Global Recent Earthquakes RSS
+    type: rss
+    source_class: geoscience_institute
+    enabled: true
+    max_items: 20
+    url: https://geofon.gfz.de/eqinfo/list.php?fmt=rss
+    keywords:
+      - earthquake
+      - tsunami warning
+      - aftershock
+      - rapid earthquake information
+      - GEOFON
+      - GFZ
+      - disaster
+      - hot-lane
