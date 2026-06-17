@@ -1,51 +1,96 @@
 {
-  "generated_at": "2026-06-17T22:38:24+00:00",
+  "generated_at": "2026-06-17T22:54:27+00:00",
   "date": "2026-06-17",
   "scope": "configured_public_sources_only",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 235,
+    "new_relevant_findings": 1,
+    "today_file_total": 236,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 0,
-    "source_errors": 5
+    "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547136",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-17T22:03:51+00:00",
+        "fetched_at": "2026-06-17T22:53:47+00:00",
+        "summary": "On 6/17/2026 9:49:26 PM, an earthquake occurred in Philippines potentially affecting 450 thousand in 100km. The earthquake had Magnitude 5M, Depth:36.071km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7df20933ffc132351c47"
+      }
+    ],
     "observe": []
   },
-  "findings": [],
-  "source_errors": [
+  "findings": [
     {
-      "source_id": "geofon_global_recent_rss",
-      "source_name": "GEOFON/GFZ Global Recent Earthquakes RSS",
+      "title": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547136",
+      "source": "GDACS All Events Last 24h",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='geofon.gfz.de', port=443): Max retries exceeded with url: /eqinfo/list.php?fmt=rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='geofon.gfz.de', port=443) at 0x7faae86715d0>, 'Connection to geofon.gfz.de timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_all_events_24h",
-      "source_name": "GDACS All Events Last 24h",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_24h.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7fb3290>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_all_events_week",
-      "source_name": "GDACS All Events Last Week",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7df5e50>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_orange_red_earthquakes",
-      "source_name": "GDACS Orange/Red Earthquakes",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_eq_3M.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7f54850>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_tropical_cyclones_week",
-      "source_name": "GDACS Tropical Cyclones Last Week",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_tc_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7faae7f18450>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
+      "published_at": "2026-06-17T22:03:51+00:00",
+      "fetched_at": "2026-06-17T22:53:47+00:00",
+      "summary": "On 6/17/2026 9:49:26 PM, an earthquake occurred in Philippines potentially affecting 450 thousand in 100km. The earthquake had Magnitude 5M, Depth:36.071km.",
+      "matched_keywords": [
+        "earthquake",
+        "GitHub",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7df20933ffc132351c47"
     }
-  ]
+  ],
+  "source_errors": []
 }

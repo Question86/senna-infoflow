@@ -1,7 +1,28 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-17T22-38-24Z",
-  "generated_at": "2026-06-17T22:38:24Z",
-  "ranked_topics": []
+  "run_id": "2026-06-17T22-54-27Z",
+  "generated_at": "2026-06-17T22:54:27Z",
+  "ranked_topics": [
+    {
+      "sample_id": "2026-06-17T22-54-27Z:earthquake:green-earthquake-magnitude-5m-depth:36.071km-in-philippin:unknown",
+      "sample_index": 5939122,
+      "timestamp_utc": "2026-06-17T22:54:27Z",
+      "run_id": "2026-06-17T22-54-27Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-5m-depth:36.071km-in-philippin:unknown",
+      "topic_label": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
+      "network_score": 16.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 16.0,
+      "trend_wucht": 18.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547136"
+      ]
+    }
+  ]
 }
