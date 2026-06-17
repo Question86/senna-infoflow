@@ -1,19 +1,23 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T20:44:40+00:00",
+  "generated_at": "2026-06-17T20:48:21+00:00",
   "entities": {
     "domain:openai.com": {
       "title": "Introducing LifeSciBench",
       "first_seen_at": "2026-06-17T20:44:40+00:00",
       "last_seen_at": "2026-06-17T20:44:40+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-17T20:44:40+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24,14 +28,18 @@
       "title": "Read remote repository content with GitHub CLI",
       "first_seen_at": "2026-06-17T20:44:40+00:00",
       "last_seen_at": "2026-06-17T20:44:40+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-17T20:44:40+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -42,10 +50,10 @@
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
       "first_seen_at": "2026-06-17T20:32:17+00:00",
       "last_seen_at": "2026-06-17T20:32:17+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T20:32:17+00:00",
@@ -53,6 +61,10 @@
         },
         {
           "at": "2026-06-17T20:44:40+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         }
       ],
@@ -64,10 +76,10 @@
       "title": "M 4.2, Near Coast of Northern Chile",
       "first_seen_at": "2026-06-17T20:32:17+00:00",
       "last_seen_at": "2026-06-17T20:32:17+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T20:32:17+00:00",
@@ -75,6 +87,10 @@
         },
         {
           "at": "2026-06-17T20:44:40+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         }
       ],
@@ -86,10 +102,10 @@
       "title": "M 5.2, South Sandwich Islands Region",
       "first_seen_at": "2026-06-17T20:32:17+00:00",
       "last_seen_at": "2026-06-17T20:32:17+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T20:32:17+00:00",
@@ -97,6 +113,10 @@
         },
         {
           "at": "2026-06-17T20:44:40+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         }
       ],
@@ -108,10 +128,10 @@
       "title": "M 4.9, Solomon Islands",
       "first_seen_at": "2026-06-17T20:32:17+00:00",
       "last_seen_at": "2026-06-17T20:32:17+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T20:32:17+00:00",
@@ -119,6 +139,10 @@
         },
         {
           "at": "2026-06-17T20:44:40+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         }
       ],
@@ -130,10 +154,10 @@
       "title": "M 4.4, Chiapas, Mexico",
       "first_seen_at": "2026-06-17T20:32:17+00:00",
       "last_seen_at": "2026-06-17T20:32:17+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T20:32:17+00:00",
@@ -141,6 +165,10 @@
         },
         {
           "at": "2026-06-17T20:44:40+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         }
       ],
@@ -152,10 +180,10 @@
       "title": "M 4.9 - South Sandwich Islands region",
       "first_seen_at": "2026-06-17T20:32:17+00:00",
       "last_seen_at": "2026-06-17T20:32:17+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T20:32:17+00:00",
@@ -163,6 +191,10 @@
         },
         {
           "at": "2026-06-17T20:44:40+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         }
       ],

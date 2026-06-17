@@ -1,105 +1,20 @@
 {
-  "generated_at": "2026-06-17T20:44:39+00:00",
+  "generated_at": "2026-06-17T20:48:21+00:00",
   "date": "2026-06-17",
   "scope": "configured_public_sources_only",
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 226,
     "high": 0,
-    "medium": 1,
-    "observe": 1,
+    "medium": 0,
+    "observe": 0,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [
-      {
-        "title": "Introducing LifeSciBench",
-        "url": "https://openai.com/index/introducing-life-sci-bench",
-        "source": "OpenAI News RSS",
-        "source_type": "rss",
-        "published_at": "2026-06-17T00:00:00+00:00",
-        "fetched_at": "2026-06-17T20:44:04+00:00",
-        "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-        "matched_keywords": [
-          "AI/KI",
-          "OpenAI"
-        ],
-        "relevance_score": 14,
-        "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
-        "risk_or_opportunity": "observation",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": [],
-        "market_context": [],
-        "id": "9889d700bb84f5be4d26"
-      }
-    ],
-    "observe": [
-      {
-        "title": "Read remote repository content with GitHub CLI",
-        "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-        "source": "GitHub Changelog Atom",
-        "source_type": "rss",
-        "published_at": "2026-06-17T20:03:57+00:00",
-        "fetched_at": "2026-06-17T20:44:04+00:00",
-        "summary": "Explore repository content from your terminal without cloning by using two new commands: gh repo read-file and gh repo read-dir. What you can do Use gh repo read-file to read… The post Read remote repository content with GitHub CLI appeared first on The GitHub Blog .",
-        "matched_keywords": [
-          "GitHub"
-        ],
-        "relevance_score": 10,
-        "relevance_reason": "GitHub (+8.4); recent (+2.0)",
-        "risk_or_opportunity": "observation",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": [],
-        "market_context": [],
-        "id": "ca8ab95625108139c4f8"
-      }
-    ]
+    "medium": [],
+    "observe": []
   },
-  "findings": [
-    {
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "fetched_at": "2026-06-17T20:44:04+00:00",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9889d700bb84f5be4d26"
-    },
-    {
-      "title": "Read remote repository content with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-17T20:03:57+00:00",
-      "fetched_at": "2026-06-17T20:44:04+00:00",
-      "summary": "Explore repository content from your terminal without cloning by using two new commands: gh repo read-file and gh repo read-dir. What you can do Use gh repo read-file to read… The post Read remote repository content with GitHub CLI appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub (+8.4); recent (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ca8ab95625108139c4f8"
-    }
-  ],
+  "findings": [],
   "source_errors": []
 }
