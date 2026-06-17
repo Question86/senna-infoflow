@@ -57,18 +57,18 @@ jobs:
 
           base["sources"] = merged_hot + base_sources
           base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          print(f"Merged {len(merged_hot)} hot-lane source(s).")
+          print(f"Reset merged config with {len(merged_hot)} hot-lane source(s).")
           PY
 
       - name: Validate monitor configuration
         run: python scripts/validate_config.py
 
-      - name: Run monitor
+      - name: Run hardened monitor
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
+          USER_AGENT: senna-inflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 20
-        run: python scripts/monitor.py
+        run: python scripts/run_monitor_hardened.py
 
       - name: Run network hub postprocess
         run: python scripts/network_hub_postprocess.py
@@ -82,7 +82,7 @@ jobs:
       - name: Commit generated briefings
         run: |
           git config user.name "senna-inflow[bot]"
-          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
+          git config user.email "senna-inflow[bot]@users.noreply.github.com"
 
           git add data/ briefings/ reports/ state/
 
