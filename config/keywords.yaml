@@ -8,17 +8,37 @@ keywords:
     categories: ["identity", "reputation", "company"]
 
   - term: User Yps
-    aliases: ["User Yps", "\"User Yps\""]
+    aliases: ["User Yps"]
     weight: 12
     categories: ["identity", "personal"]
 
+  - term: Question86
+    aliases: ["Question86", "Q86", "github.com/Question86"]
+    weight: 10
+    categories: ["identity", "github", "reputation"]
+
+  - term: senna-infoflow
+    aliases: ["senna-infoflow", "Senna Infoflow", "senna infoflow"]
+    weight: 10
+    categories: ["project", "monitoring", "reputation"]
+
   - term: GitHub
-    aliases: ["GitHub", "github.com", "GitHub Actions", "repository", "repo"]
+    aliases: ["GitHub", "github.com", "repository", "repo"]
     weight: 5
     categories: ["platform", "engineering"]
 
+  - term: GitHub Actions
+    aliases: ["GitHub Actions", "workflow_dispatch", "actions/checkout", "CI", "cron"]
+    weight: 6
+    categories: ["platform", "automation", "devops"]
+
+  - term: CodeQL/Dependabot
+    aliases: ["CodeQL", "Dependabot", "code scanning", "secret scanning", "security advisory"]
+    weight: 7
+    categories: ["security", "github", "supply_chain"]
+
   - term: OpenAI
-    aliases: ["OpenAI", "ChatGPT", "GPT", "Custom GPT", "Assistants API"]
+    aliases: ["OpenAI", "ChatGPT", "GPT", "Custom GPT", "Assistants API", "Responses API", "Codex"]
     weight: 6
     categories: ["ai", "platform"]
 
@@ -27,18 +47,33 @@ keywords:
     weight: 5
     categories: ["ai"]
 
+  - term: AI Agents
+    aliases: ["AI agent", "AI agents", "agentic", "agentic workflow", "tool calling", "MCP server", "autonomous agent", "computer use"]
+    weight: 6
+    categories: ["ai", "automation", "product"]
+
+  - term: Local-first AI
+    aliases: ["local-first AI", "privacy-first AI", "offline LLM", "local LLM", "on-device AI", "private agents", "self-hosted AI"]
+    weight: 6
+    categories: ["ai", "privacy", "product"]
+
   - term: Security
-    aliases: ["security", "cybersecurity", "cyber security", "infosec", "CVE", "vulnerability", "exploit", "supply chain", "phishing", "ransomware"]
+    aliases: ["security", "cybersecurity", "cyber security", "infosec", "CVE", "vulnerability", "exploit", "phishing", "ransomware", "malware", "breach"]
     weight: 6
     categories: ["security", "risk"]
 
+  - term: Supply Chain Security
+    aliases: ["supply chain", "dependency confusion", "typosquatting", "package compromise", "npm compromise", "PyPI", "dependency hijacking", "maintainer account"]
+    weight: 8
+    categories: ["security", "open_source", "risk"]
+
   - term: Datenschutz
-    aliases: ["Datenschutz", "privacy", "GDPR", "DSGVO", "data protection", "personenbezogene Daten"]
+    aliases: ["Datenschutz", "privacy", "GDPR", "DSGVO", "data protection", "personenbezogene Daten", "PII"]
     weight: 6
     categories: ["privacy", "legal"]
 
   - term: Webentwicklung
-    aliases: ["Webentwicklung", "web development", "frontend", "backend", "API", "deployment", "hosting", "website"]
+    aliases: ["Webentwicklung", "web development", "frontend", "backend", "API", "deployment", "hosting", "website", "web app"]
     weight: 4
     categories: ["engineering", "web"]
 
@@ -48,21 +83,21 @@ keywords:
     categories: ["open_source", "engineering"]
 
   - term: Automatisierung
-    aliases: ["Automatisierung", "automation", "workflow", "GitHub Actions", "cron", "agentic workflow", "Zapier", "n8n"]
+    aliases: ["Automatisierung", "automation", "workflow", "cron", "Zapier", "n8n"]
     weight: 5
     categories: ["automation", "productivity"]
 
   - term: Reputationsrisiko
-    aliases: ["reputation", "reputational risk", "brand risk", "Kritik", "Shitstorm", "misinformation", "Impersonation", "fake account"]
+    aliases: ["reputation", "reputational risk", "brand risk", "Kritik", "Shitstorm", "misinformation", "impersonation", "fake account", "scam", "fraud"]
     weight: 7
     categories: ["risk", "reputation"]
 
   - term: Produktidee
-    aliases: ["product idea", "Produktidee", "pain point", "feature request", "market gap", "use case"]
+    aliases: ["product idea", "Produktidee", "pain point", "feature request", "market gap", "use case", "workflow gap"]
     weight: 6
     categories: ["opportunity", "product"]
 
   - term: Content-Chance
-    aliases: ["content opportunity", "Content-Chance", "blog topic", "tutorial", "case study", "how to", "guide"]
+    aliases: ["content opportunity", "Content-Chance", "blog topic", "tutorial", "case study", "how to", "guide", "explainer"]
     weight: 5
     categories: ["opportunity", "content"]
