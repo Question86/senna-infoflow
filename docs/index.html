@@ -1,0 +1,42 @@
+<!doctype html><meta charset=utf-8><title>Senna Action Console</title><style>body{background:#090d13;color:#eaf0f7;font-family:system-ui;margin:0;padding:20px}main{display:grid;grid-template-columns:1fr 1fr;gap:12px}section{border:1px solid #2d384a;border-radius:14px;padding:12px;background:#111722}.item{border:1px solid #334057;border-radius:12px;padding:10px;margin:8px 0;cursor:pointer}.sel{border-color:#8ac7ff}.tag{color:#9fb0c2;font-size:12px}.score{color:#f4c76e;font-weight:800}textarea{width:100%;min-height:220px;background:#070b11;color:#eaf0f7;border:1px solid #2d384a;border-radius:12px;padding:10px}</style><h1>Senna Action Console</h1><p>Live aus <code>Question86/senna-inflow</code>. Lesen, bewerten, Handlungsmappe vorbereiten. Keine automatische Reaktion.</p><button onclick=load()>Aktualisieren</button> <button onclick=copyResearch()>Rechercheauftrag kopieren</button> <a href=https://github.com/Question86/senna-inflow target=_blank>Repo</a><main><section><h2>Briefing</h2><div id=meta>Lade...</div><div id=list></div></section><section><h2>Handlungsmappe</h2><div id=detail>Event auswählen.</div><h3>Szenarien</h3><div id=scenarios></div><h3>Rechercheauftrag</h3><textarea id=research></textarea></section></main><section><h2>Run Atom</h2><pre id=atom></pre></section><script>
+const RAW='https://raw.githubusercontent.com/Question86/senna-inflow/main/';let L,N,A,items=[],sel=null;
+async function j(p){let r=await fetch(RAW+p+'?cb='+Date.now());return r.ok?await r.json():null}
+async function t(p){let r=await fetch(RAW+p+'?cb='+Date.now());return r.ok?await r.text():''}
+function e(x){return (x==null?'':String(x)).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+function score(x){return Number(x?.relevance_score??x?.network_score??x?.max_score??0)}
+async function load(){L=await j('briefings/latest.json');N=await j('briefings/network.json');A=await t('reports/latest_atom.md');let s=L?.sections||{};items=[...(s.high||[]),...(s.medium||[]),...(s.observe||[])].map(x=>({...x,kind:'finding'}));items.push(...(N?.clusters||[]).map(c=>({...c,kind:'cluster',relevance_score:c.network_score??c.max_score,source:c.sources?.join(', '),url:c.urls?.[0],summary:'Cluster: '+(c.finding_count??'?')+' Findings, Momentum '+(c.momentum_status||'unknown')})));items.sort((a,b)=>score(b)-score(a));if(!sel&&items[0])sel=items[0];render()}
+function render(){let c=L?.counts||{};meta.innerHTML=`generated: <b>${e(L?.generated_at)}</b><br>new ${c.new_relevant_findings??'-'} | high ${c.high??'-'} | medium ${c.medium??'-'} | errors ${c.source_errors??'-'}`;list.innerHTML=items.map((x,i)=>`<div class="item ${x===sel?'sel':''}" onclick="sel=items[${i}];render()"><b>${e(x.title||x.key)}</b><br><span class=tag>${e(x.kind)} | ${e(x.source||x.sources?.join(', ')||'source?')} | </span><span class=score>Score ${score(x)}</span><p>${e(x.summary||x.relevance_reason||'')}</p></div>`).join('')||'Keine Treffer.';atom.textContent=(A||'').slice(0,3500);show()}
+function show(){if(!sel){detail.textContent='Event auswählen.';return}detail.innerHTML=`<h3>${e(sel.title||sel.key)}</h3><p><span class=score>Score ${score(sel)}</span> | ${e(sel.source||sel.sources?.join(', ')||'')}</p><p>${e(sel.summary||'')}</p>${sel.url?`<p><a href="${e(sel.url)}" target=_blank>Quelle öffnen</a></p>`:''}<p>${e(sel.relevance_reason||sel.recommended_action||'')}</p>`;scenarios.innerHTML=scenario(sel);research.value=promptFor(sel)}
+function scenario(x){let s=score(x);return['leicht','mittel','stark'].map((n,i)=>`<div class=item><b>${n.toUpperCase()} Verlauf | Szenario-Score ${Math.round(s*[.6,1,1.6][i])}</b><br>Chance: ${['Informationsvorsprung sichern','Positionierung/Notiz vorbereiten','sichtbare Expertise/Reaktionsfenster'][i]}<br>Risiko: ${['Falschalarm','Timing/fehlende Bestätigung','zu späte Reaktion'][i]}<br>Indikatoren: weitere Quellen, Score-Anstieg, Atom-Wiederholung, Cross-Source.<br>Aktion: ${['Quelle sichern, beobachten','2-3 Quellen prüfen, Kurznotiz','Lagebild + Reaktionsentwurf'][i]}.</div>`).join('')}
+function promptFor(x){return `RECHERCHEAUFTRAG — Senna Action Console
+
+Event:
+${x.title||x.key||''}
+
+Quelle(n):
+${x.source||x.sources?.join(', ')||''}
+
+URL:
+${x.url||x.urls?.[0]||''}
+
+Senna-Score: ${score(x)}
+
+Kurzlage:
+${x.summary||''}
+
+Auftrag:
+Recherchiere öffentlich und quellenkritisch alles Wesentliche zu diesem Event. Keine privaten Daten, kein Doxxing, keine illegalen Zugriffe.
+
+Liefer:
+1. Was ist gesichert?
+2. Was ist wahrscheinlich?
+3. Quellen, die bestätigen oder widersprechen.
+4. Frühindikatoren für Eskalation/Entwarnung.
+5. Chancen für Yps / AXI0M.
+6. Risiken für Yps / AXI0M.
+7. Szenarien: leicht / mittel / stark.
+8. Empfohlene nächste Handlung.
+9. Was nicht getan werden sollte.`}
+function copyResearch(){navigator.clipboard.writeText(research.value).then(()=>alert('Kopiert.'))}
+load();setInterval(load,60000);
+</script>
