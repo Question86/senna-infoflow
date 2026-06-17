@@ -86,7 +86,7 @@ Das System prüft keine privaten Accounts, keine geschlossenen Communities, kein
 Voraussetzung: Python 3.11 oder neuer.
 
 ```bash
-git clone <dein-repo-url> senna-infoflow
+git clone https://github.com/Question86/senna-infoflow.git senna-infoflow
 cd senna-infoflow
 
 python -m venv .venv
