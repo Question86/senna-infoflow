@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-17T20-44-39Z",
+  "generated_at": "2026-06-17T20:44:39Z",
+  "latest": {
+    "generated_at": "2026-06-17T20:44:39+00:00",
+    "date": "2026-06-17",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 2,
+      "today_file_total": 226,
+      "high": 0,
+      "medium": 1,
+      "observe": 1,
+      "source_errors": 0
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "Introducing LifeSciBench",
+          "url": "https://openai.com/index/introducing-life-sci-bench",
+          "source": "OpenAI News RSS",
+          "source_type": "rss",
+          "published_at": "2026-06-17T00:00:00+00:00",
+          "fetched_at": "2026-06-17T20:44:04+00:00",
+          "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+          "matched_keywords": [
+            "AI/KI",
+            "OpenAI"
+          ],
+          "relevance_score": 14,
+          "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "9889d700bb84f5be4d26"
+        }
+      ],
+      "observe": [
+        {
+          "title": "Read remote repository content with GitHub CLI",
+          "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
+          "source": "GitHub Changelog Atom",
+          "source_type": "rss",
+          "published_at": "2026-06-17T20:03:57+00:00",
+          "fetched_at": "2026-06-17T20:44:04+00:00",
+          "summary": "Explore repository content from your terminal without cloning by using two new commands: gh repo read-file and gh repo read-dir. What you can do Use gh repo read-file to read… The post Read remote repository content with GitHub CLI appeared first on The GitHub Blog .",
+          "matched_keywords": [
+            "GitHub"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+8.4); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "ca8ab95625108139c4f8"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "Introducing LifeSciBench",
+        "url": "https://openai.com/index/introducing-life-sci-bench",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-06-17T00:00:00+00:00",
+        "fetched_at": "2026-06-17T20:44:04+00:00",
+        "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9889d700bb84f5be4d26"
+      },
+      {
+        "title": "Read remote repository content with GitHub CLI",
+        "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-17T20:03:57+00:00",
+        "fetched_at": "2026-06-17T20:44:04+00:00",
+        "summary": "Explore repository content from your terminal without cloning by using two new commands: gh repo read-file and gh repo read-dir. What you can do Use gh repo read-file to read… The post Read remote repository content with GitHub CLI appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+8.4); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca8ab95625108139c4f8"
+      }
+    ],
+    "source_errors": []
+  },
+  "network": {
+    "generated_at": "2026-06-17T20:44:40+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 2,
+      "clusters": 2,
+      "cross_source_confrmed": 0,
+      "hot": 0
+    },
+    "clusters": [
+      {
+        "key": "domain:openai.com",
+        "title": "Introducing LifeSciBench",
+        "sources": [
+          "OpenAI News RSS"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://openai.com/index/introducing-life-sci-bench"
+        ],
+        "finding_count": 1,
+        "max_score": 14,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 19.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "title:read-remote-repository-content-github-cli",
+        "title": "Read remote repository content with GitHub CLI",
+        "sources": [
+          "GitHub Changelog Atom"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-17T20-44-39Z:title:introducing-lifescibench",
+      "sample_index": 5939096,
+      "timestamp_utc": "2026-06-17T20:44:39Z",
+      "run_id": "2026-06-17T20-44-39Z",
+      "topic_key": "title:introducing-lifescibench",
+      "topic_label": "Introducing LifeSciBench",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://openai.com/index/introducing-life-sci-bench"
+      ]
+    },
+    {
+      "sample_id": "2026-06-17T20-44-39Z:title:read-remote-repository-content-with-github-cli",
+      "sample_index": 5939096,
+      "timestamp_utc": "2026-06-17T20:44:39Z",
+      "run_id": "2026-06-17T20-44-39Z",
+      "topic_key": "title:read-remote-repository-content-with-github-cli",
+      "topic_label": "Read remote repository content with GitHub CLI",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli"
+      ]
+    }
+  ]
+}

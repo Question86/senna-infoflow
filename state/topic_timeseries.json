@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-17T20:44:39Z",
+  "topics": {
+    "title:introducing-lifescibench": {
+      "topic_key": "title:introducing-lifescibench",
+      "topic_label": "Introducing LifeSciBench",
+      "last_seen_at": "2026-06-17T20:44:39Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T20-44-39Z:title:introducing-lifescibench",
+          "sample_index": 5939096,
+          "timestamp_utc": "2026-06-17T20:44:39Z",
+          "run_id": "2026-06-17T20-44-39Z",
+          "topic_key": "title:introducing-lifescibench",
+          "topic_label": "Introducing LifeSciBench",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "OpenAI News RSS"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://openai.com/index/introducing-life-sci-bench"
+          ]
+        }
+      ]
+    },
+    "title:read-remote-repository-content-with-github-cli": {
+      "topic_key": "title:read-remote-repository-content-with-github-cli",
+      "topic_label": "Read remote repository content with GitHub CLI",
+      "last_seen_at": "2026-06-17T20:44:39Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T20-44-39Z:title:read-remote-repository-content-with-github-cli",
+          "sample_index": 5939096,
+          "timestamp_utc": "2026-06-17T20:44:39Z",
+          "run_id": "2026-06-17T20-44-39Z",
+          "topic_key": "title:read-remote-repository-content-with-github-cli",
+          "topic_label": "Read remote repository content with GitHub CLI",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli"
+          ]
+        }
+      ]
+    }
+  }
+}
