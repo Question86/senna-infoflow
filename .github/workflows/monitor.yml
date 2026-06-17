@@ -1,4 +1,4 @@
-name: Senna Inflow Monitor
+name: Senna Infoflow Monitor
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: senna-inflow-monitor
+  group: senna-infoflow-monitor
   cancel-in-progress: false
 
 jobs:
@@ -34,7 +34,7 @@ jobs:
       - name: Run monitor
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_AGENT: senna-inflow/1.0 (+https://github.com/${{ github.repository }})
+          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 20
         run: python scripts/monitor.py
 
