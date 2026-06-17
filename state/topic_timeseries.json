@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-17T20:48:21Z",
+  "generated_at": "2026-06-17T21:31:36Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -54,6 +54,174 @@
           "status": "emerging",
           "urls": [
             "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli"
+          ]
+        }
+      ]
+    },
+    "title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization": {
+      "topic_key": "title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization",
+      "topic_label": "Google to use UK and EU user IP addresses for ad personalization",
+      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_trend_wucht": 13.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-31-36Z:title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization",
+          "sample_index": 5939106,
+          "timestamp_utc": "2026-06-17T21:31:36Z",
+          "run_id": "2026-06-17T21-31-36Z",
+          "topic_key": "title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization",
+          "topic_label": "Google to use UK and EU user IP addresses for ad personalization",
+          "network_score": 11.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "score_delta_5m": 11.0,
+          "trend_wucht": 13.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/"
+          ]
+        }
+      ]
+    },
+    "title:tropical-storm-arthur-forecast-discussion-number-7": {
+      "topic_key": "title:tropical-storm-arthur-forecast-discussion-number-7",
+      "topic_label": "Tropical Storm Arthur Forecast Discussion Number 7",
+      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-31-36Z:title:tropical-storm-arthur-forecast-discussion-number-7",
+          "sample_index": 5939106,
+          "timestamp_utc": "2026-06-17T21:31:36Z",
+          "run_id": "2026-06-17T21-31-36Z",
+          "topic_key": "title:tropical-storm-arthur-forecast-discussion-number-7",
+          "topic_label": "Tropical Storm Arthur Forecast Discussion Number 7",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "NOAA NHC Atlantic Tropical Cyclones"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/172054.shtml"
+          ]
+        }
+      ]
+    },
+    "title:tropical-storm-arthur-wind-speed-probabilities-number-7": {
+      "topic_key": "title:tropical-storm-arthur-wind-speed-probabilities-number-7",
+      "topic_label": "Tropical Storm Arthur Wind Speed Probabilities Number 7",
+      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-31-36Z:title:tropical-storm-arthur-wind-speed-probabilities-number-7",
+          "sample_index": 5939106,
+          "timestamp_utc": "2026-06-17T21:31:36Z",
+          "run_id": "2026-06-17T21-31-36Z",
+          "topic_key": "title:tropical-storm-arthur-wind-speed-probabilities-number-7",
+          "topic_label": "Tropical Storm Arthur Wind Speed Probabilities Number 7",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "NOAA NHC Atlantic Tropical Cyclones"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/172053.shtml"
+          ]
+        }
+      ]
+    },
+    "title:summary-for-tropical-storm-arthur-at1-al012026": {
+      "topic_key": "title:summary-for-tropical-storm-arthur-at1-al012026",
+      "topic_label": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-31-36Z:title:summary-for-tropical-storm-arthur-at1-al012026",
+          "sample_index": 5939106,
+          "timestamp_utc": "2026-06-17T21:31:36Z",
+          "run_id": "2026-06-17T21-31-36Z",
+          "topic_key": "title:summary-for-tropical-storm-arthur-at1-al012026",
+          "topic_label": "Summary for Tropical Storm Arthur (AT1/AL012026)",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "NOAA NHC Atlantic Tropical Cyclones"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172052.shtml"
+          ]
+        }
+      ]
+    },
+    "title:tropical-storm-arthur-forecast-advisory-number-7": {
+      "topic_key": "title:tropical-storm-arthur-forecast-advisory-number-7",
+      "topic_label": "Tropical Storm Arthur Forecast Advisory Number 7",
+      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-31-36Z:title:tropical-storm-arthur-forecast-advisory-number-7",
+          "sample_index": 5939106,
+          "timestamp_utc": "2026-06-17T21:31:36Z",
+          "run_id": "2026-06-17T21-31-36Z",
+          "topic_key": "title:tropical-storm-arthur-forecast-advisory-number-7",
+          "topic_label": "Tropical Storm Arthur Forecast Advisory Number 7",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "NOAA NHC Atlantic Tropical Cyclones"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/172051.shtml"
+          ]
+        }
+      ]
+    },
+    "title:tropical-storm-arthur-graphics": {
+      "topic_key": "title:tropical-storm-arthur-graphics",
+      "topic_label": "Tropical Storm Arthur Graphics",
+      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T21-31-36Z:title:tropical-storm-arthur-graphics",
+          "sample_index": 5939106,
+          "timestamp_utc": "2026-06-17T21:31:36Z",
+          "run_id": "2026-06-17T21-31-36Z",
+          "topic_key": "title:tropical-storm-arthur-graphics",
+          "topic_label": "Tropical Storm Arthur Graphics",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "NOAA NHC Atlantic Tropical Cyclones"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/212600.shtml?cone"
           ]
         }
       ]

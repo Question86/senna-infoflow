@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T20:48:21+00:00",
+  "generated_at": "2026-06-17T21:31:36+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -88,6 +88,28 @@
       "rolling_average": 15.1,
       "rolling_peak": 15.1,
       "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "storm:arthur": {
+      "title": "Tropical Storm Arthur Forecast Discussion Number 7",
+      "updated_at": "2026-06-17T21:31:36+00:00",
+      "network_scores": [
+        37.5
+      ],
+      "rolling_average": 37.5,
+      "rolling_peak": 37.5,
+      "last_score": 37.5,
+      "z_hint": 0.0
+    },
+    "domain:www.bleepingcomputer.com": {
+      "title": "Google to use UK and EU user IP addresses for ad personalization",
+      "updated_at": "2026-06-17T21:31:36+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
       "z_hint": 0.0
     }
   }
