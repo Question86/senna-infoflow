@@ -2726,6 +2726,43 @@
     "id": "2c3ad2bd798f8ef7e4a1"
   },
   {
+    "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547109",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-17T20:08:25+00:00",
+    "fetched_at": "2026-06-17T20:31:36+00:00",
+    "summary": "On 6/17/2026 7:48:25 PM, an earthquake occurred in South Sandwich Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 4.9M, Depth:10km.",
+    "matched_keywords": [
+      "earthquake",
+      "GitHub",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "09ad557c6921fb38a16b"
+  },
+  {
     "title": "Getting more from each token: How Copilot improves context handling and model routing",
     "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
     "source": "GitHub Blog Atom",
@@ -4058,6 +4095,44 @@
     "id": "d35cd3c1ca1f914858c2"
   },
   {
+    "title": "M 4.2, Near Coast of Northern Chile",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lujt",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T20:31:36+00:00",
+    "summary": "2026-06-17 16:32:02 -25.48 -70.66 50 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "41b7d1cb7e77b8e641c0"
+  },
+  {
     "title": "M 3.6, Chile-Bolivia Border Region",
     "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lupc",
     "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
@@ -4613,6 +4688,44 @@
     "id": "22036595c3e5d27840c5"
   },
   {
+    "title": "M 5.2, South Sandwich Islands Region",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqf",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T20:31:36+00:00",
+    "summary": "2026-06-17 19:48:26 -55.78 -26.14 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b7ff04a190facdab542d"
+  },
+  {
     "title": "M 5.0, Vanuatu Islands",
     "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lufl",
     "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
@@ -4689,6 +4802,44 @@
     "id": "52b987db8dfa6bf4e7c2"
   },
   {
+    "title": "M 4.9, Solomon Islands",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lulr",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T20:31:36+00:00",
+    "summary": "2026-06-17 17:30:51 -6.36 154.74 95 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b7de4d70ac64c70ea464"
+  },
+  {
     "title": "M 4.8, South of Fiji Islands",
     "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltjg",
     "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
@@ -4763,6 +4914,44 @@
       "LOW"
     ],
     "id": "9497cd9abd4446e86526"
+  },
+  {
+    "title": "M 4.4, Chiapas, Mexico",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luht",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T20:31:36+00:00",
+    "summary": "2026-06-17 15:32:20 17.27 -93.91 164 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8bba22add5ca367d3304"
   },
   {
     "title": "M 2.6, Poland",
@@ -5589,6 +5778,42 @@
       "EWZ"
     ],
     "id": "3757724d359a32d9427a"
+  },
+  {
+    "title": "M 4.9 - South Sandwich Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su4d",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-17T20:05:59.040+00:00",
+    "fetched_at": "2026-06-17T20:31:36+00:00",
+    "summary": "Time 2026-06-17 19:48:25 UTC 2026-06-17 19:48:25 UTC at epicenter Location 55.730°S 26.033°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "52ea61062c9d56b95d92"
   },
   {
     "title": "Tropical Storm Arthur Graphics",
