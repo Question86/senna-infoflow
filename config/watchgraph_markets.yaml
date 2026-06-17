@@ -1,0 +1,205 @@
+# Watchgraph market/context baskets. JSON ist gültiges YAML. Keine Anlageberatung.
+
+{
+  "meta": {
+    "purpose": "Market/context baskets for Watchgraph modules. Monitoring context, not investment advice."
+  },
+  "baskets": {
+    "defense_war": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "BA",
+      "RHM.DE"
+    ],
+    "energy_oil_gas_uranium": [
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "insurance_disaster": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB"
+    ],
+    "construction_rebuild": [
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "agriculture_food": [
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "shipping_supply": [
+      "MAERSK-B.CO",
+      "ZIM",
+      "MATX",
+      "WMT",
+      "TGT",
+      "AMZN"
+    ],
+    "cybersecurity": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "dev_infra": [
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM"
+    ],
+    "ai_compute": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T"
+    ],
+    "macro_region_etfs": [
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "platform_reputation": [
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "travel_sports_events": [
+      "DIS",
+      "CMCSA",
+      "TKO",
+      "FWONK",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "AAL"
+    ]
+  },
+  "module_to_baskets": {
+    "capitals_power_centers": [
+      "defense_war",
+      "macro_region_etfs"
+    ],
+    "elections_unrest": [
+      "defense_war",
+      "platform_reputation",
+      "macro_region_etfs"
+    ],
+    "war_escalation_sanctions": [
+      "defense_war",
+      "energy_oil_gas_uranium"
+    ],
+    "global_calendar_summits": [
+      "macro_region_etfs",
+      "energy_oil_gas_uranium",
+      "ai_compute"
+    ],
+    "earthquakes_tsunami": [
+      "insurance_disaster",
+      "construction_rebuild"
+    ],
+    "volcano_aviation": [
+      "insurance_disaster",
+      "travel_sports_events"
+    ],
+    "storms_floods_weather": [
+      "insurance_disaster",
+      "construction_rebuild",
+      "energy_oil_gas_uranium"
+    ],
+    "wildfire_heat_drought": [
+      "insurance_disaster",
+      "agriculture_food"
+    ],
+    "humanitarian_migration_food_water": [
+      "agriculture_food",
+      "shipping_supply"
+    ],
+    "public_health_biosecurity": [
+      "PFE",
+      "MRNA",
+      "BNTX",
+      "GSK",
+      "AZN",
+      "TMO",
+      "DHR"
+    ],
+    "energy_oil_gas_power_uranium": [
+      "energy_oil_gas_uranium"
+    ],
+    "agriculture_food_fertilizer": [
+      "agriculture_food"
+    ],
+    "shipping_chokepoints_supply_chain": [
+      "shipping_supply",
+      "energy_oil_gas_uranium"
+    ],
+    "cyber_active_exploitation": [
+      "cybersecurity"
+    ],
+    "software_supply_chain": [
+      "cybersecurity",
+      "dev_infra"
+    ],
+    "ai_agents_workflow": [
+      "ai_compute",
+      "dev_infra",
+      "platform_reputation"
+    ],
+    "chips_compute_datacenters": [
+      "ai_compute",
+      "energy_oil_gas_uranium"
+    ],
+    "macro_fx_company_numbers": [
+      "macro_region_etfs"
+    ],
+    "narrative_social_reputation": [
+      "platform_reputation"
+    ],
+    "sports_sf_tech_events": [
+      "travel_sports_events",
+      "platform_reputation"
+    ]
+  }
+}
