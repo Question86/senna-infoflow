@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-17T21:54:22Z",
+  "generated_at": "2026-06-17T22:13:10Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -250,6 +250,62 @@
           "status": "emerging",
           "urls": [
             "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luro"
+          ]
+        }
+      ]
+    },
+    "title:m-5.1-mindanao-philippines": {
+      "topic_key": "title:m-5.1-mindanao-philippines",
+      "topic_label": "M 5.1, Mindanao, Philippines",
+      "last_seen_at": "2026-06-17T22:13:10Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T22-13-10Z:title:m-5.1-mindanao-philippines",
+          "sample_index": 5939114,
+          "timestamp_utc": "2026-06-17T22:13:10Z",
+          "run_id": "2026-06-17T22-13-10Z",
+          "topic_key": "title:m-5.1-mindanao-philippines",
+          "topic_label": "M 5.1, Mindanao, Philippines",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luuf"
+          ]
+        }
+      ]
+    },
+    "earthquake:m-5.0-68-km-ese-of-bobon-philippines:5.0": {
+      "topic_key": "earthquake:m-5.0-68-km-ese-of-bobon-philippines:5.0",
+      "topic_label": "M 5.0 - 68 km ESE of Bobon, Philippines",
+      "last_seen_at": "2026-06-17T22:13:10Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-17T22-13-10Z:earthquake:m-5.0-68-km-ese-of-bobon-philippines:5.0",
+          "sample_index": 5939114,
+          "timestamp_utc": "2026-06-17T22:13:10Z",
+          "run_id": "2026-06-17T22-13-10Z",
+          "topic_key": "earthquake:m-5.0-68-km-ese-of-bobon-philippines:5.0",
+          "topic_label": "M 5.0 - 68 km ESE of Bobon, Philippines",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su6s"
           ]
         }
       ]

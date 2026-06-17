@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T21:54:22+00:00",
+  "generated_at": "2026-06-17T22:13:10+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -121,6 +121,28 @@
       "rolling_average": 17.7,
       "rolling_peak": 17.7,
       "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "earthquake:philippines:5.1": {
+      "title": "M 5.1, Mindanao, Philippines",
+      "updated_at": "2026-06-17T22:13:10+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "earthquake:philippines:5.0": {
+      "title": "M 5.0 - 68 km ESE of Bobon, Philippines",
+      "updated_at": "2026-06-17T22:13:10+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }

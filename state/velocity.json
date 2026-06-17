@@ -1,19 +1,59 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T21:54:22+00:00",
+  "generated_at": "2026-06-17T22:13:10+00:00",
   "entities": {
-    "earthquake:chile:3.8": {
-      "title": "M 3.8, Northern Chile",
-      "first_seen_at": "2026-06-17T21:54:22+00:00",
-      "last_seen_at": "2026-06-17T21:54:22+00:00",
+    "earthquake:philippines:5.1": {
+      "title": "M 5.1, Mindanao, Philippines",
+      "first_seen_at": "2026-06-17T22:13:10+00:00",
+      "last_seen_at": "2026-06-17T22:13:10+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ]
+    },
+    "earthquake:philippines:5.0": {
+      "title": "M 5.0 - 68 km ESE of Bobon, Philippines",
+      "first_seen_at": "2026-06-17T22:13:10+00:00",
+      "last_seen_at": "2026-06-17T22:13:10+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ]
+    },
+    "earthquake:chile:3.8": {
+      "title": "M 3.8, Northern Chile",
+      "first_seen_at": "2026-06-17T21:54:22+00:00",
+      "last_seen_at": "2026-06-17T21:54:22+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
           "at": "2026-06-17T21:54:22+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24,10 +64,10 @@
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
       "last_seen_at": "2026-06-17T21:31:36+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T21:31:36+00:00",
@@ -35,6 +75,10 @@
         },
         {
           "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
           "count": 0
         }
       ],
@@ -46,10 +90,10 @@
       "title": "Tropical Storm Arthur Forecast Discussion Number 7",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
       "last_seen_at": "2026-06-17T21:31:36+00:00",
-      "previous_run_count": 5,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -5,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T21:31:36+00:00",
@@ -57,6 +101,10 @@
         },
         {
           "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
           "count": 0
         }
       ],
@@ -88,6 +136,10 @@
         {
           "at": "2026-06-17T21:54:22+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -117,6 +169,10 @@
         },
         {
           "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
           "count": 0
         }
       ],
@@ -152,6 +208,10 @@
         {
           "at": "2026-06-17T21:54:22+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -185,6 +245,10 @@
         },
         {
           "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
           "count": 0
         }
       ],
@@ -220,6 +284,10 @@
         {
           "at": "2026-06-17T21:54:22+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -253,6 +321,10 @@
         },
         {
           "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
           "count": 0
         }
       ],
@@ -288,6 +360,10 @@
         {
           "at": "2026-06-17T21:54:22+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -321,6 +397,10 @@
         },
         {
           "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
           "count": 0
         }
       ],
