@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "purpose": "Source credibility and confirmation weights for Senna Network Hub. JSON is valid YAML."
+  },
+  "classes": {
+    "tier1_official": {
+      "weight": 1.35,
+      "examples": [
+        "CISA",
+        "USGS",
+        "NOAA/NHC",
+        "central banks",
+        "official vendor advisories",
+        "official company IR"
+      ]
+    },
+    "tier2_major_news": {
+      "weight": 1.2,
+      "examples": [
+        "Reuters/AP/Bloomberg/FT/WSJ if licensed/available",
+        "reputable global outlets"
+      ]
+    },
+    "tier3_specialist": {
+      "weight": 1.05,
+      "examples": [
+        "BleepingComputer",
+        "PortSwigger",
+        "Snyk",
+        "Heise Security",
+        "research blogs"
+      ]
+    },
+    "tier4_platform_social": {
+      "weight": 0.75,
+      "examples": [
+        "X",
+        "Bluesky",
+        "Mastodon",
+        "Reddit",
+        "Telegram public channels"
+      ],
+      "rule": "smoke until confirmed"
+    },
+    "tier5_generic_repo": {
+      "weight": 0.55,
+      "examples": [
+        "single GitHub repository description"
+      ],
+      "rule": "cannot be high priority alone"
+    }
+  },
+  "rules": {
+    "single_github_repo_high_cap": true,
+    "social_requires_confirmation": true,
+    "china_requires_credibility_gate": true,
+    "official_source_can_boost": true,
+    "market_move_can_confirm": true
+  }
+}
