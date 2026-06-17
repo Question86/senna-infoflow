@@ -1401,6 +1401,52 @@
     "id": "030e898492fe54b2ba12"
   },
   {
+    "title": "Secret scanning updates – June 2026",
+    "url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-17T19:23:42+00:00",
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "Since our last pattern update, we’ve expanded secret scanning’s detection coverage with new partners, more patterns blocked by push protection by default, additional validity checks, and richer metadata for leaked… The post Secret scanning updates – June 2026 appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Watchgraph:macro_fx_company_numbers",
+      "Watchgraph:narrative_social_reputation"
+    ],
+    "relevance_score": 26,
+    "relevance_reason": "GitHub (+6.0); CodeQL/Dependabot (+9.8); recent (+2.0); watchgraph modules macro_fx_company_numbers, narrative_social_reputation (+6.0); watchgraph markets via macro_region_etfs, platform_reputation: META (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "macro_fx_company_numbers",
+      "narrative_social_reputation"
+    ],
+    "watchgraph_reasons": [
+      "macro_fx_company_numbers: default",
+      "narrative_social_reputation: leak"
+    ],
+    "market_context": [
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "18cd4c980414a6b1f482"
+  },
+  {
     "title": "Introducing the OpenAI Partner Network",
     "url": "https://openai.com/index/introducing-openai-partner-network",
     "source": "OpenAI News RSS",
@@ -2680,6 +2726,27 @@
     "id": "2c3ad2bd798f8ef7e4a1"
   },
   {
+    "title": "Getting more from each token: How Copilot improves context handling and model routing",
+    "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-17T19:41:46+00:00",
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+6.0); recent (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "03dbd462da21f5d5a2b1"
+  },
+  {
     "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Central Mid-Atlantic Ridge 17/06/2026 18:56 UTC, [unknown].",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547100",
     "source": "GDACS All Events Last 24h",
@@ -3535,12 +3602,506 @@
     "id": "c1d422fc03a9e7ed3127"
   },
   {
+    "title": "M 5.1, Mindanao, Philippines",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltsy",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 08:03:28 5.31 125.05 66 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0d079038bc57486c6c8d"
+  },
+  {
+    "title": "M 5.0, Sumba Region, Indonesia",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltkk",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 03:44:15 -9.55 119.42 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "bb5ee209880140c87de1"
+  },
+  {
+    "title": "M 5.0, Southern Peru",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lujx",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 16:37:29 -15.97 -71.59 142 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2fdfcb42920bb004599a"
+  },
+  {
+    "title": "M 5.0, Off East Coast of Honshu, Japan",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lufk",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 14:28:51 38.83 144.64 10 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c679c01c910ec86a35af"
+  },
+  {
+    "title": "M 4.9, Qinghai, China",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lthe",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 02:06:19 37.88 95.47 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8d8fdbe5a872f6701e36"
+  },
+  {
+    "title": "M 4.8, Qinghai, China",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lufj",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 14:20:04 37.89 95.56 10 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "fea0c5ee75702ff8a972"
+  },
+  {
+    "title": "M 4.8, Qinghai, China",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltpv",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 06:28:51 37.95 95.49 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c2ea2ed9060e8d3bfa8f"
+  },
+  {
+    "title": "M 4.7, Northern Colombia",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltym",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 10:51:00 6.69 -73.09 163 km M",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3b63c43c6bedcfabb410"
+  },
+  {
+    "title": "M 4.5, Northern Colombia",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltli",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 04:11:38 6.60 -73.14 166 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9fe812008b49a491a3f6"
+  },
+  {
+    "title": "M 4.4, Qinghai, China",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltru",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 07:28:01 37.89 95.54 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "30304e7ee8962d4735b1"
+  },
+  {
+    "title": "M 4.3, Qinghai, China",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltui",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 08:44:38 38.08 95.22 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0c4398080eb696f201af"
+  },
+  {
+    "title": "M 4.3, Near Coast of Central Chile",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltwn",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 09:51:32 -30.72 -71.61 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d35cd3c1ca1f914858c2"
+  },
+  {
+    "title": "M 3.6, Chile-Bolivia Border Region",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lupc",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 19:14:28 -20.85 -68.94 106 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f4356f9a67d89935a829"
+  },
+  {
     "title": "M 6.6 - central Mid-Atlantic Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti",
-    "source": "USGS Significant Earthquakes",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
     "source_type": "rss",
     "published_at": "2026-06-17T19:27:46.829+00:00",
-    "fetched_at": "2026-06-17T19:40:44+00:00",
+    "fetched_at": "2026-06-17T19:49:30+00:00",
     "summary": "PAGER - GREEN ShakeMap - I Time 2026-06-17 18:56:58 UTC 2026-06-17 18:56:58 UTC at epicenter Location 0.525°S 20.015°W Depth 10.00 km (6.21 mi)",
     "matched_keywords": [
       "earthquake",
@@ -3570,7 +4131,7 @@
       "HD",
       "LOW"
     ],
-    "id": "6c49ade7eecee8895692"
+    "id": "7a3d40d912ee8e2cdd03"
   },
   {
     "title": "Copilot usage metrics now include more of your active users",
@@ -4012,6 +4573,272 @@
     "risk_or_opportunity": "observation",
     "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
     "id": "d43a18a0d6ffc53b6c99"
+  },
+  {
+    "title": "M 6.5, Central Mid-Atlantic Ridge",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luon",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 18:56:59 -0.48 -20.02 10 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "22036595c3e5d27840c5"
+  },
+  {
+    "title": "M 5.0, Vanuatu Islands",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lufl",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 14:21:11 -19.27 168.45 10 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2ff7d00aca760ac25a93"
+  },
+  {
+    "title": "M 5.0, Tonga Islands Region",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltnq",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 05:21:31 -17.62 -172.04 10 km M",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "52b987db8dfa6bf4e7c2"
+  },
+  {
+    "title": "M 4.8, South of Fiji Islands",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltjg",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 03:09:09 -23.07 -177.30 206 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b9a3028c40f1476cc18f"
+  },
+  {
+    "title": "M 4.7, Kuril Islands",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltkn",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 03:47:03 49.87 155.66 48 km A",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9497cd9abd4446e86526"
+  },
+  {
+    "title": "M 2.6, Poland",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltvs",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-17 09:26:32 50.12 19.37 1 km C",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e922491308bc8075b8f5"
+  },
+  {
+    "title": "M 2.2, Czech and Slovak Republics",
+    "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltbp",
+    "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-17T19:49:30+00:00",
+    "summary": "2026-06-16 23:17:36 49.54 14.19 2 km M",
+    "matched_keywords": [
+      "earthquake",
+      "GEOFON",
+      "GFZ",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f826b229624f71bbb31c"
   },
   {
     "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
