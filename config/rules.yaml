@@ -2,8 +2,9 @@
 # Diese Datei enthält nur Logik, keine Secrets.
 
 scoring:
-  high_threshold: 18
-  medium_threshold: 8
+  # Etwas strenger als zuvor. Der Monitor soll weniger Müll hochziehen.
+  high_threshold: 24
+  medium_threshold: 12
   observe_threshold: 1
   max_score: 100
   title_multiplier: 1.4
@@ -25,40 +26,63 @@ classification:
     - fake account
     - phishing
     - ransomware
+    - malware
+    - trojan
+    - stealer
+    - backdoor
+    - botnet
+    - command and control
+    - C2
+    - payload
+    - credential
+    - token theft
     - supply chain
+    - dependency confusion
+    - typosquatting
+    - package compromise
+    - maintainer account
     - Datenschutzverstoß
     - DSGVO
     - Shitstorm
     - Kritik
     - reputational risk
     - brand risk
+    - scam
+    - fraud
 
   opportunity_terms:
     - product idea
     - Produktidee
     - feature request
     - market gap
+    - use case
+    - workflow gap
     - content opportunity
     - Content-Chance
     - tutorial
     - guide
+    - explainer
     - case study
     - grant
     - partnership
     - collaboration
     - open source
     - automation
+    - local-first
+    - privacy-first
 
 actions:
   default_observation: "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
   default_opportunity: "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
   default_risk: "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+  default_mixed: "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
   identity_match: "Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist."
   high_priority: "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster."
 
 briefing:
-  max_items_per_section: 20
-  reminder_candidate_min_score: 18
+  max_items_per_section: 15
+  max_items_per_source_per_section: 5
+  reminder_candidate_min_score: 24
   include_source_errors: true
 
 http:
