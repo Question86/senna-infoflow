@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "project": "senna-infoflow",
+    "name": "Senna Modern Network Hub",
+    "version": "2026-06-17",
+    "purpose": "Operational expansion layer for timing, velocity, cross-source correlation, AXI0M business intelligence, alerts, and multi-format briefings.",
+    "status": "design_config_ready; monitor.py integration pending/local"
+  },
+  "schedules": {
+    "hot": {
+      "cron": "*/15 * * * *",
+      "window_minutes": 30,
+      "purpose": "viral/security/disaster/social velocity; breaking signals"
+    },
+    "medium": {
+      "cron": "0 * * * *",
+      "window_hours": 6,
+      "purpose": "market, research, competitor, GitHub trending, cross-source confirmation"
+    },
+    "background": {
+      "cron": "0 */6 * * *",
+      "window_hours": 48,
+      "purpose": "slow trend, baselines, patents, preprints, weekly synthesis"
+    }
+  },
+  "state_files": {
+    "seen": "state/seen.json",
+    "velocity": "state/velocity.json",
+    "baseline": "state/baseline.json",
+    "entities": "state/entities.json",
+    "source_health": "state/source_health.json"
+  },
+  "tiers": [
+    {
+      "tier": 1,
+      "name": "Fundamental weaknesses",
+      "priority": "critical",
+      "items": [
+        {
+          "id": "cadence_hot_medium_background",
+          "title": "6h cadence is too slow for viral topics",
+          "implementation": "Add hot/medium/background schedules and pass RUN_MODE to monitor.py."
+        },
+        {
+          "id": "momentum_scoring",
+          "title": "Static keyword scoring lacks momentum",
+          "implementation": "Store mention_count, mention_delta, first_seen, last_seen and velocity_trend in state/velocity.json."
+        },
+        {
+          "id": "social_velocity",
+          "title": "Twitter/X and Bluesky style velocity missing",
+          "implementation": "Add only allowed/official social adapters; treat social as smoke until confirmed."
+        },
+        {
+          "id": "cross_source_correlation",
+          "title": "Sources are isolated",
+          "implementation": "Normalize entities and join same entity/topic across time windows."
+        }
+      ]
+    },
+    {
+      "tier": 2,
+      "name": "Signal quality",
+      "priority": "high",
+      "items": [
+        {
+          "id": "semantic_similarity",
+          "title": "Pure keyword logic misses related signals",
+          "implementation": "Optional LLM/sentence embedding layer for high-score candidates only."
+        },
+        {
+          "id": "baseline_anomaly",
+          "title": "No baseline comparison",
+          "implementation": "Rolling 30-day baseline with multiplier and z-score."
+        },
+        {
+          "id": "github_trending",
+          "title": "GitHub Trending missing",
+          "implementation": "Adapter candidate; respect robots/terms; lower trust unless cross-confirmed."
+        },
+        {
+          "id": "telegram_public_channels",
+          "title": "Telegram public channels missing",
+          "implementation": "Use only legal/official/publicly allowed access. No credential bypass or private channel collection."
+        },
+        {
+          "id": "source_credibility_weights",
+          "title": "All sources score equally",
+          "implementation": "Apply source credibility weight and combine with cross-source confirmation."
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "name": "AXI0M business intelligence",
+      "priority": "medium",
+      "items": [
+        {
+          "id": "research_preprints",
+          "title": "arXiv/bioRxiv/research preprints missing",
+          "implementation": "Track GPU signal detection, CUDA reproducibility, sparse/dense signal analysis, provenance."
+        },
+        {
+          "id": "patent_watch",
+          "title": "Patent monitoring missing",
+          "implementation": "USPTO/EPO/Google Patents queries for signal processing, CUDA, reproducibility, provenance."
+        },
+        {
+          "id": "competitor_tracking",
+          "title": "Competitor tracking missing",
+          "implementation": "config/competitors.yaml local/private or example-only public template."
+        },
+        {
+          "id": "finance_cross_signal",
+          "title": "Finance cross-signal missing",
+          "implementation": "Market move adapter or manual proxy baskets from config/watchgraph_markets.yaml."
+        }
+      ]
+    },
+    {
+      "tier": 4,
+      "name": "Output, action, intelligence",
+      "priority": "high",
+      "items": [
+        {
+          "id": "momentum_memory",
+          "title": "seen.json is dedupe, not momentum memory",
+          "implementation": "Add state/momentum.json with scores and trend history."
+        },
+        {
+          "id": "active_alerts",
+          "title": "No active alert channel",
+          "implementation": "Create GitHub issue for critical hits with label critical, source URL, score, recommended action."
+        },
+        {
+          "id": "llm_synthesis",
+          "title": "No synthesis layer",
+          "implementation": "Optional LLM call only for high-score candidates; explain why AXI0M should care."
+        },
+        {
+          "id": "multi_briefings",
+          "title": "Only latest.md",
+          "implementation": "Write breaking.md, daily.md, weekly.md plus latest.json."
+        },
+        {
+          "id": "geopolitics_sensor",
+          "title": "Geopolitical sensor underbuilt",
+          "implementation": "GDELT/ReliefWeb/ACLED-like adapter backlog; correlate with capitals/power centers."
+        }
+      ]
+    },
+    {
+      "tier": 5,
+      "name": "Advanced ideas",
+      "priority": "low",
+      "items": [
+        {
+          "id": "multimedia_signal",
+          "title": "YouTube/podcast signal missing",
+          "implementation": "Podcast RSS and official YouTube Data API if key available; no platform scraping."
+        },
+        {
+          "id": "multilingual_asia_scan",
+          "title": "Multilingual Asian tech scan missing",
+          "implementation": "Candidate sources for China/Japan/Korea/SEA; machine translation only via allowed APIs; credibility gates remain."
+        }
+      ]
+    }
+  ],
+  "scoring_model": {
+    "momentum": {
+      "formula": "velocity = mention_delta / max(hours_delta, 0.25)",
+      "baseline_multiplier": "current_rate / max(rolling_30d_rate, 0.1)",
+      "high_if": [
+        "baseline_multiplier >= 10",
+        "z_score >= 3",
+        "source_count >= 3 and entity_velocity rising"
+      ]
+    },
+    "cross_source": {
+      "entity_window_minutes": 360,
+      "confirming_source_bonus": 6,
+      "tier_confirmation": {
+        "tier1_official": 4,
+        "tier2_major_news": 3,
+        "tier3_specialist": 2,
+        "tier4_social": 1
+      }
+    },
+    "social": {
+      "default_status": "smoke",
+      "cannot_be_high_without": [
+        "identity match",
+        "official confirmation",
+        "two independent non-social sources",
+        "market/disaster/security high signal"
+      ]
+    }
+  },
+  "outputs": {
+    "breaking": "briefings/breaking.md",
+    "daily": "briefings/daily.md",
+    "weekly": "briefings/weekly.md",
+    "latest": "briefings/latest.md",
+    "machine": "briefings/latest.json"
+  },
+  "alerts": {
+    "github_issue_enabled": true,
+    "labels": {
+      "critical": [
+        "critical",
+        "senna-alert"
+      ],
+      "high": [
+        "high",
+        "senna-alert"
+      ]
+    },
+    "create_issue_if_any": [
+      "direct AXI0M/User Yps hit",
+      "active exploitation + affected stack",
+      "official emergency near critical infrastructure",
+      "cross-source velocity spike"
+    ]
+  }
+}
