@@ -1,18 +1,8 @@
 #!/usr/bin/env python3
 """Preflight validation for senna-infoflow configuration.
 
-This script runs after the workflow merges hot-lane sources and before the
-monitor fetches anything. It treats source configuration as an input boundary:
-bad config must fail early, not turn into a hidden sensor lie.
-
-Checks:
-- source schema and required fields by type
-- duplicate source IDs
-- URL scheme is http/https only
-- IP-literal URLs cannot point at private, loopback, link-local or reserved ranges
-- local filesystem escape for manual_note paths
-- enabled sources must use implemented adapters
-- scoring thresholds are sane
+Runs after hot-lane source merge and before monitor.py fetches anything.
+Bad config must fail early, not become hidden sensor noise.
 """
 
 from __future__ import annotations
@@ -20,8 +10,6 @@ from __future__ import annotations
 import ipaddress
 import json
 import re
-import socket
-import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -36,6 +24,7 @@ BRIEFINGS = ROOT / "briefings"
 STATE = ROOT / "state"
 
 SCHEMA_VERSION = 1
+
 IMPLEMENTED_TYPES = {
     "rss",
     "github_search",
@@ -44,6 +33,7 @@ IMPLEMENTED_TYPES = {
     "webpage_check",
     "manual_note",
 }
+
 PLANNED_DISABLED_TYPES = {
     "gdelt_doc_api",
     "reliefweb_api",
@@ -78,14 +68,20 @@ def write_json(path: Path, payload: Any) -> None:
     atomic_write_text(path, json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
 
 
-def add(issues: list[dict[str, str]], severity: str, code: str, message: str, source_id: str | None = None) -> None:
+def add(
+    issues: list[dict[str, str]],
+    severity: str,
+    code: str,
+    message: str,
+    source_id: str | None = None,
+) <-> None:
     issue = {"severity": severity, "code": code, "message": message}
     if source_id:
         issue["source_id"] = source_id
     issues.append(issue)
 
 
-def is_safe_ip_literal(host: str) -> tuple[bool, str | None]:
+def safe_ip_literal(host: str) -> tuple[bool, str | None]:
     try:
         ip = ipaddress.ip_address(host.strip("[]"))
     except ValueError:
@@ -109,23 +105,27 @@ def validate_url(value: Any, issues: list[dict[str, str]], source_id: str) -> No
     if not url:
         add(issues, "error", "url_missing", "URL is required.", source_id)
         return
+
     parsed = urlparse(url)
     if parsed.scheme not in {"http", "https"}:
-        add(issues, "error", "url_bad_scheme", f"URL scheme must be http/https, got `{parsed.scheme or 'none'}`.", source_id)
+        add(
+            issues,
+            "error",
+            "url_bad_scheme",
+            f"URL scheme must be http/https, got `{parsed.scheme or 'none'}`.",
+            source_id,
+        )
         return
+
     if not parsed.netloc:
         add(issues, "error", "url_missing_host", "URL must include a hostname.", source_id)
         return
     if parsed.username or parsed.password:
         add(issues, "error", "url_credentials", "URL must not contain embedded credentials.", source_id)
 
-    host = parsed.hostname or ""
-    ok, reason = is_safe_ip_literal(host)
+    ok, reason = safe_ip_literal(parsed.hostname or "")
     if not ok:
         add(issues, "error", "url_unsafe_ip", reason or "unsafe IP literal", source_id)
-
-    # Do not resolve DNS here. DNS may be slow/flaky in CI and DNS-rebinding checks
-    # belong to a stricter fetch layer. This preflight blocks obvious unsafe inputs.
 
 
 def validate_manual_path(value: Any, issues: list[dict[str, str]], source_id: str) -> None:
@@ -134,8 +134,14 @@ def validate_manual_path(value: Any, issues: list[dict[str, str]], source_id: st
         add(issues, "error", "manual_path_missing", "manual_note source requires path.", source_id)
         return
 
-    if rel.startswith("/") or re.match(r^[a-zA-Z]:[\\/]", rel):
-        add(issues, "error", "manual_path_absolute", "manual_note path must be relative to repository root.", source_id)
+    if rel.startswith("/") or re.match(r"^[a-zA-Z]:[\\/]", rel):
+        add(
+            issues,
+            "error",
+            "manual_path_absolute",
+            "manual_note path must be relative to repository root.",
+            source_id,
+        )
         return
 
     target = (ROOT / rel).resolve()
@@ -195,7 +201,7 @@ def validate_source(source: Any, issues: list[dict[str, str]], seen_ids: set[str
         mode = str(source.get("mode") or "issues").strip().lower()
         if mode not in {"issues", "repositories", "repos", "code"}:
             add(issues, "error", "github_mode_invalid", f"Unsupported github_search mode `{mode}`.", source_id)
-        if not str(source.get("query" or "").strip():
+        if not str(source.get("query") or "").strip():
             add(issues, "error", "github_query_missing", "github_search source requires query.", source_id)
     elif source_type == "reddit_json":
         if not str(source.get("subreddit") or "").strip():
@@ -220,7 +226,6 @@ def validate_rules(rules: Any, issues: list[dict[str, str]]) -> None:
     if not isinstance(rules, dict):
         add(issues, "error", "rules_not_object", "config/rules.yaml must be an object.")
         return
-
     scoring = rules.get("scoring") or {}
     if not isinstance(scoring, dict):
         add(issues, "error", "scoring_not_object", "rules.scoring must be an object.")
@@ -243,10 +248,9 @@ def validate_rules(rules: Any, issues: list[dict[str, str]]) -> None:
 
     http = rules.get("http") or {}
     if isinstance(http, dict):
-        timeout = http.get("timeout_seconds", 15)
         try:
-            timeout_value = int(timeout)
-            if timeout_value < 3 or timeout_value > 90:
+            timeout = int(http.get("timeout_seconds", 15))
+            if timeout < 3 or timeout > 90:
                 add(issues, "warning", "timeout_suspicious", "http.timeout_seconds should usually be between 3 and 90.")
         except Exception:
             add(issues, "error", "timeout_invalid", "http.timeout_seconds must be an integer.")
@@ -271,10 +275,12 @@ def validate_keywords(config: Any, issues: list[dict[str, str]]) -> None:
         if not term:
             add(issues, "error", "keyword_term_missing", f"Keyword item at index {index} has no term.")
             continue
+
         key = term.casefold()
         if key in seen:
             add(issues, "warning", "keyword_duplicate", f"Duplicate keyword term `{term}`.")
         seen.add(key)
+
         try:
             weight = float(item.get("weight", 1))
             if weight <= 0 or weight > 50:
@@ -292,11 +298,7 @@ def write_report(issues: list[dict[str, str]], source_count: int) -> None:
         "doc_type": "senna.config_validation",
         "generated_at": utc_now(),
         "status": status,
-        "counts": {
-            "sources": source_count,
-            "errors": errors,
-            "warnings": warnings,
-        },
+        "counts": {"sources": source_count, "errors": errors, "warnings": warnings},
         "issues": issues,
     }
     write_json(STATE / "config_validation.json", payload)
@@ -350,12 +352,11 @@ def main() -> int:
 
     validate_rules(rules, issues)
     validate_keywords(keywords, issues)
-
     write_report(issues, len(sources))
 
     errors = [item for item in issues if item["severity"] == "error"]
     if errors:
-        print(f"Config validation failed with {len(errors)} error(p).")
+        print(f"Config validation failed with {len(errors)} error(s).")
         for item in errors[:20]:
             sid = f" [{item.get('source_id')}]" if item.get("source_id") else ""
             print(f"- {item['code']}{sid}: {item['message']}")
