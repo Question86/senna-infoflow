@@ -1,0 +1,494 @@
+# Senna Watchgraph Hub.
+# JSON ist gültiges YAML. Keine Secrets.
+
+{
+  "meta": {
+    "project": "senna-infoflow",
+    "name": "Senna Watchgraph Hub",
+    "version": "2026-06-17",
+    "memory_repo": "Question86/keeper-clean",
+    "purpose": "Network hub for early signals that can affect AXI0M, mass psychology, markets, infrastructure, reputation, or timing."
+  },
+  "regions": {
+    "europe": [
+      "EU",
+      "Brussels",
+      "Berlin",
+      "Paris",
+      "London",
+      "Kyiv",
+      "ECB",
+      "NATO"
+    ],
+    "usa": [
+      "USA",
+      "Washington DC",
+      "New York",
+      "San Francisco",
+      "Silicon Valley",
+      "Fed"
+    ],
+    "india": [
+      "India",
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "RBI"
+    ],
+    "south_america": [
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Peru",
+      "LATAM"
+    ],
+    "canada": [
+      "Canada",
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Bank of Canada"
+    ],
+    "japan": [
+      "Japan",
+      "Tokyo",
+      "BOJ",
+      "METI",
+      "Nikkei"
+    ],
+    "south_korea": [
+      "South Korea",
+      "Seoul",
+      "Samsung",
+      "SK Hynix"
+    ],
+    "australia": [
+      "Australia",
+      "Canberra",
+      "Sydney",
+      "RBA"
+    ],
+    "southeast_asia": [
+      "Singapore",
+      "Indonesia",
+      "Vietnam",
+      "Thailand",
+      "Philippines",
+      "Malaysia",
+      "ASEAN"
+    ],
+    "china_credible_only": [
+      "China",
+      "Beijing",
+      "Shanghai",
+      "Hong Kong",
+      "PBoC",
+      "Caixin",
+      "NBS"
+    ]
+  },
+  "credibility_gates": {
+    "high_priority_accept_if_any": [
+      "direct AXI0M/User Yps/Question86/senna-infoflow mention",
+      "official source",
+      "two independent reliable sources",
+      "active exploitation or CISA KEV",
+      "disaster near capital or critical infrastructure",
+      "market move confirms narrative"
+    ],
+    "social_is_smoke_until_confirmed": [
+      "X",
+      "LinkedIn",
+      "Reddit",
+      "Mastodon",
+      "Bluesky",
+      "single GitHub repo description"
+    ],
+    "china_credible_only": {
+      "accept_if_any": [
+        "reliable global outlet",
+        "official filing/statistics",
+        "HKEX/SEC/company IR",
+        "confirmed market move"
+      ],
+      "demote_if_only": [
+        "anonymous social post",
+        "influencer thread",
+        "unsourced repost chain"
+      ]
+    }
+  },
+  "source_layers": {
+    "active_now": [
+      "AXI0M/GitHub/OpenAI/GitHub/HN/security feeds",
+      "USGS/GDACS/NOAA disaster RSS"
+    ],
+    "adapter_backlog": [
+      "GDELT",
+      "ReliefWeb",
+      "NASA FIRMS",
+      "CISA KEV JSON",
+      "NVD",
+      "FRED/WorldBank/IMF/ECB",
+      "Bluesky/Mastodon/X",
+      "LinkedIn official APIs",
+      "SF Open Data/Eventbrite/Luma",
+      "finance adapter"
+    ]
+  },
+  "modules": [
+    {
+      "id": "capitals_power_centers",
+      "buzzwords": [
+        "capital",
+        "parliament",
+        "state of emergency",
+        "curfew",
+        "embassy",
+        "evacuation"
+      ],
+      "market_basket": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE"
+      ]
+    },
+    {
+      "id": "elections_unrest",
+      "buzzwords": [
+        "election",
+        "coup",
+        "protest",
+        "riot",
+        "strike",
+        "martial law"
+      ],
+      "market_basket": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE"
+      ]
+    },
+    {
+      "id": "war_escalation_sanctions",
+      "buzzwords": [
+        "missile strike",
+        "drone attack",
+        "mobilization",
+        "sanctions",
+        "airspace closed"
+      ],
+      "market_basket": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE"
+      ]
+    },
+    {
+      "id": "global_calendar_summits",
+      "buzzwords": [
+        "G7",
+        "G20",
+        "NATO summit",
+        "UN General Assembly",
+        "OPEC meeting",
+        "central bank decision"
+      ],
+      "market_basket": []
+    },
+    {
+      "id": "earthquakes_tsunami",
+      "buzzwords": [
+        "earthquake",
+        "aftershock",
+        "tsunami warning",
+        "PAGER",
+        "ShakeMap"
+      ],
+      "market_basket": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB"
+      ]
+    },
+    {
+      "id": "volcano_aviation",
+      "buzzwords": [
+        "volcano",
+        "eruption",
+        "ash cloud",
+        "VAAC",
+        "evacuation"
+      ],
+      "market_basket": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB"
+      ]
+    },
+    {
+      "id": "storms_floods_weather",
+      "buzzwords": [
+        "hurricane",
+        "typhoon",
+        "cyclone",
+        "storm surge",
+        "flood",
+        "landfall"
+      ],
+      "market_basket": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB"
+      ]
+    },
+    {
+      "id": "wildfire_heat_drought",
+      "buzzwords": [
+        "wildfire",
+        "active fire",
+        "smoke",
+        "heat dome",
+        "drought",
+        "air quality"
+      ],
+      "market_basket": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB"
+      ]
+    },
+    {
+      "id": "humanitarian_migration_food_water",
+      "buzzwords": [
+        "famine",
+        "food insecurity",
+        "refugees",
+        "IDPs",
+        "cholera",
+        "water crisis"
+      ],
+      "market_basket": []
+    },
+    {
+      "id": "public_health_biosecurity",
+      "buzzwords": [
+        "outbreak",
+        "avian flu",
+        "H5N1",
+        "pandemic",
+        "WHO",
+        "wastewater"
+      ],
+      "market_basket": []
+    },
+    {
+      "id": "energy_oil_gas_power_uranium",
+      "buzzwords": [
+        "Brent",
+        "WTI",
+        "LNG",
+        "pipeline",
+        "blackout",
+        "uranium",
+        "OPEC+"
+      ],
+      "market_basket": [
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ"
+      ]
+    },
+    {
+      "id": "agriculture_food_fertilizer",
+      "buzzwords": [
+        "crop failure",
+        "wheat",
+        "corn",
+        "soy",
+        "fertilizer",
+        "export ban"
+      ],
+      "market_basket": []
+    },
+    {
+      "id": "shipping_chokepoints_supply_chain",
+      "buzzwords": [
+        "Suez",
+        "Panama Canal",
+        "Hormuz",
+        "port strike",
+        "container rates",
+        "rerouting"
+      ],
+      "market_basket": [
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ"
+      ]
+    },
+    {
+      "id": "cyber_active_exploitation",
+      "buzzwords": [
+        "actively exploited",
+        "CISA KEV",
+        "RCE",
+        "zero-day",
+        "critical vulnerability",
+        "Fortinet",
+        "Ivanti"
+      ],
+      "market_basket": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET"
+      ]
+    },
+    {
+      "id": "software_supply_chain",
+      "buzzwords": [
+        "npm",
+        "PyPI",
+        "typosquatting",
+        "dependency confusion",
+        "token theft",
+        "binding.gyp"
+      ],
+      "market_basket": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA"
+      ]
+    },
+    {
+      "id": "ai_agents_workflow",
+      "buzzwords": [
+        "AI agents",
+        "agentic workflow",
+        "local-first",
+        "privacy-first",
+        "memory",
+        "MCP",
+        "Codex"
+      ],
+      "market_basket": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU"
+      ]
+    },
+    {
+      "id": "chips_compute_datacenters",
+      "buzzwords": [
+        "GPU shortage",
+        "AI chip",
+        "HBM",
+        "TSMC",
+        "ASML",
+        "export controls",
+        "data center power"
+      ],
+      "market_basket": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU"
+      ]
+    },
+    {
+      "id": "macro_fx_company_numbers",
+      "buzzwords": [
+        "CPI",
+        "GDP",
+        "PMI",
+        "rate decision",
+        "guidance cut",
+        "default",
+        "currency crisis"
+      ],
+      "market_basket": [
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ]
+    },
+    {
+      "id": "narrative_social_reputation",
+      "buzzwords": [
+        "viral",
+        "boycott",
+        "leak",
+        "whistleblower",
+        "misinformation",
+        "deepfake",
+        "brand safety"
+      ],
+      "market_basket": [
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP"
+      ]
+    },
+    {
+      "id": "sports_sf_tech_events",
+      "buzzwords": [
+        "World Cup",
+        "Olympics",
+        "Formula 1",
+        "GitHub Universe",
+        "RSA Conference",
+        "SF AI",
+        "demo day"
+      ],
+      "market_basket": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL"
+      ]
+    }
+  ]
+}
