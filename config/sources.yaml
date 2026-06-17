@@ -1,0 +1,102 @@
+# Öffentliche Quellen-Konfiguration für senna-infoflow.
+# Nur öffentliche, freigegebene oder von User Yps bereitgestellte Quellen eintragen.
+# Keine privaten Endpunkte, keine Tokens, keine personenbezogenen Daten Dritter.
+
+meta:
+  project: senna-infoflow
+  owner_alias: User Yps
+  company: AXI0M
+  website: https://axi0m.de/blog.html
+  scope_notice: >
+    Dieses System prüft nur die hier konfigurierten öffentlichen Quellen.
+    Es behauptet nicht, das Internet vollständig zu überwachen.
+
+defaults:
+  enabled: true
+  max_items: 20
+
+sources:
+  - id: axi0m_blog
+    name: AXI0M Blog
+    type: webpage_check
+    enabled: true
+    url: https://axi0m.de/blog.html
+    keywords: ["AXI0M", "axi0m.de", "AI", "KI", "Open Source", "Automatisierung", "Datenschutz", "Webentwicklung"]
+
+  - id: openai_news_rss
+    name: OpenAI News RSS
+    type: rss
+    enabled: true
+    url: https://openai.com/news/rss.xml
+    keywords: ["OpenAI", "AI", "Custom GPT", "automation", "safety", "privacy"]
+
+  - id: github_blog_atom
+    name: GitHub Blog Atom
+    type: rss
+    enabled: true
+    url: https://github.blog/feed/
+    keywords: ["GitHub", "GitHub Actions", "Open Source", "security", "automation", "AI"]
+
+  - id: heise_security_atom
+    name: heise Security Alerts
+    type: rss
+    enabled: true
+    url: https://www.heise.de/security/rss/alert-news-atom.xml
+    keywords: ["security", "CVE", "vulnerability", "Datenschutz", "Open Source"]
+
+  - id: bleepingcomputer_security
+    name: BleepingComputer Security
+    type: rss
+    enabled: true
+    url: https://www.bleepingcomputer.com/feed/
+    keywords: ["security", "cybersecurity", "OpenAI", "GitHub", "AI", "phishing", "ransomware"]
+
+  - id: hn_ai_security
+    name: Hacker News AI/Security Search
+    type: hackernews
+    enabled: true
+    query: "(OpenAI OR AI OR GitHub OR cybersecurity OR privacy OR automation)"
+    keywords: ["OpenAI", "AI", "GitHub", "security", "privacy", "automation", "Open Source"]
+
+  - id: reddit_machinelearning
+    name: Reddit r/MachineLearning Search
+    type: reddit_json
+    enabled: true
+    subreddit: MachineLearning
+    query: "OpenAI OR GitHub OR privacy OR automation"
+    sort: new
+    time: week
+    keywords: ["OpenAI", "AI", "GitHub", "privacy", "automation"]
+
+  - id: reddit_cybersecurity
+    name: Reddit r/cybersecurity Search
+    type: reddit_json
+    enabled: true
+    subreddit: cybersecurity
+    query: "GitHub OR OpenAI OR AI OR privacy OR supply chain"
+    sort: new
+    time: week
+    keywords: ["GitHub", "OpenAI", "AI", "privacy", "supply chain", "security"]
+
+  - id: github_search_axi0m
+    name: "GitHub Search: AXI0M Mentions"
+    type: github_search
+    enabled: true
+    mode: issues
+    query: '"AXI0M" OR "axi0m.de"'
+    keywords: ["AXI0M", "axi0m.de", "GitHub", "Open Source"]
+
+  - id: github_search_ai_security
+    name: "GitHub Search: AI Security Automation"
+    type: github_search
+    enabled: true
+    mode: repositories
+    query: 'AI security automation privacy'
+    keywords: ["AI", "security", "automation", "privacy", "Open Source"]
+
+  - id: manual_notes
+    name: Manual Notes Inbox
+    type: manual_note
+    enabled: true
+    path: inbox/manual_notes.md
+    keywords: ["AXI0M", "User Yps", "Produktidee", "Content-Chance", "Datenschutz", "Automatisierung"]

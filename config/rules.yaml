@@ -1,0 +1,68 @@
+# Regeln für Score, Priorisierung und Handlungsempfehlungen.
+# Diese Datei enthält nur Logik, keine Secrets.
+
+scoring:
+  high_threshold: 18
+  medium_threshold: 8
+  observe_threshold: 1
+  max_score: 100
+  title_multiplier: 1.4
+  url_multiplier: 1.2
+  recent_bonus:
+    enabled: true
+    within_hours: 72
+    points: 2
+
+classification:
+  risk_terms:
+    - exploit
+    - vulnerability
+    - CVE
+    - breach
+    - leak
+    - leaked
+    - impersonation
+    - fake account
+    - phishing
+    - ransomware
+    - supply chain
+    - Datenschutzverstoß
+    - DSGVO
+    - Shitstorm
+    - Kritik
+    - reputational risk
+    - brand risk
+
+  opportunity_terms:
+    - product idea
+    - Produktidee
+    - feature request
+    - market gap
+    - content opportunity
+    - Content-Chance
+    - tutorial
+    - guide
+    - case study
+    - grant
+    - partnership
+    - collaboration
+    - open source
+    - automation
+
+actions:
+  default_observation: "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+  default_opportunity: "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+  default_risk: "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+  identity_match: "Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist."
+  high_priority: "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster."
+
+briefing:
+  max_items_per_section: 20
+  reminder_candidate_min_score: 18
+  include_source_errors: true
+
+http:
+  timeout_seconds: 15
+  polite_delay_seconds: 1.0
+  max_bytes_per_webpage: 500000
+  respect_robots_txt_for_webpage_check: true

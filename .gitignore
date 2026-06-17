@@ -1,0 +1,50 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.token
+*token*
+*secret*
+*credentials*
+.secrets/
+secrets/
+local_secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Logs / cache
+logs/*.log
+*.log
+.cache/
+cache/
+tmp/
+temp/
+.DS_Store
+
+# Local editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime scratch
+*.bak
+*.tmp

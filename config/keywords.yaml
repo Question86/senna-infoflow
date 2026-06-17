@@ -1,0 +1,68 @@
+# Relevanz-Vokabular für senna-infoflow.
+# Senna darf diese Datei später erweitern, aber niemals Secrets eintragen.
+
+keywords:
+  - term: AXI0M
+    aliases: ["AXI0M", "axi0m", "axi0m.de"]
+    weight: 14
+    categories: ["identity", "reputation", "company"]
+
+  - term: User Yps
+    aliases: ["User Yps", "\"User Yps\""]
+    weight: 12
+    categories: ["identity", "personal"]
+
+  - term: GitHub
+    aliases: ["GitHub", "github.com", "GitHub Actions", "repository", "repo"]
+    weight: 5
+    categories: ["platform", "engineering"]
+
+  - term: OpenAI
+    aliases: ["OpenAI", "ChatGPT", "GPT", "Custom GPT", "Assistants API"]
+    weight: 6
+    categories: ["ai", "platform"]
+
+  - term: AI/KI
+    aliases: ["AI", "KI", "artificial intelligence", "künstliche Intelligenz", "LLM", "large language model", "model context protocol", "MCP"]
+    weight: 5
+    categories: ["ai"]
+
+  - term: Security
+    aliases: ["security", "cybersecurity", "cyber security", "infosec", "CVE", "vulnerability", "exploit", "supply chain", "phishing", "ransomware"]
+    weight: 6
+    categories: ["security", "risk"]
+
+  - term: Datenschutz
+    aliases: ["Datenschutz", "privacy", "GDPR", "DSGVO", "data protection", "personenbezogene Daten"]
+    weight: 6
+    categories: ["privacy", "legal"]
+
+  - term: Webentwicklung
+    aliases: ["Webentwicklung", "web development", "frontend", "backend", "API", "deployment", "hosting", "website"]
+    weight: 4
+    categories: ["engineering", "web"]
+
+  - term: Open Source
+    aliases: ["Open Source", "OSS", "free software", "FOSS", "maintainer", "license"]
+    weight: 4
+    categories: ["open_source", "engineering"]
+
+  - term: Automatisierung
+    aliases: ["Automatisierung", "automation", "workflow", "GitHub Actions", "cron", "agentic workflow", "Zapier", "n8n"]
+    weight: 5
+    categories: ["automation", "productivity"]
+
+  - term: Reputationsrisiko
+    aliases: ["reputation", "reputational risk", "brand risk", "Kritik", "Shitstorm", "misinformation", "Impersonation", "fake account"]
+    weight: 7
+    categories: ["risk", "reputation"]
+
+  - term: Produktidee
+    aliases: ["product idea", "Produktidee", "pain point", "feature request", "market gap", "use case"]
+    weight: 6
+    categories: ["opportunity", "product"]
+
+  - term: Content-Chance
+    aliases: ["content opportunity", "Content-Chance", "blog topic", "tutorial", "case study", "how to", "guide"]
+    weight: 5
+    categories: ["opportunity", "content"]

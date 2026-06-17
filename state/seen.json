@@ -1,0 +1,747 @@
+{
+  "version": 1,
+  "items": {
+    "2bed540cefa9ec37b870": {
+      "first_seen_at": "2026-06-17T12:44:55+00:00",
+      "last_seen_at": "2026-06-17T12:44:55+00:00",
+      "title": "Blog | AXIOM",
+      "url": "https://axi0m.de/blog.html",
+      "source": "AXI0M Blog"
+    },
+    "96bd13f63924d3502faa": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI News RSS"
+    },
+    "2695c118eea82846a214": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI News RSS"
+    },
+    "030e898492fe54b2ba12": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI News RSS"
+    },
+    "e3f2b9b451d98927c4bb": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source": "OpenAI News RSS"
+    },
+    "16aa77aba8b8ef88b360": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI News RSS"
+    },
+    "11949d77027bd607eedf": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI News RSS"
+    },
+    "d8ee3be47fde65e62fe2": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI News RSS"
+    },
+    "1243669d2468d99c51a2": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI News RSS"
+    },
+    "f7ea6dc23cc6b60d0827": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI News RSS"
+    },
+    "0ed60b87d9da00adb877": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "source": "OpenAI News RSS"
+    },
+    "dd015b4fe188d90d03d3": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "source": "OpenAI News RSS"
+    },
+    "69f0ed741a17e4c3d2a1": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "source": "OpenAI News RSS"
+    },
+    "a1d34c4a872a08844842": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "source": "OpenAI News RSS"
+    },
+    "5d56e9a8603af5aa180e": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "source": "OpenAI News RSS"
+    },
+    "d43a18a0d6ffc53b6c99": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source": "OpenAI News RSS"
+    },
+    "6ca794c5406f3f2eee28": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source": "OpenAI News RSS"
+    },
+    "d600989ccee04d7cfa5f": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI News RSS"
+    },
+    "d667c692493e76e321fb": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI News RSS"
+    },
+    "943f6bfa1d7d72c707e7": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI News RSS"
+    },
+    "0a42f0d5da14e5ff3a2c": {
+      "first_seen_at": "2026-06-17T12:44:58+00:00",
+      "last_seen_at": "2026-06-17T12:44:58+00:00",
+      "title": "Biodefense in the Intelligence Age",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "source": "OpenAI News RSS"
+    },
+    "0a50512323e6af4b74e9": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "What are git worktrees, and why should I use them?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+      "source": "GitHub Blog Atom"
+    },
+    "d651ac00405018749494": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "source": "GitHub Blog Atom"
+    },
+    "96fa1a2353ce6c78379c": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "source": "GitHub Blog Atom"
+    },
+    "0f44bd04ba536cef02db": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "How we made GitHub Copilot CLI more selective about delegation",
+      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "source": "GitHub Blog Atom"
+    },
+    "f42a0bf79368d34084a4": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "GitHub availability report: May 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+      "source": "GitHub Blog Atom"
+    },
+    "5f3fb3e80e794fdf9164": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+      "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+      "source": "GitHub Blog Atom"
+    },
+    "09341bcddfe112e11bde": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "source": "GitHub Blog Atom"
+    },
+    "2427db065adf9dc4fcc3": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "source": "GitHub Blog Atom"
+    },
+    "35aaef2a746a3b94f027": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "GitHub for Beginners: Answers to some common questions",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
+      "source": "GitHub Blog Atom"
+    },
+    "c95aa870aadd1529786b": {
+      "first_seen_at": "2026-06-17T12:44:59+00:00",
+      "last_seen_at": "2026-06-17T12:44:59+00:00",
+      "title": "GitHub Universe is back: All together now, in the agentic era",
+      "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+      "source": "GitHub Blog Atom"
+    },
+    "746fb32a147e7aed9665": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "FortiSandbox: Angriffe auf kritische Schwachstellen beobachtet",
+      "url": "https://www.heise.de/news/Angriffe-auf-FortiSandbox-Schwachstellen-11335667.html",
+      "source": "heise Security Alerts"
+    },
+    "f01d29c6b9e59a74c36f": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Android 17 hat direkt Sicherheitspatches mit an Bord",
+      "url": "https://www.heise.de/news/Android-17-hat-direkt-Sicherheitspatches-mit-an-Bord-11335345.html",
+      "source": "heise Security Alerts"
+    },
+    "8a23229f6e5f8d277405": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Critical Security Patch Update: Oracle veröffentlicht 245 Sicherheitsupdates",
+      "url": "https://www.heise.de/news/Critical-Security-Patch-Update-Oracle-veroeffentlicht-245-Sicherheitsupdates-11335248.html",
+      "source": "heise Security Alerts"
+    },
+    "48c6a4ed3f60d36fb5ce": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Nvidias KI-Agenten-Plattform NeMo ist über drei Sicherheitslücken angreifbar",
+      "url": "https://www.heise.de/news/Nvidias-KI-Agenten-Plattform-NeMo-ist-ueber-drei-Sicherheitsluecken-angreifbar-11335058.html",
+      "source": "heise Security Alerts"
+    },
+    "c7033403a98584e0e3da": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Mehrere Plug-ins für JetBrains-IDEs stehlen API-Keys für OpenAI, DeepSeek & Co.",
+      "url": "https://www.heise.de/news/Mehrere-Plug-ins-fuer-JetBrains-IDEs-stehlen-API-Keys-fuer-OpenAI-DeepSeek-Co-11335021.html",
+      "source": "heise Security Alerts"
+    },
+    "78066f4c3b91cd1c0718": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen",
+      "url": "https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html",
+      "source": "heise Security Alerts"
+    },
+    "671a3656c0d2466767ea": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Root-Attacken auf Cisco Catalyst SD-WAN Manager und cPanel-Plug-in LiteSpeed",
+      "url": "https://www.heise.de/news/Root-Attacken-auf-Cisco-Catalyst-SD-WAN-Manager-und-cPanel-Plug-in-LiteSpeed-11333457.html",
+      "source": "heise Security Alerts"
+    },
+    "63ca956e20d4bcaffb16": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "phpBB: Kritische Sicherheitslücke ermöglicht Kompromittierung",
+      "url": "https://www.heise.de/news/phpBB-Kritische-Sicherheitsluecke-ermoeglicht-Kompromittierung-11332689.html",
+      "source": "heise Security Alerts"
+    },
+    "e01c99aee6b7bd7befd3": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Präparierte PDF-Datei kann Avira Antivirus gefährlich werden",
+      "url": "https://www.heise.de/news/Praeparierte-PDF-Datei-kann-Avira-Antivirus-gefaehrlich-werden-11332323.html",
+      "source": "heise Security Alerts"
+    },
+    "257bbe0c34388b5c3f13": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Cybergang ShinyHunters attackiert Oracle-PeopleSoft-Schwachstelle",
+      "url": "https://www.heise.de/news/Cybergang-ShinyHunters-attackiert-Oracle-PeopleSoft-Schwachstelle-11331861.html",
+      "source": "heise Security Alerts"
+    },
+    "6f9c9a61d04a05c7e337": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Ubiquiti UniFi OS: Kritische Schadcode-Lücken und mehr",
+      "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Kritische-Luecken-erlauben-Codeschmuggel-11329967.html",
+      "source": "heise Security Alerts"
+    },
+    "a6c1199c33957ce7ae7e": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Ivanti Sentry: Verwirrung um Status von kritischem Befehlsschmuggel-Leck",
+      "url": "https://www.heise.de/news/Ivanti-Sentry-Wirrwar-um-Missbrauch-kritischer-Befehlsschmuggel-Luecke-11329730.html",
+      "source": "heise Security Alerts"
+    },
+    "ade1e9a334d8ae6a4671": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "FreeBSD: Rechteausweitungslücke mit augenzwinkerndem Codenamen",
+      "url": "https://www.heise.de/news/FreeBSD-Rechteausweitungsluecke-mit-augenzwinkerndem-Codenamen-11328722.html",
+      "source": "heise Security Alerts"
+    },
+    "43f5e19cfa16fb828c32": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Geräteverwaltung: Root-Attacken auf Ivanti Endpoint Manager Mobile möglich",
+      "url": "https://www.heise.de/news/Geraeteverwaltung-Root-Attacken-auf-Ivanti-Endpoint-Manager-Mobile-moeglich-11328488.html",
+      "source": "heise Security Alerts"
+    },
+    "dad7648c7c73c2cea279": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "OpenSSL: Präparierte Signatur kann Weg für Schadcode ebnen",
+      "url": "https://www.heise.de/news/OpenSSL-Praeparierte-Signatur-kann-Weg-fuer-Schadcode-ebnen-11328258.html",
+      "source": "heise Security Alerts"
+    },
+    "1ae9f1f8dcdd97b66abc": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Oracle warnt außer der Reihe vor kritischer PeopleSoft-Codeschmuggel-Lücke",
+      "url": "https://www.heise.de/news/Oracle-warnt-ausser-der-Reihe-vor-kritischer-PeopleSoft-Codeschmuggel-Luecke-11328164.html",
+      "source": "heise Security Alerts"
+    },
+    "945dd050499c5f8b8515": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Fortinet schließt Befehlsschmuggel-Lücke in FortiSandbox und mehr",
+      "url": "https://www.heise.de/news/Fortinet-schliesst-Befehlsschmuggel-Luecke-in-FortiSandbox-und-mehr-11326887.html",
+      "source": "heise Security Alerts"
+    },
+    "56eb64f2b4e1049f8791": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Patchday: Adobe schließt mehr als 120 Sicherheitslücken in InDesign & Co.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-mehr-als-120-Sicherheitsluecken-in-InDesign-Co-11326790.html",
+      "source": "heise Security Alerts"
+    },
+    "8d49f23c61c826349d0a": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "Microsoft-Patchday mit offenem Ende: Forscher legt RoguePlanet-Zero-Day nach",
+      "url": "https://www.heise.de/news/Microsoft-begeht-Patchday-IT-Forscher-schiebt-RoguePlanet-Zero-Day-nach-11326714.html",
+      "source": "heise Security Alerts"
+    },
+    "a8b5cd5b70a83d0aa25e": {
+      "first_seen_at": "2026-06-17T12:45:02+00:00",
+      "last_seen_at": "2026-06-17T12:45:02+00:00",
+      "title": "SAP-Patchday: Kritische Lücken in SAP NetWeaver und weitere Schwachstellen",
+      "url": "https://www.heise.de/news/SAP-Patchday-Kritische-Luecken-in-SAP-NetWeaver-und-weitere-Schwachstellen-11323078.html",
+      "source": "heise Security Alerts"
+    },
+    "49821e862e3ca50df9d9": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "source": "BleepingComputer Security"
+    },
+    "643d0693ac7a8cb6745f": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+      "source": "BleepingComputer Security"
+    },
+    "aa150d6423090ae994ed": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "source": "BleepingComputer Security"
+    },
+    "28e13660d44b7a4d54bb": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "source": "BleepingComputer Security"
+    },
+    "2b4a2161f7cdb3ff72d9": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "source": "BleepingComputer Security"
+    },
+    "fb4374ca7d30d068b47d": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "source": "BleepingComputer Security"
+    },
+    "7a75497f653a258718e8": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "source": "BleepingComputer Security"
+    },
+    "d3c20b79f7134c1aeabb": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "source": "BleepingComputer Security"
+    },
+    "8dc899d8c3bb88969e3b": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "source": "BleepingComputer Security"
+    },
+    "f24ea52b1bc5abf6ad6d": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "source": "BleepingComputer Security"
+    },
+    "8aa86590c670be268ccc": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "source": "BleepingComputer Security"
+    },
+    "30daa4656e9784eef448": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "source": "BleepingComputer Security"
+    },
+    "fe0ee14a2bf6e91e999c": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "source": "BleepingComputer Security"
+    },
+    "4735ab47dc4c6d2de275": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "source": "BleepingComputer Security"
+    },
+    "178117c3677a49a70cc1": {
+      "first_seen_at": "2026-06-17T12:45:03+00:00",
+      "last_seen_at": "2026-06-17T12:45:03+00:00",
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "source": "BleepingComputer Security"
+    },
+    "d35aa74f588d0640d937": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Main backmerge",
+      "url": "https://github.com/maximhq/bifrost/pull/2402",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "5f9effc8e989677d0a2e": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Device Posture Integration with TailScale",
+      "url": "https://github.com/fleetdm/fleet/issues/29780",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "fe7bdbb02fb24b5b7713": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Add files via upload",
+      "url": "https://github.com/FigureT13/Delete-Me/pull/1",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "e75be3f9ffcfdc822165": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Update dependencies",
+      "url": "https://github.com/axi0m/axi0m/pull/3",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "999486dc927471fca224": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "📐 Test support for Microsoft Teams, Discord and Slack",
+      "url": "https://github.com/axi0m/ratatoskr/issues/10",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "58beb51798d679cc0660": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Update dependencies",
+      "url": "https://github.com/axi0m/ratatoskr/pull/66",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "68e8d770c5b6726d121f": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Add CodeQL workflow for GitHub code scanning",
+      "url": "https://github.com/axi0m/nathair/pull/494",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "b860a9ee64183909b836": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Add code of conduct and update packages",
+      "url": "https://github.com/axi0m/ratatoskr/pull/64",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "936e7a7a3990b8244141": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "🔑 - Verify GitLab API Personal Access Token Before Check",
+      "url": "https://github.com/axi0m/ratatoskr/issues/54",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "3bfe60c1345cc2daaacb": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Update dependencies and Python version in README",
+      "url": "https://github.com/axi0m/nathair/pull/493",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "6bececdfec000c00a54f": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "📜 Add logging",
+      "url": "https://github.com/axi0m/ratatoskr/issues/13",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "68d7df606e115bb458a0": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Add functions for checking API tokens",
+      "url": "https://github.com/axi0m/ratatoskr/pull/62",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "e1a54ae526b93bdca8d3": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Update dependencies",
+      "url": "https://github.com/axi0m/nathair/pull/492",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "7bc64040137802486081": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Add asciinema markdown to README.md",
+      "url": "https://github.com/axi0m/ratatoskr/pull/51",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "4096bc3832cfcb283637": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Update CHANGELOG.md and version to match recent enhancements",
+      "url": "https://github.com/axi0m/ratatoskr/pull/48",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "cc8be7a69bb2884d47e5": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "Update README badges",
+      "url": "https://github.com/axi0m/nathair/pull/490",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "58a6202cd637c4d7cb05": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "💥 Remove `requests-html` and leverage urllib.parse to URL encode GitLab Projects into API requests",
+      "url": "https://github.com/axi0m/ratatoskr/issues/42",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "9a56c8af53475328b646": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "📚 Ensure PEP-0257 compliant docstrings",
+      "url": "https://github.com/axi0m/ratatoskr/issues/34",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "ff1c18cf71fc8bec89be": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "📚 Add badges to README",
+      "url": "https://github.com/axi0m/ratatoskr/issues/22",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "f960ce13de8bc29a5bf5": {
+      "first_seen_at": "2026-06-17T12:45:10+00:00",
+      "last_seen_at": "2026-06-17T12:45:10+00:00",
+      "title": "❇️ Add Feature - Load environment variables from .env file",
+      "url": "https://github.com/axi0m/ratatoskr/issues/39",
+      "source": "GitHub Search: AXI0M Mentions"
+    },
+    "1db42c9cfc13a0e5ba32": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "Ciprian-LocalPulse/my-sponsorship-page",
+      "url": "https://github.com/Ciprian-LocalPulse/my-sponsorship-page",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "3d3cb82720a48c4045e8": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "ulukalabs/SIHA",
+      "url": "https://github.com/ulukalabs/SIHA",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "22d96719e56296d56d97": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "BlockShield-Systems/github.io",
+      "url": "https://github.com/BlockShield-Systems/github.io",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "768527f363a8bad153b4": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "piushmaji/LumaAI",
+      "url": "https://github.com/piushmaji/LumaAI",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "8e66933511f84095938a": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "GoGoComputer/openclaw-workspace",
+      "url": "https://github.com/GoGoComputer/openclaw-workspace",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "81ef7090651adc2159f2": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "selefaith26/File-CleanUp-OpenAI",
+      "url": "https://github.com/selefaith26/File-CleanUp-OpenAI",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "3996c51eedaab103998f": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "Dvargas2332/YUI-GENESIS",
+      "url": "https://github.com/Dvargas2332/YUI-GENESIS",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "88b583abb75f675bc402": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "IActuallyHateAI/closecaw",
+      "url": "https://github.com/IActuallyHateAI/closecaw",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "7c66537bb0f34830168b": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude",
+      "url": "https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "57651fb7338a2a13a6cb": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "infosectestwin/Auth0-Assistant0",
+      "url": "https://github.com/infosectestwin/Auth0-Assistant0",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "9a98a2e7608a5802e629": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "trollByte/auxiora",
+      "url": "https://github.com/trollByte/auxiora",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "f5fd7aad31eddf418941": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "donatodelpeschio/sentinelai",
+      "url": "https://github.com/donatodelpeschio/sentinelai",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "0c726de0cec647cf9815": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "nehemiahbrown007/VexzillaAITS.COM-dataTRUST-Securityapp.gov_IBINGOD-trade.1SGA",
+      "url": "https://github.com/nehemiahbrown007/VexzillaAITS.COM-dataTRUST-Securityapp.gov_IBINGOD-trade.1SGA",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "6f7f5c4c8e2a3e43d3c0": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "NullAITech/NullAI-HexStrike-AI-Terminal",
+      "url": "https://github.com/NullAITech/NullAI-HexStrike-AI-Terminal",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "90f8d7fe3c28fb311133": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "bradylowe/paranoid-agent",
+      "url": "https://github.com/bradylowe/paranoid-agent",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "62f5f02bd03d279844b6": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "redacted-actual/Android-Redacter",
+      "url": "https://github.com/redacted-actual/Android-Redacter",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "ceac47b9291773651371": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "barrersoftware/barrer-security-scanner",
+      "url": "https://github.com/barrersoftware/barrer-security-scanner",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "9d5054b1f719bc644998": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "Rohitsharma6377/NeuroX-OS",
+      "url": "https://github.com/Rohitsharma6377/NeuroX-OS",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "d50080a68fc403a8103e": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "joynahid/screenfilter",
+      "url": "https://github.com/joynahid/screenfilter",
+      "source": "GitHub Search: AI Security Automation"
+    },
+    "9a380024525242edf45d": {
+      "first_seen_at": "2026-06-17T12:45:13+00:00",
+      "last_seen_at": "2026-06-17T12:45:13+00:00",
+      "title": "Shaheryar-Ashraf-007/ai-process-automation",
+      "url": "https://github.com/Shaheryar-Ashraf-007/ai-process-automation",
+      "source": "GitHub Search: AI Security Automation"
+    }
+  }
+}
