@@ -69,6 +69,9 @@ class Finding:
     relevance_reason: str = ""
     risk_or_opportunity: str = "observation"
     recommended_action: str = ""
+    watchgraph_modules: list[str] = field(default_factory=list)
+    watchgraph_reasons: list[str] = field(default_factory=list)
+    market_context: list[str] = field(default_factory=list)
     id: str = ""
 
 
@@ -310,6 +313,11 @@ def github_headers(token: str | None) -> dict[str, str]:
     return headers
 
 
+def should_skip_repository_result(item: dict[str, Any]) -> bool:
+    """Filter repository-search noise that query syntax does not always suppress."""
+    return bool(item.get("archived") or item.get("fork"))
+
+
 def fetch_github_search(
     session: requests.Session,
     source: dict[str, Any],
@@ -350,6 +358,12 @@ def fetch_github_search(
 
     for item in items[:max_items]:
         if mode in {"repositories", "repos"}:
+            if should_skip_repository_result(item):
+                logging.info(
+                    "Skipping repository result %s because it is fork/archived.",
+                    item.get("full_name") or item.get("name"),
+                )
+                continue
             title = item.get("full_name") or item.get("name") or "GitHub repository"
             url = item.get("html_url") or ""
             summary = item.get("description") or ""
@@ -581,15 +595,6 @@ def fetch_manual_notes(source: dict[str, Any], fetched_at: str) -> list[Finding]
     return findings
 
 
-def keyword_specs(keywords_config: dict[str, Any], source: dict[str, Any]) -> list[dict[str, Any]]:
-    specs = list(keywords_config.get("keywords") or [])
-    # Source-specific keywords get a small weight; they help narrow context without
-    # permanently modifying the global vocabulary.
-    for kw in source_keywords(source):
-        specs.append({"term": kw, "aliases": [kw], "weight": 2, "categories": ["source_specific"]})
-    return specs
-
-
 def contains_term(text: str, term: str) -> bool:
     term = term.strip()
     if not term:
@@ -600,11 +605,392 @@ def contains_term(text: str, term: str) -> bool:
     return term.lower() in text
 
 
-def score_finding(finding: Finding, source: dict[str, Any], keywords_config: dict[str, Any], rules: dict[str, Any]) -> Finding:
+def keyword_key(value: Any) -> str:
+    """Normalize a keyword or alias for de-duplication."""
+    return normalize_ws(str(value)).casefold()
+
+
+def matching_terms(text: str, terms: list[Any]) -> list[str]:
+    """Return configured terms that appear in text, de-duplicated and stable."""
+    hits: list[str] = []
+    seen: set[str] = set()
+
+    for raw in terms or []:
+        term = str(raw).strip()
+        key = keyword_key(term)
+        if not term or not key or key in seen:
+            continue
+        if contains_term(text, term):
+            hits.append(term)
+            seen.add(key)
+    return hits
+
+
+def unique_keep_order(values: list[Any]) -> list[str]:
+    result: list[str] = []
+    seen: set[str] = set()
+
+    for value in values or []:
+        text = str(value).strip()
+        key = keyword_key(text)
+        if not text or not key or key in seen:
+            continue
+        result.append(text)
+        seen.add(key)
+
+    return result
+
+
+def keyword_specs(keywords_config: dict[str, Any], source: dict[str, Any]) -> list[dict[str, Any]]:
+    specs: list[dict[str, Any]] = []
+    seen_keys: set[str] = set()
+
+    def add_spec(spec: dict[str, Any]) -> None:
+        term = str(spec.get("term") or "").strip()
+        if not term:
+            return
+
+        aliases = [str(a).strip() for a in (spec.get("aliases") or [term]) if str(a).strip()]
+        keys = {keyword_key(term), *(keyword_key(alias) for alias in aliases)}
+        keys.discard("")
+        if not keys or seen_keys.intersection(keys):
+            return
+
+        copied = dict(spec)
+        copied["term"] = term
+        copied["aliases"] = aliases or [term]
+        specs.append(copied)
+        seen_keys.update(keys)
+
+    for spec in keywords_config.get("keywords") or []:
+        if isinstance(spec, dict):
+            add_spec(spec)
+
+    # Source-specific keywords get a small weight; they help narrow context without
+    # permanently modifying the global vocabulary.
+    for kw in source_keywords(source):
+        add_spec({"term": kw, "aliases": [kw], "weight": 2, "categories": ["source_specific"]})
+
+    return specs
+
+
+def infer_source_class(source: dict[str, Any], finding: Finding) -> str | None:
+    explicit = source.get("source_class") or source.get("class")
+    if explicit:
+        return str(explicit).strip() or None
+
+    source_type = str(source.get("type") or finding.source_type or "").lower()
+    if source_type == "github_search":
+        return None
+
+    url = str(source.get("url") or finding.url or "").lower()
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    source_text = " ".join(
+        str(x or "").lower()
+        for x in [
+            source.get("id"),
+            source.get("name"),
+            finding.source,
+            host,
+            parsed.path,
+        ]
+    )
+
+    if "cisa" in source_text or "nvd" in source_text:
+        return "security_advisory"
+    if "usgs" in source_text:
+        return "geoscience_institute"
+    if "gdacs" in source_text:
+        return "emergency_management"
+    if "noaa" in source_text or "nhc" in source_text or "weather" in source_text:
+        return "weather_agency"
+    if "reliefweb" in source_text or "who" in source_text:
+        return "humanitarian_agency"
+    if "ecb" in source_text or "federalreserve" in source_text or "rbi" in source_text or "boj" in source_text:
+        return "central_bank"
+    if host.endswith(".gov") or ".gov." in host:
+        return "government"
+    if source_type in {"rss", "webpage_check"} and any(
+        official_host in host
+        for official_host in [
+            "openai.com",
+            "github.blog",
+            "snyk.io",
+            "portswigger.net",
+        ]
+    ):
+        return "vendor_advisory"
+    return None
+
+
+def source_is_official(source: dict[str, Any], finding: Finding, watchgraph_rules: dict[str, Any]) -> tuple[bool, str | None]:
+    source_class = infer_source_class(source, finding)
+    official_classes = {str(x) for x in watchgraph_rules.get("official_source_classes", [])}
+    return bool(source_class and source_class in official_classes), source_class
+
+
+def source_requires_cross_source_confirmation(
+    source: dict[str, Any],
+    finding: Finding,
+    watchgraph: dict[str, Any],
+    watchgraph_rules: dict[str, Any],
+) -> bool:
+    source_type = str(source.get("type") or finding.source_type or "").lower()
+    mode = str(source.get("mode") or "").lower()
+    if source_type == "reddit_json":
+        return True
+    if source_type == "github_search" and mode in {"repositories", "repos"}:
+        return True
+
+    gates = watchgraph.get("credibility_gates") or {}
+    social_terms = list(gates.get("social_is_smoke_until_confirmed") or [])
+    social_terms.extend(watchgraph_rules.get("cross_source_required") or [])
+    source_text = " ".join(
+        str(x or "").lower()
+        for x in [
+            source.get("id"),
+            source.get("name"),
+            source_type,
+            mode,
+            finding.source,
+        ]
+    )
+    for raw in social_terms:
+        term = str(raw or "").strip().lower()
+        if len(term) <= 2:
+            continue
+        if term in source_text:
+            return True
+    return False
+
+
+def match_watchgraph_modules(
+    finding: Finding,
+    combined_text: str,
+    watchgraph: dict[str, Any],
+) -> tuple[list[str], list[str]]:
+    modules = watchgraph.get("modules") or []
+    matched_modules: list[str] = []
+    module_reasons: list[str] = []
+
+    for module in modules:
+        if not isinstance(module, dict):
+            continue
+
+        module_id = str(module.get("id") or "").strip()
+        hits = matching_terms(combined_text, list(module.get("buzzwords") or []))
+        if module_id and hits:
+            matched_modules.append(module_id)
+            module_reasons.append(f"{module_id}: {', '.join(hits[:4])}")
+
+    return unique_keep_order(matched_modules), module_reasons
+
+
+def market_context_for_modules(
+    module_ids: list[str],
+    watchgraph: dict[str, Any],
+    watchgraph_markets: dict[str, Any],
+) -> list[str]:
+    context: list[str] = []
+
+    modules_by_id = {
+        str(module.get("id")): module
+        for module in (watchgraph.get("modules") or [])
+        if isinstance(module, dict) and module.get("id")
+    }
+    for module_id in module_ids:
+        module = modules_by_id.get(module_id) or {}
+        context.extend(module.get("market_basket") or [])
+
+    baskets = watchgraph_markets.get("baskets") or {}
+    module_to_baskets = watchgraph_markets.get("module_to_baskets") or {}
+    for module_id in module_ids:
+        for basket_name in module_to_baskets.get(module_id, []) or []:
+            name = str(basket_name).strip()
+            if not name:
+                continue
+            if name in baskets:
+                context.extend(baskets.get(name) or [])
+            else:
+                context.append(name)
+
+    return unique_keep_order(context)
+
+
+def watchgraph_market_basket_names(module_ids: list[str], watchgraph_markets: dict[str, Any]) -> list[str]:
+    module_to_baskets = watchgraph_markets.get("module_to_baskets") or {}
+    baskets = watchgraph_markets.get("baskets") or {}
+    names: list[str] = []
+    for module_id in module_ids:
+        for basket_name in module_to_baskets.get(module_id, []) or []:
+            name = str(basket_name).strip()
+            if name and name in baskets:
+                names.append(name)
+    return unique_keep_order(names)
+
+
+def apply_watchgraph_scoring(
+    score: float,
+    matched: list[str],
+    reasons: list[str],
+    finding: Finding,
+    source: dict[str, Any],
+    rules: dict[str, Any],
+    combined_text: str,
+    watchgraph: dict[str, Any] | None = None,
+    watchgraph_markets: dict[str, Any] | None = None,
+) -> tuple[float, list[str], list[str], list[str]]:
+    watchgraph_rules = rules.get("watchgraph_scoring") or {}
+    if watchgraph_rules.get("enabled", True) is False:
+        return score, matched, reasons, []
+
+    watchgraph = watchgraph if watchgraph is not None else rules.get("_watchgraph") or {}
+    watchgraph_markets = watchgraph_markets if watchgraph_markets is not None else rules.get("_watchgraph_markets") or {}
+    high_threshold = int((rules.get("scoring") or {}).get("high_threshold", 18))
+
+    gate_reasons: list[str] = []
+    identity_hits = matching_terms(combined_text, ["AXI0M", "User Yps", "Question86", "senna-infoflow"])
+    identity_match = bool({"axi0m", "user yps"} & {hit.casefold() for hit in identity_hits})
+    if identity_hits:
+        gate_reasons.append("identity")
+
+    is_official, source_class = source_is_official(source, finding, watchgraph_rules)
+    if is_official:
+        gate_reasons.append(f"official:{source_class}")
+
+    high_signal_hits = matching_terms(combined_text, watchgraph_rules.get("high_signal_boost_terms", []))
+    if high_signal_hits:
+        boost = min(36.0, 12.0 * len(high_signal_hits))
+        score += boost
+        reasons.append(f"watchgraph high-signal {', '.join(high_signal_hits[:4])} (+{boost:.1f})")
+        gate_reasons.append("high_signal")
+
+    region_score = 0.0
+    china_context = False
+    for region, terms in (watchgraph.get("regions") or {}).items():
+        hits = matching_terms(combined_text, list(terms or []))
+        if not hits:
+            continue
+        region_score += 2.0
+        reasons.append(f"watchgraph region {region}: {', '.join(hits[:3])} (+2.0)")
+        if region == "china_credible_only":
+            china_context = True
+        if region_score >= 6.0:
+            break
+    score += region_score
+
+    if china_context:
+        config_china_gate = ((watchgraph.get("credibility_gates") or {}).get("china_credible_only") or {})
+        rules_china_gate = watchgraph_rules.get("china_credibility_gate") or {}
+        china_accept_hits = matching_terms(
+            combined_text,
+            list(config_china_gate.get("accept_if_any") or []) + list(rules_china_gate.get("accept_if_any") or []),
+        )
+        if china_accept_hits:
+            gate_reasons.append("china_credible")
+            reasons.append(f"watchgraph China credibility gate: {', '.join(china_accept_hits[:3])}")
+
+        china_demote_hits = matching_terms(
+            combined_text,
+            list(config_china_gate.get("demote_if_only") or []) + list(rules_china_gate.get("demote_if_only") or []),
+        )
+        if china_demote_hits and not china_accept_hits:
+            penalty = min(8.0, 4.0 * len(china_demote_hits))
+            score -= penalty
+            reasons.append(f"watchgraph China demote: {', '.join(china_demote_hits[:3])} (-{penalty:.1f})")
+
+    module_ids, module_reasons = match_watchgraph_modules(finding, combined_text, watchgraph)
+    if module_ids:
+        finding.watchgraph_modules = module_ids
+        finding.watchgraph_reasons = module_reasons
+        matched.extend([f"Watchgraph:{module_id}" for module_id in module_ids])
+        module_bonus = min(12.0, 3.0 * len(module_ids))
+        score += module_bonus
+        reasons.append(f"watchgraph modules {', '.join(module_ids[:4])} (+{module_bonus:.1f})")
+
+    market_context = market_context_for_modules(module_ids, watchgraph, watchgraph_markets)
+    if market_context:
+        finding.market_context = market_context[:30]
+        market_hits = matching_terms(combined_text, [term for term in market_context if len(str(term).strip()) > 1])
+        if market_hits:
+            market_score = min(6.0, 2.0 * len(market_hits))
+            score += market_score
+            basket_names = watchgraph_market_basket_names(module_ids, watchgraph_markets)
+            basket_text = f" via {', '.join(basket_names[:3])}" if basket_names else ""
+            reasons.append(f"watchgraph markets{basket_text}: {', '.join(market_hits[:5])} (+{market_score:.1f})")
+
+    disaster_context = bool(
+        {
+            "earthquakes_tsunami",
+            "volcano_aviation",
+            "storms_floods_weather",
+            "wildfire_heat_drought",
+            "war_escalation_sanctions",
+            "energy_oil_gas_power_uranium",
+            "shipping_chokepoints_supply_chain",
+        }
+        & set(module_ids)
+    )
+
+    disaster_gate_hits = matching_terms(combined_text, ["capital", "critical infrastructure", "infrastructure", "evacuation"])
+    if disaster_context and disaster_gate_hits:
+        gate_reasons.append("disaster_infrastructure")
+
+    market_confirmation_hits = matching_terms(
+        combined_text,
+        ["market halted", "trading suspended", "confirmed market move", "price move", "central bank emergency"],
+    )
+    if market_confirmation_hits:
+        gate_reasons.append("market_confirmation")
+
+    demote_hits = matching_terms(combined_text, watchgraph_rules.get("demote_terms", []))
+    if demote_hits and not identity_match:
+        factor = 0.75 if high_signal_hits else 0.45
+        score *= factor
+        reasons.append(f"watchgraph demote {', '.join(demote_hits[:4])} (x{factor:.2f})")
+
+    needs_confirmation = source_requires_cross_source_confirmation(source, finding, watchgraph, watchgraph_rules)
+    if needs_confirmation:
+        reasons.append("watchgraph confirmation gate: source class needs independent confirmation for high priority")
+
+    source_mode = str(source.get("mode") or "").lower().strip()
+    is_single_github_repo_signal = finding.source_type == "github_search" and source_mode in {"repositories", "repos"}
+    if is_single_github_repo_signal and not identity_match and not high_signal_hits and score >= high_threshold:
+        score = max(0.0, float(high_threshold - 1))
+        reasons.append("single GitHub repository description requires confirmation (capped below high)")
+
+    accepts_high = bool(gate_reasons)
+    if int(round(score)) >= high_threshold and not accepts_high:
+        score = min(score, float(high_threshold - 1))
+        reasons.append(
+            "watchgraph high-priority gate: capped below high priority "
+            "(no identity, official-source, high-signal, disaster/market confirmation gate)"
+        )
+    elif int(round(score)) >= high_threshold and needs_confirmation and not (
+        "identity" in gate_reasons or "high_signal" in gate_reasons or any(x.startswith("official:") for x in gate_reasons)
+    ):
+        score = min(score, float(high_threshold - 1))
+        reasons.append("watchgraph high-priority gate: capped below high priority until independently confirmed")
+
+    return score, matched, reasons, high_signal_hits
+
+
+def score_finding(
+    finding: Finding,
+    source: dict[str, Any],
+    keywords_config: dict[str, Any],
+    rules: dict[str, Any],
+    watchgraph: dict[str, Any] | None = None,
+    watchgraph_markets: dict[str, Any] | None = None,
+) -> Finding:
+    watchgraph = watchgraph if watchgraph is not None else rules.get("_watchgraph") or {}
+    watchgraph_markets = watchgraph_markets if watchgraph_markets is not None else rules.get("_watchgraph_markets") or {}
     scoring = rules.get("scoring") or {}
     title_multiplier = float(scoring.get("title_multiplier", 1.4))
     url_multiplier = float(scoring.get("url_multiplier", 1.2))
     max_score = int(scoring.get("max_score", 100))
+    high_threshold = int(scoring.get("high_threshold", 18))
 
     title_text = finding.title.lower()
     summary_text = finding.summary.lower()
@@ -647,6 +1033,18 @@ def score_finding(finding: Finding, source: dict[str, Any], keywords_config: dic
         except Exception:
             pass
 
+    score, matched, reasons, high_signal_hits = apply_watchgraph_scoring(
+        score,
+        matched,
+        reasons,
+        finding,
+        source,
+        rules,
+        combined_text,
+        watchgraph,
+        watchgraph_markets,
+    )
+
     classification = rules.get("classification") or {}
     risk_terms = [str(x) for x in classification.get("risk_terms", [])]
     opportunity_terms = [str(x) for x in classification.get("opportunity_terms", [])]
@@ -664,8 +1062,11 @@ def score_finding(finding: Finding, source: dict[str, Any], keywords_config: dic
 
     actions = rules.get("actions") or {}
     identity_terms = {"AXI0M", "User Yps"}
-    if identity_terms.intersection(set(matched)):
+    identity_match = bool(identity_terms.intersection(set(matched)))
+    if identity_match:
         action = actions.get("identity_match")
+    elif finding.risk_or_opportunity == "mixed":
+        action = actions.get("default_mixed")
     elif finding.risk_or_opportunity == "risk":
         action = actions.get("default_risk")
     elif finding.risk_or_opportunity == "opportunity":
@@ -673,12 +1074,12 @@ def score_finding(finding: Finding, source: dict[str, Any], keywords_config: dic
     else:
         action = actions.get("default_observation")
 
-    high_threshold = int(scoring.get("high_threshold", 18))
     if score >= high_threshold:
-        action = f"{actions.get('high_priority', '').strip()} {action or ''}".strip()
+        high_prefix = actions.get("watchgraph_hot") if high_signal_hits else actions.get("high_priority")
+        action = f"{(high_prefix or '').strip()} {action or ''}".strip()
 
     finding.matched_keywords = sorted(set(matched), key=str.lower)
-    finding.relevance_score = min(max_score, int(round(score)))
+    finding.relevance_score = max(0, min(max_score, int(round(score))))
     finding.relevance_reason = "; ".join(reasons) if reasons else "No configured keyword match."
     finding.recommended_action = action or "Beobachten und bei Wiederholung erneut bewerten."
     return finding
@@ -750,16 +1151,38 @@ def markdown_link(url: str) -> str:
 
 def render_finding_md(finding: Finding) -> str:
     keywords = ", ".join(finding.matched_keywords) if finding.matched_keywords else "keine"
+    modules = ", ".join(finding.watchgraph_modules) if finding.watchgraph_modules else "keine"
+    market_context = ", ".join(finding.market_context[:12]) if finding.market_context else "keiner"
     return (
         f"- **{finding.title}** — Score {finding.relevance_score}, "
         f"{finding.risk_or_opportunity}{markdown_link(finding.url)}\n"
         f"  - Quelle: {finding.source} / `{finding.source_type}`\n"
         f"  - Zeit: published `{finding.published_at or 'unbekannt'}`, fetched `{finding.fetched_at}`\n"
         f"  - Treffer: {keywords}\n"
+        f"  - Watchgraph: {modules}\n"
+        f"  - Markt-/Kontextkorb: {market_context}\n"
         f"  - Warum relevant: {finding.relevance_reason}\n"
         f"  - Kurz: {finding.summary or 'Keine Zusammenfassung verfügbar.'}\n"
         f"  - Handlung: {finding.recommended_action}"
     )
+
+
+def limit_findings_for_section(findings: list[Finding], max_items: int, max_per_source: int) -> list[Finding]:
+    if max_items <= 0:
+        return []
+
+    selected: list[Finding] = []
+    source_counts: dict[str, int] = {}
+    for finding in findings:
+        if len(selected) >= max_items:
+            break
+        if max_per_source > 0:
+            source_key = finding.source or "unknown"
+            if source_counts.get(source_key, 0) >= max_per_source:
+                continue
+            source_counts[source_key] = source_counts.get(source_key, 0) + 1
+        selected.append(finding)
+    return selected
 
 
 def short_situation(high: list[Finding], medium: list[Finding], observe: list[Finding], errors: list[SourceError]) -> str:
@@ -782,7 +1205,11 @@ def render_briefing_md(findings: list[Finding], errors: list[SourceError], rules
     high, medium, observe = priority_sections(findings, rules)
     briefing_rules = rules.get("briefing") or {}
     max_items = int(briefing_rules.get("max_items_per_section", 20))
+    max_items_per_source = int(briefing_rules.get("max_items_per_source_per_section", 0))
     reminder_min_score = int(briefing_rules.get("reminder_candidate_min_score", 18))
+    high_render = limit_findings_for_section(high, max_items, max_items_per_source)
+    medium_render = limit_findings_for_section(medium, max_items, max_items_per_source)
+    observe_render = limit_findings_for_section(observe, max_items, max_items_per_source)
 
     recommendations: list[str] = []
     for f in high + medium:
@@ -808,11 +1235,20 @@ def render_briefing_md(findings: list[Finding], errors: list[SourceError], rules
         "",
     ]
 
-    lines.extend([render_finding_md(f) for f in high[:max_items]] or ["Keine neuen Hochprioritäts-Treffer."])
+    lines.extend(
+        [render_finding_md(f) for f in high_render]
+        or ["Keine neuen Hochprioritäts-Treffer."]
+    )
     lines.extend(["", "## Priorität Mittel", ""])
-    lines.extend([render_finding_md(f) for f in medium[:max_items]] or ["Keine neuen mittleren Treffer."])
+    lines.extend(
+        [render_finding_md(f) for f in medium_render]
+        or ["Keine neuen mittleren Treffer."]
+    )
     lines.extend(["", "## Nur beobachten", ""])
-    lines.extend([render_finding_md(f) for f in observe[:max_items]] or ["Keine neuen Beobachtungssignale."])
+    lines.extend(
+        [render_finding_md(f) for f in observe_render]
+        or ["Keine neuen Beobachtungssignale."]
+    )
     lines.extend(["", "## Empfehlungen", ""])
 
     if recommendations:
@@ -836,6 +1272,24 @@ def render_briefing_md(findings: list[Finding], errors: list[SourceError], rules
     return "\n".join(lines)
 
 
+def dedupe_key(finding: Finding) -> str:
+    """Prefer URL-level de-duplication across sources; fall back to stable ids."""
+    url = clean_url(finding.url).rstrip("/")
+    if url:
+        return f"url:{url.lower()}"
+    return f"id:{finding.id or stable_hash(finding.source_type, finding.title, finding.source)}"
+
+
+def dedupe_key_from_dict(item: dict[str, Any]) -> str:
+    url = clean_url(str(item.get("url") or "")).rstrip("/")
+    if url:
+        return f"url:{url.lower()}"
+    item_id = str(item.get("id") or "")
+    if item_id:
+        return f"id:{item_id}"
+    return f"id:{stable_hash(str(item.get('source_type') or ''), str(item.get('title') or ''), str(item.get('source') or ''))}"
+
+
 def merge_todays_findings(new_findings: list[Finding]) -> list[dict[str, Any]]:
     date_dir = DATA_DIR / today_str()
     path = date_dir / "findings.json"
@@ -846,11 +1300,10 @@ def merge_todays_findings(new_findings: list[Finding]) -> list[dict[str, Any]]:
     by_id: dict[str, dict[str, Any]] = {}
     for item in existing:
         if isinstance(item, dict):
-            item_id = str(item.get("id") or stable_hash(item.get("url", ""), item.get("title", "")))
-            by_id[item_id] = item
+            by_id[dedupe_key_from_dict(item)] = item
 
     for finding in new_findings:
-        by_id[finding.id] = asdict(finding)
+        by_id[dedupe_key(finding)] = asdict(finding)
 
     merged = sorted(
         by_id.values(),
@@ -903,6 +1356,13 @@ def main() -> int:
     sources_config = load_yaml(CONFIG_DIR / "sources.yaml", {})
     keywords_config = load_yaml(CONFIG_DIR / "keywords.yaml", {"keywords": []})
     rules = load_yaml(CONFIG_DIR / "rules.yaml", {})
+    watchgraph = load_yaml(CONFIG_DIR / "watchgraph.yaml", {})
+    watchgraph_markets = load_yaml(CONFIG_DIR / "watchgraph_markets.yaml", {})
+    rules = dict(rules) if isinstance(rules, dict) else {}
+    watchgraph = watchgraph if isinstance(watchgraph, dict) else {}
+    watchgraph_markets = watchgraph_markets if isinstance(watchgraph_markets, dict) else {}
+    rules["_watchgraph"] = watchgraph
+    rules["_watchgraph_markets"] = watchgraph_markets
 
     env = {
         "github_token": os.getenv("GITHUB_TOKEN", "").strip() or None,
@@ -947,7 +1407,7 @@ def main() -> int:
                 finding.id = stable_hash(finding.source_type, finding.url or finding.title, finding.source)
 
             already_seen = is_seen(state, finding)
-            scored = score_finding(finding, source, keywords_config, rules)
+            scored = score_finding(finding, source, keywords_config, rules, watchgraph, watchgraph_markets)
 
             # Mark seen after scoring. This prevents repeated noise from old items.
             mark_seen(state, scored)
@@ -959,10 +1419,10 @@ def main() -> int:
 
         time.sleep(polite_delay)
 
-    # Dedupe across sources by id and URL/title fallback.
+    # Dedupe across sources by URL first, then stable finding identity.
     deduped: dict[str, Finding] = {}
     for item in new_relevant:
-        key = item.id or stable_hash(item.url, item.title)
+        key = dedupe_key(item)
         old = deduped.get(key)
         if old is None or item.relevance_score > old.relevance_score:
             deduped[key] = item
