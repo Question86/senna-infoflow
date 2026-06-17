@@ -2680,6 +2680,43 @@
     "id": "2c3ad2bd798f8ef7e4a1"
   },
   {
+    "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Central Mid-Atlantic Ridge 17/06/2026 18:56 UTC, [unknown].",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547100",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-17T19:12:00+00:00",
+    "fetched_at": "2026-06-17T19:40:44+00:00",
+    "summary": "On 6/17/2026 6:56:58 PM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6.6M, Depth:10km.",
+    "matched_keywords": [
+      "earthquake",
+      "GitHub",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "436da8027057d886052e"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.6M, Depth:96.026km) in Papua New Guinea 17/06/2026 17:30 UTC, 180 thousand in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547090",
     "source": "GDACS All Events Last 24h",
@@ -3496,6 +3533,44 @@
       "URA"
     ],
     "id": "c1d422fc03a9e7ed3127"
+  },
+  {
+    "title": "M 6.6 - central Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti",
+    "source": "USGS Significant Earthquakes",
+    "source_type": "rss",
+    "published_at": "2026-06-17T19:27:46.829+00:00",
+    "fetched_at": "2026-06-17T19:40:44+00:00",
+    "summary": "PAGER - GREEN ShakeMap - I Time 2026-06-17 18:56:58 UTC 2026-06-17 18:56:58 UTC at epicenter Location 0.525°S 20.015°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "earthquake (+2.4); PAGER (+2.0); ShakeMap (+2.0); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6c49ade7eecee8895692"
   },
   {
     "title": "Copilot usage metrics now include more of your active users",
