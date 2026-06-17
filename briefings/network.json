@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-06-17T19:58:36+00:00",
+  "source": "briefings/latest.json",
+  "counts": {
+    "findings": 0,
+    "clusters": 0,
+    "cross_source_confrmed": 0,
+    "hot": 0
+  },
+  "clusters": []
+}
