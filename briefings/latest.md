@@ -1,323 +1,425 @@
 # Senna Briefing
 
-_Generiert: 2026-06-17T12:45:15+00:00_
+_Generiert: 2026-06-17T18:47:21+00:00_
 
 ## Kurzlage
 
-106 neue relevante Treffer. Stärkstes Signal: „selefaith26/File-CleanUp-OpenAI“ aus GitHub Search: AI Security Automation (Score 50, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+79 neue relevante Treffer. Stärkstes Signal: „Network Hub roadmap: cadence, momentum, correlation, alerts, AXI0M intelligence“ aus GitHub Search: AXI0M Mentions (Score 64, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
-- **selefaith26/File-CleanUp-OpenAI** — Score 50, opportunity — [Quelle](https://github.com/selefaith26/File-CleanUp-OpenAI)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-05-07T04:56:05+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, OpenAI, privacy, security, Security, Webentwicklung
-  - Warum relevant: GitHub (+6.0); OpenAI (+10.1); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Webentwicklung (+4.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: A Python automation tool that uses the OpenAI API to scan a Downloads folder, identify files older than 60 days, get an AI-powered cleanup recommendation, and move flagged files to a review folder. Built for Grand Canyon University — Privacy and Emerging Topics in Security.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Shaheryar-Ashraf-007/ai-process-automation** — Score 50, opportunity — [Quelle](https://github.com/Shaheryar-Ashraf-007/ai-process-automation)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2025-08-18T11:35:57+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security, Webentwicklung
-  - Warum relevant: GitHub (+6.0); AI/KI (+8.4); Security (+6.0); Datenschutz (+6.0); Webentwicklung (+4.0); Automatisierung (+8.4); AI (+3.4); security (+2.0); automation (+3.4); privacy (+2.0)
-  - Kurz: It is my final year project. its a combination of ai + automation + privacy security It will be a unique project because its a new idea in the market and there is no copy on Youtube and on other plateform. i will also use microservices like aws docker and kubernates backend will on nodejs with javascript and fronend on nextjs using typescript
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude** — Score 45, opportunity — [Quelle](https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-05-28T08:26:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, Open Source, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+8.4); Security (+6.0); Datenschutz (+6.0); Open Source (+4.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0); Open Source (+2.0)
-  - Kurz: Autonomous self-learning Agent Plugin for Claude Code 🤖 Automatic learning, real-time dashboard, 40+ linters, OWASP security, CodeRabbit PR reviews. Production-ready with 100% local processing, privacy-first. Free open source AI automation tool
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **nehemiahbrown007/VexzillaAITS.COM-dataTRUST-Securityapp.gov_IBINGOD-trade.1SGA** — Score 45, opportunity — [Quelle](https://github.com/nehemiahbrown007/VexzillaAITS.COM-dataTRUST-Securityapp.gov_IBINGOD-trade.1SGA)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-03-09T23:03:52+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security, Webentwicklung
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+10.1); Datenschutz (+6.0); Webentwicklung (+4.0); Automatisierung (+5.0); AI (+2.0); security (+3.4); automation (+2.0); privacy (+2.0)
-  - Kurz: Description: Encrypted Command & Control (C2) for 1GAA Global Operations. Manages the "Privacy Shield" ledger, FFL compliance automation, and tiered membership API for the Guns and Auto Club. Core Repository Functions
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Add CodeQL workflow for GitHub code scanning** — Score 44, observation — [Quelle](https://github.com/axi0m/nathair/pull/494)
+- **Network Hub roadmap: cadence, momentum, correlation, alerts, AXI0M intelligence** — Score 64, observation — [Quelle](https://github.com/Question86/senna-infoflow/issues/4)
   - Quelle: GitHub Search: AXI0M Mentions / `github_search`
-  - Zeit: published `2022-11-16T14:56:48+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: Automatisierung, AXI0M, GitHub, Security
-  - Warum relevant: AXI0M (+16.8); GitHub (+8.4); Security (+6.0); Automatisierung (+7.0); AXI0M (+2.4); GitHub (+3.4)
-  - Kurz: Hi `axi0m/nathair`! This is a one-off automatically generated pull request from LGTM.com :robot:. You might have heard that we’ve integrated LGTM’s underlying CodeQL analysis engine natively into GitHub. The result is [**GitHub code scanning**](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning)! With LGTM fully integrated into c…
+  - Zeit: published `2026-06-17T16:33:56+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AXI0M, GitHub, Question86, senna-infoflow, User Yps
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AXI0M (+19.6); User Yps (+12.0); Question86 (+12.0); senna-infoflow (+12.0); GitHub (+6.0); recent (+2.0)
+  - Kurz: # Network Hub roadmap User Yps provided a 20-point external feedback board. The feedback is now converted into config and docs, but code integration still needs to follow after the local `monitor.py` patch. ## New files - `config/network_hub.yaml` - `config/source_credibility.yaml` - `docs/network_hub.md` - `tests/test_network_hub_config.py` ## Core diagnosis The monitor must stop being only a periodic keyword count…
   - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.
-- **Rohitsharma6377/NeuroX-OS** — Score 42, opportunity — [Quelle](https://github.com/Rohitsharma6377/NeuroX-OS)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2025-12-08T10:58:30+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, OpenAI, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: NeuroX OS is a next-generation, ultra-secure, AI-powered mobile operating system designed for the future of intelligent, automated, and privacy-first smartphones. Built on an Android-compatible foundation (AOSP/LineageOS), NeuroX OS combines a fully local GPT-style AI, deep system automation, and military-grade security into one unified platform.
+- **Memory: Senna Infoflow watchgraph expansion 2026-06-17** — Score 63, observation — [Quelle](https://github.com/Question86/keeper-clean/issues/3)
+  - Quelle: GitHub Search: AXI0M Mentions / `github_search`
+  - Zeit: published `2026-06-17T15:42:38+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AXI0M, GitHub, Question86, senna-infoflow, User Yps, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AXI0M (+14.0); User Yps (+12.0); Question86 (+12.0); senna-infoflow (+14.0); GitHub (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: # Memory: Senna Infoflow watchgraph expansion — 2026-06-17 Canonical operational issue: - `Question86/senna-infoflow#2` - Title: `Watchgraph expansion: global macro/microtrend monitor structure` ## What changed User Yps directed Senna to expand the monitor into a global watchgraph for: - mass-psychological relevance - AXI0M/company relevance - macro and microtrends - political power centers - global disasters - mark…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.
+- **Power-up: monitor.py scoring cleanup and workflow hardening** — Score 58, observation — [Quelle](https://github.com/Question86/senna-infoflow/issues/1)
+  - Quelle: GitHub Search: AXI0M Mentions / `github_search`
+  - Zeit: published `2026-06-17T14:51:10+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AXI0M, GitHub, GitHub Actions, Question86, Security, senna-infoflow
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AXI0M (+14.0); Question86 (+12.0); senna-infoflow (+12.0); GitHub (+6.0); GitHub Actions (+6.0); Security (+6.0); recent (+2.0)
+  - Kurz: Senna-read of current state after 2026-06-17 config hardening. What is already improved: - `config/sources.yaml` now prioritizes direct AXI0M/User-Yps/project signals. - Broad GitHub repository search is narrowed with stars/pushed filters. - Reddit JSON sources are disabled because the latest run showed 403 from GitHub Actions. - Added security/platform sources: GitHub Changelog, CISA advisories, Snyk, PortSwigger,…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.
+- **Watchgraph expansion: global macro/microtrend monitor structure** — Score 52, observation — [Quelle](https://github.com/Question86/senna-infoflow/issues/2)
+  - Quelle: GitHub Search: AXI0M Mentions / `github_search`
+  - Zeit: published `2026-06-17T15:42:23+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AXI0M, GitHub, Question86, Security, senna-infoflow
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AXI0M (+14.0); Question86 (+12.0); senna-infoflow (+12.0); GitHub (+6.0); Security (+6.0); recent (+2.0)
+  - Kurz: # Watchgraph Expansion: global macro/microtrend monitor structure Purpose: turn `senna-infoflow` from a narrow tech/security briefing into a ranked early-warning system for mass-psychological relevance, AXI0M relevance, macro shocks, microtrends, and events that are likely to hit mainstream press later. This is not a request to monitor everything. It is a ranking structure for what matters before it becomes obvious.…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.
+- **AXIOM | Verifiable AI Process Infrastructure** — Score 32, observation — [Quelle](https://axi0m.de/)
+  - Quelle: AXI0M Website / `webpage_check`
+  - Zeit: published `2026-06-16T12:06:02+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI/KI, AXI0M, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AXI0M (+16.8); AI/KI (+7.0); Webentwicklung (+4.0); recent (+2.0); watchgraph region europe: EU (+2.0)
+  - Kurz: AXIOM is a data-agnostic, API-accessible AI runtime that produces bit-exact, hash-secured, deterministically reproducible results with full process provenance. Built for EU AI Act compliance and serious analytical workflows.
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.
+- **Node-gyp Supply Chain Compromise: A Self-Propagating npm Worm That Hides in binding.gyp** — Score 32, risk — [Quelle](https://snyk.io/blog/node-gyp-supply-chain-compromise-self-propagating-npm-worm-binding-gyp/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-04T04:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub, Open Source, Security, Snyk, Supply Chain Security, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: GitHub (+5.0); Security (+6.0); Supply Chain Security (+11.2); Open Source (+4.0); Snyk (+2.4); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: A new npm worm is abusing binding.gyp to trigger node-gyp during install, letting malicious packages run code without lifecycle scripts. It steals credentials, persists in GitHub, and self-propagates across maintainers.
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Protestware by open source maintainer to hinder agentic coding: The jqwik 1.10.0 Prompt Injection** — Score 32, opportunity — [Quelle](https://snyk.io/blog/protestware-open-source-maintainer-qwik-1-10-0-prompt-injection/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-02T00:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI Agents, AI/KI, Open Source, Security, Snyk, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: AI/KI (+5.0); AI Agents (+8.4); Security (+6.0); Open Source (+6.7); Snyk (+2.4); watchgraph modules elections_unrest (+3.0)
+  - Kurz: jqwik 1.10.0 added a hidden prompt injection aimed at AI coding agents, using terminal escape codes to conceal destructive instructions from humans while leaving them readable to logs and tools.
   - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **NullAITech/NullAI-HexStrike-AI-Terminal** — Score 41, opportunity — [Quelle](https://github.com/NullAITech/NullAI-HexStrike-AI-Terminal)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-06-09T08:04:58+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+8.4); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+3.4); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: An AI-augmented security terminal for Parrot OS 7 "Echo." NullAI HexStrike bridges the gap between raw tool outputs (EmailHarvester, Nmap, Nikto) and actionable intelligence using a local, privacy-first LocalAI core.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **infosectestwin/Auth0-Assistant0** — Score 40, opportunity — [Quelle](https://github.com/infosectestwin/Auth0-Assistant0)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-04-07T05:05:37+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+10.1); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: Assistant0 is a security-first AI personal assistant that bridges the gap between intelligent automation and user privacy. Assistant0 leverages **Auth0 Token Vault** and **Auth0 FGA (Fine-Grained Authorization)**. This ensures that the AI can act on the user's behalf
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **donatodelpeschio/sentinelai** — Score 40, opportunity — [Quelle](https://github.com/donatodelpeschio/sentinelai)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-03-30T10:41:08+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security, Webentwicklung
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Webentwicklung (+4.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: 🛡️ AI-powered security platform that analyzes code vulnerabilities and log attacks using local LLMs (Ollama). Detects SQL injection, XSS, hardcoded secrets, path traversal. Docker-based with FastAPI + React. Privacy-first, zero API costs. Perfect for DevSecOps automation.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Ciprian-LocalPulse/my-sponsorship-page** — Score 36, opportunity — [Quelle](https://github.com/Ciprian-LocalPulse/my-sponsorship-page)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-06-11T12:13:18+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: GitHub Sponsors hub for Ciprian Stefan Plesca — architect of sovereign AI infrastructure, zero-trust systems, and secure enterprise automation. Sponsorships help fund open research, security blueprints, and privacy-first technologies.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI** — Score 36, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-09T16:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, Automatisierung, Content-Chance, GitHub
-  - Warum relevant: GitHub (+8.4); AI/KI (+6.0); Automatisierung (+8.4); Content-Chance (+7.0); GitHub (+3.4); AI (+2.4)
-  - Kurz: Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog .
+- **So You Have an AI Security Budget. Now what?** — Score 30, observation — [Quelle](https://snyk.io/blog/ai-security-budget/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-04T00:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI Agents, AI security, AI/KI, Security, Snyk
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+8.4); AI Agents (+6.0); Security (+10.1); Snyk (+2.4); AI security (+2.8)
+  - Kurz: An AI security budget should fund more than visibility. The real priority is unified governance and enforcement across agentic development and production apps.
   - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ulukalabs/SIHA** — Score 36, opportunity — [Quelle](https://github.com/ulukalabs/SIHA)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-06-01T20:58:56+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: A privacy-focused smart home ecosystem for automation, monitoring, and assisted care. SIHA integrates AI, health tracking, security systems, and local-first infrastructure to help families remotely support children and older adults while maintaining user control over data.
+- **Document repository name typo: Ergo_tastmaster → Ergo_taskmaster** — Score 30, observation — [Quelle](https://github.com/Question86/Ergo_taskmaster/pull/1)
+  - Quelle: GitHub Search: senna-infoflow Mentions / `github_search`
+  - Zeit: published `2025-12-27T22:53:30+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub, Question86, senna-infoflow
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Question86 (+12.0); senna-infoflow (+10.0); GitHub (+8.4)
+  - Kurz: The GitHub repository is named `Ergo_tastmaster` but should be `Ergo_taskmaster`. All content files already use the correct spelling. ## Changes - **REPOSITORY_RENAME_NEEDED.md**: Instructions for repository owner to rename via GitHub Settings, including migration steps for contributors - **README.md**: Added note referencing the rename documentation Repository rename requires owner/admin permissions and must be per…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The New Security Risks of the Agentic Development Lifecycle** — Score 29, opportunity — [Quelle](https://snyk.io/blog/agentic-development-lifecycle/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-03T00:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI Agents, AI/KI, Security, Snyk, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+5.0); AI Agents (+10.1); Security (+8.4); Snyk (+2.4); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: AI agents are changing how software gets built, and with it, where security risk begins. Learn why securing the process matters as much as securing the code.
   - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **piushmaji/LumaAI** — Score 36, opportunity — [Quelle](https://github.com/piushmaji/LumaAI)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-05-25T14:43:14+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: Luma AI is an offline AI-powered platform that securely connects with local databases and runs directly on the user’s machine without relying on cloud servers. It enables safe data processing, AI automation, and intelligent operations while keeping all sensitive data stored and managed locally for better privacy, security, and performance.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **IActuallyHateAI/closecaw** — Score 36, opportunity — [Quelle](https://github.com/IActuallyHateAI/closecaw)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-04-14T17:32:30+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: CloseCaw is a privacy-first automation wrapper for agents. The name alludes at how it was a close call for security practices with the state of libraries like OpenClaw and such. CloseCaw will be designed in mind with AI being enclosed in a closed black box when interacting with different containers.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **bradylowe/paranoid-agent** — Score 36, opportunity — [Quelle](https://github.com/bradylowe/paranoid-agent)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-02-03T05:38:25+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: A hardened, local-first blueprint for running powerful AI agents (like Letta) without the usual security trade-offs. Built for developers and privacy enthusiasts who want the automation of AI agents but remain deeply skeptical of giving "brains" direct access to their "hands".
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **redacted-actual/Android-Redacter** — Score 36, opportunity — [Quelle](https://github.com/redacted-actual/Android-Redacter)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-02-01T23:14:06+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: An AI-powered Android tool for privacy. Use on-device OCR & voice commands to automatically black out PII from images and PDFs. Features: 🎙️ Voice Automation: Natural language redaction triggers. 🛡️ Flattened Security: Burns redactions into pixels. 🔒 100% Offline: ML Kit processing ensures data privacy.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **joynahid/screenfilter** — Score 36, opportunity — [Quelle](https://github.com/joynahid/screenfilter)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2025-09-13T02:19:32+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, Datenschutz, GitHub, privacy, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+6.0); Datenschutz (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0); privacy (+2.0)
-  - Kurz: Smart screen recording with automatic privacy protection. Hide sensitive info, blur faces, and record safely with AI-powered filtering.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **BlockShield-Systems/github.io** — Score 34, opportunity — [Quelle](https://github.com/BlockShield-Systems/github.io)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-05-25T00:06:54+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, GitHub, security, Security, Webentwicklung
-  - Warum relevant: GitHub (+8.4); AI/KI (+5.0); Security (+6.0); Webentwicklung (+4.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0)
-  - Kurz: Production portfolio website for ai-techart.com: AI workflows, creative AI, automation systems, modern web development, legal/service documentation and project showcases by Demian Lienert.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Dvargas2332/YUI-GENESIS** — Score 34, opportunity — [Quelle](https://github.com/Dvargas2332/YUI-GENESIS)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2026-04-30T05:53:17+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, GitHub, OpenAI, security, Security
-  - Warum relevant: GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); Security (+6.0); Automatisierung (+5.0); AI (+2.0); security (+2.0); automation (+2.0)
-  - Kurz: Local AI agent with voice, vision, memory, and desktop control. A single unified brain that autonomously decides which capabilities to activate. 100% private, compatible with any OpenAI-compatible LLM.
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **barrersoftware/barrer-security-scanner** — Score 33, opportunity — [Quelle](https://github.com/barrersoftware/barrer-security-scanner)
-  - Quelle: GitHub Search: AI Security Automation / `github_search`
-  - Zeit: published `2025-12-30T18:03:45+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, automation, Automatisierung, GitHub, security, Security
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); Security (+10.1); Automatisierung (+5.0); AI (+2.0); security (+3.4); automation (+2.0)
-  - Kurz: Enterprise-grade AI security scanner - local, private, comprehensive system security analysis
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Agent finder for GitHub Copilot now available** — Score 28, observation — [Quelle](https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-17T16:21:56+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: GitHub (+8.4); AI/KI (+5.0); AI Agents (+6.0); Copilot (+3.4); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: GitHub agent finder is now available. Instead of hand-wiring which MCP servers, skills, canvases, agents, and tools each agent should use—and filling your context window in the process—GitHub Copilot can… The post Agent finder for GitHub Copilot now available appeared first on The GitHub Blog .
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sponsor Launch: fund Keeper-Clean roadmap** — Score 28, observation — [Quelle](https://github.com/Question86/keeper-clean/issues/1)
+  - Quelle: GitHub Search: senna-infoflow Mentions / `github_search`
+  - Zeit: published `2026-05-20T18:51:37+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub, Question86, senna-infoflow
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Question86 (+12.0); senna-infoflow (+10.0); GitHub (+6.0)
+  - Kurz: ## Goal: First $5 sponsorship milestone Current progress: **$0 / $5** If Keeper-Clean helps your workflows, sponsor here: - Quick support ($5/month): https://github.com/sponsors/Question86/sponsorships?tier_id=ST_kwDOBsgOBs4ACXHq - One-time boost ($10): https://github.com/sponsors/Question86/sponsorships?tier_id=ST_kwDOBsgOBs4ACXHt - Full sponsor page: https://github.com/sponsors/Question86 ## What funding unlocks -…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Government Just Banned an AI Model. An Engineer's Perspective.** — Score 27, risk — [Quelle](https://snyk.io/blog/government-ban-ai-model-engineer-perspective/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-15T00:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI/KI, Security, Snyk, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+8.4); Security (+6.0); Supply Chain Security (+8.0); Snyk (+2.4); recent (+2.0)
+  - Kurz: A government order abruptly took down a powerful AI model, exposing a new kind of supply chain risk for engineering teams. Security leaders need contingency plans before the next model disappears.
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Priorität Mittel
 
-- **FTC warns of record $3.5 billion losses to imposter scams in 2025** — Score 17, observation — [Quelle](https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T13:42:19+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: GitHub, security, Security
-  - Warum relevant: GitHub (+5.0); Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]
+- **A Day in the Life of an AI Engineer in Snyk's Lisbon Office** — Score 23, observation — [Quelle](https://snyk.io/blog/a-day-in-the-life-of-an-ai-engineer-in-snyks-lisbon-office/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-16T23:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI/KI, Security, Snyk, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+8.4); Security (+6.0); Snyk (+3.4); recent (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Explore a day in the life of an AI Engineer at Snyk's Lisbon office. See what it's like building AI-powered security tools, collaborating globally, and enjoying the vibrant culture of Portugal's capital city.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What Codex unlocks for Notion** — Score 17, observation — [Quelle](https://openai.com/index/notion)
+- **Miasma supply chain attack: malicious code found in @redhat-cloud-services npm packages** — Score 23, risk — [Quelle](https://snyk.io/blog/miasma-supply-chain-attack-malicious-code-redhat-cloud-services-npm-packages/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-01T00:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: Security, Snyk, Supply Chain Security, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); Supply Chain Security (+11.2); Snyk (+2.4); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: A supply chain worm dubbed Miasma has been found in dozens of @redhat-cloud-services npm releases. The malicious preinstall hook steals credentials, probes cloud identities, and can republish other packages.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **romanklis/openclaw-contained** — Score 23, opportunity — [Quelle](https://github.com/romanklis/openclaw-contained)
+  - Quelle: GitHub Search: Agent Security / `github_search`
+  - Zeit: published `2026-04-23T20:59:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI Agents, AI/KI, GitHub, permissions, sandbox, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Security (+6.0); sandbox (+2.0); permissions (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
+  - Kurz: TaskForge runs AI agents in sandboxed Docker containers with capability-based security. Agents start with minimal permissions and must request new capabilities (packages, network access, tools) through a human-in-the-loop approval process. Every approval triggers a container image rebuild, and every LLM interaction is logged for audit.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Green notification for tropical cyclone ARTHUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (8.348 million in Tropical Storm).** — Score 22, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001276)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-17T15:06:23+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: cyclone, GitHub, Security, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: GitHub (+6.0); Security (+6.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph markets via insurance_disaster, construction_rebuild, energy_oil_gas_uranium: LOW (+2.0)
+  - Kurz: From 16/06/2026 to 17/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) ARTHUR-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (8.348 million in tropical storm).
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **India's Telegram ban hit the UAE too. Here's how to get around it** — Score 21, risk — [Quelle](https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/)
+  - Quelle: BleepingComputer Security / `rss`
+  - Zeit: published `2026-06-17T13:12:45+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: Content-Chance, Security, Watchgraph:narrative_social_reputation
+  - Watchgraph: narrative_social_reputation
+  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Security (+7.2); Content-Chance (+7.0); recent (+2.0); watchgraph region india: India (+2.0); watchgraph modules narrative_social_reputation (+3.0)
+  - Kurz: India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Rapidly switching between tabs causes view size to be wrong** — Score 20, observation — [Quelle](https://github.com/sindresorhus/Settings/issues/9)
+  - Quelle: GitHub Search: senna-infoflow Mentions / `github_search`
+  - Zeit: published `2026-05-21T11:42:47+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub, Open Source, senna-infoflow
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: senna-infoflow (+10.0); GitHub (+6.0); Open Source (+4.0)
+  - Kurz: [ ](https://oss.issuehunt.io/r/sindresorhus/Preferences/issues/9) ![prefs](https://user-images.githubusercontent.com/676069/54189415-07f6e800-44b2-11e9-8b99-c2de1ccc2dd1.gif) Is there an option to force view size recalculation every time another tab is selected? --- IssueHunt Summary ### Backers (Total: $60.00) - [ issuehunt](https://oss.issuehunt.io/u/issuehunt) ($60.00) ### Submitted pull Requests - [#28 Fixes pre…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Type Level Security: The future of secure AI code generation?** — Score 19, observation — [Quelle](https://snyk.io/blog/type-level-security/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-04T00:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI/KI, Security, Snyk
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+7.0); Security (+10.1); Snyk (+2.4)
+  - Kurz: Secure-by-design types can turn common bugs into compile-time errors. This post explores how type-level security could help prevent entire classes of AI-generated vulnerabilities.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry** — Score 18, observation — [Quelle](https://openai.com/index/ai-chemist-improves-reaction)
   - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-09T10:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, OpenAI
-  - Warum relevant: OpenAI (+7.2); AI/KI (+5.0); OpenAI (+2.4); AI (+2.0)
-  - Kurz: How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.
+  - Zeit: published `2026-06-17T10:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.2); AI/KI (+8.4); recent (+2.0)
+  - Kurz: OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Industrial policy for the Intelligence Age** — Score 17, observation — [Quelle](https://openai.com/index/industrial-policy-for-the-intelligence-age)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-09T00:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, OpenAI
-  - Warum relevant: OpenAI (+7.2); AI/KI (+5.0); OpenAI (+2.4); AI (+2.0)
-  - Kurz: Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Biodefense in the Intelligence Age** — Score 17, observation — [Quelle](https://openai.com/index/biodefense-in-the-intelligence-age)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-04T00:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: AI, AI/KI, OpenAI
-  - Warum relevant: OpenAI (+7.2); AI/KI (+5.0); OpenAI (+2.4); AI (+2.0)
-  - Kurz: An action plan for AI-powered biological resilience
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA warns of another cPanel plugin flaw exploited in attacks** — Score 16, risk — [Quelle](https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T10:47:59+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: cybersecurity, security, Security
-  - Warum relevant: Security (+10.1); security (+2.4); cybersecurity (+2.0); recent (+2.0)
-  - Kurz: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]
+- **A Forgotten Contributor Account Compromised the Entire Mastra npm Package Scope** — Score 18, risk — [Quelle](https://snyk.io/blog/a-forgotten-contributor-account-compromised-the-entire-mastra-npm-package-scope/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-16T21:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: Content-Chance, Security, Snyk, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); Content-Chance (+5.0); Snyk (+2.4); recent (+2.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: A dormant contributor account was used to republish the entire @mastra npm scope, each injected with a single dependency, easy-day-js, that drops a cross-platform cryptocurrency stealer. Here is how the attack worked, how to check exposure, and how to remediate.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Critical Security Patch Update: Oracle veröffentlicht 245 Sicherheitsupdates** — Score 15, observation — [Quelle](https://www.heise.de/news/Critical-Security-Patch-Update-Oracle-veroeffentlicht-245-Sicherheitsupdates-11335248.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-17T08:31:00.000+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+10.1); security (+3.4); recent (+2.0)
-  - Kurz: Nach einem Notfall-Sicherheitsupdate für PeopleSoft veröffentlicht Oracle nun seine monatlichen Ssicherheitspatches.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA orders feds to patch max severity Joomla plugin flaw by Friday** — Score 14, risk — [Quelle](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-17T10:09:24+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: cybersecurity, security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); cybersecurity (+2.0); recent (+2.0)
-  - Kurz: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]
+- **Green notification for tropical cyclone CRISTINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).** — Score 18, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001275)
+  - Quelle: GDACS Tropical Cyclones Last Week / `rss`
+  - Zeit: published `2026-06-08T15:21:42+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub, Security, tropical cyclone, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: GitHub (+6.0); Security (+6.0); tropical cyclone (+2.8); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: From 08/06/2026 to 11/06/2026, a Tropical Depression (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (0 in tropical storm).
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Kodak confirms data breach claimed by ShinyHunters extortion gang** — Score 14, risk — [Quelle](https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-17T07:07:56+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: cybersecurity, security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); cybersecurity (+2.0); recent (+2.0)
-  - Kurz: Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]
+- **Green earthquake (Magnitude 4.7M, Depth:10km) in Off East Coast Of Honshu, Japan 17/06/2026 14:28 UTC, No people affected in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547059)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-17T15:20:25+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/17/2026 2:28:50 PM, an earthquake occurred in Off East Coast Of Honshu, Japan potentially affecting No people affected in 100km. The earthquake had Magnitude 4.7M, Depth:10km.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Critical Fortinet FortiSandbox flaws now exploited in attacks** — Score 14, risk — [Quelle](https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T09:19:51+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+10.1); security (+2.4); recent (+2.0)
-  - Kurz: Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]
+- **Green earthquake (Magnitude 4.5M, Depth:85.125km) in Philippines 17/06/2026 10:58 UTC, 1.5 million in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547009)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-17T15:12:42+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/17/2026 10:58:45 AM, an earthquake occurred in Philippines potentially affecting 1.5 million in 100km. The earthquake had Magnitude 4.5M, Depth:85.125km.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **New Rokarolla Android malware targets 217 banking, crypto apps** — Score 12, observation — [Quelle](https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T20:04:11+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Steam Workshop abused to spread malware via Wallpaper Engine app** — Score 12, observation — [Quelle](https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T18:27:55+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **UK to require ID or face scan before you can make social media accounts** — Score 12, risk — [Quelle](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T14:38:49+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]
+- **Green earthquake (Magnitude 5.2M, Depth:10km) in China 17/06/2026 14:20 UTC, 20 thousand in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547058)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-17T15:00:25+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/17/2026 2:20:04 PM, an earthquake occurred in China potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.2M, Depth:10km.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GhostTree Attack Abused Recursive Windows Junctions to Hide Malware** — Score 12, observation — [Quelle](https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/)
+- **Why Account Takeovers Are Rising and How to Stop Them** — Score 16, risk — [Quelle](https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/)
   - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T14:17:27+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Windows version of SprySOCKS Linux malware used to attack govt orgs** — Score 12, observation — [Quelle](https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T09:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **iRhythm discloses data breach, says hackers stole patient info** — Score 12, risk — [Quelle](https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-16T06:31:59+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+7.2); security (+2.4); recent (+2.0)
-  - Kurz: Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]
+  - Zeit: published `2026-06-17T14:00:10+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: Content-Chance, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.2); Content-Chance (+7.0); recent (+2.0)
+  - Kurz: Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub availability report: May 2026** — Score 12, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-may-2026/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-11T21:30:15+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: GitHub
-  - Warum relevant: GitHub (+8.4); GitHub (+3.4)
-  - Kurz: In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub for Beginners: Answers to some common questions** — Score 12, observation — [Quelle](https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-08T16:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: GitHub
-  - Warum relevant: GitHub (+8.4); GitHub (+3.4)
-  - Kurz: Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Universe is back: All together now, in the agentic era** — Score 12, observation — [Quelle](https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-04T16:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: GitHub
-  - Warum relevant: GitHub (+8.4); GitHub (+3.4)
-  - Kurz: GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Dreaming: Better memory for a more helpful ChatGPT** — Score 12, observation — [Quelle](https://openai.com/index/chatgpt-memory-dreaming)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-04T09:00:00+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: OpenAI
-  - Warum relevant: OpenAI (+10.1); OpenAI (+2.4)
-  - Kurz: ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft confirms Office apps launch issues after June updates** — Score 10, observation — [Quelle](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-17T11:54:21+00:00`, fetched `2026-06-17T12:44:54+00:00`
-  - Treffer: security, Security
-  - Warum relevant: Security (+6.0); security (+2.0); recent (+2.0)
-  - Kurz: Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Green earthquake (Magnitude 4.7M, Depth:163.969km) in Colombia 17/06/2026 10:51 UTC, 2.5 million in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547010)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-17T12:07:43+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/17/2026 10:51:00 AM, an earthquake occurred in Colombia potentially affecting 2.5 million in 100km. The earthquake had Magnitude 4.7M, Depth:163.969km.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **Copilot usage metrics now include more of your active users** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-06-15-copilot-usage-metrics-now-include-more-of-your-active-users)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-15T21:30:13+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+6.0); Copilot (+3.4); recent (+2.0)
+  - Kurz: Copilot usage metrics reports now draw on server-side telemetry in addition to client signals, so more of your active Copilot users show up in reports. Enterprise usage reports returned by… The post Copilot usage metrics now include more of your active users appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Enterprise-managed settings now support bypass permission controls** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-17T17:13:47+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+6.0); Copilot (+2.0); recent (+2.0)
+  - Kurz: We’re adding our first governance capability to the enterprise-managed settings configuration. Enterprise administrators can now set disableBypassPermissionsMode to "disable" in the enterprise-managed settings.json to prevent GitHub Copilot CLI and VS… The post Enterprise-managed settings now support bypass permission controls appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Models is no longer available to new customers** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-16-github-models-is-no-longer-available-to-new-customers)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-16T20:24:41+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+8.4); recent (+2.0)
+  - Kurz: We are retiring GitHub Models. As a first step, new customers can no longer use it. If your organization or enterprise have not previously used GitHub Models, you won’t see… The post GitHub Models is no longer available to new customers appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Code Quality generally available July 20, 2026** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-16-github-code-quality-generally-available-july-20-2026)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-16T16:25:31+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+8.4); recent (+2.0)
+  - Kurz: More than 10,000 enterprises have used the GitHub Code Quality public preview to detect maintainability and reliability issues, enforce quality gates, and track code coverage. On July 20, 2026, Code… The post GitHub Code Quality generally available July 20, 2026 appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Organization-level enablement for GitHub Code Quality** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-16-organization-level-enablement-for-github-code-quality)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-16T16:25:28+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+8.4); recent (+2.0)
+  - Kurz: Organization administrators can now enable or disable GitHub Code Quality across all repositories in their organization with a single toggle, instead of configuring each repository individually. What’s new A new… The post Organization-level enablement for GitHub Code Quality appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Rockwell Automation RSLinx** — Score 10, mixed — [Quelle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02)
+  - Quelle: CISA Cybersecurity Advisories / `rss`
+  - Zeit: published `2026-06-16T12:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: CISA, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CISA (+2.4); recent (+2.0)
+  - Kurz: View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: RSLinx Classic <=4.50.00 (CVE-2020-13573) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation RSLinx Classic Third-Party Vulnerability Out-of-bounds…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP** — Score 10, mixed — [Quelle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03)
+  - Quelle: CISA Cybersecurity Advisories / `rss`
+  - Zeit: published `2026-06-16T12:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: CISA, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CISA (+2.4); recent (+2.0)
+  - Kurz: View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP are affected: CompactLogix 5370 <=34.016 (CVE-2026-11317) Compact GuardLogix 5370 <=35.015 (CVE-2026-11317) ControlLogix 5570 <=35.015 (CVE-2…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Rockwell Automation FactoryTalk Analytics PavilionX** — Score 10, mixed — [Quelle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01)
+  - Quelle: CISA Cybersecurity Advisories / `rss`
+  - Zeit: published `2026-06-16T12:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: CISA, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CISA (+2.4); recent (+2.0)
+  - Kurz: View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX <7.01 (CVE-2025-14272) CVSS Vendor Equipment Vulnerabilities v3 7 Rockwell Automation Rockwell Automation FactoryTalk Analytics PavilionX Missing Authorization Background…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Rockwell Automation FLEX I/O EtherNet/IP Adapters** — Score 10, mixed — [Quelle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05)
+  - Quelle: CISA Cybersecurity Advisories / `rss`
+  - Zeit: published `2026-06-16T12:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: CISA, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CISA (+2.4); recent (+2.0)
+  - Kurz: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected: 1794-AENTR V2.012 (CVE-2026-0646, CVE-2026-0647) 1794-AENTRXT V2.012 (CVE-2026-0646, CVE-2026-0647) CVSS Vendor Equipment Vulnerabilities v3 9.4 Rockwell Autom…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Rockwell Automation CompactLogix** — Score 10, mixed — [Quelle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-04)
+  - Quelle: CISA Cybersecurity Advisories / `rss`
+  - Zeit: published `2026-06-16T12:00:00+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: CISA, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CISA (+2.4); recent (+2.0)
+  - Kurz: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation CompactLogix are affected: CompactLogix 5370 L1 CompactLogix 5370 L2 CompactLogix 5370 L3 CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation CompactLogix Improper Validation of Integrity Check Value, Exposure…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Summary for Tropical Storm Arthur (AT1/AL012026)** — Score 9, risk — [Quelle](https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/171753.shtml)
+  - Quelle: NOAA NHC Atlantic Tropical Cyclones / `rss`
+  - Zeit: published `2026-06-17T17:54:08+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: cyclone, flood, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: ...TROPICAL STORM WARNING REMAINS IN EFFECT FOR PORTIONS OF THE TEXAS AND LOUISIANA COAST... ...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 1:00 PM CDT Wed Jun 17 the center of Arthur was located near 28.9, -95.7 with movement NE at 9 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 45 mph.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Atlantic Tropical Weather Outlook** — Score 9, risk — [Quelle](https://www.nhc.noaa.gov/gtwo.php?basin=atlc)
+  - Quelle: NOAA NHC Atlantic Tropical Cyclones / `rss`
+  - Zeit: published `2026-06-17T17:50:05+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: cyclone, hurricane, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: 589 ABNT20 KNHC 171749 TWOAT Tropical Weather Outlook NWS National Hurricane Center Miami FL 200 PM EDT Wed Jun 17 2026 For the North Atlantic...Caribbean Sea and the Gulf of America: Active Systems: The National Hurricane Center is issuing advisories on recently upgraded Tropical Storm Arthur, located along the Upper Texas coast. Tropical cyclone formation is not expected during the next 7 days. $$ Forecaster Kelly
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Eastern North Pacific Tropical Weather Outlook** — Score 9, risk — [Quelle](https://www.nhc.noaa.gov/gtwo.php?basin=epac)
+  - Quelle: NOAA NHC Eastern Pacific Tropical Cyclones / `rss`
+  - Zeit: published `2026-06-17T17:47:03+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: cyclone, hurricane, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: 530 ABPZ20 KNHC 171746 TWOEP Tropical Weather Outlook NWS National Hurricane Center Miami FL 1100 AM PDT Wed Jun 17 2026 For the eastern and central North Pacific east of 180 longitude: Tropical cyclone formation is not expected during the next 7 days. $$ Forecaster Kelly
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Central North Pacific Tropical Weather Outlook** — Score 9, risk — [Quelle](https://www.nhc.noaa.gov/gtwo.php?basin=cpac)
+  - Quelle: NOAA NHC Central Pacific Tropical Cyclones / `rss`
+  - Zeit: published `2026-06-17T17:47:03+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: cyclone, hurricane, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: 529 ACPN50 PHFO 171746 TWOCP Tropical Weather Outlook NWS Central Pacific Hurricane Center Honolulu HI Issued by NWS National Hurricane Center Miami FL 800 AM HST Wed Jun 17 2026 For the central North Pacific...between 140W and 180W: Tropical cyclone formation is not expected during the next 7 days. $$ Forecaster Kelly NNNN
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Tropical Storm Arthur Forecast Discussion Number 6** — Score 9, risk — [Quelle](https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/171631.shtml)
+  - Quelle: NOAA NHC Atlantic Tropical Cyclones / `rss`
+  - Zeit: published `2026-06-17T16:31:33+00:00`, fetched `2026-06-17T18:46:41+00:00`
+  - Treffer: cyclone, hurricane, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: hurricane (+2.0); cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: Issued at 1130 AM CDT Wed Jun 17 2026 000 WTNT41 KNHC 171631 TCDAT1 Tropical Storm Arthur Special Discussion Number 6 NWS National Hurricane Center Miami FL AL012026 1130 AM CDT Wed Jun 17 2026 This special advisory is being issued to extend the Tropical Storm Warning for the Upper Texas coast southward to Sargent, Texas. Recent surface observations and NOAA buoy 42035 indicate that maximum sustained winds are near…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
-- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Treffer mit AXI0M/User-Yps-Bezug dokumentieren, Kontext prüfen und entscheiden, ob eine öffentliche oder interne Reaktion nötig ist.
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
-- **Add CodeQL workflow for GitHub code scanning** — AXI0M (+16.8); GitHub (+8.4); Security (+6.0); Automatisierung (+7.0); AXI0M (+2.4); GitHub (+3.4) — [Quelle](https://github.com/axi0m/nathair/pull/494)
-- **From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI** — GitHub (+8.4); AI/KI (+6.0); Automatisierung (+8.4); Content-Chance (+7.0); GitHub (+3.4); AI (+2.4) — [Quelle](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/)
-- **🔑 - Verify GitLab API Personal Access Token Before Check** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+5.6); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/issues/54)
-- **Add functions for checking API tokens** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+5.6); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/pull/62)
-- **💥 Remove `requests-html` and leverage urllib.parse to URL encode GitLab Projects into API requests** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+5.6); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/issues/42)
-- **📐 Test support for Microsoft Teams, Discord and Slack** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+4.0); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/issues/10)
-- **📜 Add logging** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+4.0); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/issues/13)
-- **📚 Add badges to README** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+4.0); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/issues/22)
-- **❇️ Add Feature - Load environment variables from .env file** — AXI0M (+16.8); GitHub (+6.0); Webentwicklung (+4.0); AXI0M (+2.4); GitHub (+2.4) — [Quelle](https://github.com/axi0m/ratatoskr/issues/39)
-- **Main backmerge** — AXI0M (+14.0); GitHub (+6.0); Webentwicklung (+4.0); AXI0M (+2.0); GitHub (+2.4) — [Quelle](https://github.com/maximhq/bifrost/pull/2402)
+- **Network Hub roadmap: cadence, momentum, correlation, alerts, AXI0M intelligence** — AXI0M (+19.6); User Yps (+12.0); Question86 (+12.0); senna-infoflow (+12.0); GitHub (+6.0); recent (+2.0) — [Quelle](https://github.com/Question86/senna-infoflow/issues/4)
+- **Memory: Senna Infoflow watchgraph expansion 2026-06-17** — AXI0M (+14.0); User Yps (+12.0); Question86 (+12.0); senna-infoflow (+14.0); GitHub (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0) — [Quelle](https://github.com/Question86/keeper-clean/issues/3)
+- **Power-up: monitor.py scoring cleanup and workflow hardening** — AXI0M (+14.0); Question86 (+12.0); senna-infoflow (+12.0); GitHub (+6.0); GitHub Actions (+6.0); Security (+6.0); recent (+2.0) — [Quelle](https://github.com/Question86/senna-infoflow/issues/1)
+- **Watchgraph expansion: global macro/microtrend monitor structure** — AXI0M (+14.0); Question86 (+12.0); senna-infoflow (+12.0); GitHub (+6.0); Security (+6.0); recent (+2.0) — [Quelle](https://github.com/Question86/senna-infoflow/issues/2)
+- **AXIOM | Verifiable AI Process Infrastructure** — AXI0M (+16.8); AI/KI (+7.0); Webentwicklung (+4.0); recent (+2.0); watchgraph region europe: EU (+2.0) — [Quelle](https://axi0m.de/)
 
 ## Quellenfehler
 
-- `reddit_machinelearning` (reddit_json): 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning/search.json?q=OpenAI+OR+GitHub+OR+privacy+OR+automation&restrict_sr=1&sort=new&t=week&limit=20
-- `reddit_cybersecurity` (reddit_json): 403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=GitHub+OR+OpenAI+OR+AI+OR+privacy+OR+supply+chain&restrict_sr=1&sort=new&t=week&limit=20
+- `portswigger_research` (rss): 403 Client Error: Forbidden for url: https://portswigger.net/research/rss
