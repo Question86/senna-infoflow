@@ -80,6 +80,10 @@ jobs:
           print(f"Reset merged config with {overlay_count} overlay source(s).")
           PY
 
+      - name: Write active source manifest
+        timeout-minutes: 1
+        run: python scripts/write_source_manifest.py
+
       - name: Validate monitor configuration
         timeout-minutes: 1
         run: python scripts/validate_config.py
@@ -91,6 +95,10 @@ jobs:
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 12
         run: python scripts/run_monitor_hardened.py
+
+      - name: Debias finding scores
+        timeout-minutes: 1
+        run: python scripts/debias_findings_postprocess.py
 
       - name: Run network hub postprocess
         timeout-minutes: 1
