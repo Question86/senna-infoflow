@@ -1,17 +1,14 @@
-# Senna Watchgraph Hub.
-# JSON ist gültiges YAML. Keine Secrets.
-
 {
   "meta": {
     "project": "senna-infoflow",
     "name": "Senna Watchgraph Hub",
-    "version": "2026-06-17",
+    "version": "2026-06-19",
     "memory_repo": "Question86/keeper-clean",
-    "purpose": "Network hub for early signals that can affect AXI0M, mass psychology, markets, infrastructure, reputation, or timing."
+    "purpose": "Network hub for early signals that can affect AXI0M, mass psychology, markets, infrastructure, reputation, or timing. Bias control: generic acronyms and social/market smoke are demoted until confirmed."
   },
   "regions": {
     "europe": [
-      "EU",
+      "European Union",
       "Brussels",
       "Berlin",
       "Paris",
@@ -21,19 +18,19 @@
       "NATO"
     ],
     "usa": [
-      "USA",
+      "United States",
       "Washington DC",
       "New York",
       "San Francisco",
       "Silicon Valley",
-      "Fed"
+      "Federal Reserve"
     ],
     "india": [
       "India",
       "New Delhi",
       "Mumbai",
       "Bengaluru",
-      "RBI"
+      "Reserve Bank of India"
     ],
     "south_america": [
       "Brazil",
@@ -53,7 +50,7 @@
     "japan": [
       "Japan",
       "Tokyo",
-      "BOJ",
+      "Bank of Japan",
       "METI",
       "Nikkei"
     ],
@@ -67,7 +64,7 @@
       "Australia",
       "Canberra",
       "Sydney",
-      "RBA"
+      "Reserve Bank of Australia"
     ],
     "southeast_asia": [
       "Singapore",
@@ -85,7 +82,7 @@
       "Hong Kong",
       "PBoC",
       "Caixin",
-      "NBS"
+      "National Bureau of Statistics"
     ]
   },
   "credibility_gates": {
@@ -103,7 +100,9 @@
       "Reddit",
       "Mastodon",
       "Bluesky",
-      "single GitHub repo description"
+      "single GitHub repo description",
+      "prediction market page",
+      "betting odds page"
     ],
     "china_credible_only": {
       "accept_if_any": [
@@ -160,11 +159,12 @@
       "id": "elections_unrest",
       "buzzwords": [
         "election",
-        "coup",
+        "official result",
         "protest",
         "riot",
         "strike",
-        "martial law"
+        "martial law",
+        "coup"
       ],
       "market_basket": [
         "LMT",
@@ -181,7 +181,8 @@
         "drone attack",
         "mobilization",
         "sanctions",
-        "airspace closed"
+        "airspace closed",
+        "export ban"
       ],
       "market_basket": [
         "LMT",
@@ -194,8 +195,8 @@
     {
       "id": "global_calendar_summits",
       "buzzwords": [
-        "G7",
-        "G20",
+        "G7 summit",
+        "G20 summit",
         "NATO summit",
         "UN General Assembly",
         "OPEC meeting",
@@ -210,7 +211,9 @@
         "aftershock",
         "tsunami warning",
         "PAGER",
-        "ShakeMap"
+        "ShakeMap",
+        "orange alert",
+        "red alert"
       ],
       "market_basket": [
         "MUV2.DE",
@@ -226,7 +229,8 @@
         "eruption",
         "ash cloud",
         "VAAC",
-        "evacuation"
+        "evacuation order",
+        "aviation warning"
       ],
       "market_basket": [
         "MUV2.DE",
@@ -243,7 +247,9 @@
         "cyclone",
         "storm surge",
         "flood",
-        "landfall"
+        "landfall",
+        "orange alert",
+        "red alert"
       ],
       "market_basket": [
         "MUV2.DE",
@@ -257,10 +263,10 @@
       "buzzwords": [
         "wildfire",
         "active fire",
-        "smoke",
         "heat dome",
         "drought",
-        "air quality"
+        "air quality warning",
+        "evacuation order"
       ],
       "market_basket": [
         "MUV2.DE",
@@ -288,8 +294,11 @@
         "avian flu",
         "H5N1",
         "pandemic",
-        "WHO",
-        "wastewater"
+        "World Health Organization",
+        "WHO declares",
+        "WHO warning",
+        "WHO emergency",
+        "wastewater surveillance"
       ],
       "market_basket": []
     },
@@ -299,7 +308,7 @@
         "Brent",
         "WTI",
         "LNG",
-        "pipeline",
+        "pipeline outage",
         "blackout",
         "uranium",
         "OPEC+"
@@ -333,7 +342,8 @@
         "Hormuz",
         "port strike",
         "container rates",
-        "rerouting"
+        "rerouting",
+        "port closure"
       ],
       "market_basket": [
         "XOM",
@@ -352,6 +362,7 @@
         "RCE",
         "zero-day",
         "critical vulnerability",
+        "emergency patch",
         "Fortinet",
         "Ivanti"
       ],
@@ -372,6 +383,7 @@
         "typosquatting",
         "dependency confusion",
         "token theft",
+        "package compromise",
         "binding.gyp"
       ],
       "market_basket": [
@@ -394,9 +406,10 @@
         "agentic workflow",
         "local-first",
         "privacy-first",
-        "memory",
         "MCP",
-        "Codex"
+        "MCP server",
+        "Codex",
+        "tool calling"
       ],
       "market_basket": [
         "NVDA",
@@ -430,12 +443,12 @@
     {
       "id": "macro_fx_company_numbers",
       "buzzwords": [
-        "CPI",
-        "GDP",
-        "PMI",
+        "CPI release",
+        "GDP release",
+        "PMI release",
         "rate decision",
         "guidance cut",
-        "default",
+        "corporate default",
         "currency crisis"
       ],
       "market_basket": [
@@ -454,13 +467,14 @@
     {
       "id": "narrative_social_reputation",
       "buzzwords": [
-        "viral",
+        "viral criticism",
         "boycott",
-        "leak",
+        "data leak",
         "whistleblower",
         "misinformation",
         "deepfake",
-        "brand safety"
+        "brand safety",
+        "impersonation"
       ],
       "market_basket": [
         "META",
