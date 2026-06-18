@@ -1,94 +1,94 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T16-21-23Z",
-  "generated_at": "2026-06-18T16:21:23Z",
+  "run_id": "2026-06-18T17-28-30Z",
+  "generated_at": "2026-06-18T17:28:30Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T16-21-23Z:title:safer-pull_request_target-defaults-for-github-actions-checkout",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "title:safer-pull_request_target-defaults-for-github-actions-checkout",
-      "topic_label": "Safer pull_request_target defaults for GitHub Actions checkout",
-      "network_score": 22.0,
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-20253",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-20253",
+      "topic_label": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "network_score": 15.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GitHub Changelog Atom"
+        "CISA Cybersecurity Advisories"
       ],
-      "score_delta_5m": 22.0,
-      "trend_wucht": 24.0,
+      "score_delta_5m": 15.0,
+      "trend_wucht": 17.0,
       "status": "emerging",
       "urls": [
-        "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
+        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog"
       ]
     },
     {
-      "sample_id": "2026-06-18T16-21-23Z:title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
-      "topic_label": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "network_score": 16.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "score_delta_5m": 16.0,
-      "trend_wucht": 18.0,
-      "status": "emerging",
-      "urls": [
-        "https://openai.com/index/diagnose-rare-childhood-diseases"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T16-21-23Z:title:how-pull-request-limits-are-cutting-down-the-noise",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "title:how-pull-request-limits-are-cutting-down-the-noise",
-      "topic_label": "How pull request limits are cutting down the noise",
+      "sample_id": "2026-06-18T17-28-30Z:title:mitsubishi-electric-melsec-iq-f-series",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:mitsubishi-electric-melsec-iq-f-series",
+      "topic_label": "Mitsubishi Electric MELSEC iQ-F Series",
       "network_score": 13.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GitHub Blog Atom"
+        "CISA Cybersecurity Advisories"
       ],
       "score_delta_5m": 13.0,
       "trend_wucht": 15.0,
       "status": "emerging",
       "urls": [
-        "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05"
       ]
     },
     {
-      "sample_id": "2026-06-18T16-21-23Z:title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
-      "topic_label": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "sample_id": "2026-06-18T17-28-30Z:title:m-5.4-mindanao-philippines",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:m-5.4-mindanao-philippines",
+      "topic_label": "M 5.4, Mindanao, Philippines",
       "network_score": 12.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "BleepingComputer Security"
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
       ],
       "score_delta_5m": 12.0,
       "trend_wucht": 14.0,
       "status": "emerging",
       "urls": [
-        "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh"
       ]
     },
     {
-      "sample_id": "2026-06-18T16-21-23Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
+      "sample_id": "2026-06-18T17-28-30Z:title:copilot-authored-pull-requests-now-included-in-author-searches",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:copilot-authored-pull-requests-now-included-in-author-searches",
+      "topic_label": "Copilot-authored pull requests now included in author searches",
+      "network_score": 11.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 11.0,
+      "trend_wucht": 13.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 10.0,
@@ -97,7 +97,7 @@
       "sources": [
         "Election Betting Odds Public Watch"
       ],
-      "score_delta_5m": -5.0,
+      "score_delta_5m": 0.0,
       "trend_wucht": 12.0,
       "status": "mature",
       "urls": [
@@ -105,12 +105,12 @@
       ]
     },
     {
-      "sample_id": "2026-06-18T16-21-23Z:title:baserow-baserow",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "title:baserow-baserow",
-      "topic_label": "baserow/baserow",
+      "sample_id": "2026-06-18T17-28-30Z:title:ownpilot-ownpilot",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:ownpilot-ownpilot",
+      "topic_label": "ownpilot/OwnPilot",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -121,16 +121,16 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/baserow/baserow"
+        "https://github.com/ownpilot/OwnPilot"
       ]
     },
     {
-      "sample_id": "2026-06-18T16-21-23Z:title:agent-messenger-agent-messenger",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "title:agent-messenger-agent-messenger",
-      "topic_label": "agent-messenger/agent-messenger",
+      "sample_id": "2026-06-18T17-28-30Z:title:prasenjeet-symon-ogcode",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:prasenjeet-symon-ogcode",
+      "topic_label": "prasenjeet-symon/ogcode",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -141,27 +141,247 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/agent-messenger/agent-messenger"
+        "https://github.com/prasenjeet-symon/ogcode"
       ]
     },
     {
-      "sample_id": "2026-06-18T16-21-23Z:earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
-      "sample_index": 5939332,
-      "timestamp_utc": "2026-06-18T16:21:23Z",
-      "run_id": "2026-06-18T16-21-23Z",
-      "topic_key": "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
-      "topic_label": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
-      "network_score": 8.0,
+      "sample_id": "2026-06-18T17-28-30Z:earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-philippines:5",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-philippines:5",
+      "topic_label": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+      "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GDACS All Events Last 24h"
       ],
-      "score_delta_5m": 8.0,
-      "trend_wucht": 10.0,
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:shaun0927-openchrome",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:shaun0927-openchrome",
+      "topic_label": "shaun0927/openchrome",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/shaun0927/openchrome"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:achiya-automation-safari-mcp",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:achiya-automation-safari-mcp",
+      "topic_label": "achiya-automation/safari-mcp",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/achiya-automation/safari-mcp"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:repository-switcher-generally-available-in-global-navigation",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:repository-switcher-generally-available-in-global-navigation",
+      "topic_label": "Repository switcher generally available in global navigation",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:schneider-electric-easylogic-t150-and-saitel-dp",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:schneider-electric-easylogic-t150-and-saitel-dp",
+      "topic_label": "Schneider Electric EasyLogic T150 and Saitel DP",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:schneider-electric-easergy-ecostruxture-powerlogic-and-saitel-products",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:schneider-electric-easergy-ecostruxture-powerlogic-and-saitel-products",
+      "topic_label": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2025-13036",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2025-13036",
+      "topic_label": "Rockwell Automation FactoryTalk Historian Site Edition",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:mitsubishi-electric-co.-s-melsec-iq-f-series-fx5-enet-ip-ethernet-module",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:mitsubishi-electric-co.-s-melsec-iq-f-series-fx5-enet-ip-ethernet-module",
+      "topic_label": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-12390",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-12390",
+      "topic_label": "AzeoTech DAQFactory",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-50034",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-50034",
+      "topic_label": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-40624",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-40624",
+      "topic_label": "AVer PTC cameras",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:earthquake:m-5.3-63-km-ese-of-bobon-philippines:5.3",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "earthquake:m-5.3-63-km-ese-of-bobon-philippines:5.3",
+      "topic_label": "M 5.3 - 63 km ESE of Bobon, Philippines",
+      "network_score": 9.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "score_delta_5m": 9.0,
+      "trend_wucht": 11.0,
+      "status": "emerging",
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
       ]
     }
   ]

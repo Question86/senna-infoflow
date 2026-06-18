@@ -1,0 +1,2341 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T17-28-30Z",
+  "generated_at": "2026-06-18T17:28:30Z",
+  "latest": {
+    "generated_at": "2026-06-18T17:28:30+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 19,
+      "today_file_total": 305,
+      "high": 0,
+      "medium": 3,
+      "observe": 16,
+      "source_errors": 7
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 15,
+          "relevance_reason": "Security (+10.1); CISA (+3.4); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "532511ffdd288b041f15",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Mitsubishi Electric MELSEC iQ-F Series",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection management process and triggering improper memory access. The following versions of Mitsubishi Electric MELSEC iQ-F Series a…",
+          "matched_keywords": [
+            "CISA",
+            "Security",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: memory"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "ef4a254655b638c1ffbc",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "M 5.4, Mindanao, Philippines",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "2026-06-18 16:34:02 6.17 126.57 10 km A",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 12,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "6f74b6cea0be7b0047d7",
+          "source_bias_class": "normal"
+        }
+      ],
+      "observe": [
+        {
+          "title": "Copilot-authored pull requests now included in author searches",
+          "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
+          "source": "GitHub Changelog Atom",
+          "source_type": "rss",
+          "published_at": "2026-06-18T16:24:05+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "Searching for pull requests using author: now shows pull requests opened by Copilot cloud agent on the user’s behalf. For example, searching with author:@me on github.com/pulls will return your own… The post Copilot-authored pull requests now included in author searches appeared first on The GitHub Blog .",
+          "matched_keywords": [
+            "Copilot",
+            "GitHub"
+          ],
+          "relevance_score": 11,
+          "relevance_reason": "GitHub (+6.0); Copilot (+3.4); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "0dbd6a35caf3a13316de",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T17:25:53+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0); debias: removed public_health_biosecurity false positive from 'Who will win'; debias: odds proxy capped to 10 without external confirmation",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ"
+          ],
+          "id": "05b6116aae444a1dcbff",
+          "source_bias_class": "market_odds_proxy"
+        },
+        {
+          "title": "ownpilot/OwnPilot",
+          "url": "https://github.com/ownpilot/OwnPilot",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T17:16:07+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "Datenschutz",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Datenschutz (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: privacy-first"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "49b8b11c932cacfd8e0e",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "prasenjeet-symon/ogcode",
+          "url": "https://github.com/prasenjeet-symon/ogcode",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T17:07:22+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "The browser-native coding agent that runs entirely on your machine. Plans features, executes in parallel across git branches, and remembers everything. One binary. Zero cloud dependencies.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "7010dfb9165798e3b6ce",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-18T16:53:19+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "On 6/18/2026 4:33:58 PM, an earthquake occurred in Philippines potentially affecting 530 thousand in 100km. The earthquake had Magnitude 5.3M, Depth:10km.",
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "785facc1e7df68b971ee",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "shaun0927/openchrome",
+          "url": "https://github.com/shaun0927/openchrome",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T16:43:24+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: MCP"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "a7d6749e7d44ddc6762e",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "achiya-automation/safari-mcp",
+          "url": "https://github.com/achiya-automation/safari-mcp",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T16:38:56+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "Native Safari browser automation for AI agents. 80 tools via AppleScript — zero overhead, keeps logins, runs silently in background. Drop-in alternative to Chrome DevTools MCP with 40-60% less CPU/heat on Apple Silicon.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents, MCP"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "19099ebb59e22f669d33",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "Repository switcher generally available in global navigation",
+          "url": "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation",
+          "source": "GitHub Changelog Atom",
+          "source_type": "rss",
+          "published_at": "2026-06-18T16:23:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "You can now quickly jump between repositories without leaving your current page. The new repository switcher in the global navigation is generally available. Select the chevron next to the repository… The post Repository switcher generally available in global navigation appeared first on The GitHub Blog .",
+          "matched_keywords": [
+            "GitHub"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+8.4); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "5b54b9d3d51dd0db7f37",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Schneider Electric EasyLogic T150 and Saitel DP",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation this vulnerability could allow an attacker to gain unauthorized access to sensitive files The following versions of Schneider Electric EasyLogic T150 and Saitel DP are affected: Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit & Controller Firmware installed on Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit & Controller…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "206e468023531447049a",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute™ Serial Shutdown product. The [PowerChute Serial Shutdown](https://www.se.com/ww/en/product-range/137943580-powerchute-serial-shutdown/#products) product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktop, servers and workstations. Failure to apply the remediation provided bel…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "c03aa6ea127bea919fb2",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Rockwell Automation FactoryTalk Historian Site Edition",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain a valid authentication token, perform a denial of service, or crash the system. The following versions of Rockwell Automation FactoryTalk Historian Site Edition are affected: FactoryTalk Historian SE 11 (CVE-2025-13036) FactoryTalk Historian SE <=11.00 (CVE-2025-44019) FactoryTalk Historian SE <=11.00 (CVE-2025-36539…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "mixed",
+          "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "867da05eb98ec42d8820",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the product in a short period of time, increasing the processing load of the product, preventing the internal anomaly-detection processing from being performed, and cau…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "2ea5c21579b41af5c574",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "AzeoTech DAQFactory",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory <=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3 7.8 AzeoTech AzeoTech DAQFactory Access of Resource Using Incompatible Type ('Type Confusion') Background Critical Infras…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "dd273dc1ff1c92ea57c4",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+          "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain sensitive health-related information and prevent legitimate users from establishing a connection with the device. The following versions of Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT are affected: Blood Glucose Monitoring System (Model No. APG-01 BT) 0x0110_v1.1.0 (CVE-2026-50034, CVE-2026-52866) CVSS…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "90ae8111366f3807969c",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "AVer PTC cameras",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01",
+          "source": "CISA Cybersecurity Advisories",
+          "source_type": "rss",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow arbitrary code execution. The following versions of AVer PTC cameras are affected: PTC500S vers:all/* (CVE-2026-40624) PTC115 vers:all/* (CVE-2026-40624) PTC500+ vers:all/* (CVE-2026-40624) PTC115+ vers:all/* (CVE-2026-40624) CVSS Vendor Equipment Vulnerabilities v3 9.8 AVer AVer PTC cameras Files or Directories Accessible to External Partie…",
+          "matched_keywords": [
+            "CISA",
+            "Security"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "0c1a91eae8fcd58f274d",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "M 5.3 - 63 km ESE of Bobon, Philippines",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj",
+          "source": "USGS M4.5+ Earthquakes Past Hour",
+          "source_type": "rss",
+          "published_at": "2026-06-18T16:52:20.040+00:00",
+          "fetched_at": "2026-06-18T17:27:23+00:00",
+          "summary": "Time 2026-06-18 16:33:58 UTC 2026-06-18 16:33:58 UTC at epicenter Location 6.560°N 126.809°E Depth 10.00 km (6.21 mi)",
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 9,
+          "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "e0a95480e390f014e5cb",
+          "source_bias_class": "normal"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+        "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Security (+10.1); CISA (+3.4); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "532511ffdd288b041f15",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Mitsubishi Electric MELSEC iQ-F Series",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection management process and triggering improper memory access. The following versions of Mitsubishi Electric MELSEC iQ-F Series a…",
+        "matched_keywords": [
+          "CISA",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: memory"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "ef4a254655b638c1ffbc",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "M 5.4, Mindanao, Philippines",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "2026-06-18 16:34:02 6.17 126.57 10 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6f74b6cea0be7b0047d7",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Copilot-authored pull requests now included in author searches",
+        "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T16:24:05+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "Searching for pull requests using author: now shows pull requests opened by Copilot cloud agent on the user’s behalf. For example, searching with author:@me on github.com/pulls will return your own… The post Copilot-authored pull requests now included in author searches appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "GitHub (+6.0); Copilot (+3.4); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0dbd6a35caf3a13316de",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T17:25:53+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0); debias: removed public_health_biosecurity false positive from 'Who will win'; debias: odds proxy capped to 10 without external confirmation",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "05b6116aae444a1dcbff",
+        "source_bias_class": "market_odds_proxy"
+      },
+      {
+        "title": "ownpilot/OwnPilot",
+        "url": "https://github.com/ownpilot/OwnPilot",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T17:16:07+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Datenschutz",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Datenschutz (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: privacy-first"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "49b8b11c932cacfd8e0e",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "prasenjeet-symon/ogcode",
+        "url": "https://github.com/prasenjeet-symon/ogcode",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T17:07:22+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "The browser-native coding agent that runs entirely on your machine. Plans features, executes in parallel across git branches, and remembers everything. One binary. Zero cloud dependencies.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7010dfb9165798e3b6ce",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T16:53:19+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "On 6/18/2026 4:33:58 PM, an earthquake occurred in Philippines potentially affecting 530 thousand in 100km. The earthquake had Magnitude 5.3M, Depth:10km.",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "785facc1e7df68b971ee",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "shaun0927/openchrome",
+        "url": "https://github.com/shaun0927/openchrome",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T16:43:24+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "a7d6749e7d44ddc6762e",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "achiya-automation/safari-mcp",
+        "url": "https://github.com/achiya-automation/safari-mcp",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T16:38:56+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "Native Safari browser automation for AI agents. 80 tools via AppleScript — zero overhead, keeps logins, runs silently in background. Drop-in alternative to Chrome DevTools MCP with 40-60% less CPU/heat on Apple Silicon.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents, MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "19099ebb59e22f669d33",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "Repository switcher generally available in global navigation",
+        "url": "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T16:23:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "You can now quickly jump between repositories without leaving your current page. The new repository switcher in the global navigation is generally available. Select the chevron next to the repository… The post Repository switcher generally available in global navigation appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+8.4); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5b54b9d3d51dd0db7f37",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Schneider Electric EasyLogic T150 and Saitel DP",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation this vulnerability could allow an attacker to gain unauthorized access to sensitive files The following versions of Schneider Electric EasyLogic T150 and Saitel DP are affected: Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit & Controller Firmware installed on Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit & Controller…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "206e468023531447049a",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute™ Serial Shutdown product. The [PowerChute Serial Shutdown](https://www.se.com/ww/en/product-range/137943580-powerchute-serial-shutdown/#products) product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktop, servers and workstations. Failure to apply the remediation provided bel…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c03aa6ea127bea919fb2",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Rockwell Automation FactoryTalk Historian Site Edition",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain a valid authentication token, perform a denial of service, or crash the system. The following versions of Rockwell Automation FactoryTalk Historian Site Edition are affected: FactoryTalk Historian SE 11 (CVE-2025-13036) FactoryTalk Historian SE <=11.00 (CVE-2025-44019) FactoryTalk Historian SE <=11.00 (CVE-2025-36539…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "867da05eb98ec42d8820",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the product in a short period of time, increasing the processing load of the product, preventing the internal anomaly-detection processing from being performed, and cau…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2ea5c21579b41af5c574",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "AzeoTech DAQFactory",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory <=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3 7.8 AzeoTech AzeoTech DAQFactory Access of Resource Using Incompatible Type ('Type Confusion') Background Critical Infras…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dd273dc1ff1c92ea57c4",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+        "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain sensitive health-related information and prevent legitimate users from establishing a connection with the device. The following versions of Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT are affected: Blood Glucose Monitoring System (Model No. APG-01 BT) 0x0110_v1.1.0 (CVE-2026-50034, CVE-2026-52866) CVSS…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "90ae8111366f3807969c",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "AVer PTC cameras",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01",
+        "source": "CISA Cybersecurity Advisories",
+        "source_type": "rss",
+        "published_at": "2026-06-18T12:00:00+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow arbitrary code execution. The following versions of AVer PTC cameras are affected: PTC500S vers:all/* (CVE-2026-40624) PTC115 vers:all/* (CVE-2026-40624) PTC500+ vers:all/* (CVE-2026-40624) PTC115+ vers:all/* (CVE-2026-40624) CVSS Vendor Equipment Vulnerabilities v3 9.8 AVer AVer PTC cameras Files or Directories Accessible to External Partie…",
+        "matched_keywords": [
+          "CISA",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CISA (+2.4); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0c1a91eae8fcd58f274d",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "M 5.3 - 63 km ESE of Bobon, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-18T16:52:20.040+00:00",
+        "fetched_at": "2026-06-18T17:27:23+00:00",
+        "summary": "Time 2026-06-18 16:33:58 UTC 2026-06-18 16:33:58 UTC at epicenter Location 6.560°N 126.809°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e0a95480e390f014e5cb",
+        "source_bias_class": "normal"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      }
+    ],
+    "score_debias": {
+      "schema_version": 1,
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ]
+    }
+  },
+  "network": {
+    "generated_at": "2026-06-18T17:28:30+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 19,
+      "clusters": 17,
+      "cross_source_confrmed": 0,
+      "hot": 0,
+      "early_signals": 0,
+      "dominance_penalized": 9
+    },
+    "clusters": [
+      {
+        "key": "domain:www.cisa.gov",
+        "title": "Mitsubishi Electric MELSEC iQ-F Series",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06"
+        ],
+        "finding_count": 3,
+        "max_score": 13,
+        "credibility_total": 4.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 3,
+        "momentum_status": "increasing",
+        "network_score": 22.9,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+        "raw_network_score": 30.1,
+        "ranking_score": 22.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 7.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "cve:CVE-2026-20253",
+        "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog"
+        ],
+        "finding_count": 1,
+        "max_score": 15,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 16.9,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 20.7,
+        "ranking_score": 16.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "title:copilot-authored-pull-requests-now-included-author-searches",
+        "title": "Copilot-authored pull requests now included in author searches",
+        "sources": [
+          "GitHub Changelog Atom"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches"
+        ],
+        "finding_count": 1,
+        "max_score": 11,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 16.1,
+        "ranking_score": 15.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "title:repository-switcher-generally-available-global-navigation",
+        "title": "Repository switcher generally available in global navigation",
+        "sources": [
+          "GitHub Changelog Atom"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 14.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 15.1,
+        "ranking_score": 14.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "earthquake:philippines:5.4",
+        "title": "M 5.4, Mindanao, Philippines",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh"
+        ],
+        "finding_count": 1,
+        "max_score": 12,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.9,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 17.7,
+        "ranking_score": 13.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "github_repo:ownpilot/ownpilot",
+        "title": "ownpilot/OwnPilot",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/ownpilot/OwnPilot"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "github_repo:prasenjeet-symon/ogcode",
+        "title": "prasenjeet-symon/ogcode",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/prasenjeet-symon/ogcode"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "github_repo:shaun0927/openchrome",
+        "title": "shaun0927/openchrome",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/shaun0927/openchrome"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "github_repo:achiya-automation/safari-mcp",
+        "title": "achiya-automation/safari-mcp",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/achiya-automation/safari-mcp"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "earthquake:philippines:5.0",
+        "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.9,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 15.7,
+        "ranking_score": 11.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-17T22:13:10+00:00"
+      },
+      {
+        "key": "domain:www.se.com",
+        "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.9,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 15.7,
+        "ranking_score": 11.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "cve:CVE-2025-13036",
+        "title": "Rockwell Automation FactoryTalk Historian Site Edition",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.9,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "raw_network_score": 15.7,
+        "ranking_score": 11.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "cve:CVE-2026-12390",
+        "title": "AzeoTech DAQFactory",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.9,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 15.7,
+        "ranking_score": 11.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "cve:CVE-2026-50034",
+        "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.9,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 15.7,
+        "ranking_score": 11.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "cve:CVE-2026-40624",
+        "title": "AVer PTC cameras",
+        "sources": [
+          "CISA Cybersecurity Advisories"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.9,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 15.7,
+        "ranking_score": 11.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 11.5,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 12.1,
+        "ranking_score": 11.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 0.0,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T00:36:09+00:00"
+      },
+      {
+        "key": "earthquake:philippines:5.3",
+        "title": "M 5.3 - 63 km ESE of Bobon, Philippines",
+        "sources": [
+          "USGS M4.5+ Earthquakes Past Hour"
+        ],
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "urls": [
+          "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
+        ],
+        "finding_count": 1,
+        "max_score": 9,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 10.9,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 14.7,
+        "ranking_score": 10.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T17:28:30+00:00"
+      }
+    ],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-18T17:28:30Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-20253",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-20253",
+      "topic_label": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 15.0,
+      "trend_wucht": 17.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:mitsubishi-electric-melsec-iq-f-series",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:mitsubishi-electric-melsec-iq-f-series",
+      "topic_label": "Mitsubishi Electric MELSEC iQ-F Series",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:m-5.4-mindanao-philippines",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:m-5.4-mindanao-philippines",
+      "topic_label": "M 5.4, Mindanao, Philippines",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:copilot-authored-pull-requests-now-included-in-author-searches",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:copilot-authored-pull-requests-now-included-in-author-searches",
+      "topic_label": "Copilot-authored pull requests now included in author searches",
+      "network_score": 11.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 11.0,
+      "trend_wucht": 13.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 12.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:ownpilot-ownpilot",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:ownpilot-ownpilot",
+      "topic_label": "ownpilot/OwnPilot",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/ownpilot/OwnPilot"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:prasenjeet-symon-ogcode",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:prasenjeet-symon-ogcode",
+      "topic_label": "prasenjeet-symon/ogcode",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/prasenjeet-symon/ogcode"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-philippines:5",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-philippines:5",
+      "topic_label": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:shaun0927-openchrome",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:shaun0927-openchrome",
+      "topic_label": "shaun0927/openchrome",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/shaun0927/openchrome"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:achiya-automation-safari-mcp",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:achiya-automation-safari-mcp",
+      "topic_label": "achiya-automation/safari-mcp",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/achiya-automation/safari-mcp"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:repository-switcher-generally-available-in-global-navigation",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:repository-switcher-generally-available-in-global-navigation",
+      "topic_label": "Repository switcher generally available in global navigation",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:schneider-electric-easylogic-t150-and-saitel-dp",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:schneider-electric-easylogic-t150-and-saitel-dp",
+      "topic_label": "Schneider Electric EasyLogic T150 and Saitel DP",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:schneider-electric-easergy-ecostruxture-powerlogic-and-saitel-products",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:schneider-electric-easergy-ecostruxture-powerlogic-and-saitel-products",
+      "topic_label": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2025-13036",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2025-13036",
+      "topic_label": "Rockwell Automation FactoryTalk Historian Site Edition",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:title:mitsubishi-electric-co.-s-melsec-iq-f-series-fx5-enet-ip-ethernet-module",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "title:mitsubishi-electric-co.-s-melsec-iq-f-series-fx5-enet-ip-ethernet-module",
+      "topic_label": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-12390",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-12390",
+      "topic_label": "AzeoTech DAQFactory",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-50034",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-50034",
+      "topic_label": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:cve:CVE-2026-40624",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "cve:CVE-2026-40624",
+      "topic_label": "AVer PTC cameras",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T17-28-30Z:earthquake:m-5.3-63-km-ese-of-bobon-philippines:5.3",
+      "sample_index": 5939345,
+      "timestamp_utc": "2026-06-18T17:28:30Z",
+      "run_id": "2026-06-18T17-28-30Z",
+      "topic_key": "earthquake:m-5.3-63-km-ese-of-bobon-philippines:5.3",
+      "topic_label": "M 5.3 - 63 km ESE of Bobon, Philippines",
+      "network_score": 9.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "score_delta_5m": 9.0,
+      "trend_wucht": 11.0,
+      "status": "emerging",
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
+      ]
+    }
+  ]
+}

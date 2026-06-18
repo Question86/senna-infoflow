@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T16:21:23+00:00",
+  "generated_at": "2026-06-18T17:28:30+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -143,16 +143,17 @@
       "z_hint": 0.0
     },
     "earthquake:philippines:5.0": {
-      "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
-      "updated_at": "2026-06-18T08:47:58+00:00",
+      "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+      "updated_at": "2026-06-18T17:28:30+00:00",
       "network_scores": [
         14.7,
-        21.7
+        21.7,
+        15.7
       ],
-      "rolling_average": 18.2,
+      "rolling_average": 17.37,
       "rolling_peak": 21.7,
-      "last_score": 21.7,
-      "z_hint": 3.5
+      "last_score": 15.7,
+      "z_hint": -1.67
     },
     "earthquake:philippines:unknown": {
       "title": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
@@ -321,7 +322,7 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T16:21:23+00:00",
+      "updated_at": "2026-06-18T17:28:30+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -332,12 +333,13 @@
         17.1,
         17.1,
         17.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 16.9,
+      "rolling_average": 16.46,
       "rolling_peak": 20.1,
       "last_score": 12.1,
-      "z_hint": -4.8
+      "z_hint": -4.36
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -1582,6 +1584,171 @@
       "rolling_average": 13.7,
       "rolling_peak": 13.7,
       "last_score": 13.7,
+      "z_hint": 0.0
+    },
+    "domain:www.cisa.gov": {
+      "title": "Mitsubishi Electric MELSEC iQ-F Series",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        30.1
+      ],
+      "rolling_average": 30.1,
+      "rolling_peak": 30.1,
+      "last_score": 30.1,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2026-20253": {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        20.7
+      ],
+      "rolling_average": 20.7,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 0.0
+    },
+    "earthquake:philippines:5.4": {
+      "title": "M 5.4, Mindanao, Philippines",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "title:copilot-authored-pull-requests-now-included-author-searches": {
+      "title": "Copilot-authored pull requests now included in author searches",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.se.com": {
+      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2025-13036": {
+      "title": "Rockwell Automation FactoryTalk Historian Site Edition",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2026-12390": {
+      "title": "AzeoTech DAQFactory",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2026-50034": {
+      "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2026-40624": {
+      "title": "AVer PTC cameras",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "title:repository-switcher-generally-available-global-navigation": {
+      "title": "Repository switcher generally available in global navigation",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "earthquake:philippines:5.3": {
+      "title": "M 5.3 - 63 km ESE of Bobon, Philippines",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "github_repo:ownpilot/ownpilot": {
+      "title": "ownpilot/OwnPilot",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:prasenjeet-symon/ogcode": {
+      "title": "prasenjeet-symon/ogcode",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:shaun0927/openchrome": {
+      "title": "shaun0927/openchrome",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:achiya-automation/safari-mcp": {
+      "title": "achiya-automation/safari-mcp",
+      "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
       "z_hint": 0.0
     }
   }

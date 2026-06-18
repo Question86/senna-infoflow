@@ -1,10 +1,12 @@
 # Senna Trend Ranking
 
-- **Safer pull_request_target defaults for GitHub Actions checkout** — `24.0` `emerging` `title:safer-pull_request_target-defaults-for-github-actions-checkout`
-- **Using AI to help physicians diagnose rare genetic diseases affecting children** — `18.0` `emerging` `title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children`
-- **How pull request limits are cutting down the noise** — `15.0` `emerging` `title:how-pull-request-limits-are-cutting-down-the-noise`
-- **USB worm spreads crypto-stealing malware via Windows shortcut files** — `14.0` `emerging` `title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files`
+- **CISA Adds One Known Exploited Vulnerability to Catalog** — `17.0` `emerging` `cve:CVE-2026-20253`
+- **Mitsubishi Electric MELSEC iQ-F Series** — `15.0` `emerging` `title:mitsubishi-electric-melsec-iq-f-series`
+- **M 5.4, Mindanao, Philippines** — `14.0` `emerging` `title:m-5.4-mindanao-philippines`
+- **Copilot-authored pull requests now included in author searches** — `13.0` `emerging` `title:copilot-authored-pull-requests-now-included-in-author-searches`
 - **Election Betting Odds by Maxim Lott and John Stossel** — `12.0` `mature` `title:election-betting-odds-by-maxim-lott-and-john-stossel`
-- **baserow/baserow** — `12.0` `emerging` `title:baserow-baserow`
-- **agent-messenger/agent-messenger** — `12.0` `emerging` `title:agent-messenger-agent-messenger`
-- **Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.** — `10.0` `emerging` `earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4`
+- **ownpilot/OwnPilot** — `12.0` `emerging` `title:ownpilot-ownpilot`
+- **prasenjeet-symon/ogcode** — `12.0` `emerging` `title:prasenjeet-symon-ogcode`
+- **Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.** — `12.0` `emerging` `earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-philippines:5`
+- **shaun0927/openchrome** — `12.0` `emerging` `title:shaun0927-openchrome`
+- **achiya-automation/safari-mcp** — `12.0` `emerging` `title:achiya-automation-safari-mcp`
