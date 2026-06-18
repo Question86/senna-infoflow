@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T18:23:02Z",
+  "generated_at": "2026-06-18T19:15:55Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T18:23:02Z",
+      "last_seen_at": "2026-06-18T19:15:55Z",
       "last_trend_wucht": 12.0,
       "samples": [
         {
@@ -1021,6 +1021,26 @@
           "sample_index": 5939356,
           "timestamp_utc": "2026-06-18T18:23:02Z",
           "run_id": "2026-06-18T18-23-02Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 12.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T19-15-55Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939367,
+          "timestamp_utc": "2026-06-18T19:15:55Z",
+          "run_id": "2026-06-18T19-15-55Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 10.0,
@@ -8438,6 +8458,146 @@
           "status": "emerging",
           "urls": [
             "https://github.com/cporter202/agentic-ai-apis"
+          ]
+        }
+      ]
+    },
+    "title:control-who-and-what-triggers-github-actions-workflows": {
+      "topic_key": "title:control-who-and-what-triggers-github-actions-workflows",
+      "topic_label": "Control who and what triggers GitHub Actions workflows",
+      "last_seen_at": "2026-06-18T19:15:55Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T19-15-55Z:title:control-who-and-what-triggers-github-actions-workflows",
+          "sample_index": 5939367,
+          "timestamp_utc": "2026-06-18T19:15:55Z",
+          "run_id": "2026-06-18T19-15-55Z",
+          "topic_key": "title:control-who-and-what-triggers-github-actions-workflows",
+          "topic_label": "Control who and what triggers GitHub Actions workflows",
+          "network_score": 22.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 22.0,
+          "trend_wucht": 24.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
+          ]
+        }
+      ]
+    },
+    "title:new-usage-analytics-and-updated-spend-controls-for-enterprises": {
+      "topic_key": "title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
+      "topic_label": "New usage analytics and updated spend controls for enterprises",
+      "last_seen_at": "2026-06-18T19:15:55Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T19-15-55Z:title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
+          "sample_index": 5939367,
+          "timestamp_utc": "2026-06-18T19:15:55Z",
+          "run_id": "2026-06-18T19-15-55Z",
+          "topic_key": "title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
+          "topic_label": "New usage analytics and updated spend controls for enterprises",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "OpenAI News RSS"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://openai.com/index/chatgpt-enterprise-spend-controls"
+          ]
+        }
+      ]
+    },
+    "title:ros-claw-rosclaw": {
+      "topic_key": "title:ros-claw-rosclaw",
+      "topic_label": "ros-claw/rosclaw",
+      "last_seen_at": "2026-06-18T19:15:55Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T19-15-55Z:title:ros-claw-rosclaw",
+          "sample_index": 5939367,
+          "timestamp_utc": "2026-06-18T19:15:55Z",
+          "run_id": "2026-06-18T19-15-55Z",
+          "topic_key": "title:ros-claw-rosclaw",
+          "topic_label": "ros-claw/rosclaw",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/ros-claw/rosclaw"
+          ]
+        }
+      ]
+    },
+    "title:pnganga813-commits-aether-desktop-orchestrator": {
+      "topic_key": "title:pnganga813-commits-aether-desktop-orchestrator",
+      "topic_label": "pnganga813-commits/Aether-desktop-orchestrator",
+      "last_seen_at": "2026-06-18T19:15:55Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T19-15-55Z:title:pnganga813-commits-aether-desktop-orchestrator",
+          "sample_index": 5939367,
+          "timestamp_utc": "2026-06-18T19:15:55Z",
+          "run_id": "2026-06-18T19-15-55Z",
+          "topic_key": "title:pnganga813-commits-aether-desktop-orchestrator",
+          "topic_label": "pnganga813-commits/Aether-desktop-orchestrator",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/pnganga813-commits/Aether-desktop-orchestrator"
+          ]
+        }
+      ]
+    },
+    "title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack": {
+      "topic_key": "title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
+      "topic_label": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "last_seen_at": "2026-06-18T19:15:55Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T19-15-55Z:title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
+          "sample_index": 5939367,
+          "timestamp_utc": "2026-06-18T19:15:55Z",
+          "run_id": "2026-06-18T19-15-55Z",
+          "topic_key": "title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
+          "topic_label": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
           ]
         }
       ]

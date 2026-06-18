@@ -1,0 +1,856 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T19-15-55Z",
+  "generated_at": "2026-06-18T19:15:55Z",
+  "latest": {
+    "generated_at": "2026-06-18T19:15:55+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 6,
+      "today_file_total": 315,
+      "high": 0,
+      "medium": 2,
+      "observe": 4,
+      "source_errors": 7
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "Control who and what triggers GitHub Actions workflows",
+          "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows",
+          "source": "GitHub Changelog Atom",
+          "source_type": "rss",
+          "published_at": "2026-06-18T14:06:18+00:00",
+          "fetched_at": "2026-06-18T19:14:45+00:00",
+          "summary": "Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .",
+          "matched_keywords": [
+            "GitHub",
+            "GitHub Actions",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 22,
+          "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "public_health_biosecurity"
+          ],
+          "watchgraph_reasons": [
+            "public_health_biosecurity: WHO"
+          ],
+          "market_context": [
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "GSK",
+            "AZN",
+            "TMO",
+            "DHR"
+          ],
+          "id": "b90acfeecca5dedc01a0",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "source": "OpenAI News RSS",
+          "source_type": "rss",
+          "published_at": "2026-06-18T17:00:00+00:00",
+          "fetched_at": "2026-06-18T19:14:45+00:00",
+          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "matched_keywords": [
+            "AI/KI",
+            "OpenAI"
+          ],
+          "relevance_score": 14,
+          "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "e1be8c69ef4ea48ce652",
+          "source_bias_class": "normal"
+        }
+      ],
+      "observe": [
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T19:15:08+00:00",
+          "fetched_at": "2026-06-18T19:14:45+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0); debias: removed public_health_biosecurity false positive from 'Who will win'; debias: odds proxy capped to 10 without external confirmation",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ"
+          ],
+          "id": "b41dd1377599ddf1b86e",
+          "source_bias_class": "market_odds_proxy"
+        },
+        {
+          "title": "ros-claw/rosclaw",
+          "url": "https://github.com/ros-claw/rosclaw",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T18:50:58+00:00",
+          "fetched_at": "2026-06-18T19:14:45+00:00",
+          "summary": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents, memory"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "25213524be5c13806d89",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "pnganga813-commits/Aether-desktop-orchestrator",
+          "url": "https://github.com/pnganga813-commits/Aether-desktop-orchestrator",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T18:30:42+00:00",
+          "fetched_at": "2026-06-18T19:14:45+00:00",
+          "summary": "⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform",
+          "matched_keywords": [
+            "AI/KI",
+            "automation",
+            "GitHub"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "08c41b55138dee8c880e",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+          "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+          "source": "BleepingComputer Security",
+          "source_type": "rss",
+          "published_at": "2026-06-18T18:31:36+00:00",
+          "fetched_at": "2026-06-18T19:14:45+00:00",
+          "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+          "matched_keywords": [
+            "Security"
+          ],
+          "relevance_score": 9,
+          "relevance_reason": "Security (+7.2); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "731ed601345b112ffb39",
+          "source_bias_class": "normal"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "Control who and what triggers GitHub Actions workflows",
+        "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T14:06:18+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "GitHub Actions",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "b90acfeecca5dedc01a0",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "New usage analytics and updated spend controls for enterprises",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-06-18T17:00:00+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e1be8c69ef4ea48ce652",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T19:15:08+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0); debias: removed public_health_biosecurity false positive from 'Who will win'; debias: odds proxy capped to 10 without external confirmation",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "b41dd1377599ddf1b86e",
+        "source_bias_class": "market_odds_proxy"
+      },
+      {
+        "title": "ros-claw/rosclaw",
+        "url": "https://github.com/ros-claw/rosclaw",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T18:50:58+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents, memory"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "25213524be5c13806d89",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "pnganga813-commits/Aether-desktop-orchestrator",
+        "url": "https://github.com/pnganga813-commits/Aether-desktop-orchestrator",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T18:30:42+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "08c41b55138dee8c880e",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+        "source": "BleepingComputer Security",
+        "source_type": "rss",
+        "published_at": "2026-06-18T18:31:36+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Security (+7.2); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "731ed601345b112ffb39",
+        "source_bias_class": "normal"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      }
+    ],
+    "score_debias": {
+      "schema_version": 1,
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ]
+    }
+  },
+  "network": {
+    "generated_at": "2026-06-18T19:15:55+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 6,
+      "clusters": 6,
+      "cross_source_confrmed": 0,
+      "hot": 1,
+      "early_signals": 1,
+      "dominance_penalized": 0
+    },
+    "clusters": [
+      {
+        "key": "title:control-who-what-triggers-github-actions-workflows",
+        "title": "Control who and what triggers GitHub Actions workflows",
+        "sources": [
+          "GitHub Changelog Atom"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
+        ],
+        "finding_count": 1,
+        "max_score": 22,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 31.5,
+        "hot": true,
+        "watchgraph_modules": [
+          "public_health_biosecurity"
+        ],
+        "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+        "raw_network_score": 27.1,
+        "ranking_score": 31.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": true,
+        "early_signal_bonus": 5.5,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T19:15:55+00:00"
+      },
+      {
+        "key": "domain:openai.com",
+        "title": "New usage analytics and updated spend controls for enterprises",
+        "sources": [
+          "OpenAI News RSS"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        ],
+        "finding_count": 1,
+        "max_score": 14,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 15.5,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 16.1,
+        "ranking_score": 15.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 0.0,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-17T20:44:40+00:00"
+      },
+      {
+        "key": "github_repo:ros-claw/rosclaw",
+        "title": "ros-claw/rosclaw",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/ros-claw/rosclaw"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T19:15:55+00:00"
+      },
+      {
+        "key": "github_repo:pnganga813-commits/aether-desktop-orchestrator",
+        "title": "pnganga813-commits/Aether-desktop-orchestrator",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/pnganga813-commits/Aether-desktop-orchestrator"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T19:15:55+00:00"
+      },
+      {
+        "key": "domain:www.bleepingcomputer.com",
+        "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+        "sources": [
+          "BleepingComputer Security"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
+        ],
+        "finding_count": 1,
+        "max_score": 9,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-17T21:31:36+00:00"
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 11.5,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 12.1,
+        "ranking_score": 11.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 0.0,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T00:36:09+00:00"
+      }
+    ],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-18T19:15:55Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T19-15-55Z:title:control-who-and-what-triggers-github-actions-workflows",
+      "sample_index": 5939367,
+      "timestamp_utc": "2026-06-18T19:15:55Z",
+      "run_id": "2026-06-18T19-15-55Z",
+      "topic_key": "title:control-who-and-what-triggers-github-actions-workflows",
+      "topic_label": "Control who and what triggers GitHub Actions workflows",
+      "network_score": 22.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T19-15-55Z:title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
+      "sample_index": 5939367,
+      "timestamp_utc": "2026-06-18T19:15:55Z",
+      "run_id": "2026-06-18T19-15-55Z",
+      "topic_key": "title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
+      "topic_label": "New usage analytics and updated spend controls for enterprises",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T19-15-55Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939367,
+      "timestamp_utc": "2026-06-18T19:15:55Z",
+      "run_id": "2026-06-18T19-15-55Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 12.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T19-15-55Z:title:ros-claw-rosclaw",
+      "sample_index": 5939367,
+      "timestamp_utc": "2026-06-18T19:15:55Z",
+      "run_id": "2026-06-18T19-15-55Z",
+      "topic_key": "title:ros-claw-rosclaw",
+      "topic_label": "ros-claw/rosclaw",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/ros-claw/rosclaw"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T19-15-55Z:title:pnganga813-commits-aether-desktop-orchestrator",
+      "sample_index": 5939367,
+      "timestamp_utc": "2026-06-18T19:15:55Z",
+      "run_id": "2026-06-18T19-15-55Z",
+      "topic_key": "title:pnganga813-commits-aether-desktop-orchestrator",
+      "topic_label": "pnganga813-commits/Aether-desktop-orchestrator",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/pnganga813-commits/Aether-desktop-orchestrator"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T19-15-55Z:title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
+      "sample_index": 5939367,
+      "timestamp_utc": "2026-06-18T19:15:55Z",
+      "run_id": "2026-06-18T19-15-55Z",
+      "topic_key": "title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
+      "topic_label": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "network_score": 9.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "score_delta_5m": 9.0,
+      "trend_wucht": 11.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
+      ]
+    }
+  ]
+}

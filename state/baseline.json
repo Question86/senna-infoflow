@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T18:23:02+00:00",
+  "generated_at": "2026-06-18T19:15:55+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -69,17 +69,18 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Improving health intelligence in ChatGPT",
-      "updated_at": "2026-06-18T18:23:02+00:00",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "updated_at": "2026-06-18T19:15:55+00:00",
       "network_scores": [
         19.1,
         21.1,
-        17.1
+        17.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 18.35,
       "rolling_peak": 21.1,
-      "last_score": 17.1,
-      "z_hint": -2.0
+      "last_score": 16.1,
+      "z_hint": -2.25
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -108,18 +109,19 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "updated_at": "2026-06-18T16:21:23+00:00",
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "updated_at": "2026-06-18T19:15:55+00:00",
       "network_scores": [
         16.1,
         28.1,
         63.8,
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 31.27,
+      "rolling_average": 27.84,
       "rolling_peak": 63.8,
-      "last_score": 17.1,
-      "z_hint": -14.17
+      "last_score": 14.1,
+      "z_hint": -13.74
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -323,7 +325,7 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T18:23:02+00:00",
+      "updated_at": "2026-06-18T19:15:55+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -336,12 +338,13 @@
         17.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 15.79,
       "rolling_peak": 20.1,
       "last_score": 12.1,
-      "z_hint": -4.0
+      "z_hint": -3.69
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -1789,6 +1792,39 @@
     "github_repo:cporter202/agentic-ai-apis": {
       "title": "cporter202/agentic-ai-apis",
       "updated_at": "2026-06-18T18:23:02+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:control-who-what-triggers-github-actions-workflows": {
+      "title": "Control who and what triggers GitHub Actions workflows",
+      "updated_at": "2026-06-18T19:15:55+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:ros-claw/rosclaw": {
+      "title": "ros-claw/rosclaw",
+      "updated_at": "2026-06-18T19:15:55+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:pnganga813-commits/aether-desktop-orchestrator": {
+      "title": "pnganga813-commits/Aether-desktop-orchestrator",
+      "updated_at": "2026-06-18T19:15:55+00:00",
       "network_scores": [
         14.1
       ],

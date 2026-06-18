@@ -1,85 +1,84 @@
 {
-  "generated_at": "2026-06-18T18:23:02+00:00",
+  "generated_at": "2026-06-18T19:15:55+00:00",
   "date": "2026-06-18",
   "scope": "configured_public_sources_only",
   "counts": {
     "new_relevant_findings": 6,
-    "today_file_total": 310,
+    "today_file_total": 315,
     "high": 0,
-    "medium": 1,
-    "observe": 5,
+    "medium": 2,
+    "observe": 4,
     "source_errors": 7
   },
   "sections": {
     "high": [],
     "medium": [
       {
-        "title": "Improving health intelligence in ChatGPT",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+        "title": "Control who and what triggers GitHub Actions workflows",
+        "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T14:06:18+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "GitHub Actions",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "b90acfeecca5dedc01a0",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "New usage analytics and updated spend controls for enterprises",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
         "source": "OpenAI News RSS",
         "source_type": "rss",
-        "published_at": "2026-06-18T11:00:00+00:00",
-        "fetched_at": "2026-06-18T18:21:58+00:00",
-        "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+        "published_at": "2026-06-18T17:00:00+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
         "matched_keywords": [
+          "AI/KI",
           "OpenAI"
         ],
-        "relevance_score": 12,
-        "relevance_reason": "OpenAI (+10.1); recent (+2.0)",
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
         "risk_or_opportunity": "observation",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "watchgraph_modules": [],
         "watchgraph_reasons": [],
         "market_context": [],
-        "id": "18bd15c93b3f84130071",
+        "id": "e1be8c69ef4ea48ce652",
         "source_bias_class": "normal"
       }
     ],
     "observe": [
       {
-        "title": "Actions: Build custom images from custom images",
-        "url": "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images",
-        "source": "GitHub Changelog Atom",
-        "source_type": "rss",
-        "published_at": "2026-06-18T15:32:44+00:00",
-        "fetched_at": "2026-06-18T18:21:58+00:00",
-        "summary": "Custom images for GitHub-hosted runners are getting new capabilities that give you more flexibility over how you compose and manage your image-generation pipelines. You can now build custom images on… The post Actions: Build custom images from custom images appeared first on The GitHub Blog .",
-        "matched_keywords": [
-          "GitHub",
-          "Watchgraph:energy_oil_gas_power_uranium"
-        ],
-        "relevance_score": 11,
-        "relevance_reason": "GitHub (+6.0); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
-        "risk_or_opportunity": "observation",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "watchgraph_modules": [
-          "energy_oil_gas_power_uranium"
-        ],
-        "watchgraph_reasons": [
-          "energy_oil_gas_power_uranium: pipeline"
-        ],
-        "market_context": [
-          "XOM",
-          "CVX",
-          "SHEL",
-          "TTE",
-          "BP",
-          "CCJ",
-          "ENB",
-          "SU",
-          "EQNR",
-          "URA"
-        ],
-        "id": "ededa98f7463fe398793",
-        "source_bias_class": "normal"
-      },
-      {
         "title": "Election Betting Odds by Maxim Lott and John Stossel",
         "url": "https://electionbettingodds.com/",
         "source": "Election Betting Odds Public Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-18T18:21:35+00:00",
-        "fetched_at": "2026-06-18T18:21:58+00:00",
+        "published_at": "2026-06-18T19:15:08+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
         "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
         "matched_keywords": [
           "election",
@@ -121,78 +120,17 @@
           "EWC",
           "EWZ"
         ],
-        "id": "7ef4561352c1ea4b5f21",
+        "id": "b41dd1377599ddf1b86e",
         "source_bias_class": "market_odds_proxy"
       },
       {
-        "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297",
-        "source": "GDACS All Events Last 24h",
-        "source_type": "rss",
-        "published_at": "2026-06-18T18:02:04+00:00",
-        "fetched_at": "2026-06-18T18:21:58+00:00",
-        "summary": "On 6/18/2026 3:29:19 PM, an earthquake occurred in India potentially affecting 3.8 million in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
-        "matched_keywords": [
-          "earthquake",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "relevance_score": 10,
-        "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "id": "8167b9cf79d4b73dbb69",
-        "source_bias_class": "normal"
-      },
-      {
-        "title": "AvdLee/RocketSimApp",
-        "url": "https://github.com/AvdLee/RocketSimApp",
+        "title": "ros-claw/rosclaw",
+        "url": "https://github.com/ros-claw/rosclaw",
         "source": "GitHub Search Breakout AI Tools",
         "source_type": "github_search",
-        "published_at": "2026-06-18T17:57:35+00:00",
-        "fetched_at": "2026-06-18T18:21:58+00:00",
-        "summary": "RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers.",
-        "matched_keywords": [
-          "AI Agents",
-          "AI/KI",
-          "automation",
-          "GitHub"
-        ],
-        "relevance_score": 10,
-        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
-        "risk_or_opportunity": "opportunity",
-        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": [],
-        "market_context": [],
-        "id": "67b31bc2b4acb9e183a1",
-        "source_bias_class": "single_platform_github"
-      },
-      {
-        "title": "cporter202/agentic-ai-apis",
-        "url": "https://github.com/cporter202/agentic-ai-apis",
-        "source": "GitHub Search Breakout AI Tools",
-        "source_type": "github_search",
-        "published_at": "2026-06-18T17:31:31+00:00",
-        "fetched_at": "2026-06-18T18:21:58+00:00",
-        "summary": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+        "published_at": "2026-06-18T18:50:58+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
         "matched_keywords": [
           "AI Agents",
           "AI/KI",
@@ -200,14 +138,14 @@
           "Watchgraph:ai_agents_workflow"
         ],
         "relevance_score": 10,
-        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+10.1); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
         "risk_or_opportunity": "opportunity",
         "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
         "watchgraph_modules": [
           "ai_agents_workflow"
         ],
         "watchgraph_reasons": [
-          "ai_agents_workflow: AI agents, MCP"
+          "ai_agents_workflow: AI agents, memory"
         ],
         "market_context": [
           "NVDA",
@@ -229,68 +167,111 @@
           "SNAP",
           "PINS"
         ],
-        "id": "ab03d0ec82db08493d5e",
+        "id": "25213524be5c13806d89",
         "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "pnganga813-commits/Aether-desktop-orchestrator",
+        "url": "https://github.com/pnganga813-commits/Aether-desktop-orchestrator",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T18:30:42+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "08c41b55138dee8c880e",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+        "source": "BleepingComputer Security",
+        "source_type": "rss",
+        "published_at": "2026-06-18T18:31:36+00:00",
+        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Security (+7.2); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "731ed601345b112ffb39",
+        "source_bias_class": "normal"
       }
     ]
   },
   "findings": [
     {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "title": "Control who and what triggers GitHub Actions workflows",
+      "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-18T14:06:18+00:00",
+      "fetched_at": "2026-06-18T19:14:45+00:00",
+      "summary": "Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "Watchgraph:public_health_biosecurity"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "public_health_biosecurity"
+      ],
+      "watchgraph_reasons": [
+        "public_health_biosecurity: WHO"
+      ],
+      "market_context": [
+        "PFE",
+        "MRNA",
+        "BNTX",
+        "GSK",
+        "AZN",
+        "TMO",
+        "DHR"
+      ],
+      "id": "b90acfeecca5dedc01a0",
+      "source_bias_class": "normal"
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-18T18:21:58+00:00",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "published_at": "2026-06-18T17:00:00+00:00",
+      "fetched_at": "2026-06-18T19:14:45+00:00",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "matched_keywords": [
+        "AI/KI",
         "OpenAI"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+10.1); recent (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "18bd15c93b3f84130071",
-      "source_bias_class": "normal"
-    },
-    {
-      "title": "Actions: Build custom images from custom images",
-      "url": "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-18T15:32:44+00:00",
-      "fetched_at": "2026-06-18T18:21:58+00:00",
-      "summary": "Custom images for GitHub-hosted runners are getting new capabilities that give you more flexibility over how you compose and manage your image-generation pipelines. You can now build custom images on… The post Actions: Build custom images from custom images appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Watchgraph:energy_oil_gas_power_uranium"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "GitHub (+6.0); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "energy_oil_gas_power_uranium"
-      ],
-      "watchgraph_reasons": [
-        "energy_oil_gas_power_uranium: pipeline"
-      ],
-      "market_context": [
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "CCJ",
-        "ENB",
-        "SU",
-        "EQNR",
-        "URA"
-      ],
-      "id": "ededa98f7463fe398793",
+      "id": "e1be8c69ef4ea48ce652",
       "source_bias_class": "normal"
     },
     {
@@ -298,8 +279,8 @@
       "url": "https://electionbettingodds.com/",
       "source": "Election Betting Odds Public Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-18T18:21:35+00:00",
-      "fetched_at": "2026-06-18T18:21:58+00:00",
+      "published_at": "2026-06-18T19:15:08+00:00",
+      "fetched_at": "2026-06-18T19:14:45+00:00",
       "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
       "matched_keywords": [
         "election",
@@ -341,78 +322,17 @@
         "EWC",
         "EWZ"
       ],
-      "id": "7ef4561352c1ea4b5f21",
+      "id": "b41dd1377599ddf1b86e",
       "source_bias_class": "market_odds_proxy"
     },
     {
-      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
-      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297",
-      "source": "GDACS All Events Last 24h",
-      "source_type": "rss",
-      "published_at": "2026-06-18T18:02:04+00:00",
-      "fetched_at": "2026-06-18T18:21:58+00:00",
-      "summary": "On 6/18/2026 3:29:19 PM, an earthquake occurred in India potentially affecting 3.8 million in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
-      "matched_keywords": [
-        "earthquake",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8167b9cf79d4b73dbb69",
-      "source_bias_class": "normal"
-    },
-    {
-      "title": "AvdLee/RocketSimApp",
-      "url": "https://github.com/AvdLee/RocketSimApp",
+      "title": "ros-claw/rosclaw",
+      "url": "https://github.com/ros-claw/rosclaw",
       "source": "GitHub Search Breakout AI Tools",
       "source_type": "github_search",
-      "published_at": "2026-06-18T17:57:35+00:00",
-      "fetched_at": "2026-06-18T18:21:58+00:00",
-      "summary": "RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "automation",
-        "GitHub"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "67b31bc2b4acb9e183a1",
-      "source_bias_class": "single_platform_github"
-    },
-    {
-      "title": "cporter202/agentic-ai-apis",
-      "url": "https://github.com/cporter202/agentic-ai-apis",
-      "source": "GitHub Search Breakout AI Tools",
-      "source_type": "github_search",
-      "published_at": "2026-06-18T17:31:31+00:00",
-      "fetched_at": "2026-06-18T18:21:58+00:00",
-      "summary": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+      "published_at": "2026-06-18T18:50:58+00:00",
+      "fetched_at": "2026-06-18T19:14:45+00:00",
+      "summary": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
       "matched_keywords": [
         "AI Agents",
         "AI/KI",
@@ -420,14 +340,14 @@
         "Watchgraph:ai_agents_workflow"
       ],
       "relevance_score": 10,
-      "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+10.1); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents, MCP"
+        "ai_agents_workflow: AI agents, memory"
       ],
       "market_context": [
         "NVDA",
@@ -449,8 +369,52 @@
         "SNAP",
         "PINS"
       ],
-      "id": "ab03d0ec82db08493d5e",
+      "id": "25213524be5c13806d89",
       "source_bias_class": "single_platform_github"
+    },
+    {
+      "title": "pnganga813-commits/Aether-desktop-orchestrator",
+      "url": "https://github.com/pnganga813-commits/Aether-desktop-orchestrator",
+      "source": "GitHub Search Breakout AI Tools",
+      "source_type": "github_search",
+      "published_at": "2026-06-18T18:30:42+00:00",
+      "fetched_at": "2026-06-18T19:14:45+00:00",
+      "summary": "⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform",
+      "matched_keywords": [
+        "AI/KI",
+        "automation",
+        "GitHub"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "08c41b55138dee8c880e",
+      "source_bias_class": "single_platform_github"
+    },
+    {
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+      "source": "BleepingComputer Security",
+      "source_type": "rss",
+      "published_at": "2026-06-18T18:31:36+00:00",
+      "fetched_at": "2026-06-18T19:14:45+00:00",
+      "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Security (+7.2); recent (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "731ed601345b112ffb39",
+      "source_bias_class": "normal"
     }
   ],
   "source_errors": [

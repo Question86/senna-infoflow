@@ -1,18 +1,58 @@
 {
-  "generated_at": "2026-06-18T18:23:02+00:00",
+  "generated_at": "2026-06-18T19:15:55+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 6,
     "clusters": 6,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 0,
-    "dominance_penalized": 1
+    "hot": 1,
+    "early_signals": 1,
+    "dominance_penalized": 0
   },
   "clusters": [
     {
+      "key": "title:control-who-what-triggers-github-actions-workflows",
+      "title": "Control who and what triggers GitHub Actions workflows",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
+      ],
+      "finding_count": 1,
+      "max_score": 22,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 31.5,
+      "hot": true,
+      "watchgraph_modules": [
+        "public_health_biosecurity"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 27.1,
+      "ranking_score": 31.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T19:15:55+00:00"
+    },
+    {
       "key": "domain:openai.com",
-      "title": "Improving health intelligence in ChatGPT",
+      "title": "New usage analytics and updated spend controls for enterprises",
       "sources": [
         "OpenAI News RSS"
       ],
@@ -20,25 +60,25 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+        "https://openai.com/index/chatgpt-enterprise-spend-controls"
       ],
       "finding_count": 1,
-      "max_score": 12,
+      "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 16.0,
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -49,48 +89,8 @@
       "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
-      "key": "title:actions-build-custom-images-custom-images",
-      "title": "Actions: Build custom images from custom images",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "energy_oil_gas_power_uranium"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 15.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T18:23:02+00:00"
-    },
-    {
-      "key": "github_repo:avdlee/rocketsimapp",
-      "title": "AvdLee/RocketSimApp",
+      "key": "github_repo:ros-claw/rosclaw",
+      "title": "ros-claw/rosclaw",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -98,45 +98,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/AvdLee/RocketSimApp"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.4,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.4,
-      "initial_reach_tier": "small_initial",
-      "source_reach_score": 1.5,
-      "authority_bonus_capped": 0.9,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T18:23:02+00:00"
-    },
-    {
-      "key": "github_repo:cporter202/agentic-ai-apis",
-      "title": "cporter202/agentic-ai-apis",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/cporter202/agentic-ai-apis"
+        "https://github.com/ros-claw/rosclaw"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -164,48 +126,83 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T18:23:02+00:00"
+      "first_seen_at": "2026-06-18T19:15:55+00:00"
     },
     {
-      "key": "earthquake:india 18:4.0",
-      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
+      "key": "github_repo:pnganga813-commits/aether-desktop-orchestrator",
+      "title": "pnganga813-commits/Aether-desktop-orchestrator",
       "sources": [
-        "GDACS All Events Last 24h"
+        "GitHub Search Breakout AI Tools"
       ],
       "source_classes": [
-        "emergency_official",
-        "tier1_official"
+        "tier5_generic_repo"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297"
+        "https://github.com/pnganga813-commits/Aether-desktop-orchestrator"
       ],
       "finding_count": 1,
       "max_score": 10,
-      "credibility_total": 1.35,
+      "credibility_total": 0.55,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 11.9,
+      "network_score": 13.4,
       "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 15.7,
-      "ranking_score": 11.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.4,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T18:23:02+00:00"
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T19:15:55+00:00"
+    },
+    {
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T21:31:36+00:00"
     },
     {
       "key": "domain:electionbettingodds.com",
@@ -250,7 +247,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-06-18T18:23:02Z",
+    "generated_at": "2026-06-18T19:15:55Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

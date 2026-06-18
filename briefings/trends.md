@@ -1,8 +1,8 @@
 # Senna Trend Ranking
 
-- **Improving health intelligence in ChatGPT** — `14.0` `emerging` `title:improving-health-intelligence-in-chatgpt`
-- **Actions: Build custom images from custom images** — `13.0` `emerging` `title:actions:-build-custom-images-from-custom-images`
+- **Control who and what triggers GitHub Actions workflows** — `24.0` `emerging` `title:control-who-and-what-triggers-github-actions-workflows`
+- **New usage analytics and updated spend controls for enterprises** — `16.0` `emerging` `title:new-usage-analytics-and-updated-spend-controls-for-enterprises`
 - **Election Betting Odds by Maxim Lott and John Stossel** — `12.0` `mature` `title:election-betting-odds-by-maxim-lott-and-john-stossel`
-- **Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.** — `12.0` `emerging` `earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-india-18-06:4`
-- **AvdLee/RocketSimApp** — `12.0` `emerging` `title:avdlee-rocketsimapp`
-- **cporter202/agentic-ai-apis** — `12.0` `emerging` `title:cporter202-agentic-ai-apis`
+- **ros-claw/rosclaw** — `12.0` `emerging` `title:ros-claw-rosclaw`
+- **pnganga813-commits/Aether-desktop-orchestrator** — `12.0` `emerging` `title:pnganga813-commits-aether-desktop-orchestrator`
+- **Nintendo confirms data stolen in WebMD subsidiary cyberattack** — `11.0` `emerging` `title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack`
