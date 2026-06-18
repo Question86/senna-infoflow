@@ -1,84 +1,111 @@
 {
-  "generated_at": "2026-06-18T19:15:55+00:00",
+  "generated_at": "2026-06-18T20:05:27+00:00",
   "date": "2026-06-18",
   "scope": "configured_public_sources_only",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 315,
+    "new_relevant_findings": 8,
+    "today_file_total": 322,
     "high": 0,
-    "medium": 2,
-    "observe": 4,
+    "medium": 1,
+    "observe": 7,
     "source_errors": 7
   },
   "sections": {
     "high": [],
     "medium": [
       {
-        "title": "Control who and what triggers GitHub Actions workflows",
-        "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows",
-        "source": "GitHub Changelog Atom",
+        "title": "M 5.2, Southeast of Honshu, Japan",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
         "source_type": "rss",
-        "published_at": "2026-06-18T14:06:18+00:00",
-        "fetched_at": "2026-06-18T19:14:45+00:00",
-        "summary": "Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .",
+        "published_at": null,
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "2026-06-18 19:17:46 30.84 142.26 86 km A",
         "matched_keywords": [
-          "GitHub",
-          "GitHub Actions",
-          "Watchgraph:public_health_biosecurity"
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
         ],
-        "relevance_score": 22,
-        "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
-        "risk_or_opportunity": "observation",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_score": 12,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
         "watchgraph_modules": [
-          "public_health_biosecurity"
+          "earthquakes_tsunami"
         ],
         "watchgraph_reasons": [
-          "public_health_biosecurity: WHO"
+          "earthquakes_tsunami: earthquake"
         ],
         "market_context": [
-          "PFE",
-          "MRNA",
-          "BNTX",
-          "GSK",
-          "AZN",
-          "TMO",
-          "DHR"
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
         ],
-        "id": "b90acfeecca5dedc01a0",
-        "source_bias_class": "normal"
-      },
-      {
-        "title": "New usage analytics and updated spend controls for enterprises",
-        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-        "source": "OpenAI News RSS",
-        "source_type": "rss",
-        "published_at": "2026-06-18T17:00:00+00:00",
-        "fetched_at": "2026-06-18T19:14:45+00:00",
-        "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-        "matched_keywords": [
-          "AI/KI",
-          "OpenAI"
-        ],
-        "relevance_score": 14,
-        "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
-        "risk_or_opportunity": "observation",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": [],
-        "market_context": [],
-        "id": "e1be8c69ef4ea48ce652",
+        "id": "5a947f1bf86013c03caa",
         "source_bias_class": "normal"
       }
     ],
     "observe": [
       {
+        "title": "Copilot code review: AGENTS.md support and UI improvements",
+        "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T19:11:51+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "Copilot code review now supports repository-level AGENTS.md files, and it’s easier to request a review from Copilot on draft pull requests with the Request button. These changes are all generally… The post Copilot code review: AGENTS.md support and UI improvements appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "GitHub (+6.0); Copilot (+3.4); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a0e2a965ce484d34d64",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "skalesapp/skales",
+        "url": "https://github.com/skalesapp/skales",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T20:03:46+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f7c7802a82fddb1c65a9",
+        "source_bias_class": "single_platform_github"
+      },
+      {
         "title": "Election Betting Odds by Maxim Lott and John Stossel",
         "url": "https://electionbettingodds.com/",
         "source": "Election Betting Odds Public Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-18T19:15:08+00:00",
-        "fetched_at": "2026-06-18T19:14:45+00:00",
+        "published_at": "2026-06-18T20:01:56+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
         "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
         "matched_keywords": [
           "election",
@@ -120,64 +147,17 @@
           "EWC",
           "EWZ"
         ],
-        "id": "b41dd1377599ddf1b86e",
+        "id": "44a2a2f99ab3d17db325",
         "source_bias_class": "market_odds_proxy"
       },
       {
-        "title": "ros-claw/rosclaw",
-        "url": "https://github.com/ros-claw/rosclaw",
+        "title": "tridz-dev/huf",
+        "url": "https://github.com/tridz-dev/huf",
         "source": "GitHub Search Breakout AI Tools",
         "source_type": "github_search",
-        "published_at": "2026-06-18T18:50:58+00:00",
-        "fetched_at": "2026-06-18T19:14:45+00:00",
-        "summary": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
-        "matched_keywords": [
-          "AI Agents",
-          "AI/KI",
-          "GitHub",
-          "Watchgraph:ai_agents_workflow"
-        ],
-        "relevance_score": 10,
-        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
-        "risk_or_opportunity": "opportunity",
-        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-        "watchgraph_modules": [
-          "ai_agents_workflow"
-        ],
-        "watchgraph_reasons": [
-          "ai_agents_workflow: AI agents, memory"
-        ],
-        "market_context": [
-          "NVDA",
-          "AMD",
-          "TSM",
-          "ASML",
-          "AVGO",
-          "MU",
-          "005930.KS",
-          "000660.KS",
-          "8035.T",
-          "MSFT",
-          "GTLB",
-          "FROG",
-          "TEAM",
-          "META",
-          "GOOGL",
-          "RDDT",
-          "SNAP",
-          "PINS"
-        ],
-        "id": "25213524be5c13806d89",
-        "source_bias_class": "single_platform_github"
-      },
-      {
-        "title": "pnganga813-commits/Aether-desktop-orchestrator",
-        "url": "https://github.com/pnganga813-commits/Aether-desktop-orchestrator",
-        "source": "GitHub Search Breakout AI Tools",
-        "source_type": "github_search",
-        "published_at": "2026-06-18T18:30:42+00:00",
-        "fetched_at": "2026-06-18T19:14:45+00:00",
-        "summary": "⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform",
+        "published_at": "2026-06-18T19:41:09+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "Open-source, self-hosted multi-agent AI infrastructure for teams and apps with support for cloud and local models, tool integrations, workflows, and automation across business systems including Slack, ERPNext, Discord & Gmail.",
         "matched_keywords": [
           "AI/KI",
           "automation",
@@ -190,97 +170,199 @@
         "watchgraph_modules": [],
         "watchgraph_reasons": [],
         "market_context": [],
-        "id": "08c41b55138dee8c880e",
+        "id": "d9e7c7f268d7817cda0a",
         "source_bias_class": "single_platform_github"
       },
       {
-        "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-        "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-        "source": "BleepingComputer Security",
+        "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316",
+        "source": "GDACS All Events Last 24h",
         "source_type": "rss",
-        "published_at": "2026-06-18T18:31:36+00:00",
-        "fetched_at": "2026-06-18T19:14:45+00:00",
-        "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+        "published_at": "2026-06-18T19:40:11+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "On 6/18/2026 7:17:40 PM, an earthquake occurred in Southeast Of Honshu, Japan potentially affecting No people affected in 100km. The earthquake had Magnitude 5.3M, Depth:10km.",
         "matched_keywords": [
-          "Security"
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
         ],
-        "relevance_score": 9,
-        "relevance_reason": "Security (+7.2); recent (+2.0)",
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3404cb04c86c2422eb9d",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "mixpeek/amux",
+        "url": "https://github.com/mixpeek/amux",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T19:29:51+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
         "risk_or_opportunity": "observation",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "watchgraph_modules": [],
         "watchgraph_reasons": [],
         "market_context": [],
-        "id": "731ed601345b112ffb39",
+        "id": "b9ea9254e647dcbb5982",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "M 5.3 - Izu Islands, Japan region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-18T19:35:25.040+00:00",
+        "fetched_at": "2026-06-18T20:04:20+00:00",
+        "summary": "Time 2026-06-18 19:17:40 UTC 2026-06-18 19:17:40 UTC at epicenter Location 30.610°N 142.266°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "39b1d47dc099889fad44",
         "source_bias_class": "normal"
       }
     ]
   },
   "findings": [
     {
-      "title": "Control who and what triggers GitHub Actions workflows",
-      "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows",
-      "source": "GitHub Changelog Atom",
+      "title": "M 5.2, Southeast of Honshu, Japan",
+      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks",
+      "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "source_type": "rss",
-      "published_at": "2026-06-18T14:06:18+00:00",
-      "fetched_at": "2026-06-18T19:14:45+00:00",
-      "summary": "Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .",
+      "published_at": null,
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "2026-06-18 19:17:46 30.84 142.26 86 km A",
       "matched_keywords": [
-        "GitHub",
-        "GitHub Actions",
-        "Watchgraph:public_health_biosecurity"
+        "earthquake",
+        "GEOFON",
+        "GFZ",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 12,
+      "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "public_health_biosecurity"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "public_health_biosecurity: WHO"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "PFE",
-        "MRNA",
-        "BNTX",
-        "GSK",
-        "AZN",
-        "TMO",
-        "DHR"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "b90acfeecca5dedc01a0",
+      "id": "5a947f1bf86013c03caa",
       "source_bias_class": "normal"
     },
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News RSS",
+      "title": "Copilot code review: AGENTS.md support and UI improvements",
+      "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-06-18T17:00:00+00:00",
-      "fetched_at": "2026-06-18T19:14:45+00:00",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "published_at": "2026-06-18T19:11:51+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "Copilot code review now supports repository-level AGENTS.md files, and it’s easier to request a review from Copilot on draft pull requests with the Request button. These changes are all generally… The post Copilot code review: AGENTS.md support and UI improvements appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "GitHub (+6.0); Copilot (+3.4); recent (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e1be8c69ef4ea48ce652",
+      "id": "5a0e2a965ce484d34d64",
       "source_bias_class": "normal"
+    },
+    {
+      "title": "skalesapp/skales",
+      "url": "https://github.com/skalesapp/skales",
+      "source": "GitHub Search Breakout AI Tools",
+      "source_type": "github_search",
+      "published_at": "2026-06-18T20:03:46+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "matched_keywords": [
+        "AI/KI",
+        "automation",
+        "GitHub"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f7c7802a82fddb1c65a9",
+      "source_bias_class": "single_platform_github"
     },
     {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
       "url": "https://electionbettingodds.com/",
       "source": "Election Betting Odds Public Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-18T19:15:08+00:00",
-      "fetched_at": "2026-06-18T19:14:45+00:00",
+      "published_at": "2026-06-18T20:01:56+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
       "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
       "matched_keywords": [
         "election",
@@ -322,64 +404,17 @@
         "EWC",
         "EWZ"
       ],
-      "id": "b41dd1377599ddf1b86e",
+      "id": "44a2a2f99ab3d17db325",
       "source_bias_class": "market_odds_proxy"
     },
     {
-      "title": "ros-claw/rosclaw",
-      "url": "https://github.com/ros-claw/rosclaw",
+      "title": "tridz-dev/huf",
+      "url": "https://github.com/tridz-dev/huf",
       "source": "GitHub Search Breakout AI Tools",
       "source_type": "github_search",
-      "published_at": "2026-06-18T18:50:58+00:00",
-      "fetched_at": "2026-06-18T19:14:45+00:00",
-      "summary": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents, memory"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "25213524be5c13806d89",
-      "source_bias_class": "single_platform_github"
-    },
-    {
-      "title": "pnganga813-commits/Aether-desktop-orchestrator",
-      "url": "https://github.com/pnganga813-commits/Aether-desktop-orchestrator",
-      "source": "GitHub Search Breakout AI Tools",
-      "source_type": "github_search",
-      "published_at": "2026-06-18T18:30:42+00:00",
-      "fetched_at": "2026-06-18T19:14:45+00:00",
-      "summary": "⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform",
+      "published_at": "2026-06-18T19:41:09+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "Open-source, self-hosted multi-agent AI infrastructure for teams and apps with support for cloud and local models, tool integrations, workflows, and automation across business systems including Slack, ERPNext, Discord & Gmail.",
       "matched_keywords": [
         "AI/KI",
         "automation",
@@ -392,28 +427,103 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "08c41b55138dee8c880e",
+      "id": "d9e7c7f268d7817cda0a",
       "source_bias_class": "single_platform_github"
     },
     {
-      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-      "source": "BleepingComputer Security",
+      "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316",
+      "source": "GDACS All Events Last 24h",
       "source_type": "rss",
-      "published_at": "2026-06-18T18:31:36+00:00",
-      "fetched_at": "2026-06-18T19:14:45+00:00",
-      "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+      "published_at": "2026-06-18T19:40:11+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "On 6/18/2026 7:17:40 PM, an earthquake occurred in Southeast Of Honshu, Japan potentially affecting No people affected in 100km. The earthquake had Magnitude 5.3M, Depth:10km.",
       "matched_keywords": [
-        "Security"
+        "earthquake",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Security (+7.2); recent (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3404cb04c86c2422eb9d",
+      "source_bias_class": "normal"
+    },
+    {
+      "title": "mixpeek/amux",
+      "url": "https://github.com/mixpeek/amux",
+      "source": "GitHub Search Breakout AI Tools",
+      "source_type": "github_search",
+      "published_at": "2026-06-18T19:29:51+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "731ed601345b112ffb39",
+      "id": "b9ea9254e647dcbb5982",
+      "source_bias_class": "single_platform_github"
+    },
+    {
+      "title": "M 5.3 - Izu Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-18T19:35:25.040+00:00",
+      "fetched_at": "2026-06-18T20:04:20+00:00",
+      "summary": "Time 2026-06-18 19:17:40 UTC 2026-06-18 19:17:40 UTC at epicenter Location 30.610°N 142.266°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "earthquake",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "39b1d47dc099889fad44",
       "source_bias_class": "normal"
     }
   ],

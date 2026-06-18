@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-18T19:15:55+00:00_
+_Generiert: 2026-06-18T20:05:27+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „ros-claw/rosclaw“ aus GitHub Search Breakout AI Tools (Score 22, opportunity). 7 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+8 neue relevante Treffer. Stärkstes Signal: „Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.“ aus GDACS All Events Last 24h (Score 16, risk). 7 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,66 +12,85 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **ros-claw/rosclaw** — Score 22, opportunity — [Quelle](https://github.com/ros-claw/rosclaw)
+- **Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-18T19:40:11+00:00`, fetched `2026-06-18T20:04:20+00:00`
+  - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/18/2026 7:17:40 PM, an earthquake occurred in Southeast Of Honshu, Japan potentially affecting No people affected in 100km. The earthquake had Magnitude 5.3M, Depth:10km.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **skalesapp/skales** — Score 15, opportunity — [Quelle](https://github.com/skalesapp/skales)
   - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T18:50:58+00:00`, fetched `2026-06-18T19:14:45+00:00`
-  - Treffer: AI Agents, AI/KI, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.
+  - Zeit: published `2026-06-18T20:03:46+00:00`, fetched `2026-06-18T20:04:20+00:00`
+  - Treffer: AI/KI, automation, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Control who and what triggers GitHub Actions workflows** — Score 22, observation — [Quelle](https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-18T14:06:18+00:00`, fetched `2026-06-18T19:14:45+00:00`
-  - Treffer: GitHub, GitHub Actions, Watchgraph:public_health_biosecurity
-  - Watchgraph: public_health_biosecurity
-  - Markt-/Kontextkorb: PFE, MRNA, BNTX, GSK, AZN, TMO, DHR
-  - Warum relevant: GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules public_health_biosecurity (+3.0)
-  - Kurz: Workflow execution protections are now in public preview for GitHub Enterprise, organizations, and repositories. This new capability lets enterprise administrators define an allow list that controls who can trigger GitHub… The post Control who and what triggers GitHub Actions workflows appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Election Betting Odds by Maxim Lott and John Stossel** — Score 15, observation — [Quelle](https://electionbettingodds.com/)
   - Quelle: Election Betting Odds Public Watch / `webpage_check`
-  - Zeit: published `2026-06-18T19:15:08+00:00`, fetched `2026-06-18T19:14:45+00:00`
+  - Zeit: published `2026-06-18T20:01:56+00:00`, fetched `2026-06-18T20:04:20+00:00`
   - Treffer: election, odds, Watchgraph:elections_unrest, Watchgraph:public_health_biosecurity
   - Watchgraph: elections_unrest, public_health_biosecurity
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
   - Warum relevant: election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)
   - Kurz: Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pnganga813-commits/Aether-desktop-orchestrator** — Score 15, opportunity — [Quelle](https://github.com/pnganga813-commits/Aether-desktop-orchestrator)
+- **tridz-dev/huf** — Score 15, opportunity — [Quelle](https://github.com/tridz-dev/huf)
   - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T18:30:42+00:00`, fetched `2026-06-18T19:14:45+00:00`
+  - Zeit: published `2026-06-18T19:41:09+00:00`, fetched `2026-06-18T20:04:20+00:00`
   - Treffer: AI/KI, automation, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: ⚡ Hermes Agent 2026: Next-Gen Multi-AI Desktop Automation Platform
+  - Kurz: Open-source, self-hosted multi-agent AI infrastructure for teams and apps with support for cloud and local models, tool integrations, workflows, and automation across business systems including Slack, ERPNext, Discord & Gmail.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **New usage analytics and updated spend controls for enterprises** — Score 14, observation — [Quelle](https://openai.com/index/chatgpt-enterprise-spend-controls)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-18T17:00:00+00:00`, fetched `2026-06-18T19:14:45+00:00`
-  - Treffer: AI/KI, OpenAI
+- **mixpeek/amux** — Score 13, observation — [Quelle](https://github.com/mixpeek/amux)
+  - Quelle: GitHub Search Breakout AI Tools / `github_search`
+  - Zeit: published `2026-06-18T19:29:51+00:00`, fetched `2026-06-18T20:04:20+00:00`
+  - Treffer: AI/KI, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.2); AI/KI (+5.0); recent (+2.0)
-  - Kurz: OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2, Southeast of Honshu, Japan** — Score 12, risk — [Quelle](https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks)
+  - Quelle: GEOFON/GFZ Global Recent Earthquakes RSS / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-06-18T20:04:20+00:00`
+  - Treffer: earthquake, GEOFON, GFZ, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: 2026-06-18 19:17:46 30.84 142.26 86 km A
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
-- **Nintendo confirms data stolen in WebMD subsidiary cyberattack** — Score 9, observation — [Quelle](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-18T18:31:36+00:00`, fetched `2026-06-18T19:14:45+00:00`
-  - Treffer: Security
+- **Copilot code review: AGENTS.md support and UI improvements** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-18T19:11:51+00:00`, fetched `2026-06-18T20:04:20+00:00`
+  - Treffer: Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.2); recent (+2.0)
-  - Kurz: Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]
+  - Warum relevant: GitHub (+6.0); Copilot (+3.4); recent (+2.0)
+  - Kurz: Copilot code review now supports repository-level AGENTS.md files, and it’s easier to request a review from Copilot on draft pull requests with the Request button. These changes are all generally… The post Copilot code review: AGENTS.md support and UI improvements appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - Izu Islands, Japan region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-18T19:35:25.040+00:00`, fetched `2026-06-18T20:04:20+00:00`
+  - Treffer: earthquake, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: earthquake (+2.4); recent (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-18 19:17:40 UTC 2026-06-18 19:17:40 UTC at epicenter Location 30.610°N 142.266°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 

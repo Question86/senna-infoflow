@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T19:15:55+00:00",
+  "generated_at": "2026-06-18T20:05:28+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -325,7 +325,7 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T19:15:55+00:00",
+      "updated_at": "2026-06-18T20:05:28+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -339,12 +339,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 15.79,
+      "rolling_average": 15.53,
       "rolling_peak": 20.1,
       "last_score": 12.1,
-      "z_hint": -3.69
+      "z_hint": -3.43
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -1825,6 +1826,83 @@
     "github_repo:pnganga813-commits/aether-desktop-orchestrator": {
       "title": "pnganga813-commits/Aether-desktop-orchestrator",
       "updated_at": "2026-06-18T19:15:55+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "earthquake:japan:5.2": {
+      "title": "M 5.2, Southeast of Honshu, Japan",
+      "updated_at": "2026-06-18T20:05:28+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "title:copilot-code-review-agents-support-improvements": {
+      "title": "Copilot code review: AGENTS.md support and UI improvements",
+      "updated_at": "2026-06-18T20:05:28+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "earthquake:japan:5.0": {
+      "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
+      "updated_at": "2026-06-18T20:05:28+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "earthquake:japan:5.3": {
+      "title": "M 5.3 - Izu Islands, Japan region",
+      "updated_at": "2026-06-18T20:05:28+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "github_repo:skalesapp/skales": {
+      "title": "skalesapp/skales",
+      "updated_at": "2026-06-18T20:05:28+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:tridz-dev/huf": {
+      "title": "tridz-dev/huf",
+      "updated_at": "2026-06-18T20:05:28+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:mixpeek/amux": {
+      "title": "mixpeek/amux",
+      "updated_at": "2026-06-18T20:05:28+00:00",
       "network_scores": [
         14.1
       ],

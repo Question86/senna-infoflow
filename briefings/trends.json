@@ -1,54 +1,74 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T19-15-55Z",
-  "generated_at": "2026-06-18T19:15:55Z",
+  "run_id": "2026-06-18T20-05-27Z",
+  "generated_at": "2026-06-18T20:05:27Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T19-15-55Z:title:control-who-and-what-triggers-github-actions-workflows",
-      "sample_index": 5939367,
-      "timestamp_utc": "2026-06-18T19:15:55Z",
-      "run_id": "2026-06-18T19-15-55Z",
-      "topic_key": "title:control-who-and-what-triggers-github-actions-workflows",
-      "topic_label": "Control who and what triggers GitHub Actions workflows",
-      "network_score": 22.0,
+      "sample_id": "2026-06-18T20-05-27Z:title:m-5.2-southeast-of-honshu-japan",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "title:m-5.2-southeast-of-honshu-japan",
+      "topic_label": "M 5.2, Southeast of Honshu, Japan",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T20-05-27Z:title:copilot-code-review:-agents.md-support-and-ui-improvements",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "title:copilot-code-review:-agents.md-support-and-ui-improvements",
+      "topic_label": "Copilot code review: AGENTS.md support and UI improvements",
+      "network_score": 11.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GitHub Changelog Atom"
       ],
-      "score_delta_5m": 22.0,
-      "trend_wucht": 24.0,
+      "score_delta_5m": 11.0,
+      "trend_wucht": 13.0,
       "status": "emerging",
       "urls": [
-        "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
+        "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements"
       ]
     },
     {
-      "sample_id": "2026-06-18T19-15-55Z:title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
-      "sample_index": 5939367,
-      "timestamp_utc": "2026-06-18T19:15:55Z",
-      "run_id": "2026-06-18T19-15-55Z",
-      "topic_key": "title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
-      "topic_label": "New usage analytics and updated spend controls for enterprises",
-      "network_score": 14.0,
+      "sample_id": "2026-06-18T20-05-27Z:title:skalesapp-skales",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "title:skalesapp-skales",
+      "topic_label": "skalesapp/skales",
+      "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "OpenAI News RSS"
+        "GitHub Search Breakout AI Tools"
       ],
-      "score_delta_5m": 14.0,
-      "trend_wucht": 16.0,
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        "https://github.com/skalesapp/skales"
       ]
     },
     {
-      "sample_id": "2026-06-18T19-15-55Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939367,
-      "timestamp_utc": "2026-06-18T19:15:55Z",
-      "run_id": "2026-06-18T19-15-55Z",
+      "sample_id": "2026-06-18T20-05-27Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 10.0,
@@ -65,12 +85,12 @@
       ]
     },
     {
-      "sample_id": "2026-06-18T19-15-55Z:title:ros-claw-rosclaw",
-      "sample_index": 5939367,
-      "timestamp_utc": "2026-06-18T19:15:55Z",
-      "run_id": "2026-06-18T19-15-55Z",
-      "topic_key": "title:ros-claw-rosclaw",
-      "topic_label": "ros-claw/rosclaw",
+      "sample_id": "2026-06-18T20-05-27Z:title:tridz-dev-huf",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "title:tridz-dev-huf",
+      "topic_label": "tridz-dev/huf",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -81,16 +101,36 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/ros-claw/rosclaw"
+        "https://github.com/tridz-dev/huf"
       ]
     },
     {
-      "sample_id": "2026-06-18T19-15-55Z:title:pnganga813-commits-aether-desktop-orchestrator",
-      "sample_index": 5939367,
-      "timestamp_utc": "2026-06-18T19:15:55Z",
-      "run_id": "2026-06-18T19-15-55Z",
-      "topic_key": "title:pnganga813-commits-aether-desktop-orchestrator",
-      "topic_label": "pnganga813-commits/Aether-desktop-orchestrator",
+      "sample_id": "2026-06-18T20-05-27Z:earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-southeast-o:5",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-southeast-o:5",
+      "topic_label": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T20-05-27Z:title:mixpeek-amux",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "title:mixpeek-amux",
+      "topic_label": "mixpeek/amux",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -101,27 +141,27 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/pnganga813-commits/Aether-desktop-orchestrator"
+        "https://github.com/mixpeek/amux"
       ]
     },
     {
-      "sample_id": "2026-06-18T19-15-55Z:title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
-      "sample_index": 5939367,
-      "timestamp_utc": "2026-06-18T19:15:55Z",
-      "run_id": "2026-06-18T19-15-55Z",
-      "topic_key": "title:nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack",
-      "topic_label": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "sample_id": "2026-06-18T20-05-27Z:earthquake:m-5.3-izu-islands-japan-region:5.3",
+      "sample_index": 5939377,
+      "timestamp_utc": "2026-06-18T20:05:27Z",
+      "run_id": "2026-06-18T20-05-27Z",
+      "topic_key": "earthquake:m-5.3-izu-islands-japan-region:5.3",
+      "topic_label": "M 5.3 - Izu Islands, Japan region",
       "network_score": 9.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "BleepingComputer Security"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "score_delta_5m": 9.0,
       "trend_wucht": 11.0,
       "status": "emerging",
       "urls": [
-        "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
       ]
     }
   ]
