@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Tropical Storm Arthur Graphics",
+    "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/234631.shtml?cone",
+    "source": "NOAA NHC Atlantic Tropical Cyclones",
+    "source_type": "rss",
+    "published_at": "2026-06-17T23:46:31+00:00",
+    "fetched_at": "2026-06-18T00:03:00+00:00",
+    "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
+    "matched_keywords": [
+      "cyclone",
+      "Watchgraph:storms_floods_weather"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "storms_floods_weather"
+    ],
+    "watchgraph_reasons": [
+      "storms_floods_weather: cyclone"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "354d0f4af784d88d5042"
+  }
+]

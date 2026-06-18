@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T23:35:00+00:00",
+  "generated_at": "2026-06-18T00:03:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -91,16 +91,17 @@
       "z_hint": 0.0
     },
     "storm:arthur": {
-      "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
-      "updated_at": "2026-06-17T23:35:00+00:00",
+      "title": "Tropical Storm Arthur Graphics",
+      "updated_at": "2026-06-18T00:03:45+00:00",
       "network_scores": [
         37.5,
-        14.7
+        14.7,
+        9.7
       ],
-      "rolling_average": 26.1,
+      "rolling_average": 20.63,
       "rolling_peak": 37.5,
-      "last_score": 14.7,
-      "z_hint": -11.4
+      "last_score": 9.7,
+      "z_hint": -10.93
     },
     "domain:www.bleepingcomputer.com": {
       "title": "Google to use UK and EU user IP addresses for ad personalization",

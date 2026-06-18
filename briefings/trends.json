@@ -1,27 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-17T23-34-59Z",
-  "generated_at": "2026-06-17T23:34:59Z",
+  "run_id": "2026-06-18T00-03-45Z",
+  "generated_at": "2026-06-18T00:03:45Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-17T23-34-59Z:title:summary-for-tropical-storm-arthur-at1-al012026",
-      "sample_index": 5939130,
-      "timestamp_utc": "2026-06-17T23:34:59Z",
-      "run_id": "2026-06-17T23-34-59Z",
-      "topic_key": "title:summary-for-tropical-storm-arthur-at1-al012026",
-      "topic_label": "Summary for Tropical Storm Arthur (AT1/AL012026)",
-      "network_score": 9.0,
+      "sample_id": "2026-06-18T00-03-45Z:title:tropical-storm-arthur-graphics",
+      "sample_index": 5939136,
+      "timestamp_utc": "2026-06-18T00:03:45Z",
+      "run_id": "2026-06-18T00-03-45Z",
+      "topic_key": "title:tropical-storm-arthur-graphics",
+      "topic_label": "Tropical Storm Arthur Graphics",
+      "network_score": 7.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "NOAA NHC Atlantic Tropical Cyclones"
       ],
       "score_delta_5m": 0.0,
-      "trend_wucht": 11.0,
+      "trend_wucht": 9.0,
       "status": "mature",
       "urls": [
-        "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml"
+        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/234631.shtml?cone"
       ]
     }
   ]

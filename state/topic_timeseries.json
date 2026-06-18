@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-17T23:34:59Z",
+  "generated_at": "2026-06-18T00:03:45Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -221,7 +221,7 @@
     "title:tropical-storm-arthur-graphics": {
       "topic_key": "title:tropical-storm-arthur-graphics",
       "topic_label": "Tropical Storm Arthur Graphics",
-      "last_seen_at": "2026-06-17T21:31:36Z",
+      "last_seen_at": "2026-06-18T00:03:45Z",
       "last_trend_wucht": 9.0,
       "samples": [
         {
@@ -242,6 +242,26 @@
           "status": "emerging",
           "urls": [
             "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/212600.shtml?cone"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T00-03-45Z:title:tropical-storm-arthur-graphics",
+          "sample_index": 5939136,
+          "timestamp_utc": "2026-06-18T00:03:45Z",
+          "run_id": "2026-06-18T00-03-45Z",
+          "topic_key": "title:tropical-storm-arthur-graphics",
+          "topic_label": "Tropical Storm Arthur Graphics",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "NOAA NHC Atlantic Tropical Cyclones"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 9.0,
+          "status": "mature",
+          "urls": [
+            "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/234631.shtml?cone"
           ]
         }
       ]

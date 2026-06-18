@@ -1,3 +1,3 @@
 # Senna Trend Ranking
 
-- **Summary for Tropical Storm Arthur (AT1/AL012026)** — `11.0` `mature` `title:summary-for-tropical-storm-arthur-at1-al012026`
+- **Tropical Storm Arthur Graphics** — `9.0` `mature` `title:tropical-storm-arthur-graphics`

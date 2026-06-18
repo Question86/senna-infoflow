@@ -1,41 +1,40 @@
 {
-  "generated_at": "2026-06-17T23:34:59+00:00",
-  "date": "2026-06-17",
+  "generated_at": "2026-06-18T00:03:45+00:00",
+  "date": "2026-06-18",
   "scope": "configured_public_sources_only",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 237,
+    "today_file_total": 1,
     "high": 0,
     "medium": 0,
     "observe": 1,
-    "source_errors": 5
+    "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
       {
-        "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
-        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml",
+        "title": "Tropical Storm Arthur Graphics",
+        "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/234631.shtml?cone",
         "source": "NOAA NHC Atlantic Tropical Cyclones",
         "source_type": "rss",
-        "published_at": "2026-06-17T23:31:06+00:00",
-        "fetched_at": "2026-06-17T23:30:07+00:00",
-        "summary": "...CENTER OF ARTHUR RE-FORMS NORTHEASTWARD NEAR GALVESTON TEXAS... ...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 7:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.4, -94.9 with movement NE at 8 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 40 mph.",
+        "published_at": "2026-06-17T23:46:31+00:00",
+        "fetched_at": "2026-06-18T00:03:00+00:00",
+        "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
         "matched_keywords": [
           "cyclone",
-          "flood",
           "Watchgraph:storms_floods_weather"
         ],
-        "relevance_score": 9,
-        "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "relevance_score": 7,
+        "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
         "risk_or_opportunity": "risk",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
         "watchgraph_modules": [
           "storms_floods_weather"
         ],
         "watchgraph_reasons": [
-          "storms_floods_weather: cyclone, flood"
+          "storms_floods_weather: cyclone"
         ],
         "market_context": [
           "MUV2.DE",
@@ -59,33 +58,32 @@
           "CCJ",
           "URA"
         ],
-        "id": "eb53a3b62d890d251ca2"
+        "id": "354d0f4af784d88d5042"
       }
     ]
   },
   "findings": [
     {
-      "title": "Summary for Tropical Storm Arthur (AT1/AL012026)",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml",
+      "title": "Tropical Storm Arthur Graphics",
+      "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/234631.shtml?cone",
       "source": "NOAA NHC Atlantic Tropical Cyclones",
       "source_type": "rss",
-      "published_at": "2026-06-17T23:31:06+00:00",
-      "fetched_at": "2026-06-17T23:30:07+00:00",
-      "summary": "...CENTER OF ARTHUR RE-FORMS NORTHEASTWARD NEAR GALVESTON TEXAS... ...LIFE-THREATENING FLOODING EXPECTED ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 7:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.4, -94.9 with movement NE at 8 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 40 mph.",
+      "published_at": "2026-06-17T23:46:31+00:00",
+      "fetched_at": "2026-06-18T00:03:00+00:00",
+      "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
       "matched_keywords": [
         "cyclone",
-        "flood",
         "Watchgraph:storms_floods_weather"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "cyclone (+2.0); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+      "relevance_score": 7,
+      "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "storms_floods_weather"
       ],
       "watchgraph_reasons": [
-        "storms_floods_weather: cyclone, flood"
+        "storms_floods_weather: cyclone"
       ],
       "market_context": [
         "MUV2.DE",
@@ -109,39 +107,8 @@
         "CCJ",
         "URA"
       ],
-      "id": "eb53a3b62d890d251ca2"
+      "id": "354d0f4af784d88d5042"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "geofon_global_recent_rss",
-      "source_name": "GEOFON/GFZ Global Recent Earthquakes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='geofon.gfz.de', port=443): Max retries exceeded with url: /eqinfo/list.php?fmt=rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='geofon.gfz.de', port=443) at 0x7f37ec330f90>, 'Connection to geofon.gfz.de timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_all_events_24h",
-      "source_name": "GDACS All Events Last 24h",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_24h.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37eba898d0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_all_events_week",
-      "source_name": "GDACS All Events Last Week",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37ebac59d0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_orange_red_earthquakes",
-      "source_name": "GDACS Orange/Red Earthquakes",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_eq_3M.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37ebab2bd0>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    },
-    {
-      "source_id": "gdacs_tropical_cyclones_week",
-      "source_name": "GDACS Tropical Cyclones Last Week",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss_tc_7d.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f37eba43390>, 'Connection to www.gdacs.org timed out. (connect timeout=15)'))"
-    }
-  ]
+  "source_errors": []
 }
