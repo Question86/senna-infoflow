@@ -1,0 +1,1509 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T08-47-58Z",
+  "generated_at": "2026-06-18T08:47:58Z",
+  "latest": {
+    "generated_at": "2026-06-18T08:47:58+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 13,
+      "today_file_total": 67,
+      "high": 0,
+      "medium": 9,
+      "observe": 4,
+      "source_errors": 7
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+          "url": "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T08:43:37+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:energy_oil_gas_power_uranium"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "energy_oil_gas_power_uranium"
+          ],
+          "watchgraph_reasons": [
+            "energy_oil_gas_power_uranium: pipeline"
+          ],
+          "market_context": [
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "CCJ",
+            "ENB",
+            "SU",
+            "EQNR",
+            "URA"
+          ],
+          "id": "dd1c07cd1e1594991b23"
+        },
+        {
+          "title": "shinpr/claude-code-workflows",
+          "url": "https://github.com/shinpr/claude-code-workflows",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T08:46:17+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 22,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "77f55de7691117302db5"
+        },
+        {
+          "title": "kawayiYokami/P-ai",
+          "url": "https://github.com/kawayiYokami/P-ai",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T08:45:10+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
+          "matched_keywords": [
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 21,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: memory, MCP"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "16d6bf672eef7e3e2224"
+        },
+        {
+          "title": "netease-youdao/LobsterAI",
+          "url": "https://github.com/netease-youdao/LobsterAI",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T08:12:33+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 19,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "f8cfc4ceebd808464a01"
+        },
+        {
+          "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-18T07:14:52+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "On 6/18/2026 6:57:37 AM, an earthquake occurred in Philippines potentially affecting 3 million in 100km. The earthquake had Magnitude 5.3M, Depth:95.287km.",
+          "matched_keywords": [
+            "earthquake",
+            "GitHub",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 16,
+          "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "08cb2d7507b290c62ac5"
+        },
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T08:46:08+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 15,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest",
+            "public_health_biosecurity"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election",
+            "public_health_biosecurity: WHO"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ",
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "GSK",
+            "AZN",
+            "TMO",
+            "DHR"
+          ],
+          "id": "6e87c6466413eb4bec46"
+        },
+        {
+          "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-18T08:14:23+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "On 6/18/2026 7:26:43 AM, an earthquake occurred in Timor-Leste potentially affecting 560 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:21.07km.",
+          "matched_keywords": [
+            "earthquake",
+            "GitHub",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 14,
+          "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "28004608c9b1ff10aab1"
+        },
+        {
+          "title": "0xPlaygrounds/rig",
+          "url": "https://github.com/0xPlaygrounds/rig",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T08:24:44+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "98deffefdf9b8bfdfb86"
+        },
+        {
+          "title": "Joanium/Joanium",
+          "url": "https://github.com/Joanium/Joanium",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T07:46:08+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "Your smart, reliable, and friendly personal AI assistant.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "0a65bb5689f8baf9a6af"
+        }
+      ],
+      "observe": [
+        {
+          "title": "M 4.9, Timor Region",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "2026-06-18 07:26:43 -8.80 126.51 10 km A",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "f4915b933bdfb7f7de40"
+        },
+        {
+          "title": "M 4.8, Timor Region",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "2026-06-18 07:38:29 -8.64 126.55 10 km A",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "e0e06ca9ca7d323e35f6"
+        },
+        {
+          "title": "Green forest fire notification in Russian Federation",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-17T15:08:09+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "On 07/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+          "matched_keywords": [
+            "GitHub"
+          ],
+          "relevance_score": 8,
+          "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "9eaeea7fa8b466aa19d1"
+        },
+        {
+          "title": "Green forest fire notification in Russian Federation",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-17T15:02:37+00:00",
+          "fetched_at": "2026-06-18T08:46:54+00:00",
+          "summary": "On 12/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+          "matched_keywords": [
+            "GitHub"
+          ],
+          "relevance_score": 8,
+          "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "349d46e1481ee839373f"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+        "url": "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T08:43:37+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:energy_oil_gas_power_uranium"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "energy_oil_gas_power_uranium"
+        ],
+        "watchgraph_reasons": [
+          "energy_oil_gas_power_uranium: pipeline"
+        ],
+        "market_context": [
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "CCJ",
+          "ENB",
+          "SU",
+          "EQNR",
+          "URA"
+        ],
+        "id": "dd1c07cd1e1594991b23"
+      },
+      {
+        "title": "shinpr/claude-code-workflows",
+        "url": "https://github.com/shinpr/claude-code-workflows",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T08:46:17+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "77f55de7691117302db5"
+      },
+      {
+        "title": "kawayiYokami/P-ai",
+        "url": "https://github.com/kawayiYokami/P-ai",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T08:45:10+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: memory, MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "16d6bf672eef7e3e2224"
+      },
+      {
+        "title": "netease-youdao/LobsterAI",
+        "url": "https://github.com/netease-youdao/LobsterAI",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T08:12:33+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f8cfc4ceebd808464a01"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T07:14:52+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 6/18/2026 6:57:37 AM, an earthquake occurred in Philippines potentially affecting 3 million in 100km. The earthquake had Magnitude 5.3M, Depth:95.287km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "08cb2d7507b290c62ac5"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T08:46:08+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election",
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ",
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "6e87c6466413eb4bec46"
+      },
+      {
+        "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T08:14:23+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 6/18/2026 7:26:43 AM, an earthquake occurred in Timor-Leste potentially affecting 560 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:21.07km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "28004608c9b1ff10aab1"
+      },
+      {
+        "title": "0xPlaygrounds/rig",
+        "url": "https://github.com/0xPlaygrounds/rig",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T08:24:44+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98deffefdf9b8bfdfb86"
+      },
+      {
+        "title": "Joanium/Joanium",
+        "url": "https://github.com/Joanium/Joanium",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T07:46:08+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Your smart, reliable, and friendly personal AI assistant.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0a65bb5689f8baf9a6af"
+      },
+      {
+        "title": "M 4.8, Timor Region",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "2026-06-18 07:38:29 -8.64 126.55 10 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e0e06ca9ca7d323e35f6"
+      },
+      {
+        "title": "M 4.9, Timor Region",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "2026-06-18 07:26:43 -8.80 126.51 10 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f4915b933bdfb7f7de40"
+      },
+      {
+        "title": "Green forest fire notification in Russian Federation",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-17T15:08:09+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 07/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9eaeea7fa8b466aa19d1"
+      },
+      {
+        "title": "Green forest fire notification in Russian Federation",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-17T15:02:37+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 12/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "349d46e1481ee839373f"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-18T08:47:58+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 13,
+      "clusters": 12,
+      "cross_source_confrmed": 0,
+      "hot": 4
+    },
+    "clusters": [
+      {
+        "key": "github_repo:chaitanyaeswarrajeshjakki/gemini-youtube-automation",
+        "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "energy_oil_gas_power_uranium"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:shinpr/claude-code-workflows",
+        "title": "shinpr/claude-code-workflows",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/shinpr/claude-code-workflows"
+        ],
+        "finding_count": 1,
+        "max_score": 22,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 26.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:kawayiyokami/p-ai",
+        "title": "kawayiYokami/P-ai",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/kawayiYokami/P-ai"
+        ],
+        "finding_count": 1,
+        "max_score": 21,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 25.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:netease-youdao/lobsterai",
+        "title": "netease-youdao/LobsterAI",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/netease-youdao/LobsterAI"
+        ],
+        "finding_count": 1,
+        "max_score": 19,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 23.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "earthquake:philippines:5.0",
+        "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214"
+        ],
+        "finding_count": 1,
+        "max_score": 16,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 21.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "earthquake:timor-leste 18:4.0",
+        "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217"
+        ],
+        "finding_count": 1,
+        "max_score": 14,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 19.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "earthquake:russian federation:unknown",
+        "title": "Green forest fire notification in Russian Federation",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+          "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960"
+        ],
+        "finding_count": 2,
+        "max_score": 8,
+        "credibility_total": 2.7,
+        "cross_source_confirmed": false,
+        "momentum_delta": 2,
+        "momentum_status": "increasing",
+        "network_score": 19.4,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 15,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:0xplaygrounds/rig",
+        "title": "0xPlaygrounds/rig",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/0xPlaygrounds/rig"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:joanium/joanium",
+        "title": "Joanium/Joanium",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/Joanium/Joanium"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "earthquake:m 4.8, timor region:4.8",
+        "title": "M 4.8, Timor Region",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "earthquake:m 4.9, timor region:4.9",
+        "title": "M 4.9, Timor Region",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:chaitanyaeswarrajeshjakki-gemini-youtube-automation",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:chaitanyaeswarrajeshjakki-gemini-youtube-automation",
+      "topic_label": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:shinpr-claude-code-workflows",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:shinpr-claude-code-workflows",
+      "topic_label": "shinpr/claude-code-workflows",
+      "network_score": 22.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/shinpr/claude-code-workflows"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:kawayiyokami-p-ai",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:kawayiyokami-p-ai",
+      "topic_label": "kawayiYokami/P-ai",
+      "network_score": 21.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 21.0,
+      "trend_wucht": 23.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/kawayiYokami/P-ai"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:netease-youdao-lobsterai",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:netease-youdao-lobsterai",
+      "topic_label": "netease-youdao/LobsterAI",
+      "network_score": 19.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 19.0,
+      "trend_wucht": 21.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/netease-youdao/LobsterAI"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5",
+      "topic_label": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+      "network_score": 16.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 16.0,
+      "trend_wucht": 18.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 17.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4",
+      "topic_label": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:0xplaygrounds-rig",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:0xplaygrounds-rig",
+      "topic_label": "0xPlaygrounds/rig",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/0xPlaygrounds/rig"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:joanium-joanium",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:joanium-joanium",
+      "topic_label": "Joanium/Joanium",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/Joanium/Joanium"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:m-4.8-timor-region",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:m-4.8-timor-region",
+      "topic_label": "M 4.8, Timor Region",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:m-4.9-timor-region",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:m-4.9-timor-region",
+      "topic_label": "M 4.9, Timor Region",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T08-47-58Z:title:green-forest-fire-notification-in-russian-federation",
+      "sample_index": 5939241,
+      "timestamp_utc": "2026-06-18T08:47:58Z",
+      "run_id": "2026-06-18T08-47-58Z",
+      "topic_key": "title:green-forest-fire-notification-in-russian-federation",
+      "topic_label": "Green forest fire notification in Russian Federation",
+      "network_score": 8.0,
+      "mention_count": 2,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 8.0,
+      "trend_wucht": 10.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960"
+      ]
+    }
+  ]
+}

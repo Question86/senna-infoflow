@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T07:05:34+00:00",
+  "generated_at": "2026-06-18T08:47:58+00:00",
   "entities": {
-    "github_repo:budibase/budibase": {
-      "title": "Budibase/budibase",
-      "first_seen_at": "2026-06-18T07:05:34+00:00",
-      "last_seen_at": "2026-06-18T07:05:34+00:00",
+    "github_repo:chaitanyaeswarrajeshjakki/gemini-youtube-automation": {
+      "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T07:05:34+00:00",
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 1
         }
       ],
@@ -20,17 +20,17 @@
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:apify/apify-sdk-python": {
-      "title": "apify/apify-sdk-python",
-      "first_seen_at": "2026-06-18T07:05:34+00:00",
-      "last_seen_at": "2026-06-18T07:05:34+00:00",
+    "github_repo:shinpr/claude-code-workflows": {
+      "title": "shinpr/claude-code-workflows",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T07:05:34+00:00",
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 1
         }
       ],
@@ -38,17 +38,17 @@
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:openwong2kim/wmux": {
-      "title": "openwong2kim/wmux",
-      "first_seen_at": "2026-06-18T07:05:34+00:00",
-      "last_seen_at": "2026-06-18T07:05:34+00:00",
+    "github_repo:kawayiyokami/p-ai": {
+      "title": "kawayiYokami/P-ai",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T07:05:34+00:00",
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 1
         }
       ],
@@ -56,28 +56,94 @@
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:tarunlnmiit/autopilot-jobhunt": {
-      "title": "tarunlnmiit/autopilot-jobhunt",
-      "first_seen_at": "2026-06-18T07:05:34+00:00",
-      "last_seen_at": "2026-06-18T07:05:34+00:00",
+    "github_repo:netease-youdao/lobsterai": {
+      "title": "netease-youdao/LobsterAI",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T07:05:34+00:00",
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 1
         }
       ],
       "sources": [
         "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "earthquake:philippines:5.0": {
+      "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+      "first_seen_at": "2026-06-17T22:13:10+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-17T22:16:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:38:24+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T00:03:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDACS All Events Last 24h"
       ]
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
       "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T07:05:34+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
       "previous_run_count": 1,
       "last_run_count": 1,
       "momentum_delta": 0,
@@ -106,24 +172,228 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
         }
       ],
       "sources": [
         "Election Betting Odds Public Watch"
       ]
     },
-    "github_repo:openakita/openakita": {
-      "title": "openakita/openakita",
-      "first_seen_at": "2026-06-18T07:05:34+00:00",
-      "last_seen_at": "2026-06-18T07:05:34+00:00",
+    "earthquake:timor-leste 18:4.0": {
+      "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDACS All Events Last 24h"
+      ]
+    },
+    "github_repo:0xplaygrounds/rig": {
+      "title": "0xPlaygrounds/rig",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:joanium/joanium": {
+      "title": "Joanium/Joanium",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "earthquake:m 4.8, timor region:4.8": {
+      "title": "M 4.8, Timor Region",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ]
+    },
+    "earthquake:m 4.9, timor region:4.9": {
+      "title": "M 4.9, Timor Region",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ]
+    },
+    "earthquake:russian federation:unknown": {
+      "title": "Green forest fire notification in Russian Federation",
+      "first_seen_at": "2026-06-18T08:47:58+00:00",
+      "last_seen_at": "2026-06-18T08:47:58+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 2,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 2
+        }
+      ],
+      "sources": [
+        "GDACS All Events Last 24h"
+      ]
+    },
+    "github_repo:budibase/budibase": {
+      "title": "Budibase/budibase",
+      "first_seen_at": "2026-06-18T07:05:34+00:00",
+      "last_seen_at": "2026-06-18T07:05:34+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:apify/apify-sdk-python": {
+      "title": "apify/apify-sdk-python",
+      "first_seen_at": "2026-06-18T07:05:34+00:00",
+      "last_seen_at": "2026-06-18T07:05:34+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T07:05:34+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:openwong2kim/wmux": {
+      "title": "openwong2kim/wmux",
+      "first_seen_at": "2026-06-18T07:05:34+00:00",
+      "last_seen_at": "2026-06-18T07:05:34+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T07:05:34+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:tarunlnmiit/autopilot-jobhunt": {
+      "title": "tarunlnmiit/autopilot-jobhunt",
+      "first_seen_at": "2026-06-18T07:05:34+00:00",
+      "last_seen_at": "2026-06-18T07:05:34+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T07:05:34+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:openakita/openakita": {
+      "title": "openakita/openakita",
+      "first_seen_at": "2026-06-18T07:05:34+00:00",
+      "last_seen_at": "2026-06-18T07:05:34+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T07:05:34+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -134,14 +404,18 @@
       "title": "M 5.2, Mindanao, Philippines",
       "first_seen_at": "2026-06-18T07:05:34+00:00",
       "last_seen_at": "2026-06-18T07:05:34+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -152,14 +426,18 @@
       "title": "M 4.5, Peru-Brazil Border Region",
       "first_seen_at": "2026-06-18T07:05:34+00:00",
       "last_seen_at": "2026-06-18T07:05:34+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -170,14 +448,18 @@
       "title": "M 2.4, Poland",
       "first_seen_at": "2026-06-18T07:05:34+00:00",
       "last_seen_at": "2026-06-18T07:05:34+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -188,10 +470,10 @@
       "title": "vmDeshpande/ai-agent-automation",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -199,6 +481,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -210,10 +496,10 @@
       "title": "TracecatHQ/tracecat",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -221,6 +507,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -232,10 +522,10 @@
       "title": "zhu1090093659/deepseek-pp",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -243,6 +533,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -254,10 +548,10 @@
       "title": "omnimind-ai/OpenOmniBot",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -265,6 +559,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -276,10 +574,10 @@
       "title": "rpamis/comet",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -287,6 +585,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -298,10 +600,10 @@
       "title": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
       "first_seen_at": "2026-06-18T03:39:26+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T03:39:26+00:00",
@@ -314,6 +616,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -324,10 +630,10 @@
       "title": "M 4.3, Guerrero, Mexico",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -335,6 +641,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -346,10 +656,10 @@
       "title": "M 5.6, Central Mid-Atlantic Ridge",
       "first_seen_at": "2026-06-18T05:21:32+00:00",
       "last_seen_at": "2026-06-18T05:21:32+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T05:21:32+00:00",
@@ -357,6 +667,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -384,6 +698,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -410,6 +728,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -435,6 +757,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -506,6 +832,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -531,6 +861,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -562,6 +896,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -633,6 +971,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -662,6 +1004,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -693,6 +1039,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -722,6 +1072,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -753,6 +1107,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -782,6 +1140,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -817,6 +1179,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -850,6 +1216,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -889,6 +1259,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -926,6 +1300,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -965,6 +1343,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1002,6 +1384,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1041,6 +1427,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1078,6 +1468,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1117,6 +1511,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1154,6 +1552,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1193,6 +1595,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1230,6 +1636,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1269,6 +1679,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1306,6 +1720,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1345,6 +1763,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1382,6 +1804,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1421,6 +1847,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1458,6 +1888,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1508,6 +1942,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1571,72 +2009,14 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
         "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ]
-    },
-    "earthquake:philippines:5.0": {
-      "title": "M 5.0 - 68 km ESE of Bobon, Philippines",
-      "first_seen_at": "2026-06-17T22:13:10+00:00",
-      "last_seen_at": "2026-06-17T22:13:10+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-17T22:13:10+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-17T22:16:09+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:38:24+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:54:27+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T23:35:00+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T00:03:45+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T03:39:26+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T05:21:32+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T07:05:34+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
       ]
     },
     "earthquake:chile:3.8": {
@@ -1698,6 +2078,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1777,6 +2161,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1854,6 +2242,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -1937,6 +2329,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2018,6 +2414,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -2101,6 +2501,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2182,6 +2586,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],
@@ -2265,6 +2673,10 @@
         {
           "at": "2026-06-18T07:05:34+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2346,6 +2758,10 @@
         },
         {
           "at": "2026-06-18T07:05:34+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
           "count": 0
         }
       ],

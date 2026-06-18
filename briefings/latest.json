@@ -1,35 +1,73 @@
 {
-  "generated_at": "2026-06-18T07:05:34+00:00",
+  "generated_at": "2026-06-18T08:47:58+00:00",
   "date": "2026-06-18",
   "scope": "configured_public_sources_only",
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 55,
+    "new_relevant_findings": 13,
+    "today_file_total": 67,
     "high": 0,
-    "medium": 8,
-    "observe": 1,
+    "medium": 9,
+    "observe": 4,
     "source_errors": 7
   },
   "sections": {
     "high": [],
     "medium": [
       {
-        "title": "Budibase/budibase",
-        "url": "https://github.com/Budibase/budibase",
+        "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+        "url": "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
         "source": "GitHub Search Breakout AI Tools",
         "source_type": "github_search",
-        "published_at": "2026-06-18T07:04:02+00:00",
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "AI agents, automations and apps that run your operations. Model agnostic.",
+        "published_at": "2026-06-18T08:43:37+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.",
         "matched_keywords": [
           "AI Agents",
           "AI/KI",
           "automation",
           "GitHub",
-          "Watchgraph:ai_agents_workflow"
+          "Watchgraph:energy_oil_gas_power_uranium"
         ],
         "relevance_score": 23,
-        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "energy_oil_gas_power_uranium"
+        ],
+        "watchgraph_reasons": [
+          "energy_oil_gas_power_uranium: pipeline"
+        ],
+        "market_context": [
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "CCJ",
+          "ENB",
+          "SU",
+          "EQNR",
+          "URA"
+        ],
+        "id": "dd1c07cd1e1594991b23"
+      },
+      {
+        "title": "shinpr/claude-code-workflows",
+        "url": "https://github.com/shinpr/claude-code-workflows",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T08:46:17+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
         "risk_or_opportunity": "opportunity",
         "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
         "watchgraph_modules": [
@@ -58,81 +96,31 @@
           "SNAP",
           "PINS"
         ],
-        "id": "fbff11eb7d1a0e02da08"
+        "id": "77f55de7691117302db5"
       },
       {
-        "title": "apify/apify-sdk-python",
-        "url": "https://github.com/apify/apify-sdk-python",
+        "title": "kawayiYokami/P-ai",
+        "url": "https://github.com/kawayiYokami/P-ai",
         "source": "GitHub Search Breakout AI Tools",
         "source_type": "github_search",
-        "published_at": "2026-06-18T06:57:10+00:00",
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "Apify SDK for Python—The official library for building Apify Actors: serverless cloud programs for web scraping, browser automation, data processing, and AI agents. Manages the Actor lifecycle, storages (datasets, key-value stores, request queues), events, proxies, and pay-per-event monetization. Built on top of the the Apify API Client.",
+        "published_at": "2026-06-18T08:45:10+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
         "matched_keywords": [
-          "AI Agents",
           "AI/KI",
           "automation",
           "GitHub",
-          "Watchgraph:ai_agents_workflow",
-          "Webentwicklung"
-        ],
-        "relevance_score": 23,
-        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
-        "risk_or_opportunity": "opportunity",
-        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-        "watchgraph_modules": [
-          "ai_agents_workflow"
-        ],
-        "watchgraph_reasons": [
-          "ai_agents_workflow: AI agents"
-        ],
-        "market_context": [
-          "NVDA",
-          "AMD",
-          "TSM",
-          "ASML",
-          "AVGO",
-          "MU",
-          "005930.KS",
-          "000660.KS",
-          "8035.T",
-          "MSFT",
-          "GTLB",
-          "FROG",
-          "TEAM",
-          "META",
-          "GOOGL",
-          "RDDT",
-          "SNAP",
-          "PINS"
-        ],
-        "id": "0d3f2e802bd0914d6bdc"
-      },
-      {
-        "title": "openwong2kim/wmux",
-        "url": "https://github.com/openwong2kim/wmux",
-        "source": "GitHub Search Breakout AI Tools",
-        "source_type": "github_search",
-        "published_at": "2026-06-18T06:47:46+00:00",
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-        "matched_keywords": [
-          "AI Agents",
-          "AI/KI",
-          "automation",
-          "GitHub",
-          "OpenAI",
           "Watchgraph:ai_agents_workflow"
         ],
-        "relevance_score": 23,
-        "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "relevance_score": 21,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
         "risk_or_opportunity": "opportunity",
         "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
         "watchgraph_modules": [
           "ai_agents_workflow"
         ],
         "watchgraph_reasons": [
-          "ai_agents_workflow: AI agents, MCP, Codex"
+          "ai_agents_workflow: memory, MCP"
         ],
         "market_context": [
           "NVDA",
@@ -154,37 +142,74 @@
           "SNAP",
           "PINS"
         ],
-        "id": "5f6cc9f9ee42a7bccba1"
+        "id": "16d6bf672eef7e3e2224"
       },
       {
-        "title": "tarunlnmiit/autopilot-jobhunt",
-        "url": "https://github.com/tarunlnmiit/autopilot-jobhunt",
+        "title": "netease-youdao/LobsterAI",
+        "url": "https://github.com/netease-youdao/LobsterAI",
         "source": "GitHub Search Breakout AI Tools",
         "source_type": "github_search",
-        "published_at": "2026-06-18T06:15:08+00:00",
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.",
+        "published_at": "2026-06-18T08:12:33+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
         "matched_keywords": [
+          "AI Agents",
           "AI/KI",
-          "GitHub",
-          "Open Source"
+          "GitHub"
         ],
-        "relevance_score": 17,
-        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
-        "risk_or_opportunity": "opportunity",
-        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "relevance_score": 19,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "watchgraph_modules": [],
         "watchgraph_reasons": [],
         "market_context": [],
-        "id": "1fc2690a5c564d365052"
+        "id": "f8cfc4ceebd808464a01"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T07:14:52+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 6/18/2026 6:57:37 AM, an earthquake occurred in Philippines potentially affecting 3 million in 100km. The earthquake had Magnitude 5.3M, Depth:95.287km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "08cb2d7507b290c62ac5"
       },
       {
         "title": "Election Betting Odds by Maxim Lott and John Stossel",
         "url": "https://electionbettingodds.com/",
         "source": "Election Betting Odds Public Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-18T07:02:31+00:00",
-        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "published_at": "2026-06-18T08:46:08+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
         "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
         "matched_keywords": [
           "election",
@@ -235,16 +260,53 @@
           "TMO",
           "DHR"
         ],
-        "id": "9867ef09ad660256b0d1"
+        "id": "6e87c6466413eb4bec46"
       },
       {
-        "title": "openakita/openakita",
-        "url": "https://github.com/openakita/openakita",
+        "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T08:14:23+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 6/18/2026 7:26:43 AM, an earthquake occurred in Timor-Leste potentially affecting 560 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:21.07km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "28004608c9b1ff10aab1"
+      },
+      {
+        "title": "0xPlaygrounds/rig",
+        "url": "https://github.com/0xPlaygrounds/rig",
         "source": "GitHub Search Breakout AI Tools",
         "source_type": "github_search",
-        "published_at": "2026-06-18T07:00:42+00:00",
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "An open-source AI assistant framework with skills and agent architecture",
+        "published_at": "2026-06-18T08:24:44+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
         "matched_keywords": [
           "AI/KI",
           "GitHub"
@@ -256,94 +318,39 @@
         "watchgraph_modules": [],
         "watchgraph_reasons": [],
         "market_context": [],
-        "id": "eee99b7e5fed25c5d956"
+        "id": "98deffefdf9b8bfdfb86"
       },
       {
-        "title": "M 5.2, Mindanao, Philippines",
-        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh",
-        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
-        "source_type": "rss",
-        "published_at": null,
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "2026-06-18 06:57:36 5.75 125.34 88 km A",
+        "title": "Joanium/Joanium",
+        "url": "https://github.com/Joanium/Joanium",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T07:46:08+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "Your smart, reliable, and friendly personal AI assistant.",
         "matched_keywords": [
-          "earthquake",
-          "GEOFON",
-          "GFZ",
-          "Watchgraph:earthquakes_tsunami"
+          "AI/KI",
+          "GitHub"
         ],
-        "relevance_score": 12,
-        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "id": "e8cff630e53e5499c1f1"
-      },
-      {
-        "title": "M 4.5, Peru-Brazil Border Region",
-        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv",
-        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
-        "source_type": "rss",
-        "published_at": null,
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "2026-06-18 05:12:45 -8.25 -74.20 140 km C",
-        "matched_keywords": [
-          "earthquake",
-          "GEOFON",
-          "GFZ",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "relevance_score": 12,
-        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Brazil, Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "id": "d056a2724157f41eb4b4"
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0a65bb5689f8baf9a6af"
       }
     ],
     "observe": [
       {
-        "title": "M 2.4, Poland",
-        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt",
+        "title": "M 4.9, Timor Region",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng",
         "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
         "source_type": "rss",
         "published_at": null,
-        "fetched_at": "2026-06-18T07:04:29+00:00",
-        "summary": "2026-06-17 20:05:09 50.20 18.97 1 km C",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "2026-06-18 07:26:43 -8.80 126.51 10 km A",
         "matched_keywords": [
           "earthquake",
           "GEOFON",
@@ -372,28 +379,144 @@
           "HD",
           "LOW"
         ],
-        "id": "93fda1f4668fd9726e12"
+        "id": "f4915b933bdfb7f7de40"
+      },
+      {
+        "title": "M 4.8, Timor Region",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "2026-06-18 07:38:29 -8.64 126.55 10 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e0e06ca9ca7d323e35f6"
+      },
+      {
+        "title": "Green forest fire notification in Russian Federation",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-17T15:08:09+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 07/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9eaeea7fa8b466aa19d1"
+      },
+      {
+        "title": "Green forest fire notification in Russian Federation",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-17T15:02:37+00:00",
+        "fetched_at": "2026-06-18T08:46:54+00:00",
+        "summary": "On 12/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "349d46e1481ee839373f"
       }
     ]
   },
   "findings": [
     {
-      "title": "Budibase/budibase",
-      "url": "https://github.com/Budibase/budibase",
+      "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "url": "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
       "source": "GitHub Search Breakout AI Tools",
       "source_type": "github_search",
-      "published_at": "2026-06-18T07:04:02+00:00",
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "AI agents, automations and apps that run your operations. Model agnostic.",
+      "published_at": "2026-06-18T08:43:37+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.",
       "matched_keywords": [
         "AI Agents",
         "AI/KI",
         "automation",
         "GitHub",
-        "Watchgraph:ai_agents_workflow"
+        "Watchgraph:energy_oil_gas_power_uranium"
       ],
       "relevance_score": 23,
-      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "energy_oil_gas_power_uranium"
+      ],
+      "watchgraph_reasons": [
+        "energy_oil_gas_power_uranium: pipeline"
+      ],
+      "market_context": [
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ",
+        "ENB",
+        "SU",
+        "EQNR",
+        "URA"
+      ],
+      "id": "dd1c07cd1e1594991b23"
+    },
+    {
+      "title": "shinpr/claude-code-workflows",
+      "url": "https://github.com/shinpr/claude-code-workflows",
+      "source": "GitHub Search Breakout AI Tools",
+      "source_type": "github_search",
+      "published_at": "2026-06-18T08:46:17+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [
@@ -422,81 +545,31 @@
         "SNAP",
         "PINS"
       ],
-      "id": "fbff11eb7d1a0e02da08"
+      "id": "77f55de7691117302db5"
     },
     {
-      "title": "apify/apify-sdk-python",
-      "url": "https://github.com/apify/apify-sdk-python",
+      "title": "kawayiYokami/P-ai",
+      "url": "https://github.com/kawayiYokami/P-ai",
       "source": "GitHub Search Breakout AI Tools",
       "source_type": "github_search",
-      "published_at": "2026-06-18T06:57:10+00:00",
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "Apify SDK for Python—The official library for building Apify Actors: serverless cloud programs for web scraping, browser automation, data processing, and AI agents. Manages the Actor lifecycle, storages (datasets, key-value stores, request queues), events, proxies, and pay-per-event monetization. Built on top of the the Apify API Client.",
+      "published_at": "2026-06-18T08:45:10+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。",
       "matched_keywords": [
-        "AI Agents",
         "AI/KI",
         "automation",
         "GitHub",
-        "Watchgraph:ai_agents_workflow",
-        "Webentwicklung"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "0d3f2e802bd0914d6bdc"
-    },
-    {
-      "title": "openwong2kim/wmux",
-      "url": "https://github.com/openwong2kim/wmux",
-      "source": "GitHub Search Breakout AI Tools",
-      "source_type": "github_search",
-      "published_at": "2026-06-18T06:47:46+00:00",
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "automation",
-        "GitHub",
-        "OpenAI",
         "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+      "relevance_score": 21,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents, MCP, Codex"
+        "ai_agents_workflow: memory, MCP"
       ],
       "market_context": [
         "NVDA",
@@ -518,37 +591,74 @@
         "SNAP",
         "PINS"
       ],
-      "id": "5f6cc9f9ee42a7bccba1"
+      "id": "16d6bf672eef7e3e2224"
     },
     {
-      "title": "tarunlnmiit/autopilot-jobhunt",
-      "url": "https://github.com/tarunlnmiit/autopilot-jobhunt",
+      "title": "netease-youdao/LobsterAI",
+      "url": "https://github.com/netease-youdao/LobsterAI",
       "source": "GitHub Search Breakout AI Tools",
       "source_type": "github_search",
-      "published_at": "2026-06-18T06:15:08+00:00",
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.",
+      "published_at": "2026-06-18T08:12:33+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "matched_keywords": [
+        "AI Agents",
         "AI/KI",
-        "GitHub",
-        "Open Source"
+        "GitHub"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 19,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1fc2690a5c564d365052"
+      "id": "f8cfc4ceebd808464a01"
+    },
+    {
+      "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214",
+      "source": "GDACS All Events Last 24h",
+      "source_type": "rss",
+      "published_at": "2026-06-18T07:14:52+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "On 6/18/2026 6:57:37 AM, an earthquake occurred in Philippines potentially affecting 3 million in 100km. The earthquake had Magnitude 5.3M, Depth:95.287km.",
+      "matched_keywords": [
+        "earthquake",
+        "GitHub",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "08cb2d7507b290c62ac5"
     },
     {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
       "url": "https://electionbettingodds.com/",
       "source": "Election Betting Odds Public Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-18T07:02:31+00:00",
-      "fetched_at": "2026-06-18T07:04:29+00:00",
+      "published_at": "2026-06-18T08:46:08+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
       "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
       "matched_keywords": [
         "election",
@@ -599,16 +709,53 @@
         "TMO",
         "DHR"
       ],
-      "id": "9867ef09ad660256b0d1"
+      "id": "6e87c6466413eb4bec46"
     },
     {
-      "title": "openakita/openakita",
-      "url": "https://github.com/openakita/openakita",
+      "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217",
+      "source": "GDACS All Events Last 24h",
+      "source_type": "rss",
+      "published_at": "2026-06-18T08:14:23+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "On 6/18/2026 7:26:43 AM, an earthquake occurred in Timor-Leste potentially affecting 560 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:21.07km.",
+      "matched_keywords": [
+        "earthquake",
+        "GitHub",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "28004608c9b1ff10aab1"
+    },
+    {
+      "title": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "source": "GitHub Search Breakout AI Tools",
       "source_type": "github_search",
-      "published_at": "2026-06-18T07:00:42+00:00",
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "An open-source AI assistant framework with skills and agent architecture",
+      "published_at": "2026-06-18T08:24:44+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "matched_keywords": [
         "AI/KI",
         "GitHub"
@@ -620,92 +767,37 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eee99b7e5fed25c5d956"
+      "id": "98deffefdf9b8bfdfb86"
     },
     {
-      "title": "M 5.2, Mindanao, Philippines",
-      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh",
-      "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "2026-06-18 06:57:36 5.75 125.34 88 km A",
+      "title": "Joanium/Joanium",
+      "url": "https://github.com/Joanium/Joanium",
+      "source": "GitHub Search Breakout AI Tools",
+      "source_type": "github_search",
+      "published_at": "2026-06-18T07:46:08+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "Your smart, reliable, and friendly personal AI assistant.",
       "matched_keywords": [
-        "earthquake",
-        "GEOFON",
-        "GFZ",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "GitHub"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e8cff630e53e5499c1f1"
+      "relevance_score": 13,
+      "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0a65bb5689f8baf9a6af"
     },
     {
-      "title": "M 4.5, Peru-Brazil Border Region",
-      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv",
+      "title": "M 4.8, Timor Region",
+      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "source_type": "rss",
       "published_at": null,
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "2026-06-18 05:12:45 -8.25 -74.20 140 km C",
-      "matched_keywords": [
-        "earthquake",
-        "GEOFON",
-        "GFZ",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Brazil, Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "d056a2724157f41eb4b4"
-    },
-    {
-      "title": "M 2.4, Poland",
-      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt",
-      "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-18T07:04:29+00:00",
-      "summary": "2026-06-17 20:05:09 50.20 18.97 1 km C",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "2026-06-18 07:38:29 -8.64 126.55 10 km A",
       "matched_keywords": [
         "earthquake",
         "GEOFON",
@@ -734,7 +826,85 @@
         "HD",
         "LOW"
       ],
-      "id": "93fda1f4668fd9726e12"
+      "id": "e0e06ca9ca7d323e35f6"
+    },
+    {
+      "title": "M 4.9, Timor Region",
+      "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng",
+      "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "2026-06-18 07:26:43 -8.80 126.51 10 km A",
+      "matched_keywords": [
+        "earthquake",
+        "GEOFON",
+        "GFZ",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f4915b933bdfb7f7de40"
+    },
+    {
+      "title": "Green forest fire notification in Russian Federation",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+      "source": "GDACS All Events Last 24h",
+      "source_type": "rss",
+      "published_at": "2026-06-17T15:08:09+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "On 07/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9eaeea7fa8b466aa19d1"
+    },
+    {
+      "title": "Green forest fire notification in Russian Federation",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960",
+      "source": "GDACS All Events Last 24h",
+      "source_type": "rss",
+      "published_at": "2026-06-17T15:02:37+00:00",
+      "fetched_at": "2026-06-18T08:46:54+00:00",
+      "summary": "On 12/06/2026, a forest fire started in Russian Federation, until 18/06/2026.",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "GitHub (+6.0); recent (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "349d46e1481ee839373f"
     }
   ],
   "source_errors": [

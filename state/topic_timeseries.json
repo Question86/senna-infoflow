@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T07:05:34Z",
+  "generated_at": "2026-06-18T08:47:58Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_seen_at": "2026-06-18T08:47:58Z",
       "last_trend_wucht": 17.0,
       "samples": [
         {
@@ -901,6 +901,26 @@
           "sample_index": 5939221,
           "timestamp_utc": "2026-06-18T07:05:34Z",
           "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 17.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 15.0,
@@ -1970,6 +1990,315 @@
           "status": "emerging",
           "urls": [
             "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt"
+          ]
+        }
+      ]
+    },
+    "title:chaitanyaeswarrajeshjakki-gemini-youtube-automation": {
+      "topic_key": "title:chaitanyaeswarrajeshjakki-gemini-youtube-automation",
+      "topic_label": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:chaitanyaeswarrajeshjakki-gemini-youtube-automation",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:chaitanyaeswarrajeshjakki-gemini-youtube-automation",
+          "topic_label": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation"
+          ]
+        }
+      ]
+    },
+    "title:shinpr-claude-code-workflows": {
+      "topic_key": "title:shinpr-claude-code-workflows",
+      "topic_label": "shinpr/claude-code-workflows",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:shinpr-claude-code-workflows",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:shinpr-claude-code-workflows",
+          "topic_label": "shinpr/claude-code-workflows",
+          "network_score": 22.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 22.0,
+          "trend_wucht": 24.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/shinpr/claude-code-workflows"
+          ]
+        }
+      ]
+    },
+    "title:kawayiyokami-p-ai": {
+      "topic_key": "title:kawayiyokami-p-ai",
+      "topic_label": "kawayiYokami/P-ai",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 23.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:kawayiyokami-p-ai",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:kawayiyokami-p-ai",
+          "topic_label": "kawayiYokami/P-ai",
+          "network_score": 21.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 21.0,
+          "trend_wucht": 23.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/kawayiYokami/P-ai"
+          ]
+        }
+      ]
+    },
+    "title:netease-youdao-lobsterai": {
+      "topic_key": "title:netease-youdao-lobsterai",
+      "topic_label": "netease-youdao/LobsterAI",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 21.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:netease-youdao-lobsterai",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:netease-youdao-lobsterai",
+          "topic_label": "netease-youdao/LobsterAI",
+          "network_score": 19.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 19.0,
+          "trend_wucht": 21.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/netease-youdao/LobsterAI"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5": {
+      "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5",
+      "topic_label": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5",
+          "topic_label": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4": {
+      "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4",
+      "topic_label": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4",
+          "topic_label": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217"
+          ]
+        }
+      ]
+    },
+    "title:0xplaygrounds-rig": {
+      "topic_key": "title:0xplaygrounds-rig",
+      "topic_label": "0xPlaygrounds/rig",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:0xplaygrounds-rig",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:0xplaygrounds-rig",
+          "topic_label": "0xPlaygrounds/rig",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/0xPlaygrounds/rig"
+          ]
+        }
+      ]
+    },
+    "title:joanium-joanium": {
+      "topic_key": "title:joanium-joanium",
+      "topic_label": "Joanium/Joanium",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:joanium-joanium",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:joanium-joanium",
+          "topic_label": "Joanium/Joanium",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Joanium/Joanium"
+          ]
+        }
+      ]
+    },
+    "title:m-4.8-timor-region": {
+      "topic_key": "title:m-4.8-timor-region",
+      "topic_label": "M 4.8, Timor Region",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:m-4.8-timor-region",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:m-4.8-timor-region",
+          "topic_label": "M 4.8, Timor Region",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq"
+          ]
+        }
+      ]
+    },
+    "title:m-4.9-timor-region": {
+      "topic_key": "title:m-4.9-timor-region",
+      "topic_label": "M 4.9, Timor Region",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:m-4.9-timor-region",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:m-4.9-timor-region",
+          "topic_label": "M 4.9, Timor Region",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng"
+          ]
+        }
+      ]
+    },
+    "title:green-forest-fire-notification-in-russian-federation": {
+      "topic_key": "title:green-forest-fire-notification-in-russian-federation",
+      "topic_label": "Green forest fire notification in Russian Federation",
+      "last_seen_at": "2026-06-18T08:47:58Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T08-47-58Z:title:green-forest-fire-notification-in-russian-federation",
+          "sample_index": 5939241,
+          "timestamp_utc": "2026-06-18T08:47:58Z",
+          "run_id": "2026-06-18T08-47-58Z",
+          "topic_key": "title:green-forest-fire-notification-in-russian-federation",
+          "topic_label": "Green forest fire notification in Russian Federation",
+          "network_score": 8.0,
+          "mention_count": 2,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
+            "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960"
           ]
         }
       ]
