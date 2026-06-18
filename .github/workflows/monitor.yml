@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Merge hot-lane sources
+      - name: Merge source overlays
         run: |
           python - <<'PY'
           import json
@@ -36,28 +36,38 @@ jobs:
           import yaml
 
           base_path = Path("config/sources.yaml")
-          hot_path = Path("config/hot_sources.yaml")
-
-          if not hot_path.exists():
-              print("No config/hot_sources.yaml found; skipping hot-lane merge.")
-              raise SystemExit(0)
-
-          base = yaml.safe_load(base_path.read_text(encoding="utf-8")) or {}
-          hot = yaml.safe_load(hot_path.read_text(encoding="utf-8")) or {}
-
-          base_sources = list(base.get("sources") or [])
-          hot_sources = list(hot.get("sources") or [])
-          existing_ids = {str(source.get("id")) for source in base_sources if isinstance(source, dict)}
-
-          merged_hot = [
-              source
-              for source in hot_sources
-              if isinstance(source, dict) and str(source.get("id")) not in existing_ids
+          overlay_paths = [
+              Path("config/hot_sources.yaml"),
+              Path("config/macro_sources.yaml"),
           ]
 
-          base["sources"] = merged_hot + base_sources
+          base = yaml.safe_load(base_path.read_text(encoding="utf-8")) or {}
+          base_sources = list(base.get("sources") or [])
+          existing_ids = {str(source.get("id")) for source in base_sources if isinstance(source, dict)}
+
+          merged_sources = []
+          overlay_count = 0
+
+          for overlay_path in overlay_paths:
+              if not overlay_path.exists():
+                  print(f"No {overlay_path} found; skipping.")
+                  continue
+              overlay = yaml.safe_load(overlay_path.read_text(encoding="utf-8")) or {}
+              sources = list(overlay.get("sources") or [])
+              accepted = [
+                  source
+                  for source in sources
+                  if isinstance(source, dict) and str(source.get("id")) not in existing_ids
+              ]
+              for source in accepted:
+                  existing_ids.add(str(source.get("id")))
+              merged_sources.extend(accepted)
+              overlay_count += len(accepted)
+              print(f"Merged {len(accepted)} source(s) from {overlay_path}.")
+
+          base["sources"] = merged_sources + base_sources
           base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          print(f"Reset merged config with {len(merged_hot)} hot-lane source(s).")
+          print(f"Reset merged config with {overlay_count} overlay source(s).")
           PY
 
       - name: Validate monitor configuration
@@ -72,6 +82,9 @@ jobs:
 
       - name: Run network hub postprocess
         run: python scripts/network_hub_postprocess.py
+
+      - name: Run resonance ranking postprocess
+        run: python scripts/resonance_rank_postprocess.py
 
       - name: Write canonical report atoms and trend samples
         run: python scripts/write_canonical_reports.py
