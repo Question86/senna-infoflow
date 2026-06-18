@@ -1226,6 +1226,27 @@
     "id": "1fc2690a5c564d365052"
   },
   {
+    "title": "eat-pray-ai/yutu",
+    "url": "https://github.com/eat-pray-ai/yutu",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T14:32:35+00:00",
+    "fetched_at": "2026-06-18T14:59:08+00:00",
+    "summary": "The AI-powered toolkit that grows your YouTube channel on autopilot.",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fd619ab7fbe036304e2e"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547262",
     "source": "GDACS All Events Last 24h",
@@ -1417,8 +1438,8 @@
     "url": "https://electionbettingodds.com/",
     "source": "Election Betting Odds Public Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-18T14:29:50+00:00",
-    "fetched_at": "2026-06-18T14:31:47+00:00",
+    "published_at": "2026-06-18T14:58:50+00:00",
+    "fetched_at": "2026-06-18T14:59:08+00:00",
     "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
     "matched_keywords": [
       "election",
@@ -1469,7 +1490,7 @@
       "TMO",
       "DHR"
     ],
-    "id": "e632181b8dd8bfc7cd42"
+    "id": "fdb1374aff287b29412e"
   },
   {
     "title": "eracle/OpenOutreach",
@@ -1540,10 +1561,10 @@
   {
     "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263",
-    "source": "GDACS All Events Last Week",
+    "source": "GDACS All Events Last 24h",
     "source_type": "rss",
     "published_at": "2026-06-18T14:05:38+00:00",
-    "fetched_at": "2026-06-18T14:31:47+00:00",
+    "fetched_at": "2026-06-18T14:59:08+00:00",
     "summary": "On 6/18/2026 1:58:28 PM, an earthquake occurred in Andreanof Islands, Aleutian Is. potentially affecting [unknown]. The earthquake had Magnitude 5M, Depth:35.299km.",
     "matched_keywords": [
       "earthquake",
@@ -1572,7 +1593,7 @@
       "HD",
       "LOW"
     ],
-    "id": "465ff9397f84259ae9c8"
+    "id": "7245266198d05cbfd67d"
   },
   {
     "title": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia",

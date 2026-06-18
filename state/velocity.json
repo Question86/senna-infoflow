@@ -1,19 +1,113 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T14:33:45+00:00",
+  "generated_at": "2026-06-18T15:00:18+00:00",
   "entities": {
-    "domain:snyk.io": {
-      "title": "The full Snyk AI Security Platform, free for open source maintainers",
-      "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
+    "github_repo:eat-pray-ai/yutu": {
+      "title": "eat-pray-ai/yutu",
+      "first_seen_at": "2026-06-18T15:00:18+00:00",
+      "last_seen_at": "2026-06-18T15:00:18+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "domain:electionbettingodds.com": {
+      "title": "Election Betting Odds by Maxim Lott and John Stossel",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T15:00:18+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T03:39:26+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T07:05:34+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T08:47:58+00:00",
+          "count": 1
+        },
+        {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ]
+    },
+    "earthquake:andreanof islands:unknown": {
+      "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
+      "first_seen_at": "2026-06-18T14:33:45+00:00",
+      "last_seen_at": "2026-06-18T15:00:18+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "history": [
+        {
+          "at": "2026-06-18T14:33:45+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDACS All Events Last 24h"
+      ]
+    },
+    "domain:snyk.io": {
+      "title": "The full Snyk AI Security Platform, free for open source maintainers",
+      "first_seen_at": "2026-06-18T14:33:45+00:00",
+      "last_seen_at": "2026-06-18T14:33:45+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T14:33:45+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24,10 +118,10 @@
       "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 8,
-      "momentum_delta": 8,
-      "momentum_status": "increasing",
+      "previous_run_count": 8,
+      "last_run_count": 0,
+      "momentum_delta": -8,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-17T21:31:36+00:00",
@@ -92,6 +186,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 8
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -102,14 +200,18 @@
       "title": "triggerdotdev/trigger.dev",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -120,14 +222,18 @@
       "title": "henrydaum/second-brain",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -138,14 +244,18 @@
       "title": "Bowman, Artificial Intelligence in the Financial System",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 44,
-      "momentum_delta": 44,
-      "momentum_status": "increasing",
+      "previous_run_count": 44,
+      "last_run_count": 0,
+      "momentum_delta": -44,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 44
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -159,14 +269,18 @@
       "title": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 45,
-      "momentum_delta": 45,
-      "momentum_status": "increasing",
+      "previous_run_count": 45,
+      "last_run_count": 0,
+      "momentum_delta": -45,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 45
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -179,78 +293,40 @@
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
         "GDACS All Events Last 24h"
       ]
     },
-    "domain:electionbettingodds.com": {
-      "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 1,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T03:39:26+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T05:21:32+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T07:05:34+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T08:47:58+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        }
-      ],
-      "sources": [
-        "Election Betting Odds Public Watch"
-      ]
-    },
     "github_repo:eracle/openoutreach": {
       "title": "eracle/OpenOutreach",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -261,50 +337,40 @@
       "title": "AppiumTestDistribution/AppClaw",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "earthquake:andreanof islands:unknown": {
-      "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
-      "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        }
-      ],
-      "sources": [
-        "GDACS All Events Last Week"
-      ]
-    },
     "title:tunisi-avvocati-sciopero-protesta-davanti-palazzo-giustizia": {
       "title": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "previous_run_count": 2,
+      "last_run_count": 0,
+      "momentum_delta": -2,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -315,14 +381,18 @@
       "title": "Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -333,14 +403,18 @@
       "title": "Tensione në Kuvendin e Shqipërisë , Balla : Sali Berisha të sfidoj , dil sot në protestë",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -351,14 +425,18 @@
       "title": "Balla i përgjigjet Berishës : Shko në protestë po ta mbajti !",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -369,14 +447,18 @@
       "title": "Минск вручил представителю Киева ноту протеста из - за удара ВСУ по автобусу с детьми",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -387,14 +469,18 @@
       "title": "МИД Белоруссии вручил поверенному Украины ноту протеста из - за атаки на автобус",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -405,14 +491,18 @@
       "title": "《 國際政治 》 沒看錯 ！ 談殲滅飛彈 川普 ： 對伊朗不公平 - 財經",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -423,14 +513,18 @@
       "title": "Drought conditions persist , despite rain",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -441,14 +535,18 @@
       "title": "Wildfire Pro Shop , Inc . Launches General Contractor Wildfire Defense Program -- First Installation Now Underway in Grizzly Ranch",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -459,14 +557,18 @@
       "title": "Euro area monthly balance of payments: April 2026",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 43,
-      "momentum_delta": 43,
-      "momentum_status": "increasing",
+      "previous_run_count": 43,
+      "last_run_count": 0,
+      "momentum_delta": -43,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 43
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -480,14 +582,18 @@
       "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "previous_run_count": 2,
+      "last_run_count": 0,
+      "momentum_delta": -2,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -499,14 +605,18 @@
       "title": "M 4.6, Gaspe Peninsula, Canada",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -517,14 +627,18 @@
       "title": "M 3.6, Chile-Bolivia Border Region",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -535,14 +649,18 @@
       "title": "M 5.0 - 211 km WSW of Adak, Alaska",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -553,14 +671,18 @@
       "title": "Arnavutlukta muhalefet milletvekilleri meclis kürsüsünü bloke etti",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -571,14 +693,18 @@
       "title": "美伊签署谅解备忘录 后续谈判可能面临哪些障碍 ？- 新闻中心 - 中国宁波网",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -589,14 +715,18 @@
       "title": "Benin and Niger formalise commitment to reopening shared border",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -607,14 +737,18 @@
       "title": "BLOKADERI OTVORENO NAJAVLJUJU HAOS NA IZBORNI DAN : Prete krvoprolićem ako im se ne preda vlast",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -625,14 +759,18 @@
       "title": "Pas heqjes së sanksioneve nga SHBA - ja , a është rikthyer vërtet Sali Berisha ?",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -643,14 +781,18 @@
       "title": "被控涉诈 ， 可能被美国制裁 ， 柬埔寨副总理苏速卡重金聘律师抗辩 ！ 其曾参股陈志金贝集团 ， 工作职责为打击网诈和人口贩卖",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -661,14 +803,18 @@
       "title": "Greve nas escolas encerra alguns estabelecimentos mas não afeta exames nacionais",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -679,14 +825,18 @@
       "title": "Greve nas escolas não afeta exames nacionais – Observador",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -697,14 +847,18 @@
       "title": "因曾持股陈志电诈集团 ， 柬埔寨副总理或被美方制裁 ， 本人已花28 . 5万美元请律师",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -715,14 +869,18 @@
       "title": "Европарламент призвал Минск освободить всех политзаключенных",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -733,14 +891,18 @@
       "title": "韓國選票短缺事件 國會啟動45天調查釐清原因 | 國際",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -751,14 +913,18 @@
       "title": "Tüntettek a tanügyi szakszervezetek - 2026 . június 18 ., csütörtök",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -769,14 +935,18 @@
       "title": "Generated release notes credit you for Copilot pull requests",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -787,14 +957,18 @@
       "title": "รัฐสภาเกาหลีใต้เปิดการสอบสวน ปมบัตรเลือกตั้งท้องถิ่นขาดแคลนกว่า 90 หน่วย",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -805,14 +979,18 @@
       "title": "Berisha në foltore , deputetët e tij e rrethojnë dhe përplasen me Peleshin , kreu i PD : Të vijë Rama këtu",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -823,14 +1001,18 @@
       "title": "[ 속보 ] 국회 , 투표용지 부족 국정조사 계획서 의결 … 45일간 진행",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -841,14 +1023,18 @@
       "title": "《 钢铁雄心IV 》 全新战区包 《 门前惊雷 》 上线 _ 3DM单机",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -859,14 +1045,18 @@
       "title": "陽台有鴿子築巢怎麼辦 ？ 驅鳥妙招網推 「 這神物 」 最有效 | 生活新聞 | 生活",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -877,14 +1067,18 @@
       "title": "У Британії почалися вирішальні для майбутнього Стармера довибори у парламент",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -895,14 +1089,18 @@
       "title": "Federal Reserve Board seeks DDP users for online survey",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 4,
-      "momentum_delta": 4,
-      "momentum_status": "increasing",
+      "previous_run_count": 4,
+      "last_run_count": 0,
+      "momentum_delta": -4,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 4
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -914,14 +1112,18 @@
       "title": "M 5.0, Andreanof Islands, Aleutian Islands",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -932,14 +1134,18 @@
       "title": "M 5.0, Fiji Islands Region",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -950,14 +1156,18 @@
       "title": "M 4.6 - 50 km ESE of Palu, Indonesia",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -968,14 +1178,18 @@
       "title": "NX China将亮相第四届中国国际供应链促进博览会 ( CISCE )- 美通社PR - Newswire",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -986,14 +1200,18 @@
       "title": "There are no tropical cyclones at this time.",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1004,14 +1222,18 @@
       "title": "一天三场特大暴雨 ， 汕尾陆丰 零伤亡 背后的省市联动调度 _ 南方网",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1022,14 +1244,18 @@
       "title": "Listrik Padam di Sejumlah Wilayah Tangerang , PLN Sebut Ada Penurunan Kapasitas Suplai",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "previous_run_count": 2,
+      "last_run_count": 0,
+      "momentum_delta": -2,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1040,14 +1266,18 @@
       "title": "El PSOE exige una auditoría independiente sobre medios y condiciones laborales de Infoca",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1058,14 +1288,18 @@
       "title": "La IA vigila incendios forestales en Collserola en una prueba clave para proteger Barcelona",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "previous_run_count": 2,
+      "last_run_count": 0,
+      "momentum_delta": -2,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1076,14 +1310,18 @@
       "title": "Pancoran Mas Depok Kembali Alami Pemadaman Listrik , Warga Ramai Berburu Lilin",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "previous_run_count": 2,
+      "last_run_count": 0,
+      "momentum_delta": -2,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1094,14 +1332,18 @@
       "title": "PSOE - A urge una auditoría de medios del Infoca y alerta de su precariedad ante una posible ola de calor",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1112,14 +1354,18 @@
       "title": "张国清在福建调研时强调 提升重点产业链自主可控水平 更好发挥标准引领保障作用",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1130,14 +1376,18 @@
       "title": "Mati Listrik 3 Jam di Gegerkalong Bandung , Pedagang Es hingga Laundry Kelimpungan",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1148,14 +1398,18 @@
       "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责 _ 广州日报大洋网",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1166,14 +1420,18 @@
       "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1184,14 +1442,18 @@
       "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1202,14 +1464,18 @@
       "title": "Listrik Bogor Utara Padam , Ini Penyebab dan Wilayah Terdampak",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1220,14 +1486,18 @@
       "title": "Brimob Sumut Turun Tangan Saat Kebakaran Hanguskan Ratusan Kios Pasar Dwikora",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1238,14 +1508,18 @@
       "title": "ข่าวครม . เดินหน้าแก้น้ำท่วมระยอง อนุมัติงบ 4 . 4 พันล้านบาท สร้างคลองผันน้ำ ปกป้องเมืองศก . EEC",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1256,14 +1530,18 @@
       "title": "赤道出現 「 罕見規模洋流 」 鄭明典 ： 即將見證超強聖嬰 | 生活 | 三立新聞網 SETN . COM",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1274,14 +1552,18 @@
       "title": "La situation est devenue intenable … Pourquoi lessor de lIA va faire grimper le prix des iPhone",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1292,14 +1574,18 @@
       "title": "Listrik Padam 3 Jam , Warga Pasuruan : Jangan Lama - lama , ASI Bisa Rusak",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1310,14 +1596,18 @@
       "title": "Apindo : Pengusaha Resah dan Khawatir Hadapi Pemadaman Listrik Berulang",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1328,14 +1618,18 @@
       "title": "Apple : le patron de la marque Tim Cook prévient que le boom de lintelligence artificielle va faire grimper le prix des iPhone",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1346,10 +1640,10 @@
       "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1357,6 +1651,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1368,10 +1666,10 @@
       "title": "shinpr/claude-code-workflows",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1379,6 +1677,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1390,10 +1692,10 @@
       "title": "kawayiYokami/P-ai",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1401,6 +1703,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1412,10 +1718,10 @@
       "title": "netease-youdao/LobsterAI",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1423,6 +1729,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1434,10 +1744,10 @@
       "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
       "first_seen_at": "2026-06-17T22:13:10+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T22:13:10+00:00",
@@ -1494,6 +1804,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1504,10 +1818,10 @@
       "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1515,6 +1829,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1526,10 +1844,10 @@
       "title": "0xPlaygrounds/rig",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1537,6 +1855,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1548,10 +1870,10 @@
       "title": "Joanium/Joanium",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1559,6 +1881,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1570,10 +1896,10 @@
       "title": "M 4.8, Timor Region",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1581,6 +1907,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1592,10 +1922,10 @@
       "title": "M 4.9, Timor Region",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1603,6 +1933,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1614,10 +1948,10 @@
       "title": "Green forest fire notification in Russian Federation",
       "first_seen_at": "2026-06-18T08:47:58+00:00",
       "last_seen_at": "2026-06-18T08:47:58+00:00",
-      "previous_run_count": 2,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -2,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T08:47:58+00:00",
@@ -1625,6 +1959,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1652,6 +1990,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1677,6 +2019,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1704,6 +2050,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1729,6 +2079,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1756,6 +2110,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1781,6 +2139,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1808,6 +2170,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1833,6 +2199,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1864,6 +2234,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1893,6 +2267,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -1924,6 +2302,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1954,6 +2336,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1983,6 +2369,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2018,6 +2408,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2048,6 +2442,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2077,6 +2475,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2112,6 +2514,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2146,6 +2552,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2179,6 +2589,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2258,6 +2672,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2291,6 +2709,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2331,6 +2753,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2368,6 +2794,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2407,6 +2837,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2444,6 +2878,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2483,6 +2921,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2520,6 +2962,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2563,6 +3009,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2604,6 +3054,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2651,6 +3105,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2696,6 +3154,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2743,6 +3205,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2788,6 +3254,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2835,6 +3305,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2880,6 +3354,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -2927,6 +3405,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2972,6 +3454,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3019,6 +3505,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3064,6 +3554,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3111,6 +3605,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3156,6 +3654,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3203,6 +3705,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3248,6 +3754,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3295,6 +3805,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3340,6 +3854,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3398,6 +3916,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3468,6 +3990,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3542,6 +4068,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3629,6 +4159,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3714,6 +4248,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3805,6 +4343,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3894,6 +4436,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -3985,6 +4531,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4074,6 +4624,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],
@@ -4165,6 +4719,10 @@
         {
           "at": "2026-06-18T14:33:45+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4254,6 +4812,10 @@
         },
         {
           "at": "2026-06-18T14:33:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         }
       ],

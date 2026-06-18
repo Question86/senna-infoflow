@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T14:33:45Z",
+  "generated_at": "2026-06-18T15:00:18Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T14:33:45Z",
+      "last_seen_at": "2026-06-18T15:00:18Z",
       "last_trend_wucht": 17.0,
       "samples": [
         {
@@ -941,6 +941,26 @@
           "sample_index": 5939310,
           "timestamp_utc": "2026-06-18T14:33:45Z",
           "run_id": "2026-06-18T14-33-45Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 17.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T15-00-18Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939316,
+          "timestamp_utc": "2026-06-18T15:00:18Z",
+          "run_id": "2026-06-18T15-00-18Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 15.0,
@@ -2634,7 +2654,7 @@
     "earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown": {
       "topic_key": "earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown",
       "topic_label": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
-      "last_seen_at": "2026-06-18T14:33:45Z",
+      "last_seen_at": "2026-06-18T15:00:18Z",
       "last_trend_wucht": 16.0,
       "samples": [
         {
@@ -2653,6 +2673,26 @@
           "score_delta_5m": 14.0,
           "trend_wucht": 16.0,
           "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T15-00-18Z:earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown",
+          "sample_index": 5939316,
+          "timestamp_utc": "2026-06-18T15:00:18Z",
+          "run_id": "2026-06-18T15-00-18Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown",
+          "topic_label": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 16.0,
+          "status": "mature",
           "urls": [
             "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
           ]
@@ -7470,6 +7510,34 @@
           "status": "emerging",
           "urls": [
             "https://www.bis.org/press/p260416.htm"
+          ]
+        }
+      ]
+    },
+    "title:eat-pray-ai-yutu": {
+      "topic_key": "title:eat-pray-ai-yutu",
+      "topic_label": "eat-pray-ai/yutu",
+      "last_seen_at": "2026-06-18T15:00:18Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T15-00-18Z:title:eat-pray-ai-yutu",
+          "sample_index": 5939316,
+          "timestamp_utc": "2026-06-18T15:00:18Z",
+          "run_id": "2026-06-18T15-00-18Z",
+          "topic_key": "title:eat-pray-ai-yutu",
+          "topic_label": "eat-pray-ai/yutu",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/eat-pray-ai/yutu"
           ]
         }
       ]

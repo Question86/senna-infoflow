@@ -1,12 +1,12 @@
 # Senna Config Validation
 
-_Generated: 2026-06-18T14:31:46Z_
+_Generated: 2026-06-18T14:59:07Z_
 
 Status: `ok`
 
 ## Counts
 
-- sources: `64`
+- sources: `49`
 - errors: `0`
 - warnings: `0`
 
