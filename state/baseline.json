@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T17:28:30+00:00",
+  "generated_at": "2026-06-18T18:23:02+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -69,16 +69,17 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "updated_at": "2026-06-18T16:21:23+00:00",
+      "title": "Improving health intelligence in ChatGPT",
+      "updated_at": "2026-06-18T18:23:02+00:00",
       "network_scores": [
         19.1,
-        21.1
+        21.1,
+        17.1
       ],
-      "rolling_average": 20.1,
+      "rolling_average": 19.1,
       "rolling_peak": 21.1,
-      "last_score": 21.1,
-      "z_hint": 1.0
+      "last_score": 17.1,
+      "z_hint": -2.0
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -322,7 +323,7 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T17:28:30+00:00",
+      "updated_at": "2026-06-18T18:23:02+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -334,12 +335,13 @@
         17.1,
         17.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 16.46,
+      "rolling_average": 16.1,
       "rolling_peak": 20.1,
       "last_score": 12.1,
-      "z_hint": -4.36
+      "z_hint": -4.0
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -1743,6 +1745,50 @@
     "github_repo:achiya-automation/safari-mcp": {
       "title": "achiya-automation/safari-mcp",
       "updated_at": "2026-06-18T17:28:30+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:actions-build-custom-images-custom-images": {
+      "title": "Actions: Build custom images from custom images",
+      "updated_at": "2026-06-18T18:23:02+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "earthquake:india 18:4.0": {
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
+      "updated_at": "2026-06-18T18:23:02+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "github_repo:avdlee/rocketsimapp": {
+      "title": "AvdLee/RocketSimApp",
+      "updated_at": "2026-06-18T18:23:02+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:cporter202/agentic-ai-apis": {
+      "title": "cporter202/agentic-ai-apis",
+      "updated_at": "2026-06-18T18:23:02+00:00",
       "network_scores": [
         14.1
       ],

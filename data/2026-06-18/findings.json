@@ -25,6 +25,52 @@
     "id": "d7a4cff815f05d90005b"
   },
   {
+    "title": "cporter202/agentic-ai-apis",
+    "url": "https://github.com/cporter202/agentic-ai-apis",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T17:31:31+00:00",
+    "fetched_at": "2026-06-18T18:21:58+00:00",
+    "summary": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "GitHub",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+10.1); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents, MCP"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "ab03d0ec82db08493d5e"
+  },
+  {
     "title": "ownpilot/OwnPilot",
     "url": "https://github.com/ownpilot/OwnPilot",
     "source": "GitHub Search Breakout AI Tools",
@@ -1157,6 +1203,29 @@
     "id": "fff908fffc634e054650"
   },
   {
+    "title": "AvdLee/RocketSimApp",
+    "url": "https://github.com/AvdLee/RocketSimApp",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T17:57:35+00:00",
+    "fetched_at": "2026-06-18T18:21:58+00:00",
+    "summary": "RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "automation",
+      "GitHub"
+    ],
+    "relevance_score": 21,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "67b31bc2b4acb9e183a1"
+  },
+  {
     "title": "henrydaum/second-brain",
     "url": "https://github.com/henrydaum/second-brain",
     "source": "GitHub Search Breakout AI Tools",
@@ -1475,6 +1544,43 @@
     "id": "1fc2690a5c564d365052"
   },
   {
+    "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-18T18:02:04+00:00",
+    "fetched_at": "2026-06-18T18:21:58+00:00",
+    "summary": "On 6/18/2026 3:29:19 PM, an earthquake occurred in India potentially affecting 3.8 million in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
+    "matched_keywords": [
+      "earthquake",
+      "GitHub",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8167b9cf79d4b73dbb69"
+  },
+  {
     "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285",
     "source": "GDACS All Events Last 24h",
@@ -1745,8 +1851,8 @@
     "url": "https://electionbettingodds.com/",
     "source": "Election Betting Odds Public Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-18T17:25:53+00:00",
-    "fetched_at": "2026-06-18T17:27:23+00:00",
+    "published_at": "2026-06-18T18:21:35+00:00",
+    "fetched_at": "2026-06-18T18:21:58+00:00",
     "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
     "matched_keywords": [
       "election",
@@ -1797,7 +1903,7 @@
       "TMO",
       "DHR"
     ],
-    "id": "05b6116aae444a1dcbff"
+    "id": "7ef4561352c1ea4b5f21"
   },
   {
     "title": "eracle/OpenOutreach",
@@ -3029,6 +3135,26 @@
     "id": "fea9ce54b52b9cd06224"
   },
   {
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T11:00:00+00:00",
+    "fetched_at": "2026-06-18T18:21:58+00:00",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+10.1); recent (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "18bd15c93b3f84130071"
+  },
+  {
     "title": "Microsoft fixes Windows Server 2016 security update failures",
     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
     "source": "BleepingComputer Security",
@@ -3564,6 +3690,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0dbd6a35caf3a13316de"
+  },
+  {
+    "title": "Actions: Build custom images from custom images",
+    "url": "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-18T15:32:44+00:00",
+    "fetched_at": "2026-06-18T18:21:58+00:00",
+    "summary": "Custom images for GitHub-hosted runners are getting new capabilities that give you more flexibility over how you compose and manage your image-generation pipelines. You can now build custom images on… The post Actions: Build custom images from custom images appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Watchgraph:energy_oil_gas_power_uranium"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "GitHub (+6.0); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "energy_oil_gas_power_uranium"
+    ],
+    "watchgraph_reasons": [
+      "energy_oil_gas_power_uranium: pipeline"
+    ],
+    "market_context": [
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "CCJ",
+      "ENB",
+      "SU",
+      "EQNR",
+      "URA"
+    ],
+    "id": "ededa98f7463fe398793"
   },
   {
     "title": "M 5.0 - 211 km WSW of Adak, Alaska",

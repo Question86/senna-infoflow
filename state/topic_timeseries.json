@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T17:28:30Z",
+  "generated_at": "2026-06-18T18:23:02Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T17:28:30Z",
+      "last_seen_at": "2026-06-18T18:23:02Z",
       "last_trend_wucht": 12.0,
       "samples": [
         {
@@ -1001,6 +1001,26 @@
           "sample_index": 5939345,
           "timestamp_utc": "2026-06-18T17:28:30Z",
           "run_id": "2026-06-18T17-28-30Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 12.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T18-23-02Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939356,
+          "timestamp_utc": "2026-06-18T18:23:02Z",
+          "run_id": "2026-06-18T18-23-02Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 10.0,
@@ -8278,6 +8298,146 @@
           "status": "emerging",
           "urls": [
             "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
+          ]
+        }
+      ]
+    },
+    "title:improving-health-intelligence-in-chatgpt": {
+      "topic_key": "title:improving-health-intelligence-in-chatgpt",
+      "topic_label": "Improving health intelligence in ChatGPT",
+      "last_seen_at": "2026-06-18T18:23:02Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T18-23-02Z:title:improving-health-intelligence-in-chatgpt",
+          "sample_index": 5939356,
+          "timestamp_utc": "2026-06-18T18:23:02Z",
+          "run_id": "2026-06-18T18-23-02Z",
+          "topic_key": "title:improving-health-intelligence-in-chatgpt",
+          "topic_label": "Improving health intelligence in ChatGPT",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "OpenAI News RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+          ]
+        }
+      ]
+    },
+    "title:actions:-build-custom-images-from-custom-images": {
+      "topic_key": "title:actions:-build-custom-images-from-custom-images",
+      "topic_label": "Actions: Build custom images from custom images",
+      "last_seen_at": "2026-06-18T18:23:02Z",
+      "last_trend_wucht": 13.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T18-23-02Z:title:actions:-build-custom-images-from-custom-images",
+          "sample_index": 5939356,
+          "timestamp_utc": "2026-06-18T18:23:02Z",
+          "run_id": "2026-06-18T18-23-02Z",
+          "topic_key": "title:actions:-build-custom-images-from-custom-images",
+          "topic_label": "Actions: Build custom images from custom images",
+          "network_score": 11.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 11.0,
+          "trend_wucht": 13.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-india-18-06:4": {
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-india-18-06:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
+      "last_seen_at": "2026-06-18T18:23:02Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T18-23-02Z:earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-india-18-06:4",
+          "sample_index": 5939356,
+          "timestamp_utc": "2026-06-18T18:23:02Z",
+          "run_id": "2026-06-18T18-23-02Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-india-18-06:4",
+          "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297"
+          ]
+        }
+      ]
+    },
+    "title:avdlee-rocketsimapp": {
+      "topic_key": "title:avdlee-rocketsimapp",
+      "topic_label": "AvdLee/RocketSimApp",
+      "last_seen_at": "2026-06-18T18:23:02Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T18-23-02Z:title:avdlee-rocketsimapp",
+          "sample_index": 5939356,
+          "timestamp_utc": "2026-06-18T18:23:02Z",
+          "run_id": "2026-06-18T18-23-02Z",
+          "topic_key": "title:avdlee-rocketsimapp",
+          "topic_label": "AvdLee/RocketSimApp",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/AvdLee/RocketSimApp"
+          ]
+        }
+      ]
+    },
+    "title:cporter202-agentic-ai-apis": {
+      "topic_key": "title:cporter202-agentic-ai-apis",
+      "topic_label": "cporter202/agentic-ai-apis",
+      "last_seen_at": "2026-06-18T18:23:02Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T18-23-02Z:title:cporter202-agentic-ai-apis",
+          "sample_index": 5939356,
+          "timestamp_utc": "2026-06-18T18:23:02Z",
+          "run_id": "2026-06-18T18-23-02Z",
+          "topic_key": "title:cporter202-agentic-ai-apis",
+          "topic_label": "cporter202/agentic-ai-apis",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/cporter202/agentic-ai-apis"
           ]
         }
       ]

@@ -1,98 +1,56 @@
 {
-  "generated_at": "2026-06-18T17:28:30+00:00",
+  "generated_at": "2026-06-18T18:23:02+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 19,
-    "clusters": 17,
+    "findings": 6,
+    "clusters": 6,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 9
+    "dominance_penalized": 1
   },
   "clusters": [
     {
-      "key": "domain:www.cisa.gov",
-      "title": "Mitsubishi Electric MELSEC iQ-F Series",
+      "key": "domain:openai.com",
+      "title": "Improving health intelligence in ChatGPT",
       "sources": [
-        "CISA Cybersecurity Advisories"
+        "OpenAI News RSS"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06"
-      ],
-      "finding_count": 3,
-      "max_score": 13,
-      "credibility_total": 4.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 3,
-      "momentum_status": "increasing",
-      "network_score": 22.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 30.1,
-      "ranking_score": 22.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 7.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "cve:CVE-2026-20253",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog"
+        "https://openai.com/index/improving-health-intelligence-in-chatgpt"
       ],
       "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
+      "max_score": 12,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 16.9,
+      "network_score": 16.0,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 20.7,
-      "ranking_score": 16.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
-      "key": "title:copilot-authored-pull-requests-now-included-author-searches",
-      "title": "Copilot-authored pull requests now included in author searches",
+      "key": "title:actions-build-custom-images-custom-images",
+      "title": "Actions: Build custom images from custom images",
       "sources": [
         "GitHub Changelog Atom"
       ],
@@ -100,7 +58,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches"
+        "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -110,7 +68,9 @@
       "momentum_status": "increasing",
       "network_score": 15.0,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "energy_oil_gas_power_uranium"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.1,
       "ranking_score": 15.0,
@@ -126,90 +86,11 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
+      "first_seen_at": "2026-06-18T18:23:02+00:00"
     },
     {
-      "key": "title:repository-switcher-generally-available-global-navigation",
-      "title": "Repository switcher generally available in global navigation",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 14.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "earthquake:philippines:5.4",
-      "title": "M 5.4, Mindanao, Philippines",
-      "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 17.7,
-      "ranking_score": 13.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "github_repo:ownpilot/ownpilot",
-      "title": "ownpilot/OwnPilot",
+      "key": "github_repo:avdlee/rocketsimapp",
+      "title": "AvdLee/RocketSimApp",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -217,47 +98,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/ownpilot/OwnPilot"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.4,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.4,
-      "initial_reach_tier": "small_initial",
-      "source_reach_score": 1.5,
-      "authority_bonus_capped": 0.9,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "github_repo:prasenjeet-symon/ogcode",
-      "title": "prasenjeet-symon/ogcode",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/prasenjeet-symon/ogcode"
+        "https://github.com/AvdLee/RocketSimApp"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -268,7 +109,7 @@
       "network_score": 13.4,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 14.1,
       "ranking_score": 13.4,
       "initial_reach_tier": "small_initial",
@@ -283,11 +124,11 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
+      "first_seen_at": "2026-06-18T18:23:02+00:00"
     },
     {
-      "key": "github_repo:shaun0927/openchrome",
-      "title": "shaun0927/openchrome",
+      "key": "github_repo:cporter202/agentic-ai-apis",
+      "title": "cporter202/agentic-ai-apis",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -295,7 +136,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/shaun0927/openchrome"
+        "https://github.com/cporter202/agentic-ai-apis"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -323,51 +164,11 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
+      "first_seen_at": "2026-06-18T18:23:02+00:00"
     },
     {
-      "key": "github_repo:achiya-automation/safari-mcp",
-      "title": "achiya-automation/safari-mcp",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/achiya-automation/safari-mcp"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.4,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.4,
-      "initial_reach_tier": "small_initial",
-      "source_reach_score": 1.5,
-      "authority_bonus_capped": 0.9,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "earthquake:philippines:5.0",
-      "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
+      "key": "earthquake:india 18:4.0",
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
       "sources": [
         "GDACS All Events Last 24h"
       ],
@@ -376,7 +177,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -404,197 +205,7 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-17T22:13:10+00:00"
-    },
-    {
-      "key": "domain:www.se.com",
-      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.9,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.7,
-      "ranking_score": 11.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "cve:CVE-2025-13036",
-      "title": "Rockwell Automation FactoryTalk Historian Site Edition",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.9,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
-      "raw_network_score": 15.7,
-      "ranking_score": 11.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "cve:CVE-2026-12390",
-      "title": "AzeoTech DAQFactory",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.9,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 15.7,
-      "ranking_score": 11.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "cve:CVE-2026-50034",
-      "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.9,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 15.7,
-      "ranking_score": 11.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
-    },
-    {
-      "key": "cve:CVE-2026-40624",
-      "title": "AVer PTC cameras",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.9,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 15.7,
-      "ranking_score": 11.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
+      "first_seen_at": "2026-06-18T18:23:02+00:00"
     },
     {
       "key": "domain:electionbettingodds.com",
@@ -635,52 +246,11 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-18T00:36:09+00:00"
-    },
-    {
-      "key": "earthquake:philippines:5.3",
-      "title": "M 5.3 - 63 km ESE of Bobon, Philippines",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 14.7,
-      "ranking_score": 10.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T17:28:30+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-06-18T17:28:30Z",
+    "generated_at": "2026-06-18T18:23:02Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
