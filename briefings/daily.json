@@ -1,26 +1,98 @@
 {
-  "generated_at": "2026-06-18T08:47:58+00:00",
-  "today_file_total": 67,
+  "generated_at": "2026-06-18T14:33:45+00:00",
+  "today_file_total": 279,
   "current_clusters": [
     {
-      "key": "github_repo:chaitanyaeswarrajeshjakki/gemini-youtube-automation",
-      "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "key": "domain:www.bis.org",
+      "title": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "BIS Central Bankers Speeches",
+        "BIS Press Releases",
+        "BIS Statistical Releases"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation"
+        "https://www.bis.org/review/r260618f.htm",
+        "https://www.bis.org/review/r260616g.htm",
+        "https://www.bis.org/press/p260602.htm",
+        "https://www.bis.org/statistics/pp_residential_2605.htm",
+        "https://www.bis.org/press/p260520.htm",
+        "https://www.bis.org/statistics/rppb2604.htm"
       ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
+      "finding_count": 45,
+      "max_score": 18,
+      "credibility_total": 47.25,
+      "cross_source_confirmed": true,
+      "momentum_delta": 45,
       "momentum_status": "increasing",
-      "network_score": 27.1,
+      "network_score": 255.5,
+      "hot": true,
+      "watchgraph_modules": [
+        "capitals_power_centers",
+        "public_health_biosecurity"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.federalreserve.gov",
+      "title": "Bowman, Artificial Intelligence in the Financial System",
+      "sources": [
+        "Federal Reserve Monetary Policy Press Releases",
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15",
+        "Federal Reserve Speeches and Testimony"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/bowman20260505a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+        "http://www.federalreserve.gov/feeds/H15.html#3813",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+      ],
+      "finding_count": 44,
+      "max_score": 21,
+      "credibility_total": 46.2,
+      "cross_source_confirmed": true,
+      "momentum_delta": 44,
+      "momentum_status": "increasing",
+      "network_score": 255.4,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Euro area monthly balance of payments: April 2026",
+      "sources": [
+        "ECB Euro Area Yield Curve",
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews",
+        "ECB Statistical Press Releases"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260618~e4d92a6f16.en.html",
+        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260051.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260050.en.html"
+      ],
+      "finding_count": 43,
+      "max_score": 12,
+      "credibility_total": 45.15,
+      "cross_source_confirmed": true,
+      "momentum_delta": 43,
+      "momentum_status": "increasing",
+      "network_score": 241.3,
       "hot": true,
       "watchgraph_modules": [
         "energy_oil_gas_power_uranium"
@@ -28,8 +100,113 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "github_repo:shinpr/claude-code-workflows",
-      "title": "shinpr/claude-code-workflows",
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+        "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+        "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
+        "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+        "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/"
+      ],
+      "finding_count": 8,
+      "max_score": 23,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 8,
+      "momentum_status": "increasing",
+      "network_score": 63.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "narrative_social_reputation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:snyk.io",
+      "title": "The full Snyk AI Security Platform, free for open source maintainers",
+      "sources": [
+        "Snyk Security Blog"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://snyk.io/blog/secure-developer-program/"
+      ],
+      "finding_count": 1,
+      "max_score": 34,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 39.1,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:boardofgovernors.gov1.qualtrics.com",
+      "title": "Federal Reserve Board seeks DDP users for online survey",
+      "sources": [
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.federalreserve.gov/feeds/H15.html#3507",
+        "http://www.federalreserve.gov/feeds/H15.html#3086",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3507",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3086"
+      ],
+      "finding_count": 4,
+      "max_score": 11,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": true,
+      "momentum_delta": 4,
+      "momentum_status": "increasing",
+      "network_score": 37.4,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:federalreserve.gov",
+      "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+      "sources": [
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.federalreserve.gov/feeds/H15.html#3793",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3793"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 28.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "github_repo:triggerdotdev/trigger.dev",
+      "title": "triggerdotdev/trigger.dev",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -37,7 +214,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/shinpr/claude-code-workflows"
+        "https://github.com/triggerdotdev/trigger.dev"
       ],
       "finding_count": 1,
       "max_score": 22,
@@ -53,8 +230,8 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "github_repo:kawayiyokami/p-ai",
-      "title": "kawayiYokami/P-ai",
+      "key": "github_repo:henrydaum/second-brain",
+      "title": "henrydaum/second-brain",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -62,7 +239,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/kawayiYokami/P-ai"
+        "https://github.com/henrydaum/second-brain"
       ],
       "finding_count": 1,
       "max_score": 21,
@@ -72,37 +249,38 @@
       "momentum_status": "increasing",
       "network_score": 25.1,
       "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:tunisi-avvocati-sciopero-protesta-davanti-palazzo-giustizia",
+      "title": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.laregione.ch/estero/estero/1933207/giustizia-avvocati-diritto-mobilitazione-protesta-palazzo-tunisi-sciopero",
+        "https://www.laregione.ch/estero/estero/1933207/giustizia-avvocati-diritto-mobilitazione-protesta-palazzo-tunisi-sciopero"
+      ],
+      "finding_count": 2,
+      "max_score": 14,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 24.2,
+      "hot": true,
       "watchgraph_modules": [
-        "ai_agents_workflow"
+        "elections_unrest"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "github_repo:netease-youdao/lobsterai",
-      "title": "netease-youdao/LobsterAI",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/netease-youdao/LobsterAI"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:philippines:5.0",
-      "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+      "key": "earthquake:indonesia:4.0",
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
       "sources": [
         "GDACS All Events Last 24h"
       ],
@@ -110,7 +288,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547262"
       ],
       "finding_count": 1,
       "max_score": 16,
@@ -126,16 +304,16 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:timor-leste 18:4.0",
-      "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
+      "key": "earthquake:andreanof islands:unknown",
+      "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
       "sources": [
-        "GDACS All Events Last 24h"
+        "GDACS All Events Last Week"
       ],
       "source_classes": [
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
       ],
       "finding_count": 1,
       "max_score": 14,
@@ -151,8 +329,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:russian federation:unknown",
-      "title": "Green forest fire notification in Russian Federation",
+      "key": "earthquake:fiji islands region 18:4.0",
+      "title": "Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.",
       "sources": [
         "GDACS All Events Last 24h"
       ],
@@ -160,141 +338,191 @@
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547244"
       ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.7,
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 19.4,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "network_score": 19.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:electionbettingodds.com",
-      "title": "Election Betting Odds by Maxim Lott and John Stossel",
+      "key": "github_repo:eracle/openoutreach",
+      "title": "eracle/OpenOutreach",
       "sources": [
-        "Election Betting Odds Public Watch"
+        "GitHub Search Breakout AI Tools"
+      ],
+      "source_classes": [
+        "tier5_generic_repo"
+      ],
+      "urls": [
+        "https://github.com/eracle/OpenOutreach"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 0.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "github_repo:appiumtestdistribution/appclaw",
+      "title": "AppiumTestDistribution/AppClaw",
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "source_classes": [
+        "tier5_generic_repo"
+      ],
+      "urls": [
+        "https://github.com/AppiumTestDistribution/AppClaw"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 0.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "title:tensione-kuvendin-shqip-ris-balla-sali-berisha-sfidoj",
+      "title": "Tensione në Kuvendin e Shqipërisë , Balla : Sali Berisha të sfidoj , dil sot në protestë",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://electionbettingodds.com/"
+        "https://zeri.info/aktuale/626962/tensione-ne-kuvendin-e-shqiperise-balla-sali-berisha-te-sfidoj-dil-sot-ne-proteste/"
       ],
       "finding_count": 1,
-      "max_score": 15,
+      "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [
-        "elections_unrest",
-        "public_health_biosecurity"
+        "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "github_repo:0xplaygrounds/rig",
-      "title": "0xPlaygrounds/rig",
+      "key": "domain:kohajone.com",
+      "title": "Balla i përgjigjet Berishës : Shko në protestë po ta mbajti !",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/0xPlaygrounds/rig"
+        "https://kohajone.com/lajme/balla-i-pergjigjet-berishes-shko-ne-proteste-po-ta-mbajti/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://lenta.ru/news/2026/06/18/minsk-vruchil-predstavitelyu-kieva-notu-protesta-iz-za-udara-vsu-po-avtobusu-s-detmi/",
+      "title": "Минск вручил представителю Киева ноту протеста из - за удара ВСУ по автобусу с детьми",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://lenta.ru/news/2026/06/18/minsk-vruchil-predstavitelyu-kieva-notu-protesta-iz-za-udara-vsu-po-avtobusu-s-detmi/"
       ],
       "finding_count": 1,
       "max_score": 13,
-      "credibility_total": 0.55,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 17.1,
+      "network_score": 18.1,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "github_repo:joanium/joanium",
-      "title": "Joanium/Joanium",
+      "key": "domain:russian.rt.com",
+      "title": "МИД Белоруссии вручил поверенному Украины ноту протеста из - за атаки на автобус",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/Joanium/Joanium"
+        "https://russian.rt.com/ussr/news/1645801-belorussiya-mid-ukraina-protest"
       ],
       "finding_count": 1,
       "max_score": 13,
-      "credibility_total": 0.55,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 17.1,
+      "network_score": 18.1,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.8, timor region:4.8",
-      "title": "M 4.8, Timor Region",
+      "key": "domain:www.chinatimes.com",
+      "title": "《 國際政治 》 沒看錯 ！ 談殲滅飛彈 川普 ： 對伊朗不公平 - 財經",
       "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq"
+        "https://www.chinatimes.com/realtimenews/20260618003928-260410"
       ],
       "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
+      "max_score": 13,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.7,
+      "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "elections_unrest"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.9, timor region:4.9",
-      "title": "M 4.9, Timor Region",
-      "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

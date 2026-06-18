@@ -1,41 +1,246 @@
 {
-  "generated_at": "2026-06-18T08:47:58+00:00",
+  "generated_at": "2026-06-18T14:33:45+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 13,
-    "clusters": 12,
-    "cross_source_confrmed": 0,
-    "hot": 4
+    "findings": 213,
+    "clusters": 69,
+    "cross_source_confrmed": 5,
+    "hot": 14,
+    "early_signals": 32,
+    "dominance_penalized": 10
   },
   "clusters": [
     {
-      "key": "github_repo:chaitanyaeswarrajeshjakki/gemini-youtube-automation",
-      "title": "ChaitanyaEswarRajeshJakki/gemini-youtube-automation",
+      "key": "domain:snyk.io",
+      "title": "The full Snyk AI Security Platform, free for open source maintainers",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "Snyk Security Blog"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation"
+        "https://snyk.io/blog/secure-developer-program/"
       ],
       "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
+      "max_score": 34,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 27.1,
+      "network_score": 43.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 39.1,
+      "ranking_score": 43.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.federalreserve.gov",
+      "title": "Bowman, Artificial Intelligence in the Financial System",
+      "sources": [
+        "Federal Reserve Monetary Policy Press Releases",
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15",
+        "Federal Reserve Speeches and Testimony"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/bowman20260505a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+        "http://www.federalreserve.gov/feeds/H15.html#3813",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+      ],
+      "finding_count": 44,
+      "max_score": 21,
+      "credibility_total": 46.2,
+      "cross_source_confirmed": true,
+      "momentum_delta": 44,
+      "momentum_status": "increasing",
+      "network_score": 42.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 255.4,
+      "ranking_score": 42.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 10.5,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+        "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+        "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
+        "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+        "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/"
+      ],
+      "finding_count": 8,
+      "max_score": 23,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 8,
+      "momentum_status": "increasing",
+      "network_score": 37.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "narrative_social_reputation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 63.8,
+      "ranking_score": 37.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T21:31:36+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
+      "sources": [
+        "BIS Central Bankers Speeches",
+        "BIS Press Releases",
+        "BIS Statistical Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/review/r260618f.htm",
+        "https://www.bis.org/review/r260616g.htm",
+        "https://www.bis.org/press/p260602.htm",
+        "https://www.bis.org/statistics/pp_residential_2605.htm",
+        "https://www.bis.org/press/p260520.htm",
+        "https://www.bis.org/statistics/rppb2604.htm"
+      ],
+      "finding_count": 45,
+      "max_score": 18,
+      "credibility_total": 47.25,
+      "cross_source_confirmed": true,
+      "momentum_delta": 45,
+      "momentum_status": "increasing",
+      "network_score": 37.0,
+      "hot": true,
+      "watchgraph_modules": [
+        "capitals_power_centers",
+        "public_health_biosecurity"
+      ],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 255.5,
+      "ranking_score": 37.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 8.0,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Euro area monthly balance of payments: April 2026",
+      "sources": [
+        "ECB Euro Area Yield Curve",
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews",
+        "ECB Statistical Press Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260618~e4d92a6f16.en.html",
+        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260051.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260050.en.html"
+      ],
+      "finding_count": 43,
+      "max_score": 12,
+      "credibility_total": 45.15,
+      "cross_source_confirmed": true,
+      "momentum_delta": 43,
+      "momentum_status": "increasing",
+      "network_score": 33.5,
       "hot": true,
       "watchgraph_modules": [
         "energy_oil_gas_power_uranium"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 241.3,
+      "ranking_score": 33.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 10.5,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "github_repo:shinpr/claude-code-workflows",
-      "title": "shinpr/claude-code-workflows",
+      "key": "github_repo:henrydaum/second-brain",
+      "title": "henrydaum/second-brain",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -43,32 +248,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/shinpr/claude-code-workflows"
-      ],
-      "finding_count": 1,
-      "max_score": 22,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:kawayiyokami/p-ai",
-      "title": "kawayiYokami/P-ai",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/kawayiYokami/P-ai"
+        "https://github.com/henrydaum/second-brain"
       ],
       "finding_count": 1,
       "max_score": 21,
@@ -76,16 +256,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 25.1,
+      "network_score": 31.9,
       "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 25.1,
+      "ranking_score": 31.9,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "github_repo:netease-youdao/lobsterai",
-      "title": "netease-youdao/LobsterAI",
+      "key": "github_repo:triggerdotdev/trigger.dev",
+      "title": "triggerdotdev/trigger.dev",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -93,30 +286,1315 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/netease-youdao/LobsterAI"
+        "https://github.com/triggerdotdev/trigger.dev"
       ],
       "finding_count": 1,
-      "max_score": 19,
+      "max_score": 22,
       "credibility_total": 0.55,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 23.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "network_score": 30.9,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 26.1,
+      "ranking_score": 30.9,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "earthquake:philippines:5.0",
-      "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
+      "key": "title:tunisi-avvocati-sciopero-protesta-davanti-palazzo-giustizia",
+      "title": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.laregione.ch/estero/estero/1933207/giustizia-avvocati-diritto-mobilitazione-protesta-palazzo-tunisi-sciopero",
+        "https://www.laregione.ch/estero/estero/1933207/giustizia-avvocati-diritto-mobilitazione-protesta-palazzo-tunisi-sciopero"
+      ],
+      "finding_count": 2,
+      "max_score": 14,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 28.3,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 24.2,
+      "ranking_score": 28.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:boardofgovernors.gov1.qualtrics.com",
+      "title": "Federal Reserve Board seeks DDP users for online survey",
+      "sources": [
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.federalreserve.gov/feeds/H15.html#3507",
+        "http://www.federalreserve.gov/feeds/H15.html#3086",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3507",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3086"
+      ],
+      "finding_count": 4,
+      "max_score": 11,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": true,
+      "momentum_delta": 4,
+      "momentum_status": "increasing",
+      "network_score": 27.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 37.4,
+      "ranking_score": 27.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:tensione-kuvendin-shqip-ris-balla-sali-berisha-sfidoj",
+      "title": "Tensione në Kuvendin e Shqipërisë , Balla : Sali Berisha të sfidoj , dil sot në protestë",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zeri.info/aktuale/626962/tensione-ne-kuvendin-e-shqiperise-balla-sali-berisha-te-sfidoj-dil-sot-ne-proteste/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 25.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:kohajone.com",
+      "title": "Balla i përgjigjet Berishës : Shko në protestë po ta mbajti !",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://kohajone.com/lajme/balla-i-pergjigjet-berishes-shko-ne-proteste-po-ta-mbajti/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 25.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:federalreserve.gov",
+      "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+      "sources": [
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.federalreserve.gov/feeds/H15.html#3793",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3793"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 25.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.2,
+      "ranking_score": 25.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "url:https://lenta.ru/news/2026/06/18/minsk-vruchil-predstavitelyu-kieva-notu-protesta-iz-za-udara-vsu-po-avtobusu-s-detmi/",
+      "title": "Минск вручил представителю Киева ноту протеста из - за удара ВСУ по автобусу с детьми",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://lenta.ru/news/2026/06/18/minsk-vruchil-predstavitelyu-kieva-notu-protesta-iz-za-udara-vsu-po-avtobusu-s-detmi/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 24.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 24.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:russian.rt.com",
+      "title": "МИД Белоруссии вручил поверенному Украины ноту протеста из - за атаки на автобус",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://russian.rt.com/ussr/news/1645801-belorussiya-mid-ukraina-protest"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 24.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 24.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.chinatimes.com",
+      "title": "《 國際政治 》 沒看錯 ！ 談殲滅飛彈 川普 ： 對伊朗不公平 - 財經",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.chinatimes.com/realtimenews/20260618003928-260410"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 24.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 24.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "github_repo:eracle/openoutreach",
+      "title": "eracle/OpenOutreach",
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "source_classes": [
+        "tier5_generic_repo"
+      ],
+      "urls": [
+        "https://github.com/eracle/OpenOutreach"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 0.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.9,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 19.1,
+      "ranking_score": 23.9,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "github_repo:appiumtestdistribution/appclaw",
+      "title": "AppiumTestDistribution/AppClaw",
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "source_classes": [
+        "tier5_generic_repo"
+      ],
+      "urls": [
+        "https://github.com/AppiumTestDistribution/AppClaw"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 0.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.9,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 19.1,
+      "ranking_score": 23.9,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.willmarradio.com",
+      "title": "Drought conditions persist , despite rain",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.willmarradio.com/news/drought-conditions-persist-despite-rain/article_e6ab7615-e9c0-4924-8065-8576b61ab8fc.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.8,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 23.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.prnewswire.com",
+      "title": "Wildfire Pro Shop , Inc . Launches General Contractor Wildfire Defense Program -- First Installation Now Underway in Grizzly Ranch",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.prnewswire.com/news-releases/wildfire-pro-shop-inc-launches-general-contractor-wildfire-defense-program--first-installation-now-underway-in-grizzly-ranch-302803909.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.8,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 23.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.haberler.com",
+      "title": "Arnavutlukta muhalefet milletvekilleri meclis kürsüsünü bloke etti",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.haberler.com/guncel/arnavutluk-ta-muhalefet-meclisi-bloke-etti-19963489-haberi/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:news.cnnb.com",
+      "title": "美伊签署谅解备忘录 后续谈判可能面临哪些障碍 ？- 新闻中心 - 中国宁波网",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://news.cnnb.com.cn/system/2026/06/18/030784384.shtml"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.africanews.com",
+      "title": "Benin and Niger formalise commitment to reopening shared border",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.africanews.com/2026/06/18/benin-and-niger-formalise-commitment-to-reopening-shared-border/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:blokaderi-otvoreno-najavljuju-haos-izborni-dan-prete-krvoproli",
+      "title": "BLOKADERI OTVORENO NAJAVLJUJU HAOS NA IZBORNI DAN : Prete krvoprolićem ako im se ne preda vlast",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.novosti.rs/vesti/politika/1619464/blokaderi-otvoreno-najavljuju-haos-izborni-dan-prete-krvoprolicem-ako-preda-vlast"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:24-ore.com",
+      "title": "Pas heqjes së sanksioneve nga SHBA - ja , a është rikthyer vërtet Sali Berisha ?",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://24-ore.com/pas-heqjes-se-sanksioneve-nga-shba-ja-a-eshte-rikthyer-vertet-sali-berisha/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.nbd.com",
+      "title": "被控涉诈 ， 可能被美国制裁 ， 柬埔寨副总理苏速卡重金聘律师抗辩 ！ 其曾参股陈志金贝集团 ， 工作职责为打击网诈和人口贩卖",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nbd.com.cn/articles/2026-06-18/4431154.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:recordeuropa.com",
+      "title": "Greve nas escolas encerra alguns estabelecimentos mas não afeta exames nacionais",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://recordeuropa.com/noticias/portugal/greve-nas-escolas-encerra-alguns-estabelecimentos-mas-nao-afeta-exames-nacionais-18-06-2026-341643"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:greve-nas-escolas-afeta-exames-nacionais-observador",
+      "title": "Greve nas escolas não afeta exames nacionais – Observador",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://observador.pt/2026/06/18/greve-nas-escolas-encerra-alguns-establecimentos-mas-nao-afeta-exames-nacionais/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:news.ifeng.com",
+      "title": "因曾持股陈志电诈集团 ， 柬埔寨副总理或被美方制裁 ， 本人已花28 . 5万美元请律师",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.ifeng.com/c/8u3jbs6bbAI"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.dw.com",
+      "title": "Европарламент призвал Минск освободить всех политзаключенных",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.dw.com/ru/evroparlament-prizval-minsk-osvobodit-vseh-politzaklucennyh/a-77603135"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.cna.com",
+      "title": "韓國選票短缺事件 國會啟動45天調查釐清原因 | 國際",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cna.com.tw/news/aopl/202606180216.aspx"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:ntettek-tan-gyi-szakszervezetek-2026-nius",
+      "title": "Tüntettek a tanügyi szakszervezetek - 2026 . június 18 ., csütörtök",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.3szek.ro/load/cikk/181370/tuntettek-a-tanugyi-szakszervezetek"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "url:https://www.dailynews.co.th/news/5956637/",
+      "title": "รัฐสภาเกาหลีใต้เปิดการสอบสวน ปมบัตรเลือกตั้งท้องถิ่นขาดแคลนกว่า 90 หน่วย",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.dailynews.co.th/news/5956637/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:berisha-foltore-deputet-tij-rrethojn-dhe-rplasen-peleshin",
+      "title": "Berisha në foltore , deputetët e tij e rrethojnë dhe përplasen me Peleshin , kreu i PD : Të vijë Rama këtu",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://top-channel.tv/2026/06/18/berisha-ne-foltore-deputetet-e-tij-e-rrethojne-dhe-perplasen-me-peleshin-kreu-i-pd-te-vije-rama-ketu/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.busan.com",
+      "title": "[ 속보 ] 국회 , 투표용지 부족 국정조사 계획서 의결 … 45일간 진행",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.busan.com/view/busan/view.php?code=2026061814483363702"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.3dmgame.com",
+      "title": "《 钢铁雄心IV 》 全新战区包 《 门前惊雷 》 上线 _ 3DM单机",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.3dmgame.com/news/202606/3946670.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:udn.com",
+      "title": "陽台有鴿子築巢怎麼辦 ？ 驅鳥妙招網推 「 這神物 」 最有效 | 生活新聞 | 生活",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://udn.com/news/story/7266/9566953"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.eurointegration.com",
+      "title": "У Британії почалися вирішальні для майбутнього Стармера довибори у парламент",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.eurointegration.com.ua/news/2026/06/18/7239911/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:regional.kompas.com",
+      "title": "Listrik Padam di Sejumlah Wilayah Tangerang , PLN Sebut Ada Penurunan Kapasitas Suplai",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://regional.kompas.com/read/2026/06/18/203003778/listrik-padam-di-sejumlah-wilayah-tangerang-pln-sebut-ada-penurunan",
+        "https://regional.kompas.com/read/2026/06/18/185813978/pengelola-wisata-tawangmangu-keluhkan-listrik-padam-biaya-solar-genset"
+      ],
+      "finding_count": 2,
+      "max_score": 6,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 18.8,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 16.2,
+      "ranking_score": 18.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:indonesia:4.0",
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
       "sources": [
         "GDACS All Events Last 24h"
       ],
       "source_classes": [
+        "emergency_official",
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547262"
       ],
       "finding_count": 1,
       "max_score": 16,
@@ -124,61 +1602,27 @@
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 21.7,
+      "network_score": 17.9,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:timor-leste 18:4.0",
-      "title": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:russian federation:unknown",
-      "title": "Green forest fire notification in Russian Federation",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961",
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960"
-      ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 19.4,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 21.7,
+      "ranking_score": 17.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "domain:electionbettingodds.com",
@@ -198,71 +1642,403 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.1,
+      "network_score": 16.5,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest",
         "public_health_biosecurity"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T00:36:09+00:00"
     },
     {
-      "key": "github_repo:0xplaygrounds/rig",
-      "title": "0xPlaygrounds/rig",
+      "key": "earthquake:andreanof islands:unknown",
+      "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GDACS All Events Last Week"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "emergency_official",
+        "tier1_official"
       ],
       "urls": [
-        "https://github.com/0xPlaygrounds/rig"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
       ],
       "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 0.55,
+      "max_score": 14,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 17.1,
+      "network_score": 15.9,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 19.7,
+      "ranking_score": 15.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "github_repo:joanium/joanium",
-      "title": "Joanium/Joanium",
+      "key": "earthquake:fiji islands region 18:4.0",
+      "title": "Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GDACS All Events Last 24h"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "emergency_official",
+        "tier1_official"
       ],
       "urls": [
-        "https://github.com/Joanium/Joanium"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547244"
       ],
       "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 0.55,
+      "max_score": 14,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 17.1,
+      "network_score": 15.9,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 19.7,
+      "ranking_score": 15.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "earthquake:m 4.8, timor region:4.8",
-      "title": "M 4.8, Timor Region",
+      "key": "title:generated-release-notes-credit-you-copilot-pull-requests",
+      "title": "Generated release notes credit you for Copilot pull requests",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:m 4.6, gaspe peninsula, canada:4.6",
+      "title": "M 4.6, Gaspe Peninsula, Canada",
       "sources": [
         "GEOFON/GFZ Global Recent Earthquakes RSS"
       ],
       "source_classes": [
+        "emergency_official",
         "tier1_official"
       ],
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lway"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.7,
+      "ranking_score": 13.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:chile:3.6",
+      "title": "M 3.6, Chile-Bolivia Border Region",
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvwm"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.7,
+      "ranking_score": 13.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:alaska:5.0",
+      "title": "M 5.0 - 211 km WSW of Adak, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000subg"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.ecoticias.com",
+      "title": "La IA vigila incendios forestales en Collserola en una prueba clave para proteger Barcelona",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecoticias.com/medio-ambiente/la-ia-vigila-incendios-forestales-en-collserola-en-una-prueba-clave-para-proteger-barcelona",
+        "https://www.ecoticias.com/cambio-climatico/asia-se-calienta-el-doble-de-rapido-que-el-resto-del-planeta"
+      ],
+      "finding_count": 2,
+      "max_score": 6,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 12.8,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 16.2,
+      "ranking_score": 12.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:wartakota.tribunnews.com",
+      "title": "Pancoran Mas Depok Kembali Alami Pemadaman Listrik , Warga Ramai Berburu Lilin",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wartakota.tribunnews.com/depok/892976/pancoran-mas-depok-kembali-alami-pemadaman-listrik-warga-ramai-berburu-lilin",
+        "https://wartakota.tribunnews.com/depok/892972/listrik-padam-di-pancoran-mas-depok-warga-ramai-ramai-beli-lilin-hingga-pedagang-kehabisan-stok"
+      ],
+      "finding_count": 2,
+      "max_score": 6,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 12.8,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 16.2,
+      "ranking_score": 12.8,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.prnasia.com",
+      "title": "NX China将亮相第四届中国国际供应链促进博览会 ( CISCE )- 美通社PR - Newswire",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.prnasia.com/lightnews/lightnews-1-77-96972.shtml"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:m 5.0, andreanof islands, aleutian islands:5.0",
+      "title": "M 5.0, Andreanof Islands, Aleutian Islands",
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwae"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -270,24 +2046,40 @@
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.7,
+      "network_score": 11.9,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 15.7,
+      "ranking_score": 11.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "earthquake:m 4.9, timor region:4.9",
-      "title": "M 4.9, Timor Region",
+      "key": "earthquake:m 5.0, fiji islands region:5.0",
+      "title": "M 5.0, Fiji Islands Region",
       "sources": [
         "GEOFON/GFZ Global Recent Earthquakes RSS"
       ],
       "source_classes": [
+        "emergency_official",
         "tier1_official"
       ],
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvxe"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -295,12 +2087,739 @@
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.7,
+      "network_score": 11.9,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 15.7,
+      "ranking_score": 11.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:indonesia:4.6",
+      "title": "M 4.6 - 50 km ESE of Palu, Indonesia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000subc"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:news.southcn.com",
+      "title": "一天三场特大暴雨 ， 汕尾陆丰 零伤亡 背后的省市联动调度 _ 南方网",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.southcn.com/node_de9aedeec1/d7141a8a86.shtml"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:psoe-exige-una-auditor-independiente-sobre-medios-condiciones",
+      "title": "El PSOE exige una auditoría independiente sobre medios y condiciones laborales de Infoca",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.huelvainformacion.es/huelva/psoe-exige-auditoria-independiente-medios-condiciones-laborales-infoca_0_2007092893.html"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:psoe-urge-una-auditor-medios-del-infoca-alerta",
+      "title": "PSOE - A urge una auditoría de medios del Infoca y alerta de su precariedad ante una posible ola de calor",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.europapress.es/andalucia/huelva-00354/noticia-psoe-urge-auditoria-medios-infoca-alerta-precariedad-posible-ola-calor-20260618120921.html"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "url:http://www.81.cn/ss_208539/16468315.html",
+      "title": "张国清在福建调研时强调 提升重点产业链自主可控水平 更好发挥标准引领保障作用",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.81.cn/ss_208539/16468315.html"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:bandung.kompas.com",
+      "title": "Mati Listrik 3 Jam di Gegerkalong Bandung , Pedagang Es hingga Laundry Kelimpungan",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://bandung.kompas.com/read/2026/06/18/191504778/mati-listrik-3-jam-di-gegerkalong-bandung-pedagang-es-hingga-laundry"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:news.dayoo.com",
+      "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责 _ 广州日报大洋网",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.dayoo.com/society/202606/18/140000_54971441.htm"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.cqnews.net",
+      "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cqnews.net/web/content_1517218600172752896.html"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:news.ycwb.com",
+      "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.ycwb.com/ikimvkmtjc/content_54183221.htm"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:berita.liputan6.com",
+      "title": "Listrik Bogor Utara Padam , Ini Penyebab dan Wilayah Terdampak",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://berita.liputan6.com/megapolitan/read/7893098/listrik-bogor-utara-padam-ini-penyebab-dan-wilayah-terdampak"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:medan.tribunnews.com",
+      "title": "Brimob Sumut Turun Tangan Saat Kebakaran Hanguskan Ratusan Kios Pasar Dwikora",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://medan.tribunnews.com/polda-sumut/1799710/brimob-sumut-turun-tangan-saat-kebakaran-hanguskan-ratusan-kios-pasar-dwikora"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:news.ch7.com",
+      "title": "ข่าวครม . เดินหน้าแก้น้ำท่วมระยอง อนุมัติงบ 4 . 4 พันล้านบาท สร้างคลองผันน้ำ ปกป้องเมืองศก . EEC",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.ch7.com/detail/879843"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:www.setn.com",
+      "title": "赤道出現 「 罕見規模洋流 」 鄭明典 ： 即將見證超強聖嬰 | 生活 | 三立新聞網 SETN . COM",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.setn.com/News.aspx?NewsID=1858539"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:situation-est-devenue-intenable-pourquoi-lessor-lia-faire",
+      "title": "La situation est devenue intenable … Pourquoi lessor de lIA va faire grimper le prix des iPhone",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.20minutes.fr/economie/4229771-20260618-situation-devenue-intenable-pourquoi-essor-ia-va-faire-grimper-prix-iphone"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:surabaya.kompas.com",
+      "title": "Listrik Padam 3 Jam , Warga Pasuruan : Jangan Lama - lama , ASI Bisa Rusak",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://surabaya.kompas.com/read/2026/06/18/155748978/listrik-padam-3-jam-warga-pasuruan-jangan-lama-lama-asi-bisa-rusak"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:apindo-pengusaha-resah-dan-khawatir-hadapi-pemadaman-listrik",
+      "title": "Apindo : Pengusaha Resah dan Khawatir Hadapi Pemadaman Listrik Berulang",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://industri.kontan.co.id/news/apindo-pengusaha-resah-dan-khawatir-hadapi-pemadaman-listrik-berulang"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:apple-patron-marque-tim-cook-vient-que-boom",
+      "title": "Apple : le patron de la marque Tim Cook prévient que le boom de lintelligence artificielle va faire grimper le prix des iPhone",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "global_media_monitor",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/apple-le-patron-de-la-marque-tim-cook-previent-que-le-boom-de-l-intelligence-artificielle-va-faire-grimper-le-prix-des-iphone-29544077.php"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.3,
+      "initial_reach_tier": "broad_sensor",
+      "source_reach_score": 3.0,
+      "authority_bonus_capped": 1.8,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "storm:watchgraph",
+      "title": "There are no tropical cyclones at this time.",
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.nhc.noaa.gov/"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 7.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 7.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     }
-  ]
+  ],
+  "resonance_ranking": {
+    "schema_version": 1,
+    "generated_at": "2026-06-18T14:33:45Z",
+    "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+    "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+  }
 }

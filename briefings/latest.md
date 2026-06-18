@@ -1,133 +1,304 @@
 # Senna Briefing
 
-_Generiert: 2026-06-18T08:47:58+00:00_
+_Generiert: 2026-06-18T14:33:45+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „ChaitanyaEswarRajeshJakki/gemini-youtube-automation“ aus GitHub Search Breakout AI Tools (Score 23, opportunity). 7 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+213 neue relevante Treffer. Stärkstes Signal: „The full Snyk AI Security Platform, free for open source maintainers“ aus Snyk Security Blog (Score 34, mixed). 10 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **The full Snyk AI Security Platform, free for open source maintainers** — Score 34, mixed — [Quelle](https://snyk.io/blog/secure-developer-program/)
+  - Quelle: Snyk Security Blog / `rss`
+  - Zeit: published `2026-06-18T04:00:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI security, AI/KI, GitHub, Open Source, Security, Snyk
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+5.0); AI/KI (+7.0); Security (+8.4); Open Source (+5.6); Snyk (+3.4); AI security (+2.8); recent (+2.0)
+  - Kurz: Open source maintainers are drowning in real vulnerability reports and need help prioritizing, fixing, and shipping remediation faster. Snyk’s Secure Developer Program gives qualifying projects free access to the Snyk AI Security Platform.
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Priorität Mittel
 
-- **ChaitanyaEswarRajeshJakki/gemini-youtube-automation** — Score 23, opportunity — [Quelle](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation)
+- **5 reasons Microsoft 365 backup isn’t enough for business data protection** — Score 23, observation — [Quelle](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
+  - Quelle: BleepingComputer Security / `rss`
+  - Zeit: published `2026-06-18T13:48:56+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: Datenschutz, GitHub Actions, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.0); Security (+7.2); Datenschutz (+8.4); recent (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **triggerdotdev/trigger.dev** — Score 22, opportunity — [Quelle](https://github.com/triggerdotdev/trigger.dev)
   - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T08:43:37+00:00`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: AI Agents, AI/KI, automation, GitHub, Watchgraph:energy_oil_gas_power_uranium
-  - Watchgraph: energy_oil_gas_power_uranium
-  - Markt-/Kontextkorb: XOM, CVX, SHEL, TTE, BP, CCJ, ENB, SU, EQNR, URA
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+3.4); recent (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
-  - Kurz: A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **shinpr/claude-code-workflows** — Score 22, opportunity — [Quelle](https://github.com/shinpr/claude-code-workflows)
-  - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T08:46:17+00:00`, fetched `2026-06-18T08:46:54+00:00`
+  - Zeit: published `2026-06-18T13:47:13+00:00`, fetched `2026-06-18T14:31:47+00:00`
   - Treffer: AI Agents, AI/KI, GitHub, Watchgraph:ai_agents_workflow
   - Watchgraph: ai_agents_workflow
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: Production-ready development workflows for Claude Code, powered by specialized AI agents.
+  - Kurz: Trigger.dev – build and deploy fully‑managed AI agents and workflows
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **kawayiYokami/P-ai** — Score 21, opportunity — [Quelle](https://github.com/kawayiYokami/P-ai)
+- **henrydaum/second-brain** — Score 21, opportunity — [Quelle](https://github.com/henrydaum/second-brain)
   - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T08:45:10+00:00`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: AI/KI, automation, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **netease-youdao/LobsterAI** — Score 19, observation — [Quelle](https://github.com/netease-youdao/LobsterAI)
-  - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T08:12:33+00:00`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: AI Agents, AI/KI, GitHub
+  - Zeit: published `2026-06-18T14:24:13+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI Agents, AI/KI, automation, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messaging platforms.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Bowman, Artificial Intelligence in the Financial System** — Score 21, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-05-01T18:00:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI/KI, Federal Reserve, financial stability, Security, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+7.0); Security (+6.0); Federal Reserve (+2.0); speech (+2.4); testimony (+2.0); financial stability (+2.0)
+  - Kurz: Speech At the Financial Stability Oversight Council Artificial Intelligence Series Roundtable on Cybersecurity and Risk Management, Washington, D.C.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214)
+- **Rosanna Costa: Presentation of the Financial Stability Report First Half 2026** — Score 18, observation — [Quelle](https://www.bis.org/review/r260618f.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-18T06:42:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: BIS, central bank, financial stability, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+7.0); BIS (+2.4); financial stability (+2.8); central bank (+2.0); recent (+2.0); watchgraph region south_america: Chile (+2.0)
+  - Kurz: Presentation by Ms Rosanna Costa, Governor of the Central Bank of Chile, of Central Bank of Chile's Financial Stability Report First Half 2026 before the Finance Commission of the Honorable Senate of the Republic, Santiago de Chile, 19 May 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ShapedPlugin update flow hacked to infect WordPress sites** — Score 17, risk — [Quelle](https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/)
+  - Quelle: BleepingComputer Security / `rss`
+  - Zeit: published `2026-06-18T12:55:36+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: Security, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.2); Supply Chain Security (+8.0); recent (+2.0)
+  - Kurz: Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.** — Score 16, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547262)
   - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-06-18T07:14:52+00:00`, fetched `2026-06-18T08:46:54+00:00`
+  - Zeit: published `2026-06-18T14:02:32+00:00`, fetched `2026-06-18T14:31:47+00:00`
   - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: On 6/18/2026 6:57:37 AM, an earthquake occurred in Philippines potentially affecting 3 million in 100km. The earthquake had Magnitude 5.3M, Depth:95.287km.
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/18/2026 1:39:05 PM, an earthquake occurred in Indonesia potentially affecting 1.5 million in 100km. The earthquake had Magnitude 4.6M, Depth:10km.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Bowman, A Coordinated Approach to Consumer Fraud Protection** — Score 16, risk — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260505a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-05-05T14:00:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: Federal Reserve, Reputationsrisiko, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Reputationsrisiko (+9.8); Federal Reserve (+2.0); speech (+2.4); testimony (+2.0)
+  - Kurz: Speech At the 2026 Women in Housing and Finance Symposium, Washington, D.C.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Election Betting Odds by Maxim Lott and John Stossel** — Score 15, observation — [Quelle](https://electionbettingodds.com/)
   - Quelle: Election Betting Odds Public Watch / `webpage_check`
-  - Zeit: published `2026-06-18T08:46:08+00:00`, fetched `2026-06-18T08:46:54+00:00`
+  - Zeit: published `2026-06-18T14:29:50+00:00`, fetched `2026-06-18T14:31:47+00:00`
   - Treffer: election, odds, Watchgraph:elections_unrest, Watchgraph:public_health_biosecurity
   - Watchgraph: elections_unrest, public_health_biosecurity
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
   - Warum relevant: election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)
   - Kurz: Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.** — Score 14, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547217)
-  - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-06-18T08:14:23+00:00`, fetched `2026-06-18T08:46:54+00:00`
+- **eracle/OpenOutreach** — Score 15, opportunity — [Quelle](https://github.com/eracle/OpenOutreach)
+  - Quelle: GitHub Search Breakout AI Tools / `github_search`
+  - Zeit: published `2026-06-18T13:49:10+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI/KI, automation, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: Linkedin Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **AppiumTestDistribution/AppClaw** — Score 15, opportunity — [Quelle](https://github.com/AppiumTestDistribution/AppClaw)
+  - Quelle: GitHub Search Breakout AI Tools / `github_search`
+  - Zeit: published `2026-06-18T13:37:58+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI/KI, automation, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: AI-powered mobile automation agent — describe what you want in plain English, AppClaw reads the screen, reasons, and acts. LLM-agnostic, open-source, zero telemetry.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].** — Score 14, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263)
+  - Quelle: GDACS All Events Last Week / `rss`
+  - Zeit: published `2026-06-18T14:05:38+00:00`, fetched `2026-06-18T14:31:47+00:00`
   - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: On 6/18/2026 7:26:43 AM, an earthquake occurred in Timor-Leste potentially affecting 560 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:21.07km.
+  - Kurz: On 6/18/2026 1:58:28 PM, an earthquake occurred in Andreanof Islands, Aleutian Is. potentially affecting [unknown]. The earthquake had Magnitude 5M, Depth:35.299km.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **0xPlaygrounds/rig** — Score 13, observation — [Quelle](https://github.com/0xPlaygrounds/rig)
-  - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T08:24:44+00:00`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: AI/KI, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- **Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia** — Score 14, observation — [Quelle](http://www.laregione.ch/estero/estero/1933207/giustizia-avvocati-diritto-mobilitazione-protesta-palazzo-tunisi-sciopero)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T13:45:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, protest, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); protest (+3.4); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia** — Score 14, observation — [Quelle](https://www.laregione.ch/estero/estero/1933207/giustizia-avvocati-diritto-mobilitazione-protesta-palazzo-tunisi-sciopero)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T13:00:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, protest, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); protest (+3.4); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.** — Score 14, risk — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547244)
+  - Quelle: GDACS All Events Last 24h / `rss`
+  - Zeit: published `2026-06-18T12:49:04+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: earthquake, GitHub, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: On 6/18/2026 12:29:17 PM, an earthquake occurred in Fiji Islands Region potentially affecting Few people affected in 100km. The earthquake had Magnitude 4.8M, Depth:606.102km.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
-- **M 4.9, Timor Region** — Score 10, risk — [Quelle](https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng)
-  - Quelle: GEOFON/GFZ Global Recent Earthquakes RSS / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: earthquake, GEOFON, GFZ, Watchgraph:earthquakes_tsunami
+- **M 5.0 - 211 km WSW of Adak, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000subg)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-18T14:29:28.078+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: earthquake, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: 2026-06-18 07:26:43 -8.80 126.51 10 km A
+  - Warum relevant: earthquake (+2.4); PAGER (+2.0); ShakeMap (+2.0); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-06-18 13:58:28 UTC 2026-06-18 13:58:28 UTC at epicenter Location 51.354°N 179.574°W Depth 35.30 km (21.93 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8, Timor Region** — Score 10, risk — [Quelle](https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq)
-  - Quelle: GEOFON/GFZ Global Recent Earthquakes RSS / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: earthquake, GEOFON, GFZ, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: 2026-06-18 07:38:29 -8.64 126.55 10 km A
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Green forest fire notification in Russian Federation** — Score 8, observation — [Quelle](https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028961)
-  - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-06-17T15:08:09+00:00`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); recent (+2.0)
-  - Kurz: On 07/06/2026, a forest fire started in Russian Federation, until 18/06/2026.
+- **美伊签署谅解备忘录 后续谈判可能面临哪些障碍 ？- 新闻中心 - 中国宁波网** — Score 11, observation — [Quelle](http://news.cnnb.com.cn/system/2026/06/18/030784384.shtml)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T13:45:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: 美伊签署谅解备忘录 后续谈判可能面临哪些障碍 ？- 新闻中心 - 中国宁波网
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Green forest fire notification in Russian Federation** — Score 8, observation — [Quelle](https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028960)
-  - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-06-17T15:02:37+00:00`, fetched `2026-06-18T08:46:54+00:00`
-  - Treffer: GitHub
+- **Arnavutlukta muhalefet milletvekilleri meclis kürsüsünü bloke etti** — Score 11, observation — [Quelle](https://www.haberler.com/guncel/arnavutluk-ta-muhalefet-meclisi-bloke-etti-19963489-haberi/)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T13:45:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: Arnavutlukta muhalefet milletvekilleri meclis kürsüsünü bloke etti
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Benin and Niger formalise commitment to reopening shared border** — Score 11, observation — [Quelle](https://www.africanews.com/2026/06/18/benin-and-niger-formalise-commitment-to-reopening-shared-border/)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T13:15:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: Benin and Niger formalise commitment to reopening shared border
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **BLOKADERI OTVORENO NAJAVLJUJU HAOS NA IZBORNI DAN : Prete krvoprolićem ako im se ne preda vlast** — Score 11, observation — [Quelle](https://www.novosti.rs/vesti/politika/1619464/blokaderi-otvoreno-najavljuju-haos-izborni-dan-prete-krvoprolicem-ako-preda-vlast)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T13:00:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: BLOKADERI OTVORENO NAJAVLJUJU HAOS NA IZBORNI DAN : Prete krvoprolićem ako im se ne preda vlast
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **被控涉诈 ， 可能被美国制裁 ， 柬埔寨副总理苏速卡重金聘律师抗辩 ！ 其曾参股陈志金贝集团 ， 工作职责为打击网诈和人口贩卖** — Score 11, observation — [Quelle](https://www.nbd.com.cn/articles/2026-06-18/4431154.html)
+  - Quelle: GDELT Politics Unrest Elections RSS / `rss`
+  - Zeit: published `2026-06-18T12:45:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: election, GDELT, unrest, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: 被控涉诈 ， 可能被美国制裁 ， 柬埔寨副总理苏速卡重金聘律师抗辩 ！ 其曾参股陈志金贝集团 ， 工作职责为打击网诈和人口贩卖
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Generated release notes credit you for Copilot pull requests** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-18T09:30:02+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); recent (+2.0)
-  - Kurz: On 12/06/2026, a forest fire started in Russian Federation, until 18/06/2026.
+  - Warum relevant: GitHub (+6.0); Copilot (+3.4); recent (+2.0)
+  - Kurz: When you generate release notes for a new release, the generated notes include a list of pull requests merged since the last release. For more information about automatically generating release… The post Generated release notes credit you for Copilot pull requests appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260053 (OT,liquidity providing):34.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)** — Score 11, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-17T09:50:21+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: ECB, liquidity, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: ECB (+2.4); open market operations (+2.0); liquidity (+2.8); recent (+2.0); watchgraph region europe: EU, ECB (+2.0)
+  - Kurz: 20260053 (OT,liquidity providing):34.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260052 (MRO,liquidity providing):15726.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)** — Score 11, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-17T09:50:21+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: ECB, liquidity, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: ECB (+2.4); open market operations (+2.0); liquidity (+2.8); recent (+2.0); watchgraph region europe: EU, ECB (+2.0)
+  - Kurz: 20260052 (MRO,liquidity providing):15726.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260051 (OT,liquidity providing):48.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)** — Score 11, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260051.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-17T09:50:21+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: ECB, liquidity, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: ECB (+2.4); open market operations (+2.0); liquidity (+2.8); recent (+2.0); watchgraph region europe: EU, ECB (+2.0)
+  - Kurz: 20260051 (OT,liquidity providing):48.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260050 (MRO,liquidity providing):12909.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)** — Score 11, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260050.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-17T09:50:21+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: ECB, liquidity, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: ECB (+2.4); open market operations (+2.0); liquidity (+2.8); recent (+2.0); watchgraph region europe: EU, ECB (+2.0)
+  - Kurz: 20260050 (MRO,liquidity providing):12909.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260049 (OT,liquidity providing):28.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)** — Score 11, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260049.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-17T09:50:21+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: ECB, liquidity, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: ECB (+2.4); open market operations (+2.0); liquidity (+2.8); recent (+2.0); watchgraph region europe: EU, ECB (+2.0)
+  - Kurz: 20260049 (OT,liquidity providing):28.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Tiff Macklem: Monetary Policy Decision** — Score 11, opportunity — [Quelle](https://www.bis.org/review/r260616c.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-16T11:00:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: BIS, central bank, monetary policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BIS (+2.4); monetary policy (+2.8); central bank (+2.0); recent (+2.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)
+  - Kurz: Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 10 June 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Marja Nykänen: Systemic risk in an age of uncertainty** — Score 11, opportunity — [Quelle](https://www.bis.org/review/r260616b.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-16T10:57:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI/KI, BIS, central bank
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+5.0); BIS (+2.4); central bank (+2.0); recent (+2.0)
+  - Kurz: Keynote address by Ms Marja Nykänen, Deputy Governor of the Bank of Finland, at the 11th Bank of Finland and European Systemic Risk Board joint conference "AI and systemic risk analytics", Helsinki, 4 June 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Frank Elderson: Strengthening operational resilience for the age of AI** — Score 11, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603~5b8e67f237.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-03T09:55:00+00:00`, fetched `2026-06-18T14:31:47+00:00`
+  - Treffer: AI/KI, ECB
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+7.0); ECB (+2.4); watchgraph region europe: EU, ECB (+2.0)
+  - Kurz: Frank Elderson: Strengthening operational resilience for the age of AI
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
@@ -143,3 +314,6 @@ Keine neuen Hochprioritäts-Treffer.
 - `reddit_security_burst` (reddit_json): 403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15
 - `prediction_market_public_watch` (webpage_check): Response exceeded max_bytes=500000
 - `kalshi_public_market_watch` (webpage_check): 429 Client Error: Too Many Requests for url: https://kalshi.com/markets
+- `oecd_newsroom_macro` (webpage_check): 403 Client Error: Forbidden for url: https://www.oecd.org/en/about/newsroom.html
+- `gdelt_macro_market_policy_rss` (rss): 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22central+bank%22+OR+inflation+OR+%22rate+cut%22+OR+%22rate+hike%22+OR+bonds+OR+recession+OR+tariff+OR+sanctions+OR+oil+OR+shipping%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel
+- `portswigger_research` (rss): 403 Client Error: Forbidden for url: https://portswigger.net/research/rss

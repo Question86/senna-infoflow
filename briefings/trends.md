@@ -1,12 +1,12 @@
 # Senna Trend Ranking
 
-- **ChaitanyaEswarRajeshJakki/gemini-youtube-automation** — `25.0` `emerging` `title:chaitanyaeswarrajeshjakki-gemini-youtube-automation`
-- **shinpr/claude-code-workflows** — `24.0` `emerging` `title:shinpr-claude-code-workflows`
-- **kawayiYokami/P-ai** — `23.0` `emerging` `title:kawayiyokami-p-ai`
-- **netease-youdao/LobsterAI** — `21.0` `emerging` `title:netease-youdao-lobsterai`
-- **Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.** — `18.0` `emerging` `earthquake:green-earthquake-magnitude-5.3m-depth:95.287km-in-philipp:5`
+- **The full Snyk AI Security Platform, free for open source maintainers** — `36.0` `emerging` `title:the-full-snyk-ai-security-platform-free-for-open-source-maintainers`
+- **5 reasons Microsoft 365 backup isn’t enough for business data protection** — `25.0` `emerging` `title:5-reasons-microsoft-365-backup-isn-t-enough-for-business-data-protection`
+- **triggerdotdev/trigger.dev** — `24.0` `emerging` `title:triggerdotdev-trigger.dev`
+- **henrydaum/second-brain** — `23.0` `emerging` `title:henrydaum-second-brain`
+- **Bowman, Artificial Intelligence in the Financial System** — `23.0` `emerging` `title:bowman-artificial-intelligence-in-the-financial-system`
+- **Rosanna Costa: Presentation of the Financial Stability Report First Half 2026** — `20.0` `emerging` `title:rosanna-costa:-presentation-of-the-financial-stability-report-first-half-2026`
+- **ShapedPlugin update flow hacked to infect WordPress sites** — `19.0` `emerging` `title:shapedplugin-update-flow-hacked-to-infect-wordpress-sites`
+- **Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.** — `18.0` `emerging` `earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-indonesia-1:4`
+- **Bowman, A Coordinated Approach to Consumer Fraud Protection** — `18.0` `emerging` `title:bowman-a-coordinated-approach-to-consumer-fraud-protection`
 - **Election Betting Odds by Maxim Lott and John Stossel** — `17.0` `mature` `title:election-betting-odds-by-maxim-lott-and-john-stossel`
-- **Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km.** — `16.0` `emerging` `earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4`
-- **0xPlaygrounds/rig** — `15.0` `emerging` `title:0xplaygrounds-rig`
-- **Joanium/Joanium** — `15.0` `emerging` `title:joanium-joanium`
-- **M 4.8, Timor Region** — `12.0` `emerging` `title:m-4.8-timor-region`

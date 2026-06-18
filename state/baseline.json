@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T08:47:58+00:00",
+  "generated_at": "2026-06-18T14:33:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -106,16 +106,17 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "updated_at": "2026-06-18T02:20:10+00:00",
+      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+      "updated_at": "2026-06-18T14:33:45+00:00",
       "network_scores": [
         16.1,
-        28.1
+        28.1,
+        63.8
       ],
-      "rolling_average": 22.1,
-      "rolling_peak": 28.1,
-      "last_score": 28.1,
-      "z_hint": 6.0
+      "rolling_average": 36.0,
+      "rolling_peak": 63.8,
+      "last_score": 63.8,
+      "z_hint": 27.8
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -318,7 +319,7 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T08:47:58+00:00",
+      "updated_at": "2026-06-18T14:33:45+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -326,12 +327,13 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.53,
+      "rolling_average": 17.47,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -772,6 +774,743 @@
       "rolling_average": 15.7,
       "rolling_peak": 15.7,
       "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "domain:www.bis.org": {
+      "title": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        255.5
+      ],
+      "rolling_average": 255.5,
+      "rolling_peak": 255.5,
+      "last_score": 255.5,
+      "z_hint": 0.0
+    },
+    "domain:www.federalreserve.gov": {
+      "title": "Bowman, Artificial Intelligence in the Financial System",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        255.4
+      ],
+      "rolling_average": 255.4,
+      "rolling_peak": 255.4,
+      "last_score": 255.4,
+      "z_hint": 0.0
+    },
+    "domain:www.ecb.europa.eu": {
+      "title": "Euro area monthly balance of payments: April 2026",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        241.3
+      ],
+      "rolling_average": 241.3,
+      "rolling_peak": 241.3,
+      "last_score": 241.3,
+      "z_hint": 0.0
+    },
+    "domain:snyk.io": {
+      "title": "The full Snyk AI Security Platform, free for open source maintainers",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        39.1
+      ],
+      "rolling_average": 39.1,
+      "rolling_peak": 39.1,
+      "last_score": 39.1,
+      "z_hint": 0.0
+    },
+    "domain:boardofgovernors.gov1.qualtrics.com": {
+      "title": "Federal Reserve Board seeks DDP users for online survey",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        37.4
+      ],
+      "rolling_average": 37.4,
+      "rolling_peak": 37.4,
+      "last_score": 37.4,
+      "z_hint": 0.0
+    },
+    "domain:federalreserve.gov": {
+      "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        28.2
+      ],
+      "rolling_average": 28.2,
+      "rolling_peak": 28.2,
+      "last_score": 28.2,
+      "z_hint": 0.0
+    },
+    "github_repo:triggerdotdev/trigger.dev": {
+      "title": "triggerdotdev/trigger.dev",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        26.1
+      ],
+      "rolling_average": 26.1,
+      "rolling_peak": 26.1,
+      "last_score": 26.1,
+      "z_hint": 0.0
+    },
+    "github_repo:henrydaum/second-brain": {
+      "title": "henrydaum/second-brain",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "title:tunisi-avvocati-sciopero-protesta-davanti-palazzo-giustizia": {
+      "title": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        24.2
+      ],
+      "rolling_average": 24.2,
+      "rolling_peak": 24.2,
+      "last_score": 24.2,
+      "z_hint": 0.0
+    },
+    "earthquake:indonesia:4.0": {
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        21.7
+      ],
+      "rolling_average": 21.7,
+      "rolling_peak": 21.7,
+      "last_score": 21.7,
+      "z_hint": 0.0
+    },
+    "earthquake:andreanof islands:unknown": {
+      "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        19.7
+      ],
+      "rolling_average": 19.7,
+      "rolling_peak": 19.7,
+      "last_score": 19.7,
+      "z_hint": 0.0
+    },
+    "earthquake:fiji islands region 18:4.0": {
+      "title": "Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        19.7
+      ],
+      "rolling_average": 19.7,
+      "rolling_peak": 19.7,
+      "last_score": 19.7,
+      "z_hint": 0.0
+    },
+    "github_repo:eracle/openoutreach": {
+      "title": "eracle/OpenOutreach",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "github_repo:appiumtestdistribution/appclaw": {
+      "title": "AppiumTestDistribution/AppClaw",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:tensione-kuvendin-shqip-ris-balla-sali-berisha-sfidoj": {
+      "title": "Tensione në Kuvendin e Shqipërisë , Balla : Sali Berisha të sfidoj , dil sot në protestë",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "domain:kohajone.com": {
+      "title": "Balla i përgjigjet Berishës : Shko në protestë po ta mbajti !",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "url:https://lenta.ru/news/2026/06/18/minsk-vruchil-predstavitelyu-kieva-notu-protesta-iz-za-udara-vsu-po-avtobusu-s-detmi/": {
+      "title": "Минск вручил представителю Киева ноту протеста из - за удара ВСУ по автобусу с детьми",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "domain:russian.rt.com": {
+      "title": "МИД Белоруссии вручил поверенному Украины ноту протеста из - за атаки на автобус",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "domain:www.chinatimes.com": {
+      "title": "《 國際政治 》 沒看錯 ！ 談殲滅飛彈 川普 ： 對伊朗不公平 - 財經",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.6, gaspe peninsula, canada:4.6": {
+      "title": "M 4.6, Gaspe Peninsula, Canada",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "earthquake:chile:3.6": {
+      "title": "M 3.6, Chile-Bolivia Border Region",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "domain:www.willmarradio.com": {
+      "title": "Drought conditions persist , despite rain",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:www.prnewswire.com": {
+      "title": "Wildfire Pro Shop , Inc . Launches General Contractor Wildfire Defense Program -- First Installation Now Underway in Grizzly Ranch",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "earthquake:alaska:5.0": {
+      "title": "M 5.0 - 211 km WSW of Adak, Alaska",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.7
+      ],
+      "rolling_average": 16.7,
+      "rolling_peak": 16.7,
+      "last_score": 16.7,
+      "z_hint": 0.0
+    },
+    "domain:regional.kompas.com": {
+      "title": "Listrik Padam di Sejumlah Wilayah Tangerang , PLN Sebut Ada Penurunan Kapasitas Suplai",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.2
+      ],
+      "rolling_average": 16.2,
+      "rolling_peak": 16.2,
+      "last_score": 16.2,
+      "z_hint": 0.0
+    },
+    "domain:www.ecoticias.com": {
+      "title": "La IA vigila incendios forestales en Collserola en una prueba clave para proteger Barcelona",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.2
+      ],
+      "rolling_average": 16.2,
+      "rolling_peak": 16.2,
+      "last_score": 16.2,
+      "z_hint": 0.0
+    },
+    "domain:wartakota.tribunnews.com": {
+      "title": "Pancoran Mas Depok Kembali Alami Pemadaman Listrik , Warga Ramai Berburu Lilin",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.2
+      ],
+      "rolling_average": 16.2,
+      "rolling_peak": 16.2,
+      "last_score": 16.2,
+      "z_hint": 0.0
+    },
+    "domain:www.haberler.com": {
+      "title": "Arnavutlukta muhalefet milletvekilleri meclis kürsüsünü bloke etti",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:news.cnnb.com": {
+      "title": "美伊签署谅解备忘录 后续谈判可能面临哪些障碍 ？- 新闻中心 - 中国宁波网",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.africanews.com": {
+      "title": "Benin and Niger formalise commitment to reopening shared border",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:blokaderi-otvoreno-najavljuju-haos-izborni-dan-prete-krvoproli": {
+      "title": "BLOKADERI OTVORENO NAJAVLJUJU HAOS NA IZBORNI DAN : Prete krvoprolićem ako im se ne preda vlast",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:24-ore.com": {
+      "title": "Pas heqjes së sanksioneve nga SHBA - ja , a është rikthyer vërtet Sali Berisha ?",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.nbd.com": {
+      "title": "被控涉诈 ， 可能被美国制裁 ， 柬埔寨副总理苏速卡重金聘律师抗辩 ！ 其曾参股陈志金贝集团 ， 工作职责为打击网诈和人口贩卖",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:recordeuropa.com": {
+      "title": "Greve nas escolas encerra alguns estabelecimentos mas não afeta exames nacionais",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:greve-nas-escolas-afeta-exames-nacionais-observador": {
+      "title": "Greve nas escolas não afeta exames nacionais – Observador",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:news.ifeng.com": {
+      "title": "因曾持股陈志电诈集团 ， 柬埔寨副总理或被美方制裁 ， 本人已花28 . 5万美元请律师",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.dw.com": {
+      "title": "Европарламент призвал Минск освободить всех политзаключенных",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.cna.com": {
+      "title": "韓國選票短缺事件 國會啟動45天調查釐清原因 | 國際",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:ntettek-tan-gyi-szakszervezetek-2026-nius": {
+      "title": "Tüntettek a tanügyi szakszervezetek - 2026 . június 18 ., csütörtök",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:generated-release-notes-credit-you-copilot-pull-requests": {
+      "title": "Generated release notes credit you for Copilot pull requests",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.dailynews.co.th/news/5956637/": {
+      "title": "รัฐสภาเกาหลีใต้เปิดการสอบสวน ปมบัตรเลือกตั้งท้องถิ่นขาดแคลนกว่า 90 หน่วย",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:berisha-foltore-deputet-tij-rrethojn-dhe-rplasen-peleshin": {
+      "title": "Berisha në foltore , deputetët e tij e rrethojnë dhe përplasen me Peleshin , kreu i PD : Të vijë Rama këtu",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.busan.com": {
+      "title": "[ 속보 ] 국회 , 투표용지 부족 국정조사 계획서 의결 … 45일간 진행",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.3dmgame.com": {
+      "title": "《 钢铁雄心IV 》 全新战区包 《 门前惊雷 》 上线 _ 3DM单机",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:udn.com": {
+      "title": "陽台有鴿子築巢怎麼辦 ？ 驅鳥妙招網推 「 這神物 」 最有效 | 生活新聞 | 生活",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.eurointegration.com": {
+      "title": "У Британії почалися вирішальні для майбутнього Стармера довибори у парламент",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.0, andreanof islands, aleutian islands:5.0": {
+      "title": "M 5.0, Andreanof Islands, Aleutian Islands",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.0, fiji islands region:5.0": {
+      "title": "M 5.0, Fiji Islands Region",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "earthquake:indonesia:4.6": {
+      "title": "M 4.6 - 50 km ESE of Palu, Indonesia",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "domain:www.prnasia.com": {
+      "title": "NX China将亮相第四届中国国际供应链促进博览会 ( CISCE )- 美通社PR - Newswire",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "storm:watchgraph": {
+      "title": "There are no tropical cyclones at this time.",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "domain:news.southcn.com": {
+      "title": "一天三场特大暴雨 ， 汕尾陆丰 零伤亡 背后的省市联动调度 _ 南方网",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:psoe-exige-una-auditor-independiente-sobre-medios-condiciones": {
+      "title": "El PSOE exige una auditoría independiente sobre medios y condiciones laborales de Infoca",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:psoe-urge-una-auditor-medios-del-infoca-alerta": {
+      "title": "PSOE - A urge una auditoría de medios del Infoca y alerta de su precariedad ante una posible ola de calor",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "url:http://www.81.cn/ss_208539/16468315.html": {
+      "title": "张国清在福建调研时强调 提升重点产业链自主可控水平 更好发挥标准引领保障作用",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:bandung.kompas.com": {
+      "title": "Mati Listrik 3 Jam di Gegerkalong Bandung , Pedagang Es hingga Laundry Kelimpungan",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:news.dayoo.com": {
+      "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责 _ 广州日报大洋网",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:www.cqnews.net": {
+      "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:news.ycwb.com": {
+      "title": "北京密云太师屯镇养老照料中心暴雨洪水特别重大灾害相关责任人被问责",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:berita.liputan6.com": {
+      "title": "Listrik Bogor Utara Padam , Ini Penyebab dan Wilayah Terdampak",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:medan.tribunnews.com": {
+      "title": "Brimob Sumut Turun Tangan Saat Kebakaran Hanguskan Ratusan Kios Pasar Dwikora",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:news.ch7.com": {
+      "title": "ข่าวครม . เดินหน้าแก้น้ำท่วมระยอง อนุมัติงบ 4 . 4 พันล้านบาท สร้างคลองผันน้ำ ปกป้องเมืองศก . EEC",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:www.setn.com": {
+      "title": "赤道出現 「 罕見規模洋流 」 鄭明典 ： 即將見證超強聖嬰 | 生活 | 三立新聞網 SETN . COM",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:situation-est-devenue-intenable-pourquoi-lessor-lia-faire": {
+      "title": "La situation est devenue intenable … Pourquoi lessor de lIA va faire grimper le prix des iPhone",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:surabaya.kompas.com": {
+      "title": "Listrik Padam 3 Jam , Warga Pasuruan : Jangan Lama - lama , ASI Bisa Rusak",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:apindo-pengusaha-resah-dan-khawatir-hadapi-pemadaman-listrik": {
+      "title": "Apindo : Pengusaha Resah dan Khawatir Hadapi Pemadaman Listrik Berulang",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:apple-patron-marque-tim-cook-vient-que-boom": {
+      "title": "Apple : le patron de la marque Tim Cook prévient que le boom de lintelligence artificielle va faire grimper le prix des iPhone",
+      "updated_at": "2026-06-18T14:33:45+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
       "z_hint": 0.0
     }
   }
