@@ -4,10 +4,9 @@ Scope: configured public sources after runtime overlay merge.
 
 ## Counts
 
-- Active sources: `47`
+- Active sources: `32`
 - base: `13`
 - hot: `9`
-- macro_policy: `15`
 - platform_dev: `8`
 - vendor_security: `2`
 
@@ -40,24 +39,6 @@ Scope: configured public sources after runtime overlay merge.
 - `usgs_m45_earthquakes_hour` — USGS M4.5+ Earthquakes Past Hour / `rss` / class `geoscience_institute` / host `earthquake.usgs.gov`
 - `usgs_significant_earthquakes` — USGS Significant Earthquakes / `rss` / class `-` / host `earthquake.usgs.gov`
 - `usgs_significant_earthquakes_hour` — USGS Significant Earthquakes Past Hour / `rss` / class `geoscience_institute` / host `earthquake.usgs.gov`
-
-### macro_policy
-
-- `bis_central_bank_speeches` — BIS Central Bankers Speeches / `rss` / class `central_bank_network` / host `www.bis.org`
-- `bis_press_releases` — BIS Press Releases / `rss` / class `central_bank_network` / host `www.bis.org`
-- `bis_statistics` — BIS Statistical Releases / `rss` / class `central_bank_network` / host `www.bis.org`
-- `ecb_open_market_operations` — ECB Open Market Operations and Communication / `rss` / class `central_bank` / host `www.ecb.europa.eu`
-- `ecb_press_policy` — ECB Press Releases Speeches Interviews / `rss` / class `central_bank` / host `www.ecb.europa.eu`
-- `ecb_statistical_press` — ECB Statistical Press Releases / `rss` / class `central_bank` / host `www.ecb.europa.eu`
-- `ecb_yield_curve` — ECB Euro Area Yield Curve / `rss` / class `central_bank` / host `www.ecb.europa.eu`
-- `fed_monetary_policy_press` — Federal Reserve Monetary Policy Press Releases / `rss` / class `central_bank` / host `www.federalreserve.gov`
-- `fed_policy_rates` — Federal Reserve Policy Rates Feed / `rss` / class `central_bank` / host `www.federalreserve.gov`
-- `fed_selected_interest_rates_h15` — Federal Reserve Selected Interest Rates H.15 / `rss` / class `central_bank` / host `www.federalreserve.gov`
-- `fed_speeches_testimony` — Federal Reserve Speeches and Testimony / `rss` / class `central_bank` / host `www.federalreserve.gov`
-- `gdelt_initial_disruption_rss` — GDELT Initial Disruption Resonance RSS / `rss` / class `global_media_monitor` / host `api.gdeltproject.org`
-- `gdelt_macro_market_policy_rss` — GDELT Macro Market Policy RSS / `rss` / class `global_media_monitor` / host `api.gdeltproject.org`
-- `gdelt_politics_unrest_elections_rss` — GDELT Politics Unrest Elections RSS / `rss` / class `global_media_monitor` / host `api.gdeltproject.org`
-- `oecd_newsroom_macro` — OECD Newsroom Macro and Policy Watch / `webpage_check` / class `policy_institution` / host `www.oecd.org`
 
 ### platform_dev
 
