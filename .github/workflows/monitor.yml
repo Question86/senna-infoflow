@@ -15,6 +15,7 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v5
 
@@ -24,26 +25,35 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
+        timeout-minutes: 2
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Merge source overlays
+        timeout-minutes: 1
         run: |
           python - <<'PY'
           import json
+          import os
+          from datetime import datetime, timezone
           from pathlib import Path
           import yaml
 
           base_path = Path("config/sources.yaml")
-          overlay_paths = [
-              Path("config/hot_sources.yaml"),
-              Path("config/macro_sources.yaml"),
-          ]
-
           base = yaml.safe_load(base_path.read_text(encoding="utf-8")) or {}
           base_sources = list(base.get("sources") or [])
           existing_ids = {str(source.get("id")) for source in base_sources if isinstance(source, dict)}
+
+          event_name = os.getenv("GITHUB_EVENT_NAME", "")
+          minute = datetime.now(timezone.utc).minute
+          include_macro = event_name == "workflow_dispatch" or minute % 15 == 0
+
+          overlay_paths = [Path("config/hot_sources.yaml")]
+          if include_macro:
+              overlay_paths.append(Path("config/macro_sources.yaml"))
+          else:
+              print("Macro overlay skipped for this 5-minute run; it runs every 15 minutes or on manual dispatch.")
 
           merged_sources = []
           overlay_count = 0
@@ -71,28 +81,35 @@ jobs:
           PY
 
       - name: Validate monitor configuration
+        timeout-minutes: 1
         run: python scripts/validate_config.py
 
       - name: Run hardened monitor
+        timeout-minutes: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_AGENT: senna-inflow/1.0 (+https://github.com/${{ github.repository }})
-          MAX_ITEMS_PER_SOURCE: 20
+          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
+          MAX_ITEMS_PER_SOURCE: 12
         run: python scripts/run_monitor_hardened.py
 
       - name: Run network hub postprocess
+        timeout-minutes: 1
         run: python scripts/network_hub_postprocess.py
 
       - name: Run resonance ranking postprocess
+        timeout-minutes: 1
         run: python scripts/resonance_rank_postprocess.py
 
       - name: Write canonical report atoms and trend samples
+        timeout-minutes: 1
         run: python scripts/write_canonical_reports.py
 
       - name: Harden state and outputs
+        timeout-minutes: 1
         run: python scripts/harden_state_and_outputs.py
 
       - name: Commit generated briefings
+        timeout-minutes: 1
         run: |
           git config user.name "senna-inflow[bot]"
           git config user.email "senna-inflow[bot]@users.noreply.github.com"
