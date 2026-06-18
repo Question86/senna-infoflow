@@ -1,5 +1,5 @@
 {
-  "_comment": "Hot-lane overlay for senna-infoflow. JSON is valid YAML. Public sources only. Signal sensors, not betting advice.",
+  "_comment": "Hot-lane overlay for senna-infoflow. Public sources only. Signal sensors, not betting advice. Broken/noisy sensors stay present but disabled until adapter quality is fixed.",
   "sources": [
     {
       "id": "usgs_m45_earthquakes_hour",
@@ -14,11 +14,7 @@
         "tsunami warning",
         "aftershock",
         "PAGER",
-        "ShakeMap",
-        "infrastructure",
-        "evacuation",
-        "disaster",
-        "hot-lane"
+        "ShakeMap"
       ]
     },
     {
@@ -35,10 +31,8 @@
         "aftershock",
         "PAGER",
         "ShakeMap",
-        "infrastructure",
-        "evacuation",
-        "disaster",
-        "hot-lane"
+        "orange alert",
+        "red alert"
       ]
     },
     {
@@ -55,9 +49,7 @@
         "aftershock",
         "rapid earthquake information",
         "GEOFON",
-        "GFZ",
-        "disaster",
-        "hot-lane"
+        "GFZ"
       ]
     },
     {
@@ -75,9 +67,7 @@
         "tech leak",
         "hacker leak",
         "cyber",
-        "AI",
-        "AXI0M",
-        "hot-lane"
+        "AXI0M"
       ]
     },
     {
@@ -85,7 +75,7 @@
       "name": "Reddit r/worldnews Burst Sensor",
       "type": "reddit_json",
       "source_class": "platform_social",
-      "enabled": true,
+      "enabled": false,
       "max_items": 20,
       "subreddit": "worldnews",
       "query": "election OR protest OR strike OR coup OR sanctions OR crisis OR flood OR earthquake OR outbreak OR blackout",
@@ -110,7 +100,7 @@
       "name": "Reddit r/geopolitics Burst Sensor",
       "type": "reddit_json",
       "source_class": "platform_social",
-      "enabled": true,
+      "enabled": false,
       "max_items": 15,
       "subreddit": "geopolitics",
       "query": "election OR war OR sanctions OR China OR Russia OR Taiwan OR Middle East OR NATO OR oil OR shipping",
@@ -135,7 +125,7 @@
       "name": "Reddit r/politics Election Sensor",
       "type": "reddit_json",
       "source_class": "platform_social",
-      "enabled": true,
+      "enabled": false,
       "max_items": 15,
       "subreddit": "politics",
       "query": "election OR poll OR candidate OR debate OR indictment OR campaign OR primary OR swing state",
@@ -158,7 +148,7 @@
       "name": "Reddit r/technology Release Sensor",
       "type": "reddit_json",
       "source_class": "platform_social",
-      "enabled": true,
+      "enabled": false,
       "max_items": 15,
       "subreddit": "technology",
       "query": "launch OR release OR OpenAI OR Google OR Apple OR Microsoft OR Nvidia OR security OR privacy OR AI",
@@ -174,7 +164,6 @@
         "Nvidia",
         "security",
         "privacy",
-        "AI",
         "social velocity"
       ]
     },
@@ -183,7 +172,7 @@
       "name": "Reddit r/cybersecurity Burst Sensor",
       "type": "reddit_json",
       "source_class": "platform_social",
-      "enabled": true,
+      "enabled": false,
       "max_items": 15,
       "subreddit": "cybersecurity",
       "query": "CVE OR exploited OR ransomware OR breach OR GitHub OR supply chain OR zero-day OR OpenAI OR AI",
@@ -194,11 +183,9 @@
         "exploited",
         "ransomware",
         "breach",
-        "GitHub",
         "supply chain",
         "zero-day",
         "OpenAI",
-        "AI",
         "social velocity"
       ]
     },
@@ -209,7 +196,7 @@
       "source_class": "platform_social",
       "enabled": true,
       "max_items": 20,
-      "query": "(launch OR release OR outage OR security OR CVE OR OpenAI OR AI agent OR GitHub OR Nvidia)",
+      "query": "(launch OR release OR outage OR security OR CVE OR OpenAI OR AI agent OR Nvidia)",
       "keywords": [
         "launch",
         "release",
@@ -218,7 +205,6 @@
         "CVE",
         "OpenAI",
         "AI agent",
-        "GitHub",
         "Nvidia",
         "developer velocity"
       ]
@@ -230,11 +216,10 @@
       "source_class": "open_source_platform",
       "enabled": true,
       "mode": "repositories",
-      "max_items": 15,
-      "query": "AI agent automation stars:>50 pushed:>2026-01-01",
+      "max_items": 10,
+      "query": "AI agent automation stars:>500 pushed:>2026-01-01",
       "keywords": [
         "AI agent",
-        "automation",
         "agentic workflow",
         "developer tools",
         "Open Source",
@@ -249,8 +234,8 @@
       "source_class": "open_source_platform",
       "enabled": true,
       "mode": "repositories",
-      "max_items": 15,
-      "query": "security scanner supply chain CVE stars:>25 pushed:>2026-01-01",
+      "max_items": 10,
+      "query": "security scanner supply chain CVE stars:>150 pushed:>2026-01-01",
       "keywords": [
         "security",
         "scanner",
@@ -266,7 +251,7 @@
       "name": "Public Prediction Market Watch",
       "type": "webpage_check",
       "source_class": "market_signal",
-      "enabled": true,
+      "enabled": false,
       "max_items": 1,
       "url": "https://polymarket.com/",
       "keywords": [
@@ -285,7 +270,7 @@
       "name": "Kalshi Public Market Watch",
       "type": "webpage_check",
       "source_class": "market_signal",
-      "enabled": true,
+      "enabled": false,
       "max_items": 1,
       "url": "https://kalshi.com/markets",
       "keywords": [
@@ -305,7 +290,7 @@
       "name": "Election Betting Odds Public Watch",
       "type": "webpage_check",
       "source_class": "market_signal",
-      "enabled": true,
+      "enabled": false,
       "max_items": 1,
       "url": "https://electionbettingodds.com/",
       "keywords": [
