@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T01:25:13+00:00",
+  "generated_at": "2026-06-18T02:20:10+00:00",
   "entities": {
-    "github_repo:genai-io/san": {
-      "title": "genai-io/san",
-      "first_seen_at": "2026-06-18T01:25:13+00:00",
-      "last_seen_at": "2026-06-18T01:25:13+00:00",
+    "github_repo:dicklesworthstone/frankenterm": {
+      "title": "Dicklesworthstone/frankenterm",
+      "first_seen_at": "2026-06-18T02:20:10+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T01:25:13+00:00",
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 1
         }
       ],
@@ -20,28 +20,68 @@
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:im4codes/imcodes": {
-      "title": "im4codes/imcodes",
-      "first_seen_at": "2026-06-18T01:25:13+00:00",
-      "last_seen_at": "2026-06-18T01:25:13+00:00",
+    "domain:www.bleepingcomputer.com": {
+      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "first_seen_at": "2026-06-17T21:31:36+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-17T21:31:36+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-17T21:54:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:13:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:16:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:38:24+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T22:54:27+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-17T23:35:00+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T00:03:45+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 0
+        },
+        {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 1
         }
       ],
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "BleepingComputer Security"
       ]
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
       "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T01:25:13+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
       "previous_run_count": 1,
       "last_run_count": 1,
       "momentum_delta": 0,
@@ -54,372 +94,114 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 1
         }
       ],
       "sources": [
         "Election Betting Odds Public Watch"
       ]
     },
-    "github_repo:marcusquinn/aidevops": {
-      "title": "marcusquinn/aidevops",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+    "earthquake:venezuela 18:4.0": {
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+      "first_seen_at": "2026-06-18T02:20:10+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T00:36:09+00:00",
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 1
-        },
+        }
+      ],
+      "sources": [
+        "GDACS All Events Last 24h"
+      ]
+    },
+    "github_repo:agions/story-fab": {
+      "title": "Agions/story-fab",
+      "first_seen_at": "2026-06-18T02:20:10+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
         {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 1
         }
       ],
       "sources": [
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:lahfir/agent-desktop": {
-      "title": "lahfir/agent-desktop",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+    "github_repo:jeremylongshore/claude-code-plugins-plus-skills": {
+      "title": "jeremylongshore/claude-code-plugins-plus-skills",
+      "first_seen_at": "2026-06-18T02:20:10+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T00:36:09+00:00",
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
         }
       ],
       "sources": [
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:activepieces/activepieces": {
-      "title": "activepieces/activepieces",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+    "earthquake:m 4.6, venezuela:4.6": {
+      "title": "M 4.6, Venezuela",
+      "first_seen_at": "2026-06-18T02:20:10+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T00:36:09+00:00",
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
       ]
     },
-    "github_repo:bagidea/bagidea-office": {
-      "title": "bagidea/bagidea-office",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+    "earthquake:m 4.6 - 33 km e of boconó, venezuela:4.6": {
+      "title": "M 4.6 - 33 km E of Boconó, Venezuela",
+      "first_seen_at": "2026-06-18T02:20:10+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T00:36:09+00:00",
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "earthquake:arvo-ai/aurora:unknown": {
-      "title": "Arvo-AI/aurora",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:l3montree-dev/devguard": {
-      "title": "l3montree-dev/devguard",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Security Breakout Tools"
-      ]
-    },
-    "github_repo:langgenius/dify": {
-      "title": "langgenius/dify",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:simstudioai/sim": {
-      "title": "simstudioai/sim",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:bytechefhq/bytechef": {
-      "title": "bytechefhq/bytechef",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:joewinke/jat": {
-      "title": "joewinke/jat",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:shobcoder/shob": {
-      "title": "shobcoder/shob",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:generalbots/generalbots": {
-      "title": "generalbots/generalbots",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:pipeshub-ai/pipeshub-ai": {
-      "title": "pipeshub-ai/pipeshub-ai",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:heymrun/heym": {
-      "title": "heymrun/heym",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:enescingoz/awesome-n8n-templates": {
-      "title": "enescingoz/awesome-n8n-templates",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ]
-    },
-    "github_repo:tornikebolokadze1-cyber/awesome-ai-pulse-georgia": {
-      "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
-      "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T00:36:09+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search Breakout AI Tools"
+        "USGS M4.5+ Earthquakes Past Hour"
       ]
     },
     "storm:arthur": {
       "title": "Tropical Storm Arthur Graphics",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
-      "last_seen_at": "2026-06-18T00:03:45+00:00",
+      "last_seen_at": "2026-06-18T02:20:10+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
           "at": "2026-06-17T21:31:36+00:00",
@@ -460,10 +242,474 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 1
         }
       ],
       "sources": [
         "NOAA NHC Atlantic Tropical Cyclones"
+      ]
+    },
+    "github_repo:genai-io/san": {
+      "title": "genai-io/san",
+      "first_seen_at": "2026-06-18T01:25:13+00:00",
+      "last_seen_at": "2026-06-18T01:25:13+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:im4codes/imcodes": {
+      "title": "im4codes/imcodes",
+      "first_seen_at": "2026-06-18T01:25:13+00:00",
+      "last_seen_at": "2026-06-18T01:25:13+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:marcusquinn/aidevops": {
+      "title": "marcusquinn/aidevops",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:lahfir/agent-desktop": {
+      "title": "lahfir/agent-desktop",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:activepieces/activepieces": {
+      "title": "activepieces/activepieces",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:bagidea/bagidea-office": {
+      "title": "bagidea/bagidea-office",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "earthquake:arvo-ai/aurora:unknown": {
+      "title": "Arvo-AI/aurora",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:l3montree-dev/devguard": {
+      "title": "l3montree-dev/devguard",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Security Breakout Tools"
+      ]
+    },
+    "github_repo:langgenius/dify": {
+      "title": "langgenius/dify",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:simstudioai/sim": {
+      "title": "simstudioai/sim",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:bytechefhq/bytechef": {
+      "title": "bytechefhq/bytechef",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:joewinke/jat": {
+      "title": "joewinke/jat",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:shobcoder/shob": {
+      "title": "shobcoder/shob",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:generalbots/generalbots": {
+      "title": "generalbots/generalbots",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:pipeshub-ai/pipeshub-ai": {
+      "title": "pipeshub-ai/pipeshub-ai",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:heymrun/heym": {
+      "title": "heymrun/heym",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:enescingoz/awesome-n8n-templates": {
+      "title": "enescingoz/awesome-n8n-templates",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:tornikebolokadze1-cyber/awesome-ai-pulse-georgia": {
+      "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+      "first_seen_at": "2026-06-18T00:36:09+00:00",
+      "last_seen_at": "2026-06-18T00:36:09+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T00:36:09+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
       ]
     },
     "earthquake:philippines:unknown": {
@@ -493,6 +739,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],
@@ -540,6 +790,10 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -585,6 +839,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],
@@ -636,64 +894,14 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
         "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ]
-    },
-    "domain:www.bleepingcomputer.com": {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "first_seen_at": "2026-06-17T21:31:36+00:00",
-      "last_seen_at": "2026-06-17T21:31:36+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-17T21:31:36+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-17T21:54:22+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:13:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:16:09+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:38:24+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T22:54:27+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-17T23:35:00+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T00:03:45+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T00:36:09+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T01:25:13+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "BleepingComputer Security"
       ]
     },
     "domain:openai.com": {
@@ -751,6 +959,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],
@@ -813,6 +1025,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],
@@ -880,6 +1096,10 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -945,6 +1165,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],
@@ -1012,6 +1236,10 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1077,6 +1305,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],
@@ -1144,6 +1376,10 @@
         {
           "at": "2026-06-18T01:25:13+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1209,6 +1445,10 @@
         },
         {
           "at": "2026-06-18T01:25:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T02:20:10+00:00",
           "count": 0
         }
       ],

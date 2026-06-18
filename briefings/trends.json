@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T01-25-13Z",
-  "generated_at": "2026-06-18T01:25:13Z",
+  "run_id": "2026-06-18T02-20-10Z",
+  "generated_at": "2026-06-18T02:20:10Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T01-25-13Z:title:genai-io-san",
-      "sample_index": 5939153,
-      "timestamp_utc": "2026-06-18T01:25:13Z",
-      "run_id": "2026-06-18T01-25-13Z",
-      "topic_key": "title:genai-io-san",
-      "topic_label": "genai-io/san",
-      "network_score": 19.0,
+      "sample_id": "2026-06-18T02-20-10Z:title:dicklesworthstone-frankenterm",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:dicklesworthstone-frankenterm",
+      "topic_label": "Dicklesworthstone/frankenterm",
+      "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
-      "score_delta_5m": 19.0,
-      "trend_wucht": 21.0,
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/genai-io/san"
+        "https://github.com/Dicklesworthstone/frankenterm"
       ]
     },
     {
-      "sample_id": "2026-06-18T01-25-13Z:title:im4codes-imcodes",
-      "sample_index": 5939153,
-      "timestamp_utc": "2026-06-18T01:25:13Z",
-      "run_id": "2026-06-18T01-25-13Z",
-      "topic_key": "title:im4codes-imcodes",
-      "topic_label": "im4codes/imcodes",
-      "network_score": 16.0,
+      "sample_id": "2026-06-18T02-20-10Z:title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
+      "topic_label": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "BleepingComputer Security"
       ],
-      "score_delta_5m": 16.0,
-      "trend_wucht": 18.0,
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/im4codes/imcodes"
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/"
       ]
     },
     {
-      "sample_id": "2026-06-18T01-25-13Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939153,
-      "timestamp_utc": "2026-06-18T01:25:13Z",
-      "run_id": "2026-06-18T01-25-13Z",
+      "sample_id": "2026-06-18T02-20-10Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 15.0,
@@ -62,6 +62,126 @@
       "status": "mature",
       "urls": [
         "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547166"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:agions-story-fab",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:agions-story-fab",
+      "topic_label": "Agions/story-fab",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/Agions/story-fab"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:jeremylongshore-claude-code-plugins-plus-skills",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:jeremylongshore-claude-code-plugins-plus-skills",
+      "topic_label": "jeremylongshore/claude-code-plugins-plus-skills",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:m-4.6-venezuela",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:m-4.6-venezuela",
+      "topic_label": "M 4.6, Venezuela",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6",
+      "topic_label": "M 4.6 - 33 km E of Boconó, Venezuela",
+      "network_score": 7.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "score_delta_5m": 7.0,
+      "trend_wucht": 9.0,
+      "status": "emerging",
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su81"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:tropical-storm-arthur-graphics",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:tropical-storm-arthur-graphics",
+      "topic_label": "Tropical Storm Arthur Graphics",
+      "network_score": 7.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 9.0,
+      "status": "mature",
+      "urls": [
+        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/020101.shtml?cone"
       ]
     }
   ]

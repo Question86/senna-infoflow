@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T01:25:13+00:00",
+  "generated_at": "2026-06-18T02:20:10+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -92,27 +92,29 @@
     },
     "storm:arthur": {
       "title": "Tropical Storm Arthur Graphics",
-      "updated_at": "2026-06-18T00:03:45+00:00",
+      "updated_at": "2026-06-18T02:20:10+00:00",
       "network_scores": [
         37.5,
         14.7,
-        9.7
+        9.7,
+        12.7
       ],
-      "rolling_average": 20.63,
+      "rolling_average": 18.65,
       "rolling_peak": 37.5,
-      "last_score": 9.7,
-      "z_hint": -10.93
+      "last_score": 12.7,
+      "z_hint": -5.95
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "updated_at": "2026-06-17T21:31:36+00:00",
+      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "updated_at": "2026-06-18T02:20:10+00:00",
       "network_scores": [
-        16.1
+        16.1,
+        28.1
       ],
-      "rolling_average": 16.1,
-      "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": 0.0
+      "rolling_average": 22.1,
+      "rolling_peak": 28.1,
+      "last_score": 28.1,
+      "z_hint": 6.0
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -314,15 +316,16 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T01:25:13+00:00",
+      "updated_at": "2026-06-18T02:20:10+00:00",
       "network_scores": [
         20.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 18.6,
+      "rolling_average": 18.1,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -366,6 +369,72 @@
       "rolling_average": 20.1,
       "rolling_peak": 20.1,
       "last_score": 20.1,
+      "z_hint": 0.0
+    },
+    "github_repo:dicklesworthstone/frankenterm": {
+      "title": "Dicklesworthstone/frankenterm",
+      "updated_at": "2026-06-18T02:20:10+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "earthquake:venezuela 18:4.0": {
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+      "updated_at": "2026-06-18T02:20:10+00:00",
+      "network_scores": [
+        19.7
+      ],
+      "rolling_average": 19.7,
+      "rolling_peak": 19.7,
+      "last_score": 19.7,
+      "z_hint": 0.0
+    },
+    "github_repo:agions/story-fab": {
+      "title": "Agions/story-fab",
+      "updated_at": "2026-06-18T02:20:10+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "github_repo:jeremylongshore/claude-code-plugins-plus-skills": {
+      "title": "jeremylongshore/claude-code-plugins-plus-skills",
+      "updated_at": "2026-06-18T02:20:10+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.6, venezuela:4.6": {
+      "title": "M 4.6, Venezuela",
+      "updated_at": "2026-06-18T02:20:10+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.6 - 33 km e of boconó, venezuela:4.6": {
+      "title": "M 4.6 - 33 km E of Boconó, Venezuela",
+      "updated_at": "2026-06-18T02:20:10+00:00",
+      "network_scores": [
+        12.7
+      ],
+      "rolling_average": 12.7,
+      "rolling_peak": 12.7,
+      "last_score": 12.7,
       "z_hint": 0.0
     }
   }

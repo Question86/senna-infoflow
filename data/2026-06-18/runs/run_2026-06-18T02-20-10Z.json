@@ -1,0 +1,1116 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T02-20-10Z",
+  "generated_at": "2026-06-18T02:20:10Z",
+  "latest": {
+    "generated_at": "2026-06-18T02:20:10+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 9,
+      "today_file_total": 28,
+      "high": 0,
+      "medium": 6,
+      "observe": 3,
+      "source_errors": 7
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "Dicklesworthstone/frankenterm",
+          "url": "https://github.com/Dicklesworthstone/frankenterm",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T02:16:54+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Webentwicklung"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Webentwicklung (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "1b5807fb7254f2ef5768"
+        },
+        {
+          "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+          "source": "BleepingComputer Security",
+          "source_type": "rss",
+          "published_at": "2026-06-18T01:30:08+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
+          "matched_keywords": [
+            "OpenAI",
+            "Produktidee",
+            "Security",
+            "Watchgraph:narrative_social_reputation"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "OpenAI (+10.1); Security (+6.0); Produktidee (+6.0); recent (+2.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+          "risk_or_opportunity": "mixed",
+          "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+          "watchgraph_modules": [
+            "narrative_social_reputation"
+          ],
+          "watchgraph_reasons": [
+            "narrative_social_reputation: leak"
+          ],
+          "market_context": [
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "d079ce4761da47466985"
+        },
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T02:16:18+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 15,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest",
+            "public_health_biosecurity"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election",
+            "public_health_biosecurity: WHO"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ",
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "GSK",
+            "AZN",
+            "TMO",
+            "DHR"
+          ],
+          "id": "2952a39f03c3ab8d1eb0"
+        },
+        {
+          "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547166",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-18T01:42:31+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "On 6/18/2026 1:23:29 AM, an earthquake occurred in Venezuela potentially affecting 2.8 million in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
+          "matched_keywords": [
+            "earthquake",
+            "GitHub",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 14,
+          "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "4b1bed437af977559815"
+        },
+        {
+          "title": "Agions/story-fab",
+          "url": "https://github.com/Agions/story-fab",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T01:49:55+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "开源 AI 影视解说创作工坊 (Tauri 2 + Rust)。长视频 → AI 拆条 + 多 Agent 智能解说 + 本地 Whisper 字幕 + 配音合成，9:16/1:1/16:9 多格式导出，100% 本地处理零上传。",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "e6760bec2f501347db91"
+        },
+        {
+          "title": "jeremylongshore/claude-code-plugins-plus-skills",
+          "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T01:44:13+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "3029d8de0268ab6fc190"
+        }
+      ],
+      "observe": [
+        {
+          "title": "M 4.6, Venezuela",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "2026-06-18 01:23:30 9.33 -69.75 10 km A",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "ceda53d1e383927bbd98"
+        },
+        {
+          "title": "M 4.6 - 33 km E of Boconó, Venezuela",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su81",
+          "source": "USGS M4.5+ Earthquakes Past Hour",
+          "source_type": "rss",
+          "published_at": "2026-06-18T02:16:56.462+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "DYFI? - II Time 2026-06-18 01:23:29 UTC 2026-06-18 01:23:29 UTC at epicenter Location 9.312°N 69.949°W Depth 10.00 km (6.21 mi)",
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 7,
+          "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "8a0247f6af92f5207600"
+        },
+        {
+          "title": "Tropical Storm Arthur Graphics",
+          "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/020101.shtml?cone",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-18T02:01:01+00:00",
+          "fetched_at": "2026-06-18T02:19:02+00:00",
+          "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
+          "matched_keywords": [
+            "cyclone",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 7,
+          "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: cyclone"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "9a3ccd93a80a9af8e7ed"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "Dicklesworthstone/frankenterm",
+        "url": "https://github.com/Dicklesworthstone/frankenterm",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T02:16:54+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Webentwicklung"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Webentwicklung (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1b5807fb7254f2ef5768"
+      },
+      {
+        "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+        "source": "BleepingComputer Security",
+        "source_type": "rss",
+        "published_at": "2026-06-18T01:30:08+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
+        "matched_keywords": [
+          "OpenAI",
+          "Produktidee",
+          "Security",
+          "Watchgraph:narrative_social_reputation"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "OpenAI (+10.1); Security (+6.0); Produktidee (+6.0); recent (+2.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [
+          "narrative_social_reputation"
+        ],
+        "watchgraph_reasons": [
+          "narrative_social_reputation: leak"
+        ],
+        "market_context": [
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "d079ce4761da47466985"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T02:16:18+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election",
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ",
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "2952a39f03c3ab8d1eb0"
+      },
+      {
+        "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547166",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T01:42:31+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "On 6/18/2026 1:23:29 AM, an earthquake occurred in Venezuela potentially affecting 2.8 million in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4b1bed437af977559815"
+      },
+      {
+        "title": "Agions/story-fab",
+        "url": "https://github.com/Agions/story-fab",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T01:49:55+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "开源 AI 影视解说创作工坊 (Tauri 2 + Rust)。长视频 → AI 拆条 + 多 Agent 智能解说 + 本地 Whisper 字幕 + 配音合成，9:16/1:1/16:9 多格式导出，100% 本地处理零上传。",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e6760bec2f501347db91"
+      },
+      {
+        "title": "jeremylongshore/claude-code-plugins-plus-skills",
+        "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T01:44:13+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3029d8de0268ab6fc190"
+      },
+      {
+        "title": "M 4.6, Venezuela",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "2026-06-18 01:23:30 9.33 -69.75 10 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ceda53d1e383927bbd98"
+      },
+      {
+        "title": "M 4.6 - 33 km E of Boconó, Venezuela",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su81",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-18T02:16:56.462+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "DYFI? - II Time 2026-06-18 01:23:29 UTC 2026-06-18 01:23:29 UTC at epicenter Location 9.312°N 69.949°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8a0247f6af92f5207600"
+      },
+      {
+        "title": "Tropical Storm Arthur Graphics",
+        "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/020101.shtml?cone",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-18T02:01:01+00:00",
+        "fetched_at": "2026-06-18T02:19:02+00:00",
+        "summary": "Wind Speed Probabilities last updated Wed, 17 Jun 2026 21:26:00 GMT",
+        "matched_keywords": [
+          "cyclone",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "cyclone (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: cyclone"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "9a3ccd93a80a9af8e7ed"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-18T02:20:10+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 9,
+      "clusters": 9,
+      "cross_source_confrmed": 0,
+      "hot": 2
+    },
+    "clusters": [
+      {
+        "key": "domain:www.bleepingcomputer.com",
+        "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+        "sources": [
+          "BleepingComputer Security"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 28.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "narrative_social_reputation"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:dicklesworthstone/frankenterm",
+        "title": "Dicklesworthstone/frankenterm",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/Dicklesworthstone/frankenterm"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "earthquake:venezuela 18:4.0",
+        "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547166"
+        ],
+        "finding_count": 1,
+        "max_score": 14,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 19.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 15,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:agions/story-fab",
+        "title": "Agions/story-fab",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/Agions/story-fab"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:jeremylongshore/claude-code-plugins-plus-skills",
+        "title": "jeremylongshore/claude-code-plugins-plus-skills",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "earthquake:m 4.6, venezuela:4.6",
+        "title": "M 4.6, Venezuela",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "earthquake:m 4.6 - 33 km e of boconó, venezuela:4.6",
+        "title": "M 4.6 - 33 km E of Boconó, Venezuela",
+        "sources": [
+          "USGS M4.5+ Earthquakes Past Hour"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su81"
+        ],
+        "finding_count": 1,
+        "max_score": 7,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 12.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "storm:arthur",
+        "title": "Tropical Storm Arthur Graphics",
+        "sources": [
+          "NOAA NHC Atlantic Tropical Cyclones"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/020101.shtml?cone"
+        ],
+        "finding_count": 1,
+        "max_score": 7,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 12.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:dicklesworthstone-frankenterm",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:dicklesworthstone-frankenterm",
+      "topic_label": "Dicklesworthstone/frankenterm",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/Dicklesworthstone/frankenterm"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
+      "topic_label": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 17.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547166"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:agions-story-fab",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:agions-story-fab",
+      "topic_label": "Agions/story-fab",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/Agions/story-fab"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:jeremylongshore-claude-code-plugins-plus-skills",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:jeremylongshore-claude-code-plugins-plus-skills",
+      "topic_label": "jeremylongshore/claude-code-plugins-plus-skills",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:m-4.6-venezuela",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:m-4.6-venezuela",
+      "topic_label": "M 4.6, Venezuela",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6",
+      "topic_label": "M 4.6 - 33 km E of Boconó, Venezuela",
+      "network_score": 7.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "score_delta_5m": 7.0,
+      "trend_wucht": 9.0,
+      "status": "emerging",
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su81"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T02-20-10Z:title:tropical-storm-arthur-graphics",
+      "sample_index": 5939164,
+      "timestamp_utc": "2026-06-18T02:20:10Z",
+      "run_id": "2026-06-18T02-20-10Z",
+      "topic_key": "title:tropical-storm-arthur-graphics",
+      "topic_label": "Tropical Storm Arthur Graphics",
+      "network_score": 7.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 9.0,
+      "status": "mature",
+      "urls": [
+        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/020101.shtml?cone"
+      ]
+    }
+  ]
+}
