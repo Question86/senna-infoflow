@@ -1,34 +1,28 @@
 #!/usr/bin/env python3
- """Resonance ranking postprocess.
+"""Resonance-aware ranking postprocess.
 
-Purpose:
-- prevent large emitters from dominating merely because they are large
-- keep small initial dynamics visible when they are novel, concrete, or growing
-- preserve official-source credibility without turning it into automatic priority
+This layer keeps large emitters credible without letting them dominate only
+because they are large. It also keeps small, concrete, early dynamics visible.
 """
 
 from __future__ import annotations
 
 import json
-import re
+
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-import yaml
-
 import network_hub_postprocess as hub
+
 
 ROOT = Path(__file__).resolve().parents[1]
 BRIEFINGS = ROOT / "briefings"
 STATE = ROOT / "state"
-CONFIG = ROOT / "config"
-
 
 
 def now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-
 
 
 def read_json(path: Path, default: Any) -> Any:
@@ -40,18 +34,6 @@ def read_json(path: Path, default: Any) -> Any:
         return default
 
 
-
-def read_yaml(path: Path, default: Any) -> Any:
-    if not path.exists():
-        return default
-    try:
-        data = yaml.safe_load(path.read_text(encoding="utf-8"))
-        return default if data is None else data
-    except Exception:
-        return default
-
-
-
 def write_json(path: Path, data: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_name("." + path.name + ".tmp")
@@ -59,13 +41,11 @@ def write_json(path: Path, data: Any) -> None:
     tmp.replace(path)
 
 
-
 def write_text(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_name("." + path.name + ".tmp")
     tmp.write_text(text, encoding="utf-8")
     tmp.replace(path)
-
 
 
 def text_of(item: dict[str, Any]) -> str:
@@ -79,14 +59,12 @@ def text_of(item: dict[str, Any]) -> str:
     ]).lower()
 
 
-
 def infer_class_from_item(item: dict[str, Any]) -> str:
     explicit = str(item.get("source_class") or "").strip()
     if explicit:
         return explicit
 
     text = f"{item.get('source','')} {item.get('source_type','')} {item.get('url','')}".lower()
-
     if any(x in text for x in ["federal reserve", "federalreserve.gov", "ecb", "europa.eu/rss", "bis.org", "bank for international settlements"]):
         return "central_bank"
     if any(x in text for x in ["oecd", "world bank", "imf.org", "wto.org"]):
@@ -120,13 +98,11 @@ def reach_profile(classes: set[str], sources: list[str]) -> dict[str, Any]:
     return {"tier": "unknown", "reach": 2.0, "dominant_emitter": False, "kind": "unknown"}
 
 
-
 EARLY_TERMS = [
     "wildfire", "forest fire", "flood", "drought", "blackout", "port closure",
     "strike", "protest", "pipeline outage", "supply chain", "outage",
     "local", "regional", "evacuation", "unrest", "shortage",
 ]
-
 
 HIGH_SIGNAL_TERMS = [
     "rate decision", "emergency", "market halted", "trading suspended",
@@ -135,22 +111,20 @@ HIGH_SIGNAL_TERMS = [
 ]
 
 
-
 def any_term(text: str, terms: list[str]) -> bool:
     return any(term in text for term in terms)
-
 
 
 def calc_scores(cluster: dict[str, Any], items: list[dict[str, Any]], velocity: dict[str, Any], baseline: dict[str, Any]) -> dict[str, Any]:
     key = str(cluster.get("key") or "")
     sources = list(cluster.get("sources") or [])
-    classes = {infer_class_from_item(item) for item in items} or set(cluster.get("source_classes") or [])
+    classes = {infer_class_from_item(item) for item in items}
+    classes.update(str(c) for c in (cluster.get("source_classes") or []) if c)
     classes = {str(c) for c in classes if c}
-    profile = reach_profile(classes, sources)
 
+    profile = reach_profile(classes, sources)
     max_score = float(cluster.get("max_score") or 0)
     source_count = max(1, len(sources))
-    finding_count = int(cluster.get("finding_count") or len(items) or 1)
     cross = bool(cluster.get("cross_source_confirmed"))
     delta = int(cluster.get("momentum_delta") or 0)
 
@@ -193,7 +167,6 @@ def calc_scores(cluster: dict[str, Any], items: list[dict[str, Any]], velocity: 
         dominance_penalty = 3.0
         dominance_reason = "large emitter without cross-source resonance or high-signal term"
 
-    # Scale-aware score: authority is capped; resonance and early dynamics carry the ranking.
     ranking_score = (
         max_score
         + authority_bonus
@@ -203,7 +176,6 @@ def calc_scores(cluster: dict[str, Any], items: list[dict[str, Any]], velocity: 
         + early_bonus
         - dominance_penalty
     )
-
     if high_signal:
         ranking_score += 4.0
 
@@ -235,13 +207,16 @@ def calc_scores(cluster: dict[str, Any], items: list[dict[str, Any]], velocity: 
     }
 
 
-
 def render_breaking(network: dict[str, Any]) -> str:
     lines = ["# Senna Breaking", "", f"_Generiert: {network.get('generated_at')}_", ""]
     hot = [c for c in network.get("clusters", []) if c.get("hot")][:5]
     if not hot:
         lines += ["Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.", ""]
     for c in hot:
+        urls = c.get("urls") or ["keine"]
+        dominant = "ja" if c.get("dominant_emitter") else "nein"
+        early = "ja" if c.get("early_signal") else "nein"
+        cross = "ja" if c.get("cross_source_confirmed") else "nein"
         lines += [
             f"## {c.get('title')}",
             "",
@@ -249,18 +224,17 @@ def render_breaking(network: dict[str, Any]) -> str:
             f"- Raw Network Score: `{c.get('raw_network_score', 'n/a')}`",
             f"- Max Monitor Score: `{c.get('max_score')}`",
             f"- Reichweite: `{c.get('initial_reach_tier')}` / `{c.get('source_reach_score')}`",
-            f"- Early Signal: `{'ja' if c.get('early_signal') else 'nein'}`",
-            f"- Dominanter Emitter: `{'ja' if c.get('dominant_emitter') else "nein"}`",
+            f"- Early Signal: `{early}`",
+            f"- Dominanter Emitter: `{dominant}`",
             f"- Quellen: {', '.join(c.get('sources') or []) or 'unbekannt'}",
             f"- Klassen: {', '.join(c.get('source_classes') or []) or 'unbekannt'}",
-            f"- Cross-source bestätigt: {'ja' if c.get('cross_source_confirmed') else 'nein'}",
+            f"- Cross-source bestaetigt: {cross}",
             f"- Momentum: {c.get('momentum_status')} ({int(c.get('momentum_delta') or 0):+d})",
-            f"- Erste Quelle: x(c.get('urls') or ['keine'])[0]",
-            f"- Handlung: {c.get('recommended_action'}",
+            f"- Erste Quelle: {urls[0]}",
+            f"- Handlung: {c.get('recommended_action')}",
             "",
         ]
     return "\n".join(lines)
-
 
 
 def main() -> int:
@@ -268,7 +242,6 @@ def main() -> int:
     network = read_json(BRIEFINGS / "network.json", {})
     velocity = read_json(STATE / "velocity.json", {})
     baseline = read_json(STATE / "baseline.json", {})
-    _rules = read_yaml(CONFIG / "rules.yaml", {})
 
     findings = latest.get("findings") if isinstance(latest, dict) else []
     findings = findings if isinstance(findings, list) else []
@@ -307,10 +280,11 @@ def main() -> int:
         c["dominance_reason"] = calc["dominance_reason"]
         c["first_seen_at"] = calc["first_seen_at"]
         c["hot"] = calc["hot"]
+
         if c["hot"]:
             if c["early_signal"]:
                 c["recommended_action"] = "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten."
-            elif c["cross_source_confirmed"]:
+            elif c.get("cross_source_confirmed"):
                 c["recommended_action"] = "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren."
         updated.append(c)
 
@@ -324,7 +298,7 @@ def main() -> int:
         reverse=True,
     )
 
-    network = dict(network) if isinstance(network, dict) else {}
+    network = dict(network  if isinstance(network, dict) else {})
     network["resonance_ranking"] = {
         "schema_version": 1,
         "generated_at": now(),
@@ -346,7 +320,6 @@ def main() -> int:
         f"{network['counts']['dominance_penalized']} dominance-penalized."
     )
     return 0
-
 
 
 if __name__ == "__main__":
