@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T03:39:26+00:00",
+  "generated_at": "2026-06-18T05:21:32+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -317,17 +317,18 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T03:39:26+00:00",
+      "updated_at": "2026-06-18T05:21:32+00:00",
       "network_scores": [
         20.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.85,
+      "rolling_average": 17.7,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -473,15 +474,16 @@
       "z_hint": 0.0
     },
     "earthquake:central mid-atlantic ridge:5.0": {
-      "title": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
-      "updated_at": "2026-06-18T03:39:26+00:00",
+      "title": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
+      "updated_at": "2026-06-18T05:21:32+00:00",
       "network_scores": [
-        19.7
+        19.7,
+        16.7
       ],
-      "rolling_average": 19.7,
+      "rolling_average": 18.2,
       "rolling_peak": 19.7,
-      "last_score": 19.7,
-      "z_hint": 0.0
+      "last_score": 16.7,
+      "z_hint": -1.5
     },
     "github_repo:linora-u/agentloom": {
       "title": "linora-u/AgentLoom",
@@ -492,6 +494,83 @@
       "rolling_average": 17.1,
       "rolling_peak": 17.1,
       "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "github_repo:vmdeshpande/ai-agent-automation": {
+      "title": "vmDeshpande/ai-agent-automation",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:tracecathq/tracecat": {
+      "title": "TracecatHQ/tracecat",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:zhu1090093659/deepseek-pp": {
+      "title": "zhu1090093659/deepseek-pp",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:omnimind-ai/openomnibot": {
+      "title": "omnimind-ai/OpenOmniBot",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        26.1
+      ],
+      "rolling_average": 26.1,
+      "rolling_peak": 26.1,
+      "last_score": 26.1,
+      "z_hint": 0.0
+    },
+    "github_repo:rpamis/comet": {
+      "title": "rpamis/comet",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.3, guerrero, mexico:4.3": {
+      "title": "M 4.3, Guerrero, Mexico",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "earthquake:central mid-atlantic ridge:5.6": {
+      "title": "M 5.6, Central Mid-Atlantic Ridge",
+      "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
       "z_hint": 0.0
     }
   }

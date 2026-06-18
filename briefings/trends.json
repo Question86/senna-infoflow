@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T03-39-26Z",
-  "generated_at": "2026-06-18T03:39:26Z",
+  "run_id": "2026-06-18T05-21-32Z",
+  "generated_at": "2026-06-18T05:21:32Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T03-39-26Z:title:calf-ai-calfkit-sdk",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:calf-ai-calfkit-sdk",
-      "topic_label": "calf-ai/calfkit-sdk",
+      "sample_id": "2026-06-18T05-21-32Z:title:vmdeshpande-ai-agent-automation",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:vmdeshpande-ai-agent-automation",
+      "topic_label": "vmDeshpande/ai-agent-automation",
       "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
@@ -21,16 +21,56 @@
       "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/calf-ai/calfkit-sdk"
+        "https://github.com/vmDeshpande/ai-agent-automation"
       ]
     },
     {
-      "sample_id": "2026-06-18T03-39-26Z:title:startino-aitino",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:startino-aitino",
-      "topic_label": "startino/aitino",
+      "sample_id": "2026-06-18T05-21-32Z:title:tracecathq-tracecat",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:tracecathq-tracecat",
+      "topic_label": "TracecatHQ/tracecat",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/TracecatHQ/tracecat"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T05-21-32Z:title:zhu1090093659-deepseek-pp",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:zhu1090093659-deepseek-pp",
+      "topic_label": "zhu1090093659/deepseek-pp",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/zhu1090093659/deepseek-pp"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T05-21-32Z:title:omnimind-ai-openomnibot",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:omnimind-ai-openomnibot",
+      "topic_label": "omnimind-ai/OpenOmniBot",
       "network_score": 22.0,
       "mention_count": 1,
       "source_count": 1,
@@ -41,14 +81,14 @@
       "trend_wucht": 24.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/startino/aitino"
+        "https://github.com/omnimind-ai/OpenOmniBot"
       ]
     },
     {
-      "sample_id": "2026-06-18T03-39-26Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
+      "sample_id": "2026-06-18T05-21-32Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 15.0,
@@ -65,132 +105,52 @@
       ]
     },
     {
-      "sample_id": "2026-06-18T03-39-26Z:earthquake:mid-atlantic-ridge:5",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
+      "sample_id": "2026-06-18T05-21-32Z:title:rpamis-comet",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:rpamis-comet",
+      "topic_label": "rpamis/comet",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 15.0,
+      "trend_wucht": 17.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/rpamis/comet"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T05-21-32Z:earthquake:mid-atlantic-ridge:5",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
       "topic_key": "earthquake:mid-atlantic-ridge:5",
-      "topic_label": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
+      "topic_label": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
       "network_score": 14.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GDACS All Events Last 24h"
       ],
-      "score_delta_5m": 14.0,
+      "score_delta_5m": 0.0,
       "trend_wucht": 16.0,
-      "status": "emerging",
+      "status": "mature",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547193"
       ]
     },
     {
-      "sample_id": "2026-06-18T03-39-26Z:title:linora-u-agentloom",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:linora-u-agentloom",
-      "topic_label": "linora-u/AgentLoom",
-      "network_score": 13.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "score_delta_5m": 13.0,
-      "trend_wucht": 15.0,
-      "status": "emerging",
-      "urls": [
-        "https://github.com/linora-u/AgentLoom"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T03-39-26Z:title:summary-for-post-tropical-cyclone-arthur-at1-al012026",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:summary-for-post-tropical-cyclone-arthur-at1-al012026",
-      "topic_label": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
-      "network_score": 12.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
-      ],
-      "score_delta_5m": 12.0,
-      "trend_wucht": 14.0,
-      "status": "emerging",
-      "urls": [
-        "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-forecast-discussion-number-8",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:post-tropical-cyclone-arthur-forecast-discussion-number-8",
-      "topic_label": "Post-Tropical Cyclone Arthur Forecast Discussion Number 8",
-      "network_score": 10.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
-      ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
-      "status": "emerging",
-      "urls": [
-        "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8",
-      "topic_label": "Post-Tropical Cyclone Arthur Wind Speed Probabilities Number 8",
-      "network_score": 10.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
-      ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
-      "status": "emerging",
-      "urls": [
-        "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-forecast-advisory-number-8",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:post-tropical-cyclone-arthur-forecast-advisory-number-8",
-      "topic_label": "Post-Tropical Cyclone Arthur Forecast Advisory Number 8",
-      "network_score": 10.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
-      ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
-      "status": "emerging",
-      "urls": [
-        "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T03-39-26Z:title:m-5.1-central-mid-atlantic-ridge",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:m-5.1-central-mid-atlantic-ridge",
-      "topic_label": "M 5.1, Central Mid-Atlantic Ridge",
+      "sample_id": "2026-06-18T05-21-32Z:title:m-4.3-guerrero-mexico",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:m-4.3-guerrero-mexico",
+      "topic_label": "M 4.3, Guerrero, Mexico",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -201,47 +161,27 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvhr"
       ]
     },
     {
-      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-graphics",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "title:post-tropical-cyclone-arthur-graphics",
-      "topic_label": "Post-Tropical Cyclone Arthur Graphics",
-      "network_score": 8.0,
+      "sample_id": "2026-06-18T05-21-32Z:title:m-5.6-central-mid-atlantic-ridge",
+      "sample_index": 5939200,
+      "timestamp_utc": "2026-06-18T05:21:32Z",
+      "run_id": "2026-06-18T05-21-32Z",
+      "topic_key": "title:m-5.6-central-mid-atlantic-ridge",
+      "topic_label": "M 5.6, Central Mid-Atlantic Ridge",
+      "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
       ],
-      "score_delta_5m": 8.0,
-      "trend_wucht": 10.0,
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T03-39-26Z:earthquake:mid-atlantic-ridge:5.1",
-      "sample_index": 5939179,
-      "timestamp_utc": "2026-06-18T03:39:26Z",
-      "run_id": "2026-06-18T03-39-26Z",
-      "topic_key": "earthquake:mid-atlantic-ridge:5.1",
-      "topic_label": "M 5.1 - central Mid-Atlantic Ridge",
-      "network_score": 7.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "score_delta_5m": 7.0,
-      "trend_wucht": 9.0,
-      "status": "emerging",
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvfx"
       ]
     }
   ]

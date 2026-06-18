@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T03:39:26+00:00",
+  "generated_at": "2026-06-18T05:21:32+00:00",
   "entities": {
-    "github_repo:calf-ai/calfkit-sdk": {
-      "title": "calf-ai/calfkit-sdk",
-      "first_seen_at": "2026-06-18T03:39:26+00:00",
-      "last_seen_at": "2026-06-18T03:39:26+00:00",
+    "github_repo:vmdeshpande/ai-agent-automation": {
+      "title": "vmDeshpande/ai-agent-automation",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T03:39:26+00:00",
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 1
         }
       ],
@@ -20,17 +20,53 @@
         "GitHub Search Breakout AI Tools"
       ]
     },
-    "github_repo:startino/aitino": {
-      "title": "startino/aitino",
-      "first_seen_at": "2026-06-18T03:39:26+00:00",
-      "last_seen_at": "2026-06-18T03:39:26+00:00",
+    "github_repo:tracecathq/tracecat": {
+      "title": "TracecatHQ/tracecat",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-18T03:39:26+00:00",
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:zhu1090093659/deepseek-pp": {
+      "title": "zhu1090093659/deepseek-pp",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:omnimind-ai/openomnibot": {
+      "title": "omnimind-ai/OpenOmniBot",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 1
         }
       ],
@@ -41,7 +77,7 @@
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
       "first_seen_at": "2026-06-18T00:36:09+00:00",
-      "last_seen_at": "2026-06-18T03:39:26+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
       "previous_run_count": 1,
       "last_run_count": 1,
       "momentum_delta": 0,
@@ -62,23 +98,49 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
         }
       ],
       "sources": [
         "Election Betting Odds Public Watch"
       ]
     },
-    "earthquake:central mid-atlantic ridge:5.0": {
-      "title": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
-      "first_seen_at": "2026-06-18T03:39:26+00:00",
-      "last_seen_at": "2026-06-18T03:39:26+00:00",
+    "github_repo:rpamis/comet": {
+      "title": "rpamis/comet",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "earthquake:central mid-atlantic ridge:5.0": {
+      "title": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
+      "first_seen_at": "2026-06-18T03:39:26+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "history": [
+        {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 1
         }
       ],
@@ -86,18 +148,102 @@
         "GDACS All Events Last 24h"
       ]
     },
-    "github_repo:linora-u/agentloom": {
-      "title": "linora-u/AgentLoom",
-      "first_seen_at": "2026-06-18T03:39:26+00:00",
-      "last_seen_at": "2026-06-18T03:39:26+00:00",
+    "earthquake:m 4.3, guerrero, mexico:4.3": {
+      "title": "M 4.3, Guerrero, Mexico",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ]
+    },
+    "earthquake:central mid-atlantic ridge:5.6": {
+      "title": "M 5.6, Central Mid-Atlantic Ridge",
+      "first_seen_at": "2026-06-18T05:21:32+00:00",
+      "last_seen_at": "2026-06-18T05:21:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ]
+    },
+    "github_repo:calf-ai/calfkit-sdk": {
+      "title": "calf-ai/calfkit-sdk",
+      "first_seen_at": "2026-06-18T03:39:26+00:00",
+      "last_seen_at": "2026-06-18T03:39:26+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:startino/aitino": {
+      "title": "startino/aitino",
+      "first_seen_at": "2026-06-18T03:39:26+00:00",
+      "last_seen_at": "2026-06-18T03:39:26+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T03:39:26+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ]
+    },
+    "github_repo:linora-u/agentloom": {
+      "title": "linora-u/AgentLoom",
+      "first_seen_at": "2026-06-18T03:39:26+00:00",
+      "last_seen_at": "2026-06-18T03:39:26+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-18T03:39:26+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -108,10 +254,10 @@
       "title": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
       "last_seen_at": "2026-06-18T03:39:26+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 5,
-      "momentum_delta": 4,
-      "momentum_status": "increasing",
+      "previous_run_count": 5,
+      "last_run_count": 0,
+      "momentum_delta": -5,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-17T21:31:36+00:00",
@@ -160,6 +306,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 5
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -170,14 +320,18 @@
       "title": "M 5.1, Central Mid-Atlantic Ridge",
       "first_seen_at": "2026-06-18T03:39:26+00:00",
       "last_seen_at": "2026-06-18T03:39:26+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "previous_run_count": 2,
+      "last_run_count": 0,
+      "momentum_delta": -2,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -189,10 +343,10 @@
       "title": "Dicklesworthstone/frankenterm",
       "first_seen_at": "2026-06-18T02:20:10+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T02:20:10+00:00",
@@ -200,6 +354,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -211,10 +369,10 @@
       "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-17T21:31:36+00:00",
@@ -263,6 +421,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -273,10 +435,10 @@
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
       "first_seen_at": "2026-06-18T02:20:10+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T02:20:10+00:00",
@@ -284,6 +446,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -295,10 +461,10 @@
       "title": "Agions/story-fab",
       "first_seen_at": "2026-06-18T02:20:10+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T02:20:10+00:00",
@@ -306,6 +472,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -317,10 +487,10 @@
       "title": "jeremylongshore/claude-code-plugins-plus-skills",
       "first_seen_at": "2026-06-18T02:20:10+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T02:20:10+00:00",
@@ -328,6 +498,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -339,10 +513,10 @@
       "title": "M 4.6, Venezuela",
       "first_seen_at": "2026-06-18T02:20:10+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T02:20:10+00:00",
@@ -350,6 +524,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -361,10 +539,10 @@
       "title": "M 4.6 - 33 km E of Boconó, Venezuela",
       "first_seen_at": "2026-06-18T02:20:10+00:00",
       "last_seen_at": "2026-06-18T02:20:10+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T02:20:10+00:00",
@@ -372,6 +550,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -399,6 +581,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -424,6 +610,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -455,6 +645,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -484,6 +678,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -515,6 +713,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -544,6 +746,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -575,6 +781,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -604,6 +814,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -635,6 +849,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -664,6 +882,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -695,6 +917,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -724,6 +950,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -755,6 +985,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -784,6 +1018,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -815,6 +1053,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -844,6 +1086,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -875,6 +1121,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -904,6 +1154,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -946,6 +1200,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -1001,6 +1259,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1054,6 +1316,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -1112,6 +1378,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -1183,6 +1453,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1252,6 +1526,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -1327,6 +1605,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1400,6 +1682,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -1475,6 +1761,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1548,6 +1838,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],
@@ -1623,6 +1917,10 @@
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1696,6 +1994,10 @@
         },
         {
           "at": "2026-06-18T03:39:26+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T05:21:32+00:00",
           "count": 0
         }
       ],

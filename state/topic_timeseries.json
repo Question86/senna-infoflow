@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T03:39:26Z",
+  "generated_at": "2026-06-18T05:21:32Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T03:39:26Z",
+      "last_seen_at": "2026-06-18T05:21:32Z",
       "last_trend_wucht": 17.0,
       "samples": [
         {
@@ -861,6 +861,26 @@
           "sample_index": 5939179,
           "timestamp_utc": "2026-06-18T03:39:26Z",
           "run_id": "2026-06-18T03-39-26Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 17.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 15.0,
@@ -1244,8 +1264,8 @@
     },
     "earthquake:mid-atlantic-ridge:5": {
       "topic_key": "earthquake:mid-atlantic-ridge:5",
-      "topic_label": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
-      "last_seen_at": "2026-06-18T03:39:26Z",
+      "topic_label": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
+      "last_seen_at": "2026-06-18T05:21:32Z",
       "last_trend_wucht": 16.0,
       "samples": [
         {
@@ -1266,6 +1286,26 @@
           "status": "emerging",
           "urls": [
             "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T05-21-32Z:earthquake:mid-atlantic-ridge:5",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "earthquake:mid-atlantic-ridge:5",
+          "topic_label": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 16.0,
+          "status": "mature",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547193"
           ]
         }
       ]
@@ -1490,6 +1530,202 @@
           "status": "emerging",
           "urls": [
             "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
+          ]
+        }
+      ]
+    },
+    "title:vmdeshpande-ai-agent-automation": {
+      "topic_key": "title:vmdeshpande-ai-agent-automation",
+      "topic_label": "vmDeshpande/ai-agent-automation",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:vmdeshpande-ai-agent-automation",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:vmdeshpande-ai-agent-automation",
+          "topic_label": "vmDeshpande/ai-agent-automation",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/vmDeshpande/ai-agent-automation"
+          ]
+        }
+      ]
+    },
+    "title:tracecathq-tracecat": {
+      "topic_key": "title:tracecathq-tracecat",
+      "topic_label": "TracecatHQ/tracecat",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:tracecathq-tracecat",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:tracecathq-tracecat",
+          "topic_label": "TracecatHQ/tracecat",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/TracecatHQ/tracecat"
+          ]
+        }
+      ]
+    },
+    "title:zhu1090093659-deepseek-pp": {
+      "topic_key": "title:zhu1090093659-deepseek-pp",
+      "topic_label": "zhu1090093659/deepseek-pp",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:zhu1090093659-deepseek-pp",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:zhu1090093659-deepseek-pp",
+          "topic_label": "zhu1090093659/deepseek-pp",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/zhu1090093659/deepseek-pp"
+          ]
+        }
+      ]
+    },
+    "title:omnimind-ai-openomnibot": {
+      "topic_key": "title:omnimind-ai-openomnibot",
+      "topic_label": "omnimind-ai/OpenOmniBot",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:omnimind-ai-openomnibot",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:omnimind-ai-openomnibot",
+          "topic_label": "omnimind-ai/OpenOmniBot",
+          "network_score": 22.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 22.0,
+          "trend_wucht": 24.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/omnimind-ai/OpenOmniBot"
+          ]
+        }
+      ]
+    },
+    "title:rpamis-comet": {
+      "topic_key": "title:rpamis-comet",
+      "topic_label": "rpamis/comet",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 17.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:rpamis-comet",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:rpamis-comet",
+          "topic_label": "rpamis/comet",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 15.0,
+          "trend_wucht": 17.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/rpamis/comet"
+          ]
+        }
+      ]
+    },
+    "title:m-4.3-guerrero-mexico": {
+      "topic_key": "title:m-4.3-guerrero-mexico",
+      "topic_label": "M 4.3, Guerrero, Mexico",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:m-4.3-guerrero-mexico",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:m-4.3-guerrero-mexico",
+          "topic_label": "M 4.3, Guerrero, Mexico",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvhr"
+          ]
+        }
+      ]
+    },
+    "title:m-5.6-central-mid-atlantic-ridge": {
+      "topic_key": "title:m-5.6-central-mid-atlantic-ridge",
+      "topic_label": "M 5.6, Central Mid-Atlantic Ridge",
+      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T05-21-32Z:title:m-5.6-central-mid-atlantic-ridge",
+          "sample_index": 5939200,
+          "timestamp_utc": "2026-06-18T05:21:32Z",
+          "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:m-5.6-central-mid-atlantic-ridge",
+          "topic_label": "M 5.6, Central Mid-Atlantic Ridge",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvfx"
           ]
         }
       ]
