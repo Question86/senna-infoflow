@@ -1,11 +1,12 @@
 # Senna Trend Ranking
 
-- **Dicklesworthstone/frankenterm** — `25.0` `emerging` `title:dicklesworthstone-frankenterm`
-- **Leak confirms OpenAI is testing a ChatGPT for Science subscription** — `25.0` `emerging` `title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription`
+- **calf-ai/calfkit-sdk** — `25.0` `emerging` `title:calf-ai-calfkit-sdk`
+- **startino/aitino** — `24.0` `emerging` `title:startino-aitino`
 - **Election Betting Odds by Maxim Lott and John Stossel** — `17.0` `mature` `title:election-betting-odds-by-maxim-lott-and-john-stossel`
-- **Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.** — `16.0` `emerging` `earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4`
-- **Agions/story-fab** — `15.0` `emerging` `title:agions-story-fab`
-- **jeremylongshore/claude-code-plugins-plus-skills** — `15.0` `emerging` `title:jeremylongshore-claude-code-plugins-plus-skills`
-- **M 4.6, Venezuela** — `12.0` `emerging` `title:m-4.6-venezuela`
-- **M 4.6 - 33 km E of Boconó, Venezuela** — `9.0` `emerging` `earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6`
-- **Tropical Storm Arthur Graphics** — `9.0` `mature` `title:tropical-storm-arthur-graphics`
+- **Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.** — `16.0` `emerging` `earthquake:mid-atlantic-ridge:5`
+- **linora-u/AgentLoom** — `15.0` `emerging` `title:linora-u-agentloom`
+- **Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)** — `14.0` `emerging` `title:summary-for-post-tropical-cyclone-arthur-at1-al012026`
+- **Post-Tropical Cyclone Arthur Forecast Discussion Number 8** — `12.0` `emerging` `title:post-tropical-cyclone-arthur-forecast-discussion-number-8`
+- **Post-Tropical Cyclone Arthur Wind Speed Probabilities Number 8** — `12.0` `emerging` `title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8`
+- **Post-Tropical Cyclone Arthur Forecast Advisory Number 8** — `12.0` `emerging` `title:post-tropical-cyclone-arthur-forecast-advisory-number-8`
+- **M 5.1, Central Mid-Atlantic Ridge** — `12.0` `emerging` `title:m-5.1-central-mid-atlantic-ridge`

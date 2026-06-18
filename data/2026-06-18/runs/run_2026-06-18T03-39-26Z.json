@@ -1,0 +1,1540 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T03-39-26Z",
+  "generated_at": "2026-06-18T03:39:26Z",
+  "latest": {
+    "generated_at": "2026-06-18T03:39:26+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 12,
+      "today_file_total": 39,
+      "high": 0,
+      "medium": 6,
+      "observe": 6,
+      "source_errors": 7
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "calf-ai/calfkit-sdk",
+          "url": "https://github.com/calf-ai/calfkit-sdk",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T02:39:53+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "🐮 The SDK to build AI agents as event-driven microservices",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "9f196ccf9401eda11d98"
+        },
+        {
+          "title": "startino/aitino",
+          "url": "https://github.com/startino/aitino",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T03:14:08+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Aitino is a platform that allows for the creation of crews of AI Agents to help you automate tasks and solve complex problems.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 22,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "f54068b519c5dd69b1a3"
+        },
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T03:38:21+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 15,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest",
+            "public_health_biosecurity"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election",
+            "public_health_biosecurity: WHO"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ",
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "GSK",
+            "AZN",
+            "TMO",
+            "DHR"
+          ],
+          "id": "fc9deff6064a919939a9"
+        },
+        {
+          "title": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-18T03:06:31+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "On 6/18/2026 2:44:43 AM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting No people affected in 100km. The earthquake had Magnitude 5.1M, Depth:10km.",
+          "matched_keywords": [
+            "earthquake",
+            "GitHub",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 14,
+          "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "7e77517f3213df5cd44d"
+        },
+        {
+          "title": "linora-u/AgentLoom",
+          "url": "https://github.com/linora-u/AgentLoom",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T03:31:32+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability, and resume support.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "b0ed78e6c4875eeced7b"
+        },
+        {
+          "title": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-18T02:48:12+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "...ARTHUR DEGENERATES TO A LOW PRESSURE AREA ALONG THE UPPER TEXAS COAST... ...LIFE-THREATENING FLOODING EXPECTED TO CONTINUE ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 10:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.7, -94.5 with movement NE at 9 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 35 mph.",
+          "matched_keywords": [
+            "cyclone",
+            "flood",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 12,
+          "relevance_reason": "cyclone (+2.8); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph markets via insurance_disaster, construction_rebuild, energy_oil_gas_uranium: LOW (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: cyclone, flood"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "02cb79e7e09bffb11603"
+        }
+      ],
+      "observe": [
+        {
+          "title": "Post-Tropical Cyclone Arthur Forecast Discussion Number 8",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-18T02:49:07+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Issued at 1000 PM CDT Wed Jun 17 2026 697 WTNT41 KNHC 180249 TCDAT1 Post-Tropical Cyclone Arthur Discussion Number 8 NWS National Hurricane Center Miami FL AL012026 1000 PM CDT Wed Jun 17 2026 Surface observations indicated that the center of Arthur re-formed near Galveston around 21-22Z in response to an offshore convective burst. Since that time, there has been no organized convection near the center, and the circ…",
+          "matched_keywords": [
+            "cyclone",
+            "hurricane",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "hurricane (+2.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: hurricane, cyclone"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "79288fc003ec0305a554"
+        },
+        {
+          "title": "Post-Tropical Cyclone Arthur Wind Speed Probabilities Number 8",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-18T02:48:43+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Issued at 0300 UTC THU JUN 18 2026 000 FONT11 KNHC 180248 PWSAT1 POST-TROPICAL CYCLONE ARTHUR WIND SPEED PROBABILITIES NUMBER 8 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 0300 UTC THU JUN 18 2026 AT 0300Z THE CENTER OF POST-TROPICAL CYCLONE ARTHUR WAS LOCATED NEAR LATITUDE 29.7 NORTH...LONGITUDE 94.5 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 30 KTS...35 MPH...55 KM/H. Z INDICATES COORDINATED UNIVERSAL TIME (GREENW…",
+          "matched_keywords": [
+            "cyclone",
+            "hurricane",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "hurricane (+2.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: hurricane, cyclone"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "63df3e9ad50f53613709"
+        },
+        {
+          "title": "Post-Tropical Cyclone Arthur Forecast Advisory Number 8",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-18T02:47:42+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Issued at 0300 UTC THU JUN 18 2026 000 WTNT21 KNHC 180247 TCMAT1 POST-TROPICAL CYCLONE ARTHUR FORECAST/ADVISORY NUMBER 8 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 0300 UTC THU JUN 18 2026 POST-TROPICAL CYCLONE CENTER LOCATED NEAR 29.7N 94.5W AT 18/0300Z POSITION ACCURATE WITHIN 30 NM PRESENT MOVEMENT TOWARD THE NORTHEAST OR 40 DEGREES AT 8 KT ESTIMATED MINIMUM CENTRAL PRESSURE 1000 MB MAX SUSTAINED WINDS 30 KT…",
+          "matched_keywords": [
+            "cyclone",
+            "hurricane",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "hurricane (+2.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: hurricane, cyclone"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "629698eae602ffc48e60"
+        },
+        {
+          "title": "M 5.1, Central Mid-Atlantic Ridge",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "2026-06-18 02:44:43 -0.34 -19.36 10 km A",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "496391fcf82378561da5"
+        },
+        {
+          "title": "Post-Tropical Cyclone Arthur Graphics",
+          "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone",
+          "source": "NOAA NHC Atlantic Tropical Cyclones",
+          "source_type": "rss",
+          "published_at": "2026-06-18T03:20:16+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Wind Speed Probabilities last updated Thu, 18 Jun 2026 03:20:16 GMT",
+          "matched_keywords": [
+            "cyclone",
+            "Watchgraph:storms_floods_weather"
+          ],
+          "relevance_score": 8,
+          "relevance_reason": "cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "storms_floods_weather"
+          ],
+          "watchgraph_reasons": [
+            "storms_floods_weather: cyclone"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW",
+            "XOM",
+            "CVX",
+            "SHEL",
+            "TTE",
+            "BP",
+            "ENB",
+            "SU",
+            "EQNR",
+            "CCJ",
+            "URA"
+          ],
+          "id": "a3b98fbdc813d87eb5de"
+        },
+        {
+          "title": "M 5.1 - central Mid-Atlantic Ridge",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c",
+          "source": "USGS M4.5+ Earthquakes Past Hour",
+          "source_type": "rss",
+          "published_at": "2026-06-18T03:03:28.040+00:00",
+          "fetched_at": "2026-06-18T03:38:23+00:00",
+          "summary": "Time 2026-06-18 02:44:43 UTC 2026-06-18 02:44:43 UTC at epicenter Location 0.342°S 19.203°W Depth 10.00 km (6.21 mi)",
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 7,
+          "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "18000a640ccfd4405672"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "calf-ai/calfkit-sdk",
+        "url": "https://github.com/calf-ai/calfkit-sdk",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T02:39:53+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "🐮 The SDK to build AI agents as event-driven microservices",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "9f196ccf9401eda11d98"
+      },
+      {
+        "title": "startino/aitino",
+        "url": "https://github.com/startino/aitino",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T03:14:08+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Aitino is a platform that allows for the creation of crews of AI Agents to help you automate tasks and solve complex problems.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "f54068b519c5dd69b1a3"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T03:38:21+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election",
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ",
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "fc9deff6064a919939a9"
+      },
+      {
+        "title": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T03:06:31+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "On 6/18/2026 2:44:43 AM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting No people affected in 100km. The earthquake had Magnitude 5.1M, Depth:10km.",
+        "matched_keywords": [
+          "earthquake",
+          "GitHub",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7e77517f3213df5cd44d"
+      },
+      {
+        "title": "linora-u/AgentLoom",
+        "url": "https://github.com/linora-u/AgentLoom",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T03:31:32+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability, and resume support.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0ed78e6c4875eeced7b"
+      },
+      {
+        "title": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
+        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-18T02:48:12+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "...ARTHUR DEGENERATES TO A LOW PRESSURE AREA ALONG THE UPPER TEXAS COAST... ...LIFE-THREATENING FLOODING EXPECTED TO CONTINUE ACROSS PORTIONS OF THE SOUTHEASTERN UNITED STATES... As of 10:00 PM CDT Wed Jun 17 the center of Arthur was located near 29.7, -94.5 with movement NE at 9 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 35 mph.",
+        "matched_keywords": [
+          "cyclone",
+          "flood",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "cyclone (+2.8); flood (+2.0); recent (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph markets via insurance_disaster, construction_rebuild, energy_oil_gas_uranium: LOW (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: cyclone, flood"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "02cb79e7e09bffb11603"
+      },
+      {
+        "title": "Post-Tropical Cyclone Arthur Forecast Discussion Number 8",
+        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-18T02:49:07+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Issued at 1000 PM CDT Wed Jun 17 2026 697 WTNT41 KNHC 180249 TCDAT1 Post-Tropical Cyclone Arthur Discussion Number 8 NWS National Hurricane Center Miami FL AL012026 1000 PM CDT Wed Jun 17 2026 Surface observations indicated that the center of Arthur re-formed near Galveston around 21-22Z in response to an offshore convective burst. Since that time, there has been no organized convection near the center, and the circ…",
+        "matched_keywords": [
+          "cyclone",
+          "hurricane",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "hurricane (+2.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: hurricane, cyclone"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "79288fc003ec0305a554"
+      },
+      {
+        "title": "Post-Tropical Cyclone Arthur Wind Speed Probabilities Number 8",
+        "url": "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-18T02:48:43+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Issued at 0300 UTC THU JUN 18 2026 000 FONT11 KNHC 180248 PWSAT1 POST-TROPICAL CYCLONE ARTHUR WIND SPEED PROBABILITIES NUMBER 8 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 0300 UTC THU JUN 18 2026 AT 0300Z THE CENTER OF POST-TROPICAL CYCLONE ARTHUR WAS LOCATED NEAR LATITUDE 29.7 NORTH...LONGITUDE 94.5 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 30 KTS...35 MPH...55 KM/H. Z INDICATES COORDINATED UNIVERSAL TIME (GREENW…",
+        "matched_keywords": [
+          "cyclone",
+          "hurricane",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "hurricane (+2.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: hurricane, cyclone"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "63df3e9ad50f53613709"
+      },
+      {
+        "title": "Post-Tropical Cyclone Arthur Forecast Advisory Number 8",
+        "url": "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-18T02:47:42+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Issued at 0300 UTC THU JUN 18 2026 000 WTNT21 KNHC 180247 TCMAT1 POST-TROPICAL CYCLONE ARTHUR FORECAST/ADVISORY NUMBER 8 NWS NATIONAL HURRICANE CENTER MIAMI FL AL012026 0300 UTC THU JUN 18 2026 POST-TROPICAL CYCLONE CENTER LOCATED NEAR 29.7N 94.5W AT 18/0300Z POSITION ACCURATE WITHIN 30 NM PRESENT MOVEMENT TOWARD THE NORTHEAST OR 40 DEGREES AT 8 KT ESTIMATED MINIMUM CENTRAL PRESSURE 1000 MB MAX SUSTAINED WINDS 30 KT…",
+        "matched_keywords": [
+          "cyclone",
+          "hurricane",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "hurricane (+2.0); cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: hurricane, cyclone"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "629698eae602ffc48e60"
+      },
+      {
+        "title": "M 5.1, Central Mid-Atlantic Ridge",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "2026-06-18 02:44:43 -0.34 -19.36 10 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "496391fcf82378561da5"
+      },
+      {
+        "title": "Post-Tropical Cyclone Arthur Graphics",
+        "url": "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone",
+        "source": "NOAA NHC Atlantic Tropical Cyclones",
+        "source_type": "rss",
+        "published_at": "2026-06-18T03:20:16+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Wind Speed Probabilities last updated Thu, 18 Jun 2026 03:20:16 GMT",
+        "matched_keywords": [
+          "cyclone",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "cyclone (+2.8); recent (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: cyclone"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "a3b98fbdc813d87eb5de"
+      },
+      {
+        "title": "M 5.1 - central Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-18T03:03:28.040+00:00",
+        "fetched_at": "2026-06-18T03:38:23+00:00",
+        "summary": "Time 2026-06-18 02:44:43 UTC 2026-06-18 02:44:43 UTC at epicenter Location 0.342°S 19.203°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "earthquake (+2.4); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "18000a640ccfd4405672"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-18T03:39:26+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 12,
+      "clusters": 7,
+      "cross_source_confrmed": 1,
+      "hot": 4
+    },
+    "clusters": [
+      {
+        "key": "storm:arthur",
+        "title": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
+        "sources": [
+          "NOAA NHC Atlantic Tropical Cyclones"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml",
+          "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml",
+          "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml",
+          "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml",
+          "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone"
+        ],
+        "finding_count": 5,
+        "max_score": 12,
+        "credibility_total": 6.75,
+        "cross_source_confirmed": false,
+        "momentum_delta": 4,
+        "momentum_status": "increasing",
+        "network_score": 37.5,
+        "hot": true,
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "earthquake:central mid-atlantic ridge:5.1",
+        "title": "M 5.1, Central Mid-Atlantic Ridge",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "USGS M4.5+ Earthquakes Past Hour"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy",
+          "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
+        ],
+        "finding_count": 2,
+        "max_score": 10,
+        "credibility_total": 2.7,
+        "cross_source_confirmed": true,
+        "momentum_delta": 2,
+        "momentum_status": "increasing",
+        "network_score": 30.4,
+        "hot": true,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:calf-ai/calfkit-sdk",
+        "title": "calf-ai/calfkit-sdk",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/calf-ai/calfkit-sdk"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:startino/aitino",
+        "title": "startino/aitino",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/startino/aitino"
+        ],
+        "finding_count": 1,
+        "max_score": 22,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 26.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "earthquake:central mid-atlantic ridge:5.0",
+        "title": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184"
+        ],
+        "finding_count": 1,
+        "max_score": 14,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 19.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 15,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:linora-u/agentloom",
+        "title": "linora-u/AgentLoom",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/linora-u/AgentLoom"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:calf-ai-calfkit-sdk",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:calf-ai-calfkit-sdk",
+      "topic_label": "calf-ai/calfkit-sdk",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/calf-ai/calfkit-sdk"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:startino-aitino",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:startino-aitino",
+      "topic_label": "startino/aitino",
+      "network_score": 22.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/startino/aitino"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 17.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:earthquake:mid-atlantic-ridge:5",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "earthquake:mid-atlantic-ridge:5",
+      "topic_label": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:linora-u-agentloom",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:linora-u-agentloom",
+      "topic_label": "linora-u/AgentLoom",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/linora-u/AgentLoom"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:summary-for-post-tropical-cyclone-arthur-at1-al012026",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:summary-for-post-tropical-cyclone-arthur-at1-al012026",
+      "topic_label": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-forecast-discussion-number-8",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-forecast-discussion-number-8",
+      "topic_label": "Post-Tropical Cyclone Arthur Forecast Discussion Number 8",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8",
+      "topic_label": "Post-Tropical Cyclone Arthur Wind Speed Probabilities Number 8",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-forecast-advisory-number-8",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-forecast-advisory-number-8",
+      "topic_label": "Post-Tropical Cyclone Arthur Forecast Advisory Number 8",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:m-5.1-central-mid-atlantic-ridge",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:m-5.1-central-mid-atlantic-ridge",
+      "topic_label": "M 5.1, Central Mid-Atlantic Ridge",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-graphics",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-graphics",
+      "topic_label": "Post-Tropical Cyclone Arthur Graphics",
+      "network_score": 8.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 8.0,
+      "trend_wucht": 10.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:earthquake:mid-atlantic-ridge:5.1",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "earthquake:mid-atlantic-ridge:5.1",
+      "topic_label": "M 5.1 - central Mid-Atlantic Ridge",
+      "network_score": 7.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "score_delta_5m": 7.0,
+      "trend_wucht": 9.0,
+      "status": "emerging",
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
+      ]
+    }
+  ]
+}

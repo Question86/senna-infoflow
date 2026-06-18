@@ -1,13 +1,13 @@
 # Senna Pipeline Health
 
-_Generiert: 2026-06-18T02:20:10Z_
+_Generiert: 2026-06-18T03:39:27Z_
 
 Status: `warning`
 
 ## State Hygiene
 
-- seen original: `290`
-- seen kept: `290`
+- seen original: `303`
+- seen kept: `303`
 - removed expired: `0`
 - removed overflow: `0`
 - malformed removed: `0`

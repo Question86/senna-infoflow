@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T02-20-10Z",
-  "generated_at": "2026-06-18T02:20:10Z",
+  "run_id": "2026-06-18T03-39-26Z",
+  "generated_at": "2026-06-18T03:39:26Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T02-20-10Z:title:dicklesworthstone-frankenterm",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "title:dicklesworthstone-frankenterm",
-      "topic_label": "Dicklesworthstone/frankenterm",
+      "sample_id": "2026-06-18T03-39-26Z:title:calf-ai-calfkit-sdk",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:calf-ai-calfkit-sdk",
+      "topic_label": "calf-ai/calfkit-sdk",
       "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
@@ -21,34 +21,34 @@
       "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/Dicklesworthstone/frankenterm"
+        "https://github.com/calf-ai/calfkit-sdk"
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
-      "topic_label": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "network_score": 23.0,
+      "sample_id": "2026-06-18T03-39-26Z:title:startino-aitino",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:startino-aitino",
+      "topic_label": "startino/aitino",
+      "network_score": 22.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "BleepingComputer Security"
+        "GitHub Search Breakout AI Tools"
       ],
-      "score_delta_5m": 23.0,
-      "trend_wucht": 25.0,
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
       "status": "emerging",
       "urls": [
-        "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/"
+        "https://github.com/startino/aitino"
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
+      "sample_id": "2026-06-18T03-39-26Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 15.0,
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-venezuela-1:4",
-      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in Venezuela 18/06/2026 01:23 UTC, 2.8 million in 100km.",
+      "sample_id": "2026-06-18T03-39-26Z:earthquake:mid-atlantic-ridge:5",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "earthquake:mid-atlantic-ridge:5",
+      "topic_label": "Green earthquake (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 02:44 UTC, No people affected in 100km.",
       "network_score": 14.0,
       "mention_count": 1,
       "source_count": 1,
@@ -81,16 +81,16 @@
       "trend_wucht": 16.0,
       "status": "emerging",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547166"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547184"
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:title:agions-story-fab",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "title:agions-story-fab",
-      "topic_label": "Agions/story-fab",
+      "sample_id": "2026-06-18T03-39-26Z:title:linora-u-agentloom",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:linora-u-agentloom",
+      "topic_label": "linora-u/AgentLoom",
       "network_score": 13.0,
       "mention_count": 1,
       "source_count": 1,
@@ -101,36 +101,96 @@
       "trend_wucht": 15.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/Agions/story-fab"
+        "https://github.com/linora-u/AgentLoom"
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:title:jeremylongshore-claude-code-plugins-plus-skills",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "title:jeremylongshore-claude-code-plugins-plus-skills",
-      "topic_label": "jeremylongshore/claude-code-plugins-plus-skills",
-      "network_score": 13.0,
+      "sample_id": "2026-06-18T03-39-26Z:title:summary-for-post-tropical-cyclone-arthur-at1-al012026",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:summary-for-post-tropical-cyclone-arthur-at1-al012026",
+      "topic_label": "Summary for Post-Tropical Cyclone Arthur (AT1/AL012026)",
+      "network_score": 12.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "NOAA NHC Atlantic Tropical Cyclones"
       ],
-      "score_delta_5m": 13.0,
-      "trend_wucht": 15.0,
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+        "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml"
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:title:m-4.6-venezuela",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "title:m-4.6-venezuela",
-      "topic_label": "M 4.6, Venezuela",
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-forecast-discussion-number-8",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-forecast-discussion-number-8",
+      "topic_label": "Post-Tropical Cyclone Arthur Forecast Discussion Number 8",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-wind-speed-probabilities-number-8",
+      "topic_label": "Post-Tropical Cyclone Arthur Wind Speed Probabilities Number 8",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-forecast-advisory-number-8",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-forecast-advisory-number-8",
+      "topic_label": "Post-Tropical Cyclone Arthur Forecast Advisory Number 8",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:title:m-5.1-central-mid-atlantic-ridge",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:m-5.1-central-mid-atlantic-ridge",
+      "topic_label": "M 5.1, Central Mid-Atlantic Ridge",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -141,16 +201,36 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy"
       ]
     },
     {
-      "sample_id": "2026-06-18T02-20-10Z:earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6",
-      "topic_label": "M 4.6 - 33 km E of Boconó, Venezuela",
+      "sample_id": "2026-06-18T03-39-26Z:title:post-tropical-cyclone-arthur-graphics",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "title:post-tropical-cyclone-arthur-graphics",
+      "topic_label": "Post-Tropical Cyclone Arthur Graphics",
+      "network_score": 8.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NOAA NHC Atlantic Tropical Cyclones"
+      ],
+      "score_delta_5m": 8.0,
+      "trend_wucht": 10.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T03-39-26Z:earthquake:mid-atlantic-ridge:5.1",
+      "sample_index": 5939179,
+      "timestamp_utc": "2026-06-18T03:39:26Z",
+      "run_id": "2026-06-18T03-39-26Z",
+      "topic_key": "earthquake:mid-atlantic-ridge:5.1",
+      "topic_label": "M 5.1 - central Mid-Atlantic Ridge",
       "network_score": 7.0,
       "mention_count": 1,
       "source_count": 1,
@@ -161,27 +241,7 @@
       "trend_wucht": 9.0,
       "status": "emerging",
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su81"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T02-20-10Z:title:tropical-storm-arthur-graphics",
-      "sample_index": 5939164,
-      "timestamp_utc": "2026-06-18T02:20:10Z",
-      "run_id": "2026-06-18T02-20-10Z",
-      "topic_key": "title:tropical-storm-arthur-graphics",
-      "topic_label": "Tropical Storm Arthur Graphics",
-      "network_score": 7.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NOAA NHC Atlantic Tropical Cyclones"
-      ],
-      "score_delta_5m": 0.0,
-      "trend_wucht": 9.0,
-      "status": "mature",
-      "urls": [
-        "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/020101.shtml?cone"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
       ]
     }
   ]
