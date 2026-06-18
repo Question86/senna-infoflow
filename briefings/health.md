@@ -1,13 +1,13 @@
 # Senna Pipeline Health
 
-_Generiert: 2026-06-18T00:03:45Z_
+_Generiert: 2026-06-18T00:36:09Z_
 
-Status: `ok`
+Status: `warning`
 
 ## State Hygiene
 
-- seen original: `260`
-- seen kept: `260`
+- seen original: `277`
+- seen kept: `277`
 - removed expired: `0`
 - removed overflow: `0`
 - malformed removed: `0`
@@ -15,11 +15,11 @@ Status: `ok`
 
 ## Source Error Journal
 
-- appended this run: `0`
+- appended this run: `8`
 
 ## Output Validation
 
-- Keine Strukturprobleme erkannt.
+- **warning** `source_errors_present` — 8 source error(s) in latest run.
 
 ---
 

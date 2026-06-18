@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T00:03:45Z",
+  "generated_at": "2026-06-18T00:36:09Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -374,6 +374,482 @@
           "status": "emerging",
           "urls": [
             "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547136"
+          ]
+        }
+      ]
+    },
+    "title:marcusquinn-aidevops": {
+      "topic_key": "title:marcusquinn-aidevops",
+      "topic_label": "marcusquinn/aidevops",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:marcusquinn-aidevops",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:marcusquinn-aidevops",
+          "topic_label": "marcusquinn/aidevops",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/marcusquinn/aidevops"
+          ]
+        }
+      ]
+    },
+    "title:lahfir-agent-desktop": {
+      "topic_key": "title:lahfir-agent-desktop",
+      "topic_label": "lahfir/agent-desktop",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:lahfir-agent-desktop",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:lahfir-agent-desktop",
+          "topic_label": "lahfir/agent-desktop",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/lahfir/agent-desktop"
+          ]
+        }
+      ]
+    },
+    "title:activepieces-activepieces": {
+      "topic_key": "title:activepieces-activepieces",
+      "topic_label": "activepieces/activepieces",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:activepieces-activepieces",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:activepieces-activepieces",
+          "topic_label": "activepieces/activepieces",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/activepieces/activepieces"
+          ]
+        }
+      ]
+    },
+    "title:bagidea-bagidea-office": {
+      "topic_key": "title:bagidea-bagidea-office",
+      "topic_label": "bagidea/bagidea-office",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:bagidea-bagidea-office",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:bagidea-bagidea-office",
+          "topic_label": "bagidea/bagidea-office",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/bagidea/bagidea-office"
+          ]
+        }
+      ]
+    },
+    "title:arvo-ai-aurora": {
+      "topic_key": "title:arvo-ai-aurora",
+      "topic_label": "Arvo-AI/aurora",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:arvo-ai-aurora",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:arvo-ai-aurora",
+          "topic_label": "Arvo-AI/aurora",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Arvo-AI/aurora"
+          ]
+        }
+      ]
+    },
+    "title:l3montree-dev-devguard": {
+      "topic_key": "title:l3montree-dev-devguard",
+      "topic_label": "l3montree-dev/devguard",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:l3montree-dev-devguard",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:l3montree-dev-devguard",
+          "topic_label": "l3montree-dev/devguard",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Security Breakout Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/l3montree-dev/devguard"
+          ]
+        }
+      ]
+    },
+    "title:langgenius-dify": {
+      "topic_key": "title:langgenius-dify",
+      "topic_label": "langgenius/dify",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:langgenius-dify",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:langgenius-dify",
+          "topic_label": "langgenius/dify",
+          "network_score": 22.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 22.0,
+          "trend_wucht": 24.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/langgenius/dify"
+          ]
+        }
+      ]
+    },
+    "title:simstudioai-sim": {
+      "topic_key": "title:simstudioai-sim",
+      "topic_label": "simstudioai/sim",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:simstudioai-sim",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:simstudioai-sim",
+          "topic_label": "simstudioai/sim",
+          "network_score": 22.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 22.0,
+          "trend_wucht": 24.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/simstudioai/sim"
+          ]
+        }
+      ]
+    },
+    "title:bytechefhq-bytechef": {
+      "topic_key": "title:bytechefhq-bytechef",
+      "topic_label": "bytechefhq/bytechef",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 23.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:bytechefhq-bytechef",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:bytechefhq-bytechef",
+          "topic_label": "bytechefhq/bytechef",
+          "network_score": 21.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 21.0,
+          "trend_wucht": 23.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/bytechefhq/bytechef"
+          ]
+        }
+      ]
+    },
+    "title:joewinke-jat": {
+      "topic_key": "title:joewinke-jat",
+      "topic_label": "joewinke/jat",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 23.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:joewinke-jat",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:joewinke-jat",
+          "topic_label": "joewinke/jat",
+          "network_score": 21.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 21.0,
+          "trend_wucht": 23.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/joewinke/jat"
+          ]
+        }
+      ]
+    },
+    "title:shobcoder-shob": {
+      "topic_key": "title:shobcoder-shob",
+      "topic_label": "shobcoder/shob",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 23.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:shobcoder-shob",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:shobcoder-shob",
+          "topic_label": "shobcoder/shob",
+          "network_score": 21.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 21.0,
+          "trend_wucht": 23.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/shobcoder/shob"
+          ]
+        }
+      ]
+    },
+    "title:generalbots-generalbots": {
+      "topic_key": "title:generalbots-generalbots",
+      "topic_label": "generalbots/generalbots",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 21.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:generalbots-generalbots",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:generalbots-generalbots",
+          "topic_label": "generalbots/generalbots",
+          "network_score": 19.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 19.0,
+          "trend_wucht": 21.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/generalbots/generalbots"
+          ]
+        }
+      ]
+    },
+    "title:pipeshub-ai-pipeshub-ai": {
+      "topic_key": "title:pipeshub-ai-pipeshub-ai",
+      "topic_label": "pipeshub-ai/pipeshub-ai",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:pipeshub-ai-pipeshub-ai",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:pipeshub-ai-pipeshub-ai",
+          "topic_label": "pipeshub-ai/pipeshub-ai",
+          "network_score": 18.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 18.0,
+          "trend_wucht": 20.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/pipeshub-ai/pipeshub-ai"
+          ]
+        }
+      ]
+    },
+    "title:heymrun-heym": {
+      "topic_key": "title:heymrun-heym",
+      "topic_label": "heymrun/heym",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:heymrun-heym",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:heymrun-heym",
+          "topic_label": "heymrun/heym",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/heymrun/heym"
+          ]
+        }
+      ]
+    },
+    "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 17.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 15.0,
+          "trend_wucht": 17.0,
+          "status": "emerging",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        }
+      ]
+    },
+    "title:enescingoz-awesome-n8n-templates": {
+      "topic_key": "title:enescingoz-awesome-n8n-templates",
+      "topic_label": "enescingoz/awesome-n8n-templates",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:enescingoz-awesome-n8n-templates",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:enescingoz-awesome-n8n-templates",
+          "topic_label": "enescingoz/awesome-n8n-templates",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/enescingoz/awesome-n8n-templates"
+          ]
+        }
+      ]
+    },
+    "title:tornikebolokadze1-cyber-awesome-ai-pulse-georgia": {
+      "topic_key": "title:tornikebolokadze1-cyber-awesome-ai-pulse-georgia",
+      "topic_label": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T00-36-09Z:title:tornikebolokadze1-cyber-awesome-ai-pulse-georgia",
+          "sample_index": 5939143,
+          "timestamp_utc": "2026-06-18T00:36:09Z",
+          "run_id": "2026-06-18T00-36-09Z",
+          "topic_key": "title:tornikebolokadze1-cyber-awesome-ai-pulse-georgia",
+          "topic_label": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia"
           ]
         }
       ]

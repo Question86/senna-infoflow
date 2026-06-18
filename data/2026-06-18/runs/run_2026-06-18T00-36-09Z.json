@@ -1,0 +1,2013 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T00-36-09Z",
+  "generated_at": "2026-06-18T00:36:09Z",
+  "latest": {
+    "generated_at": "2026-06-18T00:36:09+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 17,
+      "today_file_total": 18,
+      "high": 0,
+      "medium": 17,
+      "observe": 0,
+      "source_errors": 8
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "marcusquinn/aidevops",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T00:30:39+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Security",
+            "Webentwicklung"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Security (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "0d516b8aae7f54556289"
+        },
+        {
+          "title": "lahfir/agent-desktop",
+          "url": "https://github.com/lahfir/agent-desktop",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T00:29:56+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "b3b604ab4c59b09d6afd"
+        },
+        {
+          "title": "activepieces/activepieces",
+          "url": "https://github.com/activepieces/activepieces",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T23:59:08+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents, MCP"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "0bec57c5c4f4184bf355"
+        },
+        {
+          "title": "bagidea/bagidea-office",
+          "url": "https://github.com/bagidea/bagidea-office",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T23:46:01+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn & hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/OpenAI/Gemini/Groq/Ollama…), workflows, plugins, voice & Telegram/Discord/LINE. Open source.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub",
+            "Open Source",
+            "OpenAI"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "799e84adf0a4bb696ffa"
+        },
+        {
+          "title": "Arvo-AI/aurora",
+          "url": "https://github.com/Arvo-AI/aurora",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T22:23:29+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Open Source",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); Open Source (+4.0); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: PAGER"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "106a99e95824c97e9fcb"
+        },
+        {
+          "title": "l3montree-dev/devguard",
+          "url": "https://github.com/l3montree-dev/devguard",
+          "source": "GitHub Search Security Breakout Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T14:19:52+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project",
+          "matched_keywords": [
+            "GitHub",
+            "scanner",
+            "Security",
+            "Supply Chain Security",
+            "Webentwicklung"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); Security (+6.0); Supply Chain Security (+8.0); Webentwicklung (+4.0); scanner (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "6950fb688e40f96dde57"
+        },
+        {
+          "title": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T00:33:16+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Production-ready platform for agentic workflow development.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 22,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: agentic workflow"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "9ae0bdb31f4a0d38b4ad"
+        },
+        {
+          "title": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T00:11:50+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 22,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "fff908fffc634e054650"
+        },
+        {
+          "title": "bytechefhq/bytechef",
+          "url": "https://github.com/bytechefhq/bytechef",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T21:37:18+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub"
+          ],
+          "relevance_score": 21,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "0dd0f7189bb663358277"
+        },
+        {
+          "title": "joewinke/jat",
+          "url": "https://github.com/joewinke/jat",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T21:35:36+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "The World's First Agentic IDE. Visual dashboard: live sessions, task management, code editor, terminal. Epic Swarm parallel workflows. Auto-proceed rules. Automation patterns. Beads + Agent Mail + 50 bash tools. Supervise 20+ agents from one UI.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub"
+          ],
+          "relevance_score": 21,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "fe68ff903b969018dea9"
+        },
+        {
+          "title": "shobcoder/shob",
+          "url": "https://github.com/shobcoder/shob",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T20:05:09+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Shob – an AI agent that delivers high-quality coding & automation work",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub"
+          ],
+          "relevance_score": 21,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "8283867f0d5f0ac8046c"
+        },
+        {
+          "title": "generalbots/generalbots",
+          "url": "https://github.com/generalbots/generalbots",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T23:28:21+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtual assistants. Scales seamlessly from small deployments to large enterprise environments.",
+          "matched_keywords": [
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Webentwicklung"
+          ],
+          "relevance_score": 19,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "002761a9d00efa63da33"
+        },
+        {
+          "title": "pipeshub-ai/pipeshub-ai",
+          "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T21:23:57+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
+          "matched_keywords": [
+            "AI/KI",
+            "automation",
+            "GitHub"
+          ],
+          "relevance_score": 18,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "594f806b60a6073aa46c"
+        },
+        {
+          "title": "heymrun/heym",
+          "url": "https://github.com/heymrun/heym",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T21:15:51+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 16,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: MCP"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "83d4e94122288b2578a5"
+        },
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T00:33:18+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 15,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest",
+            "public_health_biosecurity"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election",
+            "public_health_biosecurity: WHO"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ",
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "GSK",
+            "AZN",
+            "TMO",
+            "DHR"
+          ],
+          "id": "bfedfcc14bfe3ddbee54"
+        },
+        {
+          "title": "enescingoz/awesome-n8n-templates",
+          "url": "https://github.com/enescingoz/awesome-n8n-templates",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T00:30:46+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "OpenAI",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 14,
+          "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph demote awesome (x0.45); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "05cae85567749cb7f64b"
+        },
+        {
+          "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+          "url": "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-17T22:16:09+00:00",
+          "fetched_at": "2026-06-18T00:35:06+00:00",
+          "summary": "A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "developer tools",
+            "GitHub"
+          ],
+          "relevance_score": 12,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); automation (+2.0); developer tools (+2.0); recent (+2.0); watchgraph demote awesome (x0.45); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "5800be2693dd84e8a38e"
+        }
+      ],
+      "observe": []
+    },
+    "findings": [
+      {
+        "title": "marcusquinn/aidevops",
+        "url": "https://github.com/marcusquinn/aidevops",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T00:30:39+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Security (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d516b8aae7f54556289"
+      },
+      {
+        "title": "lahfir/agent-desktop",
+        "url": "https://github.com/lahfir/agent-desktop",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T00:29:56+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "b3b604ab4c59b09d6afd"
+      },
+      {
+        "title": "activepieces/activepieces",
+        "url": "https://github.com/activepieces/activepieces",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T23:59:08+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents, MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "0bec57c5c4f4184bf355"
+      },
+      {
+        "title": "bagidea/bagidea-office",
+        "url": "https://github.com/bagidea/bagidea-office",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T23:46:01+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn & hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/OpenAI/Gemini/Groq/Ollama…), workflows, plugins, voice & Telegram/Discord/LINE. Open source.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Open Source",
+          "OpenAI"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "799e84adf0a4bb696ffa"
+      },
+      {
+        "title": "Arvo-AI/aurora",
+        "url": "https://github.com/Arvo-AI/aurora",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T22:23:29+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Open Source",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); Open Source (+4.0); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: PAGER"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "106a99e95824c97e9fcb"
+      },
+      {
+        "title": "l3montree-dev/devguard",
+        "url": "https://github.com/l3montree-dev/devguard",
+        "source": "GitHub Search Security Breakout Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T14:19:52+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project",
+        "matched_keywords": [
+          "GitHub",
+          "scanner",
+          "Security",
+          "Supply Chain Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); Security (+6.0); Supply Chain Security (+8.0); Webentwicklung (+4.0); scanner (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6950fb688e40f96dde57"
+      },
+      {
+        "title": "langgenius/dify",
+        "url": "https://github.com/langgenius/dify",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T00:33:16+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Production-ready platform for agentic workflow development.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: agentic workflow"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "9ae0bdb31f4a0d38b4ad"
+      },
+      {
+        "title": "simstudioai/sim",
+        "url": "https://github.com/simstudioai/sim",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T00:11:50+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "fff908fffc634e054650"
+      },
+      {
+        "title": "bytechefhq/bytechef",
+        "url": "https://github.com/bytechefhq/bytechef",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T21:37:18+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0dd0f7189bb663358277"
+      },
+      {
+        "title": "joewinke/jat",
+        "url": "https://github.com/joewinke/jat",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T21:35:36+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "The World's First Agentic IDE. Visual dashboard: live sessions, task management, code editor, terminal. Epic Swarm parallel workflows. Auto-proceed rules. Automation patterns. Beads + Agent Mail + 50 bash tools. Supervise 20+ agents from one UI.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fe68ff903b969018dea9"
+      },
+      {
+        "title": "shobcoder/shob",
+        "url": "https://github.com/shobcoder/shob",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T20:05:09+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Shob – an AI agent that delivers high-quality coding & automation work",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8283867f0d5f0ac8046c"
+      },
+      {
+        "title": "generalbots/generalbots",
+        "url": "https://github.com/generalbots/generalbots",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T23:28:21+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtual assistants. Scales seamlessly from small deployments to large enterprise environments.",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Webentwicklung"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "002761a9d00efa63da33"
+      },
+      {
+        "title": "pipeshub-ai/pipeshub-ai",
+        "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T21:23:57+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "GitHub"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "594f806b60a6073aa46c"
+      },
+      {
+        "title": "heymrun/heym",
+        "url": "https://github.com/heymrun/heym",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T21:15:51+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "83d4e94122288b2578a5"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T00:33:18+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election",
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ",
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "bfedfcc14bfe3ddbee54"
+      },
+      {
+        "title": "enescingoz/awesome-n8n-templates",
+        "url": "https://github.com/enescingoz/awesome-n8n-templates",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T00:30:46+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph demote awesome (x0.45); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "05cae85567749cb7f64b"
+      },
+      {
+        "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+        "url": "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-17T22:16:09+00:00",
+        "fetched_at": "2026-06-18T00:35:06+00:00",
+        "summary": "A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "developer tools",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); automation (+2.0); developer tools (+2.0); recent (+2.0); watchgraph demote awesome (x0.45); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5800be2693dd84e8a38e"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      },
+      {
+        "source_id": "portswigger_research",
+        "source_name": "PortSwigger Research",
+        "source_type": "rss",
+        "error": "403 Client Error: Forbidden for url: https://portswigger.net/research/rss"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-18T00:36:09+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 17,
+      "clusters": 17,
+      "cross_source_confrmed": 0,
+      "hot": 11
+    },
+    "clusters": [
+      {
+        "key": "github_repo:marcusquinn/aidevops",
+        "title": "marcusquinn/aidevops",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/marcusquinn/aidevops"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:lahfir/agent-desktop",
+        "title": "lahfir/agent-desktop",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/lahfir/agent-desktop"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:activepieces/activepieces",
+        "title": "activepieces/activepieces",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/activepieces/activepieces"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:bagidea/bagidea-office",
+        "title": "bagidea/bagidea-office",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/bagidea/bagidea-office"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "earthquake:arvo-ai/aurora:unknown",
+        "title": "Arvo-AI/aurora",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/Arvo-AI/aurora"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:l3montree-dev/devguard",
+        "title": "l3montree-dev/devguard",
+        "sources": [
+          "GitHub Search Security Breakout Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/l3montree-dev/devguard"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:langgenius/dify",
+        "title": "langgenius/dify",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/langgenius/dify"
+        ],
+        "finding_count": 1,
+        "max_score": 22,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 26.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:simstudioai/sim",
+        "title": "simstudioai/sim",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/simstudioai/sim"
+        ],
+        "finding_count": 1,
+        "max_score": 22,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 26.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:bytechefhq/bytechef",
+        "title": "bytechefhq/bytechef",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/bytechefhq/bytechef"
+        ],
+        "finding_count": 1,
+        "max_score": 21,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 25.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:joewinke/jat",
+        "title": "joewinke/jat",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/joewinke/jat"
+        ],
+        "finding_count": 1,
+        "max_score": 21,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 25.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:shobcoder/shob",
+        "title": "shobcoder/shob",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/shobcoder/shob"
+        ],
+        "finding_count": 1,
+        "max_score": 21,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 25.1,
+        "hot": true,
+        "watchgraph_modules": [],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:generalbots/generalbots",
+        "title": "generalbots/generalbots",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/generalbots/generalbots"
+        ],
+        "finding_count": 1,
+        "max_score": 19,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 23.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      },
+      {
+        "key": "github_repo:pipeshub-ai/pipeshub-ai",
+        "title": "pipeshub-ai/pipeshub-ai",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/pipeshub-ai/pipeshub-ai"
+        ],
+        "finding_count": 1,
+        "max_score": 18,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 22.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      },
+      {
+        "key": "github_repo:heymrun/heym",
+        "title": "heymrun/heym",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/heymrun/heym"
+        ],
+        "finding_count": 1,
+        "max_score": 16,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 20.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 15,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 20.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:enescingoz/awesome-n8n-templates",
+        "title": "enescingoz/awesome-n8n-templates",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/enescingoz/awesome-n8n-templates"
+        ],
+        "finding_count": 1,
+        "max_score": 14,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 18.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      },
+      {
+        "key": "github_repo:tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+        "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia"
+        ],
+        "finding_count": 1,
+        "max_score": 12,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 16.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:marcusquinn-aidevops",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:marcusquinn-aidevops",
+      "topic_label": "marcusquinn/aidevops",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/marcusquinn/aidevops"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:lahfir-agent-desktop",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:lahfir-agent-desktop",
+      "topic_label": "lahfir/agent-desktop",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/lahfir/agent-desktop"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:activepieces-activepieces",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:activepieces-activepieces",
+      "topic_label": "activepieces/activepieces",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/activepieces/activepieces"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:bagidea-bagidea-office",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:bagidea-bagidea-office",
+      "topic_label": "bagidea/bagidea-office",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/bagidea/bagidea-office"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:arvo-ai-aurora",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:arvo-ai-aurora",
+      "topic_label": "Arvo-AI/aurora",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/Arvo-AI/aurora"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:l3montree-dev-devguard",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:l3montree-dev-devguard",
+      "topic_label": "l3montree-dev/devguard",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Security Breakout Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/l3montree-dev/devguard"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:langgenius-dify",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:langgenius-dify",
+      "topic_label": "langgenius/dify",
+      "network_score": 22.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/langgenius/dify"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:simstudioai-sim",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:simstudioai-sim",
+      "topic_label": "simstudioai/sim",
+      "network_score": 22.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/simstudioai/sim"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:bytechefhq-bytechef",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:bytechefhq-bytechef",
+      "topic_label": "bytechefhq/bytechef",
+      "network_score": 21.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 21.0,
+      "trend_wucht": 23.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/bytechefhq/bytechef"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:joewinke-jat",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:joewinke-jat",
+      "topic_label": "joewinke/jat",
+      "network_score": 21.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 21.0,
+      "trend_wucht": 23.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/joewinke/jat"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:shobcoder-shob",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:shobcoder-shob",
+      "topic_label": "shobcoder/shob",
+      "network_score": 21.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 21.0,
+      "trend_wucht": 23.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/shobcoder/shob"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:generalbots-generalbots",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:generalbots-generalbots",
+      "topic_label": "generalbots/generalbots",
+      "network_score": 19.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 19.0,
+      "trend_wucht": 21.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/generalbots/generalbots"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:pipeshub-ai-pipeshub-ai",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:pipeshub-ai-pipeshub-ai",
+      "topic_label": "pipeshub-ai/pipeshub-ai",
+      "network_score": 18.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 18.0,
+      "trend_wucht": 20.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/pipeshub-ai/pipeshub-ai"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:heymrun-heym",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:heymrun-heym",
+      "topic_label": "heymrun/heym",
+      "network_score": 16.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 16.0,
+      "trend_wucht": 18.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/heymrun/heym"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 15.0,
+      "trend_wucht": 17.0,
+      "status": "emerging",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:enescingoz-awesome-n8n-templates",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:enescingoz-awesome-n8n-templates",
+      "topic_label": "enescingoz/awesome-n8n-templates",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/enescingoz/awesome-n8n-templates"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T00-36-09Z:title:tornikebolokadze1-cyber-awesome-ai-pulse-georgia",
+      "sample_index": 5939143,
+      "timestamp_utc": "2026-06-18T00:36:09Z",
+      "run_id": "2026-06-18T00-36-09Z",
+      "topic_key": "title:tornikebolokadze1-cyber-awesome-ai-pulse-georgia",
+      "topic_label": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia"
+      ]
+    }
+  ]
+}

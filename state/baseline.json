@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T00:03:45+00:00",
+  "generated_at": "2026-06-18T00:36:09+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -156,6 +156,193 @@
       "rolling_average": 21.7,
       "rolling_peak": 21.7,
       "last_score": 21.7,
+      "z_hint": 0.0
+    },
+    "github_repo:marcusquinn/aidevops": {
+      "title": "marcusquinn/aidevops",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:lahfir/agent-desktop": {
+      "title": "lahfir/agent-desktop",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:activepieces/activepieces": {
+      "title": "activepieces/activepieces",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:bagidea/bagidea-office": {
+      "title": "bagidea/bagidea-office",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "earthquake:arvo-ai/aurora:unknown": {
+      "title": "Arvo-AI/aurora",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:l3montree-dev/devguard": {
+      "title": "l3montree-dev/devguard",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:langgenius/dify": {
+      "title": "langgenius/dify",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        26.1
+      ],
+      "rolling_average": 26.1,
+      "rolling_peak": 26.1,
+      "last_score": 26.1,
+      "z_hint": 0.0
+    },
+    "github_repo:simstudioai/sim": {
+      "title": "simstudioai/sim",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        26.1
+      ],
+      "rolling_average": 26.1,
+      "rolling_peak": 26.1,
+      "last_score": 26.1,
+      "z_hint": 0.0
+    },
+    "github_repo:bytechefhq/bytechef": {
+      "title": "bytechefhq/bytechef",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "github_repo:joewinke/jat": {
+      "title": "joewinke/jat",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "github_repo:shobcoder/shob": {
+      "title": "shobcoder/shob",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "github_repo:generalbots/generalbots": {
+      "title": "generalbots/generalbots",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        23.1
+      ],
+      "rolling_average": 23.1,
+      "rolling_peak": 23.1,
+      "last_score": 23.1,
+      "z_hint": 0.0
+    },
+    "github_repo:pipeshub-ai/pipeshub-ai": {
+      "title": "pipeshub-ai/pipeshub-ai",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        22.1
+      ],
+      "rolling_average": 22.1,
+      "rolling_peak": 22.1,
+      "last_score": 22.1,
+      "z_hint": 0.0
+    },
+    "github_repo:heymrun/heym": {
+      "title": "heymrun/heym",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        20.1
+      ],
+      "rolling_average": 20.1,
+      "rolling_peak": 20.1,
+      "last_score": 20.1,
+      "z_hint": 0.0
+    },
+    "domain:electionbettingodds.com": {
+      "title": "Election Betting Odds by Maxim Lott and John Stossel",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        20.1
+      ],
+      "rolling_average": 20.1,
+      "rolling_peak": 20.1,
+      "last_score": 20.1,
+      "z_hint": 0.0
+    },
+    "github_repo:enescingoz/awesome-n8n-templates": {
+      "title": "enescingoz/awesome-n8n-templates",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "github_repo:tornikebolokadze1-cyber/awesome-ai-pulse-georgia": {
+      "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+      "updated_at": "2026-06-18T00:36:09+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
       "z_hint": 0.0
     }
   }
