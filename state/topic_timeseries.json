@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T22:34:21Z",
+  "generated_at": "2026-06-18T23:17:57Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -3046,9 +3046,9 @@
     },
     "title:unknown": {
       "topic_key": "title:unknown",
-      "topic_label": "Минск вручил представителю Киева ноту протеста из - за удара ВСУ по автобусу с детьми",
-      "last_seen_at": "2026-06-18T14:33:45Z",
-      "last_trend_wucht": 17.0,
+      "topic_label": "В Киргизии начался громкий суд по делу о госперевороте",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
       "samples": [
         {
           "sample_id": "2026-06-18T14-33-45Z:title:unknown",
@@ -3074,6 +3074,29 @@
             "http://news.cnnb.com.cn/system/2026/06/18/030784384.shtml",
             "https://www.nbd.com.cn/articles/2026-06-18/4431154.html",
             "https://www.dw.com/ru/evroparlament-prizval-minsk-osvobodit-vseh-politzaklucennyh/a-77603135"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:unknown",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:unknown",
+          "topic_label": "В Киргизии начался громкий суд по делу о госперевороте",
+          "network_score": 10.0,
+          "mention_count": 4,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": -3.0,
+          "trend_wucht": 12.0,
+          "status": "mature",
+          "urls": [
+            "https://iz.ru/2117698/igor-karmazin/vystrel-iz-pisma-pochemu-v-kirgizii-zagovorili-o-novom-gosperevorote",
+            "https://www.hankookilbo.com/news/article/A2026061814380003227",
+            "https://assabeel.net/75669",
+            "https://jang.com.pk/news/1592789"
           ]
         }
       ]
@@ -9058,6 +9081,540 @@
           "status": "emerging",
           "urls": [
             "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
+          ]
+        }
+      ]
+    },
+    "title:myanmar-airstrike-kills-seven-civilians-:-witnesses": {
+      "topic_key": "title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
+      "topic_label": "Myanmar airstrike kills seven civilians : witnesses",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
+          "topic_label": "Myanmar airstrike kills seven civilians : witnesses",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/18/myanmar-airstrike-kills-seven-civilians-witnesses"
+          ]
+        }
+      ]
+    },
+    "title:china-backs-myanmar-full-participation-in-asean-un": {
+      "topic_key": "title:china-backs-myanmar-full-participation-in-asean-un",
+      "topic_label": "China backs Myanmar full participation in Asean , UN",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:china-backs-myanmar-full-participation-in-asean-un",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:china-backs-myanmar-full-participation-in-asean-un",
+          "topic_label": "China backs Myanmar full participation in Asean , UN",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.manilatimes.net/2026/06/19/world/asia-oceania/china-backs-myanmars-full-participation-in-asean-un/2368670"
+          ]
+        }
+      ]
+    },
+    "title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr": {
+      "topic_key": "title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr",
+      "topic_label": "Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr",
+          "topic_label": "Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.botasot.info/shqiperia/2496441/perfundon-protesta-e-19-te-mijera-qytetare-mbyllin-marshimin-neper-rruget-e-tiranes-thirrja-per-kryeministrin-rama-jepe-doreheqjen-nuk-ka-bisedime/"
+          ]
+        }
+      ]
+    },
+    "title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas": {
+      "topic_key": "title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas",
+      "topic_label": "El paro de la CNTE no termina , asegura la sección 34 de Zacatecas",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas",
+          "topic_label": "El paro de la CNTE no termina , asegura la sección 34 de Zacatecas",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.eluniversal.com.mx/nacion/el-paro-de-la-cnte-no-termina-asegura-la-seccion-34-de-zacatecas-magisterio-protesta-en-oficinas-de-las-afores-en-cdmx/"
+          ]
+        }
+      ]
+    },
+    "title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de": {
+      "topic_key": "title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de",
+      "topic_label": "Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de",
+          "topic_label": "Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.publico.pt/2026/06/18/sociedade/noticia/greves-inem-adjunta-ministra-garante-nao-sabia-protesto-deputados-nao-ficaram-convencidos-2178737"
+          ]
+        }
+      ]
+    },
+    "title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-": {
+      "topic_key": "title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-",
+      "topic_label": "Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-",
+          "topic_label": "Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://top-channel.tv/2026/06/18/live-cohuni-nga-kafja-dita-e-19-te-e-tubimit-protestuesit-marshojne-ne-rruget-e-kryeqytetit-thirrje-qytetareve-bashkohuni-me-ne6565/"
+          ]
+        }
+      ]
+    },
+    "title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights": {
+      "topic_key": "title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights",
+      "topic_label": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights",
+          "topic_label": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+          "network_score": 12.0,
+          "mention_count": 3,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://katu.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7",
+            "https://wwmt.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7",
+            "https://cbs12.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7"
+          ]
+        }
+      ]
+    },
+    "title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo": {
+      "topic_key": "title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo",
+      "topic_label": "Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo",
+          "topic_label": "Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.elperiodicodearagon.com/aragon/2026/06/18/medicos-aragon-cierran-curso-huelgas-131567528.html"
+          ]
+        }
+      ]
+    },
+    "title:lula-warns-trump-not-to-meddle-in-brazil-elections": {
+      "topic_key": "title:lula-warns-trump-not-to-meddle-in-brazil-elections",
+      "topic_label": "Lula warns Trump not to meddle in Brazil elections",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:lula-warns-trump-not-to-meddle-in-brazil-elections",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:lula-warns-trump-not-to-meddle-in-brazil-elections",
+          "topic_label": "Lula warns Trump not to meddle in Brazil elections",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://morningstaronline.co.uk/article/lula-warns-trump-not-meddle-brazils-elections"
+          ]
+        }
+      ]
+    },
+    "title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento": {
+      "topic_key": "title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento",
+      "topic_label": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento",
+          "topic_label": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.tsf.pt/sociedade/artigo/nao-vamos-desistir-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento/18096726"
+          ]
+        }
+      ]
+    },
+    "title:aykut-kocaman-neden-olmad-aziz-y-ld-r-m-nas-l-ld-rtt": {
+      "topic_key": "title:aykut-kocaman-neden-olmad-aziz-y-ld-r-m-nas-l-ld-rtt",
+      "topic_label": "Aykut Kocaman neden olmadı ? Aziz Yıldırım ı nasıl çıldırttı ?",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:aykut-kocaman-neden-olmad-aziz-y-ld-r-m-nas-l-ld-rtt",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:aykut-kocaman-neden-olmad-aziz-y-ld-r-m-nas-l-ld-rtt",
+          "topic_label": "Aykut Kocaman neden olmadı ? Aziz Yıldırım ı nasıl çıldırttı ?",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.fotospor.com.tr/fenerbahce/aykut-kocaman-neden-olmadi-aziz-yildirimi-nasil-cildirtti-706204"
+          ]
+        }
+      ]
+    },
+    "title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate": {
+      "topic_key": "title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate",
+      "topic_label": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate",
+          "topic_label": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verhaengt-russland-sanktionen-erstmals-fuer-zwoelf-monate-faz-110683325.html"
+          ]
+        }
+      ]
+    },
+    "title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp": {
+      "topic_key": "title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp",
+      "topic_label": "Quem permitir continuidade da discussão do pacote laboral está a trair trabalhadores diz CGTP",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp",
+          "topic_label": "Quem permitir continuidade da discussão do pacote laboral está a trair trabalhadores diz CGTP",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.rtp.pt/noticias/economia/quem-permitir-continuidade-da-discussao-do-pacote-laboral-esta-a-trair-trabalhadores-diz-cgtp_n1747953"
+          ]
+        }
+      ]
+    },
+    "title::": {
+      "topic_key": "title::",
+      "topic_label": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title::",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title::",
+          "topic_label": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "http://www.srugim.co.il/101004519-%D7%90%D7%A8%D7%94%D7%91-%D7%91%D7%A1%D7%A0%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%A2%D7%9C-%D7%97%D7%99%D7%96%D7%91%D7%90%D7%9C%D7%9C%D7%94-%D7%9E%D7%A9%D7%91%D7%A9%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%9C%D7%99%D7%9A"
+          ]
+        }
+      ]
+    },
+    "title:damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan": {
+      "topic_key": "title:damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan",
+      "topic_label": "Damai dengan AS , Kelompok Radikal Iran Khawatir Dipinggirkan",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan",
+          "topic_label": "Damai dengan AS , Kelompok Radikal Iran Khawatir Dipinggirkan",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.dw.com/id/damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan/a-77609073"
+          ]
+        }
+      ]
+    },
+    "title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols": {
+      "topic_key": "title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols",
+      "topic_label": "Departamento de Estado dos EUA ataca o STF e acusa Corte de promover lawfare contra Eduardo Bolsonaro",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols",
+          "topic_label": "Departamento de Estado dos EUA ataca o STF e acusa Corte de promover lawfare contra Eduardo Bolsonaro",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.brasil247.com:443/brasil/departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bolsonaro"
+          ]
+        }
+      ]
+    },
+    "title:i-nternet-haber-sitelerine-bas-n-i-lan-kurumu-denetimi-:-teklifin-7-maddesi-daha-meclisten-ge-ti": {
+      "topic_key": "title:i-nternet-haber-sitelerine-bas-n-i-lan-kurumu-denetimi-:-teklifin-7-maddesi-daha-meclisten-ge-ti",
+      "topic_label": "İnternet haber sitelerine Basın İlan Kurumu denetimi : Teklifin 7 maddesi daha Meclisten geçti",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:i-nternet-haber-sitelerine-bas-n-i-lan-kurumu-denetimi-:-teklifin-7-maddesi-daha-meclisten-ge-ti",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:i-nternet-haber-sitelerine-bas-n-i-lan-kurumu-denetimi-:-teklifin-7-maddesi-daha-meclisten-ge-ti",
+          "topic_label": "İnternet haber sitelerine Basın İlan Kurumu denetimi : Teklifin 7 maddesi daha Meclisten geçti",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://t24.com.tr/gundem/internet-haber-sitelerine-basin-ilan-kurumu-denetimi-teklifin-7-maddesi-daha-meclisten-gecti,1329744"
+          ]
+        }
+      ]
+    },
+    "title:el-conflicto-m-dico-se-agrava-con-miles-de-cancelaciones-y-un-oto-o-incierto": {
+      "topic_key": "title:el-conflicto-m-dico-se-agrava-con-miles-de-cancelaciones-y-un-oto-o-incierto",
+      "topic_label": "El conflicto médico se agrava con miles de cancelaciones y un otoño incierto",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:el-conflicto-m-dico-se-agrava-con-miles-de-cancelaciones-y-un-oto-o-incierto",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:el-conflicto-m-dico-se-agrava-con-miles-de-cancelaciones-y-un-oto-o-incierto",
+          "topic_label": "El conflicto médico se agrava con miles de cancelaciones y un otoño incierto",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.larazon.es/sociedad/conflicto-medico-agrava-miles-cancelaciones-otono-incierto_202606186a3438099b079e64f68f1224.html"
+          ]
+        }
+      ]
+    },
+    "title:trabajadores-cas-del-ministerio-p-blico-acatan-huelga-de-48-horas-en-arequipa": {
+      "topic_key": "title:trabajadores-cas-del-ministerio-p-blico-acatan-huelga-de-48-horas-en-arequipa",
+      "topic_label": "Trabajadores CAS del Ministerio Público acatan huelga de 48 horas en Arequipa",
+      "last_seen_at": "2026-06-18T23:17:57Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T23-17-57Z:title:trabajadores-cas-del-ministerio-p-blico-acatan-huelga-de-48-horas-en-arequipa",
+          "sample_index": 5939415,
+          "timestamp_utc": "2026-06-18T23:17:57Z",
+          "run_id": "2026-06-18T23-17-57Z",
+          "topic_key": "title:trabajadores-cas-del-ministerio-p-blico-acatan-huelga-de-48-horas-en-arequipa",
+          "topic_label": "Trabajadores CAS del Ministerio Público acatan huelga de 48 horas en Arequipa",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://diariocorreo.pe/edicion/arequipa/trabajadores-cas-del-ministerio-publico-acatan-huelga-de-48-horas-en-arequipa-noticia/"
           ]
         }
       ]

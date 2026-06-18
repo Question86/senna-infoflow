@@ -1,94 +1,68 @@
 {
-  "generated_at": "2026-06-18T22:34:21+00:00",
-  "today_file_total": 330,
+  "generated_at": "2026-06-18T23:17:58+00:00",
+  "today_file_total": 355,
   "current_clusters": [
     {
-      "key": "title:detecting-duplicate-issues-public-preview-issue-fields-mcp",
-      "title": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+      "key": "domain:www.thestar.com",
+      "title": "Myanmar airstrike kills seven civilians : witnesses",
       "sources": [
-        "GitHub Changelog Atom"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/18/myanmar-airstrike-kills-seven-civilians-witnesses"
       ],
       "finding_count": 1,
-      "max_score": 26,
+      "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 31.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:www.cisa.gov",
-      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
-      ],
-      "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.7,
+      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [
-        "cyber_active_exploitation",
-        "narrative_social_reputation"
+        "elections_unrest"
       ],
-      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:tropical storm:unknown",
-      "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+      "key": "domain:www.manilatimes.net",
+      "title": "China backs Myanmar full participation in Asean , UN",
       "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.bleepingcomputer.com",
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "sources": [
-        "BleepingComputer Security"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
+        "https://www.manilatimes.net/2026/06/19/world/asia-oceania/china-backs-myanmars-full-participation-in-asean-un/2368670"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:rfundon-protesta-mij-qytetar-mbyllin-marshimin-rrug-tiran",
+      "title": "Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.botasot.info/shqiperia/2496441/perfundon-protesta-e-19-te-mijera-qytetare-mbyllin-marshimin-neper-rruget-e-tiranes-thirrja-per-kryeministrin-rama-jepe-doreheqjen-nuk-ka-bisedime/"
       ],
       "finding_count": 1,
       "max_score": 12,
@@ -98,124 +72,430 @@
       "momentum_status": "increasing",
       "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:mai-code-flash-available-more-copilot-surfaces",
-      "title": "MAI-Code-1-Flash available on more Copilot surfaces",
+      "key": "domain:www.eluniversal.com",
+      "title": "El paro de la CNTE no termina , asegura la sección 34 de Zacatecas",
       "sources": [
-        "GitHub Changelog Atom"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
+        "https://www.eluniversal.com.mx/nacion/el-paro-de-la-cnte-no-termina-asegura-la-seccion-34-de-zacatecas-magisterio-protesta-en-oficinas-de-las-afores-en-cdmx/"
       ],
       "finding_count": 1,
-      "max_score": 11,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 16.1,
+      "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.3, off coast of oregon:4.3",
-      "title": "M 4.3, Off Coast of Oregon",
+      "key": "title:greves-inem-adjunta-ministra-diz-que-sabia-protesto",
+      "title": "Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM",
       "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwno"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "github_repo:pipelex/pipelex",
-      "title": "Pipelex/pipelex",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/Pipelex/pipelex"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:fiji 18:4.0",
-      "title": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:electionbettingodds.com",
-      "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "sources": [
-        "Election Betting Odds Public Watch"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://electionbettingodds.com/"
+        "https://www.publico.pt/2026/06/18/sociedade/noticia/greves-inem-adjunta-ministra-garante-nao-sabia-protesto-deputados-nao-ficaram-convencidos-2178737"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:live-ohuni-nga-kafja-dita-tubimit-protestuesit-marshojn",
+      "title": "Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://top-channel.tv/2026/06/18/live-cohuni-nga-kafja-dita-e-19-te-e-tubimit-protestuesit-marshojne-ne-rruget-e-kryeqytetit-thirrje-qytetareve-bashkohuni-me-ne6565/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:katu.com",
+      "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://katu.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:wwmt.com",
+      "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wwmt.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.elperiodicodearagon.com",
+      "title": "Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.elperiodicodearagon.com/aragon/2026/06/18/medicos-aragon-cierran-curso-huelgas-131567528.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:lula-warns-trump-not-meddle-brazil-elections",
+      "title": "Lula warns Trump not to meddle in Brazil elections",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://morningstaronline.co.uk/article/lula-warns-trump-not-meddle-brazils-elections"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:vamos-desistir-centenas-pessoas-protestam-contra-pacote-laboral",
+      "title": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.tsf.pt/sociedade/artigo/nao-vamos-desistir-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento/18096726"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:cbs12.com",
+      "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://cbs12.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.fotospor.com",
+      "title": "Aykut Kocaman neden olmadı ? Aziz Yıldırım ı nasıl çıldırttı ?",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.fotospor.com.tr/fenerbahce/aykut-kocaman-neden-olmadi-aziz-yildirimi-nasil-cildirtti-706204"
       ],
       "finding_count": 1,
       "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.faz.net",
+      "title": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verhaengt-russland-sanktionen-erstmals-fuer-zwoelf-monate-faz-110683325.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://iz.ru/2117698/igor-karmazin/vystrel-iz-pisma-pochemu-v-kirgizii-zagovorili-o-novom-gosperevorote",
+      "title": "В Киргизии начался громкий суд по делу о госперевороте",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://iz.ru/2117698/igor-karmazin/vystrel-iz-pisma-pochemu-v-kirgizii-zagovorili-o-novom-gosperevorote"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:quem-permitir-continuidade-discuss-pacote-laboral-est-trair",
+      "title": "Quem permitir continuidade da discussão do pacote laboral está a trair trabalhadores diz CGTP",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.rtp.pt/noticias/economia/quem-permitir-continuidade-da-discussao-do-pacote-laboral-esta-a-trair-trabalhadores-diz-cgtp_n1747953"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.hankookilbo.com",
+      "title": "장동혁 , 정책위의장 구인난 ... 당권파도 극우 거리두기 요구 - 정치ㅣ한국일보",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.hankookilbo.com/news/article/A2026061814380003227"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:http://www.srugim.co.il/101004519-%d7%90%d7%a8%d7%94%d7%91-%d7%91%d7%a1%d7%a0%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%a2%d7%9c-%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94-%d7%9e%d7%a9%d7%91%d7%a9%d7%99%d7%9d-%d7%90%d7%aa-%d7%94%d7%9c%d7%99%d7%9a",
+      "title": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.srugim.co.il/101004519-%D7%90%D7%A8%D7%94%D7%91-%D7%91%D7%A1%D7%A0%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%A2%D7%9C-%D7%97%D7%99%D7%96%D7%91%D7%90%D7%9C%D7%9C%D7%94-%D7%9E%D7%A9%D7%91%D7%A9%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%9C%D7%99%D7%9A"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.dw.com",
+      "title": "Damai dengan AS , Kelompok Radikal Iran Khawatir Dipinggirkan",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.dw.com/id/damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan/a-77609073"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.brasil247.com",
+      "title": "Departamento de Estado dos EUA ataca o STF e acusa Corte de promover lawfare contra Eduardo Bolsonaro",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.brasil247.com:443/brasil/departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bolsonaro"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"

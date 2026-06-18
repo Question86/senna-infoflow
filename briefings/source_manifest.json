@@ -11,18 +11,18 @@
     "macro_policy": "every 15 minutes or manual dispatch"
   },
   "counts": {
-    "active_sources": 40,
+    "active_sources": 47,
     "by_type": {
       "github_search": 6,
       "hackernews": 3,
       "manual_note": 2,
-      "reddit_json": 5,
-      "rss": 19,
-      "webpage_check": 5
+      "rss": 33,
+      "webpage_check": 3
     },
     "by_lane": {
       "base": 13,
-      "hot": 17,
+      "hot": 9,
+      "macro_policy": 15,
       "platform_dev": 8,
       "vendor_security": 2
     }
@@ -146,15 +146,6 @@
       "max_items": 15
     },
     {
-      "id": "election_betting_odds_public_watch",
-      "name": "Election Betting Odds Public Watch",
-      "type": "webpage_check",
-      "lane": "hot",
-      "source_class": "market_signal",
-      "host": "electionbettingodds.com",
-      "max_items": 1
-    },
-    {
       "id": "gdacs_all_events_24h",
       "name": "GDACS All Events Last 24h",
       "type": "rss",
@@ -200,69 +191,6 @@
       "max_items": 20
     },
     {
-      "id": "kalshi_public_market_watch",
-      "name": "Kalshi Public Market Watch",
-      "type": "webpage_check",
-      "lane": "hot",
-      "source_class": "market_signal",
-      "host": "kalshi.com",
-      "max_items": 1
-    },
-    {
-      "id": "prediction_market_public_watch",
-      "name": "Public Prediction Market Watch",
-      "type": "webpage_check",
-      "lane": "hot",
-      "source_class": "market_signal",
-      "host": "polymarket.com",
-      "max_items": 1
-    },
-    {
-      "id": "reddit_geopolitics_burst",
-      "name": "Reddit r/geopolitics Burst Sensor",
-      "type": "reddit_json",
-      "lane": "hot",
-      "source_class": "platform_social",
-      "host": "",
-      "max_items": 15
-    },
-    {
-      "id": "reddit_politics_elections",
-      "name": "Reddit r/politics Election Sensor",
-      "type": "reddit_json",
-      "lane": "hot",
-      "source_class": "platform_social",
-      "host": "",
-      "max_items": 15
-    },
-    {
-      "id": "reddit_security_burst",
-      "name": "Reddit r/cybersecurity Burst Sensor",
-      "type": "reddit_json",
-      "lane": "hot",
-      "source_class": "platform_social",
-      "host": "",
-      "max_items": 15
-    },
-    {
-      "id": "reddit_technology_release",
-      "name": "Reddit r/technology Release Sensor",
-      "type": "reddit_json",
-      "lane": "hot",
-      "source_class": "platform_social",
-      "host": "",
-      "max_items": 15
-    },
-    {
-      "id": "reddit_worldnews_burst",
-      "name": "Reddit r/worldnews Burst Sensor",
-      "type": "reddit_json",
-      "lane": "hot",
-      "source_class": "platform_social",
-      "host": "",
-      "max_items": 20
-    },
-    {
       "id": "telegram_public_inbox",
       "name": "Telegram Public Channel Inbox",
       "type": "manual_note",
@@ -297,6 +225,141 @@
       "source_class": "geoscience_institute",
       "host": "earthquake.usgs.gov",
       "max_items": 20
+    },
+    {
+      "id": "bis_central_bank_speeches",
+      "name": "BIS Central Bankers Speeches",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "bis_press_releases",
+      "name": "BIS Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "bis_statistics",
+      "name": "BIS Statistical Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_open_market_operations",
+      "name": "ECB Open Market Operations and Communication",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 10
+    },
+    {
+      "id": "ecb_press_policy",
+      "name": "ECB Press Releases Speeches Interviews",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_statistical_press",
+      "name": "ECB Statistical Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_yield_curve",
+      "name": "ECB Euro Area Yield Curve",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 10
+    },
+    {
+      "id": "fed_monetary_policy_press",
+      "name": "Federal Reserve Monetary Policy Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 15
+    },
+    {
+      "id": "fed_policy_rates",
+      "name": "Federal Reserve Policy Rates Feed",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 10
+    },
+    {
+      "id": "fed_selected_interest_rates_h15",
+      "name": "Federal Reserve Selected Interest Rates H.15",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 10
+    },
+    {
+      "id": "fed_speeches_testimony",
+      "name": "Federal Reserve Speeches and Testimony",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 15
+    },
+    {
+      "id": "gdelt_initial_disruption_rss",
+      "name": "GDELT Initial Disruption Resonance RSS",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "global_media_monitor",
+      "host": "api.gdeltproject.org",
+      "max_items": 25
+    },
+    {
+      "id": "gdelt_macro_market_policy_rss",
+      "name": "GDELT Macro Market Policy RSS",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "global_media_monitor",
+      "host": "api.gdeltproject.org",
+      "max_items": 25
+    },
+    {
+      "id": "gdelt_politics_unrest_elections_rss",
+      "name": "GDELT Politics Unrest Elections RSS",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "global_media_monitor",
+      "host": "api.gdeltproject.org",
+      "max_items": 25
+    },
+    {
+      "id": "oecd_newsroom_macro",
+      "name": "OECD Newsroom Macro and Policy Watch",
+      "type": "webpage_check",
+      "lane": "macro_policy",
+      "source_class": "policy_institution",
+      "host": "www.oecd.org",
+      "max_items": 1
     },
     {
       "id": "github_blog_atom",
@@ -350,7 +413,7 @@
       "lane": "platform_dev",
       "source_class": "open_source_platform",
       "host": "",
-      "max_items": 15
+      "max_items": 10
     },
     {
       "id": "github_search_security_breakout",
@@ -359,7 +422,7 @@
       "lane": "platform_dev",
       "source_class": "open_source_platform",
       "host": "",
-      "max_items": 15
+      "max_items": 10
     },
     {
       "id": "github_search_senna_infoflow",

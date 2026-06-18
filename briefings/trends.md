@@ -1,11 +1,12 @@
 # Senna Trend Ranking
 
-- **Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues** — `28.0` `emerging` `title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues`
-- **CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure** — `20.0` `emerging` `title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure`
-- **Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).** — `16.0` `emerging` `title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win`
-- **Gentlemen ransomware uses multiple EDR killers to disable defenses** — `14.0` `emerging` `title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses`
-- **MAI-Code-1-Flash available on more Copilot surfaces** — `13.0` `emerging` `title:mai-code-1-flash-available-on-more-copilot-surfaces`
-- **Election Betting Odds by Maxim Lott and John Stossel** — `12.0` `mature` `title:election-betting-odds-by-maxim-lott-and-john-stossel`
-- **Pipelex/pipelex** — `12.0` `emerging` `title:pipelex-pipelex`
-- **M 4.3, Off Coast of Oregon** — `12.0` `emerging` `title:m-4.3-off-coast-of-oregon`
-- **Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.** — `10.0` `emerging` `earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4`
+- **Myanmar airstrike kills seven civilians : witnesses** — `16.0` `emerging` `title:myanmar-airstrike-kills-seven-civilians-:-witnesses`
+- **China backs Myanmar full participation in Asean , UN** — `16.0` `emerging` `title:china-backs-myanmar-full-participation-in-asean-un`
+- **Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !** — `14.0` `emerging` `title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr`
+- **El paro de la CNTE no termina , asegura la sección 34 de Zacatecas** — `14.0` `emerging` `title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas`
+- **Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM** — `14.0` `emerging` `title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de`
+- **Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne** — `14.0` `emerging` `title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-`
+- **Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights** — `14.0` `emerging` `title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights`
+- **Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes** — `14.0` `emerging` `title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo`
+- **Lula warns Trump not to meddle in Brazil elections** — `14.0` `emerging` `title:lula-warns-trump-not-to-meddle-in-brazil-elections`
+- **Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento** — `14.0` `emerging` `title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento`

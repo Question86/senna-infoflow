@@ -1,187 +1,412 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T22-34-21Z",
-  "generated_at": "2026-06-18T22:34:21Z",
+  "run_id": "2026-06-18T23-17-57Z",
+  "generated_at": "2026-06-18T23:17:57Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T22-34-21Z:title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
-      "topic_label": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-      "network_score": 26.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "score_delta_5m": 26.0,
-      "trend_wucht": 28.0,
-      "status": "emerging",
-      "urls": [
-        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T22-34-21Z:title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
-      "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
-      "network_score": 18.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "CISA Cybersecurity Advisories"
-      ],
-      "score_delta_5m": 18.0,
-      "trend_wucht": 20.0,
-      "status": "emerging",
-      "urls": [
-        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T22-34-21Z:title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
-      "topic_label": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+      "sample_id": "2026-06-18T23-17-57Z:title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
+      "topic_label": "Myanmar airstrike kills seven civilians : witnesses",
       "network_score": 14.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GDACS All Events Last 24h"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "score_delta_5m": 14.0,
       "trend_wucht": 16.0,
       "status": "emerging",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/18/myanmar-airstrike-kills-seven-civilians-witnesses"
       ]
     },
     {
-      "sample_id": "2026-06-18T22-34-21Z:title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
-      "topic_label": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "sample_id": "2026-06-18T23-17-57Z:title:china-backs-myanmar-full-participation-in-asean-un",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:china-backs-myanmar-full-participation-in-asean-un",
+      "topic_label": "China backs Myanmar full participation in Asean , UN",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.manilatimes.net/2026/06/19/world/asia-oceania/china-backs-myanmars-full-participation-in-asean-un/2368670"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:p-rfundon-protesta-e-19-t-mij-ra-qytetar-mbyllin-marshimin-n-p-r-rrug-t-e-tiran-s-thirrja-p-r-kr",
+      "topic_label": "Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !",
       "network_score": 12.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "BleepingComputer Security"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "score_delta_5m": 12.0,
       "trend_wucht": 14.0,
       "status": "emerging",
       "urls": [
-        "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
+        "https://www.botasot.info/shqiperia/2496441/perfundon-protesta-e-19-te-mijera-qytetare-mbyllin-marshimin-neper-rruget-e-tiranes-thirrja-per-kryeministrin-rama-jepe-doreheqjen-nuk-ka-bisedime/"
       ]
     },
     {
-      "sample_id": "2026-06-18T22-34-21Z:title:mai-code-1-flash-available-on-more-copilot-surfaces",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:mai-code-1-flash-available-on-more-copilot-surfaces",
-      "topic_label": "MAI-Code-1-Flash available on more Copilot surfaces",
-      "network_score": 11.0,
+      "sample_id": "2026-06-18T23-17-57Z:title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:el-paro-de-la-cnte-no-termina-asegura-la-secci-n-34-de-zacatecas",
+      "topic_label": "El paro de la CNTE no termina , asegura la sección 34 de Zacatecas",
+      "network_score": 12.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GitHub Changelog Atom"
+        "GDELT Politics Unrest Elections RSS"
       ],
-      "score_delta_5m": 11.0,
-      "trend_wucht": 13.0,
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
       "status": "emerging",
       "urls": [
-        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
+        "https://www.eluniversal.com.mx/nacion/el-paro-de-la-cnte-no-termina-asegura-la-seccion-34-de-zacatecas-magisterio-protesta-en-oficinas-de-las-afores-en-cdmx/"
       ]
     },
     {
-      "sample_id": "2026-06-18T22-34-21Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "sample_id": "2026-06-18T23-17-57Z:title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:greves-no-inem-:-adjunta-da-ministra-diz-que-n-o-sabia-do-protesto-mas-n-o-convenceu-comiss-o-de",
+      "topic_label": "Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.publico.pt/2026/06/18/sociedade/noticia/greves-inem-adjunta-ministra-garante-nao-sabia-protesto-deputados-nao-ficaram-convencidos-2178737"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:live-ohuni-nga-kafja-dita-e-19-t-e-tubimit-protestuesit-marshojn-n-rrug-t-e-kryeqytetit-thirrje-",
+      "topic_label": "Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://top-channel.tv/2026/06/18/live-cohuni-nga-kafja-dita-e-19-te-e-tubimit-protestuesit-marshojne-ne-rruget-e-kryeqytetit-thirrje-qytetareve-bashkohuni-me-ne6565/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights",
+      "topic_label": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "network_score": 12.0,
+      "mention_count": 3,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://katu.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7",
+        "https://wwmt.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7",
+        "https://cbs12.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights-volodymyr-zelensky-russia-vladimir-putin-president-trump-g7"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:los-m-dicos-de-arag-n-cierran-el-curso-de-huelgas-con-una-ltima-protesta-antes-del-verano-:-solo",
+      "topic_label": "Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.elperiodicodearagon.com/aragon/2026/06/18/medicos-aragon-cierran-curso-huelgas-131567528.html"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:lula-warns-trump-not-to-meddle-in-brazil-elections",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:lula-warns-trump-not-to-meddle-in-brazil-elections",
+      "topic_label": "Lula warns Trump not to meddle in Brazil elections",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://morningstaronline.co.uk/article/lula-warns-trump-not-meddle-brazils-elections"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento",
+      "topic_label": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.tsf.pt/sociedade/artigo/nao-vamos-desistir-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento/18096726"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:aykut-kocaman-neden-olmad-aziz-y-ld-r-m-nas-l-ld-rtt",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:aykut-kocaman-neden-olmad-aziz-y-ld-r-m-nas-l-ld-rtt",
+      "topic_label": "Aykut Kocaman neden olmadı ? Aziz Yıldırım ı nasıl çıldırttı ?",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "Election Betting Odds Public Watch"
+        "GDELT Politics Unrest Elections RSS"
       ],
-      "score_delta_5m": 0.0,
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.fotospor.com.tr/fenerbahce/aykut-kocaman-neden-olmadi-aziz-yildirimi-nasil-cildirtti-706204"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate",
+      "topic_label": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verhaengt-russland-sanktionen-erstmals-fuer-zwoelf-monate-faz-110683325.html"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:unknown",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:unknown",
+      "topic_label": "В Киргизии начался громкий суд по делу о госперевороте",
+      "network_score": 10.0,
+      "mention_count": 4,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": -3.0,
       "trend_wucht": 12.0,
       "status": "mature",
       "urls": [
-        "https://electionbettingodds.com/"
+        "https://iz.ru/2117698/igor-karmazin/vystrel-iz-pisma-pochemu-v-kirgizii-zagovorili-o-novom-gosperevorote",
+        "https://www.hankookilbo.com/news/article/A2026061814380003227",
+        "https://assabeel.net/75669",
+        "https://jang.com.pk/news/1592789"
       ]
     },
     {
-      "sample_id": "2026-06-18T22-34-21Z:title:pipelex-pipelex",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:pipelex-pipelex",
-      "topic_label": "Pipelex/pipelex",
+      "sample_id": "2026-06-18T23-17-57Z:title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp",
+      "topic_label": "Quem permitir continuidade da discussão do pacote laboral está a trair trabalhadores diz CGTP",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "score_delta_5m": 10.0,
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/Pipelex/pipelex"
+        "https://www.rtp.pt/noticias/economia/quem-permitir-continuidade-da-discussao-do-pacote-laboral-esta-a-trair-trabalhadores-diz-cgtp_n1747953"
       ]
     },
     {
-      "sample_id": "2026-06-18T22-34-21Z:title:m-4.3-off-coast-of-oregon",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "title:m-4.3-off-coast-of-oregon",
-      "topic_label": "M 4.3, Off Coast of Oregon",
+      "sample_id": "2026-06-18T23-17-57Z:title::",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title::",
+      "topic_label": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "score_delta_5m": 10.0,
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwno"
+        "http://www.srugim.co.il/101004519-%D7%90%D7%A8%D7%94%D7%91-%D7%91%D7%A1%D7%A0%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%A2%D7%9C-%D7%97%D7%99%D7%96%D7%91%D7%90%D7%9C%D7%9C%D7%94-%D7%9E%D7%A9%D7%91%D7%A9%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%9C%D7%99%D7%9A"
       ]
     },
     {
-      "sample_id": "2026-06-18T22-34-21Z:earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
-      "sample_index": 5939406,
-      "timestamp_utc": "2026-06-18T22:34:21Z",
-      "run_id": "2026-06-18T22-34-21Z",
-      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
-      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
-      "network_score": 8.0,
+      "sample_id": "2026-06-18T23-17-57Z:title:damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan",
+      "topic_label": "Damai dengan AS , Kelompok Radikal Iran Khawatir Dipinggirkan",
+      "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GDACS All Events Last 24h"
+        "GDELT Politics Unrest Elections RSS"
       ],
-      "score_delta_5m": 8.0,
-      "trend_wucht": 10.0,
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
+        "https://www.dw.com/id/damai-dengan-as-kelompok-radikal-iran-khawatir-dipinggirkan/a-77609073"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols",
+      "topic_label": "Departamento de Estado dos EUA ataca o STF e acusa Corte de promover lawfare contra Eduardo Bolsonaro",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.brasil247.com:443/brasil/departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bolsonaro"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:i-nternet-haber-sitelerine-bas-n-i-lan-kurumu-denetimi-:-teklifin-7-maddesi-daha-meclisten-ge-ti",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:i-nternet-haber-sitelerine-bas-n-i-lan-kurumu-denetimi-:-teklifin-7-maddesi-daha-meclisten-ge-ti",
+      "topic_label": "İnternet haber sitelerine Basın İlan Kurumu denetimi : Teklifin 7 maddesi daha Meclisten geçti",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://t24.com.tr/gundem/internet-haber-sitelerine-basin-ilan-kurumu-denetimi-teklifin-7-maddesi-daha-meclisten-gecti,1329744"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:el-conflicto-m-dico-se-agrava-con-miles-de-cancelaciones-y-un-oto-o-incierto",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:el-conflicto-m-dico-se-agrava-con-miles-de-cancelaciones-y-un-oto-o-incierto",
+      "topic_label": "El conflicto médico se agrava con miles de cancelaciones y un otoño incierto",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.larazon.es/sociedad/conflicto-medico-agrava-miles-cancelaciones-otono-incierto_202606186a3438099b079e64f68f1224.html"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T23-17-57Z:title:trabajadores-cas-del-ministerio-p-blico-acatan-huelga-de-48-horas-en-arequipa",
+      "sample_index": 5939415,
+      "timestamp_utc": "2026-06-18T23:17:57Z",
+      "run_id": "2026-06-18T23-17-57Z",
+      "topic_key": "title:trabajadores-cas-del-ministerio-p-blico-acatan-huelga-de-48-horas-en-arequipa",
+      "topic_label": "Trabajadores CAS del Ministerio Público acatan huelga de 48 horas en Arequipa",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://diariocorreo.pe/edicion/arequipa/trabajadores-cas-del-ministerio-publico-acatan-huelga-de-48-horas-en-arequipa-noticia/"
       ]
     }
   ]

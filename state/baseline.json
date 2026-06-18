@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T22:34:21+00:00",
+  "generated_at": "2026-06-18T23:17:58+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -1188,15 +1188,16 @@
       "z_hint": 0.0
     },
     "domain:www.dw.com": {
-      "title": "Европарламент призвал Минск освободить всех политзаключенных",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "Damai dengan AS , Kelompok Radikal Iran Khawatir Dipinggirkan",
+      "updated_at": "2026-06-18T23:17:58+00:00",
       "network_scores": [
-        16.1
+        16.1,
+        15.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 15.6,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": 0.0
+      "last_score": 15.1,
+      "z_hint": -0.5
     },
     "domain:www.cna.com": {
       "title": "韓國選票短缺事件 國會啟動45天調查釐清原因 | 國際",
@@ -1978,6 +1979,270 @@
       "rolling_average": 13.7,
       "rolling_peak": 13.7,
       "last_score": 13.7,
+      "z_hint": 0.0
+    },
+    "domain:www.thestar.com": {
+      "title": "Myanmar airstrike kills seven civilians : witnesses",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "domain:www.manilatimes.net": {
+      "title": "China backs Myanmar full participation in Asean , UN",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:rfundon-protesta-mij-qytetar-mbyllin-marshimin-rrug-tiran": {
+      "title": "Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:www.eluniversal.com": {
+      "title": "El paro de la CNTE no termina , asegura la sección 34 de Zacatecas",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:greves-inem-adjunta-ministra-diz-que-sabia-protesto": {
+      "title": "Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:live-ohuni-nga-kafja-dita-tubimit-protestuesit-marshojn": {
+      "title": "Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:katu.com": {
+      "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:wwmt.com": {
+      "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:www.elperiodicodearagon.com": {
+      "title": "Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:lula-warns-trump-not-meddle-brazil-elections": {
+      "title": "Lula warns Trump not to meddle in Brazil elections",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:vamos-desistir-centenas-pessoas-protestam-contra-pacote-laboral": {
+      "title": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:cbs12.com": {
+      "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:www.fotospor.com": {
+      "title": "Aykut Kocaman neden olmadı ? Aziz Yıldırım ı nasıl çıldırttı ?",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.faz.net": {
+      "title": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "url:https://iz.ru/2117698/igor-karmazin/vystrel-iz-pisma-pochemu-v-kirgizii-zagovorili-o-novom-gosperevorote": {
+      "title": "В Киргизии начался громкий суд по делу о госперевороте",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:quem-permitir-continuidade-discuss-pacote-laboral-est-trair": {
+      "title": "Quem permitir continuidade da discussão do pacote laboral está a trair trabalhadores diz CGTP",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.hankookilbo.com": {
+      "title": "장동혁 , 정책위의장 구인난 ... 당권파도 극우 거리두기 요구 - 정치ㅣ한국일보",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "url:http://www.srugim.co.il/101004519-%d7%90%d7%a8%d7%94%d7%91-%d7%91%d7%a1%d7%a0%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%a2%d7%9c-%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94-%d7%9e%d7%a9%d7%91%d7%a9%d7%99%d7%9d-%d7%90%d7%aa-%d7%94%d7%9c%d7%99%d7%9a": {
+      "title": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.brasil247.com": {
+      "title": "Departamento de Estado dos EUA ataca o STF e acusa Corte de promover lawfare contra Eduardo Bolsonaro",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:t24.com": {
+      "title": "İnternet haber sitelerine Basın İlan Kurumu denetimi : Teklifin 7 maddesi daha Meclisten geçti",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:assabeel.net": {
+      "title": "هيئة الدفاع تدعو لفصل معتقلي قضايا دعم المقاومة عن النزلاء الجنائيين",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:jang.com": {
+      "title": "مسلم لیگ ن کی آزاد کشمیر الیکشن کیلئے امیدواروں کی حتمی فہرست جاری",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:conflicto-dico-agrava-con-miles-cancelaciones-oto-incierto": {
+      "title": "El conflicto médico se agrava con miles de cancelaciones y un otoño incierto",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:trabajadores-cas-del-ministerio-blico-acatan-huelga-horas": {
+      "title": "Trabajadores CAS del Ministerio Público acatan huelga de 48 horas en Arequipa",
+      "updated_at": "2026-06-18T23:17:58+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
       "z_hint": 0.0
     }
   }

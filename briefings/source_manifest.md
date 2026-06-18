@@ -4,9 +4,10 @@ Scope: configured public sources after runtime overlay merge.
 
 ## Counts
 
-- Active sources: `40`
+- Active sources: `47`
 - base: `13`
-- hot: `17`
+- hot: `9`
+- macro_policy: `15`
 - platform_dev: `8`
 - vendor_security: `2`
 
@@ -30,23 +31,33 @@ Scope: configured public sources after runtime overlay merge.
 
 ### hot
 
-- `election_betting_odds_public_watch` — Election Betting Odds Public Watch / `webpage_check` / class `market_signal` / host `electionbettingodds.com`
 - `gdacs_all_events_24h` — GDACS All Events Last 24h / `rss` / class `-` / host `www.gdacs.org`
 - `gdacs_all_events_week` — GDACS All Events Last Week / `rss` / class `-` / host `www.gdacs.org`
 - `gdacs_orange_red_earthquakes` — GDACS Orange/Red Earthquakes / `rss` / class `-` / host `www.gdacs.org`
 - `gdacs_tropical_cyclones_week` — GDACS Tropical Cyclones Last Week / `rss` / class `-` / host `www.gdacs.org`
 - `geofon_global_recent_rss` — GEOFON/GFZ Global Recent Earthquakes RSS / `rss` / class `geoscience_institute` / host `geofon.gfz.de`
-- `kalshi_public_market_watch` — Kalshi Public Market Watch / `webpage_check` / class `market_signal` / host `kalshi.com`
-- `prediction_market_public_watch` — Public Prediction Market Watch / `webpage_check` / class `market_signal` / host `polymarket.com`
-- `reddit_geopolitics_burst` — Reddit r/geopolitics Burst Sensor / `reddit_json` / class `platform_social` / host `-`
-- `reddit_politics_elections` — Reddit r/politics Election Sensor / `reddit_json` / class `platform_social` / host `-`
-- `reddit_security_burst` — Reddit r/cybersecurity Burst Sensor / `reddit_json` / class `platform_social` / host `-`
-- `reddit_technology_release` — Reddit r/technology Release Sensor / `reddit_json` / class `platform_social` / host `-`
-- `reddit_worldnews_burst` — Reddit r/worldnews Burst Sensor / `reddit_json` / class `platform_social` / host `-`
 - `telegram_public_inbox` — Telegram Public Channel Inbox / `manual_note` / class `platform_social` / host `-`
 - `usgs_m45_earthquakes_hour` — USGS M4.5+ Earthquakes Past Hour / `rss` / class `geoscience_institute` / host `earthquake.usgs.gov`
 - `usgs_significant_earthquakes` — USGS Significant Earthquakes / `rss` / class `-` / host `earthquake.usgs.gov`
 - `usgs_significant_earthquakes_hour` — USGS Significant Earthquakes Past Hour / `rss` / class `geoscience_institute` / host `earthquake.usgs.gov`
+
+### macro_policy
+
+- `bis_central_bank_speeches` — BIS Central Bankers Speeches / `rss` / class `central_bank_network` / host `www.bis.org`
+- `bis_press_releases` — BIS Press Releases / `rss` / class `central_bank_network` / host `www.bis.org`
+- `bis_statistics` — BIS Statistical Releases / `rss` / class `central_bank_network` / host `www.bis.org`
+- `ecb_open_market_operations` — ECB Open Market Operations and Communication / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `ecb_press_policy` — ECB Press Releases Speeches Interviews / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `ecb_statistical_press` — ECB Statistical Press Releases / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `ecb_yield_curve` — ECB Euro Area Yield Curve / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `fed_monetary_policy_press` — Federal Reserve Monetary Policy Press Releases / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `fed_policy_rates` — Federal Reserve Policy Rates Feed / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `fed_selected_interest_rates_h15` — Federal Reserve Selected Interest Rates H.15 / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `fed_speeches_testimony` — Federal Reserve Speeches and Testimony / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `gdelt_initial_disruption_rss` — GDELT Initial Disruption Resonance RSS / `rss` / class `global_media_monitor` / host `api.gdeltproject.org`
+- `gdelt_macro_market_policy_rss` — GDELT Macro Market Policy RSS / `rss` / class `global_media_monitor` / host `api.gdeltproject.org`
+- `gdelt_politics_unrest_elections_rss` — GDELT Politics Unrest Elections RSS / `rss` / class `global_media_monitor` / host `api.gdeltproject.org`
+- `oecd_newsroom_macro` — OECD Newsroom Macro and Policy Watch / `webpage_check` / class `policy_institution` / host `www.oecd.org`
 
 ### platform_dev
 
