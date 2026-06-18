@@ -1,296 +1,322 @@
-# Hot-lane source overlay for senna-infoflow.
-# These sources are merged into config/sources.yaml at workflow runtime.
-# Keep this file public-source-only, low-secret, and legal.
-# Social/prediction lanes are signal sensors, not betting advice.
-
-sources:
-  - id: usgs_m45_earthquakes_hour
-    name: USGS M4.5+ Earthquakes Past Hour
-    type: rss
-    source_class: geoscience_institute
-    enabled: true
-    max_items: 20
-    url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.atom
-    keywords:
-      - earthquake
-      - tsunami warning
-      - aftershock
-      - PAGER
-      - ShakeMap
-      - infrastructure
-      - evacuation
-      - disaster
-      - hot-lane
-
-  - id: usgs_significant_earthquakes_hour
-    name: USGS Significant Earthquakes Past Hour
-    type: rss
-    source_class: geoscience_institute
-    enabled: true
-    max_items: 20
-    url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom
-    keywords:
-      - earthquake
-      - tsunami warning
-      - aftershock
-      - PAGER
-      - ShakeMap
-      - infrastructure
-      - evacuation
-      - disaster
-      - hot-lane
-
-  - id: geofon_global_recent_rss
-    name: GEOFON/GFZ Global Recent Earthquakes RSS
-    type: rss
-    source_class: geoscience_institute
-    enabled: true
-    max_items: 20
-    url: https://geofon.gfz.de/eqinfo/list.php?fmt=rss
-    keywords:
-      - earthquake
-      - tsunami warning
-      - aftershock
-      - rapid earthquake information
-      - GEOFON
-      - GFZ
-      - disaster
-      - hot-lane
-
-  - id: telegram_public_inbox
-    name: Telegram Public Channel Inbox
-    type: manual_note
-    source_class: platform_social
-    enabled: true
-    path: inbox/telegram_public.md
-    keywords:
-      - Telegram
-      - public channel
-      - social velocity
-      - geopolitic
-      - tech leak
-      - hacker leak
-      - cyber
-      - AI
-      - AXI0M
-      - hot-lane
-
-  # --- Social velocity: public Reddit sensors ---
-  - id: reddit_worldnews_burst
-    name: Reddit r/worldnews Burst Sensor
-    type: reddit_json
-    source_class: platform_social
-    enabled: true
-    max_items: 20
-    subreddit: worldnews
-    query: election OR protest OR strike OR coup OR sanctions OR crisis OR flood OR earthquake OR outbreak OR blackout
-    sort: new
-    time: day
-    keywords:
-      - election
-      - protest
-      - strike
-      - coup
-      - sanctions
-      - crisis
-      - flood
-      - earthquake
-      - outbreak
-      - blackout
-      - social velocity
-
-  - id: reddit_geopolitics_burst
-    name: Reddit r/geopolitics Burst Sensor
-    type: reddit_json
-    source_class: platform_social
-    enabled: true
-    max_items: 15
-    subreddit: geopolitics
-    query: election OR war OR sanctions OR China OR Russia OR Taiwan OR Middle East OR NATO OR oil OR shipping
-    sort: new
-    time: week
-    keywords:
-      - election
-      - war
-      - sanctions
-      - China
-      - Russia
-      - Taiwan
-      - NATO
-      - oil
-      - shipping
-      - chokepoint
-      - social velocity
-
-  - id: reddit_politics_elections
-    name: Reddit r/politics Election Sensor
-    type: reddit_json
-    source_class: platform_social
-    enabled: true
-    max_items: 15
-    subreddit: politics
-    query: election OR poll OR candidate OR debate OR indictment OR campaign OR primary OR swing state
-    sort: new
-    time: day
-    keywords:
-      - election
-      - poll
-      - candidate
-      - debate
-      - campaign
-      - swing state
-      - prediction market
-      - odds
-      - social velocity
-
-  - id: reddit_technology_releases
-    name: Reddit r/technology Release Sensor
-    type: reddit_json
-    source_class: platform_social
-    enabled: true
-    max_items: 15
-    subreddit: technology
-    query: launch OR release OR OpenAI OR Google OR Apple OR Microsoft OR Nvidia OR security OR privacy OR AI
-    sort: new
-    time: day
-    keywords:
-      - launch
-      - release
-      - OpenAI
-      - Google
-      - Apple
-      - Microsoft
-      - Nvidia
-      - security
-      - privacy
-      - AI
-      - social velocity
-
-  - id: reddit_security_burst
-    name: Reddit r/cybersecurity Burst Sensor
-    type: reddit_json
-    source_class: platform_social
-    enabled: true
-    max_items: 15
-    subreddit: cybersecurity
-    query: CVE OR exploited OR ransomware OR breach OR GitHub OR supply chain OR zero-day OR OpenAI OR AI
-    sort: new
-    time: day
-    keywords:
-      - CVE
-      - exploited
-      - ransomware
-      - breach
-      - GitHub
-      - supply chain
-      - zero-day
-      - OpenAI
-      - AI
-      - social velocity
-
-  # --- Public release/dev velocity ---
-  - id: hn_release_security_burst
-    name: Hacker News Release/Security Burst
-    type: hackernews
-    source_class: platform_social
-    enabled: true
-    max_items: 20
-    query: "(launch OR release OR outage OR security OR CVE OR OpenAI OR AI agent OR GitHub OR Nvidia)"
-    keywords:
-      - launch
-      - release
-      - outage
-      - security
-      - CVE
-      - OpenAI
-      - AI agent
-      - GitHub
-      - Nvidia
-      - developer velocity
-
-  - id: github_search_breakout_ai_tools
-    name: GitHub Search: Breakout AI Tools
-    type: github_search
-    source_class: open_source_platform
-    enabled: true
-    mode: repositories
-    max_items: 15
-    query: "AI agent automation stars:>50 pushed:>2026-01-01"
-    keywords:
-      - AI agent
-      - automation
-      - agentic workflow
-      - developer tools
-      - Open Source
-      - product idea
-      - content opportunity
-
-  - id: github_search_security_breakout
-    name: GitHub Search: Security Breakout Tools
-    type: github_search
-    source_class: open_source_platform
-    enabled: true
-    mode: repositories
-    max_items: 15
-    query: "security scanner supply chain CVE stars:>25 pushed:>2026-01-01"
-    keywords:
-      - security
-      - scanner
-      - supply chain
-      - CVE
-      - Open Source
-      - developer tools
-      - product idea
-
-  # --- Public prediction / odds proxy lane ---
-  # These are public signal pages only. The system must not provide betting advice.
-  - id: prediction_market_public_watch
-    name: Public Prediction Market Watch
-    type: webpage_check
-    source_class: market_signal
-    enabled: true
-    max_items: 1
-    url: https://polymarket.com/
-    keywords:
-      - election
-      - odds
-      - probability
-      - prediction market
-      - market move
-      - candidate
-      - release
-      - geopolitical risk
-
-  - id: kalshi_public_market_watch
-    name: Kalshi Public Market Watch
-    type: webpage_check
-    source_class: market_signal
-    enabled: true
-    max_items: 1
-    url: https://kalshi.com/markets
-    keywords:
-      - election
-      - odds
-      - probability
-      - prediction market
-      - Fed
-      - inflation
-      - rate cut
-      - release
-      - market move
-
-  - id: election_betting_odds_public_watch
-    name: Election Betting Odds Public Watch
-    type: webpage_check
-    source_class: market_signal
-    enabled: true
-    max_items: 1
-    url: https://electionbettingodds.com/
-    keywords:
-      - election
-      - odds
-      - prediction market
-      - polling
-      - swing state
-      - candidate
-      - probability
+{
+  "_comment": "Hot-lane overlay for senna-infoflow. JSON is valid YAML. Public sources only. Signal sensors, not betting advice.",
+  "sources": [
+    {
+      "id": "usgs_m45_earthquakes_hour",
+      "name": "USGS M4.5+ Earthquakes Past Hour",
+      "type": "rss",
+      "source_class": "geoscience_institute",
+      "enabled": true,
+      "max_items": 20,
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.atom",
+      "keywords": [
+        "earthquake",
+        "tsunami warning",
+        "aftershock",
+        "PAGER",
+        "ShakeMap",
+        "infrastructure",
+        "evacuation",
+        "disaster",
+        "hot-lane"
+      ]
+    },
+    {
+      "id": "usgs_significant_earthquakes_hour",
+      "name": "USGS Significant Earthquakes Past Hour",
+      "type": "rss",
+      "source_class": "geoscience_institute",
+      "enabled": true,
+      "max_items": 20,
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom",
+      "keywords": [
+        "earthquake",
+        "tsunami warning",
+        "aftershock",
+        "PAGER",
+        "ShakeMap",
+        "infrastructure",
+        "evacuation",
+        "disaster",
+        "hot-lane"
+      ]
+    },
+    {
+      "id": "geofon_global_recent_rss",
+      "name": "GEOFON/GFZ Global Recent Earthquakes RSS",
+      "type": "rss",
+      "source_class": "geoscience_institute",
+      "enabled": true,
+      "max_items": 20,
+      "url": "https://geofon.gfz.de/eqinfo/list.php?fmt=rss",
+      "keywords": [
+        "earthquake",
+        "tsunami warning",
+        "aftershock",
+        "rapid earthquake information",
+        "GEOFON",
+        "GFZ",
+        "disaster",
+        "hot-lane"
+      ]
+    },
+    {
+      "id": "telegram_public_inbox",
+      "name": "Telegram Public Channel Inbox",
+      "type": "manual_note",
+      "source_class": "platform_social",
+      "enabled": true,
+      "path": "inbox/telegram_public.md",
+      "keywords": [
+        "Telegram",
+        "public channel",
+        "social velocity",
+        "geopolitic",
+        "tech leak",
+        "hacker leak",
+        "cyber",
+        "AI",
+        "AXI0M",
+        "hot-lane"
+      ]
+    },
+    {
+      "id": "reddit_worldnews_burst",
+      "name": "Reddit r/worldnews Burst Sensor",
+      "type": "reddit_json",
+      "source_class": "platform_social",
+      "enabled": true,
+      "max_items": 20,
+      "subreddit": "worldnews",
+      "query": "election OR protest OR strike OR coup OR sanctions OR crisis OR flood OR earthquake OR outbreak OR blackout",
+      "sort": "new",
+      "time": "day",
+      "keywords": [
+        "election",
+        "protest",
+        "strike",
+        "coup",
+        "sanctions",
+        "crisis",
+        "flood",
+        "earthquake",
+        "outbreak",
+        "blackout",
+        "social velocity"
+      ]
+    },
+    {
+      "id": "reddit_geopolitics_burst",
+      "name": "Reddit r/geopolitics Burst Sensor",
+      "type": "reddit_json",
+      "source_class": "platform_social",
+      "enabled": true,
+      "max_items": 15,
+      "subreddit": "geopolitics",
+      "query": "election OR war OR sanctions OR China OR Russia OR Taiwan OR Middle East OR NATO OR oil OR shipping",
+      "sort": "new",
+      "time": "week",
+      "keywords": [
+        "election",
+        "war",
+        "sanctions",
+        "China",
+        "Russia",
+        "Taiwan",
+        "NATO",
+        "oil",
+        "shipping",
+        "chokepoint",
+        "social velocity"
+      ]
+    },
+    {
+      "id": "reddit_politics_elections",
+      "name": "Reddit r/politics Election Sensor",
+      "type": "reddit_json",
+      "source_class": "platform_social",
+      "enabled": true,
+      "max_items": 15,
+      "subreddit": "politics",
+      "query": "election OR poll OR candidate OR debate OR indictment OR campaign OR primary OR swing state",
+      "sort": "new",
+      "time": "day",
+      "keywords": [
+        "election",
+        "poll",
+        "candidate",
+        "debate",
+        "campaign",
+        "swing state",
+        "prediction market",
+        "odds",
+        "social velocity"
+      ]
+    },
+    {
+      "id": "reddit_technology_release",
+      "name": "Reddit r/technology Release Sensor",
+      "type": "reddit_json",
+      "source_class": "platform_social",
+      "enabled": true,
+      "max_items": 15,
+      "subreddit": "technology",
+      "query": "launch OR release OR OpenAI OR Google OR Apple OR Microsoft OR Nvidia OR security OR privacy OR AI",
+      "sort": "new",
+      "time": "day",
+      "keywords": [
+        "launch",
+        "release",
+        "OpenAI",
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Nvidia",
+        "security",
+        "privacy",
+        "AI",
+        "social velocity"
+      ]
+    },
+    {
+      "id": "reddit_security_burst",
+      "name": "Reddit r/cybersecurity Burst Sensor",
+      "type": "reddit_json",
+      "source_class": "platform_social",
+      "enabled": true,
+      "max_items": 15,
+      "subreddit": "cybersecurity",
+      "query": "CVE OR exploited OR ransomware OR breach OR GitHub OR supply chain OR zero-day OR OpenAI OR AI",
+      "sort": "new",
+      "time": "day",
+      "keywords": [
+        "CVE",
+        "exploited",
+        "ransomware",
+        "breach",
+        "GitHub",
+        "supply chain",
+        "zero-day",
+        "OpenAI",
+        "AI",
+        "social velocity"
+      ]
+    },
+    {
+      "id": "hn_release_security_burst",
+      "name": "Hacker News Release/Security Burst",
+      "type": "hackernews",
+      "source_class": "platform_social",
+      "enabled": true,
+      "max_items": 20,
+      "query": "(launch OR release OR outage OR security OR CVE OR OpenAI OR AI agent OR GitHub OR Nvidia)",
+      "keywords": [
+        "launch",
+        "release",
+        "outage",
+        "security",
+        "CVE",
+        "OpenAI",
+        "AI agent",
+        "GitHub",
+        "Nvidia",
+        "developer velocity"
+      ]
+    },
+    {
+      "id": "github_search_breakout_ai_tools",
+      "name": "GitHub Search Breakout AI Tools",
+      "type": "github_search",
+      "source_class": "open_source_platform",
+      "enabled": true,
+      "mode": "repositories",
+      "max_items": 15,
+      "query": "AI agent automation stars:>50 pushed:>2026-01-01",
+      "keywords": [
+        "AI agent",
+        "automation",
+        "agentic workflow",
+        "developer tools",
+        "Open Source",
+        "product idea",
+        "content opportunity"
+      ]
+    },
+    {
+      "id": "github_search_security_breakout",
+      "name": "GitHub Search Security Breakout Tools",
+      "type": "github_search",
+      "source_class": "open_source_platform",
+      "enabled": true,
+      "mode": "repositories",
+      "max_items": 15,
+      "query": "security scanner supply chain CVE stars:>25 pushed:>2026-01-01",
+      "keywords": [
+        "security",
+        "scanner",
+        "supply chain",
+        "CVE",
+        "Open Source",
+        "developer tools",
+        "product idea"
+      ]
+    },
+    {
+      "id": "prediction_market_public_watch",
+      "name": "Public Prediction Market Watch",
+      "type": "webpage_check",
+      "source_class": "market_signal",
+      "enabled": true,
+      "max_items": 1,
+      "url": "https://polymarket.com/",
+      "keywords": [
+        "election",
+        "odds",
+        "probability",
+        "prediction market",
+        "market move",
+        "candidate",
+        "release",
+        "geopolitical risk"
+      ]
+    },
+    {
+      "id": "kalshi_public_market_watch",
+      "name": "Kalshi Public Market Watch",
+      "type": "webpage_check",
+      "source_class": "market_signal",
+      "enabled": true,
+      "max_items": 1,
+      "url": "https://kalshi.com/markets",
+      "keywords": [
+        "election",
+        "odds",
+        "probability",
+        "prediction market",
+        "Fed",
+        "inflation",
+        "rate cut",
+        "release",
+        "market move"
+      ]
+    },
+    {
+      "id": "election_betting_odds_public_watch",
+      "name": "Election Betting Odds Public Watch",
+      "type": "webpage_check",
+      "source_class": "market_signal",
+      "enabled": true,
+      "max_items": 1,
+      "url": "https://electionbettingodds.com/",
+      "keywords": [
+        "election",
+        "odds",
+        "prediction market",
+        "polling",
+        "swing state",
+        "candidate",
+        "probability"
+      ]
+    }
+  ]
+}
