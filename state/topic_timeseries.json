@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T00:36:09Z",
+  "generated_at": "2026-06-18T01:25:13Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -773,7 +773,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T00:36:09Z",
+      "last_seen_at": "2026-06-18T01:25:13Z",
       "last_trend_wucht": 17.0,
       "samples": [
         {
@@ -792,6 +792,26 @@
           "score_delta_5m": 15.0,
           "trend_wucht": 17.0,
           "status": "emerging",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T01-25-13Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939153,
+          "timestamp_utc": "2026-06-18T01:25:13Z",
+          "run_id": "2026-06-18T01-25-13Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 17.0,
+          "status": "mature",
           "urls": [
             "https://electionbettingodds.com/"
           ]
@@ -850,6 +870,62 @@
           "status": "emerging",
           "urls": [
             "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia"
+          ]
+        }
+      ]
+    },
+    "title:genai-io-san": {
+      "topic_key": "title:genai-io-san",
+      "topic_label": "genai-io/san",
+      "last_seen_at": "2026-06-18T01:25:13Z",
+      "last_trend_wucht": 21.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T01-25-13Z:title:genai-io-san",
+          "sample_index": 5939153,
+          "timestamp_utc": "2026-06-18T01:25:13Z",
+          "run_id": "2026-06-18T01-25-13Z",
+          "topic_key": "title:genai-io-san",
+          "topic_label": "genai-io/san",
+          "network_score": 19.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 19.0,
+          "trend_wucht": 21.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/genai-io/san"
+          ]
+        }
+      ]
+    },
+    "title:im4codes-imcodes": {
+      "topic_key": "title:im4codes-imcodes",
+      "topic_label": "im4codes/imcodes",
+      "last_seen_at": "2026-06-18T01:25:13Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T01-25-13Z:title:im4codes-imcodes",
+          "sample_index": 5939153,
+          "timestamp_utc": "2026-06-18T01:25:13Z",
+          "run_id": "2026-06-18T01-25-13Z",
+          "topic_key": "title:im4codes-imcodes",
+          "topic_label": "im4codes/imcodes",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/im4codes/imcodes"
           ]
         }
       ]

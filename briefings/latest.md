@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-18T00:36:09+00:00_
+_Generiert: 2026-06-18T01:25:13+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „marcusquinn/aidevops“ aus GitHub Search Breakout AI Tools (Score 23, opportunity). 8 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „genai-io/san“ aus GitHub Search Breakout AI Tools (Score 19, observation). 7 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,63 +12,27 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **marcusquinn/aidevops** — Score 23, opportunity — [Quelle](https://github.com/marcusquinn/aidevops)
+- **genai-io/san** — Score 19, observation — [Quelle](https://github.com/genai-io/san)
   - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T00:30:39+00:00`, fetched `2026-06-18T00:35:06+00:00`
-  - Treffer: AI Agents, AI/KI, automation, GitHub, Security, Webentwicklung
+  - Zeit: published `2026-06-18T01:23:38+00:00`, fetched `2026-06-18T01:24:08+00:00`
+  - Treffer: AI Agents, AI/KI, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Security (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
-  - Kurz: Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **lahfir/agent-desktop** — Score 23, opportunity — [Quelle](https://github.com/lahfir/agent-desktop)
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: Open-source AI agent. Lives in your terminal.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **im4codes/imcodes** — Score 16, observation — [Quelle](https://github.com/im4codes/imcodes)
   - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-18T00:29:56+00:00`, fetched `2026-06-18T00:35:06+00:00`
-  - Treffer: AI Agents, AI/KI, automation, GitHub, Watchgraph:ai_agents_workflow
+  - Zeit: published `2026-06-18T01:10:26+00:00`, fetched `2026-06-18T01:24:08+00:00`
+  - Treffer: AI/KI, GitHub, Watchgraph:ai_agents_workflow
   - Watchgraph: ai_agents_workflow
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
-  - Kurz: Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **activepieces/activepieces** — Score 23, opportunity — [Quelle](https://github.com/activepieces/activepieces)
-  - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-17T23:59:08+00:00`, fetched `2026-06-18T00:35:06+00:00`
-  - Treffer: AI Agents, AI/KI, automation, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
-  - Kurz: AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **bagidea/bagidea-office** — Score 23, opportunity — [Quelle](https://github.com/bagidea/bagidea-office)
-  - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-17T23:46:01+00:00`, fetched `2026-06-18T00:35:06+00:00`
-  - Treffer: AI/KI, GitHub, Open Source, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
-  - Kurz: A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn & hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/OpenAI/Gemini/Groq/Ollama…), workflows, plugins, voice & Telegram/Discord/LINE. Open source.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Arvo-AI/aurora** — Score 23, opportunity — [Quelle](https://github.com/Arvo-AI/aurora)
-  - Quelle: GitHub Search Breakout AI Tools / `github_search`
-  - Zeit: published `2026-06-17T22:23:29+00:00`, fetched `2026-06-18T00:35:06+00:00`
-  - Treffer: AI Agents, AI/KI, GitHub, Open Source, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: GitHub (+6.0); AI/KI (+8.4); AI Agents (+6.0); Open Source (+4.0); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
-  - Kurz: Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **l3montree-dev/devguard** — Score 23, risk — [Quelle](https://github.com/l3montree-dev/devguard)
-  - Quelle: GitHub Search Security Breakout Tools / `github_search`
-  - Zeit: published `2026-06-17T14:19:52+00:00`, fetched `2026-06-18T00:35:06+00:00`
-  - Treffer: GitHub, scanner, Security, Supply Chain Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+6.0); Security (+6.0); Supply Chain Security (+8.0); Webentwicklung (+4.0); scanner (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)
-  - Kurz: DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Warum relevant: GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority
+  - Kurz: The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Election Betting Odds by Maxim Lott and John Stossel** — Score 15, observation — [Quelle](https://electionbettingodds.com/)
   - Quelle: Election Betting Odds Public Watch / `webpage_check`
-  - Zeit: published `2026-06-18T00:33:18+00:00`, fetched `2026-06-18T00:35:06+00:00`
+  - Zeit: published `2026-06-18T01:21:34+00:00`, fetched `2026-06-18T01:24:08+00:00`
   - Treffer: election, odds, Watchgraph:elections_unrest, Watchgraph:public_health_biosecurity
   - Watchgraph: elections_unrest, public_health_biosecurity
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
@@ -82,8 +46,6 @@ Keine neuen Beobachtungssignale.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
@@ -99,4 +61,3 @@ Keine neuen Beobachtungssignale.
 - `reddit_security_burst` (reddit_json): 403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15
 - `prediction_market_public_watch` (webpage_check): Response exceeded max_bytes=500000
 - `kalshi_public_market_watch` (webpage_check): 429 Client Error: Too Many Requests for url: https://kalshi.com/markets
-- `portswigger_research` (rss): 403 Client Error: Forbidden for url: https://portswigger.net/research/rss

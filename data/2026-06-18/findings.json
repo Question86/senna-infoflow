@@ -366,6 +366,28 @@
     "id": "8283867f0d5f0ac8046c"
   },
   {
+    "title": "genai-io/san",
+    "url": "https://github.com/genai-io/san",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T01:23:38+00:00",
+    "fetched_at": "2026-06-18T01:24:08+00:00",
+    "summary": "Open-source AI agent. Lives in your terminal.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "GitHub"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca0e8275527899aac0c4"
+  },
+  {
     "title": "generalbots/generalbots",
     "url": "https://github.com/generalbots/generalbots",
     "source": "GitHub Search Breakout AI Tools",
@@ -409,6 +431,51 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "594f806b60a6073aa46c"
+  },
+  {
+    "title": "im4codes/imcodes",
+    "url": "https://github.com/im4codes/imcodes",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T01:10:26+00:00",
+    "fetched_at": "2026-06-18T01:24:08+00:00",
+    "summary": "The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: memory"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "172c4fa149fc8991b0d8"
   },
   {
     "title": "heymrun/heym",
@@ -460,8 +527,8 @@
     "url": "https://electionbettingodds.com/",
     "source": "Election Betting Odds Public Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-18T00:33:18+00:00",
-    "fetched_at": "2026-06-18T00:35:06+00:00",
+    "published_at": "2026-06-18T01:21:34+00:00",
+    "fetched_at": "2026-06-18T01:24:08+00:00",
     "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
     "matched_keywords": [
       "election",
@@ -512,7 +579,7 @@
       "TMO",
       "DHR"
     ],
-    "id": "bfedfcc14bfe3ddbee54"
+    "id": "045f9c030495c174d5fd"
   },
   {
     "title": "enescingoz/awesome-n8n-templates",

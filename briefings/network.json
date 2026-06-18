@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-18T00:36:09+00:00",
+  "generated_at": "2026-06-18T01:25:13+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 17,
-    "clusters": 17,
+    "findings": 3,
+    "clusters": 3,
     "cross_source_confrmed": 0,
-    "hot": 11
+    "hot": 0
   },
   "clusters": [
     {
-      "key": "github_repo:marcusquinn/aidevops",
-      "title": "marcusquinn/aidevops",
+      "key": "github_repo:genai-io/san",
+      "title": "genai-io/san",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -18,270 +18,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/marcusquinn/aidevops"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:lahfir/agent-desktop",
-      "title": "lahfir/agent-desktop",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/lahfir/agent-desktop"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:activepieces/activepieces",
-      "title": "activepieces/activepieces",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/activepieces/activepieces"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:bagidea/bagidea-office",
-      "title": "bagidea/bagidea-office",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/bagidea/bagidea-office"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "earthquake:arvo-ai/aurora:unknown",
-      "title": "Arvo-AI/aurora",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/Arvo-AI/aurora"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:l3montree-dev/devguard",
-      "title": "l3montree-dev/devguard",
-      "sources": [
-        "GitHub Search Security Breakout Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/l3montree-dev/devguard"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:langgenius/dify",
-      "title": "langgenius/dify",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/langgenius/dify"
-      ],
-      "finding_count": 1,
-      "max_score": 22,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:simstudioai/sim",
-      "title": "simstudioai/sim",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/simstudioai/sim"
-      ],
-      "finding_count": 1,
-      "max_score": 22,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:bytechefhq/bytechef",
-      "title": "bytechefhq/bytechef",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/bytechefhq/bytechef"
-      ],
-      "finding_count": 1,
-      "max_score": 21,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:joewinke/jat",
-      "title": "joewinke/jat",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/joewinke/jat"
-      ],
-      "finding_count": 1,
-      "max_score": 21,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:shobcoder/shob",
-      "title": "shobcoder/shob",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/shobcoder/shob"
-      ],
-      "finding_count": 1,
-      "max_score": 21,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "github_repo:generalbots/generalbots",
-      "title": "generalbots/generalbots",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/generalbots/generalbots"
+        "https://github.com/genai-io/san"
       ],
       "finding_count": 1,
       "max_score": 19,
@@ -292,11 +29,11 @@
       "network_score": 23.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "github_repo:pipeshub-ai/pipeshub-ai",
-      "title": "pipeshub-ai/pipeshub-ai",
+      "key": "github_repo:im4codes/imcodes",
+      "title": "im4codes/imcodes",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -304,30 +41,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/pipeshub-ai/pipeshub-ai"
-      ],
-      "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "github_repo:heymrun/heym",
-      "title": "heymrun/heym",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/heymrun/heym"
+        "https://github.com/im4codes/imcodes"
       ],
       "finding_count": 1,
       "max_score": 16,
@@ -358,63 +72,15 @@
       "max_score": 15,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.1,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest",
         "public_health_biosecurity"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "github_repo:enescingoz/awesome-n8n-templates",
-      "title": "enescingoz/awesome-n8n-templates",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/enescingoz/awesome-n8n-templates"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "github_repo:tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
-      "title": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T00:36:09+00:00",
+  "generated_at": "2026-06-18T01:25:13+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -314,14 +314,15 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T00:36:09+00:00",
+      "updated_at": "2026-06-18T01:25:13+00:00",
       "network_scores": [
-        20.1
+        20.1,
+        17.1
       ],
-      "rolling_average": 20.1,
+      "rolling_average": 18.6,
       "rolling_peak": 20.1,
-      "last_score": 20.1,
-      "z_hint": 0.0
+      "last_score": 17.1,
+      "z_hint": -1.5
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -343,6 +344,28 @@
       "rolling_average": 16.1,
       "rolling_peak": 16.1,
       "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "github_repo:genai-io/san": {
+      "title": "genai-io/san",
+      "updated_at": "2026-06-18T01:25:13+00:00",
+      "network_scores": [
+        23.1
+      ],
+      "rolling_average": 23.1,
+      "rolling_peak": 23.1,
+      "last_score": 23.1,
+      "z_hint": 0.0
+    },
+    "github_repo:im4codes/imcodes": {
+      "title": "im4codes/imcodes",
+      "updated_at": "2026-06-18T01:25:13+00:00",
+      "network_scores": [
+        20.1
+      ],
+      "rolling_average": 20.1,
+      "rolling_peak": 20.1,
+      "last_score": 20.1,
       "z_hint": 0.0
     }
   }
