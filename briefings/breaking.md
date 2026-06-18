@@ -1,20 +1,8 @@
 # Senna Breaking
 
-_Generiert: 2026-06-18T05:21:32+00:00_
+_Generiert: 2026-06-18T07:05:34+00:00_
 
-## vmDeshpande/ai-agent-automation
-
-- Network Score: 27.1
-- Max Monitor Score: 23
-- Quellen: GitHub Search Breakout AI Tools
-- Klassen: tier5_generic_repo
-- Cross-source bestätigt: nein
-- Momentum: increasing (+1)
-- Watchgraph: keine
-- Erste Quelle: https://github.com/vmDeshpande/ai-agent-automation
-- Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
-
-## TracecatHQ/tracecat
+## Budibase/budibase
 
 - Network Score: 27.1
 - Max Monitor Score: 23
@@ -23,10 +11,10 @@ _Generiert: 2026-06-18T05:21:32+00:00_
 - Cross-source bestätigt: nein
 - Momentum: increasing (+1)
 - Watchgraph: ai_agents_workflow
-- Erste Quelle: https://github.com/TracecatHQ/tracecat
+- Erste Quelle: https://github.com/Budibase/budibase
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
-## zhu1090093659/deepseek-pp
+## apify/apify-sdk-python
 
 - Network Score: 27.1
 - Max Monitor Score: 23
@@ -35,5 +23,17 @@ _Generiert: 2026-06-18T05:21:32+00:00_
 - Cross-source bestätigt: nein
 - Momentum: increasing (+1)
 - Watchgraph: ai_agents_workflow
-- Erste Quelle: https://github.com/zhu1090093659/deepseek-pp
+- Erste Quelle: https://github.com/apify/apify-sdk-python
+- Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
+
+## openwong2kim/wmux
+
+- Network Score: 27.1
+- Max Monitor Score: 23
+- Quellen: GitHub Search Breakout AI Tools
+- Klassen: tier5_generic_repo
+- Cross-source bestätigt: nein
+- Momentum: increasing (+1)
+- Watchgraph: ai_agents_workflow
+- Erste Quelle: https://github.com/openwong2kim/wmux
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.

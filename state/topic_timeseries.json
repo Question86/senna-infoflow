@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T05:21:32Z",
+  "generated_at": "2026-06-18T07:05:34Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T05:21:32Z",
+      "last_seen_at": "2026-06-18T07:05:34Z",
       "last_trend_wucht": 17.0,
       "samples": [
         {
@@ -881,6 +881,26 @@
           "sample_index": 5939200,
           "timestamp_utc": "2026-06-18T05:21:32Z",
           "run_id": "2026-06-18T05-21-32Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 15.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 17.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 15.0,
@@ -1726,6 +1746,230 @@
           "status": "emerging",
           "urls": [
             "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvfx"
+          ]
+        }
+      ]
+    },
+    "title:budibase-budibase": {
+      "topic_key": "title:budibase-budibase",
+      "topic_label": "Budibase/budibase",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:budibase-budibase",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:budibase-budibase",
+          "topic_label": "Budibase/budibase",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Budibase/budibase"
+          ]
+        }
+      ]
+    },
+    "title:apify-apify-sdk-python": {
+      "topic_key": "title:apify-apify-sdk-python",
+      "topic_label": "apify/apify-sdk-python",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:apify-apify-sdk-python",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:apify-apify-sdk-python",
+          "topic_label": "apify/apify-sdk-python",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/apify/apify-sdk-python"
+          ]
+        }
+      ]
+    },
+    "title:openwong2kim-wmux": {
+      "topic_key": "title:openwong2kim-wmux",
+      "topic_label": "openwong2kim/wmux",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 25.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:openwong2kim-wmux",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:openwong2kim-wmux",
+          "topic_label": "openwong2kim/wmux",
+          "network_score": 23.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 23.0,
+          "trend_wucht": 25.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/openwong2kim/wmux"
+          ]
+        }
+      ]
+    },
+    "title:tarunlnmiit-autopilot-jobhunt": {
+      "topic_key": "title:tarunlnmiit-autopilot-jobhunt",
+      "topic_label": "tarunlnmiit/autopilot-jobhunt",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 19.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:tarunlnmiit-autopilot-jobhunt",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:tarunlnmiit-autopilot-jobhunt",
+          "topic_label": "tarunlnmiit/autopilot-jobhunt",
+          "network_score": 17.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 17.0,
+          "trend_wucht": 19.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/tarunlnmiit/autopilot-jobhunt"
+          ]
+        }
+      ]
+    },
+    "title:openakita-openakita": {
+      "topic_key": "title:openakita-openakita",
+      "topic_label": "openakita/openakita",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:openakita-openakita",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:openakita-openakita",
+          "topic_label": "openakita/openakita",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/openakita/openakita"
+          ]
+        }
+      ]
+    },
+    "title:m-5.2-mindanao-philippines": {
+      "topic_key": "title:m-5.2-mindanao-philippines",
+      "topic_label": "M 5.2, Mindanao, Philippines",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:m-5.2-mindanao-philippines",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:m-5.2-mindanao-philippines",
+          "topic_label": "M 5.2, Mindanao, Philippines",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh"
+          ]
+        }
+      ]
+    },
+    "title:m-4.5-peru-brazil-border-region": {
+      "topic_key": "title:m-4.5-peru-brazil-border-region",
+      "topic_label": "M 4.5, Peru-Brazil Border Region",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:m-4.5-peru-brazil-border-region",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:m-4.5-peru-brazil-border-region",
+          "topic_label": "M 4.5, Peru-Brazil Border Region",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv"
+          ]
+        }
+      ]
+    },
+    "title:m-2.4-poland": {
+      "topic_key": "title:m-2.4-poland",
+      "topic_label": "M 2.4, Poland",
+      "last_seen_at": "2026-06-18T07:05:34Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T07-05-34Z:title:m-2.4-poland",
+          "sample_index": 5939221,
+          "timestamp_utc": "2026-06-18T07:05:34Z",
+          "run_id": "2026-06-18T07-05-34Z",
+          "topic_key": "title:m-2.4-poland",
+          "topic_label": "M 2.4, Poland",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt"
           ]
         }
       ]

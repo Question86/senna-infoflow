@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T05-21-32Z",
-  "generated_at": "2026-06-18T05:21:32Z",
+  "run_id": "2026-06-18T07-05-34Z",
+  "generated_at": "2026-06-18T07:05:34Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:vmdeshpande-ai-agent-automation",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:vmdeshpande-ai-agent-automation",
-      "topic_label": "vmDeshpande/ai-agent-automation",
+      "sample_id": "2026-06-18T07-05-34Z:title:budibase-budibase",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:budibase-budibase",
+      "topic_label": "Budibase/budibase",
       "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
@@ -21,16 +21,16 @@
       "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/vmDeshpande/ai-agent-automation"
+        "https://github.com/Budibase/budibase"
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:tracecathq-tracecat",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:tracecathq-tracecat",
-      "topic_label": "TracecatHQ/tracecat",
+      "sample_id": "2026-06-18T07-05-34Z:title:apify-apify-sdk-python",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:apify-apify-sdk-python",
+      "topic_label": "apify/apify-sdk-python",
       "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
@@ -41,16 +41,16 @@
       "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/TracecatHQ/tracecat"
+        "https://github.com/apify/apify-sdk-python"
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:zhu1090093659-deepseek-pp",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:zhu1090093659-deepseek-pp",
-      "topic_label": "zhu1090093659/deepseek-pp",
+      "sample_id": "2026-06-18T07-05-34Z:title:openwong2kim-wmux",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:openwong2kim-wmux",
+      "topic_label": "openwong2kim/wmux",
       "network_score": 23.0,
       "mention_count": 1,
       "source_count": 1,
@@ -61,34 +61,34 @@
       "trend_wucht": 25.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/zhu1090093659/deepseek-pp"
+        "https://github.com/openwong2kim/wmux"
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:omnimind-ai-openomnibot",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:omnimind-ai-openomnibot",
-      "topic_label": "omnimind-ai/OpenOmniBot",
-      "network_score": 22.0,
+      "sample_id": "2026-06-18T07-05-34Z:title:tarunlnmiit-autopilot-jobhunt",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:tarunlnmiit-autopilot-jobhunt",
+      "topic_label": "tarunlnmiit/autopilot-jobhunt",
+      "network_score": 17.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
-      "score_delta_5m": 22.0,
-      "trend_wucht": 24.0,
+      "score_delta_5m": 17.0,
+      "trend_wucht": 19.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/omnimind-ai/OpenOmniBot"
+        "https://github.com/tarunlnmiit/autopilot-jobhunt"
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
+      "sample_id": "2026-06-18T07-05-34Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 15.0,
@@ -105,52 +105,72 @@
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:rpamis-comet",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:rpamis-comet",
-      "topic_label": "rpamis/comet",
-      "network_score": 15.0,
+      "sample_id": "2026-06-18T07-05-34Z:title:openakita-openakita",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:openakita-openakita",
+      "topic_label": "openakita/openakita",
+      "network_score": 13.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
-      "score_delta_5m": 15.0,
-      "trend_wucht": 17.0,
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/rpamis/comet"
+        "https://github.com/openakita/openakita"
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:earthquake:mid-atlantic-ridge:5",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "earthquake:mid-atlantic-ridge:5",
-      "topic_label": "Green earthquake (Magnitude 5.4M, Depth:10km) in Central Mid-Atlantic Ridge 18/06/2026 03:43 UTC, [unknown].",
-      "network_score": 14.0,
+      "sample_id": "2026-06-18T07-05-34Z:title:m-5.2-mindanao-philippines",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:m-5.2-mindanao-philippines",
+      "topic_label": "M 5.2, Mindanao, Philippines",
+      "network_score": 12.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GDACS All Events Last 24h"
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
       ],
-      "score_delta_5m": 0.0,
-      "trend_wucht": 16.0,
-      "status": "mature",
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547193"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh"
       ]
     },
     {
-      "sample_id": "2026-06-18T05-21-32Z:title:m-4.3-guerrero-mexico",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:m-4.3-guerrero-mexico",
-      "topic_label": "M 4.3, Guerrero, Mexico",
+      "sample_id": "2026-06-18T07-05-34Z:title:m-4.5-peru-brazil-border-region",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:m-4.5-peru-brazil-border-region",
+      "topic_label": "M 4.5, Peru-Brazil Border Region",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:m-2.4-poland",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:m-2.4-poland",
+      "topic_label": "M 2.4, Poland",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -161,27 +181,7 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvhr"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T05-21-32Z:title:m-5.6-central-mid-atlantic-ridge",
-      "sample_index": 5939200,
-      "timestamp_utc": "2026-06-18T05:21:32Z",
-      "run_id": "2026-06-18T05-21-32Z",
-      "topic_key": "title:m-5.6-central-mid-atlantic-ridge",
-      "topic_label": "M 5.6, Central Mid-Atlantic Ridge",
-      "network_score": 10.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
-      "status": "emerging",
-      "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvfx"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt"
       ]
     }
   ]

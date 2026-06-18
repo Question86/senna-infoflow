@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T05:21:32+00:00",
+  "generated_at": "2026-06-18T07:05:34+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -317,18 +317,19 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T05:21:32+00:00",
+      "updated_at": "2026-06-18T07:05:34+00:00",
       "network_scores": [
         20.1,
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.7,
+      "rolling_average": 17.6,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -565,6 +566,94 @@
     "earthquake:central mid-atlantic ridge:5.6": {
       "title": "M 5.6, Central Mid-Atlantic Ridge",
       "updated_at": "2026-06-18T05:21:32+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "github_repo:budibase/budibase": {
+      "title": "Budibase/budibase",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:apify/apify-sdk-python": {
+      "title": "apify/apify-sdk-python",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:openwong2kim/wmux": {
+      "title": "openwong2kim/wmux",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "github_repo:tarunlnmiit/autopilot-jobhunt": {
+      "title": "tarunlnmiit/autopilot-jobhunt",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "earthquake:philippines:5.2": {
+      "title": "M 5.2, Mindanao, Philippines",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.5, peru-brazil border region:4.5": {
+      "title": "M 4.5, Peru-Brazil Border Region",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        17.7
+      ],
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
+      "last_score": 17.7,
+      "z_hint": 0.0
+    },
+    "github_repo:openakita/openakita": {
+      "title": "openakita/openakita",
+      "updated_at": "2026-06-18T07:05:34+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 2.4, poland:2.4": {
+      "title": "M 2.4, Poland",
+      "updated_at": "2026-06-18T07:05:34+00:00",
       "network_scores": [
         15.7
       ],

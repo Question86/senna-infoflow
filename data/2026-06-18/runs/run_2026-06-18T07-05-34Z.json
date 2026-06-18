@@ -1,0 +1,1206 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T07-05-34Z",
+  "generated_at": "2026-06-18T07:05:34Z",
+  "latest": {
+    "generated_at": "2026-06-18T07:05:34+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 9,
+      "today_file_total": 55,
+      "high": 0,
+      "medium": 8,
+      "observe": 1,
+      "source_errors": 7
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "Budibase/budibase",
+          "url": "https://github.com/Budibase/budibase",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T07:04:02+00:00",
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "AI agents, automations and apps that run your operations. Model agnostic.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "fbff11eb7d1a0e02da08"
+        },
+        {
+          "title": "apify/apify-sdk-python",
+          "url": "https://github.com/apify/apify-sdk-python",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T06:57:10+00:00",
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "Apify SDK for Python—The official library for building Apify Actors: serverless cloud programs for web scraping, browser automation, data processing, and AI agents. Manages the Actor lifecycle, storages (datasets, key-value stores, request queues), events, proxies, and pay-per-event monetization. Built on top of the the Apify API Client.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow",
+            "Webentwicklung"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "0d3f2e802bd0914d6bdc"
+        },
+        {
+          "title": "openwong2kim/wmux",
+          "url": "https://github.com/openwong2kim/wmux",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T06:47:46+00:00",
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "OpenAI",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 23,
+          "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents, MCP, Codex"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "5f6cc9f9ee42a7bccba1"
+        },
+        {
+          "title": "tarunlnmiit/autopilot-jobhunt",
+          "url": "https://github.com/tarunlnmiit/autopilot-jobhunt",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T06:15:08+00:00",
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub",
+            "Open Source"
+          ],
+          "relevance_score": 17,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "1fc2690a5c564d365052"
+        },
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T07:02:31+00:00",
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 15,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest",
+            "public_health_biosecurity"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election",
+            "public_health_biosecurity: WHO"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ",
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "GSK",
+            "AZN",
+            "TMO",
+            "DHR"
+          ],
+          "id": "9867ef09ad660256b0d1"
+        },
+        {
+          "title": "openakita/openakita",
+          "url": "https://github.com/openakita/openakita",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T07:00:42+00:00",
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "An open-source AI assistant framework with skills and agent architecture",
+          "matched_keywords": [
+            "AI/KI",
+            "GitHub"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "eee99b7e5fed25c5d956"
+        },
+        {
+          "title": "M 5.2, Mindanao, Philippines",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "2026-06-18 06:57:36 5.75 125.34 88 km A",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 12,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "e8cff630e53e5499c1f1"
+        },
+        {
+          "title": "M 4.5, Peru-Brazil Border Region",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "2026-06-18 05:12:45 -8.25 -74.20 140 km C",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 12,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Brazil, Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "d056a2724157f41eb4b4"
+        }
+      ],
+      "observe": [
+        {
+          "title": "M 2.4, Poland",
+          "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt",
+          "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+          "source_type": "rss",
+          "published_at": null,
+          "fetched_at": "2026-06-18T07:04:29+00:00",
+          "summary": "2026-06-17 20:05:09 50.20 18.97 1 km C",
+          "matched_keywords": [
+            "earthquake",
+            "GEOFON",
+            "GFZ",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "93fda1f4668fd9726e12"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "Budibase/budibase",
+        "url": "https://github.com/Budibase/budibase",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T07:04:02+00:00",
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "AI agents, automations and apps that run your operations. Model agnostic.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "fbff11eb7d1a0e02da08"
+      },
+      {
+        "title": "apify/apify-sdk-python",
+        "url": "https://github.com/apify/apify-sdk-python",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T06:57:10+00:00",
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "Apify SDK for Python—The official library for building Apify Actors: serverless cloud programs for web scraping, browser automation, data processing, and AI agents. Manages the Actor lifecycle, storages (datasets, key-value stores, request queues), events, proxies, and pay-per-event monetization. Built on top of the the Apify API Client.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow",
+          "Webentwicklung"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); Webentwicklung (+4.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "0d3f2e802bd0914d6bdc"
+      },
+      {
+        "title": "openwong2kim/wmux",
+        "url": "https://github.com/openwong2kim/wmux",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T06:47:46+00:00",
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "GitHub (+6.0); OpenAI (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents, MCP, Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "5f6cc9f9ee42a7bccba1"
+      },
+      {
+        "title": "tarunlnmiit/autopilot-jobhunt",
+        "url": "https://github.com/tarunlnmiit/autopilot-jobhunt",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T06:15:08+00:00",
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Open Source (+4.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1fc2690a5c564d365052"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T07:02:31+00:00",
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election",
+          "public_health_biosecurity: WHO"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ",
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "9867ef09ad660256b0d1"
+      },
+      {
+        "title": "openakita/openakita",
+        "url": "https://github.com/openakita/openakita",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T07:00:42+00:00",
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "An open-source AI assistant framework with skills and agent architecture",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eee99b7e5fed25c5d956"
+      },
+      {
+        "title": "M 5.2, Mindanao, Philippines",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "2026-06-18 06:57:36 5.75 125.34 88 km A",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e8cff630e53e5499c1f1"
+      },
+      {
+        "title": "M 4.5, Peru-Brazil Border Region",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "2026-06-18 05:12:45 -8.25 -74.20 140 km C",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph region south_america: Brazil, Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d056a2724157f41eb4b4"
+      },
+      {
+        "title": "M 2.4, Poland",
+        "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt",
+        "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-18T07:04:29+00:00",
+        "summary": "2026-06-17 20:05:09 50.20 18.97 1 km C",
+        "matched_keywords": [
+          "earthquake",
+          "GEOFON",
+          "GFZ",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "earthquake (+2.0); GEOFON (+2.4); GFZ (+2.4); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "93fda1f4668fd9726e12"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-18T07:05:34+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 9,
+      "clusters": 9,
+      "cross_source_confrmed": 0,
+      "hot": 3
+    },
+    "clusters": [
+      {
+        "key": "github_repo:budibase/budibase",
+        "title": "Budibase/budibase",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/Budibase/budibase"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:apify/apify-sdk-python",
+        "title": "apify/apify-sdk-python",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/apify/apify-sdk-python"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:openwong2kim/wmux",
+        "title": "openwong2kim/wmux",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/openwong2kim/wmux"
+        ],
+        "finding_count": 1,
+        "max_score": 23,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 27.1,
+        "hot": true,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      },
+      {
+        "key": "github_repo:tarunlnmiit/autopilot-jobhunt",
+        "title": "tarunlnmiit/autopilot-jobhunt",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/tarunlnmiit/autopilot-jobhunt"
+        ],
+        "finding_count": 1,
+        "max_score": 17,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 21.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      },
+      {
+        "key": "earthquake:philippines:5.2",
+        "title": "M 5.2, Mindanao, Philippines",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh"
+        ],
+        "finding_count": 1,
+        "max_score": 12,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "earthquake:m 4.5, peru-brazil border region:4.5",
+        "title": "M 4.5, Peru-Brazil Border Region",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv"
+        ],
+        "finding_count": 1,
+        "max_score": 12,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 15,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest",
+          "public_health_biosecurity"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "github_repo:openakita/openakita",
+        "title": "openakita/openakita",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/openakita/openakita"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 17.1,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      },
+      {
+        "key": "earthquake:m 2.4, poland:2.4",
+        "title": "M 2.4, Poland",
+        "sources": [
+          "GEOFON/GFZ Global Recent Earthquakes RSS"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.7,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      }
+    ]
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:budibase-budibase",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:budibase-budibase",
+      "topic_label": "Budibase/budibase",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/Budibase/budibase"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:apify-apify-sdk-python",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:apify-apify-sdk-python",
+      "topic_label": "apify/apify-sdk-python",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/apify/apify-sdk-python"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:openwong2kim-wmux",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:openwong2kim-wmux",
+      "topic_label": "openwong2kim/wmux",
+      "network_score": 23.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 23.0,
+      "trend_wucht": 25.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/openwong2kim/wmux"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:tarunlnmiit-autopilot-jobhunt",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:tarunlnmiit-autopilot-jobhunt",
+      "topic_label": "tarunlnmiit/autopilot-jobhunt",
+      "network_score": 17.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 17.0,
+      "trend_wucht": 19.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/tarunlnmiit/autopilot-jobhunt"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 15.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": 0.0,
+      "trend_wucht": 17.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:openakita-openakita",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:openakita-openakita",
+      "topic_label": "openakita/openakita",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/openakita/openakita"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:m-5.2-mindanao-philippines",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:m-5.2-mindanao-philippines",
+      "topic_label": "M 5.2, Mindanao, Philippines",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:m-4.5-peru-brazil-border-region",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:m-4.5-peru-brazil-border-region",
+      "topic_label": "M 4.5, Peru-Brazil Border Region",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T07-05-34Z:title:m-2.4-poland",
+      "sample_index": 5939221,
+      "timestamp_utc": "2026-06-18T07:05:34Z",
+      "run_id": "2026-06-18T07-05-34Z",
+      "topic_key": "title:m-2.4-poland",
+      "topic_label": "M 2.4, Poland",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt"
+      ]
+    }
+  ]
+}
