@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T20:05:27Z",
+  "generated_at": "2026-06-18T22:34:21Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,7 +793,7 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T20:05:27Z",
+      "last_seen_at": "2026-06-18T22:34:21Z",
       "last_trend_wucht": 12.0,
       "samples": [
         {
@@ -1061,6 +1061,26 @@
           "sample_index": 5939377,
           "timestamp_utc": "2026-06-18T20:05:27Z",
           "run_id": "2026-06-18T20-05-27Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 12.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
           "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
           "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
           "network_score": 10.0,
@@ -8814,6 +8834,230 @@
           "status": "emerging",
           "urls": [
             "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
+          ]
+        }
+      ]
+    },
+    "title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues": {
+      "topic_key": "title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
+      "topic_label": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 28.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
+          "topic_label": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+          "network_score": 26.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 26.0,
+          "trend_wucht": 28.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
+          ]
+        }
+      ]
+    },
+    "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure": {
+      "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
+      "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
+          "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+          "network_score": 18.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "CISA Cybersecurity Advisories"
+          ],
+          "score_delta_5m": 18.0,
+          "trend_wucht": 20.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
+          ]
+        }
+      ]
+    },
+    "title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win": {
+      "topic_key": "title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
+      "topic_label": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
+          "topic_label": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
+          ]
+        }
+      ]
+    },
+    "title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses": {
+      "topic_key": "title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
+      "topic_label": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
+          "topic_label": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
+          ]
+        }
+      ]
+    },
+    "title:mai-code-1-flash-available-on-more-copilot-surfaces": {
+      "topic_key": "title:mai-code-1-flash-available-on-more-copilot-surfaces",
+      "topic_label": "MAI-Code-1-Flash available on more Copilot surfaces",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 13.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:mai-code-1-flash-available-on-more-copilot-surfaces",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:mai-code-1-flash-available-on-more-copilot-surfaces",
+          "topic_label": "MAI-Code-1-Flash available on more Copilot surfaces",
+          "network_score": 11.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 11.0,
+          "trend_wucht": 13.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
+          ]
+        }
+      ]
+    },
+    "title:pipelex-pipelex": {
+      "topic_key": "title:pipelex-pipelex",
+      "topic_label": "Pipelex/pipelex",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:pipelex-pipelex",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:pipelex-pipelex",
+          "topic_label": "Pipelex/pipelex",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Pipelex/pipelex"
+          ]
+        }
+      ]
+    },
+    "title:m-4.3-off-coast-of-oregon": {
+      "topic_key": "title:m-4.3-off-coast-of-oregon",
+      "topic_label": "M 4.3, Off Coast of Oregon",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:title:m-4.3-off-coast-of-oregon",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "title:m-4.3-off-coast-of-oregon",
+          "topic_label": "M 4.3, Off Coast of Oregon",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GEOFON/GFZ Global Recent Earthquakes RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwno"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4": {
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
+      "last_seen_at": "2026-06-18T22:34:21Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T22-34-21Z:earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
+          "sample_index": 5939406,
+          "timestamp_utc": "2026-06-18T22:34:21Z",
+          "run_id": "2026-06-18T22-34-21Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
+          "topic_label": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
           ]
         }
       ]

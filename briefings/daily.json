@@ -1,35 +1,10 @@
 {
-  "generated_at": "2026-06-18T20:05:28+00:00",
-  "today_file_total": 322,
+  "generated_at": "2026-06-18T22:34:21+00:00",
+  "today_file_total": 330,
   "current_clusters": [
     {
-      "key": "earthquake:japan:5.2",
-      "title": "M 5.2, Southeast of Honshu, Japan",
-      "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:copilot-code-review-agents-support-improvements",
-      "title": "Copilot code review: AGENTS.md support and UI improvements",
+      "key": "title:detecting-duplicate-issues-public-preview-issue-fields-mcp",
+      "title": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
       "sources": [
         "GitHub Changelog Atom"
       ],
@@ -37,7 +12,106 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements"
+        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
+      ],
+      "finding_count": 1,
+      "max_score": 26,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 31.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.cisa.gov",
+      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "cyber_active_exploitation",
+        "narrative_social_reputation"
+      ],
+      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:tropical storm:unknown",
+      "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:mai-code-flash-available-more-copilot-surfaces",
+      "title": "MAI-Code-1-Flash available on more Copilot surfaces",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -51,16 +125,16 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:japan:5.0",
-      "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
+      "key": "earthquake:m 4.3, off coast of oregon:4.3",
+      "title": "M 4.3, Off Coast of Oregon",
       "sources": [
-        "GDACS All Events Last 24h"
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
       ],
       "source_classes": [
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316"
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwno"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -76,33 +150,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:japan:5.3",
-      "title": "M 5.3 - Izu Islands, Japan region",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "github_repo:skalesapp/skales",
-      "title": "skalesapp/skales",
+      "key": "github_repo:pipelex/pipelex",
+      "title": "Pipelex/pipelex",
       "sources": [
         "GitHub Search Breakout AI Tools"
       ],
@@ -110,53 +159,7 @@
         "tier5_generic_repo"
       ],
       "urls": [
-        "https://github.com/skalesapp/skales"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "github_repo:tridz-dev/huf",
-      "title": "tridz-dev/huf",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/tridz-dev/huf"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 0.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "github_repo:mixpeek/amux",
-      "title": "mixpeek/amux",
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "source_classes": [
-        "tier5_generic_repo"
-      ],
-      "urls": [
-        "https://github.com/mixpeek/amux"
+        "https://github.com/Pipelex/pipelex"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -168,6 +171,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:fiji 18:4.0",
+      "title": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "domain:electionbettingodds.com",

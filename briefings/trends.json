@@ -1,36 +1,96 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-18T20-05-27Z",
-  "generated_at": "2026-06-18T20:05:27Z",
+  "run_id": "2026-06-18T22-34-21Z",
+  "generated_at": "2026-06-18T22:34:21Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-18T20-05-27Z:title:m-5.2-southeast-of-honshu-japan",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "title:m-5.2-southeast-of-honshu-japan",
-      "topic_label": "M 5.2, Southeast of Honshu, Japan",
+      "sample_id": "2026-06-18T22-34-21Z:title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
+      "topic_label": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+      "network_score": 26.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 26.0,
+      "trend_wucht": 28.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T22-34-21Z:title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
+      "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "network_score": 18.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "CISA Cybersecurity Advisories"
+      ],
+      "score_delta_5m": 18.0,
+      "trend_wucht": 20.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T22-34-21Z:title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:green-notification-for-tropical-cyclone-seven-26.-population-affected-by-category-1-120-km-h-win",
+      "topic_label": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+      "network_score": 14.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 14.0,
+      "trend_wucht": 16.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T22-34-21Z:title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses",
+      "topic_label": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "network_score": 12.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GEOFON/GFZ Global Recent Earthquakes RSS"
+        "BleepingComputer Security"
       ],
       "score_delta_5m": 12.0,
       "trend_wucht": 14.0,
       "status": "emerging",
       "urls": [
-        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks"
+        "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
       ]
     },
     {
-      "sample_id": "2026-06-18T20-05-27Z:title:copilot-code-review:-agents.md-support-and-ui-improvements",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "title:copilot-code-review:-agents.md-support-and-ui-improvements",
-      "topic_label": "Copilot code review: AGENTS.md support and UI improvements",
+      "sample_id": "2026-06-18T22-34-21Z:title:mai-code-1-flash-available-on-more-copilot-surfaces",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:mai-code-1-flash-available-on-more-copilot-surfaces",
+      "topic_label": "MAI-Code-1-Flash available on more Copilot surfaces",
       "network_score": 11.0,
       "mention_count": 1,
       "source_count": 1,
@@ -41,34 +101,14 @@
       "trend_wucht": 13.0,
       "status": "emerging",
       "urls": [
-        "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements"
+        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
       ]
     },
     {
-      "sample_id": "2026-06-18T20-05-27Z:title:skalesapp-skales",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "title:skalesapp-skales",
-      "topic_label": "skalesapp/skales",
-      "network_score": 10.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
-      "status": "emerging",
-      "urls": [
-        "https://github.com/skalesapp/skales"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T20-05-27Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
+      "sample_id": "2026-06-18T22-34-21Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
       "network_score": 10.0,
@@ -85,12 +125,12 @@
       ]
     },
     {
-      "sample_id": "2026-06-18T20-05-27Z:title:tridz-dev-huf",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "title:tridz-dev-huf",
-      "topic_label": "tridz-dev/huf",
+      "sample_id": "2026-06-18T22-34-21Z:title:pipelex-pipelex",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:pipelex-pipelex",
+      "topic_label": "Pipelex/pipelex",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
@@ -101,67 +141,47 @@
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://github.com/tridz-dev/huf"
+        "https://github.com/Pipelex/pipelex"
       ]
     },
     {
-      "sample_id": "2026-06-18T20-05-27Z:earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-southeast-o:5",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "earthquake:green-earthquake-magnitude-5.3m-depth:10km-in-southeast-o:5",
-      "topic_label": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
+      "sample_id": "2026-06-18T22-34-21Z:title:m-4.3-off-coast-of-oregon",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "title:m-4.3-off-coast-of-oregon",
+      "topic_label": "M 4.3, Off Coast of Oregon",
       "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GEOFON/GFZ Global Recent Earthquakes RSS"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwno"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T22-34-21Z:earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
+      "sample_index": 5939406,
+      "timestamp_utc": "2026-06-18T22:34:21Z",
+      "run_id": "2026-06-18T22-34-21Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
+      "network_score": 8.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
         "GDACS All Events Last 24h"
       ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
+      "score_delta_5m": 8.0,
+      "trend_wucht": 10.0,
       "status": "emerging",
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T20-05-27Z:title:mixpeek-amux",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "title:mixpeek-amux",
-      "topic_label": "mixpeek/amux",
-      "network_score": 10.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "GitHub Search Breakout AI Tools"
-      ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
-      "status": "emerging",
-      "urls": [
-        "https://github.com/mixpeek/amux"
-      ]
-    },
-    {
-      "sample_id": "2026-06-18T20-05-27Z:earthquake:m-5.3-izu-islands-japan-region:5.3",
-      "sample_index": 5939377,
-      "timestamp_utc": "2026-06-18T20:05:27Z",
-      "run_id": "2026-06-18T20-05-27Z",
-      "topic_key": "earthquake:m-5.3-izu-islands-japan-region:5.3",
-      "topic_label": "M 5.3 - Izu Islands, Japan region",
-      "network_score": 9.0,
-      "mention_count": 1,
-      "source_count": 1,
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "score_delta_5m": 9.0,
-      "trend_wucht": 11.0,
-      "status": "emerging",
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
       ]
     }
   ]
