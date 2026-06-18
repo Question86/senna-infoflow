@@ -1,42 +1,44 @@
 {
-  "generated_at": "2026-06-18T15:00:18+00:00",
+  "generated_at": "2026-06-18T16:21:23+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 3,
-    "clusters": 3,
+    "findings": 8,
+    "clusters": 8,
     "cross_source_confrmed": 0,
     "hot": 1,
-    "early_signals": 1,
+    "early_signals": 2,
     "dominance_penalized": 1
   },
   "clusters": [
     {
-      "key": "github_repo:eat-pray-ai/yutu",
-      "title": "eat-pray-ai/yutu",
+      "key": "title:safer-pull-request-target-defaults-github-actions-checkout",
+      "title": "Safer pull_request_target defaults for GitHub Actions checkout",
       "sources": [
-        "GitHub Search Breakout AI Tools"
+        "GitHub Changelog Atom"
       ],
       "source_classes": [
-        "tier5_generic_repo"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/eat-pray-ai/yutu"
+        "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
       ],
       "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 0.55,
+      "max_score": 22,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 24.9,
+      "network_score": 31.5,
       "hot": true,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "macro_fx_company_numbers"
+      ],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 20.1,
-      "ranking_score": 24.9,
-      "initial_reach_tier": "small_initial",
-      "source_reach_score": 1.5,
-      "authority_bonus_capped": 0.9,
+      "raw_network_score": 27.1,
+      "ranking_score": 31.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
@@ -46,7 +48,199 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T15:00:18+00:00"
+      "first_seen_at": "2026-06-18T16:21:23+00:00"
+    },
+    {
+      "key": "title:pull-request-limits-are-cutting-down-noise",
+      "title": "How pull request limits are cutting down the noise",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 22.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 22.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T16:21:23+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/diagnose-rare-childhood-diseases"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.4,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 20.4,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.4,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T21:31:36+00:00"
+    },
+    {
+      "key": "github_repo:baserow/baserow",
+      "title": "baserow/baserow",
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "source_classes": [
+        "tier5_generic_repo"
+      ],
+      "urls": [
+        "https://github.com/baserow/baserow"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 0.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.4,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.4,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T16:21:23+00:00"
+    },
+    {
+      "key": "github_repo:agent-messenger/agent-messenger",
+      "title": "agent-messenger/agent-messenger",
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "source_classes": [
+        "tier5_generic_repo"
+      ],
+      "urls": [
+        "https://github.com/agent-messenger/agent-messenger"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 0.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.4,
+      "initial_reach_tier": "small_initial",
+      "source_reach_score": 1.5,
+      "authority_bonus_capped": 0.9,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T16:21:23+00:00"
     },
     {
       "key": "domain:electionbettingodds.com",
@@ -61,20 +255,19 @@
         "https://electionbettingodds.com/"
       ],
       "finding_count": 1,
-      "max_score": 15,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.5,
+      "network_score": 11.5,
       "hot": false,
       "watchgraph_modules": [
-        "elections_unrest",
-        "public_health_biosecurity"
+        "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 16.5,
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -90,8 +283,8 @@
       "first_seen_at": "2026-06-18T00:36:09+00:00"
     },
     {
-      "key": "earthquake:andreanof islands:unknown",
-      "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
+      "key": "earthquake:rat islands:4.0",
+      "title": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
       "sources": [
         "GDACS All Events Last 24h"
       ],
@@ -100,27 +293,27 @@
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 8,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.4,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.9,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.7,
-      "ranking_score": 13.4,
+      "raw_network_score": 13.7,
+      "ranking_score": 9.9,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -128,12 +321,12 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
+      "first_seen_at": "2026-06-18T16:21:23+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-06-18T15:00:19Z",
+    "generated_at": "2026-06-18T16:21:23Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T15:00:18Z",
+  "generated_at": "2026-06-18T16:21:23Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -793,8 +793,8 @@
     "title:election-betting-odds-by-maxim-lott-and-john-stossel": {
       "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
       "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-      "last_seen_at": "2026-06-18T15:00:18Z",
-      "last_trend_wucht": 17.0,
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 12.0,
       "samples": [
         {
           "sample_id": "2026-06-18T00-36-09Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
@@ -971,6 +971,26 @@
           ],
           "score_delta_5m": 0.0,
           "trend_wucht": 17.0,
+          "status": "mature",
+          "urls": [
+            "https://electionbettingodds.com/"
+          ]
+        },
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+          "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Election Betting Odds Public Watch"
+          ],
+          "score_delta_5m": -5.0,
+          "trend_wucht": 12.0,
           "status": "mature",
           "urls": [
             "https://electionbettingodds.com/"
@@ -7538,6 +7558,202 @@
           "status": "emerging",
           "urls": [
             "https://github.com/eat-pray-ai/yutu"
+          ]
+        }
+      ]
+    },
+    "title:safer-pull_request_target-defaults-for-github-actions-checkout": {
+      "topic_key": "title:safer-pull_request_target-defaults-for-github-actions-checkout",
+      "topic_label": "Safer pull_request_target defaults for GitHub Actions checkout",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:safer-pull_request_target-defaults-for-github-actions-checkout",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:safer-pull_request_target-defaults-for-github-actions-checkout",
+          "topic_label": "Safer pull_request_target defaults for GitHub Actions checkout",
+          "network_score": 22.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 22.0,
+          "trend_wucht": 24.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
+          ]
+        }
+      ]
+    },
+    "title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children": {
+      "topic_key": "title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
+      "topic_label": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
+          "topic_label": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "OpenAI News RSS"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://openai.com/index/diagnose-rare-childhood-diseases"
+          ]
+        }
+      ]
+    },
+    "title:how-pull-request-limits-are-cutting-down-the-noise": {
+      "topic_key": "title:how-pull-request-limits-are-cutting-down-the-noise",
+      "topic_label": "How pull request limits are cutting down the noise",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:how-pull-request-limits-are-cutting-down-the-noise",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:how-pull-request-limits-are-cutting-down-the-noise",
+          "topic_label": "How pull request limits are cutting down the noise",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Blog Atom"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
+          ]
+        }
+      ]
+    },
+    "title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files": {
+      "topic_key": "title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
+      "topic_label": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
+          "topic_label": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
+          ]
+        }
+      ]
+    },
+    "title:baserow-baserow": {
+      "topic_key": "title:baserow-baserow",
+      "topic_label": "baserow/baserow",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:baserow-baserow",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:baserow-baserow",
+          "topic_label": "baserow/baserow",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/baserow/baserow"
+          ]
+        }
+      ]
+    },
+    "title:agent-messenger-agent-messenger": {
+      "topic_key": "title:agent-messenger-agent-messenger",
+      "topic_label": "agent-messenger/agent-messenger",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:title:agent-messenger-agent-messenger",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "title:agent-messenger-agent-messenger",
+          "topic_label": "agent-messenger/agent-messenger",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Search Breakout AI Tools"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/agent-messenger/agent-messenger"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4": {
+      "topic_key": "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
+      "topic_label": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+      "last_seen_at": "2026-06-18T16:21:23Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-18T16-21-23Z:earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
+          "sample_index": 5939332,
+          "timestamp_utc": "2026-06-18T16:21:23Z",
+          "run_id": "2026-06-18T16-21-23Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
+          "topic_label": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271"
           ]
         }
       ]

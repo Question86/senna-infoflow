@@ -1,0 +1,1129 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-18T16-21-23Z",
+  "generated_at": "2026-06-18T16:21:23Z",
+  "latest": {
+    "generated_at": "2026-06-18T16:21:23+00:00",
+    "date": "2026-06-18",
+    "scope": "configured_public_sources_only",
+    "counts": {
+      "new_relevant_findings": 8,
+      "today_file_total": 287,
+      "high": 0,
+      "medium": 4,
+      "observe": 4,
+      "source_errors": 11
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "title": "Safer pull_request_target defaults for GitHub Actions checkout",
+          "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
+          "source": "GitHub Changelog Atom",
+          "source_type": "rss",
+          "published_at": "2026-06-18T14:06:55+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "The pull_request_target event is one of the most commonly misused triggers in GitHub Actions, leading to vulnerabilities in workflows. Workflows triggered by pull_request_target run with the base repository’s GITHUB_TOKEN, secrets,… The post Safer pull_request_target defaults for GitHub Actions checkout appeared first on The GitHub Blog .",
+          "matched_keywords": [
+            "GitHub",
+            "GitHub Actions",
+            "Watchgraph:macro_fx_company_numbers"
+          ],
+          "relevance_score": 22,
+          "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules macro_fx_company_numbers (+3.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "macro_fx_company_numbers"
+          ],
+          "watchgraph_reasons": [
+            "macro_fx_company_numbers: default"
+          ],
+          "market_context": [
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ"
+          ],
+          "id": "352d7741281424bfce39",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI News RSS",
+          "source_type": "rss",
+          "published_at": "2026-06-18T08:00:00+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+          "matched_keywords": [
+            "AI/KI",
+            "OpenAI"
+          ],
+          "relevance_score": 16,
+          "relevance_reason": "OpenAI (+7.2); AI/KI (+7.0); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "f04c160172fd68982967",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "How pull request limits are cutting down the noise",
+          "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+          "source": "GitHub Blog Atom",
+          "source_type": "rss",
+          "published_at": "2026-06-18T16:00:00+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
+          "matched_keywords": [
+            "GitHub",
+            "Open Source"
+          ],
+          "relevance_score": 13,
+          "relevance_reason": "GitHub (+6.0); Open Source (+4.8); recent (+2.0)",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "86d15e7b783260c0589b",
+          "source_bias_class": "normal"
+        },
+        {
+          "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+          "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+          "source": "BleepingComputer Security",
+          "source_type": "rss",
+          "published_at": "2026-06-18T16:20:06+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+          "matched_keywords": [
+            "Security"
+          ],
+          "relevance_score": 12,
+          "relevance_reason": "Security (+10.1); recent (+2.0)",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "c7950a98b173abd6cd34",
+          "source_bias_class": "normal"
+        }
+      ],
+      "observe": [
+        {
+          "title": "Election Betting Odds by Maxim Lott and John Stossel",
+          "url": "https://electionbettingodds.com/",
+          "source": "Election Betting Odds Public Watch",
+          "source_type": "webpage_check",
+          "published_at": "2026-06-18T16:18:28+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+          "matched_keywords": [
+            "election",
+            "odds",
+            "Watchgraph:elections_unrest",
+            "Watchgraph:public_health_biosecurity"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0); debias: removed public_health_biosecurity false positive from 'Who will win'; debias: odds proxy capped to 10 without external confirmation",
+          "risk_or_opportunity": "observation",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "watchgraph_modules": [
+            "elections_unrest"
+          ],
+          "watchgraph_reasons": [
+            "elections_unrest: election"
+          ],
+          "market_context": [
+            "LMT",
+            "RTX",
+            "NOC",
+            "GD",
+            "RHM.DE",
+            "BA",
+            "META",
+            "GOOGL",
+            "MSFT",
+            "RDDT",
+            "SNAP",
+            "PINS",
+            "SPY",
+            "QQQ",
+            "DAX",
+            "EWU",
+            "INDA",
+            "EWJ",
+            "EWY",
+            "EWA",
+            "EWC",
+            "EWZ"
+          ],
+          "id": "5cc318211e71753f4d25",
+          "source_bias_class": "market_odds_proxy"
+        },
+        {
+          "title": "baserow/baserow",
+          "url": "https://github.com/baserow/baserow",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T15:26:11+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+          "matched_keywords": [
+            "AI/KI",
+            "automation",
+            "Datenschutz",
+            "GitHub",
+            "Open Source"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Datenschutz (+6.0); Open Source (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": [],
+          "market_context": [],
+          "id": "9e028a607681d9da7c9a",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "agent-messenger/agent-messenger",
+          "url": "https://github.com/agent-messenger/agent-messenger",
+          "source": "GitHub Search Breakout AI Tools",
+          "source_type": "github_search",
+          "published_at": "2026-06-18T15:15:22+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "Messenger automation CLI for AI agents",
+          "matched_keywords": [
+            "AI Agents",
+            "AI/KI",
+            "automation",
+            "GitHub",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "relevance_score": 10,
+          "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "risk_or_opportunity": "opportunity",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: AI agents"
+          ],
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "id": "7d6bef0f8b13b646b353",
+          "source_bias_class": "single_platform_github"
+        },
+        {
+          "title": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271",
+          "source": "GDACS All Events Last 24h",
+          "source_type": "rss",
+          "published_at": "2026-06-18T15:28:23+00:00",
+          "fetched_at": "2026-06-18T16:19:15+00:00",
+          "summary": "On 6/18/2026 3:52:33 AM, an earthquake occurred in Rat Islands, Aleutian Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 4.8M, Depth:20km.",
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "relevance_score": 8,
+          "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+          "risk_or_opportunity": "risk",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ],
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "id": "5817c71fc55de2ca0cf4",
+          "source_bias_class": "normal"
+        }
+      ]
+    },
+    "findings": [
+      {
+        "title": "Safer pull_request_target defaults for GitHub Actions checkout",
+        "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T14:06:55+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "The pull_request_target event is one of the most commonly misused triggers in GitHub Actions, leading to vulnerabilities in workflows. Workflows triggered by pull_request_target run with the base repository’s GITHUB_TOKEN, secrets,… The post Safer pull_request_target defaults for GitHub Actions checkout appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "GitHub Actions",
+          "Watchgraph:macro_fx_company_numbers"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules macro_fx_company_numbers (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "macro_fx_company_numbers"
+        ],
+        "watchgraph_reasons": [
+          "macro_fx_company_numbers: default"
+        ],
+        "market_context": [
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "352d7741281424bfce39",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-06-18T08:00:00+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.2); AI/KI (+7.0); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f04c160172fd68982967",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "How pull request limits are cutting down the noise",
+        "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-18T16:00:00+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub (+6.0); Open Source (+4.8); recent (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "86d15e7b783260c0589b",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+        "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+        "source": "BleepingComputer Security",
+        "source_type": "rss",
+        "published_at": "2026-06-18T16:20:06+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+10.1); recent (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7950a98b173abd6cd34",
+        "source_bias_class": "normal"
+      },
+      {
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "url": "https://electionbettingodds.com/",
+        "source": "Election Betting Odds Public Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-18T16:18:28+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
+        "matched_keywords": [
+          "election",
+          "odds",
+          "Watchgraph:elections_unrest",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "election (+3.4); odds (+3.4); recent (+2.0); watchgraph modules elections_unrest, public_health_biosecurity (+6.0); debias: removed public_health_biosecurity false positive from 'Who will win'; debias: odds proxy capped to 10 without external confirmation",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "5cc318211e71753f4d25",
+        "source_bias_class": "market_odds_proxy"
+      },
+      {
+        "title": "baserow/baserow",
+        "url": "https://github.com/baserow/baserow",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T15:26:11+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+        "matched_keywords": [
+          "AI/KI",
+          "automation",
+          "Datenschutz",
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Datenschutz (+6.0); Open Source (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e028a607681d9da7c9a",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "agent-messenger/agent-messenger",
+        "url": "https://github.com/agent-messenger/agent-messenger",
+        "source": "GitHub Search Breakout AI Tools",
+        "source_type": "github_search",
+        "published_at": "2026-06-18T15:15:22+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "Messenger automation CLI for AI agents",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "automation",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high); debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "7d6bef0f8b13b646b353",
+        "source_bias_class": "single_platform_github"
+      },
+      {
+        "title": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271",
+        "source": "GDACS All Events Last 24h",
+        "source_type": "rss",
+        "published_at": "2026-06-18T15:28:23+00:00",
+        "fetched_at": "2026-06-18T16:19:15+00:00",
+        "summary": "On 6/18/2026 3:52:33 AM, an earthquake occurred in Rat Islands, Aleutian Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 4.8M, Depth:20km.",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5817c71fc55de2ca0cf4",
+        "source_bias_class": "normal"
+      }
+    ],
+    "source_errors": [
+      {
+        "source_id": "reddit_worldnews_burst",
+        "source_name": "Reddit r/worldnews Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/search.json?q=election+OR+protest+OR+strike+OR+coup+OR+sanctions+OR+crisis+OR+flood+OR+earthquake+OR+outbreak+OR+blackout&restrict_sr=1&sort=new&t=day&limit=20"
+      },
+      {
+        "source_id": "reddit_geopolitics_burst",
+        "source_name": "Reddit r/geopolitics Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/search.json?q=election+OR+war+OR+sanctions+OR+China+OR+Russia+OR+Taiwan+OR+Middle+East+OR+NATO+OR+oil+OR+shipping&restrict_sr=1&sort=new&t=week&limit=15"
+      },
+      {
+        "source_id": "reddit_politics_elections",
+        "source_name": "Reddit r/politics Election Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/politics/search.json?q=election+OR+poll+OR+candidate+OR+debate+OR+indictment+OR+campaign+OR+primary+OR+swing+state&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_technology_release",
+        "source_name": "Reddit r/technology Release Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/technology/search.json?q=launch+OR+release+OR+OpenAI+OR+Google+OR+Apple+OR+Microsoft+OR+Nvidia+OR+security+OR+privacy+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "reddit_security_burst",
+        "source_name": "Reddit r/cybersecurity Burst Sensor",
+        "source_type": "reddit_json",
+        "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/cybersecurity/search.json?q=CVE+OR+exploited+OR+ransomware+OR+breach+OR+GitHub+OR+supply+chain+OR+zero-day+OR+OpenAI+OR+AI&restrict_sr=1&sort=new&t=day&limit=15"
+      },
+      {
+        "source_id": "prediction_market_public_watch",
+        "source_name": "Public Prediction Market Watch",
+        "source_type": "webpage_check",
+        "error": "Response exceeded max_bytes=500000"
+      },
+      {
+        "source_id": "kalshi_public_market_watch",
+        "source_name": "Kalshi Public Market Watch",
+        "source_type": "webpage_check",
+        "error": "429 Client Error: Too Many Requests for url: https://kalshi.com/markets"
+      },
+      {
+        "source_id": "oecd_newsroom_macro",
+        "source_name": "OECD Newsroom Macro and Policy Watch",
+        "source_type": "webpage_check",
+        "error": "403 Client Error: Forbidden for url: https://www.oecd.org/en/about/newsroom.html"
+      },
+      {
+        "source_id": "gdelt_macro_market_policy_rss",
+        "source_name": "GDELT Macro Market Policy RSS",
+        "source_type": "rss",
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22central+bank%22+OR+inflation+OR+%22rate+cut%22+OR+%22rate+hike%22+OR+bonds+OR+recession+OR+tariff+OR+sanctions+OR+oil+OR+shipping%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel"
+      },
+      {
+        "source_id": "gdelt_politics_unrest_elections_rss",
+        "source_name": "GDELT Politics Unrest Elections RSS",
+        "source_type": "rss",
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28election+OR+protest+OR+strike+OR+coup+OR+parliament+OR+%22government+collapse%22+OR+sanctions+OR+unrest%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel"
+      },
+      {
+        "source_id": "gdelt_initial_disruption_rss",
+        "source_name": "GDELT Initial Disruption Resonance RSS",
+        "source_type": "rss",
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28wildfire+OR+%22forest+fire%22+OR+flood+OR+drought+OR+blackout+OR+%22port+closure%22+OR+%22supply+chain%22+OR+%22rail+strike%22+OR+%22pipeline+outage%22%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel"
+      }
+    ],
+    "score_debias": {
+      "schema_version": 1,
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ]
+    }
+  },
+  "network": {
+    "generated_at": "2026-06-18T16:21:23+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 8,
+      "clusters": 8,
+      "cross_source_confrmed": 0,
+      "hot": 1,
+      "early_signals": 2,
+      "dominance_penalized": 1
+    },
+    "clusters": [
+      {
+        "key": "title:safer-pull-request-target-defaults-github-actions-checkout",
+        "title": "Safer pull_request_target defaults for GitHub Actions checkout",
+        "sources": [
+          "GitHub Changelog Atom"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
+        ],
+        "finding_count": 1,
+        "max_score": 22,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 31.5,
+        "hot": true,
+        "watchgraph_modules": [
+          "macro_fx_company_numbers"
+        ],
+        "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+        "raw_network_score": 27.1,
+        "ranking_score": 31.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": true,
+        "early_signal_bonus": 5.5,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T16:21:23+00:00"
+      },
+      {
+        "key": "title:pull-request-limits-are-cutting-down-noise",
+        "title": "How pull request limits are cutting down the noise",
+        "sources": [
+          "GitHub Blog Atom"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 22.5,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 18.1,
+        "ranking_score": 22.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": true,
+        "early_signal_bonus": 5.5,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T16:21:23+00:00"
+      },
+      {
+        "key": "domain:openai.com",
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "sources": [
+          "OpenAI News RSS"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://openai.com/index/diagnose-rare-childhood-diseases"
+        ],
+        "finding_count": 1,
+        "max_score": 16,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 20.4,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 21.1,
+        "ranking_score": 20.4,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.4,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-17T20:44:40+00:00"
+      },
+      {
+        "key": "domain:www.bleepingcomputer.com",
+        "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+        "sources": [
+          "BleepingComputer Security"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
+        ],
+        "finding_count": 1,
+        "max_score": 12,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 16.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 17.1,
+        "ranking_score": 16.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-17T21:31:36+00:00"
+      },
+      {
+        "key": "github_repo:baserow/baserow",
+        "title": "baserow/baserow",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/baserow/baserow"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T16:21:23+00:00"
+      },
+      {
+        "key": "github_repo:agent-messenger/agent-messenger",
+        "title": "agent-messenger/agent-messenger",
+        "sources": [
+          "GitHub Search Breakout AI Tools"
+        ],
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "urls": [
+          "https://github.com/agent-messenger/agent-messenger"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "hot": false,
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.4,
+        "initial_reach_tier": "small_initial",
+        "source_reach_score": 1.5,
+        "authority_bonus_capped": 0.9,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T16:21:23+00:00"
+      },
+      {
+        "key": "domain:electionbettingodds.com",
+        "title": "Election Betting Odds by Maxim Lott and John Stossel",
+        "sources": [
+          "Election Betting Odds Public Watch"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://electionbettingodds.com/"
+        ],
+        "finding_count": 1,
+        "max_score": 10,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 11.5,
+        "hot": false,
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 12.1,
+        "ranking_score": 11.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 0.0,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-18T00:36:09+00:00"
+      },
+      {
+        "key": "earthquake:rat islands:4.0",
+        "title": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271"
+        ],
+        "finding_count": 1,
+        "max_score": 8,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.9,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 13.7,
+        "ranking_score": 9.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-18T16:21:23+00:00"
+      }
+    ],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-18T16:21:23Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:safer-pull_request_target-defaults-for-github-actions-checkout",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:safer-pull_request_target-defaults-for-github-actions-checkout",
+      "topic_label": "Safer pull_request_target defaults for GitHub Actions checkout",
+      "network_score": 22.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "score_delta_5m": 22.0,
+      "trend_wucht": 24.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
+      "topic_label": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "network_score": 16.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "score_delta_5m": 16.0,
+      "trend_wucht": 18.0,
+      "status": "emerging",
+      "urls": [
+        "https://openai.com/index/diagnose-rare-childhood-diseases"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:how-pull-request-limits-are-cutting-down-the-noise",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:how-pull-request-limits-are-cutting-down-the-noise",
+      "topic_label": "How pull request limits are cutting down the noise",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
+      "topic_label": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "network_score": 12.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "score_delta_5m": 12.0,
+      "trend_wucht": 14.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
+      "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Election Betting Odds Public Watch"
+      ],
+      "score_delta_5m": -5.0,
+      "trend_wucht": 12.0,
+      "status": "mature",
+      "urls": [
+        "https://electionbettingodds.com/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:baserow-baserow",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:baserow-baserow",
+      "topic_label": "baserow/baserow",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/baserow/baserow"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:title:agent-messenger-agent-messenger",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "title:agent-messenger-agent-messenger",
+      "topic_label": "agent-messenger/agent-messenger",
+      "network_score": 10.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Search Breakout AI Tools"
+      ],
+      "score_delta_5m": 10.0,
+      "trend_wucht": 12.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/agent-messenger/agent-messenger"
+      ]
+    },
+    {
+      "sample_id": "2026-06-18T16-21-23Z:earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
+      "sample_index": 5939332,
+      "timestamp_utc": "2026-06-18T16:21:23Z",
+      "run_id": "2026-06-18T16-21-23Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4",
+      "topic_label": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+      "network_score": 8.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 8.0,
+      "trend_wucht": 10.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271"
+      ]
+    }
+  ]
+}

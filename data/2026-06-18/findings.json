@@ -25,6 +25,77 @@
     "id": "d7a4cff815f05d90005b"
   },
   {
+    "title": "baserow/baserow",
+    "url": "https://github.com/baserow/baserow",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T15:26:11+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+    "matched_keywords": [
+      "AI/KI",
+      "automation",
+      "Datenschutz",
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); Datenschutz (+6.0); Open Source (+4.0); automation (+2.0); recent (+2.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9e028a607681d9da7c9a"
+  },
+  {
+    "title": "agent-messenger/agent-messenger",
+    "url": "https://github.com/agent-messenger/agent-messenger",
+    "source": "GitHub Search Breakout AI Tools",
+    "source_type": "github_search",
+    "published_at": "2026-06-18T15:15:22+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "Messenger automation CLI for AI agents",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "automation",
+      "GitHub",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "GitHub (+6.0); AI/KI (+5.0); AI Agents (+6.0); automation (+2.0); recent (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; single GitHub repository description requires confirmation (capped below high)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "7d6bef0f8b13b646b353"
+  },
+  {
     "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
     "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
     "source": "BleepingComputer Security",
@@ -656,6 +727,43 @@
     "id": "6950fb688e40f96dde57"
   },
   {
+    "title": "Safer pull_request_target defaults for GitHub Actions checkout",
+    "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-18T14:06:55+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "The pull_request_target event is one of the most commonly misused triggers in GitHub Actions, leading to vulnerabilities in workflows. Workflows triggered by pull_request_target run with the base repository’s GITHUB_TOKEN, secrets,… The post Safer pull_request_target defaults for GitHub Actions checkout appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "GitHub Actions",
+      "Watchgraph:macro_fx_company_numbers"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "GitHub (+8.4); GitHub Actions (+8.4); recent (+2.0); watchgraph modules macro_fx_company_numbers (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "macro_fx_company_numbers"
+    ],
+    "watchgraph_reasons": [
+      "macro_fx_company_numbers: default"
+    ],
+    "market_context": [
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "352d7741281424bfce39"
+  },
+  {
     "title": "triggerdotdev/trigger.dev",
     "url": "https://github.com/triggerdotdev/trigger.dev",
     "source": "GitHub Search Breakout AI Tools",
@@ -1284,6 +1392,27 @@
     "id": "5b6c222ce943594e8cf5"
   },
   {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:00:00+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+7.2); AI/KI (+7.0); recent (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f04c160172fd68982967"
+  },
+  {
     "title": "Green earthquake (Magnitude 5.3M, Depth:95.287km) in Philippines 18/06/2026 06:57 UTC, 3 million in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547214",
     "source": "GDACS All Events Last 24h",
@@ -1438,8 +1567,8 @@
     "url": "https://electionbettingodds.com/",
     "source": "Election Betting Odds Public Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-18T14:58:50+00:00",
-    "fetched_at": "2026-06-18T14:59:08+00:00",
+    "published_at": "2026-06-18T16:18:28+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
     "summary": "Live betting odds on the 2028 presidential election, and more! Who will win? Vance, Newsom, DeSantis, AOC?...",
     "matched_keywords": [
       "election",
@@ -1490,7 +1619,7 @@
       "TMO",
       "DHR"
     ],
-    "id": "fdb1374aff287b29412e"
+    "id": "5cc318211e71753f4d25"
   },
   {
     "title": "eracle/OpenOutreach",
@@ -1557,6 +1686,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a0aaf8a803e76469d573"
+  },
+  {
+    "title": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547271",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-18T15:28:23+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "On 6/18/2026 3:52:33 AM, an earthquake occurred in Rat Islands, Aleutian Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 4.8M, Depth:20km.",
+    "matched_keywords": [
+      "earthquake",
+      "GitHub",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "GitHub (+6.0); earthquake (+2.8); recent (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5817c71fc55de2ca0cf4"
   },
   {
     "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
@@ -2133,6 +2299,27 @@
     "id": "541f06bceef5a0d11d30"
   },
   {
+    "title": "How pull request limits are cutting down the noise",
+    "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-18T16:00:00+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "GitHub (+6.0); Open Source (+4.8); recent (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "86d15e7b783260c0589b"
+  },
+  {
     "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
     "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
     "source": "BleepingComputer Security",
@@ -2453,6 +2640,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "90196630ad029e30d68a"
+  },
+  {
+    "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+    "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-18T16:20:06+00:00",
+    "fetched_at": "2026-06-18T16:19:15+00:00",
+    "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+10.1); recent (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c7950a98b173abd6cd34"
   },
   {
     "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",

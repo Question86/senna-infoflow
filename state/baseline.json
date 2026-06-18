@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T15:00:18+00:00",
+  "generated_at": "2026-06-18T16:21:23+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -69,15 +69,16 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Introducing LifeSciBench",
-      "updated_at": "2026-06-17T20:44:40+00:00",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "updated_at": "2026-06-18T16:21:23+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        21.1
       ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "rolling_average": 20.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 1.0
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -106,17 +107,18 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "updated_at": "2026-06-18T16:21:23+00:00",
       "network_scores": [
         16.1,
         28.1,
-        63.8
+        63.8,
+        17.1
       ],
-      "rolling_average": 36.0,
+      "rolling_average": 31.27,
       "rolling_peak": 63.8,
-      "last_score": 63.8,
-      "z_hint": 27.8
+      "last_score": 17.1,
+      "z_hint": -14.17
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -319,7 +321,7 @@
     },
     "domain:electionbettingodds.com": {
       "title": "Election Betting Odds by Maxim Lott and John Stossel",
-      "updated_at": "2026-06-18T15:00:18+00:00",
+      "updated_at": "2026-06-18T16:21:23+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -329,12 +331,13 @@
         17.1,
         17.1,
         17.1,
-        17.1
+        17.1,
+        12.1
       ],
-      "rolling_average": 17.43,
+      "rolling_average": 16.9,
       "rolling_peak": 20.1,
-      "last_score": 17.1,
-      "z_hint": -0.33
+      "last_score": 12.1,
+      "z_hint": -4.8
     },
     "github_repo:enescingoz/awesome-n8n-templates": {
       "title": "enescingoz/awesome-n8n-templates",
@@ -1524,6 +1527,61 @@
       "rolling_average": 20.1,
       "rolling_peak": 20.1,
       "last_score": 20.1,
+      "z_hint": 0.0
+    },
+    "title:safer-pull-request-target-defaults-github-actions-checkout": {
+      "title": "Safer pull_request_target defaults for GitHub Actions checkout",
+      "updated_at": "2026-06-18T16:21:23+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "title:pull-request-limits-are-cutting-down-noise": {
+      "title": "How pull request limits are cutting down the noise",
+      "updated_at": "2026-06-18T16:21:23+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "github_repo:baserow/baserow": {
+      "title": "baserow/baserow",
+      "updated_at": "2026-06-18T16:21:23+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "github_repo:agent-messenger/agent-messenger": {
+      "title": "agent-messenger/agent-messenger",
+      "updated_at": "2026-06-18T16:21:23+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "earthquake:rat islands:4.0": {
+      "title": "Green earthquake (Magnitude 4.8M, Depth:20km) in Rat Islands, Aleutian Islands 18/06/2026 03:52 UTC, No people affected in 100km.",
+      "updated_at": "2026-06-18T16:21:23+00:00",
+      "network_scores": [
+        13.7
+      ],
+      "rolling_average": 13.7,
+      "rolling_peak": 13.7,
+      "last_score": 13.7,
       "z_hint": 0.0
     }
   }
