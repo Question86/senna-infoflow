@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "principle": "Authority is capped; early novelty, cross-source breadth, momentum, and baseline deviation carry ranking.",
+  "dominance_guard": {
+    "description": "Large emitters such as ECB/Fed/BIS keep credibility but should not dominate solely due to emitter size.",
+    "dominant_emitters": [
+      "central_bank",
+      "policy_institution",
+      "major_media",
+      "emergency_official"
+    ],
+    "penalty_when": "single-source, no cross-source resonance, no high-signal term, momentum_delta <= 1",
+    "penalty_points": 3
+  },
+  "early_signal": {
+    "description": "Small or broad-sensor initial dynamics stay visible if novel, concrete, or above medium score.",
+    "trigger_terms": [
+      "wildfire",
+      "forest fire",
+      "flood",
+      "drought",
+      "blackout",
+      "port closure",
+      "strike",
+      "protest",
+      "pipeline outage",
+      "supply chain",
+      "outage",
+      "evacuation",
+      "unrest",
+      "shortage"
+    ],
+    "bonus_points_max": 8
+  },
+  "ranking_components": [
+    "monitor max_score",
+    "capped authority bonus",
+    "source breadth",
+    "momentum delta",
+    "baseline deviation",
+    "early-signal bonus",
+    "dominance penalty"
+  ],
+  "goal": "Do not flatten the world into institutional megaphones. Keep early weak signals observable while still respecting credible official emitters."
+}
