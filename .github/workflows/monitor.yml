@@ -108,6 +108,10 @@ jobs:
         timeout-minutes: 1
         run: python scripts/resonance_rank_postprocess.py
 
+      - name: Apply quality gate and coverage audit
+        timeout-minutes: 1
+        run: python scripts/quality_gate_postprocess.py
+
       - name: Write canonical report atoms and trend samples
         timeout-minutes: 1
         run: python scripts/write_canonical_reports.py
@@ -119,7 +123,7 @@ jobs:
       - name: Commit generated briefings
         timeout-minutes: 1
         run: |
-          git config user.name "senna-inflow[bot]"
+          git config user.name "senna-infoflow[bot]"
           git config user.email "senna-inflow[bot]@users.noreply.github.com"
 
           git add data/ briefings/ reports/ state/
