@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T17:38:25Z",
+  "generated_at": "2026-06-19T17:44:38Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -330,6 +330,238 @@
       "topic_key": "domain-titlehash:twcert.org.tw:0054d8a281",
       "topic_label": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標"
     },
+    "domain:climate.copernicus.eu": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 53.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 25.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:climate.copernicus.eu",
+          "sample_index": 5939636,
+          "score_delta_5m": 25.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Copernicus Climate Change Service News"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:climate.copernicus.eu",
+          "topic_label": "News | Copernicus",
+          "trend_wucht": 53.0,
+          "urls": [
+            "https://climate.copernicus.eu/news"
+          ]
+        }
+      ],
+      "topic_key": "domain:climate.copernicus.eu",
+      "topic_label": "News | Copernicus"
+    },
+    "domain:ecfr.eu": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 68.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 10,
+          "network_score": 32.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:ecfr.eu",
+          "sample_index": 5939636,
+          "score_delta_5m": 32.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:ecfr.eu",
+          "topic_label": "The art of the swarm: Systemic rivalry with China on European terms",
+          "trend_wucht": 68.0,
+          "urls": [
+            "https://ecfr.eu/publication/the-art-of-the-swarm-systemic-rivalry-with-china-on-european-terms/",
+            "https://ecfr.eu/article/twin-track-how-to-move-ukraines-eu-accession-along/",
+            "https://ecfr.eu/article/after-ukraine-the-peace-dividend-africa-does-not-want/",
+            "https://ecfr.eu/publication/the-bear-with-the-bomb-russian-nuclear-coercion-and-the-future-of-european-deterrence/",
+            "https://ecfr.eu/podcasts/episode/peace-in-the-middle-east/",
+            "https://ecfr.eu/article/gas-lit-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future/"
+          ]
+        }
+      ],
+      "topic_key": "domain:ecfr.eu",
+      "topic_label": "The art of the swarm: Systemic rivalry with China on European terms"
+    },
+    "domain:emergency.copernicus.eu": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 65.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 31.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:emergency.copernicus.eu",
+          "sample_index": 5939636,
+          "score_delta_5m": 31.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Copernicus Emergency Management Service"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:emergency.copernicus.eu",
+          "topic_label": "Home | Copernicus EMS",
+          "trend_wucht": 65.0,
+          "urls": [
+            "https://emergency.copernicus.eu/"
+          ]
+        }
+      ],
+      "topic_key": "domain:emergency.copernicus.eu",
+      "topic_label": "Home | Copernicus EMS"
+    },
+    "domain:firms.modaps.eosdis.nasa.gov": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 44.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 21.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:firms.modaps.eosdis.nasa.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 21.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "NASA FIRMS Active Fire Watch"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:firms.modaps.eosdis.nasa.gov",
+          "topic_label": "NASA | LANCE | FIRMS",
+          "trend_wucht": 44.0,
+          "urls": [
+            "https://firms.modaps.eosdis.nasa.gov/"
+          ]
+        }
+      ],
+      "topic_key": "domain:firms.modaps.eosdis.nasa.gov",
+      "topic_label": "NASA | LANCE | FIRMS"
+    },
+    "domain:news.mongabay.com": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 72.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 9,
+          "network_score": 35.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:news.mongabay.com",
+          "sample_index": 5939636,
+          "score_delta_5m": 35.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:news.mongabay.com",
+          "topic_label": "What’s at stake for the environment in Colombia’s upcoming election?",
+          "trend_wucht": 72.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/whats-at-stake-for-the-environment-in-colombias-upcoming-election/",
+            "https://news.mongabay.com/2026/06/suriname-will-not-be-saved-by-soybeans-commentary/",
+            "https://news.mongabay.com/short-article/2026/06/museum-dna-unmasks-new-himalayan-pit-vipers-study-says/",
+            "https://news.mongabay.com/2026/06/in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest/",
+            "https://news.mongabay.com/2026/06/south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man/",
+            "https://news.mongabay.com/short-article/2026/06/demand-for-vultures-in-west-africa-threatens-central-african-populations/"
+          ]
+        }
+      ],
+      "topic_key": "domain:news.mongabay.com",
+      "topic_label": "What’s at stake for the environment in Colombia’s upcoming election?"
+    },
+    "domain:news.un.org": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 8.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:news.un.org",
+          "sample_index": 5939636,
+          "score_delta_5m": 8.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "UN News Global"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:news.un.org",
+          "topic_label": "UN News | Global perspective Human stories",
+          "trend_wucht": 18.0,
+          "urls": [
+            "https://news.un.org/en/"
+          ]
+        }
+      ],
+      "topic_key": "domain:news.un.org",
+      "topic_label": "UN News | Global perspective Human stories"
+    },
     "domain:pic.x.com": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T14:52:13Z",
@@ -366,6 +598,43 @@
       ],
       "topic_key": "domain:pic.x.com",
       "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も"
+    },
+    "domain:reliefweb.int": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 51.8,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 24.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:reliefweb.int",
+          "sample_index": 5939636,
+          "score_delta_5m": 24.9,
+          "source_classes": [
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "ReliefWeb Food Security Updates"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:reliefweb.int",
+          "topic_label": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+          "trend_wucht": 51.8,
+          "urls": [
+            "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
+          ]
+        }
+      ],
+      "topic_key": "domain:reliefweb.int",
+      "topic_label": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
     },
     "domain:restofworld.org": {
       "bucket": "other",
@@ -440,6 +709,43 @@
       ],
       "topic_key": "domain:togetter.com",
       "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」"
+    },
+    "domain:wmo.int": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 32.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 15.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:wmo.int",
+          "sample_index": 5939636,
+          "score_delta_5m": 15.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:wmo.int",
+          "topic_label": "News Portal",
+          "trend_wucht": 32.0,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        }
+      ],
+      "topic_key": "domain:wmo.int",
+      "topic_label": "News Portal"
     },
     "domain:www.bleepingcomputer.com": {
       "bucket": "other",
@@ -535,10 +841,91 @@
       "topic_key": "domain:www.bleepingcomputer.com",
       "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses"
     },
+    "domain:www.carbonbrief.org": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 34.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 3,
+          "network_score": 15.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.carbonbrief.org",
+          "sample_index": 5939636,
+          "score_delta_5m": 15.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Carbon Brief Feed"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.carbonbrief.org",
+          "topic_label": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
+          "trend_wucht": 34.0,
+          "urls": [
+            "https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/",
+            "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
+            "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.carbonbrief.org",
+      "topic_label": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations"
+    },
+    "domain:www.crisisgroup.org": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 60.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 6,
+          "network_score": 29.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.crisisgroup.org",
+          "sample_index": 5939636,
+          "score_delta_5m": 29.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.crisisgroup.org",
+          "topic_label": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+          "trend_wucht": 60.0,
+          "urls": [
+            "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+            "https://www.crisisgroup.org/content/hormuz-5-june-2026-1",
+            "https://www.crisisgroup.org/content/tehran-5-june-2026-1",
+            "https://www.crisisgroup.org/content/washington-5-june-2026-1",
+            "https://www.crisisgroup.org/content/washington-5-june-2026-2",
+            "https://www.crisisgroup.org/content/israel-3-june-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.crisisgroup.org",
+      "topic_label": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans"
+    },
     "domain:www.ecb.europa.eu": {
       "bucket": "macro_policy",
-      "last_seen_at": "2026-06-19T11:28:55Z",
-      "last_trend_wucht": 40.0,
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 15.5,
       "samples": [
         {
           "bucket": "macro_policy",
@@ -570,10 +957,265 @@
             "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html",
             "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html"
           ]
+        },
+        {
+          "bucket": "macro_policy",
+          "mention_count": 1,
+          "network_score": 12.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.ecb.europa.eu",
+          "sample_index": 5939636,
+          "score_delta_5m": -6.0,
+          "source_classes": [
+            "central_bank",
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "ECB Open Market Operations and Communication"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.ecb.europa.eu",
+          "topic_label": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30",
+          "trend_wucht": 15.5,
+          "urls": [
+            "http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html"
+          ]
         }
       ],
       "topic_key": "domain:www.ecb.europa.eu",
-      "topic_label": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money"
+      "topic_label": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30"
+    },
+    "domain:www.eia.gov": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 48.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 22.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.eia.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 22.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 2,
+          "sources": [
+            "EIA Today in Energy",
+            "EIA Weekly Petroleum Status Report"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.eia.gov",
+          "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
+          "trend_wucht": 48.0,
+          "urls": [
+            "https://www.eia.gov/petroleum/supply/weekly/",
+            "https://www.eia.gov/todayinenergy/"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.eia.gov",
+      "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)"
+    },
+    "domain:www.ema.europa.eu": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.ema.europa.eu",
+          "sample_index": 5939636,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "EMA News"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.ema.europa.eu",
+          "topic_label": "News | European Medicines Agency (EMA)",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://www.ema.europa.eu/en/news"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.ema.europa.eu",
+      "topic_label": "News | European Medicines Agency (EMA)"
+    },
+    "domain:www.fao.org": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 22.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 10.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.fao.org",
+          "sample_index": 5939636,
+          "score_delta_5m": 10.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "FAO Newsroom"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.fao.org",
+          "topic_label": "News | FAO | Food and Agriculture Organization of the United Nations",
+          "trend_wucht": 22.0,
+          "urls": [
+            "https://www.fao.org/newsroom/en"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.fao.org",
+      "topic_label": "News | FAO | Food and Agriculture Organization of the United Nations"
+    },
+    "domain:www.fda.gov": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 60.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 28.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.fda.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 28.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 2,
+          "sources": [
+            "FDA Press Announcements",
+            "FDA What's New Related to Drugs"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.fda.gov",
+          "topic_label": "What's New Related to Drugs | FDA",
+          "trend_wucht": 60.0,
+          "urls": [
+            "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.fda.gov",
+      "topic_label": "What's New Related to Drugs | FDA"
+    },
+    "domain:www.nass.usda.gov": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 47.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 22.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.nass.usda.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 22.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "USDA NASS News Releases"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.nass.usda.gov",
+          "topic_label": "USDA - National Agricultural Statistics Service - Newsroom",
+          "trend_wucht": 47.0,
+          "urls": [
+            "https://www.nass.usda.gov/Newsroom/"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.nass.usda.gov",
+      "topic_label": "USDA - National Agricultural Statistics Service - Newsroom"
+    },
+    "domain:www.nih.gov": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 8.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.nih.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 8.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "NIH News Releases"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.nih.gov",
+          "topic_label": "News Releases | National Institutes of Health (NIH)",
+          "trend_wucht": 18.0,
+          "urls": [
+            "https://www.nih.gov/news-events/news-releases"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.nih.gov",
+      "topic_label": "News Releases | National Institutes of Health (NIH)"
     },
     "domain:www.twcert.org": {
       "bucket": "security",
@@ -617,6 +1259,122 @@
       ],
       "topic_key": "domain:www.twcert.org",
       "topic_label": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰"
+    },
+    "domain:www.usda.gov": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 22.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 1,
+          "network_score": 10.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.usda.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 10.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "USDA WASDE Report"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.usda.gov",
+          "topic_label": "WASDE Report | USDA",
+          "trend_wucht": 22.0,
+          "urls": [
+            "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.usda.gov",
+      "topic_label": "WASDE Report | USDA"
+    },
+    "domain:www.who.int": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 32.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 15.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:www.who.int",
+          "sample_index": 5939636,
+          "score_delta_5m": 15.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "WHO Disease Outbreak News"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:www.who.int",
+          "topic_label": "Disease Outbreak News",
+          "trend_wucht": 32.0,
+          "urls": [
+            "https://www.who.int/emergencies/disease-outbreak-news"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.who.int",
+      "topic_label": "Disease Outbreak News"
+    },
+    "domain:wwwnc.cdc.gov": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 64.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 12,
+          "network_score": 31.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:domain:wwwnc.cdc.gov",
+          "sample_index": 5939636,
+          "score_delta_5m": 31.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "domain:wwwnc.cdc.gov",
+          "topic_label": "Level 1 - Global Dengue",
+          "trend_wucht": 64.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level1/dengue-global",
+            "https://wwwnc.cdc.gov/travel/notices/level1/hepatitis-a-canada",
+            "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-french-guiana",
+            "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-sub-saharan-africa",
+            "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mauritius",
+            "https://wwwnc.cdc.gov/travel/notices/level1/ciguatera-fish-poisoning-vanuatu"
+          ]
+        }
+      ],
+      "topic_key": "domain:wwwnc.cdc.gov",
+      "topic_label": "Level 1 - Global Dengue"
     },
     "earthquake:fiji 19:4.0": {
       "bucket": "disaster_recovery",
@@ -2771,6 +3529,41 @@
       "topic_key": "title::",
       "topic_label": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום"
     },
+    "title:a-budget-for-global-turmoil:-peace-conflict-and-the-eus-funding-plans": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:a-budget-for-global-turmoil:-peace-conflict-and-the-eus-funding-plans",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:a-budget-for-global-turmoil:-peace-conflict-and-the-eus-funding-plans",
+          "topic_label": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans"
+          ]
+        }
+      ],
+      "topic_key": "title:a-budget-for-global-turmoil:-peace-conflict-and-the-eus-funding-plans",
+      "topic_label": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans"
+    },
     "title:achiya-automation-safari-mcp": {
       "last_seen_at": "2026-06-18T17:28:30Z",
       "last_trend_wucht": 12.0,
@@ -2882,6 +3675,41 @@
       ],
       "topic_key": "title:activepieces-activepieces",
       "topic_label": "activepieces/activepieces"
+    },
+    "title:after-ukraine:-the-peace-dividend-africa-does-not-want": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:after-ukraine:-the-peace-dividend-africa-does-not-want",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:after-ukraine:-the-peace-dividend-africa-does-not-want",
+          "topic_label": "After Ukraine: The peace dividend Africa does not want",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/article/after-ukraine-the-peace-dividend-africa-does-not-want/"
+          ]
+        }
+      ],
+      "topic_key": "title:after-ukraine:-the-peace-dividend-africa-does-not-want",
+      "topic_label": "After Ukraine: The peace dividend Africa does not want"
     },
     "title:agent-messenger-agent-messenger": {
       "last_seen_at": "2026-06-18T16:21:23Z",
@@ -3253,6 +4081,41 @@
       ],
       "topic_key": "title:ai8claude-fable-5ai",
       "topic_label": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】"
+    },
+    "title:announcing-20260054-mro-liquidity-providing-for-7-days-deadline-09:30": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:announcing-20260054-mro-liquidity-providing-for-7-days-deadline-09:30",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "ECB Open Market Operations and Communication"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:announcing-20260054-mro-liquidity-providing-for-7-days-deadline-09:30",
+          "topic_label": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30",
+          "trend_wucht": 3.0,
+          "urls": [
+            "http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html"
+          ]
+        }
+      ],
+      "topic_key": "title:announcing-20260054-mro-liquidity-providing-for-7-days-deadline-09:30",
+      "topic_label": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30"
     },
     "title:apify-apify-sdk-python": {
       "last_seen_at": "2026-06-18T07:05:34Z",
@@ -5767,6 +6630,41 @@
       "topic_key": "title:correction-to-treasury-rates-for-wednesday-september-13-2023",
       "topic_label": "Correction to Treasury rates for Wednesday, September 13, 2023"
     },
+    "title:cote-divoires-tree-climbing-crocodile-needs-to-be-protected-scientist-says": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:cote-divoires-tree-climbing-crocodile-needs-to-be-protected-scientist-says",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:cote-divoires-tree-climbing-crocodile-needs-to-be-protected-scientist-says",
+          "topic_label": "Côte d’Ivoire’s tree-climbing crocodile needs to be protected, scientist says",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/cote-divoires-tree-climbing-crocodile-needs-to-be-protected-scientist-says/"
+          ]
+        }
+      ],
+      "topic_key": "title:cote-divoires-tree-climbing-crocodile-needs-to-be-protected-scientist-says",
+      "topic_label": "Côte d’Ivoire’s tree-climbing crocodile needs to be protected, scientist says"
+    },
     "title:could-world-cup-crowds-threaten-the-water-infrastructure-of-new-york-and-new-jersey": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 12.0,
@@ -6223,6 +7121,76 @@
       "topic_key": "title:data-download-program-and-federal-reserve-economic-data-partnership",
       "topic_label": "Data Download Program and Federal Reserve Economic Data Partnership"
     },
+    "title:debriefed-12-june-2026:-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitori": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:debriefed-12-june-2026:-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitori",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Carbon Brief Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:debriefed-12-june-2026:-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitori",
+          "topic_label": "DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/"
+          ]
+        }
+      ],
+      "topic_key": "title:debriefed-12-june-2026:-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitori",
+      "topic_label": "DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk"
+    },
+    "title:debriefed-19-june-2026:-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiation": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:debriefed-19-june-2026:-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiation",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Carbon Brief Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:debriefed-19-june-2026:-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiation",
+          "topic_label": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/"
+          ]
+        }
+      ],
+      "topic_key": "title:debriefed-19-june-2026:-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiation",
+      "topic_label": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations"
+    },
     "title:decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-setting-interest-ra": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 7.0,
@@ -6250,6 +7218,113 @@
       ],
       "topic_key": "title:decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-setting-interest-ra",
       "topic_label": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)"
+    },
+    "title:deepstatemap-map-of-the-war-in-ukraine": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:deepstatemap-map-of-the-war-in-ukraine",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "DeepStateMap Ukraine War Map"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:deepstatemap-map-of-the-war-in-ukraine",
+          "topic_label": "DeepStateMAP | Map of the war in Ukraine",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://deepstatemap.live/en"
+          ]
+        }
+      ],
+      "topic_key": "title:deepstatemap-map-of-the-war-in-ukraine",
+      "topic_label": "DeepStateMAP | Map of the war in Ukraine"
+    },
+    "title:deepstatemap-map-war-ukraine": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 28.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 13.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:deepstatemap-map-war-ukraine",
+          "sample_index": 5939636,
+          "score_delta_5m": 13.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "DeepStateMap Ukraine War Map"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:deepstatemap-map-war-ukraine",
+          "topic_label": "DeepStateMAP | Map of the war in Ukraine",
+          "trend_wucht": 28.0,
+          "urls": [
+            "https://deepstatemap.live/en"
+          ]
+        }
+      ],
+      "topic_key": "title:deepstatemap-map-war-ukraine",
+      "topic_label": "DeepStateMAP | Map of the war in Ukraine"
+    },
+    "title:demand-for-vultures-in-west-africa-threatens-central-african-populations": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:demand-for-vultures-in-west-africa-threatens-central-african-populations",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:demand-for-vultures-in-west-africa-threatens-central-african-populations",
+          "topic_label": "Demand for vultures in West Africa threatens central African populations",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/short-article/2026/06/demand-for-vultures-in-west-africa-threatens-central-african-populations/"
+          ]
+        }
+      ],
+      "topic_key": "title:demand-for-vultures-in-west-africa-threatens-central-african-populations",
+      "topic_label": "Demand for vultures in West Africa threatens central African populations"
     },
     "title:departamento-de-estado-dos-eua-ataca-o-stf-e-acusa-corte-de-promover-lawfare-contra-eduardo-bols": {
       "last_seen_at": "2026-06-18T23:17:57Z",
@@ -6390,6 +7465,41 @@
       ],
       "topic_key": "title:dinorah-figuera-retorna-con-apoyo-de-eeuu-:-en-agenda-reuniones-con-jorge-rodr-guez",
       "topic_label": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez"
+    },
+    "title:disease-outbreak-news": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:disease-outbreak-news",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "WHO Disease Outbreak News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:disease-outbreak-news",
+          "topic_label": "Disease Outbreak News",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.who.int/emergencies/disease-outbreak-news"
+          ]
+        }
+      ],
+      "topic_key": "title:disease-outbreak-news",
+      "topic_label": "Disease Outbreak News"
     },
     "title:dotnet-aspnetcore": {
       "last_seen_at": "2026-06-19T02:33:15Z",
@@ -7763,6 +8873,41 @@
       "topic_key": "title:european-shares-retreat-as-markets-mull-hawkish-us-federal-reserve",
       "topic_label": "European shares retreat as markets mull hawkish US Federal Reserve"
     },
+    "title:europeans-dont-need-consensus-to-challenge-israel-and-its-settlements": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:europeans-dont-need-consensus-to-challenge-israel-and-its-settlements",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:europeans-dont-need-consensus-to-challenge-israel-and-its-settlements",
+          "topic_label": "Europeans don’t need consensus to challenge Israel and its settlements",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/article/europeans-dont-need-consensus-to-challenge-israel-and-its-settlements/"
+          ]
+        }
+      ],
+      "topic_key": "title:europeans-dont-need-consensus-to-challenge-israel-and-its-settlements",
+      "topic_label": "Europeans don’t need consensus to challenge Israel and its settlements"
+    },
     "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way": {
       "bucket": "agentic_devtools",
       "last_seen_at": "2026-06-19T13:48:19Z",
@@ -8317,6 +9462,41 @@
       ],
       "topic_key": "title:g7",
       "topic_label": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟"
+    },
+    "title:gas-lit:-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:gas-lit:-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:gas-lit:-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future",
+          "topic_label": "Gas-lit: The Three Seas Initiative is out of step with a clean-energy future",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/article/gas-lit-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future/"
+          ]
+        }
+      ],
+      "topic_key": "title:gas-lit:-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future",
+      "topic_label": "Gas-lit: The Three Seas Initiative is out of step with a clean-energy future"
     },
     "title:genai-io-san": {
       "last_seen_at": "2026-06-18T01:25:13Z",
@@ -9065,6 +10245,76 @@
       "topic_key": "title:historical-euro-area-government-bond-yield-curve",
       "topic_label": "Historical euro area government bond yield curve"
     },
+    "title:home-copernicus-ems": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:home-copernicus-ems",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Copernicus Emergency Management Service"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:home-copernicus-ems",
+          "topic_label": "Home | Copernicus EMS",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://emergency.copernicus.eu/"
+          ]
+        }
+      ],
+      "topic_key": "title:home-copernicus-ems",
+      "topic_label": "Home | Copernicus EMS"
+    },
+    "title:hormuz-5-june-2026-1": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:hormuz-5-june-2026-1",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:hormuz-5-june-2026-1",
+          "topic_label": "Hormuz 5 June 2026 #1",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.crisisgroup.org/content/hormuz-5-june-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "title:hormuz-5-june-2026-1",
+      "topic_label": "Hormuz 5 June 2026 #1"
+    },
     "title:households-and-non-financial-corporations-in-the-euro-area:-fourth-quarter-of-2025": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 9.0,
@@ -9183,6 +10433,41 @@
       ],
       "topic_key": "title:how-we-built-an-internal-data-analytics-agent",
       "topic_label": "How we built an internal data analytics agent"
+    },
+    "title:https:-reliefweb.int-updates-search-food-20security-20agriculture-20ukraine-20russia-20wheat": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:https:-reliefweb.int-updates-search-food-20security-20agriculture-20ukraine-20russia-20wheat",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "ReliefWeb Food Security Updates"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:https:-reliefweb.int-updates-search-food-20security-20agriculture-20ukraine-20russia-20wheat",
+          "topic_label": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
+          ]
+        }
+      ],
+      "topic_key": "title:https:-reliefweb.int-updates-search-food-20security-20agriculture-20ukraine-20russia-20wheat",
+      "topic_label": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
     },
     "title:hyun-song-shin:-speech-76th-anniversary-of-the-bank-of-korea": {
       "last_seen_at": "2026-06-18T14:33:45Z",
@@ -9348,6 +10633,41 @@
       "topic_key": "title:iei-ivec-iei-virtualization-edge-computer-4",
       "topic_label": "IEI 威強電工業電腦｜iVEC-IEI Virtualization Edge Computer - 存在4個漏洞"
     },
+    "title:if-the-uk-wants-to-rejoin-the-european-union-it-first-needs-to-understand-it": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:if-the-uk-wants-to-rejoin-the-european-union-it-first-needs-to-understand-it",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:if-the-uk-wants-to-rejoin-the-european-union-it-first-needs-to-understand-it",
+          "topic_label": "If the UK wants to rejoin the European Union, it first needs to understand it",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/article/if-the-uk-wants-to-rejoin-the-european-union-it-first-needs-to-understand-it/"
+          ]
+        }
+      ],
+      "topic_key": "title:if-the-uk-wants-to-rejoin-the-european-union-it-first-needs-to-understand-it",
+      "topic_label": "If the UK wants to rejoin the European Union, it first needs to understand it"
+    },
     "title:im4codes-imcodes": {
       "last_seen_at": "2026-06-18T01:25:13Z",
       "last_trend_wucht": 18.0,
@@ -9435,6 +10755,41 @@
       ],
       "topic_key": "title:improving-health-intelligence-in-chatgpt",
       "topic_label": "Improving health intelligence in ChatGPT"
+    },
+    "title:in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest",
+          "topic_label": "In search of the ‘rare and beautiful’ in an Ivorian rainforest",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest/"
+          ]
+        }
+      ],
+      "topic_key": "title:in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest",
+      "topic_label": "In search of the ‘rare and beautiful’ in an Ivorian rainforest"
     },
     "title:inside-funding-societies-strategy-to-help-smes-grow-through-stronger-institutional-funding": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -9575,6 +10930,41 @@
       ],
       "topic_key": "title:iran-war-casts-fresh-shadow-over-sri-lanka-recovery-business",
       "topic_label": "Iran war casts fresh shadow over Sri Lanka recovery - Business"
+    },
+    "title:israel-3-june-2026-1": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:israel-3-june-2026-1",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:israel-3-june-2026-1",
+          "topic_label": "Israel 3 June 2026 #1",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.crisisgroup.org/content/israel-3-june-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "title:israel-3-june-2026-1",
+      "topic_label": "Israel 3 June 2026 #1"
     },
     "title:it-nature": {
       "last_seen_at": "2026-06-19T07:39:37Z",
@@ -10382,6 +11772,426 @@
       ],
       "topic_key": "title:leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription",
       "topic_label": "Leak confirms OpenAI is testing a ChatGPT for Science subscription"
+    },
+    "title:level-1-andes-virus-hantavirus-in-south-america": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-1-andes-virus-hantavirus-in-south-america",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-1-andes-virus-hantavirus-in-south-america",
+          "topic_label": "Level 1 - Andes Virus (Hantavirus) in South America",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level1/andes-virus-south-america"
+          ]
+        }
+      ],
+      "topic_key": "title:level-1-andes-virus-hantavirus-in-south-america",
+      "topic_label": "Level 1 - Andes Virus (Hantavirus) in South America"
+    },
+    "title:level-1-ciguatera-fish-poisoning-in-vanuatu": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-1-ciguatera-fish-poisoning-in-vanuatu",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-1-ciguatera-fish-poisoning-in-vanuatu",
+          "topic_label": "Level 1 - Ciguatera Fish Poisoning in Vanuatu",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level1/ciguatera-fish-poisoning-vanuatu"
+          ]
+        }
+      ],
+      "topic_key": "title:level-1-ciguatera-fish-poisoning-in-vanuatu",
+      "topic_label": "Level 1 - Ciguatera Fish Poisoning in Vanuatu"
+    },
+    "title:level-1-diphtheria-in-sub-saharan-africa": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-1-diphtheria-in-sub-saharan-africa",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-1-diphtheria-in-sub-saharan-africa",
+          "topic_label": "Level 1 - Diphtheria in Sub-Saharan Africa",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-sub-saharan-africa"
+          ]
+        }
+      ],
+      "topic_key": "title:level-1-diphtheria-in-sub-saharan-africa",
+      "topic_label": "Level 1 - Diphtheria in Sub-Saharan Africa"
+    },
+    "title:level-1-global-dengue": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-1-global-dengue",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-1-global-dengue",
+          "topic_label": "Level 1 - Global Dengue",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level1/dengue-global"
+          ]
+        }
+      ],
+      "topic_key": "title:level-1-global-dengue",
+      "topic_label": "Level 1 - Global Dengue"
+    },
+    "title:level-1-hepatitis-a-in-canada": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-1-hepatitis-a-in-canada",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-1-hepatitis-a-in-canada",
+          "topic_label": "Level 1 - Hepatitis A in Canada",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level1/hepatitis-a-canada"
+          ]
+        }
+      ],
+      "topic_key": "title:level-1-hepatitis-a-in-canada",
+      "topic_label": "Level 1 - Hepatitis A in Canada"
+    },
+    "title:level-2-chikungunya-in-french-guiana": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-2-chikungunya-in-french-guiana",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-2-chikungunya-in-french-guiana",
+          "topic_label": "Level 2 - Chikungunya in French Guiana",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-french-guiana"
+          ]
+        }
+      ],
+      "topic_key": "title:level-2-chikungunya-in-french-guiana",
+      "topic_label": "Level 2 - Chikungunya in French Guiana"
+    },
+    "title:level-2-chikungunya-in-mauritius": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-2-chikungunya-in-mauritius",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-2-chikungunya-in-mauritius",
+          "topic_label": "Level 2 - Chikungunya in Mauritius",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mauritius"
+          ]
+        }
+      ],
+      "topic_key": "title:level-2-chikungunya-in-mauritius",
+      "topic_label": "Level 2 - Chikungunya in Mauritius"
+    },
+    "title:level-2-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-2-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-2-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda",
+          "topic_label": "Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level2/ebola-drc-uganda"
+          ]
+        }
+      ],
+      "topic_key": "title:level-2-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda",
+      "topic_label": "Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda"
+    },
+    "title:level-2-malaria-in-mayotte": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-2-malaria-in-mayotte",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-2-malaria-in-mayotte",
+          "topic_label": "Level 2 - Malaria in Mayotte",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level2/malaria-mayotte"
+          ]
+        }
+      ],
+      "topic_key": "title:level-2-malaria-in-mayotte",
+      "topic_label": "Level 2 - Malaria in Mayotte"
+    },
+    "title:level-2-malaria-in-yemen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-2-malaria-in-yemen",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-2-malaria-in-yemen",
+          "topic_label": "Level 2 - Malaria in Yemen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level2/malaria-yemen"
+          ]
+        }
+      ],
+      "topic_key": "title:level-2-malaria-in-yemen",
+      "topic_label": "Level 2 - Malaria in Yemen"
+    },
+    "title:level-2-meningococcal-disease-in-the-democratic-republic-of-the-congo": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-2-meningococcal-disease-in-the-democratic-republic-of-the-congo",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-2-meningococcal-disease-in-the-democratic-republic-of-the-congo",
+          "topic_label": "Level 2 - Meningococcal Disease in the Democratic Republic of the Congo",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level2/meningococcal-drc"
+          ]
+        }
+      ],
+      "topic_key": "title:level-2-meningococcal-disease-in-the-democratic-republic-of-the-congo",
+      "topic_label": "Level 2 - Meningococcal Disease in the Democratic Republic of the Congo"
+    },
+    "title:level-3-ebola-bundibugyo-virus-disease-in-parts-of-the-democratic-republic-of-the-congo": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:level-3-ebola-bundibugyo-virus-disease-in-parts-of-the-democratic-republic-of-the-congo",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CDC Travel Health Notices RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:level-3-ebola-bundibugyo-virus-disease-in-parts-of-the-democratic-republic-of-the-congo",
+          "topic_label": "Level 3 - Ebola Bundibugyo Virus Disease in Parts of the Democratic Republic of the Congo",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wwwnc.cdc.gov/travel/notices/level3/ebola-democratic-republic-of-the-congo"
+          ]
+        }
+      ],
+      "topic_key": "title:level-3-ebola-bundibugyo-virus-disease-in-parts-of-the-democratic-republic-of-the-congo",
+      "topic_label": "Level 3 - Ebola Bundibugyo Virus Disease in Parts of the Democratic Republic of the Congo"
     },
     "title:linora-u-agentloom": {
       "last_seen_at": "2026-06-18T03:39:26Z",
@@ -12200,6 +14010,76 @@
       "topic_key": "title:mortgage-rates-dip-as-10-year-treasury-yield-retreats-nbc-bay-area",
       "topic_label": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area"
     },
+    "title:museum-dna-unmasks-new-himalayan-pit-vipers-study-says": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:museum-dna-unmasks-new-himalayan-pit-vipers-study-says",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:museum-dna-unmasks-new-himalayan-pit-vipers-study-says",
+          "topic_label": "Museum DNA unmasks new Himalayan pit vipers, study says",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/short-article/2026/06/museum-dna-unmasks-new-himalayan-pit-vipers-study-says/"
+          ]
+        }
+      ],
+      "topic_key": "title:museum-dna-unmasks-new-himalayan-pit-vipers-study-says",
+      "topic_label": "Museum DNA unmasks new Himalayan pit vipers, study says"
+    },
+    "title:musks-war-on-european-democracy:-how-to-open-up-x-and-fight-back": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:musks-war-on-european-democracy:-how-to-open-up-x-and-fight-back",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:musks-war-on-european-democracy:-how-to-open-up-x-and-fight-back",
+          "topic_label": "Musk’s war on European democracy: How to open up X and fight back",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/article/musks-war-on-european-democracy-how-to-open-up-x-and-fight-back/"
+          ]
+        }
+      ],
+      "topic_key": "title:musks-war-on-european-democracy:-how-to-open-up-x-and-fight-back",
+      "topic_label": "Musk’s war on European democracy: How to open up X and fight back"
+    },
     "title:myanmar-airstrike-kills-seven-civilians-:-witnesses": {
       "last_seen_at": "2026-06-18T23:17:57Z",
       "last_trend_wucht": 16.0,
@@ -12255,6 +14135,41 @@
       ],
       "topic_key": "title:n-o-vamos-desistir-.-centenas-de-pessoas-protestam-contra-pacote-laboral-junto-ao-parlamento",
       "topic_label": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento"
+    },
+    "title:nasa-lance-firms": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:nasa-lance-firms",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "NASA FIRMS Active Fire Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:nasa-lance-firms",
+          "topic_label": "NASA | LANCE | FIRMS",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://firms.modaps.eosdis.nasa.gov/"
+          ]
+        }
+      ],
+      "topic_key": "title:nasa-lance-firms",
+      "topic_label": "NASA | LANCE | FIRMS"
     },
     "title:navato-fire-in-sparks-now-100-contained": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -12367,6 +14282,181 @@
       ],
       "topic_key": "title:new-usage-analytics-and-updated-spend-controls-for-enterprises",
       "topic_label": "New usage analytics and updated spend controls for enterprises"
+    },
+    "title:news-copernicus": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:news-copernicus",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Copernicus Climate Change Service News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:news-copernicus",
+          "topic_label": "News | Copernicus",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://climate.copernicus.eu/news"
+          ]
+        }
+      ],
+      "topic_key": "title:news-copernicus",
+      "topic_label": "News | Copernicus"
+    },
+    "title:news-european-medicines-agency-ema": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:news-european-medicines-agency-ema",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "EMA News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:news-european-medicines-agency-ema",
+          "topic_label": "News | European Medicines Agency (EMA)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.ema.europa.eu/en/news"
+          ]
+        }
+      ],
+      "topic_key": "title:news-european-medicines-agency-ema",
+      "topic_label": "News | European Medicines Agency (EMA)"
+    },
+    "title:news-fao-food-and-agriculture-organization-of-the-united-nations": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:news-fao-food-and-agriculture-organization-of-the-united-nations",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "FAO Newsroom"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:news-fao-food-and-agriculture-organization-of-the-united-nations",
+          "topic_label": "News | FAO | Food and Agriculture Organization of the United Nations",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.fao.org/newsroom/en"
+          ]
+        }
+      ],
+      "topic_key": "title:news-fao-food-and-agriculture-organization-of-the-united-nations",
+      "topic_label": "News | FAO | Food and Agriculture Organization of the United Nations"
+    },
+    "title:news-portal": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:news-portal",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:news-portal",
+          "topic_label": "News Portal",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        }
+      ],
+      "topic_key": "title:news-portal",
+      "topic_label": "News Portal"
+    },
+    "title:news-releases-national-institutes-of-health-nih": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:news-releases-national-institutes-of-health-nih",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "NIH News Releases"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:news-releases-national-institutes-of-health-nih",
+          "topic_label": "News Releases | National Institutes of Health (NIH)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.nih.gov/news-events/news-releases"
+          ]
+        }
+      ],
+      "topic_key": "title:news-releases-national-institutes-of-health-nih",
+      "topic_label": "News Releases | National Institutes of Health (NIH)"
     },
     "title:ng-y-b-o-ch-c-ch-m-ng-vi-t-nam": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -13166,6 +15256,41 @@
       "topic_key": "title:pcusb",
       "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」"
     },
+    "title:peace-in-the-middle-east": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:peace-in-the-middle-east",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:peace-in-the-middle-east",
+          "topic_label": "Peace in the Middle East",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/podcasts/episode/peace-in-the-middle-east/"
+          ]
+        }
+      ],
+      "topic_key": "title:peace-in-the-middle-east",
+      "topic_label": "Peace in the Middle East"
+    },
     "title:pengelola-wisata-tawangmangu-keluhkan-listrik-padam-biaya-solar-genset-bengkak-rp-1-juta": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 8.0,
@@ -13742,6 +15867,41 @@
       "topic_key": "title:premiere-davinci",
       "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可"
     },
+    "title:press-announcements-fda": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:press-announcements-fda",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:press-announcements-fda",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        }
+      ],
+      "topic_key": "title:press-announcements-fda",
+      "topic_label": "Press Announcements | FDA"
+    },
     "title:primo-382-dolenc:-keynote-address-aci-slovenia-annual-assembly-and-financial-markets-conference": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 8.0,
@@ -13881,6 +16041,41 @@
       ],
       "topic_key": "title:python-uv-uv-audit-gihyo.jp",
       "topic_label": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp"
+    },
+    "title:q-a:-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:q-a:-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Carbon Brief Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:q-a:-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy",
+          "topic_label": "Q&A: What do China’s provincial five-year plans say about climate and energy?",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/"
+          ]
+        }
+      ],
+      "topic_key": "title:q-a:-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy",
+      "topic_label": "Q&A: What do China’s provincial five-year plans say about climate and energy?"
     },
     "title:quem-permitir-continuidade-da-discuss-o-do-pacote-laboral-est-a-trair-trabalhadores-diz-cgtp": {
       "last_seen_at": "2026-06-18T23:17:57Z",
@@ -14273,6 +16468,41 @@
       ],
       "topic_key": "title:safer-pull_request_target-defaults-for-github-actions-checkout",
       "topic_label": "Safer pull_request_target defaults for GitHub Actions checkout"
+    },
+    "title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary",
+          "topic_label": "Saudi parrotfish festival stretches scientific & traditional ecological knowledge (commentary)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary/"
+          ]
+        }
+      ],
+      "topic_key": "title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary",
+      "topic_label": "Saudi parrotfish festival stretches scientific & traditional ecological knowledge (commentary)"
     },
     "title:schneider-electric-easergy-ecostruxture-powerlogic-and-saitel-products": {
       "last_seen_at": "2026-06-18T17:28:30Z",
@@ -15141,6 +17371,41 @@
       "topic_key": "title:skill8",
       "topic_label": "デザインシステムのskillの精度が上がった8つの方法"
     },
+    "title:sliding-doors:-one-trump-crisis-two-possible-futures-for-europe": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:sliding-doors:-one-trump-crisis-two-possible-futures-for-europe",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:sliding-doors:-one-trump-crisis-two-possible-futures-for-europe",
+          "topic_label": "Sliding doors: One Trump crisis, two possible futures for Europe",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/publication/sliding-doors-one-trump-crisis-two-possible-futures-for-europe/"
+          ]
+        }
+      ],
+      "topic_key": "title:sliding-doors:-one-trump-crisis-two-possible-futures-for-europe",
+      "topic_label": "Sliding doors: One Trump crisis, two possible futures for Europe"
+    },
     "title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win": {
       "last_seen_at": "2026-06-19T02:26:09Z",
       "last_trend_wucht": 12.0,
@@ -15168,6 +17433,41 @@
       ],
       "topic_key": "title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
       "topic_label": "SNP concedes Aberdeen South with Scottish Conservatives set to win"
+    },
+    "title:south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man",
+          "topic_label": "South African authorities thwart smuggling of 150 venomous scorpions, arrest man",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man/"
+          ]
+        }
+      ],
+      "topic_key": "title:south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man",
+      "topic_label": "South African authorities thwart smuggling of 150 venomous scorpions, arrest man"
     },
     "title:splunk-enterprise:-angriffe-auf-codeschmuggel-l-cke": {
       "last_seen_at": "2026-06-19T07:39:37Z",
@@ -15544,6 +17844,41 @@
       "topic_key": "title:summary-for-tropical-storm-arthur-at1-al012026",
       "topic_label": "Summary for Tropical Storm Arthur (AT1/AL012026)"
     },
+    "title:suriname-will-not-be-saved-by-soybeans-commentary": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:suriname-will-not-be-saved-by-soybeans-commentary",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:suriname-will-not-be-saved-by-soybeans-commentary",
+          "topic_label": "Suriname will not be saved by soybeans (commentary)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/suriname-will-not-be-saved-by-soybeans-commentary/"
+          ]
+        }
+      ],
+      "topic_key": "title:suriname-will-not-be-saved-by-soybeans-commentary",
+      "topic_label": "Suriname will not be saved by soybeans (commentary)"
+    },
     "title:t-ntettek-a-tan-gyi-szakszervezetek-2026-.-j-nius-18-.-cs-t-rt-k": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 13.0,
@@ -15627,6 +17962,41 @@
       ],
       "topic_key": "title:tarunlnmiit-autopilot-jobhunt",
       "topic_label": "tarunlnmiit/autopilot-jobhunt"
+    },
+    "title:tehran-5-june-2026-1": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:tehran-5-june-2026-1",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:tehran-5-june-2026-1",
+          "topic_label": "Tehran 5 June 2026 #1",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.crisisgroup.org/content/tehran-5-june-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "title:tehran-5-june-2026-1",
+      "topic_label": "Tehran 5 June 2026 #1"
     },
     "title:telegram-admits-it-couldn-t-police-exam-leak-channels-india-tells-court": {
       "last_seen_at": "2026-06-18T14:33:45Z",
@@ -15802,6 +18172,76 @@
       ],
       "topic_key": "title:the-ai-economy-is-moving-faster-than-our-institutions",
       "topic_label": "The AI economy is moving faster than our institutions"
+    },
+    "title:the-art-of-the-swarm:-systemic-rivalry-with-china-on-european-terms": {
+      "bucket": "security",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "security",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:the-art-of-the-swarm:-systemic-rivalry-with-china-on-european-terms",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:the-art-of-the-swarm:-systemic-rivalry-with-china-on-european-terms",
+          "topic_label": "The art of the swarm: Systemic rivalry with China on European terms",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://ecfr.eu/publication/the-art-of-the-swarm-systemic-rivalry-with-china-on-european-terms/"
+          ]
+        }
+      ],
+      "topic_key": "title:the-art-of-the-swarm:-systemic-rivalry-with-china-on-european-terms",
+      "topic_label": "The art of the swarm: Systemic rivalry with China on European terms"
+    },
+    "title:the-bear-with-the-bomb:-russian-nuclear-coercion-and-the-future-of-european-deterrence": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:the-bear-with-the-bomb:-russian-nuclear-coercion-and-the-future-of-european-deterrence",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:the-bear-with-the-bomb:-russian-nuclear-coercion-and-the-future-of-european-deterrence",
+          "topic_label": "The bear with the bomb: Russian nuclear coercion and the future of European deterrence",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/publication/the-bear-with-the-bomb-russian-nuclear-coercion-and-the-future-of-european-deterrence/"
+          ]
+        }
+      ],
+      "topic_key": "title:the-bear-with-the-bomb:-russian-nuclear-coercion-and-the-future-of-european-deterrence",
+      "topic_label": "The bear with the bomb: Russian nuclear coercion and the future of European deterrence"
     },
     "title:the-bell-:-markets-slip-as-rate-hike-fears-and-oil-drop-2026-06-18-investing-news": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -16033,6 +18473,41 @@
       ],
       "topic_key": "title:tiff-macklem:-monetary-policy-decision",
       "topic_label": "Tiff Macklem: Monetary Policy Decision"
+    },
+    "title:today-in-energy-u.s.-energy-information-administration-eia": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:today-in-energy-u.s.-energy-information-administration-eia",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "EIA Today in Energy"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:today-in-energy-u.s.-energy-information-administration-eia",
+          "topic_label": "Today in Energy - U.S. Energy Information Administration (EIA)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.eia.gov/todayinenergy/"
+          ]
+        }
+      ],
+      "topic_key": "title:today-in-energy-u.s.-energy-information-administration-eia",
+      "topic_label": "Today in Energy - U.S. Energy Information Administration (EIA)"
     },
     "title:top-4-best-erp-for-large-enterprise-in-malaysia": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -16502,6 +18977,41 @@
       "topic_key": "title:tunisi-avvocati-in-sciopero-e-protesta-davanti-al-palazzo-di-giustizia",
       "topic_label": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia"
     },
+    "title:twin-track:-how-to-move-ukraines-eu-accession-along": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:twin-track:-how-to-move-ukraines-eu-accession-along",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "European Council on Foreign Relations Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:twin-track:-how-to-move-ukraines-eu-accession-along",
+          "topic_label": "Twin track: How to move Ukraine’s EU accession along",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://ecfr.eu/article/twin-track-how-to-move-ukraines-eu-accession-along/"
+          ]
+        }
+      ],
+      "topic_key": "title:twin-track:-how-to-move-ukraines-eu-accession-along",
+      "topic_label": "Twin track: How to move Ukraine’s EU accession along"
+    },
     "title:typescript-7.0-rc-go10-tsgotsc6.0": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T16:56:13Z",
@@ -16691,6 +19201,41 @@
       ],
       "topic_key": "title:ukraine-liveticker-:-eu-verh-ngt-russland-sanktionen-erstmals-f-r-zw-lf-monate",
       "topic_label": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate"
+    },
+    "title:un-news-global-perspective-human-stories": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:un-news-global-perspective-human-stories",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "UN News Global"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:un-news-global-perspective-human-stories",
+          "topic_label": "UN News | Global perspective Human stories",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.un.org/en/"
+          ]
+        }
+      ],
+      "topic_key": "title:un-news-global-perspective-human-stories",
+      "topic_label": "UN News | Global perspective Human stories"
     },
     "title:universal-debloater-alliance-universal-android-debloater-next-generation": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -16980,6 +19525,41 @@
       ],
       "topic_key": "title:usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files",
       "topic_label": "USB worm spreads crypto-stealing malware via Windows shortcut files"
+    },
+    "title:usda-national-agricultural-statistics-service-newsroom": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:usda-national-agricultural-statistics-service-newsroom",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "USDA NASS News Releases"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:usda-national-agricultural-statistics-service-newsroom",
+          "topic_label": "USDA - National Agricultural Statistics Service - Newsroom",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.nass.usda.gov/Newsroom/"
+          ]
+        }
+      ],
+      "topic_key": "title:usda-national-agricultural-statistics-service-newsroom",
+      "topic_label": "USDA - National Agricultural Statistics Service - Newsroom"
     },
     "title:using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children": {
       "last_seen_at": "2026-06-18T16:21:23Z",
@@ -17377,6 +19957,111 @@
       "topic_key": "title:waller-update-on-federal-reserve-bank-operations",
       "topic_label": "Waller, Update On Federal Reserve Bank Operations"
     },
+    "title:wasde-report-usda": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:wasde-report-usda",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "USDA WASDE Report"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:wasde-report-usda",
+          "topic_label": "WASDE Report | USDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+          ]
+        }
+      ],
+      "topic_key": "title:wasde-report-usda",
+      "topic_label": "WASDE Report | USDA"
+    },
+    "title:washington-5-june-2026-1": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:washington-5-june-2026-1",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:washington-5-june-2026-1",
+          "topic_label": "Washington 5 June 2026 #1",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.crisisgroup.org/content/washington-5-june-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "title:washington-5-june-2026-1",
+      "topic_label": "Washington 5 June 2026 #1"
+    },
+    "title:washington-5-june-2026-2": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:washington-5-june-2026-2",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "International Crisis Group Global Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:washington-5-june-2026-2",
+          "topic_label": "Washington 5 June 2026 #2",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.crisisgroup.org/content/washington-5-june-2026-2"
+          ]
+        }
+      ],
+      "topic_key": "title:washington-5-june-2026-2",
+      "topic_label": "Washington 5 June 2026 #2"
+    },
     "title:web-nginx-3-cvss-4.0-10-9.2-v1.30.3-v1.31.2": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 7.0,
@@ -17440,6 +20125,111 @@
       "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
       "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond"
     },
+    "title:weekly-petroleum-status-report-u.s.-energy-information-administration-eia": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:weekly-petroleum-status-report-u.s.-energy-information-administration-eia",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "EIA Weekly Petroleum Status Report"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:weekly-petroleum-status-report-u.s.-energy-information-administration-eia",
+          "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.eia.gov/petroleum/supply/weekly/"
+          ]
+        }
+      ],
+      "topic_key": "title:weekly-petroleum-status-report-u.s.-energy-information-administration-eia",
+      "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)"
+    },
+    "title:what-s-new-related-to-drugs-fda": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:what-s-new-related-to-drugs-fda",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "FDA What's New Related to Drugs"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:what-s-new-related-to-drugs-fda",
+          "topic_label": "What's New Related to Drugs | FDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs"
+          ]
+        }
+      ],
+      "topic_key": "title:what-s-new-related-to-drugs-fda",
+      "topic_label": "What's New Related to Drugs | FDA"
+    },
+    "title:whats-at-stake-for-the-environment-in-colombias-upcoming-election": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:whats-at-stake-for-the-environment-in-colombias-upcoming-election",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:whats-at-stake-for-the-environment-in-colombias-upcoming-election",
+          "topic_label": "What’s at stake for the environment in Colombia’s upcoming election?",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/whats-at-stake-for-the-environment-in-colombias-upcoming-election/"
+          ]
+        }
+      ],
+      "topic_key": "title:whats-at-stake-for-the-environment-in-colombias-upcoming-election",
+      "topic_label": "What’s at stake for the environment in Colombia’s upcoming election?"
+    },
     "title:when-americans-choose-chinese-ai": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 6.0,
@@ -17495,6 +20285,41 @@
       ],
       "topic_key": "title:wildfire-pro-shop-inc-.-launches-general-contractor-wildfire-defense-program-first-installation-",
       "topic_label": "Wildfire Pro Shop , Inc . Launches General Contractor Wildfire Defense Program -- First Installation Now Underway in Grizzly Ranch"
+    },
+    "title:with-plastic-treaty-in-limbo-mongabay-speaks-to-top-negotiator-julio-cordano": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T17:44:38Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T17-44-38Z",
+          "sample_id": "2026-06-19T17-44-38Z:title:with-plastic-treaty-in-limbo-mongabay-speaks-to-top-negotiator-julio-cordano",
+          "sample_index": 5939636,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T17:44:38Z",
+          "topic_key": "title:with-plastic-treaty-in-limbo-mongabay-speaks-to-top-negotiator-julio-cordano",
+          "topic_label": "With plastic treaty in limbo, Mongabay speaks to top negotiator Julio Cordano",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/with-plastic-treaty-in-limbo-mongabay-speaks-to-top-negotiator-julio-cordano/"
+          ]
+        }
+      ],
+      "topic_key": "title:with-plastic-treaty-in-limbo-mongabay-speaks-to-top-negotiator-julio-cordano",
+      "topic_label": "With plastic treaty in limbo, Mongabay speaks to top negotiator Julio Cordano"
     },
     "title:withastro-flue": {
       "last_seen_at": "2026-06-19T02:33:15Z",

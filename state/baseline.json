@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T17:38:25+00:00",
+  "generated_at": "2026-06-19T17:44:38+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -819,16 +819,17 @@
       "z_hint": 0.0
     },
     "domain:www.ecb.europa.eu": {
-      "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
-      "updated_at": "2026-06-19T11:28:55+00:00",
+      "title": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "updated_at": "2026-06-19T17:44:38+00:00",
       "network_scores": [
         241.3,
-        23.3
+        23.3,
+        15.1
       ],
-      "rolling_average": 132.3,
+      "rolling_average": 93.23,
       "rolling_peak": 241.3,
-      "last_score": 23.3,
-      "z_hint": -109.0
+      "last_score": 15.1,
+      "z_hint": -78.13
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -4404,6 +4405,226 @@
       "rolling_average": 10.1,
       "rolling_peak": 10.1,
       "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:wwwnc.cdc.gov": {
+      "title": "Level 1 - Global Dengue",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        77.2
+      ],
+      "rolling_average": 77.2,
+      "rolling_peak": 77.2,
+      "last_score": 77.2,
+      "z_hint": 0.0
+    },
+    "domain:ecfr.eu": {
+      "title": "The art of the swarm: Systemic rivalry with China on European terms",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        66.0
+      ],
+      "rolling_average": 66.0,
+      "rolling_peak": 66.0,
+      "last_score": 66.0,
+      "z_hint": 0.0
+    },
+    "domain:news.mongabay.com": {
+      "title": "What’s at stake for the environment in Colombia’s upcoming election?",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        63.9
+      ],
+      "rolling_average": 63.9,
+      "rolling_peak": 63.9,
+      "last_score": 63.9,
+      "z_hint": 0.0
+    },
+    "domain:www.crisisgroup.org": {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        42.6
+      ],
+      "rolling_average": 42.6,
+      "rolling_peak": 42.6,
+      "last_score": 42.6,
+      "z_hint": 0.0
+    },
+    "domain:reliefweb.int": {
+      "title": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        28.7
+      ],
+      "rolling_average": 28.7,
+      "rolling_peak": 28.7,
+      "last_score": 28.7,
+      "z_hint": 0.0
+    },
+    "domain:www.fda.gov": {
+      "title": "What's New Related to Drugs | FDA",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        26.2
+      ],
+      "rolling_average": 26.2,
+      "rolling_peak": 26.2,
+      "last_score": 26.2,
+      "z_hint": 0.0
+    },
+    "domain:www.eia.gov": {
+      "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        26.2
+      ],
+      "rolling_average": 26.2,
+      "rolling_peak": 26.2,
+      "last_score": 26.2,
+      "z_hint": 0.0
+    },
+    "domain:www.carbonbrief.org": {
+      "title": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        21.3
+      ],
+      "rolling_average": 21.3,
+      "rolling_peak": 21.3,
+      "last_score": 21.3,
+      "z_hint": 0.0
+    },
+    "domain:emergency.copernicus.eu": {
+      "title": "Home | Copernicus EMS",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "domain:www.nass.usda.gov": {
+      "title": "USDA - National Agricultural Statistics Service - Newsroom",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "domain:climate.copernicus.eu": {
+      "title": "News | Copernicus",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:www.who.int": {
+      "title": "Disease Outbreak News",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:firms.modaps.eosdis.nasa.gov": {
+      "title": "NASA | LANCE | FIRMS",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:deepstatemap-map-war-ukraine": {
+      "title": "DeepStateMAP | Map of the war in Ukraine",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "domain:www.fao.org": {
+      "title": "News | FAO | Food and Agriculture Organization of the United Nations",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:www.usda.gov": {
+      "title": "WASDE Report | USDA",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:wmo.int": {
+      "title": "News Portal",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.ema.europa.eu": {
+      "title": "News | European Medicines Agency (EMA)",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:news.un.org": {
+      "title": "UN News | Global perspective Human stories",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.nih.gov": {
+      "title": "News Releases | National Institutes of Health (NIH)",
+      "updated_at": "2026-06-19T17:44:38+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
       "z_hint": 0.0
     }
   }

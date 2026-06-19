@@ -11,17 +11,18 @@
     "macro_policy": "every 15 minutes or manual dispatch"
   },
   "counts": {
-    "active_sources": 45,
+    "active_sources": 89,
     "by_type": {
       "github_search": 5,
       "hackernews": 3,
       "manual_note": 1,
-      "rss": 33,
-      "webpage_check": 3
+      "rss": 54,
+      "webpage_check": 26
     },
     "by_lane": {
-      "base": 29,
+      "base": 62,
       "hot": 6,
+      "macro_policy": 11,
       "platform_dev": 8,
       "vendor_security": 2
     }
@@ -55,6 +56,33 @@
       "max_items": 15
     },
     {
+      "id": "carbon_brief_feed",
+      "name": "Carbon Brief Feed",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "global_climate_policy",
+      "host": "www.carbonbrief.org",
+      "max_items": 8
+    },
+    {
+      "id": "cdc_eid_expedited_rss",
+      "name": "CDC Emerging Infectious Diseases Expedited Articles",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "infectious_disease_research",
+      "host": "wwwnc.cdc.gov",
+      "max_items": 8
+    },
+    {
+      "id": "cdc_travel_health_notices_rss",
+      "name": "CDC Travel Health Notices RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "global_health_travel_outbreaks",
+      "host": "wwwnc.cdc.gov",
+      "max_items": 12
+    },
+    {
       "id": "cisa_all_advisories",
       "name": "CISA Cybersecurity Advisories",
       "type": "rss",
@@ -64,6 +92,42 @@
       "max_items": 15
     },
     {
+      "id": "copernicus_climate_news_web",
+      "name": "Copernicus Climate Change Service News",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "global_climate",
+      "host": "climate.copernicus.eu",
+      "max_items": 1
+    },
+    {
+      "id": "copernicus_ems_floods_web",
+      "name": "Copernicus Emergency Management Service",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "climate_disaster_earth_observation",
+      "host": "emergency.copernicus.eu",
+      "max_items": 1
+    },
+    {
+      "id": "crisisgroup_global_feed",
+      "name": "International Crisis Group Global Feed",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "conflict_foreign_policy",
+      "host": "www.crisisgroup.org",
+      "max_items": 10
+    },
+    {
+      "id": "deepstatemap_ukraine_web",
+      "name": "DeepStateMap Ukraine War Map",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "russia_ukraine_conflict_map",
+      "host": "deepstatemap.live",
+      "max_items": 1
+    },
+    {
       "id": "e27_asia_startups_feed",
       "name": "e27 Asia Startup and Tech Feed",
       "type": "rss",
@@ -71,6 +135,87 @@
       "source_class": "asia_tech_media",
       "host": "e27.co",
       "max_items": 10
+    },
+    {
+      "id": "ecdc_threats_reports_web",
+      "name": "ECDC Communicable Disease Threats",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "global_health_outbreaks_europe",
+      "host": "www.ecdc.europa.eu",
+      "max_items": 1
+    },
+    {
+      "id": "ecfr_feed",
+      "name": "European Council on Foreign Relations Feed",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "global_foreign_policy",
+      "host": "ecfr.eu",
+      "max_items": 10
+    },
+    {
+      "id": "eia_today_in_energy_web",
+      "name": "EIA Today in Energy",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "energy_oil_macro",
+      "host": "www.eia.gov",
+      "max_items": 1
+    },
+    {
+      "id": "eia_weekly_petroleum_status_web",
+      "name": "EIA Weekly Petroleum Status Report",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "energy_oil_production",
+      "host": "www.eia.gov",
+      "max_items": 1
+    },
+    {
+      "id": "ema_news_web",
+      "name": "EMA News",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "medical_approvals_research",
+      "host": "www.ema.europa.eu",
+      "max_items": 1
+    },
+    {
+      "id": "fao_newsroom_web",
+      "name": "FAO Newsroom",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "agriculture_food_security",
+      "host": "www.fao.org",
+      "max_items": 1
+    },
+    {
+      "id": "fda_drugs_whats_new_web",
+      "name": "FDA What's New Related to Drugs",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "medical_approvals_drugs",
+      "host": "www.fda.gov",
+      "max_items": 1
+    },
+    {
+      "id": "fda_press_announcements_web",
+      "name": "FDA Press Announcements",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "medical_approvals_research",
+      "host": "www.fda.gov",
+      "max_items": 1
+    },
+    {
+      "id": "global_forest_watch_blog",
+      "name": "Global Forest Watch Blog",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "rainforest_south_america",
+      "host": "www.globalforestwatch.org",
+      "max_items": 8
     },
     {
       "id": "google_trends_japan_hot",
@@ -172,6 +317,24 @@
       "max_items": 20
     },
     {
+      "id": "iea_news_energy_web",
+      "name": "IEA News and Commentaries",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "energy_global_policy",
+      "host": "www.iea.org",
+      "max_items": 1
+    },
+    {
+      "id": "isw_ukraine_rss",
+      "name": "Institute for the Study of War RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "russia_ukraine_conflict_analysis",
+      "host": "www.understandingwar.org",
+      "max_items": 10
+    },
+    {
       "id": "japan_digital_agency_news",
       "name": "Japan Digital Agency News RSS",
       "type": "rss",
@@ -208,6 +371,15 @@
       "max_items": 10
     },
     {
+      "id": "liveuamap_ukraine_web",
+      "name": "Liveuamap Ukraine",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "russia_ukraine_conflict_map",
+      "host": "liveuamap.com",
+      "max_items": 1
+    },
+    {
       "id": "manual_notes",
       "name": "Manual Notes Inbox",
       "type": "manual_note",
@@ -215,6 +387,33 @@
       "source_class": null,
       "host": "",
       "max_items": null
+    },
+    {
+      "id": "mongabay_latin_america_rainforest_feed",
+      "name": "Mongabay Latin America Rainforest Feed",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "rainforest_south_america",
+      "host": "news.mongabay.com",
+      "max_items": 10
+    },
+    {
+      "id": "nasa_climate_news_web",
+      "name": "NASA Climate News",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "global_climate_science",
+      "host": "science.nasa.gov",
+      "max_items": 1
+    },
+    {
+      "id": "nasa_firms_active_fire_web",
+      "name": "NASA FIRMS Active Fire Watch",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "rainforest_fire_early_warning",
+      "host": "firms.modaps.eosdis.nasa.gov",
+      "max_items": 1
     },
     {
       "id": "nhc_atlantic_cyclones",
@@ -244,6 +443,24 @@
       "max_items": 10
     },
     {
+      "id": "nih_news_releases_web",
+      "name": "NIH News Releases",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "medical_research_breakthroughs",
+      "host": "www.nih.gov",
+      "max_items": 1
+    },
+    {
+      "id": "opec_press_releases_web",
+      "name": "OPEC Press Releases",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "energy_oil_production",
+      "host": "www.opec.org",
+      "max_items": 1
+    },
+    {
       "id": "openai_news_rss",
       "name": "OpenAI News RSS",
       "type": "rss",
@@ -251,6 +468,15 @@
       "source_class": null,
       "host": "openai.com",
       "max_items": 15
+    },
+    {
+      "id": "reliefweb_food_security_updates",
+      "name": "ReliefWeb Food Security Updates",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "agriculture_food_security",
+      "host": "reliefweb.int",
+      "max_items": 1
     },
     {
       "id": "reliefweb_mindanao_recovery_watch",
@@ -262,12 +488,30 @@
       "max_items": 1
     },
     {
+      "id": "reliefweb_ukraine_updates",
+      "name": "ReliefWeb Ukraine Updates",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "russia_ukraine_humanitarian",
+      "host": "reliefweb.int",
+      "max_items": 1
+    },
+    {
       "id": "restofworld_feed",
       "name": "Rest of World Global Tech Feed",
       "type": "rss",
       "lane": "base",
       "source_class": "global_south_tech_media",
       "host": "restofworld.org",
+      "max_items": 10
+    },
+    {
+      "id": "state_department_rss",
+      "name": "U.S. Department of State RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "global_foreign_policy",
+      "host": "www.state.gov",
       "max_items": 10
     },
     {
@@ -287,6 +531,60 @@
       "source_class": "security_advisory",
       "host": "www.twcert.org.tw",
       "max_items": 10
+    },
+    {
+      "id": "un_news_global_web",
+      "name": "UN News Global",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "global_multilateral",
+      "host": "news.un.org",
+      "max_items": 1
+    },
+    {
+      "id": "usda_nass_news_web",
+      "name": "USDA NASS News Releases",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "agriculture_us_crop_data",
+      "host": "www.nass.usda.gov",
+      "max_items": 1
+    },
+    {
+      "id": "usda_wasde_web",
+      "name": "USDA WASDE Report",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "agriculture_global_grains",
+      "host": "www.usda.gov",
+      "max_items": 1
+    },
+    {
+      "id": "who_afro_rss",
+      "name": "WHO Africa RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "tropical_disease_outbreaks",
+      "host": "www.afro.who.int",
+      "max_items": 10
+    },
+    {
+      "id": "who_disease_outbreak_news_web",
+      "name": "WHO Disease Outbreak News",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "global_health_outbreaks",
+      "host": "www.who.int",
+      "max_items": 1
+    },
+    {
+      "id": "wmo_news_web",
+      "name": "World Meteorological Organization News",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "global_climate",
+      "host": "wmo.int",
+      "max_items": 1
     },
     {
       "id": "gdacs_all_events_24h",
@@ -341,6 +639,105 @@
       "source_class": null,
       "host": "earthquake.usgs.gov",
       "max_items": 10
+    },
+    {
+      "id": "bis_central_bank_speeches",
+      "name": "BIS Central Bankers Speeches",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "bis_press_releases",
+      "name": "BIS Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "bis_statistics",
+      "name": "BIS Statistical Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_open_market_operations",
+      "name": "ECB Open Market Operations and Communication",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 10
+    },
+    {
+      "id": "ecb_press_policy",
+      "name": "ECB Press Releases Speeches Interviews",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_statistical_press",
+      "name": "ECB Statistical Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_yield_curve",
+      "name": "ECB Euro Area Yield Curve",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 10
+    },
+    {
+      "id": "fed_monetary_policy_press",
+      "name": "Federal Reserve Monetary Policy Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 15
+    },
+    {
+      "id": "fed_policy_rates",
+      "name": "Federal Reserve Policy Rates Feed",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 10
+    },
+    {
+      "id": "fed_selected_interest_rates_h15",
+      "name": "Federal Reserve Selected Interest Rates H.15",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 10
+    },
+    {
+      "id": "fed_speeches_testimony",
+      "name": "Federal Reserve Speeches and Testimony",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 15
     },
     {
       "id": "github_blog_atom",

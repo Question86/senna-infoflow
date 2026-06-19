@@ -1,5 +1,513 @@
 {
-  "generated_at": "2026-06-19T17:38:25+00:00",
-  "today_file_total": 247,
-  "current_clusters": []
+  "generated_at": "2026-06-19T17:44:38+00:00",
+  "today_file_total": 305,
+  "current_clusters": [
+    {
+      "key": "domain:wwwnc.cdc.gov",
+      "title": "Level 1 - Global Dengue",
+      "sources": [
+        "CDC Travel Health Notices RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wwwnc.cdc.gov/travel/notices/level1/dengue-global",
+        "https://wwwnc.cdc.gov/travel/notices/level1/hepatitis-a-canada",
+        "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-french-guiana",
+        "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-sub-saharan-africa",
+        "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mauritius",
+        "https://wwwnc.cdc.gov/travel/notices/level1/ciguatera-fish-poisoning-vanuatu"
+      ],
+      "finding_count": 12,
+      "max_score": 16,
+      "credibility_total": 12.6,
+      "cross_source_confirmed": false,
+      "momentum_delta": 12,
+      "momentum_status": "increasing",
+      "network_score": 77.2,
+      "hot": true,
+      "watchgraph_modules": [
+        "public_health_biosecurity"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:ecfr.eu",
+      "title": "The art of the swarm: Systemic rivalry with China on European terms",
+      "sources": [
+        "European Council on Foreign Relations Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ecfr.eu/publication/the-art-of-the-swarm-systemic-rivalry-with-china-on-european-terms/",
+        "https://ecfr.eu/article/twin-track-how-to-move-ukraines-eu-accession-along/",
+        "https://ecfr.eu/article/after-ukraine-the-peace-dividend-africa-does-not-want/",
+        "https://ecfr.eu/publication/the-bear-with-the-bomb-russian-nuclear-coercion-and-the-future-of-european-deterrence/",
+        "https://ecfr.eu/podcasts/episode/peace-in-the-middle-east/",
+        "https://ecfr.eu/article/gas-lit-the-three-seas-initiative-is-out-of-step-with-a-clean-energy-future/"
+      ],
+      "finding_count": 10,
+      "max_score": 15,
+      "credibility_total": 10.5,
+      "cross_source_confirmed": false,
+      "momentum_delta": 10,
+      "momentum_status": "increasing",
+      "network_score": 66.0,
+      "hot": true,
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:news.mongabay.com",
+      "title": "What’s at stake for the environment in Colombia’s upcoming election?",
+      "sources": [
+        "Mongabay Latin America Rainforest Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.mongabay.com/2026/06/whats-at-stake-for-the-environment-in-colombias-upcoming-election/",
+        "https://news.mongabay.com/2026/06/suriname-will-not-be-saved-by-soybeans-commentary/",
+        "https://news.mongabay.com/short-article/2026/06/museum-dna-unmasks-new-himalayan-pit-vipers-study-says/",
+        "https://news.mongabay.com/2026/06/in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest/",
+        "https://news.mongabay.com/2026/06/south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man/",
+        "https://news.mongabay.com/short-article/2026/06/demand-for-vultures-in-west-africa-threatens-central-african-populations/"
+      ],
+      "finding_count": 9,
+      "max_score": 18,
+      "credibility_total": 9.45,
+      "cross_source_confirmed": false,
+      "momentum_delta": 9,
+      "momentum_status": "increasing",
+      "network_score": 63.9,
+      "hot": true,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.crisisgroup.org",
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "sources": [
+        "International Crisis Group Global Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
+        "https://www.crisisgroup.org/content/hormuz-5-june-2026-1",
+        "https://www.crisisgroup.org/content/tehran-5-june-2026-1",
+        "https://www.crisisgroup.org/content/washington-5-june-2026-1",
+        "https://www.crisisgroup.org/content/washington-5-june-2026-2",
+        "https://www.crisisgroup.org/content/israel-3-june-2026-1"
+      ],
+      "finding_count": 6,
+      "max_score": 12,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 42.6,
+      "hot": true,
+      "watchgraph_modules": [
+        "war_escalation_sanctions",
+        "shipping_chokepoints_supply_chain",
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:reliefweb.int",
+      "title": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+      "sources": [
+        "ReliefWeb Food Security Updates"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.7,
+      "hot": true,
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.fda.gov",
+      "title": "What's New Related to Drugs | FDA",
+      "sources": [
+        "FDA Press Announcements",
+        "FDA What's New Related to Drugs"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+        "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+      ],
+      "finding_count": 2,
+      "max_score": 10,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 26.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.eia.gov",
+      "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
+      "sources": [
+        "EIA Today in Energy",
+        "EIA Weekly Petroleum Status Report"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.eia.gov/todayinenergy/"
+      ],
+      "finding_count": 2,
+      "max_score": 10,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 26.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.carbonbrief.org",
+      "title": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
+      "sources": [
+        "Carbon Brief Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/",
+        "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
+        "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/"
+      ],
+      "finding_count": 3,
+      "max_score": 6,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 21.3,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:emergency.copernicus.eu",
+      "title": "Home | Copernicus EMS",
+      "sources": [
+        "Copernicus Emergency Management Service"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://emergency.copernicus.eu/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "storms_floods_weather",
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.nass.usda.gov",
+      "title": "USDA - National Agricultural Statistics Service - Newsroom",
+      "sources": [
+        "USDA NASS News Releases"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nass.usda.gov/Newsroom/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:climate.copernicus.eu",
+      "title": "News | Copernicus",
+      "sources": [
+        "Copernicus Climate Change Service News"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://climate.copernicus.eu/news"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.who.int",
+      "title": "Disease Outbreak News",
+      "sources": [
+        "WHO Disease Outbreak News"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.who.int/emergencies/disease-outbreak-news"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "public_health_biosecurity"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:firms.modaps.eosdis.nasa.gov",
+      "title": "NASA | LANCE | FIRMS",
+      "sources": [
+        "NASA FIRMS Active Fire Watch"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://firms.modaps.eosdis.nasa.gov/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "sources": [
+        "ECB Open Market Operations and Communication"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:deepstatemap-map-war-ukraine",
+      "title": "DeepStateMAP | Map of the war in Ukraine",
+      "sources": [
+        "DeepStateMap Ukraine War Map"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://deepstatemap.live/en"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.fao.org",
+      "title": "News | FAO | Food and Agriculture Organization of the United Nations",
+      "sources": [
+        "FAO Newsroom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.fao.org/newsroom/en"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.usda.gov",
+      "title": "WASDE Report | USDA",
+      "sources": [
+        "USDA WASDE Report"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:wmo.int",
+      "title": "News Portal",
+      "sources": [
+        "World Meteorological Organization News"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wmo.int/news"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.ema.europa.eu",
+      "title": "News | European Medicines Agency (EMA)",
+      "sources": [
+        "EMA News"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ema.europa.eu/en/news"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:news.un.org",
+      "title": "UN News | Global perspective Human stories",
+      "sources": [
+        "UN News Global"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.un.org/en/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    }
+  ]
 }

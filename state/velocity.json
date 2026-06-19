@@ -1,1252 +1,196 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T17:38:25+00:00",
+  "generated_at": "2026-06-19T17:44:38+00:00",
   "entities": {
-    "domain:www.bleepingcomputer.com": {
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "first_seen_at": "2026-06-17T21:31:36+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 8
-        },
-        {
-          "at": "2026-06-18T15:00:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T16:21:23+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T17:28:30+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T18:23:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T19:15:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T20:05:28+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T22:34:21+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-18T23:17:58+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:59:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T00:27:44+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:29:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:43:09+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:58:32+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:10:07+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:26:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:33:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:37:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T03:57:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T05:50:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T07:39:37+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T09:22:22+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T11:01:02+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 2
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "BleepingComputer Security"
-      ]
-    },
-    "github_repo:ju571nk/sigil": {
-      "title": "Ju571nK/sigil",
-      "first_seen_at": "2026-06-19T16:56:13+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Search: Agent Security"
-      ]
-    },
-    "title:credits-consumed-per-user-now-copilot-usage-metrics": {
-      "title": "AI credits consumed per user now in the Copilot usage metrics API",
-      "first_seen_at": "2026-06-19T16:56:13+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Changelog Atom"
-      ]
-    },
-    "earthquake:fiji 19:4.0": {
-      "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
-      "first_seen_at": "2026-06-19T16:56:13+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GDACS All Events Last 24h"
-      ]
-    },
-    "title:built-internal-data-analytics-agent": {
-      "title": "How we built an internal data analytics agent",
-      "first_seen_at": "2026-06-19T16:56:13+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "GitHub Blog Atom"
-      ]
-    },
-    "title:typescript-tsgo-tsc": {
-      "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
-      "first_seen_at": "2026-06-19T16:56:13+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ]
-    },
-    "url:https://zenn.dev/dress_code/articles/832cc1733e992c": {
-      "title": "AIに任せる設計、人間に残る設計",
-      "first_seen_at": "2026-06-19T16:56:13+00:00",
-      "last_seen_at": "2026-06-19T16:56:13+00:00",
-      "previous_run_count": 1,
-      "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
-      "history": [
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ]
-    },
-    "earthquake:m 4.7 - fiji region:4.7": {
-      "title": "M 4.7 - Fiji region",
-      "first_seen_at": "2026-06-19T15:58:19+00:00",
-      "last_seen_at": "2026-06-19T15:58:19+00:00",
+    "domain:reliefweb.int": {
+      "title": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-19T15:58:19+00:00",
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "ReliefWeb Food Security Updates"
       ]
     },
-    "title:gmktec-ps4-evo-evo-oculink": {
-      "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
-      "first_seen_at": "2026-06-19T15:58:19+00:00",
-      "last_seen_at": "2026-06-19T15:58:19+00:00",
+    "domain:news.mongabay.com": {
+      "title": "What’s at stake for the environment in Colombia’s upcoming election?",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 9,
+      "momentum_delta": 9,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-19T15:58:19+00:00",
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 9
+        }
+      ],
+      "sources": [
+        "Mongabay Latin America Rainforest Feed"
+      ]
+    },
+    "domain:wwwnc.cdc.gov": {
+      "title": "Level 1 - Global Dengue",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 12,
+      "momentum_delta": 12,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 12
+        }
+      ],
+      "sources": [
+        "CDC Travel Health Notices RSS"
+      ]
+    },
+    "domain:emergency.copernicus.eu": {
+      "title": "Home | Copernicus EMS",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "Copernicus Emergency Management Service"
       ]
     },
-    "earthquake:updates | reliefweb:unknown": {
-      "title": "Updates | ReliefWeb",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T14:52:13+00:00",
+    "domain:ecfr.eu": {
+      "title": "The art of the swarm: Systemic rivalry with China on European terms",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 10,
+      "momentum_delta": 10,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-19T11:28:55+00:00",
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 10
+        }
+      ],
+      "sources": [
+        "European Council on Foreign Relations Feed"
+      ]
+    },
+    "domain:www.nass.usda.gov": {
+      "title": "USDA - National Agricultural Statistics Service - Newsroom",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 1
-        },
+        }
+      ],
+      "sources": [
+        "USDA NASS News Releases"
+      ]
+    },
+    "domain:climate.copernicus.eu": {
+      "title": "News | Copernicus",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
         {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "ReliefWeb Mindanao Recovery Watch"
+        "Copernicus Climate Change Service News"
       ]
     },
-    "title:premiere-davinci": {
-      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-      "first_seen_at": "2026-06-19T14:52:13+00:00",
-      "last_seen_at": "2026-06-19T14:52:13+00:00",
+    "domain:www.crisisgroup.org": {
+      "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 6,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-19T14:52:13+00:00",
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 6
+        }
+      ],
+      "sources": [
+        "International Crisis Group Global Feed"
+      ]
+    },
+    "domain:www.who.int": {
+      "title": "Disease Outbreak News",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "WHO Disease Outbreak News"
       ]
     },
-    "domain:pic.x.com": {
-      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-      "first_seen_at": "2026-06-19T14:52:13+00:00",
-      "last_seen_at": "2026-06-19T14:52:13+00:00",
+    "domain:firms.modaps.eosdis.nasa.gov": {
+      "title": "NASA | LANCE | FIRMS",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
         {
-          "at": "2026-06-19T14:52:13+00:00",
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 1
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
         }
       ],
       "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ]
-    },
-    "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
-      "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "first_seen_at": "2026-06-19T13:48:19+00:00",
-      "last_seen_at": "2026-06-19T13:48:19+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "ReliefWeb Mindanao Recovery Watch"
-      ]
-    },
-    "domain:restofworld.org": {
-      "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-      "first_seen_at": "2026-06-19T01:58:32+00:00",
-      "last_seen_at": "2026-06-19T13:48:19+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T01:58:32+00:00",
-          "count": 7
-        },
-        {
-          "at": "2026-06-19T02:10:07+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:26:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:33:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:37:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T03:57:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T05:50:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T07:39:37+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T09:22:22+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T11:01:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Rest of World Global Tech Feed"
-      ]
-    },
-    "title:momentum-without-maturity-southeast-asia-reality": {
-      "title": "Momentum without maturity: Southeast Asia’s AI reality",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ]
-    },
-    "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future": {
-      "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ]
-    },
-    "title:github-copilot": {
-      "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ]
-    },
-    "title:claude-fable": {
-      "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ]
-    },
-    "domain:togetter.com": {
-      "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ]
-    },
-    "domain:www.twcert.org": {
-      "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 17
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "TWCERT/CC Security News RSS",
-        "TWCERT/CC TVN Vulnerability Notes RSS"
-      ]
-    },
-    "cve:CVE-2025-55182": {
-      "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 2
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Blog Atom",
-        "TWCERT/CC Security News RSS"
-      ]
-    },
-    "title:ics-security-conference-2026": {
-      "title": "ICS Security Conference 2026",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ]
-    },
-    "title:jsac2026-day": {
-      "title": "JSAC2026 -Day 1-",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ]
-    },
-    "cve:CVE-2026-20182": {
-      "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "TWCERT/CC Security News RSS"
-      ]
-    },
-    "title:csirts-around-world-azerbaijan": {
-      "title": "CSIRTs Around the World – Azerbaijan",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ]
-    },
-    "title:security-alert-microsoft-releases-june-2026-security-updates": {
-      "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ]
-    },
-    "title:security-alert-alert-regarding-vulnerabilities-adobe-acrobat-reader": {
-      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 2
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ]
-    },
-    "title:security-alert-updated-alert-regarding-multiple-vulnerabilities-trend": {
-      "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ]
-    },
-    "title:security-alert-microsoft-releases-may-2026-security-updates": {
-      "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ]
-    },
-    "title:security-alert-microsoft-releases-april-2026-security-updates": {
-      "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ]
-    },
-    "title:skill": {
-      "title": "デザインシステムのskillの精度が上がった8つの方法",
-      "first_seen_at": "2026-06-19T11:28:55+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 1
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T13:48:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T14:52:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T15:58:19+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T16:56:13+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T17:38:25+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "NASA FIRMS Active Fire Watch"
       ]
     },
     "domain:www.ecb.europa.eu": {
-      "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
+      "title": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
       "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 43
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -1362,10 +306,1548 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
         }
       ],
       "sources": [
-        "ECB Press Releases Speeches Interviews"
+        "ECB Open Market Operations and Communication"
+      ]
+    },
+    "domain:www.fda.gov": {
+      "title": "What's New Related to Drugs | FDA",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 2,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 2
+        }
+      ],
+      "sources": [
+        "FDA Press Announcements",
+        "FDA What's New Related to Drugs"
+      ]
+    },
+    "domain:www.eia.gov": {
+      "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 2,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 2
+        }
+      ],
+      "sources": [
+        "EIA Today in Energy",
+        "EIA Weekly Petroleum Status Report"
+      ]
+    },
+    "title:deepstatemap-map-war-ukraine": {
+      "title": "DeepStateMAP | Map of the war in Ukraine",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "DeepStateMap Ukraine War Map"
+      ]
+    },
+    "domain:www.carbonbrief.org": {
+      "title": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 3,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 3
+        }
+      ],
+      "sources": [
+        "Carbon Brief Feed"
+      ]
+    },
+    "domain:www.fao.org": {
+      "title": "News | FAO | Food and Agriculture Organization of the United Nations",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "FAO Newsroom"
+      ]
+    },
+    "domain:www.usda.gov": {
+      "title": "WASDE Report | USDA",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "USDA WASDE Report"
+      ]
+    },
+    "domain:wmo.int": {
+      "title": "News Portal",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "World Meteorological Organization News"
+      ]
+    },
+    "domain:www.ema.europa.eu": {
+      "title": "News | European Medicines Agency (EMA)",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "EMA News"
+      ]
+    },
+    "domain:news.un.org": {
+      "title": "UN News | Global perspective Human stories",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "UN News Global"
+      ]
+    },
+    "domain:www.nih.gov": {
+      "title": "News Releases | National Institutes of Health (NIH)",
+      "first_seen_at": "2026-06-19T17:44:38+00:00",
+      "last_seen_at": "2026-06-19T17:44:38+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "NIH News Releases"
+      ]
+    },
+    "domain:www.bleepingcomputer.com": {
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "first_seen_at": "2026-06-17T21:31:36+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T16:21:23+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T17:28:30+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T18:23:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T19:15:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T20:05:28+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T22:34:21+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T23:17:58+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:29:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:10:07+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:26:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:33:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:37:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T03:57:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T05:50:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T07:39:37+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T09:22:22+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T11:01:02+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 2
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "BleepingComputer Security"
+      ]
+    },
+    "github_repo:ju571nk/sigil": {
+      "title": "Ju571nK/sigil",
+      "first_seen_at": "2026-06-19T16:56:13+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Search: Agent Security"
+      ]
+    },
+    "title:credits-consumed-per-user-now-copilot-usage-metrics": {
+      "title": "AI credits consumed per user now in the Copilot usage metrics API",
+      "first_seen_at": "2026-06-19T16:56:13+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Changelog Atom"
+      ]
+    },
+    "earthquake:fiji 19:4.0": {
+      "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+      "first_seen_at": "2026-06-19T16:56:13+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GDACS All Events Last 24h"
+      ]
+    },
+    "title:built-internal-data-analytics-agent": {
+      "title": "How we built an internal data analytics agent",
+      "first_seen_at": "2026-06-19T16:56:13+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "GitHub Blog Atom"
+      ]
+    },
+    "title:typescript-tsgo-tsc": {
+      "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+      "first_seen_at": "2026-06-19T16:56:13+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "url:https://zenn.dev/dress_code/articles/832cc1733e992c": {
+      "title": "AIに任せる設計、人間に残る設計",
+      "first_seen_at": "2026-06-19T16:56:13+00:00",
+      "last_seen_at": "2026-06-19T16:56:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "earthquake:m 4.7 - fiji region:4.7": {
+      "title": "M 4.7 - Fiji region",
+      "first_seen_at": "2026-06-19T15:58:19+00:00",
+      "last_seen_at": "2026-06-19T15:58:19+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ]
+    },
+    "title:gmktec-ps4-evo-evo-oculink": {
+      "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+      "first_seen_at": "2026-06-19T15:58:19+00:00",
+      "last_seen_at": "2026-06-19T15:58:19+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "earthquake:updates | reliefweb:unknown": {
+      "title": "Updates | ReliefWeb",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T14:52:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "ReliefWeb Mindanao Recovery Watch"
+      ]
+    },
+    "title:premiere-davinci": {
+      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+      "first_seen_at": "2026-06-19T14:52:13+00:00",
+      "last_seen_at": "2026-06-19T14:52:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:pic.x.com": {
+      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+      "first_seen_at": "2026-06-19T14:52:13+00:00",
+      "last_seen_at": "2026-06-19T14:52:13+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
+      "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "first_seen_at": "2026-06-19T13:48:19+00:00",
+      "last_seen_at": "2026-06-19T13:48:19+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "ReliefWeb Mindanao Recovery Watch"
+      ]
+    },
+    "domain:restofworld.org": {
+      "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T13:48:19+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 7
+        },
+        {
+          "at": "2026-06-19T02:10:07+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:26:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:33:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:37:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T03:57:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T05:50:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T07:39:37+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T09:22:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T11:01:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ]
+    },
+    "title:momentum-without-maturity-southeast-asia-reality": {
+      "title": "Momentum without maturity: Southeast Asia’s AI reality",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future": {
+      "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:github-copilot": {
+      "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:claude-fable": {
+      "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:togetter.com": {
+      "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:www.twcert.org": {
+      "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 17
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "TWCERT/CC Security News RSS",
+        "TWCERT/CC TVN Vulnerability Notes RSS"
+      ]
+    },
+    "cve:CVE-2025-55182": {
+      "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 2
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Blog Atom",
+        "TWCERT/CC Security News RSS"
+      ]
+    },
+    "title:ics-security-conference-2026": {
+      "title": "ICS Security Conference 2026",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Blog Atom"
+      ]
+    },
+    "title:jsac2026-day": {
+      "title": "JSAC2026 -Day 1-",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Blog Atom"
+      ]
+    },
+    "cve:CVE-2026-20182": {
+      "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "TWCERT/CC Security News RSS"
+      ]
+    },
+    "title:csirts-around-world-azerbaijan": {
+      "title": "CSIRTs Around the World – Azerbaijan",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Blog Atom"
+      ]
+    },
+    "title:security-alert-microsoft-releases-june-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Alerts"
+      ]
+    },
+    "title:security-alert-alert-regarding-vulnerabilities-adobe-acrobat-reader": {
+      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 2
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Alerts"
+      ]
+    },
+    "title:security-alert-updated-alert-regarding-multiple-vulnerabilities-trend": {
+      "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Alerts"
+      ]
+    },
+    "title:security-alert-microsoft-releases-may-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Alerts"
+      ]
+    },
+    "title:security-alert-microsoft-releases-april-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "JPCERT/CC English Alerts"
+      ]
+    },
+    "title:skill": {
+      "title": "デザインシステムのskillの精度が上がった8つの方法",
+      "first_seen_at": "2026-06-19T11:28:55+00:00",
+      "last_seen_at": "2026-06-19T11:28:55+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 0,
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
+      "history": [
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T14:52:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T15:58:19+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T16:56:13+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
       ]
     },
     "cve:CVE-2026-20131": {
@@ -1403,6 +1885,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1446,6 +1932,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1487,6 +1977,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1530,6 +2024,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1571,6 +2069,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1614,6 +2116,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1655,6 +2161,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1698,6 +2208,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1739,6 +2253,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1782,6 +2300,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1823,6 +2345,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1866,6 +2392,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1907,6 +2437,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -1953,6 +2487,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2008,6 +2546,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2053,6 +2595,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2104,6 +2650,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2153,6 +2703,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2204,6 +2758,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2253,6 +2811,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2304,6 +2866,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2353,6 +2919,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2404,6 +2974,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2453,6 +3027,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2504,6 +3082,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2553,6 +3135,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2604,6 +3190,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2654,6 +3244,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2703,6 +3297,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2758,6 +3356,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2811,6 +3413,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2866,6 +3472,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2919,6 +3529,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -2974,6 +3588,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3027,6 +3645,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3082,6 +3704,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3135,6 +3761,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3190,6 +3820,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3243,6 +3877,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3302,6 +3940,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3359,6 +4001,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3422,6 +4068,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3483,6 +4133,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3546,6 +4200,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3607,6 +4265,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3670,6 +4332,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3731,6 +4397,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3794,6 +4464,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3856,6 +4530,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3917,6 +4595,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -3988,6 +4670,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4057,6 +4743,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -4128,6 +4818,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4197,6 +4891,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -4268,6 +4966,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4337,6 +5039,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -4408,6 +5114,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4477,6 +5187,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -4548,6 +5262,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4617,6 +5335,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -4692,6 +5414,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4765,6 +5491,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -4848,6 +5578,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4925,6 +5659,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -5004,6 +5742,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5082,6 +5824,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5159,6 +5905,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -5242,6 +5992,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5323,6 +6077,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -5406,6 +6164,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5487,6 +6249,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -5570,6 +6336,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5651,6 +6421,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -5734,6 +6508,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5815,6 +6593,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -5898,6 +6680,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5979,6 +6765,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -6062,6 +6852,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6143,6 +6937,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -6226,6 +7024,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6307,6 +7109,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -6390,6 +7196,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6471,6 +7281,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -6554,6 +7368,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6635,6 +7453,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -6718,6 +7540,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6799,6 +7625,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -6882,6 +7712,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6963,6 +7797,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7046,6 +7884,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7127,6 +7969,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7210,6 +8056,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7291,6 +8141,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7374,6 +8228,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7455,6 +8313,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7538,6 +8400,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7619,6 +8485,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7702,6 +8572,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7790,6 +8664,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7871,6 +8749,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -7954,6 +8836,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8035,6 +8921,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -8118,6 +9008,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8199,6 +9093,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -8282,6 +9180,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8363,6 +9265,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -8446,6 +9352,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8527,6 +9437,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -8610,6 +9524,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8691,6 +9609,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -8774,6 +9696,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8855,6 +9781,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -8938,6 +9868,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9019,6 +9953,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -9102,6 +10040,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9183,6 +10125,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -9266,6 +10212,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9347,6 +10297,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -9430,6 +10384,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9511,6 +10469,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -9594,6 +10556,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9676,6 +10642,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9691,10 +10661,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 2
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -9809,6 +10775,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -9826,10 +10796,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -9943,6 +10909,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -10026,6 +10996,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10107,6 +11081,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -10190,6 +11168,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10271,6 +11253,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -10354,6 +11340,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10435,6 +11425,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -10518,6 +11512,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10599,6 +11597,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -10682,6 +11684,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10763,6 +11769,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -10846,6 +11856,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10927,6 +11941,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -11010,6 +12028,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11091,6 +12113,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -11174,6 +12200,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11255,6 +12285,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -11338,6 +12372,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11420,6 +12458,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11435,10 +12477,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -11553,6 +12591,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -11636,6 +12678,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11717,6 +12763,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -11800,6 +12850,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11881,6 +12935,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -11964,6 +13022,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11979,10 +13041,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -12098,6 +13156,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12179,6 +13241,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -12262,6 +13328,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12343,6 +13413,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -12426,6 +13500,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12507,6 +13585,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -12590,6 +13672,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12671,6 +13757,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -12758,6 +13848,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12843,6 +13937,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -12930,6 +14028,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13015,6 +14117,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -13102,6 +14208,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13187,6 +14297,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -13274,6 +14388,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13359,6 +14477,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -13446,6 +14568,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13532,6 +14658,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13617,6 +14747,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -13707,6 +14841,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -13801,6 +14939,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -13904,6 +15046,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14005,6 +15151,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -14108,6 +15258,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14209,6 +15363,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -14312,6 +15470,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14413,6 +15575,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -14516,6 +15682,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14617,6 +15787,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -14720,6 +15894,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14821,6 +15999,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -14924,6 +16106,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15025,6 +16211,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -15128,6 +16318,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15229,6 +16423,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -15332,6 +16530,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15433,6 +16635,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -15536,6 +16742,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15638,6 +16848,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15653,10 +16867,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -15772,6 +16982,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15873,6 +17087,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -15976,6 +17194,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16077,6 +17299,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -16180,6 +17406,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16282,6 +17512,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16383,6 +17617,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -16489,6 +17727,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -16612,6 +17854,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16717,6 +17963,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -16824,6 +18074,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16839,10 +18093,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 1
@@ -16958,6 +18208,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17063,6 +18317,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -17170,6 +18428,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17275,6 +18537,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -17386,6 +18652,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17495,6 +18765,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -17606,6 +18880,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17715,6 +18993,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -17826,6 +19108,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17936,6 +19222,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18045,6 +19335,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -18160,6 +19454,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18175,10 +19473,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -18294,6 +19588,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18408,6 +19706,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18521,6 +19823,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -18640,6 +19946,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18757,6 +20067,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -18876,6 +20190,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18993,6 +20311,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -19116,6 +20438,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19237,6 +20563,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -19360,6 +20690,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19481,6 +20815,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -19604,6 +20942,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19619,10 +20961,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
@@ -19737,6 +21075,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -19860,6 +21202,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19981,6 +21327,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -20104,6 +21454,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20225,6 +21579,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -20348,6 +21706,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20469,6 +21831,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -20592,6 +21958,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20714,6 +22084,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20835,6 +22209,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -20962,6 +22340,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21087,6 +22469,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -21214,6 +22600,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21340,6 +22730,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21465,6 +22859,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -21596,6 +22994,10 @@
         {
           "at": "2026-06-19T17:38:25+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21611,10 +23013,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 1
@@ -21729,6 +23127,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -21746,10 +23148,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -21863,6 +23261,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -21880,10 +23282,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -21997,6 +23395,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22014,10 +23416,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22131,6 +23529,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22148,10 +23550,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 44
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22265,6 +23663,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22285,10 +23687,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 45
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22402,6 +23800,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22421,10 +23823,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22538,6 +23936,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22555,10 +23957,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22672,6 +24070,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22689,10 +24091,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22806,6 +24204,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22823,10 +24225,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 2
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -22940,6 +24338,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -22957,10 +24359,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23074,6 +24472,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23091,10 +24493,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23208,6 +24606,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23225,10 +24627,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23342,6 +24740,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23359,10 +24761,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23476,6 +24874,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23493,10 +24895,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23610,6 +25008,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23627,10 +25029,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23744,6 +25142,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23761,10 +25163,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -23878,6 +25276,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -23895,10 +25297,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 2
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24012,6 +25410,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24030,10 +25432,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24147,6 +25545,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24164,10 +25566,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24281,6 +25679,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24298,10 +25700,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24415,6 +25813,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24432,10 +25834,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24549,6 +25947,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24566,10 +25968,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24683,6 +26081,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24700,10 +26102,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24817,6 +26215,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24834,10 +26236,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -24951,6 +26349,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -24968,10 +26370,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25085,6 +26483,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25102,10 +26504,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25219,6 +26617,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25236,10 +26638,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25353,6 +26751,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25370,10 +26772,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25487,6 +26885,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25504,10 +26906,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25621,6 +27019,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25638,10 +27040,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25755,6 +27153,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25772,10 +27174,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -25889,6 +27287,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -25906,10 +27308,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26023,6 +27421,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26040,10 +27442,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26157,6 +27555,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26174,10 +27576,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26291,6 +27689,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26308,10 +27710,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26425,6 +27823,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26442,10 +27844,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26559,6 +27957,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26576,10 +27978,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26693,6 +28091,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26710,10 +28112,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 4
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26827,6 +28225,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26845,10 +28247,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -26962,6 +28360,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -26979,10 +28381,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27096,6 +28494,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27113,10 +28515,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27230,6 +28628,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27247,10 +28649,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27364,6 +28762,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27381,10 +28783,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27498,6 +28896,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27515,10 +28917,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27632,6 +29030,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27649,10 +29051,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27766,6 +29164,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27783,10 +29185,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 2
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -27900,6 +29298,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -27917,10 +29319,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 2
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28034,6 +29432,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28051,10 +29453,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28168,6 +29566,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28185,10 +29587,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28302,6 +29700,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28319,10 +29721,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28436,6 +29834,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28453,10 +29855,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28570,6 +29968,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28587,10 +29989,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28704,6 +30102,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28721,10 +30123,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28838,6 +30236,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28855,10 +30257,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -28972,6 +30370,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -28989,10 +30391,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29106,6 +30504,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29123,10 +30525,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29240,6 +30638,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29257,10 +30659,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29374,6 +30772,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29391,10 +30793,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29508,6 +30906,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29525,10 +30927,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29642,6 +31040,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29659,10 +31061,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29776,6 +31174,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29793,10 +31195,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -29910,6 +31308,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -29927,10 +31329,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30044,6 +31442,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30061,10 +31463,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30178,6 +31576,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30195,10 +31597,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30312,6 +31710,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30329,10 +31731,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30446,6 +31844,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30463,10 +31865,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30580,6 +31978,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30597,10 +31999,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30714,6 +32112,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30731,10 +32133,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30848,6 +32246,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30865,10 +32267,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -30982,6 +32380,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -30999,10 +32401,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31116,6 +32514,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31133,10 +32535,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31250,6 +32648,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31267,10 +32669,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31384,6 +32782,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31401,10 +32803,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31518,6 +32916,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31535,10 +32937,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31652,6 +33050,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31669,10 +33071,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31786,6 +33184,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31803,10 +33205,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -31920,6 +33318,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -31937,10 +33339,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32054,6 +33452,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32071,10 +33473,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32188,6 +33586,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32205,10 +33607,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32322,6 +33720,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32339,10 +33741,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32456,6 +33854,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32473,10 +33875,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32590,6 +33988,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32607,10 +34009,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32724,6 +34122,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32741,10 +34143,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32858,6 +34256,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -32875,10 +34277,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -32992,6 +34390,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33009,10 +34411,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33126,6 +34524,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33143,10 +34545,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33260,6 +34658,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33277,10 +34679,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33394,6 +34792,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33411,10 +34813,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33528,6 +34926,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33545,10 +34947,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33662,6 +35060,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33679,10 +35081,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33796,6 +35194,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33813,10 +35215,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -33930,6 +35328,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -33948,10 +35350,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34065,6 +35463,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34082,10 +35484,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34199,6 +35597,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34216,10 +35618,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34333,6 +35731,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34350,10 +35752,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34467,6 +35865,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34484,10 +35886,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34601,6 +35999,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34618,10 +36020,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34735,6 +36133,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34752,10 +36154,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -34869,6 +36267,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -34886,10 +36288,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35003,6 +36401,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35020,10 +36422,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35137,6 +36535,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35154,10 +36556,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35271,6 +36669,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35288,10 +36690,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35405,6 +36803,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35422,10 +36824,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35539,6 +36937,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35556,10 +36958,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35673,6 +37071,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35690,10 +37092,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35807,6 +37205,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35824,10 +37226,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -35941,6 +37339,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -35958,10 +37360,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36075,6 +37473,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36092,10 +37494,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36209,6 +37607,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36226,10 +37628,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36343,6 +37741,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36360,10 +37762,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36477,6 +37875,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36494,10 +37896,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36611,6 +38009,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36628,10 +38030,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36745,6 +38143,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36762,10 +38164,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -36879,6 +38277,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -36896,10 +38298,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37013,6 +38411,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37030,10 +38432,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37147,6 +38545,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37164,10 +38566,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37281,6 +38679,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37298,10 +38700,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37415,6 +38813,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37432,10 +38834,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37549,6 +38947,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37566,10 +38968,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37683,6 +39081,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37700,10 +39102,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37817,6 +39215,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37834,10 +39236,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -37951,6 +39349,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -37968,10 +39370,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -38085,6 +39483,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -38102,10 +39504,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -38219,6 +39617,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -38236,10 +39638,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -38353,6 +39751,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
@@ -38370,10 +39772,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T15:00:18+00:00",
           "count": 0
         },
@@ -38487,6 +39885,10 @@
         },
         {
           "at": "2026-06-19T17:38:25+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T17:44:38+00:00",
           "count": 0
         }
       ],
