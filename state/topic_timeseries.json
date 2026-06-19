@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T20:26:24Z",
+  "generated_at": "2026-06-19T21:55:12Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -490,8 +490,8 @@
     },
     "domain:firms.modaps.eosdis.nasa.gov": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
-      "last_trend_wucht": 20.5,
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 17.6,
       "samples": [
         {
           "bucket": "other",
@@ -573,6 +573,34 @@
           "topic_key": "domain:firms.modaps.eosdis.nasa.gov",
           "topic_label": "NASA | LANCE | FIRMS",
           "trend_wucht": 20.5,
+          "urls": [
+            "https://firms.modaps.eosdis.nasa.gov/"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 15.6,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:domain:firms.modaps.eosdis.nasa.gov",
+          "sample_index": 5939687,
+          "score_delta_5m": -2.9,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "NASA FIRMS Active Fire Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "domain:firms.modaps.eosdis.nasa.gov",
+          "topic_label": "NASA | LANCE | FIRMS",
+          "trend_wucht": 17.6,
           "urls": [
             "https://firms.modaps.eosdis.nasa.gov/"
           ]
@@ -965,7 +993,7 @@
     },
     "domain:wmo.int": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_seen_at": "2026-06-19T21:55:12Z",
       "last_trend_wucht": 8.5,
       "samples": [
         {
@@ -1073,6 +1101,34 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:wmo.int",
+          "topic_label": "News Portal",
+          "trend_wucht": 8.5,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 6.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:domain:wmo.int",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
           "topic_key": "domain:wmo.int",
           "topic_label": "News Portal",
           "trend_wucht": 8.5,
@@ -1625,7 +1681,7 @@
     },
     "domain:www.fda.gov": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_seen_at": "2026-06-19T21:55:12Z",
       "last_trend_wucht": 7.5,
       "samples": [
         {
@@ -1737,6 +1793,34 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:www.fda.gov",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 7.5,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 5.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:domain:www.fda.gov",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
           "topic_key": "domain:www.fda.gov",
           "topic_label": "Press Announcements | FDA",
           "trend_wucht": 7.5,
@@ -1898,8 +1982,8 @@
     },
     "domain:www.presseportal.de": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:26:24Z",
-      "last_trend_wucht": 10.5,
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 32.5,
       "samples": [
         {
           "bucket": "other",
@@ -1963,10 +2047,43 @@
             "https://www.presseportal.de/blaulicht/pm/62288/6298230",
             "https://www.presseportal.de/blaulicht/pm/117712/6298229"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 11,
+          "network_score": 19.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:domain:www.presseportal.de",
+          "sample_index": 5939687,
+          "score_delta_5m": 11.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "domain:www.presseportal.de",
+          "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+          "trend_wucht": 32.5,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+            "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+            "https://www.presseportal.de/blaulicht/pm/108747/6298236",
+            "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+            "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+            "https://www.presseportal.de/blaulicht/pm/6013/6298233"
+          ]
         }
       ],
       "topic_key": "domain:www.presseportal.de",
-      "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt"
+      "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht"
     },
     "domain:www.twcert.org": {
       "bucket": "security",
@@ -2225,6 +2342,44 @@
       "topic_key": "domain:wwwnc.cdc.gov",
       "topic_label": "Level 1 - Global Dengue"
     },
+    "earthquake:chile:4.0": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 24.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 9.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:earthquake:chile:4.0",
+          "sample_index": 5939687,
+          "score_delta_5m": 9.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "earthquake:chile:4.0",
+          "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+          "trend_wucht": 24.8,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:chile:4.0",
+      "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km."
+    },
     "earthquake:fiji 19:4.0": {
       "bucket": "disaster_recovery",
       "last_seen_at": "2026-06-19T16:56:13Z",
@@ -2465,6 +2620,41 @@
       ],
       "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
       "topic_label": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km."
+    },
+    "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+          "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+      "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km."
     },
     "earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4": {
       "bucket": "disaster_recovery",
@@ -3115,6 +3305,44 @@
       "topic_key": "earthquake:m 4.7 - fiji region:4.7",
       "topic_label": "M 4.7 - Fiji region"
     },
+    "earthquake:m 5.1 - south sandwich islands region:5.1": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 20.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 7.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:earthquake:m 5.1 - south sandwich islands region:5.1",
+          "sample_index": 5939687,
+          "score_delta_5m": 7.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+          "topic_label": "M 5.1 - South Sandwich Islands region",
+          "trend_wucht": 20.8,
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+      "topic_label": "M 5.1 - South Sandwich Islands region"
+    },
     "earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6": {
       "last_seen_at": "2026-06-18T02:20:10Z",
       "last_trend_wucht": 9.0,
@@ -3324,6 +3552,41 @@
       ],
       "topic_key": "earthquake:m-5.0-68-km-ese-of-bobon-philippines:5.0",
       "topic_label": "M 5.0 - 68 km ESE of Bobon, Philippines"
+    },
+    "earthquake:m-5.1-south-sandwich-islands-region:5.1": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:earthquake:m-5.1-south-sandwich-islands-region:5.1",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "earthquake:m-5.1-south-sandwich-islands-region:5.1",
+          "topic_label": "M 5.1 - South Sandwich Islands region",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:m-5.1-south-sandwich-islands-region:5.1",
+      "topic_label": "M 5.1 - South Sandwich Islands region"
     },
     "earthquake:m-5.3-63-km-ese-of-bobon-philippines:5.3": {
       "last_seen_at": "2026-06-18T17:28:30Z",
@@ -11265,6 +11528,41 @@
       "topic_key": "title:frank-elderson:-strengthening-operational-resilience-for-the-age-of-ai",
       "topic_label": "Frank Elderson: Strengthening operational resilience for the age of AI"
     },
+    "title:fw-bergheim:-uber-100-unwettereinsatze-am-freitagabend-in-bergheim": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:fw-bergheim:-uber-100-unwettereinsatze-am-freitagabend-in-bergheim",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:fw-bergheim:-uber-100-unwettereinsatze-am-freitagabend-in-bergheim",
+          "topic_label": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/168361/6298239"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-bergheim:-uber-100-unwettereinsatze-am-freitagabend-in-bergheim",
+      "topic_label": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim"
+    },
     "title:fw-en:-fehlalarm-im-fachmarktzentrum": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T20:12:42Z",
@@ -11580,6 +11878,76 @@
       "topic_key": "title:fw-m:-wochenendruckblick-der-feuerwehr-munchen-fur-den-5.-bis-7.-juni-2026",
       "topic_label": "FW-M: Wochenendrückblick der Feuerwehr München für den 5. bis 7. Juni 2026"
     },
+    "title:fw-pulheim:-hitzegewitter-bringt-sturmboen-nach-pulheim": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:fw-pulheim:-hitzegewitter-bringt-sturmboen-nach-pulheim",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:fw-pulheim:-hitzegewitter-bringt-sturmboen-nach-pulheim",
+          "topic_label": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/156611/6298238"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-pulheim:-hitzegewitter-bringt-sturmboen-nach-pulheim",
+      "topic_label": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim"
+    },
+    "title:fw-reichenau:-ast-auf-fahrbahn-nach-gewitter-19.06.2026": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:fw-reichenau:-ast-auf-fahrbahn-nach-gewitter-19.06.2026",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:fw-reichenau:-ast-auf-fahrbahn-nach-gewitter-19.06.2026",
+          "topic_label": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/163367/6298237"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-reichenau:-ast-auf-fahrbahn-nach-gewitter-19.06.2026",
+      "topic_label": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026"
+    },
     "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T20:12:42Z",
@@ -11614,6 +11982,41 @@
       ],
       "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
       "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck"
+    },
+    "title:fw-stockach:-kuchenbrand": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:fw-stockach:-kuchenbrand",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:fw-stockach:-kuchenbrand",
+          "topic_label": "FW Stockach: Küchenbrand",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/134581/6298241"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-stockach:-kuchenbrand",
+      "topic_label": "FW Stockach: Küchenbrand"
     },
     "title:g7": {
       "last_seen_at": "2026-06-19T01:43:09Z",
@@ -11927,6 +12330,43 @@
       "topic_key": "title:gmktec-ps4-evo-evo-oculink",
       "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載"
     },
+    "title:gmktec-ryzen-max-395-evo": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 26.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 12.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:gmktec-ryzen-max-395-evo",
+          "sample_index": 5939687,
+          "score_delta_5m": 12.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:gmktec-ryzen-max-395-evo",
+          "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+          "trend_wucht": 26.0,
+          "urls": [
+            "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html"
+          ]
+        }
+      ],
+      "topic_key": "title:gmktec-ryzen-max-395-evo",
+      "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表"
+    },
     "title:gmktecps4pcevo-x329evo-x2oculink": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T15:58:18Z",
@@ -11961,6 +12401,41 @@
       ],
       "topic_key": "title:gmktecps4pcevo-x329evo-x2oculink",
       "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載"
+    },
+    "title:gmktecryzen-ai-max-395pcevo-x3": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:gmktecryzen-ai-max-395pcevo-x3",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:gmktecryzen-ai-max-395pcevo-x3",
+          "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html"
+          ]
+        }
+      ],
+      "topic_key": "title:gmktecryzen-ai-max-395pcevo-x3",
+      "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表"
     },
     "title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization": {
       "last_seen_at": "2026-06-17T21:31:36Z",
@@ -15845,6 +16320,43 @@
       "topic_key": "title:microsoft-fixes-windows-server-2016-security-update-failures",
       "topic_label": "Microsoft fixes Windows Server 2016 security update failures"
     },
+    "title:microsoft-mai-code-flash-code-github-copilot": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 22.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 10.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:microsoft-mai-code-flash-code-github-copilot",
+          "sample_index": 5939687,
+          "score_delta_5m": 10.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
+          "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+          "trend_wucht": 22.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118402.html"
+          ]
+        }
+      ],
+      "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
+      "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく"
+    },
     "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T12:31:48Z",
@@ -15879,6 +16391,41 @@
       ],
       "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
       "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts"
+    },
+    "title:microsoftmai-code-1-flashvs-code-github-copilot": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:microsoftmai-code-1-flashvs-code-github-copilot",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:microsoftmai-code-1-flashvs-code-github-copilot",
+          "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118402.html"
+          ]
+        }
+      ],
+      "topic_key": "title:microsoftmai-code-1-flashvs-code-github-copilot",
+      "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく"
     },
     "title:minutes-of-the-board-s-discount-rate-meeting-on-april-20-and-29-2026": {
       "last_seen_at": "2026-06-18T14:33:45Z",
@@ -16528,7 +17075,7 @@
     },
     "title:nasa-lance-firms": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_seen_at": "2026-06-19T21:55:12Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -16602,6 +17149,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:nasa-lance-firms",
+          "topic_label": "NASA | LANCE | FIRMS",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://firms.modaps.eosdis.nasa.gov/"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:nasa-lance-firms",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "NASA FIRMS Active Fire Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
           "topic_key": "title:nasa-lance-firms",
           "topic_label": "NASA | LANCE | FIRMS",
           "trend_wucht": 2.0,
@@ -16867,7 +17440,7 @@
     },
     "title:news-portal": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_seen_at": "2026-06-19T21:55:12Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -16967,6 +17540,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:news-portal",
+          "topic_label": "News Portal",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:news-portal",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
           "topic_key": "title:news-portal",
           "topic_label": "News Portal",
           "trend_wucht": 2.0,
@@ -17272,6 +17871,78 @@
       "topic_key": "title:open-knowledge-format",
       "topic_label": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた"
     },
+    "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
+          "sample_index": 5939687,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
+          "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118403.html"
+          ]
+        }
+      ],
+      "topic_key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
+      "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営"
+    },
+    "title:open-vsxv1.0.0-visual-studio-code-microsofteclipse-foundation": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:open-vsxv1.0.0-visual-studio-code-microsofteclipse-foundation",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:open-vsxv1.0.0-visual-studio-code-microsofteclipse-foundation",
+          "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118403.html"
+          ]
+        }
+      ],
+      "topic_key": "title:open-vsxv1.0.0-visual-studio-code-microsofteclipse-foundation",
+      "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営"
+    },
     "title:openai-google-gemini-ai": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 14.0,
@@ -17495,6 +18166,44 @@
       ],
       "topic_key": "title:otc-interest-rate-derivatives-turnover-in-april-2025",
       "topic_label": "OTC interest rate derivatives turnover in April 2025"
+    },
+    "title:outlook": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 3,
+          "network_score": 9.0,
+          "origin_counts": {
+            "latest_finding": 2,
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:outlook",
+          "sample_index": 5939687,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:outlook",
+          "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118405.html"
+          ]
+        }
+      ],
+      "topic_key": "title:outlook",
+      "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う"
     },
     "title:owainlewis-awesome-artificial-intelligence": {
       "last_seen_at": "2026-06-19T02:33:15Z",
@@ -18168,6 +18877,146 @@
       "topic_key": "title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
       "topic_label": "POL-BO: Vermisster Herner (52) tot aufgefunden"
     },
+    "title:pol-mfr:-578-brand-einer-sattelzugmaschine-auf-der-a6-vollsperrung": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pol-mfr:-578-brand-einer-sattelzugmaschine-auf-der-a6-vollsperrung",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pol-mfr:-578-brand-einer-sattelzugmaschine-auf-der-a6-vollsperrung",
+          "topic_label": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/6013/6298233"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-mfr:-578-brand-einer-sattelzugmaschine-auf-der-a6-vollsperrung",
+      "topic_label": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung"
+    },
+    "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
+          "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/108747/6298236"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
+      "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg"
+    },
+    "title:pol-nb:-verkehrsunfall-mit-drei-beteiligten-fahrzeugen-auf-der-b111-bei-wolgast": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pol-nb:-verkehrsunfall-mit-drei-beteiligten-fahrzeugen-auf-der-b111-bei-wolgast",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pol-nb:-verkehrsunfall-mit-drei-beteiligten-fahrzeugen-auf-der-b111-bei-wolgast",
+          "topic_label": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/108747/6298234"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-nb:-verkehrsunfall-mit-drei-beteiligten-fahrzeugen-auf-der-b111-bei-wolgast",
+      "topic_label": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast"
+    },
+    "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
+          "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/108747/6298235"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
+      "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen"
+    },
     "title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T20:12:42Z",
@@ -18202,6 +19051,41 @@
       ],
       "topic_key": "title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da",
       "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da"
+    },
+    "title:pol-nom:-umfangreiches-versammlungsgeschehens-anlasslich-des-afd-kreisparteitages": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pol-nom:-umfangreiches-versammlungsgeschehens-anlasslich-des-afd-kreisparteitages",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pol-nom:-umfangreiches-versammlungsgeschehens-anlasslich-des-afd-kreisparteitages",
+          "topic_label": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/57929/6298240"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-nom:-umfangreiches-versammlungsgeschehens-anlasslich-des-afd-kreisparteitages",
+      "topic_label": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages"
     },
     "title:pol-pdko:-unwetter-in-koblenz-erfordert-absage-des-electronic-wine-festivals-und-raumung-der-ver": {
       "bucket": "other",
@@ -18518,6 +19402,41 @@
       "topic_key": "title:pol-piaz:-vollendeter-schockanruf-seniorin-ubergibt-goldschmuck-und-goldmunzen-im-funfstelligen-",
       "topic_label": "POL-PIAZ: Vollendeter Schockanruf - Seniorin übergibt Goldschmuck und Goldmünzen im fünfstelligen Wert"
     },
+    "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
+          "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/110977/6298232"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
+      "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht"
+    },
     "title:pol-whv:-offentlichkeitsfahndung-nach-vermisster-person-aus-sande": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T20:12:42Z",
@@ -18819,6 +19738,41 @@
       "topic_key": "title:powell-acceptance-remarks",
       "topic_label": "Powell, Acceptance Remarks"
     },
+    "title:pp-elt:-40-fu-uberseecontainer-durch-windboe-ins-hafenbecken-geweht-worden": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T21:55:12Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:pp-elt:-40-fu-uberseecontainer-durch-windboe-ins-hafenbecken-geweht-worden",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
+          "topic_key": "title:pp-elt:-40-fu-uberseecontainer-durch-windboe-ins-hafenbecken-geweht-worden",
+          "topic_label": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117719/6298231"
+          ]
+        }
+      ],
+      "topic_key": "title:pp-elt:-40-fu-uberseecontainer-durch-windboe-ins-hafenbecken-geweht-worden",
+      "topic_label": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden"
+    },
     "title:prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-:-cerah": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 7.0,
@@ -18914,7 +19868,7 @@
     },
     "title:press-announcements-fda": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_seen_at": "2026-06-19T21:55:12Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -19014,6 +19968,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:press-announcements-fda",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T21-55-12Z",
+          "sample_id": "2026-06-19T21-55-12Z:title:press-announcements-fda",
+          "sample_index": 5939687,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T21:55:12Z",
           "topic_key": "title:press-announcements-fda",
           "topic_label": "Press Announcements | FDA",
           "trend_wucht": 2.0,

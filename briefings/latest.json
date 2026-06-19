@@ -2,12 +2,12 @@
   "counts": {
     "high": 0,
     "max_news_age_days": 14,
-    "medium": 2,
-    "new_relevant_findings": 18,
-    "observe": 16,
+    "medium": 0,
+    "new_relevant_findings": 20,
+    "observe": 20,
     "source_errors": 3,
-    "stale_removed": 6,
-    "today_file_total": 320
+    "stale_removed": 0,
+    "today_file_total": 335
   },
   "coverage": {
     "active_sensor_groups": {
@@ -20,17 +20,17 @@
       "social": 1
     },
     "counts": {
-      "findings": 18,
+      "findings": 20,
       "high": 0,
-      "medium": 2,
-      "observe": 16,
+      "medium": 0,
+      "observe": 20,
       "source_errors": 3
     },
     "coverage_confidence": "limited",
     "failed_sensor_groups": {
       "other": 3
     },
-    "generated_at": "2026-06-19T20:26:25Z",
+    "generated_at": "2026-06-19T21:55:12Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -45,9 +45,13 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "ca7dfa36cacbe02ff547",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "3b73a34a0be9ea0757b4",
       "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
         "ADM",
         "BG",
         "DE",
@@ -59,35 +63,80 @@
         "soy"
       ],
       "matched_keywords": [
-        "agriculture",
-        "food security",
-        "Russia",
-        "Security",
-        "Ukraine",
-        "Watchgraph:agriculture_food_fertilizer",
-        "wheat"
+        "active fire",
+        "MODIS",
+        "NASA FIRMS",
+        "VIIRS",
+        "Watchgraph:wildfire_heat_drought"
       ],
-      "published_at": "2026-06-19T19:52:32+00:00",
+      "published_at": "2026-06-17T14:24:34+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Security (+6.0); food security (+2.0); agriculture (+2.0); wheat (+2.0); Ukraine (+2.0); Russia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: wheat (+2.0)",
-      "relevance_score": 22,
+      "relevance_reason": "NASA FIRMS (+2.0); active fire (+2.0); VIIRS (+2.0); MODIS (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+      "relevance_score": 11,
       "risk_or_opportunity": "observation",
-      "source": "ReliefWeb Food Security Updates",
+      "source": "NASA FIRMS Active Fire Watch",
       "source_bias_class": "normal",
       "source_type": "webpage_check",
-      "summary": "Updates containing food security agriculture Ukraine Russia wheat",
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+      "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
+      "title": "NASA | LANCE | FIRMS",
+      "url": "https://firms.modaps.eosdis.nasa.gov/",
       "watchgraph_modules": [
-        "agriculture_food_fertilizer"
+        "wildfire_heat_drought"
       ],
       "watchgraph_reasons": [
-        "agriculture_food_fertilizer: wheat"
+        "wildfire_heat_drought: active fire"
       ]
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "187ddae3efdd9fb9019f",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "ea0862d344a9f1b1075a",
+      "market_context": [],
+      "matched_keywords": [
+        "Blaulicht",
+        "police",
+        "Polizei",
+        "Unfall"
+      ],
+      "published_at": "2026-06-19T20:22:28+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+      "relevance_score": 10,
+      "risk_or_opportunity": "observation",
+      "source": "Presseportal Police RSS",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
+      "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+      "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "7c8f5da27282d41fe725",
+      "market_context": [],
+      "matched_keywords": [
+        "Blaulicht",
+        "Brand",
+        "police"
+      ],
+      "published_at": "2026-06-19T21:18:48+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "source": "Presseportal Police RSS",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
+      "title": "FW Stockach: Küchenbrand",
+      "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "5c1f5b479e50f2250fdc",
       "market_context": [
         "MUV2.DE",
         "SREN.SW",
@@ -102,25 +151,20 @@
       ],
       "matched_keywords": [
         "earthquake",
-        "General Santos",
-        "Glan",
-        "Mindanao",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "published_at": "2026-06-19T20:23:19+00:00",
+      "published_at": "2026-06-19T20:44:50+00:00",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "relevance_score": 18,
+      "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 8,
       "risk_or_opportunity": "risk",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "signal_class": "raw_disaster_signal",
+      "source": "GDACS All Events Last 24h",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
+      "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
@@ -129,103 +173,211 @@
       ]
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "d322bbbfe08e0725ab4e",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "292f69ce4d05a438c6ea",
       "market_context": [],
       "matched_keywords": [
-        "Security"
+        "Blaulicht",
+        "Brand",
+        "police"
       ],
-      "published_at": "2026-06-19T20:25:02+00:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "published_at": "2026-06-19T20:34:09+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
       "relevance_score": 8,
-      "risk_or_opportunity": "risk",
-      "source": "BleepingComputer Security",
+      "risk_or_opportunity": "observation",
+      "source": "Presseportal Police RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
+      "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+      "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "248a96029b736f66d4a7",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "4da0a8c2dee19a2e6c1d",
       "market_context": [],
       "matched_keywords": [
         "Blaulicht",
         "police",
-        "Polizei"
+        "Unfall"
       ],
-      "published_at": "2026-06-19T19:46:46+00:00",
+      "published_at": "2026-06-19T20:33:22+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "source": "Presseportal Police RSS",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
+      "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+      "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "2e20aebfe53ab155c933",
+      "market_context": [],
+      "matched_keywords": [
+        "Blaulicht",
+        "police",
+        "Unfall"
+      ],
+      "published_at": "2026-06-19T20:30:01+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "source": "Presseportal Police RSS",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
+      "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
+      "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "9b106898ad9ef98692fb",
+      "market_context": [],
+      "matched_keywords": [
+        "Blaulicht",
+        "Brand",
+        "police"
+      ],
+      "published_at": "2026-06-19T20:25:43+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "source": "Presseportal Police RSS",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
+      "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
+      "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "9af1714a8d31b7f2d030",
+      "market_context": [],
+      "matched_keywords": [
+        "AI",
+        "Hatena",
+        "hotentry"
+      ],
+      "published_at": "2026-06-18T22:10:31+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
+      "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "02cd81298b8e6712a69d",
+      "market_context": [],
+      "matched_keywords": [
+        "Blaulicht",
+        "Einsatz",
+        "police"
+      ],
+      "published_at": "2026-06-19T21:08:36+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
       "relevance_score": 7,
       "risk_or_opportunity": "observation",
       "source": "Presseportal Police RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Wiesbaden (ots) - (Sc) Die Autobahnpolizei Wiesbaden konnte am frühen Freitagabend des 19.06.2026 um 19:47 Uhr einen Falschfahrer auf der A671, Richtungsfahrbahn Mainz bei Mainz-Kastel stellen. Am 19.06.2026 um 19:47 Uhr gingen erste Meldungen ...",
-      "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-      "url": "https://www.presseportal.de/blaulicht/pm/62288/6298230",
+      "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
+      "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+      "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "1703bed582a3aec11092",
-      "market_context": [],
-      "matched_keywords": [
-        "CJEU",
-        "CURIA",
-        "Webentwicklung"
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "80711460477a656ae4f5",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "published_at": "2026-06-16T07:56:53+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Webentwicklung (+3.0); CJEU (+2.0); CURIA (+2.0)",
-      "relevance_score": 7,
-      "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
-      "source_bias_class": "normal",
+      "matched_keywords": [
+        "earthquake",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "published_at": "2026-06-19T21:26:11.040+00:00",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 6,
+      "risk_or_opportunity": "risk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_bias_class": "disaster",
       "source_type": "rss",
-      "summary": "C-188/24 WebGroup Czech Republic und NKL Associates sowie C-190/24 Coyote System Freizügigkeit Dienste der Informationsgesellschaft: Die Mitgliedstaaten können die Überprüfung des Alters der Nutzer pornografischer Websites verlangen und die Weiterverbreitung von Informationen über bestimmte Verkehrskontrollen in ihrem Hoheitsgebiet untersagen",
-      "title": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084550",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
+      "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ]
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "78acbc54cd248525cdcb",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "f7e9dc040efb89d7e7c2",
       "market_context": [],
       "matched_keywords": [
-        "USDA",
-        "WASDE"
+        "Hatena",
+        "hotentry"
       ],
-      "published_at": "2026-06-18T02:25:35+00:00",
+      "published_at": "2026-06-19T07:31:54+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "USDA (+2.5); WASDE (+2.5); recent (+1.0)",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
       "relevance_score": 6,
       "risk_or_opportunity": "observation",
-      "source": "USDA WASDE Report",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB).",
-      "title": "WASDE Report | USDA",
-      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report",
+      "source_type": "rss",
+      "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+      "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "ed2d58066438414f5cbb",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "51e7e79336cfc5930945",
       "market_context": [],
       "matched_keywords": [
         "climate",
         "WMO"
       ],
-      "published_at": "2026-06-19T20:25:12+00:00",
+      "published_at": "2026-06-19T21:53:55+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "WMO (+2.0); climate (+2.0); recent (+1.0)",
       "relevance_score": 5,
@@ -240,14 +392,14 @@
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "2aaf2c223a18dc2e67df",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "68632edb87a2c1ecdebe",
       "market_context": [],
       "matched_keywords": [
         "Blaulicht",
         "police"
       ],
-      "published_at": "2026-06-19T19:44:47+00:00",
+      "published_at": "2026-06-19T21:10:13+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
       "relevance_score": 5,
@@ -255,107 +407,130 @@
       "source": "Presseportal Police RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Koblenz (ots) - Aufgrund der aktuellen Wetterprognosen für das Stadtgebiet Koblenz trat der Koordinierungskreis der Veranstaltung \"Electronic Wine\" zusammen. Diesem gehören Vertreterinnen und Vertreter der Veranstaltungsleitung, des ...",
-      "title": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
-      "url": "https://www.presseportal.de/blaulicht/pm/117712/6298229",
+      "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
+      "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
+      "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "2eb10bab82a0d103a5ba",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "b88dbe94c97b41f2215a",
       "market_context": [],
       "matched_keywords": [
-        "CJEU",
-        "CURIA"
+        "Blaulicht",
+        "police"
       ],
-      "published_at": "2026-06-18T08:00:29+00:00",
+      "published_at": "2026-06-19T21:05:16+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
       "relevance_score": 5,
       "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
+      "source": "Presseportal Police RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Ministero della Difesa (Impfpflicht der Militärangehörigen) Sozialpolitik Die auf das Militärpersonal beschränkte Impfpflicht gegen das SARS-CoV-2-Virus stellt keine Diskriminierung im Sinne des Unionsrechts dar",
-      "title": "90/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-522/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084644",
+      "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
+      "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
+      "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "49ba3ed2dcd4b38b159e",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "87ce34532060f49b0e5f",
       "market_context": [],
       "matched_keywords": [
-        "CJEU",
-        "CURIA"
+        "Blaulicht",
+        "police"
       ],
-      "published_at": "2026-06-18T07:49:40+00:00",
+      "published_at": "2026-06-19T20:58:27+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
       "relevance_score": 5,
       "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
+      "source": "Presseportal Police RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "[Idziski] Raum der Freiheit, der Sicherheit und des Rechts Der Gerichtshof präzisiert die Vorschriften über die gerichtliche Zuständigkeit bei einer Verletzung von Persönlichkeitsrechten, die sich aus der Verbreitung einer Serie im Fernsehen mehrerer Mitgliedstaaten und im Internet ergibt",
-      "title": "88/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-232/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084631",
+      "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
+      "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
+      "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "51533002ba874c88e17e",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "d1d8ac84e48c9ae3fef3",
       "market_context": [],
       "matched_keywords": [
-        "CJEU",
-        "CURIA"
+        "Blaulicht",
+        "police"
       ],
-      "published_at": "2026-06-18T07:49:39+00:00",
+      "published_at": "2026-06-19T19:54:52+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
       "relevance_score": 5,
       "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
+      "source": "Presseportal Police RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Penny Market Niederlassungsfreiheit Lebensmittelhandel: Die ungarische Regelung, wonach große Händler zu Sonderangeboten verpflichtet sind, verstößt gegen das Unionsrecht",
-      "title": "89/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-658/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084630",
+      "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
+      "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
+      "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "c05e863a6c6ff986f19f",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "9567d6d361208fcf0d6e",
       "market_context": [],
       "matched_keywords": [
-        "ReliefWeb"
+        "Hatena",
+        "hotentry"
       ],
-      "published_at": "2026-06-19T20:17:42+00:00",
+      "published_at": "2026-06-19T08:40:23+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "ReliefWeb (+2.5); recent (+1.0)",
-      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
       "risk_or_opportunity": "observation",
-      "source": "ReliefWeb RSS Reference",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "Help - Subscribe to RSS feeds",
-      "title": "Subscribe to RSS feeds | ReliefWeb",
-      "url": "https://reliefweb.int/rss",
+      "source_type": "rss",
+      "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+      "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "f021105f0a590d9a6513",
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "cc56a9915a8774ebe473",
+      "market_context": [],
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "published_at": "2026-06-19T07:54:51+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "risk_or_opportunity": "observation",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+      "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T21:51:09+00:00",
+      "id": "f8862e0e343110c8f596",
       "market_context": [],
       "matched_keywords": [
         "FDA"
       ],
-      "published_at": "2026-06-19T19:30:15+00:00",
+      "published_at": "2026-06-19T21:22:44+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "FDA (+2.5); recent (+1.0)",
       "relevance_score": 4,
@@ -368,121 +543,12 @@
       "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "27efd44f04d1302a43a7",
-      "market_context": [],
-      "matched_keywords": [
-        "CJEU",
-        "CURIA"
-      ],
-      "published_at": "2026-06-11T08:08:36+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-      "relevance_score": 4,
-      "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "C-631/24 P Kommission/Auken u. a. und C-632/24 P Kommission/Courtois u. a. Generalanwalt Rantos: Die Kommission hat der Öffentlichkeit keinen ausreichend umfassenden Zugang zu den Verträgen über den Kauf von Covid-19-Impfstoffen gewährt",
-      "title": "86/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge des Generalanwalts in den Rechtssachen",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084427",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "204bd79c009ebebbc34e",
-      "market_context": [],
-      "matched_keywords": [
-        "CJEU",
-        "CURIA"
-      ],
-      "published_at": "2026-06-11T08:08:36+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-      "relevance_score": 4,
-      "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "[Comeri und Sidilli] Raum der Freiheit, der Sicherheit und des Rechts Generalanwältin Medina: Bei der Ausübung ihrer Zuständigkeit für die Errichtung von Abschiebungshafteinrichtungen auch außerhalb der EU bleiben die Mitgliedstaaten verpflichtet, die im EU-Asylrecht vorgesehenen Garantien einzuhalten",
-      "title": "85/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge der Generalanwältin in den verbundenen Rechtssachen C-706/25 und C-707/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084428",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "7bf07d486b1d5c7e9e98",
-      "market_context": [],
-      "matched_keywords": [
-        "CJEU",
-        "CURIA"
-      ],
-      "published_at": "2026-06-11T07:57:00+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-      "relevance_score": 4,
-      "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "T-1097/23 Vivendi/Commission and T-1119/23 Lagardère/Commission Wettbewerb Wettbewerb: Die Kommission kann unter bestimmten Voraussetzungen die Übermittlung von Dokumenten verlangen, die auf für berufliche Zwecke genutzten privaten Kommunikationsgeräten gespeichert sind",
-      "title": "83/Thu Jun 11 00:00:00 CEST 2026 : Wed Jun 17 10:05:00 CEST 2026 - Urteil des Gerichts in der Rechtssache T-1119/23",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084577",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "409656025ca7c0918bda",
-      "market_context": [],
-      "matched_keywords": [
-        "CJEU",
-        "CURIA"
-      ],
-      "published_at": "2026-06-11T07:56:59+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-      "relevance_score": 4,
-      "risk_or_opportunity": "observation",
-      "source": "CJEU CURIA Press RSS DE EN",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "[Jenec] Rechtsangleichung Bankdienstleistungen: Die Eintragung in eine Sanktionsliste der USA reicht für sich genommen nicht aus, um die Eröffnung eines Kontos abzulehnen",
-      "title": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-81/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084411",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T20:22:28+00:00",
-      "id": "6abecbf3bdd072857fb1",
-      "market_context": [],
-      "matched_keywords": [
-        "Ukraine"
-      ],
-      "published_at": "2026-06-19T19:51:12+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Ukraine (+2.0); recent (+1.0)",
-      "relevance_score": 3,
-      "risk_or_opportunity": "observation",
-      "source": "ReliefWeb Ukraine Updates",
-      "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "Updates containing Ukraine",
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Ukraine",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T20:26:24+00:00",
+  "generated_at": "2026-06-19T21:55:12+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T20:26:25Z",
+    "generated_at": "2026-06-19T21:55:12Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -509,11 +575,16 @@
   },
   "sections": {
     "high": [],
-    "medium": [
+    "medium": [],
+    "observe": [
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "ca7dfa36cacbe02ff547",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "3b73a34a0be9ea0757b4",
         "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
           "ADM",
           "BG",
           "DE",
@@ -525,35 +596,80 @@
           "soy"
         ],
         "matched_keywords": [
-          "agriculture",
-          "food security",
-          "Russia",
-          "Security",
-          "Ukraine",
-          "Watchgraph:agriculture_food_fertilizer",
-          "wheat"
+          "active fire",
+          "MODIS",
+          "NASA FIRMS",
+          "VIIRS",
+          "Watchgraph:wildfire_heat_drought"
         ],
-        "published_at": "2026-06-19T19:52:32+00:00",
+        "published_at": "2026-06-17T14:24:34+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Security (+6.0); food security (+2.0); agriculture (+2.0); wheat (+2.0); Ukraine (+2.0); Russia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: wheat (+2.0)",
-        "relevance_score": 22,
+        "relevance_reason": "NASA FIRMS (+2.0); active fire (+2.0); VIIRS (+2.0); MODIS (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 11,
         "risk_or_opportunity": "observation",
-        "source": "ReliefWeb Food Security Updates",
+        "source": "NASA FIRMS Active Fire Watch",
         "source_bias_class": "normal",
         "source_type": "webpage_check",
-        "summary": "Updates containing food security agriculture Ukraine Russia wheat",
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+        "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
+        "title": "NASA | LANCE | FIRMS",
+        "url": "https://firms.modaps.eosdis.nasa.gov/",
         "watchgraph_modules": [
-          "agriculture_food_fertilizer"
+          "wildfire_heat_drought"
         ],
         "watchgraph_reasons": [
-          "agriculture_food_fertilizer: wheat"
+          "wildfire_heat_drought: active fire"
         ]
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "187ddae3efdd9fb9019f",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "ea0862d344a9f1b1075a",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police",
+          "Polizei",
+          "Unfall"
+        ],
+        "published_at": "2026-06-19T20:22:28+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+        "relevance_score": 10,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
+        "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+        "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "7c8f5da27282d41fe725",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Brand",
+          "police"
+        ],
+        "published_at": "2026-06-19T21:18:48+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
+        "title": "FW Stockach: Küchenbrand",
+        "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "5c1f5b479e50f2250fdc",
         "market_context": [
           "MUV2.DE",
           "SREN.SW",
@@ -568,132 +684,233 @@
         ],
         "matched_keywords": [
           "earthquake",
-          "General Santos",
-          "Glan",
-          "Mindanao",
-          "recovery",
-          "relief",
-          "Sarangani",
           "Watchgraph:earthquakes_tsunami"
         ],
-        "published_at": "2026-06-19T20:23:19+00:00",
+        "published_at": "2026-06-19T20:44:50+00:00",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "relevance_score": 18,
+        "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 8,
         "risk_or_opportunity": "risk",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
+        "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
         "watchgraph_modules": [
           "earthquakes_tsunami"
         ],
         "watchgraph_reasons": [
           "earthquakes_tsunami: earthquake"
         ]
-      }
-    ],
-    "observe": [
+      },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "d322bbbfe08e0725ab4e",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "292f69ce4d05a438c6ea",
         "market_context": [],
         "matched_keywords": [
-          "Security"
+          "Blaulicht",
+          "Brand",
+          "police"
         ],
-        "published_at": "2026-06-19T20:25:02+00:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "Security (+7.5); recent (+1.0)",
+        "published_at": "2026-06-19T20:34:09+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
         "relevance_score": 8,
-        "risk_or_opportunity": "risk",
-        "source": "BleepingComputer Security",
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-        "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+        "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
+        "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "248a96029b736f66d4a7",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "4da0a8c2dee19a2e6c1d",
         "market_context": [],
         "matched_keywords": [
           "Blaulicht",
           "police",
-          "Polizei"
+          "Unfall"
         ],
-        "published_at": "2026-06-19T19:46:46+00:00",
+        "published_at": "2026-06-19T20:33:22+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
+        "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "2e20aebfe53ab155c933",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police",
+          "Unfall"
+        ],
+        "published_at": "2026-06-19T20:30:01+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
+        "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
+        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "9b106898ad9ef98692fb",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Brand",
+          "police"
+        ],
+        "published_at": "2026-06-19T20:25:43+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
+        "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
+        "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "9af1714a8d31b7f2d030",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-18T22:10:31+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
+        "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "02cd81298b8e6712a69d",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Einsatz",
+          "police"
+        ],
+        "published_at": "2026-06-19T21:08:36+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
         "relevance_score": 7,
         "risk_or_opportunity": "observation",
         "source": "Presseportal Police RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Wiesbaden (ots) - (Sc) Die Autobahnpolizei Wiesbaden konnte am frühen Freitagabend des 19.06.2026 um 19:47 Uhr einen Falschfahrer auf der A671, Richtungsfahrbahn Mainz bei Mainz-Kastel stellen. Am 19.06.2026 um 19:47 Uhr gingen erste Meldungen ...",
-        "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-        "url": "https://www.presseportal.de/blaulicht/pm/62288/6298230",
+        "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
+        "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+        "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "1703bed582a3aec11092",
-        "market_context": [],
-        "matched_keywords": [
-          "CJEU",
-          "CURIA",
-          "Webentwicklung"
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "80711460477a656ae4f5",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
         ],
-        "published_at": "2026-06-16T07:56:53+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Webentwicklung (+3.0); CJEU (+2.0); CURIA (+2.0)",
-        "relevance_score": 7,
-        "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
-        "source_bias_class": "normal",
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": "2026-06-19T21:26:11.040+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "risk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_bias_class": "disaster",
         "source_type": "rss",
-        "summary": "C-188/24 WebGroup Czech Republic und NKL Associates sowie C-190/24 Coyote System Freizügigkeit Dienste der Informationsgesellschaft: Die Mitgliedstaaten können die Überprüfung des Alters der Nutzer pornografischer Websites verlangen und die Weiterverbreitung von Informationen über bestimmte Verkehrskontrollen in ihrem Hoheitsgebiet untersagen",
-        "title": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084550",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
+        "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
+        "title": "M 5.1 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "78acbc54cd248525cdcb",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "f7e9dc040efb89d7e7c2",
         "market_context": [],
         "matched_keywords": [
-          "USDA",
-          "WASDE"
+          "Hatena",
+          "hotentry"
         ],
-        "published_at": "2026-06-18T02:25:35+00:00",
+        "published_at": "2026-06-19T07:31:54+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "USDA (+2.5); WASDE (+2.5); recent (+1.0)",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
         "relevance_score": 6,
         "risk_or_opportunity": "observation",
-        "source": "USDA WASDE Report",
+        "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB).",
-        "title": "WASDE Report | USDA",
-        "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report",
+        "source_type": "rss",
+        "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+        "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "ed2d58066438414f5cbb",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "51e7e79336cfc5930945",
         "market_context": [],
         "matched_keywords": [
           "climate",
           "WMO"
         ],
-        "published_at": "2026-06-19T20:25:12+00:00",
+        "published_at": "2026-06-19T21:53:55+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "WMO (+2.0); climate (+2.0); recent (+1.0)",
         "relevance_score": 5,
@@ -708,14 +925,14 @@
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "2aaf2c223a18dc2e67df",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "68632edb87a2c1ecdebe",
         "market_context": [],
         "matched_keywords": [
           "Blaulicht",
           "police"
         ],
-        "published_at": "2026-06-19T19:44:47+00:00",
+        "published_at": "2026-06-19T21:10:13+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
         "relevance_score": 5,
@@ -723,107 +940,130 @@
         "source": "Presseportal Police RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Koblenz (ots) - Aufgrund der aktuellen Wetterprognosen für das Stadtgebiet Koblenz trat der Koordinierungskreis der Veranstaltung \"Electronic Wine\" zusammen. Diesem gehören Vertreterinnen und Vertreter der Veranstaltungsleitung, des ...",
-        "title": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
-        "url": "https://www.presseportal.de/blaulicht/pm/117712/6298229",
+        "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
+        "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
+        "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "2eb10bab82a0d103a5ba",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "b88dbe94c97b41f2215a",
         "market_context": [],
         "matched_keywords": [
-          "CJEU",
-          "CURIA"
+          "Blaulicht",
+          "police"
         ],
-        "published_at": "2026-06-18T08:00:29+00:00",
+        "published_at": "2026-06-19T21:05:16+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
         "relevance_score": 5,
         "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
+        "source": "Presseportal Police RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Ministero della Difesa (Impfpflicht der Militärangehörigen) Sozialpolitik Die auf das Militärpersonal beschränkte Impfpflicht gegen das SARS-CoV-2-Virus stellt keine Diskriminierung im Sinne des Unionsrechts dar",
-        "title": "90/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-522/24",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084644",
+        "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
+        "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
+        "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "49ba3ed2dcd4b38b159e",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "87ce34532060f49b0e5f",
         "market_context": [],
         "matched_keywords": [
-          "CJEU",
-          "CURIA"
+          "Blaulicht",
+          "police"
         ],
-        "published_at": "2026-06-18T07:49:40+00:00",
+        "published_at": "2026-06-19T20:58:27+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
         "relevance_score": 5,
         "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
+        "source": "Presseportal Police RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "[Idziski] Raum der Freiheit, der Sicherheit und des Rechts Der Gerichtshof präzisiert die Vorschriften über die gerichtliche Zuständigkeit bei einer Verletzung von Persönlichkeitsrechten, die sich aus der Verbreitung einer Serie im Fernsehen mehrerer Mitgliedstaaten und im Internet ergibt",
-        "title": "88/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-232/25",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084631",
+        "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
+        "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
+        "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "51533002ba874c88e17e",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "d1d8ac84e48c9ae3fef3",
         "market_context": [],
         "matched_keywords": [
-          "CJEU",
-          "CURIA"
+          "Blaulicht",
+          "police"
         ],
-        "published_at": "2026-06-18T07:49:39+00:00",
+        "published_at": "2026-06-19T19:54:52+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
         "relevance_score": 5,
         "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
+        "source": "Presseportal Police RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Penny Market Niederlassungsfreiheit Lebensmittelhandel: Die ungarische Regelung, wonach große Händler zu Sonderangeboten verpflichtet sind, verstößt gegen das Unionsrecht",
-        "title": "89/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-658/24",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084630",
+        "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
+        "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
+        "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "c05e863a6c6ff986f19f",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "9567d6d361208fcf0d6e",
         "market_context": [],
         "matched_keywords": [
-          "ReliefWeb"
+          "Hatena",
+          "hotentry"
         ],
-        "published_at": "2026-06-19T20:17:42+00:00",
+        "published_at": "2026-06-19T08:40:23+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "ReliefWeb (+2.5); recent (+1.0)",
-        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
         "risk_or_opportunity": "observation",
-        "source": "ReliefWeb RSS Reference",
+        "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "Help - Subscribe to RSS feeds",
-        "title": "Subscribe to RSS feeds | ReliefWeb",
-        "url": "https://reliefweb.int/rss",
+        "source_type": "rss",
+        "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+        "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "f021105f0a590d9a6513",
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "cc56a9915a8774ebe473",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T07:54:51+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+        "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "f8862e0e343110c8f596",
         "market_context": [],
         "matched_keywords": [
           "FDA"
         ],
-        "published_at": "2026-06-19T19:30:15+00:00",
+        "published_at": "2026-06-19T21:22:44+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "FDA (+2.5); recent (+1.0)",
         "relevance_score": 4,
@@ -834,115 +1074,6 @@
         "summary": "Press Announcements",
         "title": "Press Announcements | FDA",
         "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "27efd44f04d1302a43a7",
-        "market_context": [],
-        "matched_keywords": [
-          "CJEU",
-          "CURIA"
-        ],
-        "published_at": "2026-06-11T08:08:36+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-        "relevance_score": 4,
-        "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "C-631/24 P Kommission/Auken u. a. und C-632/24 P Kommission/Courtois u. a. Generalanwalt Rantos: Die Kommission hat der Öffentlichkeit keinen ausreichend umfassenden Zugang zu den Verträgen über den Kauf von Covid-19-Impfstoffen gewährt",
-        "title": "86/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge des Generalanwalts in den Rechtssachen",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084427",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "204bd79c009ebebbc34e",
-        "market_context": [],
-        "matched_keywords": [
-          "CJEU",
-          "CURIA"
-        ],
-        "published_at": "2026-06-11T08:08:36+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-        "relevance_score": 4,
-        "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "[Comeri und Sidilli] Raum der Freiheit, der Sicherheit und des Rechts Generalanwältin Medina: Bei der Ausübung ihrer Zuständigkeit für die Errichtung von Abschiebungshafteinrichtungen auch außerhalb der EU bleiben die Mitgliedstaaten verpflichtet, die im EU-Asylrecht vorgesehenen Garantien einzuhalten",
-        "title": "85/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge der Generalanwältin in den verbundenen Rechtssachen C-706/25 und C-707/25",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084428",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "7bf07d486b1d5c7e9e98",
-        "market_context": [],
-        "matched_keywords": [
-          "CJEU",
-          "CURIA"
-        ],
-        "published_at": "2026-06-11T07:57:00+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-        "relevance_score": 4,
-        "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "T-1097/23 Vivendi/Commission and T-1119/23 Lagardère/Commission Wettbewerb Wettbewerb: Die Kommission kann unter bestimmten Voraussetzungen die Übermittlung von Dokumenten verlangen, die auf für berufliche Zwecke genutzten privaten Kommunikationsgeräten gespeichert sind",
-        "title": "83/Thu Jun 11 00:00:00 CEST 2026 : Wed Jun 17 10:05:00 CEST 2026 - Urteil des Gerichts in der Rechtssache T-1119/23",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084577",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "409656025ca7c0918bda",
-        "market_context": [],
-        "matched_keywords": [
-          "CJEU",
-          "CURIA"
-        ],
-        "published_at": "2026-06-11T07:56:59+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
-        "relevance_score": 4,
-        "risk_or_opportunity": "observation",
-        "source": "CJEU CURIA Press RSS DE EN",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "[Jenec] Rechtsangleichung Bankdienstleistungen: Die Eintragung in eine Sanktionsliste der USA reicht für sich genommen nicht aus, um die Eröffnung eines Kontos abzulehnen",
-        "title": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-81/24",
-        "url": "https://curia.europa.eu/site/jcms/p1_1000084411",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T20:22:28+00:00",
-        "id": "6abecbf3bdd072857fb1",
-        "market_context": [],
-        "matched_keywords": [
-          "Ukraine"
-        ],
-        "published_at": "2026-06-19T19:51:12+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Ukraine (+2.0); recent (+1.0)",
-        "relevance_score": 3,
-        "risk_or_opportunity": "observation",
-        "source": "ReliefWeb Ukraine Updates",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "Updates containing Ukraine",
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Ukraine",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -971,32 +1102,32 @@
   "under_observation": {
     "count": 6,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T20:26:25Z",
+    "generated_at": "2026-06-19T21:55:13Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 2,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 3,
+        "current_feed_signal_count": 6,
         "current_feed_signal_examples": [
           {
-            "score": 22,
-            "source": "ReliefWeb Food Security Updates",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
-          },
-          {
-            "score": 18,
-            "source": "ReliefWeb Mindanao Recovery Watch",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+            "score": 8,
+            "source": "GDACS All Events Last 24h",
+            "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
           },
           {
             "score": 8,
-            "source": "BleepingComputer Security",
-            "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+            "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html"
+          },
+          {
+            "score": 6,
+            "source": "USGS M4.5+ Earthquakes Past Hour",
+            "title": "M 5.1 - South Sandwich Islands region",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -1011,7 +1142,7 @@
         "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.",
         "window_hits": {
           "168h": {
-            "hit_count": 226,
+            "hit_count": 237,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1061,57 +1192,57 @@
             ]
           },
           "1h": {
-            "hit_count": 16,
+            "hit_count": 11,
             "matched_topics": [
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 52.4
+                "topic_key": "title:gmktec-ryzen-max-395-evo",
+                "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+                "trend_score": 15.53
               },
               {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.12
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 19.33
-              },
-              {
-                "bucket": "apac_signal",
+                "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "domain:www.nikkei.com",
-                "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
-                "trend_score": 16.53
+                "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
+                "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+                "trend_score": 13.53
               },
               {
-                "bucket": "security",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 15.53
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 13.43
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:outlook",
+                "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+                "trend_score": 13.22
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
+                "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+                "trend_score": 12.53
               }
             ]
           },
           "24h": {
-            "hit_count": 165,
+            "hit_count": 176,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1162,52 +1293,52 @@
             ]
           },
           "30m": {
-            "hit_count": 16,
+            "hit_count": 11,
             "matched_topics": [
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 53.23
+                "topic_key": "title:gmktec-ryzen-max-395-evo",
+                "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+                "trend_score": 16.36
               },
               {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.95
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 20.17
-              },
-              {
-                "bucket": "apac_signal",
+                "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "domain:www.nikkei.com",
-                "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
-                "trend_score": 17.36
+                "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
+                "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+                "trend_score": 14.36
               },
               {
-                "bucket": "security",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 16.36
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 14.26
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:outlook",
+                "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+                "trend_score": 14.05
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
+                "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+                "trend_score": 13.36
               }
             ]
           },
@@ -1221,7 +1352,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 67.21
+                "trend_score": 62.03
               },
               {
                 "bucket": "disaster_recovery",
@@ -1233,15 +1364,6 @@
                 "trend_score": 24.26
               },
               {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 19.52
-              },
-              {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
@@ -1251,18 +1373,27 @@
                 "trend_score": 18.71
               },
               {
-                "bucket": "agentic_devtools",
+                "bucket": "apac_signal",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "domain:www.nikkei.com",
+                "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
+                "trend_score": 15.9
+              },
+              {
+                "bucket": "security",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "github_repo:ju571nk/sigil",
-                "topic_label": "Ju571nK/sigil",
-                "trend_score": 16.3
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+                "trend_score": 14.9
               }
             ]
           },
           "72h": {
-            "hit_count": 226,
+            "hit_count": 237,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1312,7 +1443,7 @@
             ]
           },
           "8h": {
-            "hit_count": 47,
+            "hit_count": 48,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1321,7 +1452,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 71.72
+                "trend_score": 66.9
               },
               {
                 "bucket": "other",
@@ -1333,15 +1464,6 @@
                 "trend_score": 29.3
               },
               {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 24.71
-              },
-              {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
@@ -1351,63 +1473,72 @@
                 "trend_score": 24.52
               },
               {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-                "trend_score": 23.39
-              }
-            ]
-          },
-          "now": {
-            "hit_count": 5,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 59.82
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.9
-              },
-              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 17.0
+                "trend_score": 19.31
               },
               {
-                "bucket": "security",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "earthquake"
                 ],
-                "topic_key": "title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 5.0
+                "topic_key": "earthquake:japan:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
+                "trend_score": 18.6
+              }
+            ]
+          },
+          "now": {
+            "hit_count": 11,
+            "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:gmktec-ryzen-max-395-evo",
+                "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+                "trend_score": 26.0
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 24.8
               },
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 4.0
+                "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
+                "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+                "trend_score": 22.0
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+                "topic_label": "M 5.1 - South Sandwich Islands region",
+                "trend_score": 20.8
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:outlook",
+                "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+                "trend_score": 20.0
               }
             ]
           }
@@ -1415,25 +1546,25 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 3,
+        "current_feed_signal_count": 11,
         "current_feed_signal_examples": [
           {
-            "score": 7,
+            "score": 10,
             "source": "Presseportal Police RSS",
-            "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-            "url": "https://www.presseportal.de/blaulicht/pm/62288/6298230"
+            "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+            "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232"
           },
           {
-            "score": 5,
+            "score": 8,
             "source": "Presseportal Police RSS",
-            "title": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
-            "url": "https://www.presseportal.de/blaulicht/pm/117712/6298229"
+            "title": "FW Stockach: Küchenbrand",
+            "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241"
           },
           {
-            "score": 4,
-            "source": "CJEU CURIA Press RSS DE EN",
-            "title": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-81/24",
-            "url": "https://curia.europa.eu/site/jcms/p1_1000084411"
+            "score": 8,
+            "source": "Presseportal Police RSS",
+            "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+            "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236"
           }
         ],
         "do_not": "Kein Wahlbetrugsnarrativ ohne belastbare Belege verstärken.",
@@ -1448,7 +1579,7 @@
         "why": "Wahlverwaltungsfehler können sich in Infrastrukturvertrauenskrisen verwandeln; junge Protestkohorten und mögliche Zwangsräumung erhöhen Eskalationsrisiko.",
         "window_hits": {
           "168h": {
-            "hit_count": 78,
+            "hit_count": 89,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1465,8 +1596,8 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.27
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.63
               },
               {
                 "bucket": "other",
@@ -1501,7 +1632,7 @@
             ]
           },
           "1h": {
-            "hit_count": 18,
+            "hit_count": 12,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1509,16 +1640,16 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 32.92
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 24.82
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "police"
                 ],
-                "topic_key": "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
-                "topic_label": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig",
+                "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
                 "trend_score": 3.93
               },
               {
@@ -1526,8 +1657,8 @@
                 "matched_terms": [
                   "police"
                 ],
-                "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
-                "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum",
+                "topic_key": "title:fw-stockach:-kuchenbrand",
+                "topic_label": "FW Stockach: Küchenbrand",
                 "trend_score": 3.93
               },
               {
@@ -1535,23 +1666,24 @@
                 "matched_terms": [
                   "police"
                 ],
-                "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
-                "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
+                "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
+                "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
                 "trend_score": 3.93
               },
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "police"
+                  "police",
+                  "verletzte"
                 ],
-                "topic_key": "title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
-                "topic_label": "POL-BO: Vermisster Herner (52) tot aufgefunden",
+                "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
+                "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 57,
+            "hit_count": 68,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1568,8 +1700,8 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.33
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.72
               },
               {
                 "bucket": "other",
@@ -1602,7 +1734,7 @@
             ]
           },
           "30m": {
-            "hit_count": 18,
+            "hit_count": 12,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1610,8 +1742,59 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 34.59
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 25.65
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
+                "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 4.77
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
+                "topic_key": "title:fw-stockach:-kuchenbrand",
+                "topic_label": "FW Stockach: Küchenbrand",
+                "trend_score": 4.77
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
+                "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
+                "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+                "trend_score": 4.77
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police",
+                  "verletzte"
+                ],
+                "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
+                "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+                "trend_score": 4.77
+              }
+            ]
+          },
+          "4h": {
+            "hit_count": 29,
+            "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
+                "topic_key": "domain:www.presseportal.de",
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 32.24
               },
               {
                 "bucket": "other",
@@ -1620,7 +1803,7 @@
                 ],
                 "topic_key": "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
                 "topic_label": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig",
-                "trend_score": 4.77
+                "trend_score": 3.31
               },
               {
                 "bucket": "other",
@@ -1629,7 +1812,7 @@
                 ],
                 "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
                 "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum",
-                "trend_score": 4.77
+                "trend_score": 3.31
               },
               {
                 "bucket": "other",
@@ -1638,7 +1821,7 @@
                 ],
                 "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
                 "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
-                "trend_score": 4.77
+                "trend_score": 3.31
               },
               {
                 "bucket": "other",
@@ -1647,62 +1830,12 @@
                 ],
                 "topic_key": "title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
                 "topic_label": "POL-BO: Vermisster Herner (52) tot aufgefunden",
-                "trend_score": 4.77
-              }
-            ]
-          },
-          "4h": {
-            "hit_count": 21,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election"
-                ],
-                "topic_key": "domain:news.mongabay.com",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 39.81
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.67
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
-                "topic_label": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig",
-                "trend_score": 3.31
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
-                "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum",
-                "trend_score": 3.31
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
-                "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
                 "trend_score": 3.31
               }
             ]
           },
           "72h": {
-            "hit_count": 78,
+            "hit_count": 89,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1719,8 +1852,8 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.28
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.65
               },
               {
                 "bucket": "other",
@@ -1755,7 +1888,7 @@
             ]
           },
           "8h": {
-            "hit_count": 21,
+            "hit_count": 32,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1772,8 +1905,8 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.47
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.92
               },
               {
                 "bucket": "other",
@@ -1805,7 +1938,7 @@
             ]
           },
           "now": {
-            "hit_count": 3,
+            "hit_count": 12,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1813,16 +1946,16 @@
                   "police"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 10.5
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 32.5
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "police"
                 ],
-                "topic_key": "title:pol-wi:-falschfahrer-auf-der-a671-richtung-mainz-gestellt",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+                "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
                 "trend_score": 2.0
               },
               {
@@ -1830,8 +1963,27 @@
                 "matched_terms": [
                   "police"
                 ],
-                "topic_key": "title:pol-pdko:-unwetter-in-koblenz-erfordert-absage-des-electronic-wine-festivals-und-raumung-der-ver",
-                "topic_label": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
+                "topic_key": "title:fw-stockach:-kuchenbrand",
+                "topic_label": "FW Stockach: Küchenbrand",
+                "trend_score": 2.0
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
+                "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
+                "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+                "trend_score": 2.0
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police",
+                  "verletzte"
+                ],
+                "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
+                "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
                 "trend_score": 2.0
               }
             ]
@@ -1840,21 +1992,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
-        "current_feed_signal_examples": [
-          {
-            "score": 22,
-            "source": "ReliefWeb Food Security Updates",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
-          },
-          {
-            "score": 8,
-            "source": "BleepingComputer Security",
-            "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "APAC nicht als China-Beifang behandeln.",
         "id": "apac_tech_social_trend_mesh",
         "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
@@ -1918,54 +2057,8 @@
             ]
           },
           "1h": {
-            "hit_count": 11,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 52.4
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "japan"
-                ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 19.33
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 15.53
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "japan"
-                ],
-                "topic_key": "earthquake:japan:4.9",
-                "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
-                "trend_score": 13.43
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "philippines"
-                ],
-                "topic_key": "earthquake:philippines:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
-                "trend_score": 13.43
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
             "hit_count": 141,
@@ -2019,6 +2112,10 @@
             ]
           },
           "30m": {
+            "hit_count": 0,
+            "matched_topics": []
+          },
+          "4h": {
             "hit_count": 11,
             "matched_topics": [
               {
@@ -2028,66 +2125,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 53.23
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "japan"
-                ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 20.17
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 16.36
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "japan"
-                ],
-                "topic_key": "earthquake:japan:4.9",
-                "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
-                "trend_score": 14.26
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "philippines"
-                ],
-                "topic_key": "earthquake:philippines:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
-                "trend_score": 14.26
-              }
-            ]
-          },
-          "4h": {
-            "hit_count": 20,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 67.21
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 19.52
+                "trend_score": 62.03
               },
               {
                 "bucket": "disaster_recovery",
@@ -2099,24 +2137,31 @@
                 "trend_score": 18.71
               },
               {
-                "bucket": "agentic_devtools",
+                "bucket": "security",
                 "matched_terms": [
-                  "security",
-                  "devtools"
+                  "security"
                 ],
-                "topic_key": "github_repo:ju571nk/sigil",
-                "topic_label": "Ju571nK/sigil",
-                "trend_score": 16.3
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+                "trend_score": 14.9
               },
               {
-                "bucket": "single_platform_devtools",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "platform",
-                  "devtools"
+                  "japan"
                 ],
-                "topic_key": "title:credits-consumed-per-user-now-copilot-usage-metrics",
-                "topic_label": "AI credits consumed per user now in the Copilot usage metrics API",
-                "trend_score": 14.9
+                "topic_key": "earthquake:japan:4.9",
+                "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
+                "trend_score": 12.8
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "philippines"
+                ],
+                "topic_key": "earthquake:philippines:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
+                "trend_score": 12.8
               }
             ]
           },
@@ -2172,7 +2217,7 @@
             ]
           },
           "8h": {
-            "hit_count": 30,
+            "hit_count": 21,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2181,16 +2226,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 71.72
-              },
-              {
-                "bucket": "market_product",
-                "matched_terms": [
-                  "startup"
-                ],
-                "topic_key": "title:momentum-without-maturity-southeast-asia-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
-                "trend_score": 32.3
+                "trend_score": 66.9
               },
               {
                 "bucket": "security",
@@ -2199,7 +2235,7 @@
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 24.71
+                "trend_score": 19.31
               },
               {
                 "bucket": "disaster_recovery",
@@ -2219,49 +2255,22 @@
                 "topic_key": "github_repo:ju571nk/sigil",
                 "topic_label": "Ju571nK/sigil",
                 "trend_score": 16.2
+              },
+              {
+                "bucket": "single_platform_devtools",
+                "matched_terms": [
+                  "platform",
+                  "devtools"
+                ],
+                "topic_key": "title:credits-consumed-per-user-now-copilot-usage-metrics",
+                "topic_label": "AI credits consumed per user now in the Copilot usage metrics API",
+                "trend_score": 14.8
               }
             ]
           },
           "now": {
-            "hit_count": 4,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 59.82
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 17.0
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 5.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 4.0
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           }
         }
       },
@@ -2270,16 +2279,16 @@
         "current_feed_signal_count": 2,
         "current_feed_signal_examples": [
           {
-            "score": 22,
-            "source": "ReliefWeb Food Security Updates",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat"
+            "score": 11,
+            "source": "NASA FIRMS Active Fire Watch",
+            "title": "NASA | LANCE | FIRMS",
+            "url": "https://firms.modaps.eosdis.nasa.gov/"
           },
           {
             "score": 8,
-            "source": "BleepingComputer Security",
-            "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
+            "source": "GDACS All Events Last 24h",
+            "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
           }
         ],
         "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
@@ -2294,7 +2303,7 @@
         "why": "Afrika und Südamerika sind bei Tech-, Infrastruktur-, Klima-, Energie-, Zahlungs- und Plattformthemen nicht zu unterschätzen; westliche Feeds blenden sie oft aus.",
         "window_hits": {
           "168h": {
-            "hit_count": 106,
+            "hit_count": 108,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2344,57 +2353,30 @@
             ]
           },
           "1h": {
-            "hit_count": 6,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "chile"
                 ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 52.4
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 13.43
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "colombia"
+                  "chile"
                 ],
-                "topic_key": "domain:news.mongabay.com",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 25.03
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 15.53
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 6.44
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "colombia"
-                ],
-                "topic_key": "title:death-and-exile:-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
+                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 79,
+            "hit_count": 81,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2444,57 +2426,30 @@
             ]
           },
           "30m": {
-            "hit_count": 6,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "chile"
                 ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 53.23
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 14.26
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "colombia"
+                  "chile"
                 ],
-                "topic_key": "domain:news.mongabay.com",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 25.86
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 16.36
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 7.28
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "colombia"
-                ],
-                "topic_key": "title:death-and-exile:-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
+                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 14,
+            "hit_count": 8,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2503,7 +2458,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 67.21
+                "trend_score": 62.03
               },
               {
                 "bucket": "other",
@@ -2512,7 +2467,7 @@
                 ],
                 "topic_key": "domain:news.mongabay.com",
                 "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 39.81
+                "trend_score": 24.4
               },
               {
                 "bucket": "security",
@@ -2521,16 +2476,16 @@
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 19.52
+                "trend_score": 14.9
               },
               {
-                "bucket": "agentic_devtools",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "chile"
                 ],
-                "topic_key": "github_repo:ju571nk/sigil",
-                "topic_label": "Ju571nK/sigil",
-                "trend_score": 16.3
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 12.8
               },
               {
                 "bucket": "other",
@@ -2544,7 +2499,7 @@
             ]
           },
           "72h": {
-            "hit_count": 106,
+            "hit_count": 108,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2594,7 +2549,7 @@
             ]
           },
           "8h": {
-            "hit_count": 17,
+            "hit_count": 16,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2603,7 +2558,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 71.72
+                "trend_score": 66.9
               },
               {
                 "bucket": "other",
@@ -2621,7 +2576,7 @@
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 24.71
+                "trend_score": 19.31
               },
               {
                 "bucket": "agentic_devtools",
@@ -2633,54 +2588,36 @@
                 "trend_score": 16.2
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "chile"
                 ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 6.41
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 12.7
               }
             ]
           },
           "now": {
-            "hit_count": 4,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "chile"
                 ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 59.82
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 24.8
               },
               {
-                "bucket": "security",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "chile"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 17.0
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
                 "trend_score": 5.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 4.0
               }
             ]
           }
@@ -2688,25 +2625,25 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 6,
+        "current_feed_signal_count": 14,
         "current_feed_signal_examples": [
           {
-            "score": 18,
-            "source": "ReliefWeb Mindanao Recovery Watch",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
-          },
-          {
-            "score": 7,
+            "score": 10,
             "source": "Presseportal Police RSS",
-            "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-            "url": "https://www.presseportal.de/blaulicht/pm/62288/6298230"
+            "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+            "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232"
           },
           {
-            "score": 6,
-            "source": "USDA WASDE Report",
-            "title": "WASDE Report | USDA",
-            "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+            "score": 8,
+            "source": "Presseportal Police RSS",
+            "title": "FW Stockach: Küchenbrand",
+            "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241"
+          },
+          {
+            "score": 8,
+            "source": "GDACS All Events Last 24h",
+            "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
           }
         ],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
@@ -2721,7 +2658,7 @@
         "why": "Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben.",
         "window_hits": {
           "168h": {
-            "hit_count": 127,
+            "hit_count": 142,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2729,8 +2666,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.27
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.63
               },
               {
                 "bucket": "other",
@@ -2773,7 +2710,7 @@
             ]
           },
           "1h": {
-            "hit_count": 40,
+            "hit_count": 18,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2781,19 +2718,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 32.92
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "sarangani",
-                  "glan",
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.12
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 24.82
               },
               {
                 "bucket": "disaster_recovery",
@@ -2801,9 +2727,18 @@
                   "earthquake",
                   "port"
                 ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 19.33
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 13.43
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+                "topic_label": "M 5.1 - South Sandwich Islands region",
+                "trend_score": 11.43
               },
               {
                 "bucket": "other",
@@ -2812,21 +2747,21 @@
                 ],
                 "topic_key": "domain:wmo.int",
                 "topic_label": "News Portal",
-                "trend_score": 17.27
+                "trend_score": 10.03
               },
               {
-                "bucket": "market_product",
+                "bucket": "other",
                 "matched_terms": [
                   "port"
                 ],
-                "topic_key": "domain:www.usda.gov",
-                "topic_label": "WASDE Report | USDA",
-                "trend_score": 13.93
+                "topic_key": "title:news-portal",
+                "topic_label": "News Portal",
+                "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 78,
+            "hit_count": 93,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2834,8 +2769,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.33
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.72
               },
               {
                 "bucket": "other",
@@ -2878,7 +2813,7 @@
             ]
           },
           "30m": {
-            "hit_count": 40,
+            "hit_count": 18,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2886,19 +2821,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 34.59
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "sarangani",
-                  "glan",
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.95
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 25.65
               },
               {
                 "bucket": "disaster_recovery",
@@ -2906,9 +2830,18 @@
                   "earthquake",
                   "port"
                 ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 20.17
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 14.26
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+                "topic_label": "M 5.1 - South Sandwich Islands region",
+                "trend_score": 12.26
               },
               {
                 "bucket": "other",
@@ -2917,21 +2850,21 @@
                 ],
                 "topic_key": "domain:wmo.int",
                 "topic_label": "News Portal",
-                "trend_score": 18.93
+                "trend_score": 10.86
               },
               {
-                "bucket": "market_product",
+                "bucket": "other",
                 "matched_terms": [
                   "port"
                 ],
-                "topic_key": "domain:www.usda.gov",
-                "topic_label": "WASDE Report | USDA",
-                "trend_score": 14.76
+                "topic_key": "title:news-portal",
+                "topic_label": "News Portal",
+                "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 46,
+            "hit_count": 55,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2939,17 +2872,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.67
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.eia.gov",
-                "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
-                "trend_score": 27.31
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 32.24
               },
               {
                 "bucket": "disaster_recovery",
@@ -2963,15 +2887,6 @@
                 "trend_score": 24.26
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:wmo.int",
-                "topic_label": "News Portal",
-                "trend_score": 19.44
-              },
-              {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake",
@@ -2980,11 +2895,29 @@
                 "topic_key": "earthquake:japan:4.0",
                 "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
                 "trend_score": 18.71
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:wmo.int",
+                "topic_label": "News Portal",
+                "trend_score": 16.94
+              },
+              {
+                "bucket": "market_product",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:www.usda.gov",
+                "topic_label": "WASDE Report | USDA",
+                "trend_score": 16.82
               }
             ]
           },
           "72h": {
-            "hit_count": 127,
+            "hit_count": 142,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2992,8 +2925,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.28
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.65
               },
               {
                 "bucket": "other",
@@ -3036,7 +2969,7 @@
             ]
           },
           "8h": {
-            "hit_count": 51,
+            "hit_count": 63,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -3044,8 +2977,8 @@
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 31.47
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 31.92
               },
               {
                 "bucket": "other",
@@ -3055,15 +2988,6 @@
                 "topic_key": "domain:www.eia.gov",
                 "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
                 "trend_score": 27.2
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 24.71
               },
               {
                 "bucket": "disaster_recovery",
@@ -3077,49 +3001,56 @@
                 "trend_score": 24.52
               },
               {
+                "bucket": "other",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:wmo.int",
+                "topic_label": "News Portal",
+                "trend_score": 19.31
+              },
+              {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "sarangani",
-                  "glan",
-                  "earthquake"
+                  "earthquake",
+                  "port"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-                "trend_score": 23.39
+                "topic_key": "earthquake:japan:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
+                "trend_score": 18.6
               }
             ]
           },
           "now": {
-            "hit_count": 8,
+            "hit_count": 18,
             "matched_topics": [
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "sarangani",
-                  "glan",
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.9
-              },
-              {
-                "bucket": "market_product",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.usda.gov",
-                "topic_label": "WASDE Report | USDA",
-                "trend_score": 15.3
-              },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "port"
                 ],
                 "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 10.5
+                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+                "trend_score": 32.5
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake",
+                  "port"
+                ],
+                "topic_key": "earthquake:chile:4.0",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 24.8
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+                "topic_label": "M 5.1 - South Sandwich Islands region",
+                "trend_score": 20.8
               },
               {
                 "bucket": "other",
@@ -3131,13 +3062,14 @@
                 "trend_score": 8.5
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
+                  "earthquake",
                   "port"
                 ],
-                "topic_key": "title:pol-wi:-falschfahrer-auf-der-a671-richtung-mainz-gestellt",
-                "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-                "trend_score": 2.0
+                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
+                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+                "trend_score": 5.0
               }
             ]
           }
@@ -3209,27 +3141,8 @@
             ]
           },
           "1h": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "nav"
-                ],
-                "topic_key": "domain:www.ecdc.europa.eu",
-                "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
-                "trend_score": 19.43
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "nav"
-                ],
-                "topic_key": "title:mers-cov-worldwide-overview",
-                "topic_label": "MERS-CoV worldwide overview",
-                "trend_score": 3.93
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
             "hit_count": 9,
@@ -3282,40 +3195,12 @@
             ]
           },
           "30m": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "nav"
-                ],
-                "topic_key": "domain:www.ecdc.europa.eu",
-                "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
-                "trend_score": 20.27
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "nav"
-                ],
-                "topic_key": "title:mers-cov-worldwide-overview",
-                "topic_label": "MERS-CoV worldwide overview",
-                "trend_score": 4.77
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "4h": {
-            "hit_count": 5,
+            "hit_count": 2,
             "matched_topics": [
-              {
-                "bucket": "apac_signal",
-                "matched_terms": [
-                  "dividend"
-                ],
-                "topic_key": "domain:ecfr.eu",
-                "topic_label": "The art of the swarm: Systemic rivalry with China on European terms",
-                "trend_score": 36.61
-              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -3326,30 +3211,12 @@
                 "trend_score": 18.81
               },
               {
-                "bucket": "market_product",
-                "matched_terms": [
-                  "dividend"
-                ],
-                "topic_key": "title:after-ukraine:-the-peace-dividend-africa-does-not-want",
-                "topic_label": "After Ukraine: The peace dividend Africa does not want",
-                "trend_score": 3.31
-              },
-              {
                 "bucket": "other",
                 "matched_terms": [
                   "nav"
                 ],
                 "topic_key": "title:mers-cov-worldwide-overview",
                 "topic_label": "MERS-CoV worldwide overview",
-                "trend_score": 3.31
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "stretch"
-                ],
-                "topic_key": "title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary",
-                "topic_label": "Saudi parrotfish festival stretches scientific & traditional ecological knowledge (commentary)",
                 "trend_score": 3.31
               }
             ]

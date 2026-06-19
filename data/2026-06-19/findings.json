@@ -1579,8 +1579,8 @@
     "url": "https://firms.modaps.eosdis.nasa.gov/",
     "source": "NASA FIRMS Active Fire Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-17T14:24:27+00:00",
-    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "published_at": "2026-06-17T14:24:34+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
     "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
     "matched_keywords": [
       "active fire",
@@ -1614,7 +1614,7 @@
       "corn",
       "soy"
     ],
-    "id": "f7d536bbeaa8615e4d10"
+    "id": "3b73a34a0be9ea0757b4"
   },
   {
     "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
@@ -1842,6 +1842,29 @@
       "soy"
     ],
     "id": "366fdf4bc240ed5ddea5"
+  },
+  {
+    "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+    "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:22:28+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Polizei",
+      "Unfall"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea0862d344a9f1b1075a"
   },
   {
     "title": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -3178,6 +3201,152 @@
     "id": "a9e63fd619f62f6ddc7a"
   },
   {
+    "title": "FW Stockach: Küchenbrand",
+    "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:18:48+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Brand",
+      "police"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7c8f5da27282d41fe725"
+  },
+  {
+    "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:44:50+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5c1f5b479e50f2250fdc"
+  },
+  {
+    "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+    "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:34:09+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Brand",
+      "police"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "292f69ce4d05a438c6ea"
+  },
+  {
+    "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+    "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:33:22+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Unfall"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4da0a8c2dee19a2e6c1d"
+  },
+  {
+    "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
+    "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:30:01+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Unfall"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2e20aebfe53ab155c933"
+  },
+  {
+    "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
+    "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:25:43+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Brand",
+      "police"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9b106898ad9ef98692fb"
+  },
+  {
     "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
     "source": "BleepingComputer Security",
@@ -3561,6 +3730,28 @@
     "id": "396fcfa862b5f804326e"
   },
   {
+    "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:31:54+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f7e9dc040efb89d7e7c2"
+  },
+  {
     "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
     "url": "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -3666,6 +3857,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "03bd7eebc3f8270a1883"
+  },
+  {
+    "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T22:10:31+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9af1714a8d31b7f2d030"
   },
   {
     "title": "FW-M: Balkonbrand droht überzugreifen (Ludwigsvorstadt)",
@@ -3830,6 +4043,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7d86dab73c910c0e0a64"
+  },
+  {
+    "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+    "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:08:36+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Einsatz",
+      "police"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02cd81298b8e6712a69d"
   },
   {
     "title": "Dow Jones Top Markets Headlines at 3 PM ET : Brent Trades at Prewar Prices , Gas Falls Below $4 After Iran Deal Is Signed | BOE ...",
@@ -4689,6 +4924,42 @@
     "id": "8aecbb8459ea327d7f66"
   },
   {
+    "title": "M 5.1 - South Sandwich Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:26:11.040+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "80711460477a656ae4f5"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547508",
     "source": "GDACS All Events Last 24h",
@@ -5508,8 +5779,8 @@
     "url": "https://wmo.int/news",
     "source": "World Meteorological Organization News",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T20:25:12+00:00",
-    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "published_at": "2026-06-19T21:53:55+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
     "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
     "matched_keywords": [
       "climate",
@@ -5522,7 +5793,91 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "ed2d58066438414f5cbb"
+    "id": "51e7e79336cfc5930945"
+  },
+  {
+    "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
+    "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:10:13+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "68632edb87a2c1ecdebe"
+  },
+  {
+    "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
+    "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:05:16+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b88dbe94c97b41f2215a"
+  },
+  {
+    "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
+    "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:58:27+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "87ce34532060f49b0e5f"
+  },
+  {
+    "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
+    "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:54:52+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d1d8ac84e48c9ae3fef3"
   },
   {
     "title": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
@@ -5650,6 +6005,27 @@
     "id": "97068fdf9900f0308981"
   },
   {
+    "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T08:40:23+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9567d6d361208fcf0d6e"
+  },
+  {
     "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
     "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -5690,6 +6066,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bb187db2bd796e2109e1"
+  },
+  {
+    "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:54:51+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cc56a9915a8774ebe473"
   },
   {
     "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
@@ -7164,6 +7561,26 @@
     "id": "989eda5f7a6e388da40c"
   },
   {
+    "title": "Press Announcements | FDA",
+    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+    "source": "FDA Press Announcements",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T21:22:44+00:00",
+    "fetched_at": "2026-06-19T21:51:09+00:00",
+    "summary": "Press Announcements",
+    "matched_keywords": [
+      "FDA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "FDA (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f8862e0e343110c8f596"
+  },
+  {
     "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
     "url": "https://www.newsday.com/business/mortgages-interest-rates-economy-housing-real-estate-f40510",
     "source": "GDELT Macro Market Policy RSS",
@@ -7371,26 +7788,6 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d4099ffdf256f04873c9"
-  },
-  {
-    "title": "Press Announcements | FDA",
-    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
-    "source": "FDA Press Announcements",
-    "source_type": "webpage_check",
-    "published_at": "2026-06-19T19:30:15+00:00",
-    "fetched_at": "2026-06-19T20:22:28+00:00",
-    "summary": "Press Announcements",
-    "matched_keywords": [
-      "FDA"
-    ],
-    "relevance_score": 4,
-    "relevance_reason": "FDA (+2.5); recent (+1.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "f021105f0a590d9a6513"
   },
   {
     "title": "UN News | Global perspective Human stories",

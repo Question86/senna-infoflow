@@ -1,13 +1,1524 @@
 {
-  "cadence_minutes": 5,
-  "doc_type": "senna.trend_radar",
+  "doc_type": "senna.run_snapshot",
   "generated_at": "2026-06-19T21:55:12Z",
-  "notes": [
-    "Network clusters are included, so quality-gated-out signals still contribute to trend radar.",
-    "Single-source and single-platform signals remain visible but are bucketed.",
-    "CJK/non-Latin titles use stable hash/domain keys instead of title:unknown."
-  ],
-  "ranked_topics": [
+  "latest": {
+    "counts": {
+      "high": 0,
+      "max_news_age_days": 14,
+      "medium": 0,
+      "new_relevant_findings": 20,
+      "observe": 20,
+      "source_errors": 3,
+      "stale_removed": 0,
+      "today_file_total": 335
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 10,
+        "github": 5,
+        "macro_finance": 8,
+        "other": 53,
+        "public_health": 7,
+        "security": 10,
+        "social": 1
+      },
+      "counts": {
+        "findings": 20,
+        "high": 0,
+        "medium": 0,
+        "observe": 20,
+        "source_errors": 3
+      },
+      "coverage_confidence": "limited",
+      "failed_sensor_groups": {
+        "other": 3
+      },
+      "generated_at": "2026-06-19T21:55:12Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": [
+        "source_errors_present"
+      ]
+    },
+    "date": "2026-06-19",
+    "findings": [
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "3b73a34a0be9ea0757b4",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "matched_keywords": [
+          "active fire",
+          "MODIS",
+          "NASA FIRMS",
+          "VIIRS",
+          "Watchgraph:wildfire_heat_drought"
+        ],
+        "published_at": "2026-06-17T14:24:34+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "NASA FIRMS (+2.0); active fire (+2.0); VIIRS (+2.0); MODIS (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 11,
+        "risk_or_opportunity": "observation",
+        "source": "NASA FIRMS Active Fire Watch",
+        "source_bias_class": "normal",
+        "source_type": "webpage_check",
+        "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
+        "title": "NASA | LANCE | FIRMS",
+        "url": "https://firms.modaps.eosdis.nasa.gov/",
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ],
+        "watchgraph_reasons": [
+          "wildfire_heat_drought: active fire"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "ea0862d344a9f1b1075a",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police",
+          "Polizei",
+          "Unfall"
+        ],
+        "published_at": "2026-06-19T20:22:28+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+        "relevance_score": 10,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
+        "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+        "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "7c8f5da27282d41fe725",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Brand",
+          "police"
+        ],
+        "published_at": "2026-06-19T21:18:48+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
+        "title": "FW Stockach: Küchenbrand",
+        "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "5c1f5b479e50f2250fdc",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": "2026-06-19T20:44:50+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "risk",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
+        "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "292f69ce4d05a438c6ea",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Brand",
+          "police"
+        ],
+        "published_at": "2026-06-19T20:34:09+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
+        "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "4da0a8c2dee19a2e6c1d",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police",
+          "Unfall"
+        ],
+        "published_at": "2026-06-19T20:33:22+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
+        "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "2e20aebfe53ab155c933",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police",
+          "Unfall"
+        ],
+        "published_at": "2026-06-19T20:30:01+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
+        "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
+        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "9b106898ad9ef98692fb",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Brand",
+          "police"
+        ],
+        "published_at": "2026-06-19T20:25:43+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
+        "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
+        "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "9af1714a8d31b7f2d030",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-18T22:10:31+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
+        "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "02cd81298b8e6712a69d",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "Einsatz",
+          "police"
+        ],
+        "published_at": "2026-06-19T21:08:36+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
+        "relevance_score": 7,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
+        "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+        "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "80711460477a656ae4f5",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": "2026-06-19T21:26:11.040+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "risk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
+        "title": "M 5.1 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "f7e9dc040efb89d7e7c2",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T07:31:54+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
+        "relevance_score": 6,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+        "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "51e7e79336cfc5930945",
+        "market_context": [],
+        "matched_keywords": [
+          "climate",
+          "WMO"
+        ],
+        "published_at": "2026-06-19T21:53:55+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "WMO (+2.0); climate (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "World Meteorological Organization News",
+        "source_bias_class": "normal",
+        "source_type": "webpage_check",
+        "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
+        "title": "News Portal",
+        "url": "https://wmo.int/news",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "68632edb87a2c1ecdebe",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police"
+        ],
+        "published_at": "2026-06-19T21:10:13+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
+        "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
+        "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "b88dbe94c97b41f2215a",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police"
+        ],
+        "published_at": "2026-06-19T21:05:16+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
+        "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
+        "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "87ce34532060f49b0e5f",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police"
+        ],
+        "published_at": "2026-06-19T20:58:27+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
+        "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
+        "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "d1d8ac84e48c9ae3fef3",
+        "market_context": [],
+        "matched_keywords": [
+          "Blaulicht",
+          "police"
+        ],
+        "published_at": "2026-06-19T19:54:52+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Presseportal Police RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
+        "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
+        "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "9567d6d361208fcf0d6e",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T08:40:23+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+        "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "cc56a9915a8774ebe473",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T07:54:51+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+        "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T21:51:09+00:00",
+        "id": "f8862e0e343110c8f596",
+        "market_context": [],
+        "matched_keywords": [
+          "FDA"
+        ],
+        "published_at": "2026-06-19T21:22:44+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "FDA (+2.5); recent (+1.0)",
+        "relevance_score": 4,
+        "risk_or_opportunity": "observation",
+        "source": "FDA Press Announcements",
+        "source_bias_class": "normal",
+        "source_type": "webpage_check",
+        "summary": "Press Announcements",
+        "title": "Press Announcements | FDA",
+        "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      }
+    ],
+    "generated_at": "2026-06-19T21:55:12+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T21:55:12Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": [
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "3b73a34a0be9ea0757b4",
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "ADM",
+            "BG",
+            "DE",
+            "NTR",
+            "CF",
+            "MOS",
+            "wheat",
+            "corn",
+            "soy"
+          ],
+          "matched_keywords": [
+            "active fire",
+            "MODIS",
+            "NASA FIRMS",
+            "VIIRS",
+            "Watchgraph:wildfire_heat_drought"
+          ],
+          "published_at": "2026-06-17T14:24:34+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "NASA FIRMS (+2.0); active fire (+2.0); VIIRS (+2.0); MODIS (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+          "relevance_score": 11,
+          "risk_or_opportunity": "observation",
+          "source": "NASA FIRMS Active Fire Watch",
+          "source_bias_class": "normal",
+          "source_type": "webpage_check",
+          "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
+          "title": "NASA | LANCE | FIRMS",
+          "url": "https://firms.modaps.eosdis.nasa.gov/",
+          "watchgraph_modules": [
+            "wildfire_heat_drought"
+          ],
+          "watchgraph_reasons": [
+            "wildfire_heat_drought: active fire"
+          ]
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "ea0862d344a9f1b1075a",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police",
+            "Polizei",
+            "Unfall"
+          ],
+          "published_at": "2026-06-19T20:22:28+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+          "relevance_score": 10,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
+          "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+          "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "7c8f5da27282d41fe725",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "Brand",
+            "police"
+          ],
+          "published_at": "2026-06-19T21:18:48+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
+          "title": "FW Stockach: Küchenbrand",
+          "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "5c1f5b479e50f2250fdc",
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "published_at": "2026-06-19T20:44:50+00:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "risk",
+          "signal_class": "raw_disaster_signal",
+          "source": "GDACS All Events Last 24h",
+          "source_bias_class": "disaster",
+          "source_type": "rss",
+          "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
+          "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ]
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "292f69ce4d05a438c6ea",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "Brand",
+            "police"
+          ],
+          "published_at": "2026-06-19T20:34:09+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
+          "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
+          "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "4da0a8c2dee19a2e6c1d",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police",
+            "Unfall"
+          ],
+          "published_at": "2026-06-19T20:33:22+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
+          "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
+          "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "2e20aebfe53ab155c933",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police",
+            "Unfall"
+          ],
+          "published_at": "2026-06-19T20:30:01+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
+          "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
+          "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "9b106898ad9ef98692fb",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "Brand",
+            "police"
+          ],
+          "published_at": "2026-06-19T20:25:43+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
+          "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
+          "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "9af1714a8d31b7f2d030",
+          "market_context": [],
+          "matched_keywords": [
+            "AI",
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-18T22:10:31+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
+          "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "02cd81298b8e6712a69d",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "Einsatz",
+            "police"
+          ],
+          "published_at": "2026-06-19T21:08:36+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
+          "relevance_score": 7,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
+          "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+          "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "80711460477a656ae4f5",
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "published_at": "2026-06-19T21:26:11.040+00:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "relevance_score": 6,
+          "risk_or_opportunity": "risk",
+          "source": "USGS M4.5+ Earthquakes Past Hour",
+          "source_bias_class": "disaster",
+          "source_type": "rss",
+          "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
+          "title": "M 5.1 - South Sandwich Islands region",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ]
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "f7e9dc040efb89d7e7c2",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-19T07:31:54+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
+          "relevance_score": 6,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+          "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "51e7e79336cfc5930945",
+          "market_context": [],
+          "matched_keywords": [
+            "climate",
+            "WMO"
+          ],
+          "published_at": "2026-06-19T21:53:55+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "WMO (+2.0); climate (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "World Meteorological Organization News",
+          "source_bias_class": "normal",
+          "source_type": "webpage_check",
+          "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
+          "title": "News Portal",
+          "url": "https://wmo.int/news",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "68632edb87a2c1ecdebe",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police"
+          ],
+          "published_at": "2026-06-19T21:10:13+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
+          "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
+          "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "b88dbe94c97b41f2215a",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police"
+          ],
+          "published_at": "2026-06-19T21:05:16+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
+          "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
+          "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "87ce34532060f49b0e5f",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police"
+          ],
+          "published_at": "2026-06-19T20:58:27+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
+          "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
+          "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "d1d8ac84e48c9ae3fef3",
+          "market_context": [],
+          "matched_keywords": [
+            "Blaulicht",
+            "police"
+          ],
+          "published_at": "2026-06-19T19:54:52+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Presseportal Police RSS",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
+          "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
+          "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "9567d6d361208fcf0d6e",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-19T08:40:23+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+          "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "cc56a9915a8774ebe473",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-19T07:54:51+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+          "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T21:51:09+00:00",
+          "id": "f8862e0e343110c8f596",
+          "market_context": [],
+          "matched_keywords": [
+            "FDA"
+          ],
+          "published_at": "2026-06-19T21:22:44+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "FDA (+2.5); recent (+1.0)",
+          "relevance_score": 4,
+          "risk_or_opportunity": "observation",
+          "source": "FDA Press Announcements",
+          "source_bias_class": "normal",
+          "source_type": "webpage_check",
+          "summary": "Press Announcements",
+          "title": "Press Announcements | FDA",
+          "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        }
+      ]
+    },
+    "source_errors": [
+      {
+        "error": "401 Client Error: Unauthorized for url: https://apnews.com/index.rss",
+        "source_id": "ap_top_news_rss",
+        "source_name": "Associated Press Top News RSS",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.bverwg.de/rss/verhandlungstermine.rss",
+        "source_id": "bverwg_termine_rss",
+        "source_name": "Bundesverwaltungsgericht Termine RSS",
+        "source_type": "rss"
+      },
+      {
+        "error": "403 Client Error: Forbidden for url: https://www.msf.org/rss",
+        "source_id": "msf_rss_reference",
+        "source_name": "MSF RSS Reference",
+        "source_type": "webpage_check"
+      }
+    ]
+  },
+  "network": {
+    "clusters": [
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 11.55,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 11,
+        "first_seen_at": "2026-06-19T20:12:42+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "domain:www.presseportal.de",
+        "max_score": 10,
+        "momentum_bonus": 8.0,
+        "momentum_delta": 9,
+        "momentum_status": "increasing",
+        "network_score": 19.5,
+        "ranking_score": 19.5,
+        "raw_network_score": 60.1,
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Presseportal Police RSS"
+        ],
+        "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+        "urls": [
+          "https://www.presseportal.de/blaulicht/pm/110977/6298232",
+          "https://www.presseportal.de/blaulicht/pm/134581/6298241",
+          "https://www.presseportal.de/blaulicht/pm/108747/6298236",
+          "https://www.presseportal.de/blaulicht/pm/108747/6298235",
+          "https://www.presseportal.de/blaulicht/pm/108747/6298234",
+          "https://www.presseportal.de/blaulicht/pm/6013/6298233"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.6,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T17:44:38+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "domain:firms.modaps.eosdis.nasa.gov",
+        "max_score": 11,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.6,
+        "ranking_score": 15.6,
+        "raw_network_score": 16.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "NASA FIRMS Active Fire Watch"
+        ],
+        "title": "NASA | LANCE | FIRMS",
+        "urls": [
+          "https://firms.modaps.eosdis.nasa.gov/"
+        ],
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ]
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T21:55:12+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:gmktec-ryzen-max-395-evo",
+        "max_score": 8,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 12.0,
+        "ranking_score": 12.0,
+        "raw_network_score": 13.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+        "urls": [
+          "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T21:55:12+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:microsoft-mai-code-flash-code-github-copilot",
+        "max_score": 6,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 10.0,
+        "ranking_score": 10.0,
+        "raw_network_score": 11.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+        "urls": [
+          "https://forest.watch.impress.co.jp/docs/news/2118402.html"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 2.4,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "dominant_emitter": true,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T21:55:12+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "official",
+        "key": "earthquake:chile:4.0",
+        "max_score": 8,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.9,
+        "ranking_score": 9.9,
+        "raw_network_score": 13.7,
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "source_reach_score": 4.0,
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
+        ],
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ]
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T21:55:12+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
+        "max_score": 5,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "ranking_score": 9.0,
+        "raw_network_score": 10.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+        "urls": [
+          "https://forest.watch.impress.co.jp/docs/news/2118403.html"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T21:55:12+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:outlook",
+        "max_score": 5,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "ranking_score": 9.0,
+        "raw_network_score": 10.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+        "urls": [
+          "https://forest.watch.impress.co.jp/docs/news/2118405.html"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 2.4,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "dominant_emitter": true,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T21:55:12+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "official",
+        "key": "earthquake:m 5.1 - south sandwich islands region:5.1",
+        "max_score": 6,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 7.9,
+        "ranking_score": 7.9,
+        "raw_network_score": 11.7,
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "source_reach_score": 4.0,
+        "sources": [
+          "USGS M4.5+ Earthquakes Past Hour"
+        ],
+        "title": "M 5.1 - South Sandwich Islands region",
+        "urls": [
+          "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu"
+        ],
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ]
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T17:44:38+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "domain:wmo.int",
+        "max_score": 5,
+        "momentum_bonus": 0.0,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 6.5,
+        "ranking_score": 6.5,
+        "raw_network_score": 7.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "World Meteorological Organization News"
+        ],
+        "title": "News Portal",
+        "urls": [
+          "https://wmo.int/news"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T17:44:38+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "domain:www.fda.gov",
+        "max_score": 4,
+        "momentum_bonus": 0.0,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 5.5,
+        "ranking_score": 5.5,
+        "raw_network_score": 6.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "FDA Press Announcements"
+        ],
+        "title": "Press Announcements | FDA",
+        "urls": [
+          "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+        ],
+        "watchgraph_modules": []
+      }
+    ],
+    "counts": {
+      "clusters": 10,
+      "cross_source_confrmed": 0,
+      "dominance_penalized": 2,
+      "early_signals": 0,
+      "findings": 20,
+      "hot": 0
+    },
+    "generated_at": "2026-06-19T21:55:12+00:00",
+    "resonance_ranking": {
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms.",
+      "generated_at": "2026-06-19T21:55:12Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "schema_version": 1
+    },
+    "source": "briefings/latest.json"
+  },
+  "run_id": "2026-06-19T21-55-12Z",
+  "schema_version": 3,
+  "topic_samples": [
     {
       "bucket": "other",
       "mention_count": 11,
@@ -791,99 +2302,7 @@
       ]
     }
   ],
-  "run_id": "2026-06-19T21-55-12Z",
-  "schema_version": 3,
-  "under_observation_topics": [
-    {
-      "cadence": "routine",
-      "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
-      "id": "apac_japan_x_stormfront",
-      "region": "Japan, APAC",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "Japan X/Twitter Tech- und Event-Sturmfront",
-      "triggers": "Japan, Tokyo, 日本, 急上昇, Twitter, X, trend, viral, Hatena, AI, security, outage, launch, anime, game, earthquake, social velocity",
-      "update_rule": "Auch ohne neue Treffer mindestens im Routinebriefing anzeigen; bei bestätigter X/RSS-Brücke aktivieren.",
-      "watch": "Japanische Social-Velocity-Proxies, Hatena Hotentry IT, Google Trends Japan, GitHub-Suchen nach X/Twitter-Trend-RSS-/Aggregator-Tools, spätere stabile lawful X/RSS-Brücke.",
-      "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Kein Wahlbetrugsnarrativ ohne belastbare Belege verstärken.",
-      "id": "south_korea_election_infrastructure_stress",
-      "region": "South Korea, APAC",
-      "source": "Rechercheauftrag User Yps, 2026-06-19; fnnews/GDELT-Signal zur blockierten Auszählungsstelle",
-      "status": "active",
-      "title": "Südkorea Wahl-Infrastruktur und Protestvertrauen",
-      "triggers": "South Korea, Seoul, Korea, election, ballot, NEC, protest, polling station, vote counting, forced dispersal, police, democracy, infrastructure trust",
-      "update_rule": "Bei Reuters/AP/Yonhap/NEC-Bestätigung oder Räumungssignal hochziehen; sonst beobachtet lassen.",
-      "watch": "NEC-Untersuchung, Polizeiräumung, Verletzte, offizielle Parlaments-/Behördenentscheidungen, Seoul-Protestzahlen, Desinformation/Cyber-/Leak-Bezug.",
-      "why": "Wahlverwaltungsfehler können sich in Infrastrukturvertrauenskrisen verwandeln; junge Protestkohorten und mögliche Zwangsräumung erhöhen Eskalationsrisiko."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "APAC nicht als China-Beifang behandeln.",
-      "id": "apac_tech_social_trend_mesh",
-      "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "APAC Tech-/Social-Motoren außerhalb China",
-      "triggers": "Taiwan, TSMC, Thailand, Philippines, Vietnam, Korea, Japan, Singapore, Indonesia, India, startup, AI, platform, outage, security, developer tools",
-      "update_rule": "In Routineupdates als Coverage-Achse behalten; bei Mehrquellen-Signal in OBSERVE/MEDIUM hochziehen.",
-      "watch": "Regionale Trends, Tech-/Startup-Bewegung, Plattform-Ausfälle, KI-/Devtools, Halbleiter, Security, politische Plattformdynamik.",
-      "why": "Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
-      "id": "global_south_coverage_gap",
-      "region": "Africa, South America, LATAM",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "Global-South-Signalabdeckung Afrika und Südamerika",
-      "triggers": "Africa, Nigeria, Kenya, South Africa, Brazil, Argentina, Chile, Colombia, LATAM, fintech, mobile money, power outage, flood, drought, platform policy, cybersecurity",
-      "update_rule": "Quellenabdeckung schrittweise ausbauen; Feed-Stille hier niemals als Weltstille werten.",
-      "watch": "Tech-Ökosysteme, digitale Zahlungssysteme, Energie-/Netzausfälle, Klima-/Katastrophensignale, Plattformpolitik, Security, regionale Regulierung.",
-      "why": "Afrika und Südamerika sind bei Tech-, Infrastruktur-, Klima-, Energie-, Zahlungs- und Plattformthemen nicht zu unterschätzen; westliche Feeds blenden sie oft aus."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
-      "id": "mindanao_post_quake_recovery_hotspots",
-      "region": "Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19; öffentliche Lage nach Mw 7.8 Offshore-Sarangani/Mindanao-Erdbeben vom 2026-06-08",
-      "status": "active",
-      "title": "Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte",
-      "triggers": "Mindanao, Sarangani, Glan, Malapatan, Maasim, General Santos, GenSan, Davao Occidental, South Cotabato, SOCSCSKSARGEN, earthquake, aftershock, PHIVOLCS, tsunami, landslide, coastal uplift, hospital, water, sanitation, price freeze, insurance, real estate, rent, rebuilding, reconstruction, fisheries, fishery, tourism, port, airport, logistics, GSC, schools, bridge, road, power outage, telecom, aid distribution, monsoon",
-      "update_rule": "In Routineupdates mindestens als Unter-Beobachtung-Thema führen; hochziehen bei M5+ Nachbeben, neuen Todes-/Verletztenzahlen, Preis-/Versorgungsengpässen, Hafen-/Flughafen-/Krankenhausausfällen, Versicherungs-/Immobilienmeldungen, Wiederaufbauvertragsskandal, Krankheitsausbruch, Regenzeit-Folgeschäden oder starker lokaler Protest-/Aid-Distribution-Dynamik.",
-      "watch": "Nachbeben und PHIVOLCS-Lage, Glan und Sarangani-Landrutsche, General Santos City als Hafen-/Handels-/Versorgungsknoten, Krankenhäuser und Outdoor-Patientenversorgung, Trinkwasser/Sanitärversorgung, Lebensmittel/Baumaterial/Transportpreise, 60-Tage-Preisstopps und Marktumgehung, Versicherungs-/Schadensregulierung, Immobilienpreise/Mieten/Umsiedlung, Fischerei und Küstenökosysteme, Tourismus-Stornierungen, Schulen, Straßen/Brücken, Strom/Telekom, Häfen und maritime Infrastruktur, Wiederaufbauverträge, Korruptions-/Hilfsverteilungsrisiken, Landwirtschaft/Regenzeit/Monsoon, Küstenhebung/Tsunami-Folgen, mentale Gesundheit, Sicherheitslage und lokale Spannungen ohne Spekulation.",
-      "why": "Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Keine Tradingempfehlung. Keine anonyme X-These als Tatsache behandeln. Kein „Strategy muss Bitcoin verkaufen“ behaupten, solange es nicht durch Filing, offizielle Meldung oder belastbare Mehrquellenlage gestützt ist.",
-      "id": "strategy_strc_capital_structure_stress",
-      "region": "USA, Crypto Markets, Public Equities",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19; Bull Theory X-Hinweis vom 2026-06-18/19; öffentliche Strategy-/STRC-Marktdaten",
-      "status": "active",
-      "title": "Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop",
-      "triggers": "Strategy, MicroStrategy, MSTR, STRC, Stretch, STRF, STRK, STRD, preferred stock, perpetual preferred, par value, $100 par, dividend, 11.5%, 12%, yield, effective yield, VWAP, Bitcoin sale, sell Bitcoin, BTC treasury, Bitcoin treasury company, Saylor, ATM, dilution, cash reserve, dividend coverage, mNAV, NAV, treasury company, SATA, Strive",
-      "update_rule": "Hochziehen bei STRC <95, <90 oder <85; bei Dividendenerhöhung; bei offizieller Strategy-Meldung zu STRC/Preferred/ATM; bei Strategy-Bitcoin-Verkauf; bei glaubwürdiger Mehrquellen-Resonanz. X-only bleibt Frührauch, nicht Beweis.",
-      "watch": "STRC-Kurs relativ zu $100/$95/$90/$85, offizieller Strategy-STRC-Dividendensatz, STRC-VWAP, Effective Yield, MSTR-Kurs und mNAV/BTC-per-share-Narrativ, ATM-Emissionen, Bitcoin-Käufe/-Verkäufe durch Strategy, Cash-Reserve-Runway, STRC/STRF/STRK/STRD Stack, Konkurrenzprodukte wie SATA, Berichterstattung von CoinDesk, FT, Investors.com/IBD, The Block, Blocktrainer, Yahoo Finance, Nasdaq.",
-      "why": "STRC ist kein normaler Bitcoin-Preisindikator, sondern ein Stressmesser in Strategys Finanzierungsschicht. Wenn STRC deutlich unter dem $100-Par-Ziel handelt, signalisiert der Markt, dass die variable Dividende nicht reicht. Das kann Strategy beim Preferred-ATM, bei Bitcoin-Käufen, bei MSTR-Verwässerung und im Extrem bei Bitcoin-Verkäufen unter Druck setzen."
-    }
-  ],
-  "window_keys": [
-    "now",
-    "30m",
-    "1h",
-    "4h",
-    "8h",
-    "24h",
-    "72h",
-    "168h"
-  ],
-  "windows": {
+  "trend_windows": {
     "168h": {
       "buckets": {
         "agentic_devtools": {

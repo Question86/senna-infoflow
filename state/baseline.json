@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T20:26:25+00:00",
+  "generated_at": "2026-06-19T21:55:12+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -4471,17 +4471,18 @@
     },
     "domain:www.fda.gov": {
       "title": "Press Announcements | FDA",
-      "updated_at": "2026-06-19T20:26:25+00:00",
+      "updated_at": "2026-06-19T21:55:12+00:00",
       "network_scores": [
         26.2,
         20.2,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 14.65,
+      "rolling_average": 12.94,
       "rolling_peak": 26.2,
       "last_score": 6.1,
-      "z_hint": -8.55
+      "z_hint": -6.84
     },
     "domain:www.eia.gov": {
       "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
@@ -4551,16 +4552,17 @@
     },
     "domain:firms.modaps.eosdis.nasa.gov": {
       "title": "NASA | LANCE | FIRMS",
-      "updated_at": "2026-06-19T20:12:42+00:00",
+      "updated_at": "2026-06-19T21:55:12+00:00",
       "network_scores": [
         16.1,
         13.1,
-        13.1
+        13.1,
+        16.1
       ],
-      "rolling_average": 14.1,
+      "rolling_average": 14.6,
       "rolling_peak": 16.1,
-      "last_score": 13.1,
-      "z_hint": -1.0
+      "last_score": 16.1,
+      "z_hint": 1.5
     },
     "title:deepstatemap-map-war-ukraine": {
       "title": "DeepStateMAP | Map of the war in Ukraine",
@@ -4599,17 +4601,18 @@
     },
     "domain:wmo.int": {
       "title": "News Portal",
-      "updated_at": "2026-06-19T20:26:25+00:00",
+      "updated_at": "2026-06-19T21:55:12+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "domain:www.ema.europa.eu": {
       "title": "News | European Medicines Agency (EMA)",
@@ -4657,16 +4660,17 @@
       "z_hint": 0.0
     },
     "domain:www.presseportal.de": {
-      "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
-      "updated_at": "2026-06-19T20:26:25+00:00",
+      "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+      "updated_at": "2026-06-19T21:55:12+00:00",
       "network_scores": [
         132.3,
-        11.2
+        11.2,
+        60.1
       ],
-      "rolling_average": 71.75,
+      "rolling_average": 67.87,
       "rolling_peak": 132.3,
-      "last_score": 11.2,
-      "z_hint": -60.55
+      "last_score": 60.1,
+      "z_hint": -7.77
     },
     "domain:www.zoll.de": {
       "title": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen",
@@ -4787,6 +4791,72 @@
       "rolling_average": 47.8,
       "rolling_peak": 47.8,
       "last_score": 47.8,
+      "z_hint": 0.0
+    },
+    "earthquake:chile:4.0": {
+      "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
+      "updated_at": "2026-06-19T21:55:12+00:00",
+      "network_scores": [
+        13.7
+      ],
+      "rolling_average": 13.7,
+      "rolling_peak": 13.7,
+      "last_score": 13.7,
+      "z_hint": 0.0
+    },
+    "title:gmktec-ryzen-max-395-evo": {
+      "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+      "updated_at": "2026-06-19T21:55:12+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.1 - south sandwich islands region:5.1": {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "updated_at": "2026-06-19T21:55:12+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "title:microsoft-mai-code-flash-code-github-copilot": {
+      "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+      "updated_at": "2026-06-19T21:55:12+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation": {
+      "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+      "updated_at": "2026-06-19T21:55:12+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:outlook": {
+      "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
+      "updated_at": "2026-06-19T21:55:12+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }
