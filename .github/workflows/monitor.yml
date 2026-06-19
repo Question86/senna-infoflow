@@ -34,8 +34,7 @@ jobs:
         timeout-minutes: 1
         run: |
           python - <<'PY'
-          import json
-          import os
+          import json, os
           from datetime import datetime, timezone
           from pathlib import Path
           import yaml
@@ -49,8 +48,8 @@ jobs:
           base_path = Path("config/sources.yaml")
           base = load_yaml(base_path)
           base_sources = [
-              source for source in (base.get("sources") or [])
-              if isinstance(source, dict) and source.get("id")
+              s for s in (base.get("sources") or [])
+              if isinstance(s, dict) and s.get("id")
           ]
 
           controls = load_yaml("config/source_controls.yaml")
@@ -63,7 +62,7 @@ jobs:
 
           def upsert(source, prefer_front=False):
               sid = str(source.get("id") or "")
-              if not sid:
+              if not sid or sid in remove_ids:
                   return False
               existed = sid in sources_by_id
               sources_by_id[sid] = source
@@ -75,9 +74,7 @@ jobs:
               return existed
 
           for source in base_sources:
-              sid = str(source.get("id"))
-              if sid not in remove_ids:
-                  upsert(source)
+              upsert(source)
 
           event_name = os.getenv("GITHUB_EVENT_NAME", "")
           minute = datetime.now(timezone.utc).minute
@@ -98,15 +95,12 @@ jobs:
           for overlay_path, prefer_front in overlay_paths:
               overlay = load_yaml(overlay_path)
               sources = [
-                  source for source in (overlay.get("sources") or [])
-                  if isinstance(source, dict) and source.get("id")
+                  s for s in (overlay.get("sources") or [])
+                  if isinstance(s, dict) and s.get("id")
               ]
               accepted = 0
               replaced = 0
               for source in sources:
-                  sid = str(source.get("id"))
-                  if sid in remove_ids:
-                      continue
                   if upsert(source, prefer_front=prefer_front):
                       replaced += 1
                   accepted += 1
@@ -134,17 +128,12 @@ jobs:
 
           direct_overlay = load_yaml("config/official_direct_sources.yaml")
           direct_ids = [
-              str(source.get("id"))
-              for source in (direct_overlay.get("sources") or [])
-              if isinstance(source, dict)
-              and source.get("id")
-              and str(source.get("id")) in sources_by_id
+              str(s.get("id"))
+              for s in (direct_overlay.get("sources") or [])
+              if isinstance(s, dict) and s.get("id") and str(s.get("id")) in sources_by_id
           ]
           direct_set = set(direct_ids)
-          final_ids = direct_ids + [
-              sid for sid in order
-              if sid in sources_by_id and sid not in direct_set
-          ]
+          final_ids = direct_ids + [sid for sid in order if sid in sources_by_id and sid not in direct_set]
 
           base["sources"] = [sources_by_id[sid] for sid in final_ids]
           base.setdefault("meta", {})
@@ -157,10 +146,7 @@ jobs:
               "replaced_overlay_sources": replaced_count,
               "last_overlay_merge_utc": datetime.now(timezone.utc).isoformat(),
           }
-          base_path.write_text(
-              json.dumps(base, ensure_ascii=False, indent=2) + "\n",
-              encoding="utf-8",
-          )
+          base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
           print(f"Reset merged config with {len(base['sources'])} source definitions.")
           PY
 
@@ -179,6 +165,10 @@ jobs:
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 12
         run: python scripts/run_monitor_hardened.py
+
+      - name: Filter stale findings
+        timeout-minutes: 1
+        run: python scripts/stale_filter_postprocess.py
 
       - name: Debias finding scores
         timeout-minutes: 1
@@ -208,7 +198,7 @@ jobs:
         timeout-minutes: 1
         run: |
           git config user.name "senna-infoflow[bot]"
-          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
+          git config user.email "senna-inflow[bot]@users.noreply.github.com"
 
           git add data/ briefings/ reports/ state/ config/sources.yaml
 
