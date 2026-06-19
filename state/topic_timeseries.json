@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T15:58:18Z",
+  "generated_at": "2026-06-19T16:56:13Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -442,9 +442,9 @@
       "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」"
     },
     "domain:www.bleepingcomputer.com": {
-      "bucket": "agentic_devtools",
-      "last_seen_at": "2026-06-19T13:48:19Z",
-      "last_trend_wucht": 29.5,
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 18.0,
       "samples": [
         {
           "bucket": "other",
@@ -502,10 +502,38 @@
           "urls": [
             "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 16.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:domain:www.bleepingcomputer.com",
+          "sample_index": 5939627,
+          "score_delta_5m": -4.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "domain:www.bleepingcomputer.com",
+          "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses",
+          "trend_wucht": 18.0,
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/"
+          ]
         }
       ],
       "topic_key": "domain:www.bleepingcomputer.com",
-      "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way"
+      "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses"
     },
     "domain:www.ecb.europa.eu": {
       "bucket": "macro_policy",
@@ -589,6 +617,44 @@
       ],
       "topic_key": "domain:www.twcert.org",
       "topic_label": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰"
+    },
+    "earthquake:fiji 19:4.0": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 20.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 7.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:earthquake:fiji 19:4.0",
+          "sample_index": 5939627,
+          "score_delta_5m": 7.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "earthquake:fiji 19:4.0",
+          "topic_label": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+          "trend_wucht": 20.8,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:fiji 19:4.0",
+      "topic_label": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km."
     },
     "earthquake:green-earthquake-magnitude-4.5m-depth:10km-in-russia-19-0:4": {
       "last_seen_at": "2026-06-19T09:22:22Z",
@@ -757,6 +823,41 @@
       ],
       "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:549.781km-in-fiji-1:4",
       "topic_label": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km."
+    },
+    "earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4",
+          "topic_label": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4",
+      "topic_label": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km."
     },
     "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4": {
       "last_seen_at": "2026-06-18T16:21:23Z",
@@ -1619,6 +1720,43 @@
       ],
       "topic_key": "earthquake:updates-reliefweb:unknown",
       "topic_label": "Updates | ReliefWeb"
+    },
+    "github_repo:ju571nk/sigil": {
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 30.8,
+      "samples": [
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 1,
+          "network_score": 13.4,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:github_repo:ju571nk/sigil",
+          "sample_index": 5939627,
+          "score_delta_5m": 13.4,
+          "source_classes": [
+            "tier5_generic_repo"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GitHub Search: Agent Security"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "github_repo:ju571nk/sigil",
+          "topic_label": "Ju571nK/sigil",
+          "trend_wucht": 30.8,
+          "urls": [
+            "https://github.com/Ju571nK/sigil"
+          ]
+        }
+      ],
+      "topic_key": "github_repo:ju571nk/sigil",
+      "topic_label": "Ju571nK/sigil"
     },
     "title:0.002-qiita": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -2801,6 +2939,41 @@
       "topic_key": "title:agions-story-fab",
       "topic_label": "Agions/story-fab"
     },
+    "title:ai": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:ai",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:ai",
+          "topic_label": "AIに任せる設計、人間に残る設計",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://zenn.dev/dress_code/articles/832cc1733e992c"
+          ]
+        }
+      ],
+      "topic_key": "title:ai",
+      "topic_label": "AIに任せる設計、人間に残る設計"
+    },
     "title:ai-2.0": {
       "bucket": "apac_signal",
       "last_seen_at": "2026-06-19T11:28:55Z",
@@ -2863,6 +3036,41 @@
       ],
       "topic_key": "title:ai-codex-record-replay",
       "topic_label": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」"
+    },
+    "title:ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api": {
+      "bucket": "single_platform_devtools",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 0.0,
+      "samples": [
+        {
+          "bucket": "single_platform_devtools",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+          "topic_label": "AI credits consumed per user now in the Copilot usage metrics API",
+          "trend_wucht": 0.0,
+          "urls": [
+            "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api"
+          ]
+        }
+      ],
+      "topic_key": "title:ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+      "topic_label": "AI credits consumed per user now in the Copilot usage metrics API"
     },
     "title:ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -4526,6 +4734,43 @@
       "topic_key": "title:budibase-budibase",
       "topic_label": "Budibase/budibase"
     },
+    "title:built-internal-data-analytics-agent": {
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 22.0,
+      "samples": [
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:built-internal-data-analytics-agent",
+          "sample_index": 5939627,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GitHub Blog Atom"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:built-internal-data-analytics-agent",
+          "topic_label": "How we built an internal data analytics agent",
+          "trend_wucht": 22.0,
+          "urls": [
+            "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+          ]
+        }
+      ],
+      "topic_key": "title:built-internal-data-analytics-agent",
+      "topic_label": "How we built an internal data analytics agent"
+    },
     "title:bytechefhq-bytechef": {
       "last_seen_at": "2026-06-18T00:36:09Z",
       "last_trend_wucht": 23.0,
@@ -5696,6 +5941,43 @@
       ],
       "topic_key": "title:cra-sbom",
       "topic_label": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰"
+    },
+    "title:credits-consumed-per-user-now-copilot-usage-metrics": {
+      "bucket": "single_platform_devtools",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 24.0,
+      "samples": [
+        {
+          "bucket": "single_platform_devtools",
+          "mention_count": 1,
+          "network_score": 12.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:credits-consumed-per-user-now-copilot-usage-metrics",
+          "sample_index": 5939627,
+          "score_delta_5m": 12.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:credits-consumed-per-user-now-copilot-usage-metrics",
+          "topic_label": "AI credits consumed per user now in the Copilot usage metrics API",
+          "trend_wucht": 24.0,
+          "urls": [
+            "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api"
+          ]
+        }
+      ],
+      "topic_key": "title:credits-consumed-per-user-now-copilot-usage-metrics",
+      "topic_label": "AI credits consumed per user now in the Copilot usage metrics API"
     },
     "title:crypton-x509-validation": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -8867,6 +9149,41 @@
       "topic_key": "title:how-pull-request-limits-are-cutting-down-the-noise",
       "topic_label": "How pull request limits are cutting down the noise"
     },
+    "title:how-we-built-an-internal-data-analytics-agent": {
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:how-we-built-an-internal-data-analytics-agent",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GitHub Blog Atom"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:how-we-built-an-internal-data-analytics-agent",
+          "topic_label": "How we built an internal data analytics agent",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+          ]
+        }
+      ],
+      "topic_key": "title:how-we-built-an-internal-data-analytics-agent",
+      "topic_label": "How we built an internal data analytics agent"
+    },
     "title:hyun-song-shin:-speech-76th-anniversary-of-the-bank-of-korea": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 10.0,
@@ -9652,6 +9969,41 @@
       ],
       "topic_key": "title:jsac2026-day-1",
       "topic_label": "JSAC2026 -Day 1-"
+    },
+    "title:ju571nk-sigil": {
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:ju571nk-sigil",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GitHub Search: Agent Security"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:ju571nk-sigil",
+          "topic_label": "Ju571nK/sigil",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://github.com/Ju571nK/sigil"
+          ]
+        }
+      ],
+      "topic_key": "title:ju571nk-sigil",
+      "topic_label": "Ju571nK/sigil"
     },
     "title:kadnap": {
       "bucket": "security",
@@ -15332,6 +15684,41 @@
       "topic_key": "title:tensione-n-kuvendin-e-shqip-ris-balla-:-sali-berisha-t-sfidoj-dil-sot-n-protest",
       "topic_label": "Tensione në Kuvendin e Shqipërisë , Balla : Sali Berisha të sfidoj , dil sot në protestë"
     },
+    "title:texas-govt-data-breach-exposes-over-3-million-drivers-licenses": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:texas-govt-data-breach-exposes-over-3-million-drivers-licenses",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:texas-govt-data-breach-exposes-over-3-million-drivers-licenses",
+          "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/"
+          ]
+        }
+      ],
+      "topic_key": "title:texas-govt-data-breach-exposes-over-3-million-drivers-licenses",
+      "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses"
+    },
     "title:th-arinn-g-p-tursson:-currencies-buffers-or-amplifiers-of-shocks": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 8.0,
@@ -16114,6 +16501,78 @@
       ],
       "topic_key": "title:tunisi-avvocati-in-sciopero-e-protesta-davanti-al-palazzo-di-giustizia",
       "topic_label": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia"
+    },
+    "title:typescript-7.0-rc-go10-tsgotsc6.0": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:typescript-7.0-rc-go10-tsgotsc6.0",
+          "sample_index": 5939627,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:typescript-7.0-rc-go10-tsgotsc6.0",
+          "topic_label": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118392.html"
+          ]
+        }
+      ],
+      "topic_key": "title:typescript-7.0-rc-go10-tsgotsc6.0",
+      "topic_label": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも"
+    },
+    "title:typescript-tsgo-tsc": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:title:typescript-tsgo-tsc",
+          "sample_index": 5939627,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "title:typescript-tsgo-tsc",
+          "topic_label": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118392.html"
+          ]
+        }
+      ],
+      "topic_key": "title:typescript-tsgo-tsc",
+      "topic_label": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも"
     },
     "title:u-.-s-.-drought-eases-but-may-ranks-as-the-second-driest-on-record": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -17555,6 +18014,43 @@
       ],
       "topic_key": "url:https://www.digital.go.jp/speech/minister-260619-01",
       "topic_label": "松本大臣記者会見（令和8年6月19日）動画を掲載しました"
+    },
+    "url:https://zenn.dev/dress_code/articles/832cc1733e992c": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T16:56:13Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T16-56-13Z",
+          "sample_id": "2026-06-19T16-56-13Z:url:https://zenn.dev/dress_code/articles/832cc1733e992c",
+          "sample_index": 5939627,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T16:56:13Z",
+          "topic_key": "url:https://zenn.dev/dress_code/articles/832cc1733e992c",
+          "topic_label": "AIに任せる設計、人間に残る設計",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://zenn.dev/dress_code/articles/832cc1733e992c"
+          ]
+        }
+      ],
+      "topic_key": "url:https://zenn.dev/dress_code/articles/832cc1733e992c",
+      "topic_label": "AIに任せる設計、人間に残る設計"
     }
   }
 }

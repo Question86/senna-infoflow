@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T15:58:19+00:00",
+  "generated_at": "2026-06-19T16:56:13+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -109,8 +109,8 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "updated_at": "2026-06-19T13:48:19+00:00",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "updated_at": "2026-06-19T16:56:13+00:00",
       "network_scores": [
         16.1,
         28.1,
@@ -122,12 +122,13 @@
         14.1,
         26.7,
         19.2,
-        21.1
+        21.1,
+        17.1
       ],
-      "rolling_average": 23.28,
+      "rolling_average": 22.77,
       "rolling_peak": 63.8,
-      "last_score": 21.1,
-      "z_hint": -2.18
+      "last_score": 17.1,
+      "z_hint": -5.67
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -4331,6 +4332,72 @@
     "title:gmktec-ps4-evo-evo-oculink": {
       "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
       "updated_at": "2026-06-19T15:58:19+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "github_repo:ju571nk/sigil": {
+      "title": "Ju571nK/sigil",
+      "updated_at": "2026-06-19T16:56:13+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:credits-consumed-per-user-now-copilot-usage-metrics": {
+      "title": "AI credits consumed per user now in the Copilot usage metrics API",
+      "updated_at": "2026-06-19T16:56:13+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "earthquake:fiji 19:4.0": {
+      "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+      "updated_at": "2026-06-19T16:56:13+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "title:built-internal-data-analytics-agent": {
+      "title": "How we built an internal data analytics agent",
+      "updated_at": "2026-06-19T16:56:13+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:typescript-tsgo-tsc": {
+      "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+      "updated_at": "2026-06-19T16:56:13+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "url:https://zenn.dev/dress_code/articles/832cc1733e992c": {
+      "title": "AIに任せる設計、人間に残る設計",
+      "updated_at": "2026-06-19T16:56:13+00:00",
       "network_scores": [
         10.1
       ],

@@ -6,15 +6,15 @@
     "warnings": 0
   },
   "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-19T15:58:19Z",
+  "generated_at": "2026-06-19T16:56:13Z",
   "issues": [],
   "schema_version": 2,
   "seen_state": {
     "max_items": 50000,
     "retention_days": 90,
-    "seen_kept": 926,
+    "seen_kept": 934,
     "seen_malformed_removed": 0,
-    "seen_original": 926,
+    "seen_original": 934,
     "seen_removed_expired": 0,
     "seen_removed_overflow": 0
   },

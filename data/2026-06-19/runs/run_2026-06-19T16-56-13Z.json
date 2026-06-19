@@ -1,13 +1,774 @@
 {
-  "cadence_minutes": 5,
-  "doc_type": "senna.trend_radar",
+  "doc_type": "senna.run_snapshot",
   "generated_at": "2026-06-19T16:56:13Z",
-  "notes": [
-    "Network clusters are included, so quality-gated-out signals still contribute to trend radar.",
-    "Single-source and single-platform signals remain visible but are bucketed.",
-    "CJK/non-Latin titles use stable hash/domain keys instead of title:unknown."
-  ],
-  "ranked_topics": [
+  "latest": {
+    "counts": {
+      "high": 0,
+      "medium": 0,
+      "new_relevant_findings": 7,
+      "observe": 7,
+      "source_errors": 0,
+      "today_file_total": 247
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 9,
+        "github": 5,
+        "other": 19,
+        "public_health": 1,
+        "security": 10,
+        "social": 1
+      },
+      "counts": {
+        "findings": 7,
+        "high": 0,
+        "medium": 0,
+        "observe": 7,
+        "source_errors": 0
+      },
+      "coverage_confidence": "normal",
+      "failed_sensor_groups": {},
+      "generated_at": "2026-06-19T16:56:13Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": []
+    },
+    "date": "2026-06-19",
+    "findings": [
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "04c4d79fff0069041a34",
+        "market_context": [],
+        "matched_keywords": [
+          "Open Source",
+          "Security"
+        ],
+        "published_at": "2026-06-19T16:12:41+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "Security (+7.5); Open Source (+3.8); recent (+1.0)",
+        "relevance_score": 12,
+        "risk_or_opportunity": "risk",
+        "source": "BleepingComputer Security",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+        "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+        "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "f69bfbe93a237588f3bc",
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "permissions",
+          "sandbox",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "published_at": "2026-06-19T16:47:18+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); sandbox (+2.0); permissions (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+        "relevance_score": 10,
+        "risk_or_opportunity": "observation",
+        "signal_class": "raw_dev_signal",
+        "source": "GitHub Search: Agent Security",
+        "source_bias_class": "github",
+        "source_type": "github_search",
+        "summary": "Fleet AI Security Posture Management (AI-SPM): client agents on each developer machine score their AI coding agents' guard surfaces (Claude Code, Cursor, Codex, Gemini CLI — permissions, hooks, sandboxes, mcp.json) and ship hash-anchored events to a central server + your SIEM. Fleet-wide posture; measures, doesn't block. Rust.",
+        "title": "Ju571nK/sigil",
+        "url": "https://github.com/Ju571nK/sigil",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP, Codex"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "05674d7a532b28e531ac",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "Copilot",
+          "GitHub"
+        ],
+        "published_at": "2026-06-19T16:23:29+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); AI (+2.5); recent (+1.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Changelog Atom",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "The Copilot usage metrics API now reports how many AI credits each user consumed per day, derived from the same AI credits consumption data used in the usage-based billing API.… The post AI credits consumed per user now in the Copilot usage metrics API appeared first on The GitHub Blog .",
+        "title": "AI credits consumed per user now in the Copilot usage metrics API",
+        "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "a3b3f4cba02782da087a",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": "2026-06-19T15:46:52+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "risk",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "On 6/19/2026 3:28:55 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 4.7M, Depth:467.976km.",
+        "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "c9152c8ae99440360a51",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "GitHub"
+        ],
+        "published_at": "2026-06-19T16:00:00+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "GitHub (+2.0); AI (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Blog Atom",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
+        "title": "How we built an internal data analytics agent",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "eaa446cfa3c8b74065f1",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T06:18:11+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+        "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118392.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T16:54:40+00:00",
+        "id": "dffa7b1cffc382dec600",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-18T09:45:34+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "はじめに こんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。 最近はもっぱら共通基盤まわりの開発をしており、設計について思うことが出てきたのでポエム的に残してみます。 以前、openspecをつかった仕様駆動開発に取り組んでいる話をしましたが、その延長線上にある話かもしれません。 ...",
+        "title": "AIに任せる設計、人間に残る設計",
+        "url": "https://zenn.dev/dress_code/articles/832cc1733e992c",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      }
+    ],
+    "generated_at": "2026-06-19T16:56:13+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T16:56:13Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": [
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "04c4d79fff0069041a34",
+          "market_context": [],
+          "matched_keywords": [
+            "Open Source",
+            "Security"
+          ],
+          "published_at": "2026-06-19T16:12:41+00:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "Security (+7.5); Open Source (+3.8); recent (+1.0)",
+          "relevance_score": 12,
+          "risk_or_opportunity": "risk",
+          "source": "BleepingComputer Security",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+          "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+          "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "f69bfbe93a237588f3bc",
+          "market_context": [
+            "NVDA",
+            "AMD",
+            "TSM",
+            "ASML",
+            "AVGO",
+            "MU",
+            "005930.KS",
+            "000660.KS",
+            "8035.T",
+            "MSFT",
+            "GTLB",
+            "FROG",
+            "TEAM",
+            "META",
+            "GOOGL",
+            "RDDT",
+            "SNAP",
+            "PINS"
+          ],
+          "matched_keywords": [
+            "AI/KI",
+            "OpenAI",
+            "permissions",
+            "sandbox",
+            "Security",
+            "Watchgraph:ai_agents_workflow"
+          ],
+          "published_at": "2026-06-19T16:47:18+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); sandbox (+2.0); permissions (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority; debias: single-platform GitHub signal capped to 10 without independent resonance",
+          "relevance_score": 10,
+          "risk_or_opportunity": "observation",
+          "signal_class": "raw_dev_signal",
+          "source": "GitHub Search: Agent Security",
+          "source_bias_class": "github",
+          "source_type": "github_search",
+          "summary": "Fleet AI Security Posture Management (AI-SPM): client agents on each developer machine score their AI coding agents' guard surfaces (Claude Code, Cursor, Codex, Gemini CLI — permissions, hooks, sandboxes, mcp.json) and ship hash-anchored events to a central server + your SIEM. Fleet-wide posture; measures, doesn't block. Rust.",
+          "title": "Ju571nK/sigil",
+          "url": "https://github.com/Ju571nK/sigil",
+          "watchgraph_modules": [
+            "ai_agents_workflow"
+          ],
+          "watchgraph_reasons": [
+            "ai_agents_workflow: MCP, Codex"
+          ]
+        },
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "05674d7a532b28e531ac",
+          "market_context": [],
+          "matched_keywords": [
+            "AI",
+            "Copilot",
+            "GitHub"
+          ],
+          "published_at": "2026-06-19T16:23:29+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "GitHub (+2.0); Copilot (+2.5); AI (+2.5); recent (+1.0)",
+          "relevance_score": 8,
+          "risk_or_opportunity": "observation",
+          "source": "GitHub Changelog Atom",
+          "source_bias_class": "github",
+          "source_type": "rss",
+          "summary": "The Copilot usage metrics API now reports how many AI credits each user consumed per day, derived from the same AI credits consumption data used in the usage-based billing API.… The post AI credits consumed per user now in the Copilot usage metrics API appeared first on The GitHub Blog .",
+          "title": "AI credits consumed per user now in the Copilot usage metrics API",
+          "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "a3b3f4cba02782da087a",
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "published_at": "2026-06-19T15:46:52+00:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "relevance_score": 6,
+          "risk_or_opportunity": "risk",
+          "signal_class": "raw_disaster_signal",
+          "source": "GDACS All Events Last 24h",
+          "source_bias_class": "disaster",
+          "source_type": "rss",
+          "summary": "On 6/19/2026 3:28:55 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 4.7M, Depth:467.976km.",
+          "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ]
+        },
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "c9152c8ae99440360a51",
+          "market_context": [],
+          "matched_keywords": [
+            "AI",
+            "GitHub"
+          ],
+          "published_at": "2026-06-19T16:00:00+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "GitHub (+2.0); AI (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "GitHub Blog Atom",
+          "source_bias_class": "github",
+          "source_type": "rss",
+          "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
+          "title": "How we built an internal data analytics agent",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "eaa446cfa3c8b74065f1",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-19T06:18:11+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+          "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+          "url": "https://forest.watch.impress.co.jp/docs/news/2118392.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T16:54:40+00:00",
+          "id": "dffa7b1cffc382dec600",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-18T09:45:34+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "はじめに こんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。 最近はもっぱら共通基盤まわりの開発をしており、設計について思うことが出てきたのでポエム的に残してみます。 以前、openspecをつかった仕様駆動開発に取り組んでいる話をしましたが、その延長線上にある話かもしれません。 ...",
+          "title": "AIに任せる設計、人間に残る設計",
+          "url": "https://zenn.dev/dress_code/articles/832cc1733e992c",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        }
+      ]
+    },
+    "source_errors": []
+  },
+  "network": {
+    "clusters": [
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-17T21:31:36+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "domain:www.bleepingcomputer.com",
+        "max_score": 12,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 16.0,
+        "ranking_score": 16.0,
+        "raw_network_score": 17.1,
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "BleepingComputer Security"
+        ],
+        "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+        "urls": [
+          "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 0.9,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 0.55,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T16:56:13+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "small_initial",
+        "key": "github_repo:ju571nk/sigil",
+        "max_score": 10,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.4,
+        "ranking_score": 13.4,
+        "raw_network_score": 14.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier5_generic_repo"
+        ],
+        "source_reach_score": 1.5,
+        "sources": [
+          "GitHub Search: Agent Security"
+        ],
+        "title": "Ju571nK/sigil",
+        "urls": [
+          "https://github.com/Ju571nK/sigil"
+        ],
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ]
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T16:56:13+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:credits-consumed-per-user-now-copilot-usage-metrics",
+        "max_score": 8,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 12.0,
+        "ranking_score": 12.0,
+        "raw_network_score": 13.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "GitHub Changelog Atom"
+        ],
+        "title": "AI credits consumed per user now in the Copilot usage metrics API",
+        "urls": [
+          "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T16:56:13+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:built-internal-data-analytics-agent",
+        "max_score": 5,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "ranking_score": 9.0,
+        "raw_network_score": 10.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "GitHub Blog Atom"
+        ],
+        "title": "How we built an internal data analytics agent",
+        "urls": [
+          "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T16:56:13+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "title:typescript-tsgo-tsc",
+        "max_score": 5,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "ranking_score": 9.0,
+        "raw_network_score": 10.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+        "urls": [
+          "https://forest.watch.impress.co.jp/docs/news/2118392.html"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 1.5,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "dominant_emitter": false,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T16:56:13+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "specialist",
+        "key": "url:https://zenn.dev/dress_code/articles/832cc1733e992c",
+        "max_score": 5,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "ranking_score": 9.0,
+        "raw_network_score": 10.1,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "source_reach_score": 2.5,
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "title": "AIに任せる設計、人間に残る設計",
+        "urls": [
+          "https://zenn.dev/dress_code/articles/832cc1733e992c"
+        ],
+        "watchgraph_modules": []
+      },
+      {
+        "authority_bonus_capped": 2.4,
+        "baseline_bonus": 0.0,
+        "breadth_bonus": 0.0,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "dominant_emitter": true,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "finding_count": 1,
+        "first_seen_at": "2026-06-19T16:56:13+00:00",
+        "high_signal": false,
+        "hot": false,
+        "initial_reach_tier": "official",
+        "key": "earthquake:fiji 19:4.0",
+        "max_score": 6,
+        "momentum_bonus": 2.5,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 7.9,
+        "ranking_score": 7.9,
+        "raw_network_score": 11.7,
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "source_reach_score": 4.0,
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468"
+        ],
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ]
+      }
+    ],
+    "counts": {
+      "clusters": 7,
+      "cross_source_confrmed": 0,
+      "dominance_penalized": 1,
+      "early_signals": 0,
+      "findings": 7,
+      "hot": 0
+    },
+    "generated_at": "2026-06-19T16:56:13+00:00",
+    "resonance_ranking": {
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms.",
+      "generated_at": "2026-06-19T16:56:13Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "schema_version": 1
+    },
+    "source": "briefings/latest.json"
+  },
+  "run_id": "2026-06-19T16-56-13Z",
+  "schema_version": 3,
+  "topic_samples": [
     {
       "bucket": "agentic_devtools",
       "mention_count": 1,
@@ -388,99 +1149,7 @@
       ]
     }
   ],
-  "run_id": "2026-06-19T16-56-13Z",
-  "schema_version": 3,
-  "under_observation_topics": [
-    {
-      "cadence": "routine",
-      "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
-      "id": "apac_japan_x_stormfront",
-      "region": "Japan, APAC",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "Japan X/Twitter Tech- und Event-Sturmfront",
-      "triggers": "Japan, Tokyo, 日本, 急上昇, Twitter, X, trend, viral, Hatena, AI, security, outage, launch, anime, game, earthquake, social velocity",
-      "update_rule": "Auch ohne neue Treffer mindestens im Routinebriefing anzeigen; bei bestätigter X/RSS-Brücke aktivieren.",
-      "watch": "Japanische Social-Velocity-Proxies, Hatena Hotentry IT, Google Trends Japan, GitHub-Suchen nach X/Twitter-Trend-RSS-/Aggregator-Tools, spätere stabile lawful X/RSS-Brücke.",
-      "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Kein Wahlbetrugsnarrativ ohne belastbare Belege verstärken.",
-      "id": "south_korea_election_infrastructure_stress",
-      "region": "South Korea, APAC",
-      "source": "Rechercheauftrag User Yps, 2026-06-19; fnnews/GDELT-Signal zur blockierten Auszählungsstelle",
-      "status": "active",
-      "title": "Südkorea Wahl-Infrastruktur und Protestvertrauen",
-      "triggers": "South Korea, Seoul, Korea, election, ballot, NEC, protest, polling station, vote counting, forced dispersal, police, democracy, infrastructure trust",
-      "update_rule": "Bei Reuters/AP/Yonhap/NEC-Bestätigung oder Räumungssignal hochziehen; sonst beobachtet lassen.",
-      "watch": "NEC-Untersuchung, Polizeiräumung, Verletzte, offizielle Parlaments-/Behördenentscheidungen, Seoul-Protestzahlen, Desinformation/Cyber-/Leak-Bezug.",
-      "why": "Wahlverwaltungsfehler können sich in Infrastrukturvertrauenskrisen verwandeln; junge Protestkohorten und mögliche Zwangsräumung erhöhen Eskalationsrisiko."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "APAC nicht als China-Beifang behandeln.",
-      "id": "apac_tech_social_trend_mesh",
-      "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "APAC Tech-/Social-Motoren außerhalb China",
-      "triggers": "Taiwan, TSMC, Thailand, Philippines, Vietnam, Korea, Japan, Singapore, Indonesia, India, startup, AI, platform, outage, security, developer tools",
-      "update_rule": "In Routineupdates als Coverage-Achse behalten; bei Mehrquellen-Signal in OBSERVE/MEDIUM hochziehen.",
-      "watch": "Regionale Trends, Tech-/Startup-Bewegung, Plattform-Ausfälle, KI-/Devtools, Halbleiter, Security, politische Plattformdynamik.",
-      "why": "Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
-      "id": "global_south_coverage_gap",
-      "region": "Africa, South America, LATAM",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "Global-South-Signalabdeckung Afrika und Südamerika",
-      "triggers": "Africa, Nigeria, Kenya, South Africa, Brazil, Argentina, Chile, Colombia, LATAM, fintech, mobile money, power outage, flood, drought, platform policy, cybersecurity",
-      "update_rule": "Quellenabdeckung schrittweise ausbauen; Feed-Stille hier niemals als Weltstille werten.",
-      "watch": "Tech-Ökosysteme, digitale Zahlungssysteme, Energie-/Netzausfälle, Klima-/Katastrophensignale, Plattformpolitik, Security, regionale Regulierung.",
-      "why": "Afrika und Südamerika sind bei Tech-, Infrastruktur-, Klima-, Energie-, Zahlungs- und Plattformthemen nicht zu unterschätzen; westliche Feeds blenden sie oft aus."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
-      "id": "mindanao_post_quake_recovery_hotspots",
-      "region": "Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19; öffentliche Lage nach Mw 7.8 Offshore-Sarangani/Mindanao-Erdbeben vom 2026-06-08",
-      "status": "active",
-      "title": "Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte",
-      "triggers": "Mindanao, Sarangani, Glan, Malapatan, Maasim, General Santos, GenSan, Davao Occidental, South Cotabato, SOCSCSKSARGEN, earthquake, aftershock, PHIVOLCS, tsunami, landslide, coastal uplift, hospital, water, sanitation, price freeze, insurance, real estate, rent, rebuilding, reconstruction, fisheries, fishery, tourism, port, airport, logistics, GSC, schools, bridge, road, power outage, telecom, aid distribution, monsoon",
-      "update_rule": "In Routineupdates mindestens als Unter-Beobachtung-Thema führen; hochziehen bei M5+ Nachbeben, neuen Todes-/Verletztenzahlen, Preis-/Versorgungsengpässen, Hafen-/Flughafen-/Krankenhausausfällen, Versicherungs-/Immobilienmeldungen, Wiederaufbauvertragsskandal, Krankheitsausbruch, Regenzeit-Folgeschäden oder starker lokaler Protest-/Aid-Distribution-Dynamik.",
-      "watch": "Nachbeben und PHIVOLCS-Lage, Glan und Sarangani-Landrutsche, General Santos City als Hafen-/Handels-/Versorgungsknoten, Krankenhäuser und Outdoor-Patientenversorgung, Trinkwasser/Sanitärversorgung, Lebensmittel/Baumaterial/Transportpreise, 60-Tage-Preisstopps und Marktumgehung, Versicherungs-/Schadensregulierung, Immobilienpreise/Mieten/Umsiedlung, Fischerei und Küstenökosysteme, Tourismus-Stornierungen, Schulen, Straßen/Brücken, Strom/Telekom, Häfen und maritime Infrastruktur, Wiederaufbauverträge, Korruptions-/Hilfsverteilungsrisiken, Landwirtschaft/Regenzeit/Monsoon, Küstenhebung/Tsunami-Folgen, mentale Gesundheit, Sicherheitslage und lokale Spannungen ohne Spekulation.",
-      "why": "Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Keine Tradingempfehlung. Keine anonyme X-These als Tatsache behandeln. Kein „Strategy muss Bitcoin verkaufen“ behaupten, solange es nicht durch Filing, offizielle Meldung oder belastbare Mehrquellenlage gestützt ist.",
-      "id": "strategy_strc_capital_structure_stress",
-      "region": "USA, Crypto Markets, Public Equities",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19; Bull Theory X-Hinweis vom 2026-06-18/19; öffentliche Strategy-/STRC-Marktdaten",
-      "status": "active",
-      "title": "Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop",
-      "triggers": "Strategy, MicroStrategy, MSTR, STRC, Stretch, STRF, STRK, STRD, preferred stock, perpetual preferred, par value, $100 par, dividend, 11.5%, 12%, yield, effective yield, VWAP, Bitcoin sale, sell Bitcoin, BTC treasury, Bitcoin treasury company, Saylor, ATM, dilution, cash reserve, dividend coverage, mNAV, NAV, treasury company, SATA, Strive",
-      "update_rule": "Hochziehen bei STRC <95, <90 oder <85; bei Dividendenerhöhung; bei offizieller Strategy-Meldung zu STRC/Preferred/ATM; bei Strategy-Bitcoin-Verkauf; bei glaubwürdiger Mehrquellen-Resonanz. X-only bleibt Frührauch, nicht Beweis.",
-      "watch": "STRC-Kurs relativ zu $100/$95/$90/$85, offizieller Strategy-STRC-Dividendensatz, STRC-VWAP, Effective Yield, MSTR-Kurs und mNAV/BTC-per-share-Narrativ, ATM-Emissionen, Bitcoin-Käufe/-Verkäufe durch Strategy, Cash-Reserve-Runway, STRC/STRF/STRK/STRD Stack, Konkurrenzprodukte wie SATA, Berichterstattung von CoinDesk, FT, Investors.com/IBD, The Block, Blocktrainer, Yahoo Finance, Nasdaq.",
-      "why": "STRC ist kein normaler Bitcoin-Preisindikator, sondern ein Stressmesser in Strategys Finanzierungsschicht. Wenn STRC deutlich unter dem $100-Par-Ziel handelt, signalisiert der Markt, dass die variable Dividende nicht reicht. Das kann Strategy beim Preferred-ATM, bei Bitcoin-Käufen, bei MSTR-Verwässerung und im Extrem bei Bitcoin-Verkäufen unter Druck setzen."
-    }
-  ],
-  "window_keys": [
-    "now",
-    "30m",
-    "1h",
-    "4h",
-    "8h",
-    "24h",
-    "72h",
-    "168h"
-  ],
-  "windows": {
+  "trend_windows": {
     "168h": {
       "buckets": {
         "agentic_devtools": {

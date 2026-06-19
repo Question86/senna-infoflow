@@ -33,6 +33,54 @@
     "id": "d1ad5b853ec8a452e37c"
   },
   {
+    "title": "Ju571nK/sigil",
+    "url": "https://github.com/Ju571nK/sigil",
+    "source": "GitHub Search: Agent Security",
+    "source_type": "github_search",
+    "published_at": "2026-06-19T16:47:18+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "Fleet AI Security Posture Management (AI-SPM): client agents on each developer machine score their AI coding agents' guard surfaces (Claude Code, Cursor, Codex, Gemini CLI — permissions, hooks, sandboxes, mcp.json) and ship hash-anchored events to a central server + your SIEM. Fleet-wide posture; measures, doesn't block. Rust.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "permissions",
+      "sandbox",
+      "Security",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); sandbox (+2.0); permissions (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph confirmation gate: source class needs independent confirmation for high priority",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP, Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "f69bfbe93a237588f3bc"
+  },
+  {
     "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
     "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html",
     "source": "TWCERT/CC Security News RSS",
@@ -934,6 +982,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "66a9d6052b256d37c2e3"
+  },
+  {
+    "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+    "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-19T16:12:41+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+    "matched_keywords": [
+      "Open Source",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); Open Source (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "04c4d79fff0069041a34"
   },
   {
     "title": "NY man charged after harassing college student with AI-generated nudes",
@@ -3071,6 +3140,28 @@
     "id": "f442598e64be5c13d3fe"
   },
   {
+    "title": "AI credits consumed per user now in the Copilot usage metrics API",
+    "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-19T16:23:29+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "The Copilot usage metrics API now reports how many AI credits each user consumed per day, derived from the same AI credits consumption data used in the usage-based billing API.… The post AI credits consumed per user now in the Copilot usage metrics API appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "05674d7a532b28e531ac"
+  },
+  {
     "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619~53145e5a0b.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -4266,6 +4357,42 @@
     "id": "8aecbb8459ea327d7f66"
   },
   {
+    "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T15:46:52+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "On 6/19/2026 3:28:55 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 4.7M, Depth:467.976km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a3b3f4cba02782da087a"
+  },
+  {
     "title": "M 4.7 - Fiji region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4771,6 +4898,27 @@
     "id": "b5d40d5cef5de855cbfe"
   },
   {
+    "title": "How we built an internal data analytics agent",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-19T16:00:00+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); AI (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c9152c8ae99440360a51"
+  },
+  {
     "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
     "url": "https://togetter.com/li/2711202",
     "source": "Hatena Bookmark Hotentry IT",
@@ -4873,6 +5021,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "562fb88475a96fbfdb5f"
+  },
+  {
+    "title": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118392.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:18:11+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eaa446cfa3c8b74065f1"
   },
   {
     "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
@@ -5503,6 +5672,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ea447561ec40f83d7e98"
+  },
+  {
+    "title": "AIに任せる設計、人間に残る設計",
+    "url": "https://zenn.dev/dress_code/articles/832cc1733e992c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T09:45:34+00:00",
+    "fetched_at": "2026-06-19T16:54:40+00:00",
+    "summary": "はじめに こんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。 最近はもっぱら共通基盤まわりの開発をしており、設計について思うことが出てきたのでポエム的に残してみます。 以前、openspecをつかった仕様駆動開発に取り組んでいる話をしましたが、その延長線上にある話かもしれません。 ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dffa7b1cffc382dec600"
   },
   {
     "title": "プロジェクト失敗につながる地雷ワード",
