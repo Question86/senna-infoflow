@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T02:10:07+00:00",
+  "generated_at": "2026-06-19T02:26:10+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3392,6 +3392,28 @@
       "rolling_average": 10.1,
       "rolling_peak": 10.1,
       "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.theguardian.com": {
+      "title": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
+      "updated_at": "2026-06-19T02:26:10+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie": {
+      "title": "Cuba presenteert lijst maatregelen voor hervormen economie",
+      "updated_at": "2026-06-19T02:26:10+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
       "z_hint": 0.0
     }
   }

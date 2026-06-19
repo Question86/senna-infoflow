@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19T02:10:07Z",
+  "generated_at": "2026-06-19T02:26:09Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -12648,6 +12648,62 @@
           "status": "emerging",
           "urls": [
             "https://prtimes.jp/main/html/rd/p/000000246.000045379.html"
+          ]
+        }
+      ]
+    },
+    "title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win": {
+      "topic_key": "title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
+      "topic_label": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
+      "last_seen_at": "2026-06-19T02:26:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-26-09Z:title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
+          "sample_index": 5939453,
+          "timestamp_utc": "2026-06-19T02:26:09Z",
+          "run_id": "2026-06-19T02-26-09Z",
+          "topic_key": "title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
+          "topic_label": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win"
+          ]
+        }
+      ]
+    },
+    "title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie": {
+      "topic_key": "title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
+      "topic_label": "Cuba presenteert lijst maatregelen voor hervormen economie",
+      "last_seen_at": "2026-06-19T02:26:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-26-09Z:title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
+          "sample_index": 5939453,
+          "timestamp_utc": "2026-06-19T02:26:09Z",
+          "run_id": "2026-06-19T02-26-09Z",
+          "topic_key": "title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
+          "topic_label": "Cuba presenteert lijst maatregelen voor hervormen economie",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie"
           ]
         }
       ]

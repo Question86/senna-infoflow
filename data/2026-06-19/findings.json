@@ -1003,6 +1003,106 @@
     "id": "cc6ebeb4c5e01d290a14"
   },
   {
+    "title": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
+    "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:45:00+00:00",
+    "fetched_at": "2026-06-19T02:23:48+00:00",
+    "summary": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "de25a326cbd4e3267b98"
+  },
+  {
+    "title": "Cuba presenteert lijst maatregelen voor hervormen economie",
+    "url": "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:45:00+00:00",
+    "fetched_at": "2026-06-19T02:23:48+00:00",
+    "summary": "Cuba presenteert lijst maatregelen voor hervormen economie",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "c22376e5b2f8bb680625"
+  },
+  {
     "title": "Выборы в парламент Приморья назначены на 20 сентября",
     "url": "https://primamedia.ru/news/2531351/",
     "source": "GDELT Politics Unrest Elections RSS",

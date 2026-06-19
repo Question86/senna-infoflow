@@ -1,121 +1,56 @@
 {
-  "generated_at": "2026-06-19T02:10:07+00:00",
-  "today_file_total": 124,
+  "generated_at": "2026-06-19T02:26:10+00:00",
+  "today_file_total": 126,
   "current_clusters": [
     {
-      "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+      "key": "domain:www.theguardian.com",
+      "title": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
       "sources": [
-        "JVN Japan Vulnerability Notes"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://jvn.jp/vu/JVNVU90347806/"
+        "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win"
       ],
       "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:vendor-signed-uefi",
-      "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/vu/JVNVU93024090/"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 18.1,
+      "network_score": 15.1,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.nikkei.com",
-      "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
+      "watchgraph_modules": [
+        "elections_unrest"
       ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:economy-moving-faster-than-our-institutions",
-      "title": "The AI economy is moving faster than our institutions",
+      "key": "title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
+      "title": "Cuba presenteert lijst maatregelen voor hervormen economie",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/"
+        "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie"
       ],
       "finding_count": 1,
-      "max_score": 6,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 11.1,
+      "network_score": 15.1,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:martin-fowler-conference-2026",
-      "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://prtimes.jp/main/html/rd/p/000000246.000045379.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     }
   ]
 }
