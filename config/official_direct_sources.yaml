@@ -1,5 +1,5 @@
 {
-  "_comment": "Direct-source tier overlay for Senna Infoflow. Public official/first-responder/court/health/NGO feeds first; media/agency feeds are context, not source of record. Added 2026-06-19.",
+  "_comment": "Direct-source overlay. Official and first-responder sources first. Minimal stable core; expand iteratively.",
   "sources": [
     {
       "id": "ap_top_news_rss",
@@ -11,62 +11,15 @@
       "enabled": true,
       "max_items": 20,
       "url": "https://apnews.com/index.rss",
-      "credibility_hint": "wire_service",
-      "notes": "Public AP RSS endpoint. Use as fast backbone/context, not as replacement for direct official sources.",
+      "notes": "Backbone/context only; prefer direct official sources where available.",
       "keywords": [
         "AP",
-        "Associated Press",
         "wire service",
-        "breaking news",
         "world",
         "politics",
         "economy",
         "conflict",
         "disaster"
-      ]
-    },
-    {
-      "id": "reuters_public_feed_reference",
-      "name": "Reuters Public Feed Reference",
-      "type": "webpage_check",
-      "source_tier": 1,
-      "source_class": "wire_service_backbone",
-      "source_role": "backbone_context",
-      "enabled": false,
-      "max_items": 1,
-      "url": "https://www.reuters.com/my-news/feed/",
-      "credibility_hint": "wire_service_paid_or_restricted",
-      "notes": "Reuters is high-value but stable public RSS is not reliably available; keep disabled unless a lawful reliable endpoint/API is configured.",
-      "keywords": [
-        "Reuters",
-        "wire service",
-        "world news",
-        "markets",
-        "conflict",
-        "energy",
-        "health"
-      ]
-    },
-    {
-      "id": "afp_api_reference",
-      "name": "AFP API Reference",
-      "type": "api_reference",
-      "source_tier": 1,
-      "source_class": "wire_service_backbone",
-      "source_role": "backbone_context",
-      "enabled": false,
-      "requires_adapter": true,
-      "max_items": 1,
-      "url": "https://www.afp.com/en/our-offer/afp-api",
-      "credibility_hint": "wire_service_paid_or_restricted",
-      "notes": "AFP offers API/ATOM/RSS search feeds for customers; disabled until credentials/adapter exist.",
-      "keywords": [
-        "AFP",
-        "Agence France-Presse",
-        "wire service",
-        "API",
-        "RSS",
-        "ATOM"
       ]
     },
     {
@@ -79,9 +32,7 @@
       "enabled": true,
       "max_items": 20,
       "url": "https://www.presseportal.de/rss/polizei.rss2",
-      "credibility_hint": "direct_press_release_aggregator",
-      "verification_status": "rss_endpoint_fetch_ok",
-      "notes": "Direct press releases from police offices via Presseportal/news aktuell; event/claim status, not judicial truth.",
+      "notes": "Direct police press releases. Event/claim status, not judicial truth.",
       "keywords": [
         "Polizei",
         "police",
@@ -89,16 +40,12 @@
         "Einsatz",
         "Unfall",
         "Fahndung",
-        "Zeugenaufruf",
-        "Kriminalität",
-        "Verkehr",
-        "Stromausfall",
         "Brand"
       ]
     },
     {
       "id": "presseportal_feuerwehr_muenchen_rss",
-      "name": "Presseportal Feuerwehr München RSS",
+      "name": "Presseportal Feuerwehr Muenchen RSS",
       "type": "rss",
       "source_tier": 4,
       "source_class": "official_first_responder",
@@ -106,25 +53,19 @@
       "enabled": true,
       "max_items": 15,
       "url": "https://www.presseportal.de/rss/dienststelle_131419.rss2",
-      "credibility_hint": "direct_press_release",
-      "verification_status": "listed_by_ff_muenchen",
-      "notes": "Official Feuerwehr München press RSS as listed by FF München. High live value for local incidents.",
+      "notes": "Official Feuerwehr Muenchen press RSS as listed by FF Muenchen.",
       "keywords": [
-        "Feuerwehr München",
-        "München",
+        "Feuerwehr Muenchen",
+        "Muenchen",
         "Brand",
         "Rettung",
         "Unfall",
-        "Explosion",
-        "Gefahrstoff",
-        "Rauch",
-        "Evakuierung",
-        "Drohnen"
+        "Evakuierung"
       ]
     },
     {
       "id": "ffw_muenchen_news_feed",
-      "name": "Freiwillige Feuerwehr München News Feed",
+      "name": "Freiwillige Feuerwehr Muenchen News Feed",
       "type": "rss",
       "source_tier": 4,
       "source_class": "official_first_responder_local",
@@ -132,38 +73,13 @@
       "enabled": true,
       "max_items": 15,
       "url": "https://www.ffw-muenchen.de/news-feed",
-      "credibility_hint": "direct_first_responder",
-      "notes": "FF München site-level feed. Direct local first-responder signal, especially for operations and local fire/rescue patterning.",
+      "notes": "Local first-responder signal.",
       "keywords": [
-        "Freiwillige Feuerwehr München",
+        "Feuerwehr",
+        "Muenchen",
         "Alarmierung",
         "Einsatzbericht",
-        "Brand",
-        "Verkehrsunfall",
-        "Rauchwarnmelder",
-        "Technische Hilfeleistung"
-      ]
-    },
-    {
-      "id": "feuerwehr_sendling_news_feed",
-      "name": "FF München Sendling News Feed",
-      "type": "rss",
-      "source_tier": 4,
-      "source_class": "official_first_responder_hyperlocal",
-      "source_role": "direct_event_sensor",
-      "enabled": true,
-      "max_items": 8,
-      "url": "https://www.feuerwehr-sendling.de/news-feed",
-      "credibility_hint": "direct_first_responder_local",
-      "notes": "Hyperlocal Munich fire/rescue sensor. Keep low item count to avoid local noise dominance.",
-      "keywords": [
-        "Sendling",
-        "München",
-        "Feuerwehr",
-        "Alarmierung",
-        "Brand",
-        "Unfall",
-        "Rettung"
+        "Brand"
       ]
     },
     {
@@ -176,45 +92,13 @@
       "enabled": true,
       "max_items": 2,
       "url": "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html",
-      "credibility_hint": "direct_police_press",
-      "notes": "Direct official police source. RSS exists on site, but stable URL needs adapter extraction; webpage kept as direct source until RSS URL is pinned.",
+      "notes": "Official police source. RSS exists on site; exact endpoint needs adapter extraction.",
       "keywords": [
         "Bayerische Polizei",
         "Bayern",
-        "Nürnberg",
-        "Mittelfranken",
-        "Oberfranken",
-        "Oberpfalz",
-        "München",
+        "Nuernberg",
+        "Muenchen",
         "Unfall",
-        "Fahndung",
-        "Zeugenaufruf",
-        "Kriminalpolizei"
-      ]
-    },
-    {
-      "id": "polizei_nrw_presse_direct",
-      "name": "Polizei PRW Pressemitteilungen",
-      "type": "webpage_check",
-      "source_tier": 4,
-      "source_class": "official_police_direct",
-      "source_role": "direct_event_sensor",
-      "enabled": true,
-      "max_items": 2,
-      "url": "https://polizei.nrw/presse/pressemitteilungen",
-      "credibility_hint": "direct_police_press",
-      "notes": "Direct official NRW police source. Page exposes filtered RSS in UI; keep direct page until endpoint extraction is added.",
-      "keywords": [
-        "Polizei PRW",
-        "NRW",
-        "Düsseldorf",
-        "Köln",
-        "Duisburg",
-        "Essen",
-        "Wuppertal",
-        "Unfall",
-        "Kriminalität",
-        "Einsatz",
         "Fahndung"
       ]
     },
@@ -228,41 +112,13 @@
       "enabled": true,
       "max_items": 12,
       "url": "https://www.zoll.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSPressemitteilungen.xml?nn=280690",
-      "credibility_hint": "direct_authority_press",
-      "notes": "Customs enforcement, seizures, smuggling, supply-chain, sanctions and organized-crime signal.",
+      "notes": "Customs enforcement, seizures, sanctions and supply-chain signal.",
       "keywords": [
         "Zoll",
         "customs",
-        "Schmuggel",
         "Sanktionen",
-        "Beschlagnahme",
-        "Organisierte Kriminalität",
-        "Lieferkette",
-        "Kontrolle"
-      ]
-    },
-    {
-      "id": "bundespolizei_presse_direct",
-      "name": "Bundespolizei Pressemitteilungen",
-      "type": "webpage_check",
-      "source_tier": 4,
-      "source_class": "official_federal_police",
-      "source_role": "direct_event_sensor",
-      "enabled": true,
-      "max_items": 2,
-      "url": "https://bundespolizei.de/presse/pressemitteilungen",
-      "credibility_hint": "direct_federal_police_press",
-      "notes": "Bundespolizei states its own RSS is not currently available; keep direct page and Presseportal spillover.",
-      "keywords": [
-        "Bundespolizei",
-        "Bahnhof",
-        "Grenze",
-        "Flughafen",
-        "Bahn",
-        "Gepäck",
-        "Sperrung",
-        "Migration",
-        "Fahndung"
+        "Schmuggel",
+        "Beschlagnahme"
       ]
     },
     {
@@ -275,17 +131,12 @@
       "enabled": true,
       "max_items": 10,
       "url": "https://www.bverwg.de/rss/pressemitteilungen.rss",
-      "credibility_hint": "direct_court_press",
-      "notes": "Administrative law: regulation, public authorities, infrastructure, migration, environment, permits.",
+      "notes": "Administrative law press feed.",
       "keywords": [
-        "Bundesverwaltungsgericht",
         "BVerwG",
+        "Bundesverwaltungsgericht",
         "Urteil",
-        "Pressemitteilung",
-        "Verwaltungsrecht",
-        "Genehmigung",
-        "Behörde",
-        "Infrastruktur"
+        "Verwaltungsrecht"
       ]
     },
     {
@@ -298,16 +149,12 @@
       "enabled": true,
       "max_items": 10,
       "url": "https://www.bverwg.de/rss/verhandlungstermine.rss",
-      "credibility_hint": "direct_court_calendar",
-      "notes": "Upcoming administrative court hearings/verdict dates. Early legal-policy signal.",
+      "notes": "Upcoming hearing/verdict dates.",
       "keywords": [
-        "Bundesverwaltungsgericht",
         "BVerwG",
         "Verhandlung",
-        "Verk�ndung",
         "Termin",
-        "Urteil",
-        "Klage"
+        "Urteil"
       ]
     },
     {
@@ -320,43 +167,17 @@
       "enabled": true,
       "max_items": 10,
       "url": "https://www.bundesarbeitsgericht.de/feed/presse/neueste",
-      "credibility_hint": "direct_court_press",
-      "notes": "Employment law and workplace regulation. Useful for labor, HR, platform work and compliance signals.",
+      "notes": "Employment law press feed.",
       "keywords": [
-        "Bundesarbeitsgericht",
         "BAG",
-        "Arbeitsrecht",
-        "Urteil",
-        "Arbeitgeber",
-        "Arbeitnehmer",
-        "Kündigung",
-        "Tarif"
-      ]
-    },
-    {
-      "id": "bundesarbeitsgericht_entscheidungen_rss",
-      "name": "Bundesarbeitsgericht Entscheidungen RSS",
-      "type": "rss",
-      "source_tier": 4,
-      "source_class": "official_court",
-      "source_role": "direct_legal_sensor",
-      "enabled": true,
-      "max_items": 10,
-      "url": "https://www.bundesarbeitsgericht.de/feed/entscheidung/neueste",
-      "credibility_hint": "direct_court_decision",
-      "notes": "Direct decision feed. Stronger than media framing; needs legal context before action.",
-      "keywords": [
         "Bundesarbeitsgericht",
-        "BAG",
-        "Entscheidung",
         "Arbeitsrecht",
-        "Urteil",
-        "Beschluss"
+        "Urteil"
       ]
     },
     {
       "id": "curia_eu_press_rss_de_en",
-      "name": "CJEU / CURIA Press RSS DE+EN",
+      "name": "CJEU CURIA Press RSS DE EN",
       "type": "rss",
       "source_tier": 4,
       "source_class": "official_court_eu",
@@ -364,69 +185,18 @@
       "enabled": true,
       "max_items": 10,
       "url": "http://curia.europa.eu/site/rss.jsp?lang=de&secondLang=en",
-      "credibility_hint": "direct_eu_court_press",
-      "notes": "EU court press releases in German/English. Important for platform, data, regulation, competition and sanctions law.",
+      "notes": "EU court press releases.",
       "keywords": [
         "EuGH",
         "CJEU",
         "CURIA",
         "EU law",
-        "Pressemitteilung",
-        "Urteil",
-        "Datenschutz",
-        "Wettbewerb",
-        "Plattform",
-        "Sanktionen"
-      ]
-    },
-    {
-      "id": "bmj_rss_newsfeed",
-      "name": "Bundesministerium der Justiz RSS Newsfeed",
-      "type": "rss",
-      "source_tier": 4,
-      "source_class": "official_ministry",
-      "source_role": "direct_policy_sensor",
-      "enabled": true,
-      "max_items": 10,
-      "url": "https://www.bmj.de/DE/Service/RSSNewsfeed/rssnewsfeed_node.html",
-      "credibility_hint": "direct_ministry_reference",
-      "notes": "Justice ministry RSS landing/reference. If feed parsing fails, replace with exact XML endpoint after validation.",
-      "keywords": [
-        "BMJ",
-        "Bundesministerium der Justiz",
-        "Gesetz",
-        "Reform",
-        "Digitalisierung",
-        "Verbraucherschutz",
-        "Justiz"
-      ]
-    },
-    {
-      "id": "bmg_meldungen_rss",
-      "name": "Bundesgesundheitsministerium Meldungen RSS",
-      "type": "rss",
-      "source_tier": 4,
-      "source_class": "official_health_ministry",
-      "source_role": "direct_health_policy_sensor",
-      "enabled": true,
-      "max_items": 10,
-      "url": "https://www.bundesgesundheitsministerium.de/meldungen.xml",
-      "credibility_hint": "direct_ministry_press",
-      "notes": "BMG official health-policy RSS.",
-      "keywords": [
-        "BMG",
-        "Gesundheit",
-        "Krankenhaus",
-        "Pflege",
-        "Pandemie",
-        "Infektionsschutz",
-        "Digital Health",
-        "Arzneimittel"
+        "Datenschutz"
       ]
     },
     {
       "id": "bmg_pressemitteilungen_rss",
-      "name": "Bundesgesundheitsministerium Presse RSS",
+      "name": "BMG Presse RSS",
       "type": "rss",
       "source_tier": 4,
       "source_class": "official_health_ministry",
@@ -434,46 +204,17 @@
       "enabled": true,
       "max_items": 10,
       "url": "https://www.bundesgesundheitsministerium.de/pressemitteilungen.xml",
-      "credibility_hint": "direct_ministry_press",
       "notes": "BMG official press RSS.",
       "keywords": [
         "BMG",
-        "Pressemitteilung",
         "Gesundheit",
         "Pandemie",
-        "Krankenkassen",
-        "Arzneimittel",
-        "Krankenhaus",
-        "Pflege"
-      ]
-    },
-    {
-      "id": "ecdc_epidemiological_updates_rss",
-      "name": "ECDC Epidemiological Updates RSS",
-      "type": "rss",
-      "source_tier": 4,
-      "source_class": "official_health_authority_eu",
-      "source_role": "direct_outbreak_sensor",
-      "enabled": true,
-      "max_items": 12,
-      "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1505/feed",
-      "credibility_hint": "direct_health_authority",
-      "notes": "Replaces broken ECDC webpage check with official RSS taxonomy feed.",
-      "keywords": [
-        "ECDC",
-        "epidemiological update",
-        "outbreak",
-        "avian influenza",
-        "mpox",
-        "Ebola",
-        "West Nile",
-        "COVID-19",
-        "risk assessment"
+        "Arzneimittel"
       ]
     },
     {
       "id": "ecdc_cdtr_rss",
-      "name": "ECDC Communicable Disease Threats Report RSS",
+      "name": "ECDC CDTR RSS",
       "type": "rss",
       "source_tier": 4,
       "source_class": "official_health_authority_eu",
@@ -481,85 +222,13 @@
       "enabled": true,
       "max_items": 12,
       "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed",
-      "credibility_hint": "direct_health_authority",
-      "notes": "Official ECDC CDTR feed; replaces dead/incorrect web path.",
+      "notes": "Official ECDC Communicable Disease Threats Report feed.",
       "keywords": [
         "ECDC",
-        "CDD�",
-        "communicable disease threats",
+        "CDTR",
         "outbreak",
         "surveillance",
-        "public health",
-        "Europe"
-      ]
-    },
-    {
-      "id": "who_afro_rss_direct",
-      "name": "WHO AFRO RSS Direct",
-      "type": "rss",
-      "source_tier": 4,
-      "source_class": "official_health_authority",
-      "source_role": "direct_outbreak_sensor",
-      "enabled": true,
-      "max_items": 12,
-      "url": "https://www.afro.who.int/rss-feeds",
-      "credibility_hint": "direct_health_authority_reference",
-      "notes": "WHO AFRO RSS landing/reference; if monitor cannot parse it as feed, convert to exact feed URLs.",
-      "keywords": [
-        "WHO AFRO",
-        "Africa",
-        "Ebola",
-        "Marburg",
-        "cholera",
-        "yellow fever",
-        "dengue",
-        "mpox",
-        "malaria",
-        "outbreak"
-      ]
-    },
-    {
-      "id": "justiz_insolvenzbekanntmachungen_web",
-      "name": "Justiz.de Insolvenzbekanntmachungen",
-      "type": "webpage_check",
-      "source_tier": 4,
-      "source_class": "official_legal_register",
-      "source_role": "direct_company_distress_sensor",
-      "enabled": true,
-      "max_items": 2,
-      "url": "https://justiz.de/onlinedienste/insolvenzbekanntmachungen/index.php",
-      "credibility_hint": "direct_public_register",
-      "notes": "Official German insolvency publication portal. Needs adapter/query support for targeted companies/regions.",
-      "keywords": [
-        "Insolvenz",
-        "Insolvenzbekanntmachung",
-        "Amtsgericht",
-        "Unternehmen",
-        "Liquidation",
-        "Restrukturierung",
-        "Gläubiger"
-      ]
-    },
-    {
-      "id": "bundesanzeiger_direct_web",
-      "name": "Bundesanzeiger Direct",
-      "type": "webpage_check",
-      "source_tier": 4,
-      "source_class": "official_public_register",
-      "source_role": "direct_company_register_sensor",
-      "enabled": true,
-      "max_items": 2,
-      "url": "https://www.bundesanzeiger.de/pub/de/suchen2?4=",
-      "credibility_hint": "direct_public_register",
-      "notes": "Official publication platform. High value but needs adapter/query constraints to avoid noise and anti-bot issues.",
-      "keywords": [
-        "Bundesanzeiger",
-        "Gesellschaftsbekanntmachung",
-        "Jahresabschluss",
-        "Kapitalmarkt",
-        "Insolvenz",
-        "Liquidation",
-        "Register"
+        "public health"
       ]
     },
     {
@@ -572,19 +241,15 @@
       "enabled": true,
       "max_items": 2,
       "url": "https://reliefweb.int/rss",
-      "credibility_hint": "humanitarian_verified_sources",
-      "notes": "ReliefWeb supports RSS for updates/reports; use generated topic feeds for operational lanes.",
+      "notes": "ReliefWeb supports RSS for updates/reports; use generated topic feeds later.",
       "keywords": [
         "ReliefWeb",
         "OCHA",
         "humanitarian",
         "NGO",
         "disaster",
-        "food security",
-        "cholera",
         "flood",
-        "conflict",
-        "displacement"
+        "conflict"
       ]
     },
     {
@@ -597,19 +262,14 @@
       "enabled": true,
       "max_items": 2,
       "url": "https://www.msf.org/rss",
-      "credibility_hint": "ngo_field_medical",
-      "notes": "MSF RSS landing/reference. Field medical signal for outbreaks, conflict medicine, displacement and health-system collapse.",
+      "notes": "Field medical signal for outbreaks and conflict medicine.",
       "keywords": [
         "MSF",
-        "Doctors Without Borders",
-        "Médecins Sans Frontières",
         "outbreak",
         "cholera",
         "Ebola",
         "Gaza",
-        "Sudan",
-        "malnutrition",
-        "hospital"
+        "Sudan"
       ]
     }
   ]
