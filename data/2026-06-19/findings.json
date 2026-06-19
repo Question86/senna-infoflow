@@ -92,6 +92,29 @@
     "id": "e2635349491b5c34ac4c"
   },
   {
+    "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118390.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:36:41+00:00",
+    "fetched_at": "2026-06-19T05:48:46+00:00",
+    "summary": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "38d75bb6bd0d49b137da"
+  },
+  {
     "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
     "url": "https://www.correiobraziliense.com.br/mundo/2026/06/7444052-sanchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial.html",
     "source": "GDELT Politics Unrest Elections RSS",
@@ -2494,6 +2517,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0a68815c2a845d60ce21"
+  },
+  {
+    "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2118433.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T03:49:36+00:00",
+    "fetched_at": "2026-06-19T05:48:46+00:00",
+    "summary": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "817af9c2d6a808d97a57"
   },
   {
     "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",

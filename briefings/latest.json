@@ -2,10 +2,10 @@
   "counts": {
     "high": 0,
     "medium": 0,
-    "new_relevant_findings": 9,
-    "observe": 9,
+    "new_relevant_findings": 2,
+    "observe": 2,
     "source_errors": 4,
-    "today_file_total": 145
+    "today_file_total": 147
   },
   "coverage": {
     "active_sensor_groups": {
@@ -16,10 +16,10 @@
       "social": 1
     },
     "counts": {
-      "findings": 9,
+      "findings": 2,
       "high": 0,
       "medium": 0,
-      "observe": 9,
+      "observe": 2,
       "source_errors": 4
     },
     "coverage_confidence": "low",
@@ -28,7 +28,7 @@
       "security": 1,
       "social": 1
     },
-    "generated_at": "2026-06-19T03:57:19Z",
+    "generated_at": "2026-06-19T05:50:10Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -38,6 +38,7 @@
     "scope": "configured_public_sources_only",
     "warnings": [
       "source_errors_present",
+      "source_errors_exceed_findings",
       "critical_sensor_group_failed:social",
       "critical_sensor_group_failed:security"
     ]
@@ -45,149 +46,37 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "ca3d1739e9ea288196a9",
-      "market_context": [],
-      "matched_keywords": [
-        "Japan",
-        "JVN",
-        "Security"
-      ],
-      "published_at": "2026-06-19T12:30:00+09:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "relevance_score": 13,
-      "risk_or_opportunity": "risk",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPには、サービス運用妨害（DoS）状態が発生する可能性のある脆弱性が存在します。",
-      "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU97140216/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "a2b0ac3dd003e1c32b5d",
-      "market_context": [],
-      "matched_keywords": [
-        "AI",
-        "Singapore",
-        "Southeast Asia",
-        "startup"
-      ],
-      "published_at": "2026-06-19T03:44:31+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); AI (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "relevance_score": 13,
-      "risk_or_opportunity": "observation",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "The early Chinese backers of Singapore-headquartered AI startup Manus are reportedly preparing to buy the company back from Meta at the same roughly US$2 billion price the Facebook parent paid last year. The move underscores how geopolitics is reshaping exits for technology companies across Southeast Asia. Also Read: China blocks Meta’s AI bet on Manus: […] The post Chinese backers move to buy Manus from Meta in pot…",
-      "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
-      "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "f442598e64be5c13d3fe",
+      "fetched_at": "2026-06-19T05:48:46+00:00",
+      "id": "38d75bb6bd0d49b137da",
       "market_context": [],
       "matched_keywords": [
         "Hatena",
         "hotentry",
-        "Japan"
+        "OpenAI"
       ],
-      "published_at": "2026-06-18T22:49:49+00:00",
+      "published_at": "2026-06-19T01:36:41+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Japan (+2.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "relevance_score": 9,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
+      "relevance_score": 13,
       "risk_or_opportunity": "observation",
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "筆者はこれまで、「Docker」「Docker Desktop」「Podman」「Portainer」など、あらゆる種類のコンテナーツールを使ってきた。コンテナー関連の作業のほとんどは各種「Linux」マシンで処理してきたが、「MacBook」で作業したくなることもある。どちらを使用するにせよ、選択肢は常に存在することに気づいた。 筆者の（Mac...",
-      "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
-      "url": "https://japan.zdnet.com/article/35249088/",
+      "summary": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+      "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118390.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "de1c706dd5b73b8adf06",
-      "market_context": [],
-      "matched_keywords": [
-        "Indonesia",
-        "startup"
-      ],
-      "published_at": "2026-06-19T03:50:22+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "startup (+2.0); Indonesia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Two weeks ago, I sat across from the new chairman of a cooperative in West Java. He had been appointed three months earlier under Indonesia’s Koperasi Merah Putih programme. He asked me, sincerely and without embarrassment, how he was supposed to know which risks his cooperative was actually carrying — and whether he had to […] The post The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk managem…",
-      "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
-      "url": "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "d709fe6c851c35b07706",
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "matched_keywords": [
-        "startup",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "published_at": "2026-06-19T02:55:50+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "startup (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "The cryptocurrency market recently experienced a sizable contraction, dropping 2.21 per cent to reach a total capitalisation of US$2.17T over a 24-hour period. This downturn stems primarily from a hawkish Federal Reserve policy update signalling a higher-for-longer interest-rate environment. Wall Street rebounded from the initial Federal Reserve sell-off on Thursday, and technology stocks led the […] The post 81% co…",
-      "title": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
-      "url": "https://e27.co/81-correlated-with-gold-is-bitcoin-just-another-macro-derivative-now-20260619/",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "832d191ac82687e475ff",
+      "fetched_at": "2026-06-19T05:48:46+00:00",
+      "id": "817af9c2d6a808d97a57",
       "market_context": [],
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "published_at": "2026-06-19T02:00:27+00:00",
+      "published_at": "2026-06-19T03:49:36+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "relevance_score": 5,
@@ -195,83 +84,17 @@
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "「会社のWordPressサイト、このまま続けていいのだろうか」。近年、WordPress運用の負荷や保守体制を見直す企業も増えています。 本記事では、WordPressの法人運用で起きている典型的な5つの困りごとと、その対処として注目されているSaaS型CMSへの移行について、得るもの・失うものの両面から整理します。 「はてなCMS...",
-      "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
-      "url": "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "9cb78530cd441554dd1d",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-18T23:35:33+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "はじめに Google Cloud Blogで紹介されていたOpen Knowledge Format（OKF）を触ってみました。 OKFは、MarkdownファイルとYAML frontmatterで知識を表現するための軽量フォーマットです。Googleのサンプルでは、BigQueryのメタデータやWeb上のドキュメントをOKF bundleとして出力し、知識グラフとして可視化できます。 ...",
-      "title": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
-      "url": "https://zenn.dev/michy/articles/b7c9e2a4f6d810",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "6a149b0048aed0b532bd",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-18T22:34:45+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "ドナルド・トランプ米大統領は6月18日（現地時間）、自身のSNS「Truth Social」に投稿し、米Appleが米Intelと協力して米国内でチップを設計・製造することに合意したと述べた。ただしAppleとIntelは、この内容を公式に認めてはいない。 トランプ氏は投稿で、世界が依存するテクノロジーは米国で発明されたものだとした上...",
-      "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news069.html",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T03:55:54+00:00",
-      "id": "2ed9948e2950abe2db02",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-13T01:40:02+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "relevance_score": 4,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "データセンターは立地の選定が最大難関の問題になってきている。中国は、データセンターを海の中に沈めてしまうプロジェクトを進め、商用利用も始まっている。海中では故障率も低くなるとrefiが報じた。 データセンターは用地の選定が最大難関 データセンターをどこに設置するかは非常に頭の痛い問題だ。大量の電力を消...",
-      "title": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
-      "url": "https://tamakino.hatenablog.com/entry/2026/06/12/080000",
+      "summary": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+      "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2118433.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T03:57:18+00:00",
+  "generated_at": "2026-06-19T05:50:10+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T03:57:19Z",
+    "generated_at": "2026-06-19T05:50:10Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -301,149 +124,37 @@
     "medium": [],
     "observe": [
       {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "ca3d1739e9ea288196a9",
-        "market_context": [],
-        "matched_keywords": [
-          "Japan",
-          "JVN",
-          "Security"
-        ],
-        "published_at": "2026-06-19T12:30:00+09:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-        "relevance_score": 13,
-        "risk_or_opportunity": "risk",
-        "source": "JVN Japan Vulnerability Notes",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPには、サービス運用妨害（DoS）状態が発生する可能性のある脆弱性が存在します。",
-        "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU97140216/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "a2b0ac3dd003e1c32b5d",
-        "market_context": [],
-        "matched_keywords": [
-          "AI",
-          "Singapore",
-          "Southeast Asia",
-          "startup"
-        ],
-        "published_at": "2026-06-19T03:44:31+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); AI (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)",
-        "relevance_score": 13,
-        "risk_or_opportunity": "observation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "The early Chinese backers of Singapore-headquartered AI startup Manus are reportedly preparing to buy the company back from Meta at the same roughly US$2 billion price the Facebook parent paid last year. The move underscores how geopolitics is reshaping exits for technology companies across Southeast Asia. Also Read: China blocks Meta’s AI bet on Manus: […] The post Chinese backers move to buy Manus from Meta in pot…",
-        "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
-        "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "f442598e64be5c13d3fe",
+        "fetched_at": "2026-06-19T05:48:46+00:00",
+        "id": "38d75bb6bd0d49b137da",
         "market_context": [],
         "matched_keywords": [
           "Hatena",
           "hotentry",
-          "Japan"
+          "OpenAI"
         ],
-        "published_at": "2026-06-18T22:49:49+00:00",
+        "published_at": "2026-06-19T01:36:41+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Japan (+2.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-        "relevance_score": 9,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
+        "relevance_score": 13,
         "risk_or_opportunity": "observation",
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "筆者はこれまで、「Docker」「Docker Desktop」「Podman」「Portainer」など、あらゆる種類のコンテナーツールを使ってきた。コンテナー関連の作業のほとんどは各種「Linux」マシンで処理してきたが、「MacBook」で作業したくなることもある。どちらを使用するにせよ、選択肢は常に存在することに気づいた。 筆者の（Mac...",
-        "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
-        "url": "https://japan.zdnet.com/article/35249088/",
+        "summary": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+        "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118390.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "de1c706dd5b73b8adf06",
-        "market_context": [],
-        "matched_keywords": [
-          "Indonesia",
-          "startup"
-        ],
-        "published_at": "2026-06-19T03:50:22+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "startup (+2.0); Indonesia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Two weeks ago, I sat across from the new chairman of a cooperative in West Java. He had been appointed three months earlier under Indonesia’s Koperasi Merah Putih programme. He asked me, sincerely and without embarrassment, how he was supposed to know which risks his cooperative was actually carrying — and whether he had to […] The post The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk managem…",
-        "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
-        "url": "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "d709fe6c851c35b07706",
-        "market_context": [
-          "LMT",
-          "RTX",
-          "NOC",
-          "GD",
-          "RHM.DE",
-          "BA",
-          "SPY",
-          "QQQ",
-          "DAX",
-          "EWU",
-          "INDA",
-          "EWJ",
-          "EWY",
-          "EWA",
-          "EWC",
-          "EWZ"
-        ],
-        "matched_keywords": [
-          "startup",
-          "Watchgraph:capitals_power_centers"
-        ],
-        "published_at": "2026-06-19T02:55:50+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "startup (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "The cryptocurrency market recently experienced a sizable contraction, dropping 2.21 per cent to reach a total capitalisation of US$2.17T over a 24-hour period. This downturn stems primarily from a hawkish Federal Reserve policy update signalling a higher-for-longer interest-rate environment. Wall Street rebounded from the initial Federal Reserve sell-off on Thursday, and technology stocks led the […] The post 81% co…",
-        "title": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
-        "url": "https://e27.co/81-correlated-with-gold-is-bitcoin-just-another-macro-derivative-now-20260619/",
-        "watchgraph_modules": [
-          "capitals_power_centers"
-        ],
-        "watchgraph_reasons": [
-          "capitals_power_centers: capital"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "832d191ac82687e475ff",
+        "fetched_at": "2026-06-19T05:48:46+00:00",
+        "id": "817af9c2d6a808d97a57",
         "market_context": [],
         "matched_keywords": [
           "Hatena",
           "hotentry"
         ],
-        "published_at": "2026-06-19T02:00:27+00:00",
+        "published_at": "2026-06-19T03:49:36+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
         "relevance_score": 5,
@@ -451,75 +162,9 @@
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "「会社のWordPressサイト、このまま続けていいのだろうか」。近年、WordPress運用の負荷や保守体制を見直す企業も増えています。 本記事では、WordPressの法人運用で起きている典型的な5つの困りごとと、その対処として注目されているSaaS型CMSへの移行について、得るもの・失うものの両面から整理します。 「はてなCMS...",
-        "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
-        "url": "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "9cb78530cd441554dd1d",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-18T23:35:33+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "はじめに Google Cloud Blogで紹介されていたOpen Knowledge Format（OKF）を触ってみました。 OKFは、MarkdownファイルとYAML frontmatterで知識を表現するための軽量フォーマットです。Googleのサンプルでは、BigQueryのメタデータやWeb上のドキュメントをOKF bundleとして出力し、知識グラフとして可視化できます。 ...",
-        "title": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
-        "url": "https://zenn.dev/michy/articles/b7c9e2a4f6d810",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "6a149b0048aed0b532bd",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-18T22:34:45+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "ドナルド・トランプ米大統領は6月18日（現地時間）、自身のSNS「Truth Social」に投稿し、米Appleが米Intelと協力して米国内でチップを設計・製造することに合意したと述べた。ただしAppleとIntelは、この内容を公式に認めてはいない。 トランプ氏は投稿で、世界が依存するテクノロジーは米国で発明されたものだとした上...",
-        "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news069.html",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T03:55:54+00:00",
-        "id": "2ed9948e2950abe2db02",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-13T01:40:02+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-        "relevance_score": 4,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "データセンターは立地の選定が最大難関の問題になってきている。中国は、データセンターを海の中に沈めてしまうプロジェクトを進め、商用利用も始まっている。海中では故障率も低くなるとrefiが報じた。 データセンターは用地の選定が最大難関 データセンターをどこに設置するかは非常に頭の痛い問題だ。大量の電力を消...",
-        "title": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
-        "url": "https://tamakino.hatenablog.com/entry/2026/06/12/080000",
+        "summary": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+        "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2118433.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -554,32 +199,26 @@
   "under_observation": {
     "count": 5,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T03:57:19Z",
+    "generated_at": "2026-06-19T05:50:11Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 1,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 6,
+        "current_feed_signal_count": 2,
         "current_feed_signal_examples": [
           {
             "score": 13,
-            "source": "JVN Japan Vulnerability Notes",
-            "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
-            "url": "https://jvn.jp/vu/JVNVU97140216/"
-          },
-          {
-            "score": 9,
             "source": "Hatena Bookmark Hotentry IT",
-            "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
-            "url": "https://japan.zdnet.com/article/35249088/"
+            "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2118390.html"
           },
           {
             "score": 5,
             "source": "Hatena Bookmark Hotentry IT",
-            "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
-            "url": "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress"
+            "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+            "url": "https://pc.watch.impress.co.jp/docs/news/2118433.html"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -610,27 +249,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 5,
-        "current_feed_signal_examples": [
-          {
-            "score": 13,
-            "source": "JVN Japan Vulnerability Notes",
-            "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
-            "url": "https://jvn.jp/vu/JVNVU97140216/"
-          },
-          {
-            "score": 13,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
-            "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/"
-          },
-          {
-            "score": 9,
-            "source": "Hatena Bookmark Hotentry IT",
-            "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
-            "url": "https://japan.zdnet.com/article/35249088/"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "APAC nicht als China-Beifang behandeln.",
         "id": "apac_tech_social_trend_mesh",
         "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
@@ -644,15 +264,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 1,
-        "current_feed_signal_examples": [
-          {
-            "score": 13,
-            "source": "JVN Japan Vulnerability Notes",
-            "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
-            "url": "https://jvn.jp/vu/JVNVU97140216/"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
         "id": "global_south_coverage_gap",
         "region": "Africa, South America, LATAM",
@@ -666,21 +279,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
-        "current_feed_signal_examples": [
-          {
-            "score": 13,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
-            "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/"
-          },
-          {
-            "score": 9,
-            "source": "Hatena Bookmark Hotentry IT",
-            "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
-            "url": "https://japan.zdnet.com/article/35249088/"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
         "id": "mindanao_post_quake_recovery_hotspots",
         "region": "Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines",

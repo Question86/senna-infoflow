@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T03:57:18+00:00",
+  "generated_at": "2026-06-19T05:50:10+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3623,6 +3623,28 @@
       "rolling_average": 9.1,
       "rolling_peak": 9.1,
       "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "title:code-openai-anthropic-github-copilot": {
+      "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+      "updated_at": "2026-06-19T05:50:10+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "title:000wh-lenovo-thinkpad": {
+      "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+      "updated_at": "2026-06-19T05:50:10+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

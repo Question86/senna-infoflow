@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-19T03:57:18Z",
+  "generated_at": "2026-06-19T05:50:10Z",
   "cadence_minutes": 5,
   "retention_samples_per_topic": 2500,
   "topics": {
@@ -13177,6 +13177,62 @@
           "status": "emerging",
           "urls": [
             "https://tamakino.hatenablog.com/entry/2026/06/12/080000"
+          ]
+        }
+      ]
+    },
+    "title:vs-code-openai-anthropic-github-copilot": {
+      "topic_key": "title:vs-code-openai-anthropic-github-copilot",
+      "topic_label": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+      "last_seen_at": "2026-06-19T05:50:10Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T05-50-10Z:title:vs-code-openai-anthropic-github-copilot",
+          "sample_index": 5939494,
+          "timestamp_utc": "2026-06-19T05:50:10Z",
+          "run_id": "2026-06-19T05-50-10Z",
+          "topic_key": "title:vs-code-openai-anthropic-github-copilot",
+          "topic_label": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118390.html"
+          ]
+        }
+      ]
+    },
+    "title:pc-1-000wh-l-lenovo-thinkpad": {
+      "topic_key": "title:pc-1-000wh-l-lenovo-thinkpad",
+      "topic_label": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+      "last_seen_at": "2026-06-19T05:50:10Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T05-50-10Z:title:pc-1-000wh-l-lenovo-thinkpad",
+          "sample_index": 5939494,
+          "timestamp_utc": "2026-06-19T05:50:10Z",
+          "run_id": "2026-06-19T05-50-10Z",
+          "topic_key": "title:pc-1-000wh-l-lenovo-thinkpad",
+          "topic_label": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://pc.watch.impress.co.jp/docs/news/2118433.html"
           ]
         }
       ]
