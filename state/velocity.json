@@ -1,38 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T12:31:48+00:00",
+  "generated_at": "2026-06-19T13:48:19+00:00",
   "entities": {
-    "title:momentum-without-maturity-southeast-asia-reality": {
-      "title": "Momentum without maturity: Southeast Asia’s AI reality",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "history": [
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 1
-        }
-      ],
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ]
-    },
     "domain:www.bleepingcomputer.com": {
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "first_seen_at": "2026-06-17T21:31:36+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 2,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
+      "last_seen_at": "2026-06-19T13:48:19+00:00",
+      "previous_run_count": 2,
+      "last_run_count": 1,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
@@ -148,24 +126,138 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 2
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 1
         }
       ],
       "sources": [
         "BleepingComputer Security"
       ]
     },
-    "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future": {
-      "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-      "first_seen_at": "2026-06-19T12:31:48+00:00",
-      "last_seen_at": "2026-06-19T12:31:48+00:00",
+    "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
+      "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "first_seen_at": "2026-06-19T13:48:19+00:00",
+      "last_seen_at": "2026-06-19T13:48:19+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "ReliefWeb Mindanao Recovery Watch"
+      ]
+    },
+    "domain:restofworld.org": {
+      "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T13:48:19+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 7
+        },
+        {
+          "at": "2026-06-19T02:10:07+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:26:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:33:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T02:37:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T03:57:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T05:50:10+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T07:39:37+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T09:22:22+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T11:01:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T11:28:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ]
+    },
+    "title:momentum-without-maturity-southeast-asia-reality": {
+      "title": "Momentum without maturity: Southeast Asia’s AI reality",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future": {
+      "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
+      "first_seen_at": "2026-06-19T12:31:48+00:00",
+      "last_seen_at": "2026-06-19T12:31:48+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
+          "at": "2026-06-19T12:31:48+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -176,14 +268,18 @@
       "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
       "first_seen_at": "2026-06-19T12:31:48+00:00",
       "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -194,14 +290,18 @@
       "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
       "first_seen_at": "2026-06-19T12:31:48+00:00",
       "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -212,14 +312,18 @@
       "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
       "first_seen_at": "2026-06-19T12:31:48+00:00",
       "last_seen_at": "2026-06-19T12:31:48+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -230,10 +334,10 @@
       "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 17,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -17,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -241,6 +345,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -253,10 +361,10 @@
       "title": "Updates | ReliefWeb",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -264,6 +372,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -275,10 +387,10 @@
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 2,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -2,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -286,6 +398,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -298,10 +414,10 @@
       "title": "ICS Security Conference 2026",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -309,6 +425,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -320,10 +440,10 @@
       "title": "JSAC2026 -Day 1-",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -331,6 +451,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -342,10 +466,10 @@
       "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -353,6 +477,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -364,10 +492,10 @@
       "title": "CSIRTs Around the World – Azerbaijan",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -375,6 +503,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -386,10 +518,10 @@
       "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -397,6 +529,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -408,10 +544,10 @@
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 2,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -2,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -419,6 +555,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -430,10 +570,10 @@
       "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -441,6 +581,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -452,10 +596,10 @@
       "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -463,6 +607,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -474,10 +622,10 @@
       "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -485,6 +633,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -496,10 +648,10 @@
       "title": "デザインシステムのskillの精度が上がった8つの方法",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -507,6 +659,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -518,10 +674,10 @@
       "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 3,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -3,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
@@ -622,6 +778,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -632,10 +792,10 @@
       "title": "Interlock 勒索軟體組織利用 Cisco FMC 零日漏洞發動攻擊，呼籲用戶儘速修補",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -643,6 +803,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -654,10 +818,10 @@
       "title": "Study of Binaries Created with Rust through Reverse Engineering",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -665,6 +829,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -676,10 +844,10 @@
       "title": "YAMAGoya: A Real-time Client Monitoring Tool Using Sigma and YARA Rules",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -687,6 +855,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -698,10 +870,10 @@
       "title": "行政データにおける機械可読性に関するルールをコード化する取組みについて掲載しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -709,6 +881,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -720,10 +896,10 @@
       "title": "モビリティ：令和7年度「「交通商社機能」の取組を支援する事例集」を掲載しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -731,6 +907,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -742,10 +922,10 @@
       "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -753,6 +933,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -764,10 +948,10 @@
       "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.140、Vol.141を更新しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -775,6 +959,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -786,10 +974,10 @@
       "title": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -797,6 +985,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -808,10 +1000,10 @@
       "title": "松本大臣記者会見（令和8年6月19日）動画を掲載しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -819,6 +1011,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -830,10 +1026,10 @@
       "title": "第4回 日EUデジタルパートナーシップ閣僚級会合の結果",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -841,6 +1037,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -852,10 +1052,10 @@
       "title": "三角デジタル監が2026年OECD閣僚理事会に出席しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -863,6 +1063,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -874,10 +1078,10 @@
       "title": "デジタル関係制度改革検討会（第10回）（2026年4月23日開催）の議事録を掲載しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -885,6 +1089,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -896,10 +1104,10 @@
       "title": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
       "first_seen_at": "2026-06-19T11:28:55+00:00",
       "last_seen_at": "2026-06-19T11:28:55+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T11:28:55+00:00",
@@ -907,6 +1115,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -933,6 +1145,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -968,6 +1184,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -993,6 +1213,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1024,6 +1248,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1053,6 +1281,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1084,6 +1316,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1113,6 +1349,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1144,6 +1384,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1173,6 +1417,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1204,6 +1452,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1233,6 +1485,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1264,6 +1520,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1293,6 +1553,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1324,6 +1588,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1354,6 +1622,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1383,6 +1655,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1418,6 +1694,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1451,6 +1731,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1486,6 +1770,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1519,6 +1807,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1554,6 +1846,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1587,6 +1883,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1622,6 +1922,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1655,6 +1959,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1690,6 +1998,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1723,6 +2035,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1762,6 +2078,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1799,6 +2119,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1842,6 +2166,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1883,6 +2211,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -1926,6 +2258,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1967,6 +2303,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2010,6 +2350,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2051,6 +2395,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2094,6 +2442,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2136,6 +2488,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2177,6 +2533,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2228,6 +2588,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2277,6 +2641,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2328,6 +2696,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2377,6 +2749,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2428,6 +2804,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2477,6 +2857,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2528,6 +2912,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2577,6 +2965,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2628,6 +3020,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2677,6 +3073,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2732,6 +3132,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2785,6 +3189,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2848,6 +3256,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2905,6 +3317,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -2964,6 +3380,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3022,6 +3442,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3079,6 +3503,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3142,72 +3570,14 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
         "JVN Japan Vulnerability Notes"
-      ]
-    },
-    "domain:restofworld.org": {
-      "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
-      "first_seen_at": "2026-06-19T01:58:32+00:00",
-      "last_seen_at": "2026-06-19T01:58:32+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-19T01:58:32+00:00",
-          "count": 7
-        },
-        {
-          "at": "2026-06-19T02:10:07+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:26:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:33:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T02:37:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T03:57:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T05:50:10+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T07:39:37+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T09:22:22+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T11:01:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T11:28:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T12:31:48+00:00",
-          "count": 0
-        }
-      ],
-      "sources": [
-        "Rest of World Global Tech Feed"
       ]
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
@@ -3265,6 +3635,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3328,6 +3702,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3389,6 +3767,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3452,6 +3834,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3513,6 +3899,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3576,6 +3966,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3637,6 +4031,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3700,6 +4098,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3761,6 +4163,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3824,6 +4230,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3885,6 +4295,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -3948,6 +4362,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4009,6 +4427,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4072,6 +4494,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4133,6 +4559,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4196,6 +4626,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4257,6 +4691,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4320,6 +4758,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4381,6 +4823,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4444,6 +4890,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4505,6 +4955,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4568,6 +5022,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4629,6 +5087,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4692,6 +5154,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4753,6 +5219,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4816,6 +5286,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4877,6 +5351,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -4940,6 +5418,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5001,6 +5483,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5064,6 +5550,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5132,6 +5622,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5193,6 +5687,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5256,6 +5754,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5317,6 +5819,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5380,6 +5886,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5441,6 +5951,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5504,6 +6018,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5565,6 +6083,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5628,6 +6150,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5689,6 +6215,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5752,6 +6282,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5813,6 +6347,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -5876,6 +6414,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5937,6 +6479,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6000,6 +6546,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6061,6 +6611,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6124,6 +6678,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6185,6 +6743,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6248,6 +6810,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6309,6 +6875,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6372,6 +6942,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6433,6 +7007,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6496,6 +7074,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6557,6 +7139,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6672,6 +7258,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6786,6 +7376,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6847,6 +7441,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -6910,6 +7508,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6971,6 +7573,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7034,6 +7640,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7095,6 +7705,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7158,6 +7772,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7219,6 +7837,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7282,6 +7904,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7343,6 +7969,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7406,6 +8036,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7467,6 +8101,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7530,6 +8168,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7591,6 +8233,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7654,6 +8300,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7715,6 +8365,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -7778,6 +8432,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7840,6 +8498,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7901,6 +8563,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8016,6 +8682,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8077,6 +8747,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8140,6 +8814,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8201,6 +8879,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8264,6 +8946,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8325,6 +9011,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8440,6 +9130,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8501,6 +9195,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8564,6 +9262,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8625,6 +9327,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8688,6 +9394,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8749,6 +9459,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8812,6 +9526,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8873,6 +9591,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -8940,6 +9662,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9005,6 +9731,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9072,6 +9802,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9137,6 +9871,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9204,6 +9942,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9269,6 +10011,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9336,6 +10082,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9401,6 +10151,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9468,6 +10222,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9534,6 +10292,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9599,6 +10361,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9669,6 +10435,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9743,6 +10513,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9826,6 +10600,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9907,6 +10685,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -9990,6 +10772,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10071,6 +10857,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -10154,6 +10944,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10235,6 +11029,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -10318,6 +11116,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10399,6 +11201,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -10482,6 +11288,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10563,6 +11373,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -10646,6 +11460,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10727,6 +11545,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -10810,6 +11632,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10891,6 +11717,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -10974,6 +11804,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11055,6 +11889,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -11138,6 +11976,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11219,6 +12061,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -11334,6 +12180,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11415,6 +12265,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -11498,6 +12352,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11579,6 +12437,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -11662,6 +12524,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11744,6 +12610,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11825,6 +12695,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -11911,6 +12785,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -12014,6 +12892,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12099,6 +12981,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -12186,6 +13072,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12201,10 +13091,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 1
@@ -12320,6 +13206,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12405,6 +13295,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -12492,6 +13386,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12577,6 +13475,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -12668,6 +13570,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12757,6 +13663,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -12848,6 +13758,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12937,6 +13851,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -13028,6 +13946,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13118,6 +14040,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13207,6 +14133,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -13302,6 +14232,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13317,10 +14251,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
@@ -13436,6 +14366,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13530,6 +14464,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13623,6 +14561,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -13722,6 +14664,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -13819,6 +14765,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -13918,6 +14868,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14015,6 +14969,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -14118,6 +15076,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14219,6 +15181,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -14322,6 +15288,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14423,6 +15393,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -14526,6 +15500,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14541,10 +15519,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
@@ -14660,6 +15634,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14761,6 +15739,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -14864,6 +15846,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -14965,6 +15951,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -15068,6 +16058,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15169,6 +16163,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -15272,6 +16270,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15373,6 +16375,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -15476,6 +16482,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15577,6 +16587,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -15684,6 +16698,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -15789,6 +16807,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -15896,6 +16918,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16002,6 +17028,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16107,6 +17137,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -16217,6 +17251,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -16332,6 +17370,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16445,6 +17487,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -16560,6 +17606,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16674,6 +17724,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -16787,6 +17841,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -16905,6 +17963,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17021,6 +18083,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17134,6 +18200,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -17249,6 +18319,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17362,6 +18436,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -17477,6 +18555,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17590,6 +18672,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -17705,6 +18791,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -17818,6 +18908,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -17933,6 +19027,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18046,6 +19144,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -18161,6 +19263,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18274,6 +19380,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -18390,6 +19500,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18503,6 +19617,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -18618,6 +19736,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18731,6 +19853,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -18846,6 +19972,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -18959,6 +20089,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -19074,6 +20208,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19187,6 +20325,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -19302,6 +20444,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19415,6 +20561,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -19530,6 +20680,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19643,6 +20797,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -19758,6 +20916,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -19871,6 +21033,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -19986,6 +21152,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20099,6 +21269,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -20214,6 +21388,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20327,6 +21505,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -20442,6 +21624,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20556,6 +21742,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20669,6 +21859,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -20785,6 +21979,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -20898,6 +22096,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -21013,6 +22215,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21126,6 +22332,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -21241,6 +22451,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21354,6 +22568,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -21469,6 +22687,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21582,6 +22804,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -21697,6 +22923,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -21810,6 +23040,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -21925,6 +23159,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -22038,6 +23276,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -22153,6 +23395,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -22266,6 +23512,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -22381,6 +23631,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -22494,6 +23748,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -22609,6 +23867,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -22722,6 +23984,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -22837,6 +24103,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -22950,6 +24220,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -23065,6 +24339,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -23178,6 +24456,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -23297,6 +24579,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -23414,6 +24700,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -23533,6 +24823,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -23650,6 +24944,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -23769,6 +25067,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -23886,6 +25188,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -24005,6 +25311,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24122,6 +25432,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -24241,6 +25555,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24358,6 +25676,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -24481,6 +25803,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24602,6 +25928,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -24725,6 +26055,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24846,6 +26180,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -24969,6 +26307,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -25090,6 +26432,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -25213,6 +26559,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -25334,6 +26684,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -25461,6 +26815,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -25586,6 +26944,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -25713,6 +27075,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -25839,6 +27205,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -25964,6 +27334,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -26095,6 +27469,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -26221,6 +27599,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -26346,6 +27728,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -26477,6 +27863,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -26606,6 +27996,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -26737,6 +28131,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -26752,10 +28150,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 5
@@ -26870,6 +28264,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27001,6 +28399,10 @@
         {
           "at": "2026-06-19T12:31:48+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -27018,10 +28420,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27135,6 +28533,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27152,10 +28554,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27269,6 +28667,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27286,10 +28688,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27403,6 +28801,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27420,10 +28822,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27537,6 +28935,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27554,10 +28956,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27671,6 +29069,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27688,10 +29090,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 1
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27805,6 +29203,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27822,10 +29224,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -27939,6 +29337,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -27956,10 +29358,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28073,6 +29471,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28090,10 +29492,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28207,6 +29605,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28224,10 +29626,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28341,6 +29739,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28358,10 +29760,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28475,6 +29873,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28492,10 +29894,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28609,6 +30007,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28626,10 +30028,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28743,6 +30141,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28760,10 +30162,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -28877,6 +30275,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -28894,10 +30296,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29011,6 +30409,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29028,10 +30430,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29145,6 +30543,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29162,10 +30564,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29279,6 +30677,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29296,10 +30698,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29413,6 +30811,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29430,10 +30832,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29547,6 +30945,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29564,10 +30966,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29681,6 +31079,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29698,10 +31100,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29815,6 +31213,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29832,10 +31234,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -29949,6 +31347,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -29966,10 +31368,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30083,6 +31481,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30100,10 +31502,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30217,6 +31615,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30234,10 +31636,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30351,6 +31749,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30368,10 +31770,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30485,6 +31883,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30502,10 +31904,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30619,6 +32017,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30636,10 +32038,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30753,6 +32151,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30770,10 +32172,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -30887,6 +32285,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -30904,10 +32306,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -31021,6 +32419,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -31038,10 +32440,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -31155,6 +32553,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -31172,10 +32574,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -31289,6 +32687,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -31306,10 +32708,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -31423,6 +32821,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],
@@ -31440,10 +32842,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-18T02:20:10+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-18T03:39:26+00:00",
           "count": 0
         },
@@ -31557,6 +32955,10 @@
         },
         {
           "at": "2026-06-19T12:31:48+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T13:48:19+00:00",
           "count": 0
         }
       ],

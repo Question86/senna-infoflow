@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T12:31:48+00:00",
+  "generated_at": "2026-06-19T13:48:19+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -109,8 +109,8 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "updated_at": "2026-06-19T12:31:48+00:00",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "updated_at": "2026-06-19T13:48:19+00:00",
       "network_scores": [
         16.1,
         28.1,
@@ -121,12 +121,13 @@
         18.7,
         14.1,
         26.7,
-        19.2
+        19.2,
+        21.1
       ],
-      "rolling_average": 23.5,
+      "rolling_average": 23.28,
       "rolling_peak": 63.8,
-      "last_score": 19.2,
-      "z_hint": -4.3
+      "last_score": 21.1,
+      "z_hint": -2.18
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -2398,15 +2399,16 @@
       "z_hint": 0.0
     },
     "domain:restofworld.org": {
-      "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
-      "updated_at": "2026-06-19T01:58:32+00:00",
+      "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+      "updated_at": "2026-06-19T13:48:19+00:00",
       "network_scores": [
-        54.7
+        54.7,
+        8.1
       ],
-      "rolling_average": 54.7,
+      "rolling_average": 31.4,
       "rolling_peak": 54.7,
-      "last_score": 54.7,
-      "z_hint": 0.0
+      "last_score": 8.1,
+      "z_hint": -23.3
     },
     "domain:trends.google.com": {
       "title": "축구중계",
@@ -4279,6 +4281,17 @@
       "rolling_average": 10.1,
       "rolling_peak": 10.1,
       "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
+      "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "updated_at": "2026-06-19T13:48:19+00:00",
+      "network_scores": [
+        23.7
+      ],
+      "rolling_average": 23.7,
+      "rolling_peak": 23.7,
+      "last_score": 23.7,
       "z_hint": 0.0
     }
   }

@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T12:31:48Z",
+  "generated_at": "2026-06-19T13:48:19Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -330,6 +330,43 @@
       "topic_key": "domain-titlehash:twcert.org.tw:0054d8a281",
       "topic_label": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標"
     },
+    "domain:restofworld.org": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T13:48:19Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 7.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T13-48-19Z",
+          "sample_id": "2026-06-19T13-48-19Z:domain:restofworld.org",
+          "sample_index": 5939589,
+          "score_delta_5m": 7.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T13:48:19Z",
+          "topic_key": "domain:restofworld.org",
+          "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+          "trend_wucht": 16.0,
+          "urls": [
+            "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ],
+      "topic_key": "domain:restofworld.org",
+      "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate"
+    },
     "domain:togetter.com": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T12:31:48Z",
@@ -368,9 +405,9 @@
       "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」"
     },
     "domain:www.bleepingcomputer.com": {
-      "bucket": "other",
-      "last_seen_at": "2026-06-19T12:31:48Z",
-      "last_trend_wucht": 33.0,
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T13:48:19Z",
+      "last_trend_wucht": 29.5,
       "samples": [
         {
           "bucket": "other",
@@ -400,10 +437,38 @@
             "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
             "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/"
           ]
+        },
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 1,
+          "network_score": 20.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "run_id": "2026-06-19T13-48-19Z",
+          "sample_id": "2026-06-19T13-48-19Z:domain:www.bleepingcomputer.com",
+          "sample_index": 5939589,
+          "score_delta_5m": 5.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T13:48:19Z",
+          "topic_key": "domain:www.bleepingcomputer.com",
+          "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+          "trend_wucht": 29.5,
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
+          ]
         }
       ],
       "topic_key": "domain:www.bleepingcomputer.com",
-      "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond"
+      "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way"
     },
     "domain:www.ecb.europa.eu": {
       "bucket": "macro_policy",
@@ -1011,6 +1076,44 @@
       ],
       "topic_key": "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-russia-19-0:6",
       "topic_label": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V."
+    },
+    "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T13:48:19Z",
+      "last_trend_wucht": 44.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 3,
+          "network_score": 19.9,
+          "origin_counts": {
+            "latest_finding": 2,
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T13-48-19Z",
+          "sample_id": "2026-06-19T13-48-19Z:earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+          "sample_index": 5939589,
+          "score_delta_5m": 19.9,
+          "source_classes": [
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "ReliefWeb Mindanao Recovery Watch"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T13:48:19Z",
+          "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+          "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+          "trend_wucht": 44.8,
+          "urls": [
+            "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+      "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
     },
     "earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6": {
       "last_seen_at": "2026-06-18T02:20:10Z",
@@ -7204,6 +7307,41 @@
       "topic_key": "title:european-shares-retreat-as-markets-mull-hawkish-us-federal-reserve",
       "topic_label": "European shares retreat as markets mull hawkish US Federal Reserve"
     },
+    "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way": {
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T13:48:19Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "run_id": "2026-06-19T13-48-19Z",
+          "sample_id": "2026-06-19T13-48-19Z:title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+          "sample_index": 5939589,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T13:48:19Z",
+          "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+          "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
+          ]
+        }
+      ],
+      "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+      "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way"
+    },
     "title:exceptional-drought-expands-across-central-north-carolina-impacting-10-counties": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 12.0,
@@ -7963,6 +8101,41 @@
       ],
       "topic_key": "title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization",
       "topic_label": "Google to use UK and EU user IP addresses for ad personalization"
+    },
+    "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T13:48:19Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T13-48-19Z",
+          "sample_id": "2026-06-19T13-48-19Z:title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
+          "sample_index": 5939589,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T13:48:19Z",
+          "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
+          "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ],
+      "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
+      "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate"
     },
     "title:governors-and-heads-of-supervision-welcome-progress-to-implement-basel-iii-and-discuss-elements-": {
       "last_seen_at": "2026-06-18T14:33:45Z",

@@ -1,32 +1,31 @@
 {
   "counts": {
     "high": 0,
-    "medium": 1,
-    "new_relevant_findings": 7,
-    "observe": 6,
+    "medium": 2,
+    "new_relevant_findings": 3,
+    "observe": 1,
     "source_errors": 0,
-    "today_file_total": 234
+    "today_file_total": 236
   },
   "coverage": {
     "active_sensor_groups": {
       "disaster_humanitarian": 9,
       "github": 5,
-      "macro_finance": 8,
-      "other": 22,
+      "other": 19,
       "public_health": 1,
       "security": 10,
       "social": 1
     },
     "counts": {
-      "findings": 7,
+      "findings": 3,
       "high": 0,
-      "medium": 1,
-      "observe": 6,
+      "medium": 2,
+      "observe": 1,
       "source_errors": 0
     },
     "coverage_confidence": "normal",
     "failed_sensor_groups": {},
-    "generated_at": "2026-06-19T12:31:49Z",
+    "generated_at": "2026-06-19T13:48:20Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -39,169 +38,118 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "0b37276fa511495380e4",
-      "market_context": [],
+      "fetched_at": "2026-06-19T13:46:48+00:00",
+      "id": "5d34062c912a33e21ee3",
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
       "matched_keywords": [
         "AI",
-        "Indonesia",
-        "Philippines",
-        "Singapore",
-        "Southeast Asia",
-        "startup",
-        "Thailand",
-        "Vietnam"
+        "AI Agents",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "published_at": "2026-06-19T11:49:27+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Southeast Asia (+2.5); startup (+2.0); AI (+2.5); Singapore (+2.0); Indonesia (+2.0); Vietnam (+2.0); Thailand (+2.0); Philippines (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
-      "relevance_score": 20,
-      "risk_or_opportunity": "observation",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six economies — Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam — and found the region is nudging […] The post Momentum withou…",
-      "title": "Momentum without maturity: Southeast Asia’s AI reality",
-      "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "17e61e0c6cefc29837e9",
-      "market_context": [],
-      "matched_keywords": [
-        "AI",
-        "Security"
-      ],
-      "published_at": "2026-06-19T12:12:20+00:00",
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
-      "relevance_reason": "Security (+6.0); AI (+2.0); recent (+1.0)",
-      "relevance_score": 9,
-      "risk_or_opportunity": "mixed",
+      "published_at": "2026-06-19T13:10:19+00:00",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "AI Agents (+6.2); Security (+6.0); AI (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 19,
+      "risk_or_opportunity": "opportunity",
       "source": "BleepingComputer Security",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
+      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ]
     },
     {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "2cbb531ce405efb60e9d",
-      "market_context": [],
-      "matched_keywords": [
-        "Singapore",
-        "startup"
+      "fetched_at": "2026-06-19T13:46:48+00:00",
+      "id": "ca144e94de3081ff6362",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "published_at": "2026-06-19T11:50:48+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "startup (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "relevance_score": 7,
-      "risk_or_opportunity": "observation",
-      "source": "e27 Asia Startup and Tech Feed",
+      "matched_keywords": [
+        "earthquake",
+        "Glan",
+        "Mindanao",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "published_at": null,
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "Mindanao (+2.5); Sarangani (+2.5); Glan (+2.5); earthquake (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 18,
+      "risk_or_opportunity": "risk",
+      "source": "ReliefWeb Mindanao Recovery Watch",
       "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Farming practices across Asia face mounting pressure to increase output while reducing environmental damage. For BioArk, a Singapore-based agritech company, this challenge is a starting point for rethinking how fertilisers are made, applied, and integrated into existing systems without demanding costly changes from farmers. Rather than focusing on history or legacy methods, BioArk’s team develops […] The post BioArk…",
-      "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-      "url": "https://e27.co/bioark-feature-20250514/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
+      "source_type": "webpage_check",
+      "summary": "",
+      "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ]
     },
     {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "ccfd749279a119cc54ec",
+      "fetched_at": "2026-06-19T13:46:48+00:00",
+      "id": "11fad926be469e380fa0",
       "market_context": [],
-      "matched_keywords": [
-        "Security"
-      ],
-      "published_at": "2026-06-19T11:32:34+00:00",
+      "matched_keywords": [],
+      "published_at": "2026-06-19T13:00:00+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "relevance_score": 7,
+      "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
+      "relevance_score": 3,
       "risk_or_opportunity": "observation",
-      "source": "BleepingComputer Security",
+      "source": "Rest of World Global Tech Feed",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
-      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "48738b3cd9cf42bd99fc",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-19T01:38:34+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
-      "relevance_score": 6,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-      "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2118410.html",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "f6d5670827d187d6f5cb",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-19T08:39:56+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-      "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T12:29:57+00:00",
-      "id": "a441ab2fcc46c239612d",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-19T05:21:28+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "有機化学を学ぶ人 @yuukiwomanabu 【気がついたきっかけ①】 勘の良い学生がUSBを挿しただけで見知らぬファイルが作成することを報告。 作成されるファイルはmac用にフォーマットしたものとwindows用にフォーマットしたもので異なる可能性があります。 windowsユーザーの場合 svchost.exe または svchost..exe です。 202...",
-      "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-      "url": "https://togetter.com/li/2711078",
+      "summary": "A customer experiences the Osmo Pocket 4 camera at a DJI store in Shanghai, China, on April 20, 2026. (Photo by Costfoto/NurPhoto via Getty Images)",
+      "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+      "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T12:31:48+00:00",
+  "generated_at": "2026-06-19T13:48:19+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T12:31:49Z",
+    "generated_at": "2026-06-19T13:48:20Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -230,163 +178,112 @@
     "high": [],
     "medium": [
       {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "0b37276fa511495380e4",
-        "market_context": [],
+        "fetched_at": "2026-06-19T13:46:48+00:00",
+        "id": "5d34062c912a33e21ee3",
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
         "matched_keywords": [
           "AI",
-          "Indonesia",
-          "Philippines",
-          "Singapore",
-          "Southeast Asia",
-          "startup",
-          "Thailand",
-          "Vietnam"
+          "AI Agents",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
         ],
-        "published_at": "2026-06-19T11:49:27+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Southeast Asia (+2.5); startup (+2.0); AI (+2.5); Singapore (+2.0); Indonesia (+2.0); Vietnam (+2.0); Thailand (+2.0); Philippines (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
-        "relevance_score": 20,
-        "risk_or_opportunity": "observation",
-        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-06-19T13:10:19+00:00",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "relevance_reason": "AI Agents (+6.2); Security (+6.0); AI (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "relevance_score": 19,
+        "risk_or_opportunity": "opportunity",
+        "source": "BleepingComputer Security",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six economies — Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam — and found the region is nudging […] The post Momentum withou…",
-        "title": "Momentum without maturity: Southeast Asia’s AI reality",
-        "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
+        "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
+        "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+        "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T13:46:48+00:00",
+        "id": "ca144e94de3081ff6362",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "matched_keywords": [
+          "earthquake",
+          "Glan",
+          "Mindanao",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": null,
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "Mindanao (+2.5); Sarangani (+2.5); Glan (+2.5); earthquake (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 18,
+        "risk_or_opportunity": "risk",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_bias_class": "normal",
+        "source_type": "webpage_check",
+        "summary": "",
+        "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
       }
     ],
     "observe": [
       {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "17e61e0c6cefc29837e9",
+        "fetched_at": "2026-06-19T13:46:48+00:00",
+        "id": "11fad926be469e380fa0",
         "market_context": [],
-        "matched_keywords": [
-          "AI",
-          "Security"
-        ],
-        "published_at": "2026-06-19T12:12:20+00:00",
-        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
-        "relevance_reason": "Security (+6.0); AI (+2.0); recent (+1.0)",
-        "relevance_score": 9,
-        "risk_or_opportunity": "mixed",
-        "source": "BleepingComputer Security",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
-        "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-        "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "2cbb531ce405efb60e9d",
-        "market_context": [],
-        "matched_keywords": [
-          "Singapore",
-          "startup"
-        ],
-        "published_at": "2026-06-19T11:50:48+00:00",
+        "matched_keywords": [],
+        "published_at": "2026-06-19T13:00:00+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "startup (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-        "relevance_score": 7,
+        "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
+        "relevance_score": 3,
         "risk_or_opportunity": "observation",
-        "source": "e27 Asia Startup and Tech Feed",
+        "source": "Rest of World Global Tech Feed",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Farming practices across Asia face mounting pressure to increase output while reducing environmental damage. For BioArk, a Singapore-based agritech company, this challenge is a starting point for rethinking how fertilisers are made, applied, and integrated into existing systems without demanding costly changes from farmers. Rather than focusing on history or legacy methods, BioArk’s team develops […] The post BioArk…",
-        "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-        "url": "https://e27.co/bioark-feature-20250514/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "ccfd749279a119cc54ec",
-        "market_context": [],
-        "matched_keywords": [
-          "Security"
-        ],
-        "published_at": "2026-06-19T11:32:34+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Security (+6.0); recent (+1.0)",
-        "relevance_score": 7,
-        "risk_or_opportunity": "observation",
-        "source": "BleepingComputer Security",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
-        "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "48738b3cd9cf42bd99fc",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-19T01:38:34+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
-        "relevance_score": 6,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-        "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2118410.html",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "f6d5670827d187d6f5cb",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-19T08:39:56+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-        "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-        "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T12:29:57+00:00",
-        "id": "a441ab2fcc46c239612d",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-19T05:21:28+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "有機化学を学ぶ人 @yuukiwomanabu 【気がついたきっかけ①】 勘の良い学生がUSBを挿しただけで見知らぬファイルが作成することを報告。 作成されるファイルはmac用にフォーマットしたものとwindows用にフォーマットしたもので異なる可能性があります。 windowsユーザーの場合 svchost.exe または svchost..exe です。 202...",
-        "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-        "url": "https://togetter.com/li/2711078",
+        "summary": "A customer experiences the Osmo Pocket 4 camera at a DJI store in Shanghai, China, on April 20, 2026. (Photo by Costfoto/NurPhoto via Getty Images)",
+        "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+        "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -396,32 +293,26 @@
   "under_observation": {
     "count": 6,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T12:31:49Z",
+    "generated_at": "2026-06-19T13:48:20Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 2,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 5,
+        "current_feed_signal_count": 2,
         "current_feed_signal_examples": [
           {
-            "score": 9,
+            "score": 19,
             "source": "BleepingComputer Security",
-            "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/"
+            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+            "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
           },
           {
-            "score": 7,
-            "source": "BleepingComputer Security",
-            "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/"
-          },
-          {
-            "score": 6,
-            "source": "Hatena Bookmark Hotentry IT",
-            "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-            "url": "https://forest.watch.impress.co.jp/docs/news/2118410.html"
+            "score": 18,
+            "source": "ReliefWeb Mindanao Recovery Watch",
+            "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+            "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -436,7 +327,7 @@
         "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.",
         "window_hits": {
           "168h": {
-            "hit_count": 189,
+            "hit_count": 191,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -466,6 +357,15 @@
                 "trend_score": 36.7
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.9
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "trend",
@@ -474,70 +374,43 @@
                 "topic_key": "title:unknown",
                 "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
                 "trend_score": 28.5
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:ics-security-conference-2026",
-                "topic_label": "ICS Security Conference 2026",
-                "trend_score": 26.89
               }
             ]
           },
           "1h": {
-            "hit_count": 9,
+            "hit_count": 3,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 24.12
+              },
+              {
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 19.43
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 24.03
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:github-copilot",
-                "topic_label": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-                "trend_score": 13.53
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:claude-fable",
-                "topic_label": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-                "trend_score": 12.53
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "domain:togetter.com",
-                "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-                "trend_score": 12.53
-              },
-              {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 167,
+            "hit_count": 169,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -567,6 +440,15 @@
                 "trend_score": 36.73
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.96
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "trend",
@@ -575,70 +457,43 @@
                 "topic_key": "title:unknown",
                 "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
                 "trend_score": 28.67
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:ics-security-conference-2026",
-                "topic_label": "ICS Security Conference 2026",
-                "trend_score": 26.92
               }
             ]
           },
           "30m": {
-            "hit_count": 9,
+            "hit_count": 3,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 24.95
+              },
+              {
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 20.27
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 24.86
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:github-copilot",
-                "topic_label": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-                "trend_score": 14.36
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:claude-fable",
-                "topic_label": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-                "trend_score": 13.36
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "domain:togetter.com",
-                "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-                "trend_score": 13.36
-              },
-              {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 67,
+            "hit_count": 60,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -659,6 +514,15 @@
                 "trend_score": 42.15
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.3
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -675,20 +539,11 @@
                 "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
                 "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
                 "trend_score": 26.9
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:jsac2026-day",
-                "topic_label": "JSAC2026 -Day 1-",
-                "trend_score": 24.4
               }
             ]
           },
           "72h": {
-            "hit_count": 189,
+            "hit_count": 191,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -718,6 +573,15 @@
                 "trend_score": 36.7
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.91
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "trend",
@@ -726,20 +590,11 @@
                 "topic_key": "title:unknown",
                 "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
                 "trend_score": 28.54
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:ics-security-conference-2026",
-                "topic_label": "ICS Security Conference 2026",
-                "trend_score": 26.9
               }
             ]
           },
           "8h": {
-            "hit_count": 79,
+            "hit_count": 81,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -760,6 +615,15 @@
                 "trend_score": 42.05
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.09
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -776,65 +640,38 @@
                 "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
                 "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
                 "trend_score": 26.8
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:jsac2026-day",
-                "topic_label": "JSAC2026 -Day 1-",
-                "trend_score": 24.3
               }
             ]
           },
           "now": {
-            "hit_count": 9,
+            "hit_count": 3,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 44.8
+              },
+              {
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 33.0
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.5
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:github-copilot",
-                "topic_label": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
-                "trend_score": 22.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:claude-fable",
-                "topic_label": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
-                "trend_score": 20.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "domain:togetter.com",
-                "topic_label": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-                "trend_score": 20.0
-              },
-              {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 2.0
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 4.0
               }
             ]
           }
@@ -1041,25 +878,19 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 4,
+        "current_feed_signal_count": 2,
         "current_feed_signal_examples": [
           {
-            "score": 20,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "Momentum without maturity: Southeast Asia’s AI reality",
-            "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/"
-          },
-          {
-            "score": 9,
+            "score": 19,
             "source": "BleepingComputer Security",
-            "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/"
+            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+            "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
           },
           {
-            "score": 7,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-            "url": "https://e27.co/bioark-feature-20250514/"
+            "score": 3,
+            "source": "Rest of World Global Tech Feed",
+            "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+            "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
           }
         ],
         "do_not": "APAC nicht als China-Beifang behandeln.",
@@ -1074,7 +905,7 @@
         "why": "Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät.",
         "window_hits": {
           "168h": {
-            "hit_count": 159,
+            "hit_count": 162,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1114,69 +945,62 @@
                 "trend_score": 32.2
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "korea",
-                  "japan"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.5
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.9
               }
             ]
           },
           "1h": {
-            "hit_count": 7,
+            "hit_count": 4,
             "matched_topics": [
               {
-                "bucket": "market_product",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "startup"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:momentum-without-maturity-southeast-asia-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
-                "trend_score": 33.03
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 24.03
               },
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "tech-"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 19.43
+                "topic_key": "domain:restofworld.org",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "trend_score": 10.53
               },
               {
-                "bucket": "market_product",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "startup"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future",
-                "topic_label": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-                "trend_score": 14.53
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 3.93
               },
               {
                 "bucket": "apac_signal",
                 "matched_terms": [
-                  "startup"
+                  "tech-"
                 ],
-                "topic_key": "title:momentum-without-maturity:-southeast-asias-ai-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
-                "trend_score": 3.93
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
+                "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 150,
+            "hit_count": 153,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1216,69 +1040,62 @@
                 "trend_score": 32.23
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "korea",
-                  "japan"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.67
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.96
               }
             ]
           },
           "30m": {
-            "hit_count": 7,
+            "hit_count": 4,
             "matched_topics": [
               {
-                "bucket": "market_product",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "startup"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:momentum-without-maturity-southeast-asia-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
-                "trend_score": 33.86
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 24.86
               },
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "tech-"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 20.27
+                "topic_key": "domain:restofworld.org",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "trend_score": 11.36
               },
               {
-                "bucket": "market_product",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "startup"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future",
-                "topic_label": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-                "trend_score": 15.36
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 4.77
               },
               {
                 "bucket": "apac_signal",
                 "matched_terms": [
-                  "startup"
+                  "tech-"
                 ],
-                "topic_key": "title:momentum-without-maturity:-southeast-asias-ai-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
-                "trend_score": 4.77
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
+                "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 76,
+            "hit_count": 75,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1308,6 +1125,16 @@
                 "trend_score": 32.4
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security",
+                  "devtools"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.3
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1315,20 +1142,11 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 27.09
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.9
               }
             ]
           },
           "72h": {
-            "hit_count": 159,
+            "hit_count": 162,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1368,19 +1186,19 @@
                 "trend_score": 32.2
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "korea",
-                  "japan"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.54
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.91
               }
             ]
           },
           "8h": {
-            "hit_count": 80,
+            "hit_count": 83,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1410,6 +1228,16 @@
                 "trend_score": 32.3
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security",
+                  "devtools"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.09
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1417,64 +1245,48 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 26.99
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.8
               }
             ]
           },
           "now": {
-            "hit_count": 7,
+            "hit_count": 4,
             "matched_topics": [
               {
-                "bucket": "market_product",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "startup"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:momentum-without-maturity-southeast-asia-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
-                "trend_score": 61.0
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.5
               },
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "tech-"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 33.0
+                "topic_key": "domain:restofworld.org",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "trend_score": 16.0
               },
               {
-                "bucket": "market_product",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "startup"
+                  "security",
+                  "devtools"
                 ],
-                "topic_key": "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future",
-                "topic_label": "BioArk’s growth strategy plants seeds for a greener agricultural future",
-                "trend_score": 24.0
-              },
-              {
-                "bucket": "apac_signal",
-                "matched_terms": [
-                  "startup"
-                ],
-                "topic_key": "title:momentum-without-maturity:-southeast-asias-ai-reality",
-                "topic_label": "Momentum without maturity: Southeast Asia’s AI reality",
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 4.0
               },
               {
                 "bucket": "apac_signal",
                 "matched_terms": [
-                  "startup"
+                  "tech-"
                 ],
-                "topic_key": "title:bioarks-growth-strategy-plants-seeds-for-a-greener-agricultural-future",
-                "topic_label": "BioArk’s growth strategy plants seeds for a greener agricultural future",
+                "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
                 "trend_score": 4.0
               }
             ]
@@ -1483,19 +1295,13 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
+        "current_feed_signal_count": 1,
         "current_feed_signal_examples": [
           {
-            "score": 9,
+            "score": 19,
             "source": "BleepingComputer Security",
-            "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-            "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/"
-          },
-          {
-            "score": 7,
-            "source": "BleepingComputer Security",
-            "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/"
+            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+            "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
           }
         ],
         "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
@@ -1510,7 +1316,7 @@
         "why": "Afrika und Südamerika sind bei Tech-, Infrastruktur-, Klima-, Energie-, Zahlungs- und Plattformthemen nicht zu unterschätzen; westliche Feeds blenden sie oft aus.",
         "window_hits": {
           "168h": {
-            "hit_count": 92,
+            "hit_count": 93,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1540,6 +1346,15 @@
                 "trend_score": 36.7
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.9
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1547,52 +1362,34 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 26.89
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.7
               }
             ]
           },
           "1h": {
-            "hit_count": 3,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 19.43
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 24.03
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 3.93
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
-                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 87,
+            "hit_count": 88,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1622,6 +1419,15 @@
                 "trend_score": 36.73
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.96
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1629,52 +1435,34 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 26.92
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.73
               }
             ]
           },
           "30m": {
-            "hit_count": 3,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 20.27
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 24.86
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 4.77
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
-                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 55,
+            "hit_count": 48,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1695,6 +1483,15 @@
                 "trend_score": 42.15
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.3
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1711,20 +1508,11 @@
                 "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
                 "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
                 "trend_score": 26.9
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:jsac2026-day",
-                "topic_label": "JSAC2026 -Day 1-",
-                "trend_score": 24.4
               }
             ]
           },
           "72h": {
-            "hit_count": 92,
+            "hit_count": 93,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1754,6 +1542,15 @@
                 "trend_score": 36.7
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.91
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1761,20 +1558,11 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 26.9
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.7
               }
             ]
           },
           "8h": {
-            "hit_count": 57,
+            "hit_count": 58,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1795,6 +1583,15 @@
                 "trend_score": 42.05
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.09
+              },
+              {
                 "bucket": "security",
                 "matched_terms": [
                   "security"
@@ -1811,47 +1608,29 @@
                 "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
                 "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
                 "trend_score": 26.8
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:jsac2026-day",
-                "topic_label": "JSAC2026 -Day 1-",
-                "trend_score": 24.3
               }
             ]
           },
           "now": {
-            "hit_count": 3,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 33.0
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.5
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 2.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
-                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-                "trend_score": 2.0
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 4.0
               }
             ]
           }
@@ -1859,19 +1638,13 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
+        "current_feed_signal_count": 1,
         "current_feed_signal_examples": [
           {
-            "score": 20,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "Momentum without maturity: Southeast Asia’s AI reality",
-            "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/"
-          },
-          {
-            "score": 7,
-            "source": "BleepingComputer Security",
-            "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/"
+            "score": 18,
+            "source": "ReliefWeb Mindanao Recovery Watch",
+            "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+            "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
           }
         ],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
@@ -1886,8 +1659,17 @@
         "why": "Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben.",
         "window_hits": {
           "168h": {
-            "hit_count": 79,
+            "hit_count": 80,
             "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.9
+              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -1909,6 +1691,17 @@
                 "trend_score": 23.29
               },
               {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "sarangani",
+                  "glan",
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.29
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "port"
@@ -1916,54 +1709,37 @@
                 "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
                 "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
                 "trend_score": 20.7
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:rosanna-costa:-presentation-of-the-financial-stability-report-first-half-2026",
-                "topic_label": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
-                "trend_score": 20.7
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown",
-                "topic_label": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
-                "trend_score": 19.11
               }
             ]
           },
           "1h": {
-            "hit_count": 2,
+            "hit_count": 1,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "port"
+                  "sarangani",
+                  "glan",
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 19.43
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
-                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-                "trend_score": 3.93
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 24.12
               }
             ]
           },
           "24h": {
-            "hit_count": 59,
+            "hit_count": 60,
             "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.96
+              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -1985,6 +1761,17 @@
                 "trend_score": 23.32
               },
               {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "sarangani",
+                  "glan",
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.32
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "port"
@@ -1992,54 +1779,37 @@
                 "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
                 "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
                 "trend_score": 20.73
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:rosanna-costa:-presentation-of-the-financial-stability-report-first-half-2026",
-                "topic_label": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
-                "trend_score": 20.73
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown",
-                "topic_label": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
-                "trend_score": 19.17
               }
             ]
           },
           "30m": {
-            "hit_count": 2,
+            "hit_count": 1,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "port"
+                  "sarangani",
+                  "glan",
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 20.27
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
-                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-                "trend_score": 4.77
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 24.95
               }
             ]
           },
           "4h": {
-            "hit_count": 12,
+            "hit_count": 4,
             "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.3
+              },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
@@ -2052,46 +1822,39 @@
                 "trend_score": 23.49
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "port"
+                  "sarangani",
+                  "glan",
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 18.81
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.49
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "port"
                 ],
-                "topic_key": "title:drought-is-on-going-in-china-indonesia-cambodia-laos-malaysia-philippines-thailand-vietnam",
-                "topic_label": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
-                "trend_score": 12.9
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:drought-is-on-going-in-australia",
-                "topic_label": "Drought is on going in Australia",
-                "trend_score": 10.9
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:drought-is-on-going-in-mexico-united-states",
-                "topic_label": "Drought is on going in Mexico, United States",
-                "trend_score": 10.9
+                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
+                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+                "trend_score": 3.31
               }
             ]
           },
           "72h": {
-            "hit_count": 79,
+            "hit_count": 80,
             "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 28.91
+              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -2113,6 +1876,17 @@
                 "trend_score": 23.3
               },
               {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "sarangani",
+                  "glan",
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.3
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "port"
@@ -2120,31 +1894,21 @@
                 "topic_key": "title:cisa-urges-hardening-fortinet-devices-after-reports-of-credential-exposure",
                 "topic_label": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
                 "trend_score": 20.7
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:rosanna-costa:-presentation-of-the-financial-stability-report-first-half-2026",
-                "topic_label": "Rosanna Costa: Presentation of the Financial Stability Report First Half 2026",
-                "trend_score": 20.7
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:green-earthquake-magnitude-5m-depth:35.299km-in-andreanof:unknown",
-                "topic_label": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
-                "trend_score": 19.12
               }
             ]
           },
           "8h": {
-            "hit_count": 17,
+            "hit_count": 18,
             "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "port"
+                ],
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 29.09
+              },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
@@ -2157,13 +1921,15 @@
                 "trend_score": 23.39
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "port"
+                  "sarangani",
+                  "glan",
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 18.7
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.39
               },
               {
                 "bucket": "other",
@@ -2182,38 +1948,22 @@
                 "topic_key": "title:drought-is-on-going-in-china-indonesia-cambodia-laos-malaysia-philippines-thailand-vietnam",
                 "topic_label": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
                 "trend_score": 12.8
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:drought-is-on-going-in-australia",
-                "topic_label": "Drought is on going in Australia",
-                "trend_score": 10.8
               }
             ]
           },
           "now": {
-            "hit_count": 2,
+            "hit_count": 1,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "port"
+                  "sarangani",
+                  "glan",
+                  "earthquake"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
-                "trend_score": 33.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
-                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-                "trend_score": 2.0
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 44.8
               }
             ]
           }

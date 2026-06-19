@@ -11,18 +11,17 @@
     "macro_policy": "every 15 minutes or manual dispatch"
   },
   "counts": {
-    "active_sources": 56,
+    "active_sources": 45,
     "by_type": {
       "github_search": 5,
       "hackernews": 3,
       "manual_note": 1,
-      "rss": 44,
+      "rss": 33,
       "webpage_check": 3
     },
     "by_lane": {
       "base": 29,
       "hot": 6,
-      "macro_policy": 11,
       "platform_dev": 8,
       "vendor_security": 2
     }
@@ -342,105 +341,6 @@
       "source_class": null,
       "host": "earthquake.usgs.gov",
       "max_items": 10
-    },
-    {
-      "id": "bis_central_bank_speeches",
-      "name": "BIS Central Bankers Speeches",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank_network",
-      "host": "www.bis.org",
-      "max_items": 15
-    },
-    {
-      "id": "bis_press_releases",
-      "name": "BIS Press Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank_network",
-      "host": "www.bis.org",
-      "max_items": 15
-    },
-    {
-      "id": "bis_statistics",
-      "name": "BIS Statistical Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank_network",
-      "host": "www.bis.org",
-      "max_items": 15
-    },
-    {
-      "id": "ecb_open_market_operations",
-      "name": "ECB Open Market Operations and Communication",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 10
-    },
-    {
-      "id": "ecb_press_policy",
-      "name": "ECB Press Releases Speeches Interviews",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 15
-    },
-    {
-      "id": "ecb_statistical_press",
-      "name": "ECB Statistical Press Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 15
-    },
-    {
-      "id": "ecb_yield_curve",
-      "name": "ECB Euro Area Yield Curve",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 10
-    },
-    {
-      "id": "fed_monetary_policy_press",
-      "name": "Federal Reserve Monetary Policy Press Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 15
-    },
-    {
-      "id": "fed_policy_rates",
-      "name": "Federal Reserve Policy Rates Feed",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 10
-    },
-    {
-      "id": "fed_selected_interest_rates_h15",
-      "name": "Federal Reserve Selected Interest Rates H.15",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 10
-    },
-    {
-      "id": "fed_speeches_testimony",
-      "name": "Federal Reserve Speeches and Testimony",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 15
     },
     {
       "id": "github_blog_atom",
