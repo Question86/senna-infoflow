@@ -16,9 +16,9 @@
       "media_after_direct_sources": true,
       "removed_ids_count": 9,
       "disabled_ids_count": 4,
-      "merged_overlay_sources": 85,
-      "replaced_overlay_sources": 62,
-      "last_overlay_merge_utc": "2026-06-19T20:08:38.779396+00:00"
+      "merged_overlay_sources": 70,
+      "replaced_overlay_sources": 61,
+      "last_overlay_merge_utc": "2026-06-19T20:22:28.148555+00:00"
     }
   },
   "defaults": {

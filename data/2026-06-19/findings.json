@@ -85,8 +85,8 @@
     "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
     "source": "ReliefWeb Food Security Updates",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T18:21:08+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "published_at": "2026-06-19T19:52:32+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
     "summary": "Updates containing food security agriculture Ukraine Russia wheat",
     "matched_keywords": [
       "agriculture",
@@ -118,7 +118,7 @@
       "corn",
       "soy"
     ],
-    "id": "7c6e960ac7b42b7bab43"
+    "id": "ca7dfa36cacbe02ff547"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
@@ -290,8 +290,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T18:19:02+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "published_at": "2026-06-19T20:23:19+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "earthquake",
@@ -325,7 +325,7 @@
       "HD",
       "LOW"
     ],
-    "id": "39cb0f57b92e141612a3"
+    "id": "187ddae3efdd9fb9019f"
   },
   {
     "title": "What’s at stake for the environment in Colombia’s upcoming election?",
@@ -3178,6 +3178,26 @@
     "id": "a9e63fd619f62f6ddc7a"
   },
   {
+    "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:25:02+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d322bbbfe08e0725ab4e"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547511",
     "source": "GDACS All Events Last 24h",
@@ -3849,6 +3869,28 @@
     "id": "4f31e75bd542dfbf2a10"
   },
   {
+    "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+    "url": "https://www.presseportal.de/blaulicht/pm/62288/6298230",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:46:46+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "Wiesbaden (ots) - (Sc) Die Autobahnpolizei Wiesbaden konnte am frühen Freitagabend des 19.06.2026 um 19:47 Uhr einen Falschfahrer auf der A671, Richtungsfahrbahn Mainz bei Mainz-Kastel stellen. Am 19.06.2026 um 19:47 Uhr gingen erste Meldungen ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "248a96029b736f66d4a7"
+  },
+  {
     "title": "POL-PDTR: Große Alkohol- und Drogenkontrolle im Rahmen der ROADPOL-Woche im Ehranger Hafen",
     "url": "https://www.presseportal.de/blaulicht/pm/117698/6298226",
     "source": "Presseportal Police RSS",
@@ -4455,6 +4497,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "802c3e6a6f0e22a1df20"
+  },
+  {
+    "title": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084550",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-16T07:56:53+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "C-188/24 WebGroup Czech Republic und NKL Associates sowie C-190/24 Coyote System Freizügigkeit Dienste der Informationsgesellschaft: Die Mitgliedstaaten können die Überprüfung des Alters der Nutzer pornografischer Websites verlangen und die Weiterverbreitung von Informationen über bestimmte Verkehrskontrollen in ihrem Hoheitsgebiet untersagen",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA",
+      "Webentwicklung"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Webentwicklung (+3.0); CJEU (+2.0); CURIA (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1703bed582a3aec11092"
   },
   {
     "title": "zai-org/GLM-5",
@@ -5169,8 +5233,8 @@
     "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report",
     "source": "USDA WASDE Report",
     "source_type": "webpage_check",
-    "published_at": "2026-06-18T06:30:15+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "published_at": "2026-06-18T02:25:35+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
     "summary": "The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB).",
     "matched_keywords": [
       "USDA",
@@ -5183,7 +5247,7 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "3ce68a42fc72d0bcf62c"
+    "id": "78acbc54cd248525cdcb"
   },
   {
     "title": "Neues Zollschiff Friesland feierlich getauft",
@@ -5444,8 +5508,8 @@
     "url": "https://wmo.int/news",
     "source": "World Meteorological Organization News",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T20:11:27+00:00",
-    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "published_at": "2026-06-19T20:25:12+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
     "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
     "matched_keywords": [
       "climate",
@@ -5458,7 +5522,28 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "947e386521985f60f6ff"
+    "id": "ed2d58066438414f5cbb"
+  },
+  {
+    "title": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
+    "url": "https://www.presseportal.de/blaulicht/pm/117712/6298229",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:44:47+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "Koblenz (ots) - Aufgrund der aktuellen Wetterprognosen für das Stadtgebiet Koblenz trat der Koordinierungskreis der Veranstaltung \"Electronic Wine\" zusammen. Diesem gehören Vertreterinnen und Vertreter der Veranstaltungsleitung, des ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2aaf2c223a18dc2e67df"
   },
   {
     "title": "POL-PIAZ: Vollendeter Schockanruf - Seniorin übergibt Goldschmuck und Goldmünzen im fünfstelligen Wert",
@@ -6383,6 +6468,69 @@
     "id": "fa9b71891841470d27b4"
   },
   {
+    "title": "90/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-522/24",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084644",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:00:29+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "Ministero della Difesa (Impfpflicht der Militärangehörigen) Sozialpolitik Die auf das Militärpersonal beschränkte Impfpflicht gegen das SARS-CoV-2-Virus stellt keine Diskriminierung im Sinne des Unionsrechts dar",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2eb10bab82a0d103a5ba"
+  },
+  {
+    "title": "88/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-232/25",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084631",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-18T07:49:40+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "[Idziski] Raum der Freiheit, der Sicherheit und des Rechts Der Gerichtshof präzisiert die Vorschriften über die gerichtliche Zuständigkeit bei einer Verletzung von Persönlichkeitsrechten, die sich aus der Verbreitung einer Serie im Fernsehen mehrerer Mitgliedstaaten und im Internet ergibt",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49ba3ed2dcd4b38b159e"
+  },
+  {
+    "title": "89/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-658/24",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084630",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-18T07:49:39+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "Penny Market Niederlassungsfreiheit Lebensmittelhandel: Die ungarische Regelung, wonach große Händler zu Sonderangeboten verpflichtet sind, verstößt gegen das Unionsrecht",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "51533002ba874c88e17e"
+  },
+  {
     "title": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
     "url": "https://gigazine.net/news/20260618-claude-design-claude-code/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -7058,6 +7206,26 @@
     "id": "dd3fca56499a17594696"
   },
   {
+    "title": "Subscribe to RSS feeds | ReliefWeb",
+    "url": "https://reliefweb.int/rss",
+    "source": "ReliefWeb RSS Reference",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T20:17:42+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "Help - Subscribe to RSS feeds",
+    "matched_keywords": [
+      "ReliefWeb"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "ReliefWeb (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c05e863a6c6ff986f19f"
+  },
+  {
     "title": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
     "url": "http://www.prnewswire.com/news-releases/traba-launches-neo--ai-that-decides-acts-and-runs-your-operation-with-you-302804816.html",
     "source": "GDELT Initial Disruption Resonance RSS",
@@ -7209,8 +7377,8 @@
     "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
     "source": "FDA Press Announcements",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T19:34:44+00:00",
-    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "published_at": "2026-06-19T19:30:15+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
     "summary": "Press Announcements",
     "matched_keywords": [
       "FDA"
@@ -7222,7 +7390,7 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "c1d633bd2ad847161048"
+    "id": "f021105f0a590d9a6513"
   },
   {
     "title": "UN News | Global perspective Human stories",
@@ -7449,6 +7617,90 @@
     "id": "4bf82f4374bab4d511a7"
   },
   {
+    "title": "86/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge des Generalanwalts in den Rechtssachen",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084427",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-11T08:08:36+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "C-631/24 P Kommission/Auken u. a. und C-632/24 P Kommission/Courtois u. a. Generalanwalt Rantos: Die Kommission hat der Öffentlichkeit keinen ausreichend umfassenden Zugang zu den Verträgen über den Kauf von Covid-19-Impfstoffen gewährt",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "27efd44f04d1302a43a7"
+  },
+  {
+    "title": "85/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge der Generalanwältin in den verbundenen Rechtssachen C-706/25 und C-707/25",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084428",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-11T08:08:36+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "[Comeri und Sidilli] Raum der Freiheit, der Sicherheit und des Rechts Generalanwältin Medina: Bei der Ausübung ihrer Zuständigkeit für die Errichtung von Abschiebungshafteinrichtungen auch außerhalb der EU bleiben die Mitgliedstaaten verpflichtet, die im EU-Asylrecht vorgesehenen Garantien einzuhalten",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "204bd79c009ebebbc34e"
+  },
+  {
+    "title": "83/Thu Jun 11 00:00:00 CEST 2026 : Wed Jun 17 10:05:00 CEST 2026 - Urteil des Gerichts in der Rechtssache T-1119/23",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084577",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-11T07:57:00+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "T-1097/23 Vivendi/Commission and T-1119/23 Lagardère/Commission Wettbewerb Wettbewerb: Die Kommission kann unter bestimmten Voraussetzungen die Übermittlung von Dokumenten verlangen, die auf für berufliche Zwecke genutzten privaten Kommunikationsgeräten gespeichert sind",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7bf07d486b1d5c7e9e98"
+  },
+  {
+    "title": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-81/24",
+    "url": "https://curia.europa.eu/site/jcms/p1_1000084411",
+    "source": "CJEU CURIA Press RSS DE EN",
+    "source_type": "rss",
+    "published_at": "2026-06-11T07:56:59+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
+    "summary": "[Jenec] Rechtsangleichung Bankdienstleistungen: Die Eintragung in eine Sanktionsliste der USA reicht für sich genommen nicht aus, um die Eröffnung eines Kontos abzulehnen",
+    "matched_keywords": [
+      "CJEU",
+      "CURIA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "CJEU (+2.0); CURIA (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "409656025ca7c0918bda"
+  },
+  {
     "title": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig",
     "url": "http://www.bverwg.de/pm/2026/44",
     "source": "Bundesverwaltungsgericht Presse RSS",
@@ -7622,8 +7874,8 @@
     "url": "https://reliefweb.int/updates?search=Ukraine",
     "source": "ReliefWeb Ukraine Updates",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T18:19:45+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "published_at": "2026-06-19T19:51:12+00:00",
+    "fetched_at": "2026-06-19T20:22:28+00:00",
     "summary": "Updates containing Ukraine",
     "matched_keywords": [
       "Ukraine"
@@ -7635,7 +7887,7 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "7fce01028934cb29aae6"
+    "id": "6abecbf3bdd072857fb1"
   },
   {
     "title": "South African authorities thwart smuggling of 150 venomous scorpions, arrest man",

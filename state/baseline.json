@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T20:12:42+00:00",
+  "generated_at": "2026-06-19T20:26:25+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -109,8 +109,8 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "updated_at": "2026-06-19T16:56:13+00:00",
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
         16.1,
         28.1,
@@ -123,12 +123,13 @@
         26.7,
         19.2,
         21.1,
-        17.1
+        17.1,
+        13.1
       ],
-      "rolling_average": 22.77,
+      "rolling_average": 22.02,
       "rolling_peak": 63.8,
-      "last_score": 17.1,
-      "z_hint": -5.67
+      "last_score": 13.1,
+      "z_hint": -8.92
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -3969,8 +3970,9 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-06-19T18:22:32+00:00",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
+        23.7,
         23.7,
         23.7,
         23.7
@@ -4456,28 +4458,30 @@
     },
     "domain:reliefweb.int": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-06-19T18:22:32+00:00",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
         28.7,
-        39.4
+        39.4,
+        50.1
       ],
-      "rolling_average": 34.05,
-      "rolling_peak": 39.4,
-      "last_score": 39.4,
-      "z_hint": 5.35
+      "rolling_average": 39.4,
+      "rolling_peak": 50.1,
+      "last_score": 50.1,
+      "z_hint": 10.7
     },
     "domain:www.fda.gov": {
       "title": "Press Announcements | FDA",
-      "updated_at": "2026-06-19T20:12:42+00:00",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
         26.2,
         20.2,
+        6.1,
         6.1
       ],
-      "rolling_average": 17.5,
+      "rolling_average": 14.65,
       "rolling_peak": 26.2,
       "last_score": 6.1,
-      "z_hint": -11.4
+      "z_hint": -8.55
     },
     "domain:www.eia.gov": {
       "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
@@ -4582,28 +4586,30 @@
     },
     "domain:www.usda.gov": {
       "title": "WASDE Report | USDA",
-      "updated_at": "2026-06-19T18:22:32+00:00",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
         11.1,
-        8.1
+        8.1,
+        11.1
       ],
-      "rolling_average": 9.6,
+      "rolling_average": 10.1,
       "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
+      "last_score": 11.1,
+      "z_hint": 1.0
     },
     "domain:wmo.int": {
       "title": "News Portal",
-      "updated_at": "2026-06-19T20:12:42+00:00",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "domain:www.ema.europa.eu": {
       "title": "News | European Medicines Agency (EMA)",
@@ -4651,15 +4657,16 @@
       "z_hint": 0.0
     },
     "domain:www.presseportal.de": {
-      "title": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da",
-      "updated_at": "2026-06-19T20:12:42+00:00",
+      "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+      "updated_at": "2026-06-19T20:26:25+00:00",
       "network_scores": [
-        132.3
+        132.3,
+        11.2
       ],
-      "rolling_average": 132.3,
+      "rolling_average": 71.75,
       "rolling_peak": 132.3,
-      "last_score": 132.3,
-      "z_hint": 0.0
+      "last_score": 11.2,
+      "z_hint": -60.55
     },
     "domain:www.zoll.de": {
       "title": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen",
@@ -4769,6 +4776,17 @@
       "rolling_average": 8.1,
       "rolling_peak": 8.1,
       "last_score": 8.1,
+      "z_hint": 0.0
+    },
+    "domain:curia.europa.eu": {
+      "title": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
+      "updated_at": "2026-06-19T20:26:25+00:00",
+      "network_scores": [
+        47.8
+      ],
+      "rolling_average": 47.8,
+      "rolling_peak": 47.8,
+      "last_score": 47.8,
       "z_hint": 0.0
     }
   }

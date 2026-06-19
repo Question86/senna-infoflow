@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T20:12:42Z",
+  "generated_at": "2026-06-19T20:26:24Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -366,6 +366,48 @@
       ],
       "topic_key": "domain:climate.copernicus.eu",
       "topic_label": "News | Copernicus"
+    },
+    "domain:curia.europa.eu": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 35.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 8,
+          "network_score": 16.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:curia.europa.eu",
+          "sample_index": 5939669,
+          "score_delta_5m": 16.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:curia.europa.eu",
+          "topic_label": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
+          "trend_wucht": 35.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084550",
+            "https://curia.europa.eu/site/jcms/p1_1000084644",
+            "https://curia.europa.eu/site/jcms/p1_1000084631",
+            "https://curia.europa.eu/site/jcms/p1_1000084630",
+            "https://curia.europa.eu/site/jcms/p1_1000084427",
+            "https://curia.europa.eu/site/jcms/p1_1000084428"
+          ]
+        }
+      ],
+      "topic_key": "domain:curia.europa.eu",
+      "topic_label": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen"
     },
     "domain:ecfr.eu": {
       "bucket": "apac_signal",
@@ -750,8 +792,8 @@
     },
     "domain:reliefweb.int": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
-      "last_trend_wucht": 48.18,
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 59.82,
       "samples": [
         {
           "bucket": "other",
@@ -808,6 +850,38 @@
           "trend_wucht": 48.18,
           "urls": [
             "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+            "https://reliefweb.int/updates?search=Ukraine"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 3,
+          "network_score": 44.18,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:reliefweb.int",
+          "sample_index": 5939669,
+          "score_delta_5m": 9.64,
+          "source_classes": [
+            "tier1_official"
+          ],
+          "source_count": 3,
+          "sources": [
+            "ReliefWeb Food Security Updates",
+            "ReliefWeb RSS Reference",
+            "ReliefWeb Ukraine Updates"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:reliefweb.int",
+          "topic_label": "Updates | ReliefWeb",
+          "trend_wucht": 59.82,
+          "urls": [
+            "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+            "https://reliefweb.int/rss",
             "https://reliefweb.int/updates?search=Ukraine"
           ]
         }
@@ -891,8 +965,8 @@
     },
     "domain:wmo.int": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
-      "last_trend_wucht": 14.5,
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 8.5,
       "samples": [
         {
           "bucket": "other",
@@ -977,15 +1051,43 @@
           "urls": [
             "https://wmo.int/news"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 6.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:wmo.int",
+          "sample_index": 5939669,
+          "score_delta_5m": -6.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:wmo.int",
+          "topic_label": "News Portal",
+          "trend_wucht": 8.5,
+          "urls": [
+            "https://wmo.int/news"
+          ]
         }
       ],
       "topic_key": "domain:wmo.int",
       "topic_label": "News Portal"
     },
     "domain:www.bleepingcomputer.com": {
-      "bucket": "other",
-      "last_seen_at": "2026-06-19T16:56:13Z",
-      "last_trend_wucht": 18.0,
+      "bucket": "security",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 17.0,
       "samples": [
         {
           "bucket": "other",
@@ -1071,10 +1173,38 @@
           "urls": [
             "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/"
           ]
+        },
+        {
+          "bucket": "security",
+          "mention_count": 1,
+          "network_score": 12.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:www.bleepingcomputer.com",
+          "sample_index": 5939669,
+          "score_delta_5m": -4.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:www.bleepingcomputer.com",
+          "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+          "trend_wucht": 17.0,
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
+          ]
         }
       ],
       "topic_key": "domain:www.bleepingcomputer.com",
-      "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses"
+      "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin"
     },
     "domain:www.bundesarbeitsgericht.de": {
       "bucket": "other",
@@ -1495,7 +1625,7 @@
     },
     "domain:www.fda.gov": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_seen_at": "2026-06-19T20:26:24Z",
       "last_trend_wucht": 7.5,
       "samples": [
         {
@@ -1579,6 +1709,34 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.fda.gov",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 7.5,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 5.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:www.fda.gov",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
           "topic_key": "domain:www.fda.gov",
           "topic_label": "Press Announcements | FDA",
           "trend_wucht": 7.5,
@@ -1740,8 +1898,8 @@
     },
     "domain:www.presseportal.de": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
-      "last_trend_wucht": 52.0,
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 10.5,
       "samples": [
         {
           "bucket": "other",
@@ -1776,10 +1934,39 @@
             "https://www.presseportal.de/blaulicht/pm/117710/6298222",
             "https://www.presseportal.de/blaulicht/pm/117705/6298220"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 8.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:www.presseportal.de",
+          "sample_index": 5939669,
+          "score_delta_5m": -15.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:www.presseportal.de",
+          "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+          "trend_wucht": 10.5,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/62288/6298230",
+            "https://www.presseportal.de/blaulicht/pm/117712/6298229"
+          ]
         }
       ],
       "topic_key": "domain:www.presseportal.de",
-      "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da"
+      "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt"
     },
     "domain:www.twcert.org": {
       "bucket": "security",
@@ -1826,8 +2013,8 @@
     },
     "domain:www.usda.gov": {
       "bucket": "market_product",
-      "last_seen_at": "2026-06-19T18:22:32Z",
-      "last_trend_wucht": 9.5,
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 15.3,
       "samples": [
         {
           "bucket": "market_product",
@@ -1881,6 +2068,34 @@
           "topic_key": "domain:www.usda.gov",
           "topic_label": "WASDE Report | USDA",
           "trend_wucht": 9.5,
+          "urls": [
+            "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+          ]
+        },
+        {
+          "bucket": "market_product",
+          "mention_count": 1,
+          "network_score": 10.4,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:domain:www.usda.gov",
+          "sample_index": 5939669,
+          "score_delta_5m": 2.9,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "USDA WASDE Report"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "domain:www.usda.gov",
+          "topic_label": "WASDE Report | USDA",
+          "trend_wucht": 15.3,
           "urls": [
             "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
           ]
@@ -3376,7 +3591,7 @@
     },
     "earthquake:updates-reliefweb:unknown": {
       "bucket": "disaster_recovery",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:26:24Z",
       "last_trend_wucht": 24.9,
       "samples": [
         {
@@ -3459,6 +3674,35 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "earthquake:updates-reliefweb:unknown",
+          "topic_label": "Updates | ReliefWeb",
+          "trend_wucht": 24.9,
+          "urls": [
+            "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+          ]
+        },
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 3,
+          "network_score": 19.9,
+          "origin_counts": {
+            "latest_finding": 2,
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:earthquake:updates-reliefweb:unknown",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "ReliefWeb Mindanao Recovery Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
           "topic_key": "earthquake:updates-reliefweb:unknown",
           "topic_label": "Updates | ReliefWeb",
           "trend_wucht": 24.9,
@@ -4464,6 +4708,146 @@
       "topic_key": "title:81-correlated-with-gold:-is-bitcoin-just-another-macro-derivative-now",
       "topic_label": "81% correlated with gold: Is Bitcoin just another macro derivative now?"
     },
+    "title:83-thu-jun-11-00:00:00-cest-2026-:-wed-jun-17-10:05:00-cest-2026-urteil-des-gerichts-in-der-rech": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:83-thu-jun-11-00:00:00-cest-2026-:-wed-jun-17-10:05:00-cest-2026-urteil-des-gerichts-in-der-rech",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:83-thu-jun-11-00:00:00-cest-2026-:-wed-jun-17-10:05:00-cest-2026-urteil-des-gerichts-in-der-rech",
+          "topic_label": "83/Thu Jun 11 00:00:00 CEST 2026 : Wed Jun 17 10:05:00 CEST 2026 - Urteil des Gerichts in der Rechtssache T-1119/23",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084577"
+          ]
+        }
+      ],
+      "topic_key": "title:83-thu-jun-11-00:00:00-cest-2026-:-wed-jun-17-10:05:00-cest-2026-urteil-des-gerichts-in-der-rech",
+      "topic_label": "83/Thu Jun 11 00:00:00 CEST 2026 : Wed Jun 17 10:05:00 CEST 2026 - Urteil des Gerichts in der Rechtssache T-1119/23"
+    },
+    "title:84-thu-jun-11-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-81-24": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:84-thu-jun-11-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-81-24",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:84-thu-jun-11-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-81-24",
+          "topic_label": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-81/24",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084411"
+          ]
+        }
+      ],
+      "topic_key": "title:84-thu-jun-11-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-81-24",
+      "topic_label": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-81/24"
+    },
+    "title:85-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-der-generalanwaltin-in-den-verbundenen-re": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:85-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-der-generalanwaltin-in-den-verbundenen-re",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:85-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-der-generalanwaltin-in-den-verbundenen-re",
+          "topic_label": "85/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge der Generalanwältin in den verbundenen Rechtssachen C-706/25 und C-707/25",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084428"
+          ]
+        }
+      ],
+      "topic_key": "title:85-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-der-generalanwaltin-in-den-verbundenen-re",
+      "topic_label": "85/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge der Generalanwältin in den verbundenen Rechtssachen C-706/25 und C-707/25"
+    },
+    "title:86-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-des-generalanwalts-in-den-rechtssachen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:86-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-des-generalanwalts-in-den-rechtssachen",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:86-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-des-generalanwalts-in-den-rechtssachen",
+          "topic_label": "86/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge des Generalanwalts in den Rechtssachen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084427"
+          ]
+        }
+      ],
+      "topic_key": "title:86-thu-jun-11-00:00:00-cest-2026-:-null-schlussantrage-des-generalanwalts-in-den-rechtssachen",
+      "topic_label": "86/Thu Jun 11 00:00:00 CEST 2026 : null - Schlussanträge des Generalanwalts in den Rechtssachen"
+    },
     "title:8619": {
       "bucket": "apac_signal",
       "last_seen_at": "2026-06-19T11:28:55Z",
@@ -4499,6 +4883,111 @@
       "topic_key": "title:8619",
       "topic_label": "松本大臣記者会見（令和8年6月19日）動画を掲載しました"
     },
+    "title:87-tue-jun-16-00:00:00-cest-2026-:-tue-jun-16-10:52:22-cest-2026-urteil-des-gerichtshofs-in-den-": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:87-tue-jun-16-00:00:00-cest-2026-:-tue-jun-16-10:52:22-cest-2026-urteil-des-gerichtshofs-in-den-",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:87-tue-jun-16-00:00:00-cest-2026-:-tue-jun-16-10:52:22-cest-2026-urteil-des-gerichtshofs-in-den-",
+          "topic_label": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084550"
+          ]
+        }
+      ],
+      "topic_key": "title:87-tue-jun-16-00:00:00-cest-2026-:-tue-jun-16-10:52:22-cest-2026-urteil-des-gerichtshofs-in-den-",
+      "topic_label": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen"
+    },
+    "title:88-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-232-25": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:88-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-232-25",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:88-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-232-25",
+          "topic_label": "88/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-232/25",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084631"
+          ]
+        }
+      ],
+      "topic_key": "title:88-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-232-25",
+      "topic_label": "88/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-232/25"
+    },
+    "title:89-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-658-24": {
+      "bucket": "market_product",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "market_product",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:89-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-658-24",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:89-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-658-24",
+          "topic_label": "89/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-658/24",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084630"
+          ]
+        }
+      ],
+      "topic_key": "title:89-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-658-24",
+      "topic_label": "89/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-658/24"
+    },
     "title:90": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 13.0,
@@ -4526,6 +5015,41 @@
       ],
       "topic_key": "title:90",
       "topic_label": "รัฐสภาเกาหลีใต้เปิดการสอบสวน ปมบัตรเลือกตั้งท้องถิ่นขาดแคลนกว่า 90 หน่วย"
+    },
+    "title:90-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-522-24": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:90-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-522-24",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "CJEU CURIA Press RSS DE EN"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:90-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-522-24",
+          "topic_label": "90/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-522/24",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://curia.europa.eu/site/jcms/p1_1000084644"
+          ]
+        }
+      ],
+      "topic_key": "title:90-thu-jun-18-00:00:00-cest-2026-:-null-urteil-des-gerichtshofs-in-der-rechtssache-c-522-24",
+      "topic_label": "90/Thu Jun 18 00:00:00 CEST 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-522/24"
     },
     "title::": {
       "last_seen_at": "2026-06-18T23:17:57Z",
@@ -11754,6 +12278,41 @@
       "topic_key": "title:h-l-ne-rey-appointed-as-economic-adviser-and-head-of-monetary-and-economic-department",
       "topic_label": "Hélène Rey appointed as Economic Adviser and Head of Monetary and Economic Department"
     },
+    "title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin": {
+      "bucket": "security",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "security",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin",
+          "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
+          ]
+        }
+      ],
+      "topic_key": "title:hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin",
+      "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin"
+    },
     "title:hauptzollamt-lorrach-pruft-taxi-und-mietwagenunternehmen": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T20:12:42Z",
@@ -16308,7 +16867,7 @@
     },
     "title:news-portal": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_seen_at": "2026-06-19T20:26:24Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -16382,6 +16941,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:news-portal",
+          "topic_label": "News Portal",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:news-portal",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
           "topic_key": "title:news-portal",
           "topic_label": "News Portal",
           "trend_wucht": 2.0,
@@ -17618,6 +18203,41 @@
       "topic_key": "title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da",
       "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da"
     },
+    "title:pol-pdko:-unwetter-in-koblenz-erfordert-absage-des-electronic-wine-festivals-und-raumung-der-ver": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:pol-pdko:-unwetter-in-koblenz-erfordert-absage-des-electronic-wine-festivals-und-raumung-der-ver",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:pol-pdko:-unwetter-in-koblenz-erfordert-absage-des-electronic-wine-festivals-und-raumung-der-ver",
+          "topic_label": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117712/6298229"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdko:-unwetter-in-koblenz-erfordert-absage-des-electronic-wine-festivals-und-raumung-der-ver",
+      "topic_label": "POL-PDKO: Unwetter in Koblenz erfordert Absage des Electronic Wine Festivals und Räumung der Veranstaltungsfläche am Deutschen Eck"
+    },
     "title:pol-pdlu:-lambsheim-gerlosheim-verkehrsunfall-mit-todlich-verletzter-person": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T20:12:42Z",
@@ -17968,6 +18588,41 @@
       "topic_key": "title:pol-whv:-vermisste-person-norbert-willi-unruh-angetroffen",
       "topic_label": "POL-WHV: Vermisste Person Norbert Willi UNRUH angetroffen"
     },
+    "title:pol-wi:-falschfahrer-auf-der-a671-richtung-mainz-gestellt": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:pol-wi:-falschfahrer-auf-der-a671-richtung-mainz-gestellt",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:pol-wi:-falschfahrer-auf-der-a671-richtung-mainz-gestellt",
+          "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/62288/6298230"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-wi:-falschfahrer-auf-der-a671-richtung-mainz-gestellt",
+      "topic_label": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt"
+    },
     "title:police-cleans-nearly-15-000-socgholish-infected-sites-tied-to-evil-corp": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 15.0,
@@ -18259,7 +18914,7 @@
     },
     "title:press-announcements-fda": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_seen_at": "2026-06-19T20:26:24Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -18333,6 +18988,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:press-announcements-fda",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:press-announcements-fda",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
           "topic_key": "title:press-announcements-fda",
           "topic_label": "Press Announcements | FDA",
           "trend_wucht": 2.0,
@@ -20315,6 +20996,41 @@
       "topic_key": "title:study-of-binaries-created-with-rust-through-reverse-engineering",
       "topic_label": "Study of Binaries Created with Rust through Reverse Engineering"
     },
+    "title:subscribe-to-rss-feeds-reliefweb": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:26:24Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:subscribe-to-rss-feeds-reliefweb",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "ReliefWeb RSS Reference"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
+          "topic_key": "title:subscribe-to-rss-feeds-reliefweb",
+          "topic_label": "Subscribe to RSS feeds | ReliefWeb",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://reliefweb.int/rss"
+          ]
+        }
+      ],
+      "topic_key": "title:subscribe-to-rss-feeds-reliefweb",
+      "topic_label": "Subscribe to RSS feeds | ReliefWeb"
+    },
     "title:summary-for-post-tropical-cyclone-arthur-at1-al012026": {
       "last_seen_at": "2026-06-18T03:39:26Z",
       "last_trend_wucht": 14.0,
@@ -22045,7 +22761,7 @@
     },
     "title:updates-reliefweb": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:26:24Z",
       "last_trend_wucht": 4.0,
       "samples": [
         {
@@ -22068,6 +22784,34 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "title:updates-reliefweb",
+          "topic_label": "Updates | ReliefWeb",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+            "https://reliefweb.int/updates?search=Ukraine"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 4,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 4
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:updates-reliefweb",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 2,
+          "sources": [
+            "ReliefWeb Food Security Updates",
+            "ReliefWeb Ukraine Updates"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
           "topic_key": "title:updates-reliefweb",
           "topic_label": "Updates | ReliefWeb",
           "trend_wucht": 4.0,
@@ -22639,7 +23383,7 @@
     },
     "title:wasde-report-usda": {
       "bucket": "market_product",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:26:24Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -22687,6 +23431,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "title:wasde-report-usda",
+          "topic_label": "WASDE Report | USDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+          ]
+        },
+        {
+          "bucket": "market_product",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-26-24Z",
+          "sample_id": "2026-06-19T20-26-24Z:title:wasde-report-usda",
+          "sample_index": 5939669,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "USDA WASDE Report"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:26:24Z",
           "topic_key": "title:wasde-report-usda",
           "topic_label": "WASDE Report | USDA",
           "trend_wucht": 2.0,

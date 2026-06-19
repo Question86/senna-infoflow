@@ -9,17 +9,17 @@
     "social": 1
   },
   "counts": {
-    "findings": 51,
+    "findings": 18,
     "high": 0,
-    "medium": 0,
-    "observe": 51,
-    "source_errors": 4
+    "medium": 2,
+    "observe": 16,
+    "source_errors": 3
   },
   "coverage_confidence": "limited",
   "failed_sensor_groups": {
-    "other": 4
+    "other": 3
   },
-  "generated_at": "2026-06-19T20:12:42Z",
+  "generated_at": "2026-06-19T20:26:25Z",
   "principles": [
     "Scoring is not truth.",
     "Surviving sources are not a representative world picture.",
@@ -28,7 +28,6 @@
   "schema_version": 1,
   "scope": "configured_public_sources_only",
   "warnings": [
-    "source_errors_present",
-    "many_candidates_zero_high"
+    "source_errors_present"
   ]
 }

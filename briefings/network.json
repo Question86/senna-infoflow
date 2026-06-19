@@ -1,293 +1,128 @@
 {
-  "generated_at": "2026-06-19T20:12:42+00:00",
+  "generated_at": "2026-06-19T20:26:25+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 51,
-    "clusters": 16,
+    "findings": 18,
+    "clusters": 8,
     "cross_source_confrmed": 1,
     "hot": 1,
-    "early_signals": 3,
-    "dominance_penalized": 3
+    "early_signals": 0,
+    "dominance_penalized": 1
   },
   "clusters": [
     {
-      "key": "domain:www.presseportal.de",
-      "title": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da",
+      "key": "domain:reliefweb.int",
+      "title": "Updates | ReliefWeb",
       "sources": [
-        "Presseportal Feuerwehr Muenchen RSS",
-        "Presseportal Police RSS"
+        "ReliefWeb Food Security Updates",
+        "ReliefWeb RSS Reference",
+        "ReliefWeb Ukraine Updates"
       ],
       "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.presseportal.de/blaulicht/pm/44143/6298227",
-        "https://www.presseportal.de/blaulicht/pm/68442/6298225",
-        "https://www.presseportal.de/blaulicht/pm/69780/6298224",
-        "https://www.presseportal.de/blaulicht/pm/117709/6298228",
-        "https://www.presseportal.de/blaulicht/pm/117710/6298222",
-        "https://www.presseportal.de/blaulicht/pm/117705/6298220"
-      ],
-      "finding_count": 23,
-      "max_score": 9,
-      "credibility_total": 24.15,
-      "cross_source_confirmed": true,
-      "momentum_delta": 23,
-      "momentum_status": "increasing",
-      "network_score": 24.0,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 132.3,
-      "ranking_score": 24.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 8.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "domain:news.mongabay.com",
-      "title": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-      "sources": [
-        "Mongabay Latin America Rainforest Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://news.mongabay.com/2026/06/death-and-exile-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 21.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T17:44:38+00:00"
-    },
-    {
-      "key": "domain:firms.modaps.eosdis.nasa.gov",
-      "title": "NASA | LANCE | FIRMS",
-      "sources": [
-        "NASA FIRMS Active Fire Watch"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://firms.modaps.eosdis.nasa.gov/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 18.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T17:44:38+00:00"
-    },
-    {
-      "key": "domain:www.zoll.de",
-      "title": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen",
-      "sources": [
-        "Zoll Pressemitteilungen RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z36_lebende_schlange_ffm.html",
-        "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z37_taufe_zollschiff_friesland_ol.html",
-        "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y45_pruefung_asiatisches_restaurant_hst.html",
-        "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y46_spp_taxi_mietwagen_loe.html",
-        "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z38_zoll_auktion_gi.html",
-        "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z35_potenzhonig_k.html"
-      ],
-      "finding_count": 7,
-      "max_score": 6,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 7,
-      "momentum_status": "increasing",
-      "network_score": 15.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "energy_oil_gas_power_uranium"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 41.7,
-      "ranking_score": 15.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 8.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "domain:www.ecdc.europa.eu",
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
-      "sources": [
-        "ECDC CDTR RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
-        "https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus-mers-cov-situation-update"
-      ],
-      "finding_count": 2,
-      "max_score": 5,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 15.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "public_health_biosecurity"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 15.2,
-      "ranking_score": 15.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": true,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "earthquake:japan:4.0",
-      "title": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "emergency_official",
         "tier1_official"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547511",
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547496"
+        "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+        "https://reliefweb.int/rss",
+        "https://reliefweb.int/updates?search=Ukraine"
       ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
+      "finding_count": 3,
+      "max_score": 22,
+      "credibility_total": 4.05,
+      "cross_source_confirmed": true,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 15.4,
-      "hot": false,
+      "network_score": 44.18,
+      "hot": true,
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "agriculture_food_fertilizer"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 19.4,
-      "ranking_score": 15.4,
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 50.1,
+      "ranking_score": 44.18,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 0.0,
+      "breadth_bonus": 8.0,
+      "momentum_bonus": 7.5,
+      "baseline_bonus": 4.28,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": true,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
+      "first_seen_at": "2026-06-19T17:44:38+00:00"
     },
     {
-      "key": "domain:www.bverwg.de",
-      "title": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig",
+      "key": "earthquake:updates | reliefweb:unknown",
+      "title": "Updates | ReliefWeb",
       "sources": [
-        "Bundesverwaltungsgericht Presse RSS"
+        "ReliefWeb Mindanao Recovery Watch"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 23.7,
+      "ranking_score": 19.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-19T11:28:55+00:00"
+    },
+    {
+      "key": "domain:curia.europa.eu",
+      "title": "87/Tue Jun 16 00:00:00 CEST 2026 : Tue Jun 16 10:52:22 CEST 2026 - Urteil des Gerichtshofs in den verbundenen Rechtssachen",
+      "sources": [
+        "CJEU CURIA Press RSS DE EN"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "http://www.bverwg.de/pm/2026/44",
-        "http://www.bverwg.de/pm/2026/43",
-        "http://www.bverwg.de/pm/2026/46",
-        "http://www.bverwg.de/pm/2026/45",
-        "http://www.bverwg.de/pm/2026/42"
+        "https://curia.europa.eu/site/jcms/p1_1000084550",
+        "https://curia.europa.eu/site/jcms/p1_1000084644",
+        "https://curia.europa.eu/site/jcms/p1_1000084631",
+        "https://curia.europa.eu/site/jcms/p1_1000084630",
+        "https://curia.europa.eu/site/jcms/p1_1000084427",
+        "https://curia.europa.eu/site/jcms/p1_1000084428"
       ],
-      "finding_count": 5,
-      "max_score": 4,
-      "credibility_total": 5.25,
+      "finding_count": 8,
+      "max_score": 7,
+      "credibility_total": 8.4,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 8,
       "momentum_status": "increasing",
-      "network_score": 13.5,
+      "network_score": 16.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 29.5,
-      "ranking_score": 13.5,
+      "raw_network_score": 47.8,
+      "ranking_score": 16.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -300,32 +135,32 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
+      "first_seen_at": "2026-06-19T20:26:25+00:00"
     },
     {
-      "key": "domain:www.nikkei.com",
-      "title": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "BleepingComputer Security"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.nikkei.com/article/DGXZQOUA18CWY0Y6A610C2000000/"
+        "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
       ],
       "finding_count": 1,
-      "max_score": 9,
+      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.0,
+      "network_score": 12.0,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.0,
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -338,7 +173,84 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T02:10:07+00:00"
+      "first_seen_at": "2026-06-17T21:31:36+00:00"
+    },
+    {
+      "key": "domain:www.usda.gov",
+      "title": "WASDE Report | USDA",
+      "sources": [
+        "USDA WASDE Report"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.4,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.4,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.4,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T17:44:38+00:00"
+    },
+    {
+      "key": "domain:www.presseportal.de",
+      "title": "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+      "sources": [
+        "Presseportal Police RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.presseportal.de/blaulicht/pm/62288/6298230",
+        "https://www.presseportal.de/blaulicht/pm/117712/6298229"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": -21,
+      "momentum_status": "falling",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.2,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T20:12:42+00:00"
     },
     {
       "key": "domain:wmo.int",
@@ -358,263 +270,25 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.5,
+      "network_score": 6.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 7.1,
-      "ranking_score": 12.5,
+      "ranking_score": 6.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T17:44:38+00:00"
-    },
-    {
-      "key": "domain:www.bundesgesundheitsministerium.de",
-      "title": "Bundesgesundheitsministerin Nina Warken beim EPSCO-Rat in Luxemburg",
-      "sources": [
-        "BMG Presse RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/warken-beim-epsco-rat-pm-16-06-2026",
-        "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/finanzentwicklung-der-gkv-im-1-quartal-2026-pm-19-06-2026-1"
-      ],
-      "finding_count": 2,
-      "max_score": 6,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 12.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 16.2,
-      "ranking_score": 12.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "earthquake:japan:4.9",
-      "title": "M 4.9 - 127 km SSE of Itoman, Japan",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000supp"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 13.7,
-      "ranking_score": 9.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "earthquake:philippines:4.0",
-      "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547504"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 13.7,
-      "ranking_score": 9.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "domain:www.polizei.bayern.de",
-      "title": "Die Bayerische Polizei - Neueste Pressemeldungen",
-      "sources": [
-        "Bayerische Polizei Pressemeldungen"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 8.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "earthquake:papua new guinea 19:4.0",
-      "title": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547508"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 7.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 11.7,
-      "ranking_score": 7.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
-    },
-    {
-      "key": "domain:www.bundesarbeitsgericht.de",
-      "title": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit",
-      "sources": [
-        "Bundesarbeitsgericht Presse RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bundesarbeitsgericht.de/presse/vorwirkender-kuendigungsschutz-vor-zeitabschnitten-einer-elternzeit/"
-      ],
-      "finding_count": 1,
-      "max_score": 3,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 7.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 8.1,
-      "ranking_score": 7.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T20:12:42+00:00"
     },
     {
       "key": "domain:www.fda.gov",
@@ -632,8 +306,8 @@
       "max_score": 4,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "stable",
       "network_score": 5.5,
       "hot": false,
       "watchgraph_modules": [],
@@ -657,7 +331,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-06-19T20:12:42Z",
+    "generated_at": "2026-06-19T20:26:25Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
