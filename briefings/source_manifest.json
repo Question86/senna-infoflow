@@ -11,16 +11,16 @@
     "macro_policy": "every 15 minutes or manual dispatch"
   },
   "counts": {
-    "active_sources": 89,
+    "active_sources": 94,
     "by_type": {
       "github_search": 5,
       "hackernews": 3,
       "manual_note": 1,
-      "rss": 54,
-      "webpage_check": 26
+      "rss": 64,
+      "webpage_check": 21
     },
     "by_lane": {
-      "base": 62,
+      "base": 67,
       "hot": 6,
       "macro_policy": 11,
       "platform_dev": 8,
@@ -28,6 +28,15 @@
     }
   },
   "sources": [
+    {
+      "id": "ap_top_news_rss",
+      "name": "Associated Press Top News RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "wire_service_backbone",
+      "host": "apnews.com",
+      "max_items": 20
+    },
     {
       "id": "axi0m_blog",
       "name": "AXI0M Blog",
@@ -54,6 +63,42 @@
       "source_class": null,
       "host": "www.bleepingcomputer.com",
       "max_items": 15
+    },
+    {
+      "id": "bmg_pressemitteilungen_rss",
+      "name": "BMG Presse RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_health_ministry",
+      "host": "www.bundesgesundheitsministerium.de",
+      "max_items": 10
+    },
+    {
+      "id": "bundesarbeitsgericht_presse_rss",
+      "name": "Bundesarbeitsgericht Presse RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_court",
+      "host": "www.bundesarbeitsgericht.de",
+      "max_items": 10
+    },
+    {
+      "id": "bverwg_presse_rss",
+      "name": "Bundesverwaltungsgericht Presse RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_court",
+      "host": "www.bverwg.de",
+      "max_items": 10
+    },
+    {
+      "id": "bverwg_termine_rss",
+      "name": "Bundesverwaltungsgericht Termine RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_court",
+      "host": "www.bverwg.de",
+      "max_items": 10
     },
     {
       "id": "carbon_brief_feed",
@@ -92,30 +137,21 @@
       "max_items": 15
     },
     {
-      "id": "copernicus_climate_news_web",
-      "name": "Copernicus Climate Change Service News",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "global_climate",
-      "host": "climate.copernicus.eu",
-      "max_items": 1
-    },
-    {
-      "id": "copernicus_ems_floods_web",
-      "name": "Copernicus Emergency Management Service",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "climate_disaster_earth_observation",
-      "host": "emergency.copernicus.eu",
-      "max_items": 1
-    },
-    {
       "id": "crisisgroup_global_feed",
       "name": "International Crisis Group Global Feed",
       "type": "rss",
       "lane": "base",
       "source_class": "conflict_foreign_policy",
       "host": "www.crisisgroup.org",
+      "max_items": 10
+    },
+    {
+      "id": "curia_eu_press_rss_de_en",
+      "name": "CJEU CURIA Press RSS DE EN",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_court_eu",
+      "host": "curia.europa.eu",
       "max_items": 10
     },
     {
@@ -137,13 +173,13 @@
       "max_items": 10
     },
     {
-      "id": "ecdc_threats_reports_web",
-      "name": "ECDC Communicable Disease Threats",
-      "type": "webpage_check",
+      "id": "ecdc_cdtr_rss",
+      "name": "ECDC CDTR RSS",
+      "type": "rss",
       "lane": "base",
-      "source_class": "global_health_outbreaks_europe",
+      "source_class": "official_health_authority_eu",
       "host": "www.ecdc.europa.eu",
-      "max_items": 1
+      "max_items": 12
     },
     {
       "id": "ecfr_feed",
@@ -207,6 +243,15 @@
       "source_class": "medical_approvals_research",
       "host": "www.fda.gov",
       "max_items": 1
+    },
+    {
+      "id": "ffw_muenchen_news_feed",
+      "name": "Freiwillige Feuerwehr Muenchen News Feed",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_first_responder_local",
+      "host": "www.ffw-muenchen.de",
+      "max_items": 15
     },
     {
       "id": "global_forest_watch_blog",
@@ -317,24 +362,6 @@
       "max_items": 20
     },
     {
-      "id": "iea_news_energy_web",
-      "name": "IEA News and Commentaries",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "energy_global_policy",
-      "host": "www.iea.org",
-      "max_items": 1
-    },
-    {
-      "id": "isw_ukraine_rss",
-      "name": "Institute for the Study of War RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "russia_ukraine_conflict_analysis",
-      "host": "www.understandingwar.org",
-      "max_items": 10
-    },
-    {
       "id": "japan_digital_agency_news",
       "name": "Japan Digital Agency News RSS",
       "type": "rss",
@@ -371,15 +398,6 @@
       "max_items": 10
     },
     {
-      "id": "liveuamap_ukraine_web",
-      "name": "Liveuamap Ukraine",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "russia_ukraine_conflict_map",
-      "host": "liveuamap.com",
-      "max_items": 1
-    },
-    {
       "id": "manual_notes",
       "name": "Manual Notes Inbox",
       "type": "manual_note",
@@ -398,13 +416,13 @@
       "max_items": 10
     },
     {
-      "id": "nasa_climate_news_web",
-      "name": "NASA Climate News",
+      "id": "msf_rss_reference",
+      "name": "MSF RSS Reference",
       "type": "webpage_check",
       "lane": "base",
-      "source_class": "global_climate_science",
-      "host": "science.nasa.gov",
-      "max_items": 1
+      "source_class": "ngo_medical_humanitarian",
+      "host": "www.msf.org",
+      "max_items": 2
     },
     {
       "id": "nasa_firms_active_fire_web",
@@ -452,15 +470,6 @@
       "max_items": 1
     },
     {
-      "id": "opec_press_releases_web",
-      "name": "OPEC Press Releases",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "energy_oil_production",
-      "host": "www.opec.org",
-      "max_items": 1
-    },
-    {
       "id": "openai_news_rss",
       "name": "OpenAI News RSS",
       "type": "rss",
@@ -468,6 +477,33 @@
       "source_class": null,
       "host": "openai.com",
       "max_items": 15
+    },
+    {
+      "id": "polizei_bayern_presse_direct",
+      "name": "Bayerische Polizei Pressemeldungen",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "official_police_direct",
+      "host": "www.polizei.bayern.de",
+      "max_items": 2
+    },
+    {
+      "id": "presseportal_feuerwehr_muenchen_rss",
+      "name": "Presseportal Feuerwehr Muenchen RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_first_responder",
+      "host": "www.presseportal.de",
+      "max_items": 15
+    },
+    {
+      "id": "presseportal_polizei_rss",
+      "name": "Presseportal Police RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_first_responder_aggregator",
+      "host": "www.presseportal.de",
+      "max_items": 20
     },
     {
       "id": "reliefweb_food_security_updates",
@@ -486,6 +522,15 @@
       "source_class": "humanitarian_recovery_watch",
       "host": "reliefweb.int",
       "max_items": 1
+    },
+    {
+      "id": "reliefweb_rss_reference",
+      "name": "ReliefWeb RSS Reference",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "humanitarian_official_aggregator",
+      "host": "reliefweb.int",
+      "max_items": 2
     },
     {
       "id": "reliefweb_ukraine_updates",
@@ -533,15 +578,6 @@
       "max_items": 10
     },
     {
-      "id": "un_news_global_web",
-      "name": "UN News Global",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "global_multilateral",
-      "host": "news.un.org",
-      "max_items": 1
-    },
-    {
       "id": "usda_nass_news_web",
       "name": "USDA NASS News Releases",
       "type": "webpage_check",
@@ -585,6 +621,15 @@
       "source_class": "global_climate",
       "host": "wmo.int",
       "max_items": 1
+    },
+    {
+      "id": "zoll_pressemitteilungen_rss",
+      "name": "Zoll Pressemitteilungen RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "official_federal_enforcement",
+      "host": "www.zoll.de",
+      "max_items": 12
     },
     {
       "id": "gdacs_all_events_24h",

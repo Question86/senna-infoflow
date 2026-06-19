@@ -81,40 +81,6 @@
     "id": "f69bfbe93a237588f3bc"
   },
   {
-    "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-29T02:18:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "《網路韌性法案》（Cyber Resilience Act, CRA）執行時程已正式進入倒數階段，最具衝擊力的第 14 條「漏洞通報義務」將於2026年9月11日 正式強制執行。屆時，所有進入歐盟市場的具備數位功能產品，若得知存在「活躍漏洞利用（Actively Exploited Vulnerability）」，製造商必須在24小時內發布早期預警。這項嚴格的法規不僅是歐盟境內的法律義務，更對全球電子製造供應鏈帶來巨大的連鎖反應，迫使廠商必須全面升級產品開發與漏洞應變機制。 根據法案最終公告條款，製造商在獲悉漏洞後將面臨極具挑戰性的時間壓力，企業必須在發現漏洞的24小時內，透過歐盟「單一通報平台 (SRP)」向當地電腦安全事件應變團隊 (CSIRT) 及歐盟網路安全局 (ENISA) 發出早期預警，並於72 小時內補齊詳細的漏洞災損評估。此外，在具備可用的矯正或緩解措施後 14 天內，製造商還需提交最終報告，若屬於重大資安事件…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT",
-      "Watchgraph:cyber_active_exploitation"
-    ],
-    "relevance_score": 23,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "cyber_active_exploitation"
-    ],
-    "watchgraph_reasons": [
-      "cyber_active_exploitation: actively exploited"
-    ],
-    "market_context": [
-      "CRWD",
-      "PANW",
-      "FTNT",
-      "ZS",
-      "OKTA",
-      "NET",
-      "S"
-    ],
-    "id": "7e231db339493730183a"
-  },
-  {
     "title": "Updates | ReliefWeb",
     "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
     "source": "ReliefWeb Food Security Updates",
@@ -414,29 +380,6 @@
     "id": "6c4ae330423cf0c4181a"
   },
   {
-    "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
-    "url": "https://blogs.jpcert.or.jp/en/2026/02/multiple-threat-actors-rapidly-exploit-react2shell-a-case-study-of-active-compromise.html",
-    "source": "JPCERT/CC English Blog Atom",
-    "source_type": "rss",
-    "published_at": "2026-02-13T02:00:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "On December 3, 2025 (local time), a vulnerability allowing unauthenticated remote code execution in React Server Components (RSC) (CVE-2025-55182) was disclosed. JPCERT/CC has received multiple incident reports related to this attack. Among them, there was a case in which this...",
-    "matched_keywords": [
-      "Content-Chance",
-      "incident",
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 18,
-    "relevance_reason": "Security (+7.5); Content-Chance (+6.2); JPCERT (+2.0); incident (+2.0)",
-    "risk_or_opportunity": "mixed",
-    "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "00c8bb4c800818cf66d3"
-  },
-  {
     "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
     "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -647,42 +590,6 @@
     "id": "e2635349491b5c34ac4c"
   },
   {
-    "title": "Level 1 - Global Dengue",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level1/dengue-global",
-    "source": "CDC Travel Health Notices RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-18T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Dengue is a year-round risk in many parts of the world, with outbreaks commonly occurring every 2–5 years. Travelers to risk areas should prevent mosquito bites. Country List : Colombia, Samoa, Cook Islands (New Zealand), Mali, Vietnam, New Caledonia (France), Timor-Leste (East Timor), Guyana, Maldives, Bolivia, Tonga",
-    "matched_keywords": [
-      "CDC",
-      "dengue",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
-    ],
-    "relevance_score": 16,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); dengue (+2.5); watchgraph region south_america: Colombia (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "public_health_biosecurity"
-    ],
-    "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
-    ],
-    "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
-    ],
-    "id": "40a419a2d848dfa56b63"
-  },
-  {
     "title": "Home | Copernicus EMS",
     "url": "https://emergency.copernicus.eu/",
     "source": "Copernicus Emergency Management Service",
@@ -862,28 +769,6 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f732bf5ec0db01b33172"
-  },
-  {
-    "title": "ICS Security Conference 2026",
-    "url": "https://blogs.jpcert.or.jp/en/2026/04/ics-conference2026.html",
-    "source": "JPCERT/CC English Blog Atom",
-    "source_type": "rss",
-    "published_at": "2026-04-14T06:00:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "JPCERT/CC held the ICS Security Conference 2026 on February 10, 2026. This conference aims to share the current threat landscape surrounding Industrial Control System (ICS) in Japan and abroad, as well as initiatives undertaken by stakeholders in ICS security. It...",
-    "matched_keywords": [
-      "Japan",
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 14,
-    "relevance_reason": "Security (+7.5); JPCERT (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
-    "risk_or_opportunity": "opportunity",
-    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "ff2a6b8d063b7b1d9f67"
   },
   {
     "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -1130,50 +1015,6 @@
     "id": "833504fa3b6868d7c018"
   },
   {
-    "title": "新型惡意軟體 KadNap 鎖定家用路由器",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10809-f19ee-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-03-30T08:51:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "資安研究團隊 Black Lotus Labs 近期發現一款名為「KadNap」的新型惡意軟體，該威脅自2025年8月起活躍，主要針對多家知名品牌邊緣網路設備(edge device)與家用(SOHO)路由器進行攻擊。遭感染的設備會被納入殭屍網路，並成為非法代理服務「Doppelganger」的一部分，供網路犯罪者利用。目前全球估計超過14,000台設備受害，受影響地區主要集中於美國(60%)，台灣、香港與俄羅斯亦有約5%的感染比例。 根據分析報告，KadNap展現高度隱匿性與技術性。攻擊者首先從IP位址為212.104.140[.]140的伺服器下載名為「aic.sh」的惡意腳本並透過建立排程任務（cron job）每小時定期執行以確保持續性。隨後下載名為「kad」的惡意執行檔部署惡意軟體，該惡意軟體會強制關閉標準的SSH連接埠（Port 22）以防範外部管理介入並強化控制權。 KadNap採用客製化的Kademlia 分散…",
-    "matched_keywords": [
-      "GitHub Actions",
-      "Security",
-      "TWCERT"
-    ],
-    "relevance_score": 13,
-    "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "72022ed22225f911a0b7"
-  },
-  {
-    "title": "開源漏洞掃描工具 Trivy 遭 TeamPCP 供應鏈攻擊，恐導致CI/CD 機敏資料外洩",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10807-5c50f-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-03-30T08:30:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "由雲端資安廠商Aqua Security 維護的知名開源漏洞掃描工具 Trivy，近期證實遭名為 TeamPCP的駭客組織發動大規模供應鏈攻擊。攻擊者利用未完全撤銷的高權限服務帳號憑證，成功竄改 Trivy 官方發布版本及 GitHub Actions，並將惡意竊資軟體植入CI/CD流程中，導致惡意蠕蟲在npm套件庫中大規模擴散。 根據資安研究人員與Aqua Security 的研究調查，此次事件源於2026年2月底 CI/CD環境配置不當導致高權限存取Token外洩。儘管官方於3月1日進行憑證輪替，但因處理不全，駭客仍保有部分存取權限。3月19日，駭客利用殘留憑證對aquasecurity/trivy-action 儲存庫發動「強制推送 (Force-push)」，竄改 76 個版本標籤中的75個，以及setup-trivy的7個版本標籤。導致特定版本標籤的CI/CD流程在不知情的狀況下執行惡意程式碼。此外，駭客還在 Doc…",
-    "matched_keywords": [
-      "GitHub Actions",
-      "Security",
-      "TWCERT"
-    ],
-    "relevance_score": 13,
-    "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "ff5571a8e60fa5a2b1e7"
-  },
-  {
     "title": "penpot/penpot",
     "url": "https://github.com/penpot/penpot",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -1254,6 +1095,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "66a9d6052b256d37c2e3"
+  },
+  {
+    "title": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
+    "url": "https://news.mongabay.com/2026/06/death-and-exile-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon/",
+    "source": "Mongabay Latin America Rainforest Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:15:03+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "By late May, at least 48 people were killed in rural areas of Colombia following clashes between the FARC guerrilla dissident groups controlled by the aliases “Calarcá” and “Iván Mordisco.”",
+    "matched_keywords": [
+      "Amazon",
+      "Colombia",
+      "indigenous",
+      "rainforest"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Amazon (+2.5); rainforest (+2.0); Colombia (+2.5); indigenous (+2.5); recent (+1.0); watchgraph region south_america: Colombia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "080e9fdd46f351f561ba"
   },
   {
     "title": "Texas govt data breach exposes over 3 million driver’s licenses",
@@ -1653,53 +1517,6 @@
     "id": "0e26c88b4771382933f7"
   },
   {
-    "title": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans",
-    "url": "https://www.crisisgroup.org/qna/europe-european-union/budget-global-turmoil-peace-conflict-and-eus-funding-plans",
-    "source": "International Crisis Group Global Feed",
-    "source_type": "rss",
-    "published_at": "2026-06-05T08:38:46+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "A Budget for Global Turmoil: Peace, Conflict and the EU’s Funding Plans cthuratong Fri, 06/05/2026 - 10:38 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Migrant children train for an April football tournament as part of the EU‑backed “Goals for Inclusion” project. REUTERS/Raquel Cunha Q&A / Europe 05 June 2026…",
-    "matched_keywords": [
-      "Africa",
-      "conflict",
-      "crisis",
-      "Latin America",
-      "Middle East"
-    ],
-    "relevance_score": 12,
-    "relevance_reason": "conflict (+2.5); crisis (+2.0); Middle East (+2.0); Africa (+2.0); Latin America (+2.0); watchgraph region usa: United States (+2.0)",
-    "risk_or_opportunity": "opportunity",
-    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "d84b7192643ee9b6b52a"
-  },
-  {
-    "title": "JSAC2026 -Day 1-",
-    "url": "https://blogs.jpcert.or.jp/en/2026/02/jsac2026day1.html",
-    "source": "JPCERT/CC English Blog Atom",
-    "source_type": "rss",
-    "published_at": "2026-02-20T02:00:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "JPCERT/CC hosted JSAC2026 from January 21 to 23, 2026. JSAC is an annual conference dedicated to advancing the capabilities of security analysts by fostering the exchange of technical knowledge and operational insights related to incident analysis and response. Now in...",
-    "matched_keywords": [
-      "analysis",
-      "incident",
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 12,
-    "relevance_reason": "Security (+6.0); JPCERT (+2.0); incident (+2.0); analysis (+2.0)",
-    "risk_or_opportunity": "opportunity",
-    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "9151ec93970ff1a1fe61"
-  },
-  {
     "title": "Disease Outbreak News",
     "url": "https://www.who.int/emergencies/disease-outbreak-news",
     "source": "WHO Disease Outbreak News",
@@ -1762,8 +1579,8 @@
     "url": "https://firms.modaps.eosdis.nasa.gov/",
     "source": "NASA FIRMS Active Fire Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-17T14:24:24+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "published_at": "2026-06-17T14:24:27+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
     "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
     "matched_keywords": [
       "active fire",
@@ -1797,7 +1614,7 @@
       "corn",
       "soy"
     ],
-    "id": "4aef49bcda5a0b9c2cd2"
+    "id": "f7d536bbeaa8615e4d10"
   },
   {
     "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
@@ -1820,189 +1637,6 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a7615d87a0aea245d60f"
-  },
-  {
-    "title": "Level 1 - Hepatitis A in Canada",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level1/hepatitis-a-canada",
-    "source": "CDC Travel Health Notices RSS",
-    "source_type": "rss",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Manitoba, Canada is currently experiencing a hepatitis A virus (HAV) outbreak. HAV is contagious and spreads through close person-to-person contact and by eating contaminated food or drink.",
-    "matched_keywords": [
-      "CDC",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
-    ],
-    "relevance_score": 11,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); watchgraph region canada: Canada (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "public_health_biosecurity"
-    ],
-    "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
-    ],
-    "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
-    ],
-    "id": "184cf7850eef2c303b08"
-  },
-  {
-    "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-29T02:31:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Cisco近日發布重大安全性公告，揭露並修復旗下Catalyst SD-WAN網路架構中一項高嚴重性的身分驗證繞過漏洞(CVE-2026-20182，CVSS：10.0)。該漏洞將允許未經身分驗證的遠端攻擊者，透過發送特製請求直接繞過身分驗證機制，進而取得內部高權限帳號管理帳號(non-root)。攻擊者一旦掌握此權限，便可透過存取「NETCONF」服務，藉此任意竄改 SD-WAN 的網路配置、建立惡意網路節點並深入攻擊企業與組織內部網路。目前美國網路安全與基礎設施安全局(CISA)已將此漏洞納入已知漏洞目錄(KEV)；同時亦有情資顯示，駭客組織 UAT-8616 正積極利用此漏洞發動攻擊，呼籲相關用戶務必提高警覺，並儘速採取對應的防禦與修補措施。 本次受影響的產品範圍相當廣泛，無論企業是採用本地端建置(On-Prem Deployment)或由Cisco代管的雲端版本(如Cisco SD-WAN Cloud)皆受到此漏洞影響…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT",
-      "Webentwicklung"
-    ],
-    "relevance_score": 11,
-    "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "538956db0ca8ccd57191"
-  },
-  {
-    "title": "UAT-10608大規模自動化竊密行動：鎖定React2Shell漏洞入侵逾700台Next.js伺服器",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-04-30T06:05:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "思科旗下資安威脅情報與研究團隊 Cisco Talos 近日揭露，一個被追蹤為「UAT-10608」的威脅叢集，正針對暴露於網路的Next.js應用程式發動大規模自動化憑證竊取行動。該組織利用去年底備受關注的 React2Shell 漏洞（CVE-2025-55182），結合名為「NEXUS Listener」的自動化資料蒐集框架，在短時間內入侵全球至少766台主機，影響範圍橫跨多個地區與雲端服務供應商。 React2Shell（CVE-2025-55182）為一項高風險 RCE 漏洞，允許未經驗證的遠端攻擊者，在缺乏適當輸入驗證和處理的應用程式環境中執行任意程式碼，影響 React 與 Next.js 等主流前端框架。報告指出，UAT-10608 的攻擊具高度系統化特徵，先透過 Shodan、Censys 或自訂掃描器大規模探測暴露於公開網路的 Next.js環境；確認存在漏洞後，即向 Server Function 端點發…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT",
-      "Watchgraph:cyber_active_exploitation"
-    ],
-    "relevance_score": 11,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "cyber_active_exploitation"
-    ],
-    "watchgraph_reasons": [
-      "cyber_active_exploitation: RCE"
-    ],
-    "market_context": [
-      "CRWD",
-      "PANW",
-      "FTNT",
-      "ZS",
-      "OKTA",
-      "NET",
-      "S"
-    ],
-    "id": "9c043c450f622fad712c"
-  },
-  {
-    "title": "KrCERT/CC發布「Operation SearchStrike」報告：駭客以SEO毒化Github散布惡意軟體",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10887-c63c0-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-04-30T05:57:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "韓國電腦網路危機處理暨協調中心（KrCERT/CC）的威脅狩獵分析團隊近期發布名為「Operation SearchStrike」報告。該報告指出，攻擊者正利用搜尋引擎最佳化中毒(SEO Poisoning） 技術，在搜尋引擎中推廣偽冒GitHub 儲存庫，藉此散布惡意軟體。此攻擊主要鎖定具備企業內部高權限的技術人員，旨在以此作為跳板，進而發動全組織規模的橫向移動與滲透攻擊。 這波攻擊主要是透過 SEO Poisoning技術操弄搜尋排名，把內含惡意MSI安裝檔的假冒 GitHub 儲存庫推至搜尋結果首頁，常見偽冒程式像是 Tftpd64、WinDbg、PsExec、Postman、USMT 這類網管與維運人員常用的工具，進行供應鏈層級的冒充攻擊，如圖1所示。一旦受害者誤下載並執行，系統會在背景植入以 Node.js 開發的惡意程式，並利用 Ethereum 智慧合約作為命令與控制(C2)通訊管道。由於採用去中心化機制，可降低…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT",
-      "Watchgraph:elections_unrest"
-    ],
-    "relevance_score": 11,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); watchgraph modules elections_unrest (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "elections_unrest"
-    ],
-    "watchgraph_reasons": [
-      "elections_unrest: strike"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "BA",
-      "META",
-      "GOOGL",
-      "MSFT",
-      "RDDT",
-      "SNAP",
-      "PINS",
-      "SPY",
-      "QQQ",
-      "DAX",
-      "EWU",
-      "INDA",
-      "EWJ",
-      "EWY",
-      "EWA",
-      "EWC",
-      "EWZ"
-    ],
-    "id": "13199b0412058df99b77"
-  },
-  {
-    "title": "CSIRTs Around the World – Azerbaijan",
-    "url": "https://blogs.jpcert.or.jp/en/2026/03/csirts-around-the-world-azerbaijan.html",
-    "source": "JPCERT/CC English Blog Atom",
-    "source_type": "rss",
-    "published_at": "2026-03-25T06:00:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Hello, this is Shihono from the Global Coordination Division. In early March, we traveled to Baku, the capital of Azerbaijan, and had the opportunity to visit five organizations, including CSIRTs and facilities involved in cyber security workforce development. In this...",
-    "matched_keywords": [
-      "JPCERT",
-      "Security",
-      "Watchgraph:capitals_power_centers"
-    ],
-    "relevance_score": 11,
-    "relevance_reason": "Security (+6.0); JPCERT (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "capitals_power_centers"
-    ],
-    "watchgraph_reasons": [
-      "capitals_power_centers: capital"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "BA",
-      "SPY",
-      "QQQ",
-      "DAX",
-      "EWU",
-      "INDA",
-      "EWJ",
-      "EWY",
-      "EWA",
-      "EWC",
-      "EWZ"
-    ],
-    "id": "accd48d9866312e585d9"
   },
   {
     "title": "U . S . drought eases , but May ranks as the second driest on record",
@@ -3069,312 +2703,6 @@
     "id": "01bc99c036a3e5408078"
   },
   {
-    "title": "Hormuz 5 June 2026 #1",
-    "url": "https://www.crisisgroup.org/content/hormuz-5-june-2026-1",
-    "source": "International Crisis Group Global Feed",
-    "source_type": "rss",
-    "published_at": "2026-06-05T15:52:12+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Hormuz 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:52 Strait of Hormuz Fri, 06/05/2026 - 12:00 5 June 2026 U.S. Indo-Pacific Command (INDOPACOM) reported that “U.S. forces carried out a maritime interdiction and right-of-visit boarding of the sanctions stateless vessel MT DAVINA located in the India Ocean… We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing materi…",
-    "matched_keywords": [
-      "crisis",
-      "Watchgraph:shipping_chokepoints_supply_chain",
-      "Watchgraph:war_escalation_sanctions"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "crisis (+2.0); watchgraph region india: India (+2.0); watchgraph modules war_escalation_sanctions, shipping_chokepoints_supply_chain (+6.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "war_escalation_sanctions",
-      "shipping_chokepoints_supply_chain"
-    ],
-    "watchgraph_reasons": [
-      "war_escalation_sanctions: sanctions",
-      "shipping_chokepoints_supply_chain: Hormuz"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "XOM",
-      "CVX",
-      "SHEL",
-      "TTE",
-      "BP",
-      "CCJ",
-      "BA",
-      "ENB",
-      "SU",
-      "EQNR",
-      "URA",
-      "MAERSK-B.CO",
-      "ZIM",
-      "MATX",
-      "WMT",
-      "TGT",
-      "AMZN"
-    ],
-    "id": "ddb3a7e7f1a85b071c2a"
-  },
-  {
-    "title": "沛盛資訊｜OMICARD EDM - Insecure Direct Object Reference",
-    "url": "https://www.twcert.org.tw/tw/cp-132-10947-027a7-1.html",
-    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-    "source_type": "rss",
-    "published_at": "2026-06-02T03:37:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "沛盛資訊｜OMICARD EDM - Insecure Direct Object Reference",
-    "matched_keywords": [
-      "Security",
-      "TVN",
-      "TWCERT"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "8027d1fadb4af2caa8f9"
-  },
-  {
-    "title": "英特內｜DreamMaker - 存在5個漏洞",
-    "url": "https://www.twcert.org.tw/tw/cp-132-10943-8fb00-1.html",
-    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-29T08:41:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "英特內｜DreamMaker - 存在5個漏洞",
-    "matched_keywords": [
-      "Security",
-      "TVN",
-      "TWCERT"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "8c8296148d2537909a41"
-  },
-  {
-    "title": "因特普科技｜ITS智能圖控系統 - 存在2個漏洞",
-    "url": "https://www.twcert.org.tw/tw/cp-132-10941-6c082-1.html",
-    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-29T08:02:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "因特普科技｜ITS智能圖控系統 - 存在2個漏洞",
-    "matched_keywords": [
-      "Security",
-      "TVN",
-      "TWCERT"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "bbe187a61c75af91ff3b"
-  },
-  {
-    "title": "金財通商務科技｜Service Center - Insecure Direct Object Reference",
-    "url": "https://www.twcert.org.tw/tw/cp-132-10938-97ddd-1.html",
-    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-29T05:46:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "金財通商務科技｜Service Center - Insecure Direct Object Reference",
-    "matched_keywords": [
-      "Security",
-      "TVN",
-      "TWCERT"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "ee5099d9c830208e2a4a"
-  },
-  {
-    "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
-    "url": "https://www.jpcert.or.jp/english/at/2026/at260014.html",
-    "source": "JPCERT/CC English Alerts",
-    "source_type": "rss",
-    "published_at": "2026-05-22T14:14+09:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
-    "matched_keywords": [
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "af5b202b0b9c99f20d3a"
-  },
-  {
-    "title": "通航國際｜E-LAN 網路型電話錄音系統 - SQL Injection",
-    "url": "https://www.twcert.org.tw/tw/cp-132-10911-e6abb-1.html",
-    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-19T13:42:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "通航國際｜E-LAN 網路型電話錄音系統 - SQL Injection",
-    "matched_keywords": [
-      "Security",
-      "TVN",
-      "TWCERT"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "38a0593735f06ff117a5"
-  },
-  {
-    "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
-    "url": "https://www.jpcert.or.jp/english/at/2026/at260012.html",
-    "source": "JPCERT/CC English Alerts",
-    "source_type": "rss",
-    "published_at": "2026-05-13T11:18+09:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Security Alert: Microsoft Releases May 2026 Security Updates",
-    "matched_keywords": [
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "5c65c09192af449f0725"
-  },
-  {
-    "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
-    "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545",
-    "source": "GDACS All Events Last 24h",
-    "source_type": "rss",
-    "published_at": "2026-04-30T13:07:47+00:00",
-    "fetched_at": "2026-06-19T09:20:55+00:00",
-    "summary": "The Drought notification level is Green.",
-    "matched_keywords": [
-      "drought",
-      "Watchgraph:wildfire_heat_drought"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "drought (+2.5); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "wildfire_heat_drought"
-    ],
-    "watchgraph_reasons": [
-      "wildfire_heat_drought: drought"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "ADM",
-      "BG",
-      "DE",
-      "NTR",
-      "CF",
-      "MOS",
-      "wheat",
-      "corn",
-      "soy"
-    ],
-    "id": "06f05a128262af449a2d"
-  },
-  {
-    "title": "日躍科技｜App好校通 - Insecure Direct Object Reference",
-    "url": "https://www.twcert.org.tw/tw/cp-132-10896-e3240-1.html",
-    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-    "source_type": "rss",
-    "published_at": "2026-04-30T09:33:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "日躍科技｜App好校通 - Insecure Direct Object Reference",
-    "matched_keywords": [
-      "Security",
-      "TVN",
-      "TWCERT"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "d13c95238888e2ec5c5e"
-  },
-  {
-    "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
-    "url": "https://www.jpcert.or.jp/english/at/2026/at260010.html",
-    "source": "JPCERT/CC English Alerts",
-    "source_type": "rss",
-    "published_at": "2026-04-15T11:53+09:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Security Alert: Microsoft Releases April 2026 Security Updates",
-    "matched_keywords": [
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "70511d065d04c422240d"
-  },
-  {
-    "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
-    "url": "https://www.jpcert.or.jp/english/at/2026/at260011.html",
-    "source": "JPCERT/CC English Alerts",
-    "source_type": "rss",
-    "published_at": "2026-04-15T11:53+09:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
-    "matched_keywords": [
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 10,
-    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "43fb5c158e0855facb7b"
-  },
-  {
     "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
     "url": "https://www.eia.gov/petroleum/supply/weekly/",
     "source": "EIA Weekly Petroleum Status Report",
@@ -3627,6 +2955,97 @@
     "id": "ca60b9b0e852a14d82e8"
   },
   {
+    "title": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da",
+    "url": "https://www.presseportal.de/blaulicht/pm/44143/6298227",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:32:26+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Lohfelden (ots) - Die vermisste 64-Jährige aus Lohfelden konnte am heutigen Abend durch die Polizei aufgefunden werden. Die Öffentlichkeitsfahndung kann somit zurückgenommen werden, die Polizei bedankt sich bei allen, die die Suche nach der ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Fahndung",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Fahndung (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "251f46439ef9e0bad8dd"
+  },
+  {
+    "title": "POL-WHV: Vermisste Person Norbert Willi UNRUH angetroffen",
+    "url": "https://www.presseportal.de/blaulicht/pm/68442/6298225",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:15:31+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Wilhelmshaven (ots) - Die per Öffentlichkeitsfahndung vermisste und gesuchte Person Norbert Willi UNRUH konnte wohlbehalten in Wilhelmshaven angetroffen werden. Die Polizei bedankt sich für die vielen und auch zielführenden Hinweise zu dem ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Fahndung",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Fahndung (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "95af237d150b9dbf4bc7"
+  },
+  {
+    "title": "FW-EN: Fehlalarm im Fachmarktzentrum",
+    "url": "https://www.presseportal.de/blaulicht/pm/69780/6298224",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:06:26+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Ennepetal (ots) - Ein böswillig ausgelöster Druckknopfmelder hat am Freitagabend gegen 20:00 Uhr zu einem Feuerwehreinsatz in der Voerder Straße geführt. Nach dem Alarm der automatischen Brandmeldeanlage rückten die Hauptwache und der Löschzug ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Brand",
+      "Einsatz",
+      "police"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); Brand (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1c18bcf53d6fa3173908"
+  },
+  {
+    "title": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA18CWY0Y6A610C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T13:20:31+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "政府が成長戦略に盛り込む戦略17分野への官民投資の全容が19日、判明した。人工知能（AI）を用いてロボットなどを自律的に動かす「フィジカルAI」に、官民で2040年度までに10.5兆円を投資する。全分野への官民投資の総額は「370兆円超」とする目標を掲げる。戦略17分野への投資は「責任ある積極財政」を掲げる高市早苗政...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "67cc3d67aab5e0eafba9"
+  },
+  {
     "title": "Webinar: How attackers bypass MFA and how defenders can respond",
     "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
     "source": "BleepingComputer Security",
@@ -3759,167 +3178,324 @@
     "id": "a9e63fd619f62f6ddc7a"
   },
   {
-    "title": "Level 2 - Chikungunya in French Guiana",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-french-guiana",
-    "source": "CDC Travel Health Notices RSS",
+    "title": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547511",
+    "source": "GDACS All Events Last 24h",
     "source_type": "rss",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "There is an outbreak of chikungunya in French Guiana. You can protect yourself by preventing mosquito bites.",
+    "published_at": "2026-06-19T19:59:42+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "On 6/19/2026 7:36:30 PM, an earthquake occurred in Ryukyu Islands, Japan potentially affecting No people affected in 100km. The earthquake had Magnitude 4.9M, Depth:8.453km.",
     "matched_keywords": [
-      "CDC",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
     ],
-    "relevance_score": 9,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+    "relevance_score": 8,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
     "risk_or_opportunity": "risk",
     "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
     "watchgraph_modules": [
-      "public_health_biosecurity"
+      "earthquakes_tsunami"
     ],
     "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
+      "earthquakes_tsunami: earthquake"
     ],
     "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
     ],
-    "id": "a81951e0beb77d37830d"
+    "id": "7dc2f197ce349dc21fbc"
   },
   {
-    "title": "Level 1 - Diphtheria in Sub-Saharan Africa",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-sub-saharan-africa",
-    "source": "CDC Travel Health Notices RSS",
+    "title": "M 4.9 - 127 km SSE of Itoman, Japan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000supp",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
     "source_type": "rss",
-    "published_at": "2026-06-02T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "There are outbreaks of diphtheria in several countries in Africa. Vaccination against diphtheria is essential to protect against the disease. Country List : Chad, Guinea, Niger, Nigeria, Mali, Mauritania, Somalia",
+    "published_at": "2026-06-19T19:56:09.040+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Time 2026-06-19 19:36:30 UTC 2026-06-19 19:36:30 UTC at epicenter Location 25.003°N 127.952°E Depth 8.45 km (5.25 mi)",
     "matched_keywords": [
-      "CDC",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
     ],
-    "relevance_score": 9,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+    "relevance_score": 8,
+    "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
     "risk_or_opportunity": "risk",
     "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
     "watchgraph_modules": [
-      "public_health_biosecurity"
+      "earthquakes_tsunami"
     ],
     "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
+      "earthquakes_tsunami: earthquake"
     ],
     "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
     ],
-    "id": "a52308dbdee991b96f77"
+    "id": "00a816f2c9ab0b2f991a"
   },
   {
-    "title": "Level 2 - Chikungunya in Mauritius",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mauritius",
-    "source": "CDC Travel Health Notices RSS",
+    "title": "POL-PDNR: Badeunfall mit gutem Ausgang",
+    "url": "https://www.presseportal.de/blaulicht/pm/117709/6298228",
+    "source": "Presseportal Police RSS",
     "source_type": "rss",
-    "published_at": "2026-05-14T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "There is an outbreak of chikungunya in Mauritius. You can protect yourself by preventing mosquito bites.",
+    "published_at": "2026-06-19T19:33:56+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Daaden (ots) - Am Freitagnachmittag kam es im Freibad in Daaden zu einem Badeunfall, der dank des mutigen und geistesgegenwärtigen Handelns mehrerer Kinder ein glückliches Ende fand. Vier spielende Kinder im Alter von sieben und acht Jahren ...",
     "matched_keywords": [
-      "CDC",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
+      "Blaulicht",
+      "police",
+      "Unfall"
     ],
-    "relevance_score": 9,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "public_health_biosecurity"
-    ],
-    "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
-    ],
-    "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
-    ],
-    "id": "3c56a12efd6d7100afab"
-  },
-  {
-    "title": "Level 1 - Ciguatera Fish Poisoning in Vanuatu",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level1/ciguatera-fish-poisoning-vanuatu",
-    "source": "CDC Travel Health Notices RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "There is an outbreak of ciguatera fish poisoning in Vanuatu.",
-    "matched_keywords": [
-      "CDC",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
-    ],
-    "relevance_score": 9,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "public_health_biosecurity"
-    ],
-    "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
-    ],
-    "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
-    ],
-    "id": "727ab17a308bb9b618ca"
-  },
-  {
-    "title": "DeepStateMAP | Map of the war in Ukraine",
-    "url": "https://deepstatemap.live/en",
-    "source": "DeepStateMap Ukraine War Map",
-    "source_type": "webpage_check",
-    "published_at": "2025-11-15T07:25:44+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "News of russia's war against Ukraine on the map",
-    "matched_keywords": [
-      "DeepStateMap",
-      "Russia",
-      "Ukraine",
-      "war map"
-    ],
-    "relevance_score": 9,
-    "relevance_reason": "DeepStateMap (+2.5); Ukraine (+2.5); Russia (+2.0); war map (+2.0)",
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
     "risk_or_opportunity": "observation",
     "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "da7a78010ee72f80dd31"
+    "id": "0f117be4096fa4dc697e"
+  },
+  {
+    "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547504",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:03:13+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "On 6/19/2026 6:38:23 PM, an earthquake occurred in Philippines potentially affecting 210 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:35km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8d5710bc2aff7c809433"
+  },
+  {
+    "title": "Green earthquake (Magnitude 4.5M, Depth:216.301km) in Japan 19/06/2026 18:16 UTC, 3.9 million in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547496",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T18:49:50+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "On 6/19/2026 6:16:55 PM, an earthquake occurred in Japan potentially affecting 3.9 million in 100km. The earthquake had Magnitude 4.5M, Depth:216.301km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6d2c322c78839d363bbc"
+  },
+  {
+    "title": "POL-PDMT: Verkehrsunfall mit Schwerverletzten in Bad Marienberg, L 293",
+    "url": "https://www.presseportal.de/blaulicht/pm/117710/6298222",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T18:41:55+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Bad Marienberg (ots) - Am Freitag, 19.06.26, 19:00 Uhr ereignete sich an der Einmündung L 293/Marienberger Straße in Bad Marienberg ein schwerer Verkehrsunfall mit 3 verletzten Personen. Demnach befuhr ein 42jähriger PKW-Fahrer die Marienberger ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Unfall"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c70eab730f47179cf4bc"
+  },
+  {
+    "title": "POL-PDMZ: Verkehrsunfall mit verletztem Zweiradfahrer",
+    "url": "https://www.presseportal.de/blaulicht/pm/117705/6298220",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T18:25:11+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Mainz (ots) - Am Freitag, dem 19.06.2026 gegen 18:50 Uhr kam es auf der L423 in Budenheim in Fahrtrichtung Heidesheim zu einem schweren Verkehrsunfall zwischen einem Pkw-Fahrer und einem Rollerfahrer. Hierbei befuhr der 43-jährige Pkw-Fahrer den ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Unfall"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "18aede75e180b942ca16"
+  },
+  {
+    "title": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig",
+    "url": "https://www.presseportal.de/blaulicht/pm/74160/6298219",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T17:51:54+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Ludwigsdorf, Görlitz (ots) - Am Freitagabend um 17.19 Uhr wurde durch eine Streife der Bundespolizei am Bahnhof Görlitz ein herrenloser Koffer auf dem Bahnsteig der Gleise 9/10 festgestellt. Die anschließende Suche nach dem Eigentümer verlief ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Polizei (+2.5); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "21bab3836790b9f20b90"
+  },
+  {
+    "title": "POL-PDWIL: Flächenbrand",
+    "url": "https://www.presseportal.de/blaulicht/pm/117697/6298218",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T17:48:24+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Wolsfeld (ots) - Am heutigen Freitagmittag gingen bei der Rettungsleitstelle in Trier mehrere Meldungen über einen Flächenbrand bei Wolsfeld ein. Vor Ort wurde festgestellt, dass eine Wiesenfläche von ca. einem Hektar Größe in Brand geraten ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Brand",
+      "police"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ae55ba1d8def70583a64"
+  },
+  {
+    "title": "POL-WHV: Öffentlichkeitsfahndung nach vermisster Person aus Sande",
+    "url": "https://www.presseportal.de/blaulicht/pm/68442/6298217",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T17:34:55+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Sande (ots) - Seit dem heutigen Nachmittag wird der 79-jährige Norbert Willi Unruh aus Sande vermisst. Herr Unruh verließ gegen 16:00 Uhr seine Wohnanschrift in der Hauptstraße in Sande mit einem grauen, dreirädrigen E-Bike in unbekannte ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Fahndung",
+      "police"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Fahndung (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c126ce58e1b951c53ff"
+  },
+  {
+    "title": "POL-PDLU: Lambsheim/Gerlosheim - Verkehrsunfall mit tödlich verletzter Person",
+    "url": "https://www.presseportal.de/blaulicht/pm/117688/6298216",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T17:24:58+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Lambsheim/Gerolsheim (ots) - Am Freitag, den 19.06.2026 kam es gegen 16:00 Uhr zu einem Verkehrsunfall auf der Kreisstraße zwischen Lambsheim und Gerlosheim. Nach dem aktuellen Stand der Ermittlungen, kollidierten hierbei zwei Personenkraftwagen im ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Unfall"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a0ed9563e79e82f6cd6"
+  },
+  {
+    "title": "POL-PDNW: Motorroller umgeworfen - Polizei sucht Zeugen",
+    "url": "https://www.presseportal.de/blaulicht/pm/117687/6298213",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T16:55:29+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Neustadt/Weinstraße (ots) - Am Donnerstag, den 18.06.2026, wurde im Laufe des Vormittags in der Laustraße, Ecke Friedrichstraße, in Neustadt an der Weinstraße ein bordeauxbrauner Motorroller durch einen bislang unbekannten Täter umgestoßen und ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Polizei (+2.5); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bcf5b336aea56c09a813"
   },
   {
     "title": "AI credits consumed per user now in the Copilot usage metrics API",
@@ -4072,6 +3648,28 @@
     "id": "03bd7eebc3f8270a1883"
   },
   {
+    "title": "FW-M: Balkonbrand droht überzugreifen (Ludwigsvorstadt)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6297367",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T13:20:04+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Donnerstag, 18. Juni 2026, 12.41 Uhr Lindwurmstraße In der Ludwigsvorstadt ist es am Donnerstag zu einem Balkonbrand gekommen. Durch das schnelle Eingreifen der Einsatzkräfte konnte eine Ausbreitung des Feuers verhindert werden. ...",
+    "matched_keywords": [
+      "Brand",
+      "Feuerwehr Muenchen",
+      "Muenchen"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Brand (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "63d7d969f1eb669ee565"
+  },
+  {
     "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
     "url": "https://gigazine.net/news/20260618-ai-brand-visibility-research/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -4193,249 +3791,6 @@
     "id": "7e8bd5509cf752fdfcba"
   },
   {
-    "title": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-29T02:05:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "近期微軟資安研究團隊與資安廠商觀察指出，攻擊者正大量利用名為「EvilTokens」的新興網路釣魚服務平台（PhaaS），結合人工智慧與自動化工具，針對企業與組織發動「裝置碼(Device Code)」釣魚攻擊。駭客透過社交工程手段，誘騙使用者於官方合法頁面完成授權程序，藉此成功繞過多因子驗證(MFA)並接管帳號，進而竊取內部敏感資料。資安專家特別指出，由於微軟Azure與Google兩大雲端平台在OAuth 2.0裝置碼機制的權限實作上存在差異，微軟環境面臨更為嚴重威脅。 國家資通安全研究院日前亦發布資安提醒指出，攻擊者正濫用「裝置碼」登入機制發動釣魚攻擊。「裝置碼」登入機制原本是為了智慧電視、物聯網（IoT）等不便輸入帳號密碼的設備所設計的驗證流程。然而，此項便利功能現已成為駭客濫用的目標。 圖1：裝置程式碼釣魚登入頁面範例。資料來源：proofpoint 攻擊者通常會發送客製化的社交工程郵件，如假冒企業內部設備管理人員，…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "8409fa1e87bf9d40cc8d"
-  },
-  {
-    "title": "Drought is on going in United States",
-    "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546",
-    "source": "GDACS All Events Last 24h",
-    "source_type": "rss",
-    "published_at": "2026-04-30T13:07:44+00:00",
-    "fetched_at": "2026-06-19T09:20:55+00:00",
-    "summary": "The Drought notification level is Green.",
-    "matched_keywords": [
-      "drought",
-      "Watchgraph:wildfire_heat_drought"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "wildfire_heat_drought"
-    ],
-    "watchgraph_reasons": [
-      "wildfire_heat_drought: drought"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "ADM",
-      "BG",
-      "DE",
-      "NTR",
-      "CF",
-      "MOS",
-      "wheat",
-      "corn",
-      "soy"
-    ],
-    "id": "8cf598746cd01c7168f8"
-  },
-  {
-    "title": "Drought is on going in Australia",
-    "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457",
-    "source": "GDACS All Events Last 24h",
-    "source_type": "rss",
-    "published_at": "2026-04-30T13:07:38+00:00",
-    "fetched_at": "2026-06-19T09:20:55+00:00",
-    "summary": "The Drought notification level is Green.",
-    "matched_keywords": [
-      "drought",
-      "Watchgraph:wildfire_heat_drought"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "drought (+2.5); watchgraph region australia: Australia (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "wildfire_heat_drought"
-    ],
-    "watchgraph_reasons": [
-      "wildfire_heat_drought: drought"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "ADM",
-      "BG",
-      "DE",
-      "NTR",
-      "CF",
-      "MOS",
-      "wheat",
-      "corn",
-      "soy"
-    ],
-    "id": "8c494a1a86ca0e2d7fbb"
-  },
-  {
-    "title": "勒索軟體組織「The Gentlemen」結合SystemBC惡意軟體擴大攻擊版圖",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-04-30T06:08:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "勒索軟體即服務（RaaS）組織「The Gentlemen」 自 2025 年中旬崛起後，近期透過整合 SystemBC 代理惡意軟體，使其攻擊規模於 2026 年第一季大幅擴張。該組織採取高度成熟的雙重勒索策略，不僅加密受害者的系統檔案，亦同步進行大規模關鍵商業資料外洩，以此作為威脅支付贖金的籌碼。近期，資安研究人員在事件回應調查中發現，The Gentlemen在入侵流程中大量部署「SystemBC」代理惡意軟體，經分析其C2伺服器資料後，揭露受害者數量已逾 1,570 名，主要分佈於美國、英國及德國，感染特徵證實該攻擊具備高度針對性，精準鎖定企業與組織環境，而非一般個人使用者。 「SystemBC」是一款經常被利用於人為操作入侵流程中的代理惡意軟體。一旦於受害環境完成部署，該軟體即建立 SOCKS5 網路隧道，並透過自訂 RC4 加密協定連線至 C2 伺服器。此種加密代理通道不僅賦予攻擊者隱蔽通訊與橫向移動的能力，更整合…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "c807694be3137fd5d12d"
-  },
-  {
-    "title": "Interlock 勒索軟體組織利用 Cisco FMC 零日漏洞發動攻擊，呼籲用戶儘速修補",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10808-892d1-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-03-30T08:36:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Amazon 威脅情報團隊發現，勒索軟體組織Interlock正積極利用 Cisco Secure Firewall Management Center (FMC) 的重大零日漏洞 (CVE-2026-20131，CVSS：10.0) 發動大規模攻擊。該漏洞屬於Java反序列化漏洞，允許未經身分驗證的遠端攻擊者，透過發送精心設計的反序列化物件，取得 root 最高權限並在受害設備上執行任意程式碼。建議用戶儘速依循Cisco官方建議，採取相關緩解措施並立即更新，同時檢視系統日誌確認潛在受害情形，以防止系統遭入侵後造成重大損失。 美國網路安全與基礎設施安全局（CISA）已正式將CVE-2026-20131納入已知漏洞目錄(KEV)，確認該漏洞正受到積極且廣泛的利用。根據 Amazon 全球誘餌網路 (MadPot) 的監測數據顯示，在Cisco 正式發布修補程式前，Interlock勒索軟體組織自 2026 年 1 月 26 日起…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "b2a43fe27156803d6365"
-  },
-  {
-    "title": "Study of Binaries Created with Rust through Reverse Engineering",
-    "url": "https://blogs.jpcert.or.jp/en/2026/03/rust_research_en.html",
-    "source": "JPCERT/CC English Blog Atom",
-    "source_type": "rss",
-    "published_at": "2026-03-12T05:00:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "Rust has been gaining attention in recent years as a language expected to replace C and C++, due to its memory safety and high performance. While Rust continues to be adopted as a programming language, malware developed using Rust (hereinafter...",
-    "matched_keywords": [
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "Security (+6.0); JPCERT (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "9dd5c847308392533a4c"
-  },
-  {
-    "title": "ETSI發布EN 304 223標準，強化人工智慧模型與系統資安防護",
-    "url": "https://www.twcert.org.tw/tw/cp-104-10727-665e8-1.html",
-    "source": "TWCERT/CC Security News RSS",
-    "source_type": "rss",
-    "published_at": "2026-02-24T09:22:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "歐洲電信標準協會(ETSI)近日正式發布ETSI EN 304 223 標準，為人工智慧（AI）模型與系統建立全球通用的資安基準。該標準獲歐洲各國國家標準組織投票通過，具高度權威性與國際適用性，被視為AI資安治理的重要里程碑。 隨著 AI 技術廣泛導入關鍵服務與產業場域，傳統資安防護已不足以因應新型威脅。ETSI 指出，AI 系統的風險不僅源自程式本身，更涵蓋資料管線、模型行為與營運環境，例如資料毒化、模型混淆、間接提示注入，以及複雜訓練與部署流程所衍生的潛在弱點，皆對組織資安形成新挑戰。 ETSI EN 304 223 採全生命週期方法，於安全設計、開發、部署、維護及終止營運五大階段中，定義 13 項核心原則與要求，並與國際公認的 AI 生命週期模型對齊，確保與既有標準與指引的相容性與互通性，協助資安團隊在 AI 系統整體營運過程中落實防護。 值得注意的是，該標準適用於採用深度神經網路(如生成式AI)，且實際部署於營運環境的…",
-    "matched_keywords": [
-      "Security",
-      "TWCERT"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "b688ff74ffd6e5e1d36f"
-  },
-  {
-    "title": "YAMAGoya: A Real-time Client Monitoring Tool Using Sigma and YARA Rules",
-    "url": "https://blogs.jpcert.or.jp/en/2025/11/YAMAGoya.html",
-    "source": "JPCERT/CC English Blog Atom",
-    "source_type": "rss",
-    "published_at": "2025-11-18T02:00:00+00:00",
-    "fetched_at": "2026-06-19T11:27:06+00:00",
-    "summary": "In recent years, fileless malware and obfuscation techniques have made it increasingly difficult to detect suspicious activity by scanning files alone. To counter these threats, security researchers and malware analysts actively create and publish detection rules such as Sigma and...",
-    "matched_keywords": [
-      "JPCERT",
-      "Security"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "Security (+6.0); JPCERT (+2.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "5f435306962f84f90d78"
-  },
-  {
-    "title": "Drought is on going in Mexico, United States",
-    "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093",
-    "source": "GDACS All Events Last 24h",
-    "source_type": "rss",
-    "published_at": "2025-10-02T10:20:21+00:00",
-    "fetched_at": "2026-06-19T09:20:55+00:00",
-    "summary": "The Drought notification level is Green.",
-    "matched_keywords": [
-      "drought",
-      "Watchgraph:wildfire_heat_drought"
-    ],
-    "relevance_score": 8,
-    "relevance_reason": "drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "wildfire_heat_drought"
-    ],
-    "watchgraph_reasons": [
-      "wildfire_heat_drought: drought"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "ADM",
-      "BG",
-      "DE",
-      "NTR",
-      "CF",
-      "MOS",
-      "wheat",
-      "corn",
-      "soy"
-    ],
-    "id": "0a9024d694fd767e3fb8"
-  },
-  {
     "title": "RocketChat/Rocket.Chat",
     "url": "https://github.com/RocketChat/Rocket.Chat",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -4492,6 +3847,72 @@
       "URA"
     ],
     "id": "4f31e75bd542dfbf2a10"
+  },
+  {
+    "title": "POL-PDTR: Große Alkohol- und Drogenkontrolle im Rahmen der ROADPOL-Woche im Ehranger Hafen",
+    "url": "https://www.presseportal.de/blaulicht/pm/117698/6298226",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:27:41+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Trier-Ehrang (ots) - Am Freitagnachmittag des 19.06.2026 führten Polizeibeamte/-innen der Polizeidirektion Trier, unter Beteiligung von acht angegliederten Polizeiinspektionen eine Verkehrskontrolle mit Schwerpunkt auf Alkohol- und Drogendelikte in ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "52d8dc51dd02ad098735"
+  },
+  {
+    "title": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
+    "url": "https://www.presseportal.de/blaulicht/pm/118232/6298221",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T18:40:42+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Schermbeck (ots) - Der Löschzug Schermbeck wurde innerhalb von zwei Tagen zu insgesamt vier Einsätzen alarmiert. Bereits gestern um 6:41 Uhr wurde der Löschzug mit dem Einsatzstichwort \"Heimrauchmelder\" zur Johann-von-der-Recke-Straße alarmiert. ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "Einsatz",
+      "police"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0aecca4836e24d2a8673"
+  },
+  {
+    "title": "POL-BO: Vermisster Herner (52) tot aufgefunden",
+    "url": "https://www.presseportal.de/blaulicht/pm/11530/6298215",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T17:24:38+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Herne (ots) - Der seit Donnerstag, 18. Juni, vermisste Dirk W. (52) aus Herne ist tot aufgefunden worden. Seit dem 18. Juni hatte die Polizei nach dem verschwundenen 52-Jährigen aus Herne gesucht. Am Freitag, 19. Juni, wurde der Vermisste in Hamm ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police",
+      "Polizei"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2f6b7ec8774b4c4c1324"
   },
   {
     "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
@@ -5036,90 +4457,6 @@
     "id": "802c3e6a6f0e22a1df20"
   },
   {
-    "title": "Tehran 5 June 2026 #1",
-    "url": "https://www.crisisgroup.org/content/tehran-5-june-2026-1",
-    "source": "International Crisis Group Global Feed",
-    "source_type": "rss",
-    "published_at": "2026-06-05T15:50:10+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Tehran 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:50 Tehran Fri, 06/05/2026 - 12:00 5 June 2026 U.S. Indo-Pacific Command (INDOPACOM) reported that “U.S. forces carried out a maritime interdiction and right-of-visit boarding of the sanctions stateless vessel MT DAVINA located in the India Ocean… We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing material support…",
-    "matched_keywords": [
-      "crisis",
-      "Watchgraph:war_escalation_sanctions"
-    ],
-    "relevance_score": 7,
-    "relevance_reason": "crisis (+2.0); watchgraph region india: India (+2.0); watchgraph modules war_escalation_sanctions (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "war_escalation_sanctions"
-    ],
-    "watchgraph_reasons": [
-      "war_escalation_sanctions: sanctions"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "BA",
-      "XOM",
-      "CVX",
-      "SHEL",
-      "TTE",
-      "BP",
-      "ENB",
-      "SU",
-      "EQNR",
-      "CCJ",
-      "URA"
-    ],
-    "id": "89d9ee6b123704f8378d"
-  },
-  {
-    "title": "Washington 5 June 2026 #1",
-    "url": "https://www.crisisgroup.org/content/washington-5-june-2026-1",
-    "source": "International Crisis Group Global Feed",
-    "source_type": "rss",
-    "published_at": "2026-06-05T15:49:23+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Washington 5 June 2026 #1 lalasor Fri, 06/05/2026 - 17:49 Washington Fri, 06/05/2026 - 12:00 5 June 2026 U.S. Indo-Pacific Command (INDOPACOM) reported that “U.S. forces carried out a maritime interdiction and right-of-visit boarding of the sanctions stateless vessel MT DAVINA located in the India Ocean… We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing material…",
-    "matched_keywords": [
-      "crisis",
-      "Watchgraph:war_escalation_sanctions"
-    ],
-    "relevance_score": 7,
-    "relevance_reason": "crisis (+2.0); watchgraph region india: India (+2.0); watchgraph modules war_escalation_sanctions (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "war_escalation_sanctions"
-    ],
-    "watchgraph_reasons": [
-      "war_escalation_sanctions: sanctions"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "BA",
-      "XOM",
-      "CVX",
-      "SHEL",
-      "TTE",
-      "BP",
-      "ENB",
-      "SU",
-      "EQNR",
-      "CCJ",
-      "URA"
-    ],
-    "id": "b36add6dde5cf1c47218"
-  },
-  {
     "title": "zai-org/GLM-5",
     "url": "https://github.com/zai-org/GLM-5",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -5288,6 +4625,42 @@
     "id": "8aecbb8459ea327d7f66"
   },
   {
+    "title": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547508",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T19:22:23+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "On 6/19/2026 7:00:50 PM, an earthquake occurred in Papua New Guinea potentially affecting 2 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:76.074km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5699e06630a068dd397a"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547468",
     "source": "GDACS All Events Last 24h",
@@ -5399,6 +4772,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9e60528f087fb37ec422"
+  },
+  {
+    "title": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z36_lebende_schlange_ffm.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T09:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Bei einem 20-jährigen Reisenden, welcher aus Thailand via Dubai zurück nach Deutschland reiste, stellten die Beamtinnen und Beamten nicht angemeldete Regenbogenschlangen im Reisekoffer fest und leiteten ein Steuerstrafverfahren gegen ihn ein.",
+    "matched_keywords": [
+      "Zoll"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Zoll (+2.5); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6286774431ec46d11fa6"
   },
   {
     "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
@@ -5793,6 +5186,130 @@
     "id": "3ce68a42fc72d0bcf62c"
   },
   {
+    "title": "Neues Zollschiff Friesland feierlich getauft",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z37_taufe_zollschiff_friesland_ol.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-17T13:30:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Der Zoll hat mit einem feierlichen Festakt am Marinestützpunkt in Wilhelmshaven sein neues LNG-Einwachenschiff Friesland getauft und in Dienst gestellt.",
+    "matched_keywords": [
+      "Watchgraph:energy_oil_gas_power_uranium",
+      "Zoll"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Zoll (+2.5); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "energy_oil_gas_power_uranium"
+    ],
+    "watchgraph_reasons": [
+      "energy_oil_gas_power_uranium: LNG"
+    ],
+    "market_context": [
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "CCJ",
+      "ENB",
+      "SU",
+      "EQNR",
+      "URA"
+    ],
+    "id": "087bb11fa22241dd0dd4"
+  },
+  {
+    "title": "FW-M: Rettung auf Baustelle mittels Drehleiter (Maxhof)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6296241",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-17T09:36:27+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Mittwoch, 17. Juni 2026, 8.22 Uhr Königswieser Straße Am frühen Mittwochvormittag verletzte sich ein Bauarbeiter bei einem Sturz schwer. Bei der Rettung des Mannes kam auch eine Drehleiter der Feuerwehr zum Einsatz. Gegen 8.20 ...",
+    "matched_keywords": [
+      "Feuerwehr Muenchen",
+      "Muenchen",
+      "Rettung"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Rettung (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "32b0f06f3c354852fc6f"
+  },
+  {
+    "title": "Bundesgesundheitsministerin Nina Warken beim EPSCO-Rat in Luxemburg",
+    "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/warken-beim-epsco-rat-pm-16-06-2026",
+    "source": "BMG Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-16T00:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Am 16. Juni 2026 nimmt Bundesgesundheitsministerin Nina Warken am EPSCO-Rat in Luxemburg teil. Im Mittelpunkt des Treffens mit den Gesundheitsministerinnen und -ministern der Europäischen Union steht die Stärkung des europäischen Standorts für Arzneimittel, Biotechnologie und Medizinprodukte.",
+    "matched_keywords": [
+      "Arzneimittel",
+      "BMG",
+      "Gesundheit"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "BMG (+2.0); Gesundheit (+2.5); Arzneimittel (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "723eabb219f690b99e32"
+  },
+  {
+    "title": "FW-M: Tierrettung aus größter Not (Michaeliburg)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6294884",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-15T14:28:24+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Montag, 15. Juni 2026, 8.38 Uhr Achenseeplatz Ein Fuchs hat sich heute Morgen so sehr in Lebensgefahr gebracht, dass er ohne die Hilfe der Einsatzkräfte nicht überlebt hätte. Am Morgen meldete sich der Eigentümer eines ...",
+    "matched_keywords": [
+      "Feuerwehr Muenchen",
+      "Muenchen",
+      "Rettung"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Rettung (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa0b13aff9ad5f4e4b0c"
+  },
+  {
+    "title": "FW-M: Gartenhütte brennt in der Nacht (Fröttmaning)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6294423",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-15T09:29:26+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Montag, 15. Juni 2026, 0.34 Uhr Freisinger Landstraße In der Nacht auf Montag ist es zum Brand eines Gartenhauses in Fröttmaning gekommen. Trotz intensiver Löscharbeiten ist das Gebäude komplett zerstört worden. Gegen 0.30 Uhr ...",
+    "matched_keywords": [
+      "Brand",
+      "Feuerwehr Muenchen",
+      "Muenchen"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Brand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "91c30114a8a502734fdf"
+  },
+  {
     "title": "Level 2 - Malaria in Yemen",
     "url": "https://wwwnc.cdc.gov/travel/notices/level2/malaria-yemen",
     "source": "CDC Travel Health Notices RSS",
@@ -5815,6 +5332,50 @@
     "id": "22ea8b6c1a84bed9a293"
   },
   {
+    "title": "FW-M: Vollsperrung der A99 nach Verkehrsunfall (Allach)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6292017",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-10T13:51:34+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Dienstag, 9. Juni 2026, 11 Uhr A99a Am Dienstagvormittag ist es auf der Autobahn A99a in Richtung Lindau kurz nach dem Allacher Tunnel zu einem Verkehrsunfall gekommen, bei dem insgesamt drei Pkw und ein Lkw beteiligt waren. Gegen ...",
+    "matched_keywords": [
+      "Feuerwehr Muenchen",
+      "Muenchen",
+      "Unfall"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Unfall (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7c59be59de72819a0dad"
+  },
+  {
+    "title": "FW-M: Brennender Pkw in Tiefgarage (Berg am Laim)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6291171",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-09T12:30:10+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Dienstag, 9. Juni 2026, 11.49 Uhr Bad-Schachener-Straße Am Dienstag ist es im Stadtteil Berg am Laim zu einem Brand in einer Tiefgarage gekommen. Die Feuerwehr München war mit einem Großaufgebot vor Ort. Gegen 11.49 Uhr löste ...",
+    "matched_keywords": [
+      "Brand",
+      "Feuerwehr Muenchen",
+      "Muenchen"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Brand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0004e1635848ad46c89b"
+  },
+  {
     "title": "The Great AI Divide: Navigating U.S. and Chinese dominance",
     "url": "https://restofworld.org/2026/ai-divide-america-china-world/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
@@ -5835,125 +5396,26 @@
     "id": "0a68815c2a845d60ce21"
   },
   {
-    "title": "Level 2 - Malaria in Mayotte",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level2/malaria-mayotte",
-    "source": "CDC Travel Health Notices RSS",
+    "title": "FW-M: Wochenendrückblick der Feuerwehr München für den 5. bis 7. Juni 2026",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6289689",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
     "source_type": "rss",
-    "published_at": "2026-06-02T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Increased cases of malaria have been reported in Mayotte. Malaria is spread by the bite of infected mosquitoes.",
+    "published_at": "2026-06-08T07:56:41+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Samstag, 6. Juni 2026; 17.53 Uhr - Verkehrsunfall legt Kreuzung lahm Thalkirchner Str. und Tumblinger-Str. (Sendling) Am frühen Samstagabend wurden zwei Personen bei einem Verkehrsunfall verletzt. Die Aufräumarbeiten dauerten ...",
     "matched_keywords": [
-      "CDC",
-      "malaria",
-      "travel health notice"
+      "Feuerwehr Muenchen",
+      "Muenchen",
+      "Unfall"
     ],
     "relevance_score": 6,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); malaria (+2.5)",
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0); Unfall (+2.0)",
     "risk_or_opportunity": "observation",
     "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "1fd79cb510b5d0c935bc"
-  },
-  {
-    "title": "Level 1 - Andes Virus (Hantavirus) in South America",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level1/andes-virus-south-america",
-    "source": "CDC Travel Health Notices RSS",
-    "source_type": "rss",
-    "published_at": "2026-05-20T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Andes virus is a species of hantavirus carried by some rodents in South America. Andes virus is naturally present (endemic) in Argentina and Chile. Country List : Argentina, Chile",
-    "matched_keywords": [
-      "CDC",
-      "travel health notice"
-    ],
-    "relevance_score": 6,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); watchgraph region south_america: Argentina, Chile (+2.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "97c7ad393e9ab6cefd88"
-  },
-  {
-    "title": "Drought is on going in Madagascar",
-    "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018431",
-    "source": "GDACS All Events Last 24h",
-    "source_type": "rss",
-    "published_at": "2026-04-30T13:07:35+00:00",
-    "fetched_at": "2026-06-19T09:20:55+00:00",
-    "summary": "The Drought notification level is Orange.",
-    "matched_keywords": [
-      "drought",
-      "Watchgraph:wildfire_heat_drought"
-    ],
-    "relevance_score": 6,
-    "relevance_reason": "drought (+2.5); watchgraph modules wildfire_heat_drought (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "wildfire_heat_drought"
-    ],
-    "watchgraph_reasons": [
-      "wildfire_heat_drought: drought"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "ADM",
-      "BG",
-      "DE",
-      "NTR",
-      "CF",
-      "MOS",
-      "wheat",
-      "corn",
-      "soy"
-    ],
-    "id": "8f0226437bd880bfabf1"
-  },
-  {
-    "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
-    "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
-    "source": "GDACS All Events Last 24h",
-    "source_type": "rss",
-    "published_at": "2026-02-11T09:57:31+00:00",
-    "fetched_at": "2026-06-19T09:20:55+00:00",
-    "summary": "The Drought notification level is Green.",
-    "matched_keywords": [
-      "drought",
-      "Watchgraph:wildfire_heat_drought"
-    ],
-    "relevance_score": 6,
-    "relevance_reason": "drought (+2.5); watchgraph modules wildfire_heat_drought (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "wildfire_heat_drought"
-    ],
-    "watchgraph_reasons": [
-      "wildfire_heat_drought: drought"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "ADM",
-      "BG",
-      "DE",
-      "NTR",
-      "CF",
-      "MOS",
-      "wheat",
-      "corn",
-      "soy"
-    ],
-    "id": "b5d40d5cef5de855cbfe"
+    "id": "3fe1f6b508afe45d1dc6"
   },
   {
     "title": "Today in Energy - U.S. Energy Information Administration (EIA)",
@@ -5982,8 +5444,8 @@
     "url": "https://wmo.int/news",
     "source": "World Meteorological Organization News",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T18:21:10+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "published_at": "2026-06-19T20:11:27+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
     "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
     "matched_keywords": [
       "climate",
@@ -5996,7 +5458,28 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "fb9640b2a6a8ac0dffa1"
+    "id": "947e386521985f60f6ff"
+  },
+  {
+    "title": "POL-PIAZ: Vollendeter Schockanruf - Seniorin übergibt Goldschmuck und Goldmünzen im fünfstelligen Wert",
+    "url": "https://www.presseportal.de/blaulicht/pm/131673/6298223",
+    "source": "Presseportal Police RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T18:51:42+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Alzey OT Weinheim (ots) - Am 19.06.2026 gegen 11:30 Uhr wurde eine 90-jährige Frau aus Alzey, Ortsteil Weinheim, Opfer eines sogenannten Schockanrufs. Bislang unbekannte Täter nahmen telefonisch Kontakt zu der Seniorin auf und täuschten vor, ihre ...",
+    "matched_keywords": [
+      "Blaulicht",
+      "police"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "caa9d372ec6bc04b4cd7"
   },
   {
     "title": "How we built an internal data analytics agent",
@@ -6585,6 +6068,27 @@
     "id": "7f21a440a64dc1f8d5fd"
   },
   {
+    "title": "Finanzentwicklung der GKV im 1. Quartal 2026",
+    "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/finanzentwicklung-der-gkv-im-1-quartal-2026-pm-19-06-2026-1",
+    "source": "BMG Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Die Ausgaben der gesetzlichen Krankenkassen sind in den ersten drei Monaten des laufenden Jahres mit rund 7,6 Prozent deutlich stärker als die Beitragseinnahmen (ohne Zusatzbeiträge) mit rund 4,1 Prozent gestiegen. Das führt weiterhin zu einem hohen Druck auf die Beitragssätze.",
+    "matched_keywords": [
+      "BMG",
+      "Gesundheit"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "BMG (+2.0); Gesundheit (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4250c1404e0faf30a3b6"
+  },
+  {
     "title": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
     "url": "https://surabaya.kompas.com/read/2026/06/19/060520378/dampak-listrik-padam-di-surabaya-traffic-light-mati-bayi-menangis-pekerjaan",
     "source": "GDELT Initial Disruption Resonance RSS",
@@ -7056,6 +6560,42 @@
     "id": "e8eea8740daa8a6f796a"
   },
   {
+    "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
+    "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+    "source": "ECDC CDTR RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-12T15:36:21+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and Uganda a Public Health Emergency of International Concern.",
+    "matched_keywords": [
+      "CDTR",
+      "ECDC",
+      "outbreak",
+      "public health",
+      "Watchgraph:public_health_biosecurity"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "ECDC (+2.0); CDTR (+2.0); outbreak (+2.5); public health (+2.0); watchgraph modules public_health_biosecurity (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "public_health_biosecurity"
+    ],
+    "watchgraph_reasons": [
+      "public_health_biosecurity: outbreak, World Health Organization"
+    ],
+    "market_context": [
+      "PFE",
+      "MRNA",
+      "BNTX",
+      "GSK",
+      "AZN",
+      "TMO",
+      "DHR"
+    ],
+    "id": "bddf9a2cdf974c66bbf3"
+  },
+  {
     "title": "DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk",
     "url": "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
     "source": "Carbon Brief Feed",
@@ -7096,90 +6636,6 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6c0292dd459b82f1df7c"
-  },
-  {
-    "title": "Washington 5 June 2026 #2",
-    "url": "https://www.crisisgroup.org/content/washington-5-june-2026-2",
-    "source": "International Crisis Group Global Feed",
-    "source_type": "rss",
-    "published_at": "2026-06-05T15:53:07+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Washington 5 June 2026 #2 lalasor Fri, 06/05/2026 - 17:53 Washington Fri, 06/05/2026 - 12:00 5 June 2026 The U.S. announced sanctions against \"a network of individuals, entities and vessels responsible for shipping hundreds of millions of dollars’ worth of Iranian-origin liquid petroleum gas (LPG) - intentionally disguised as Omani LPG - to end users in South and East Asia\".",
-    "matched_keywords": [
-      "crisis",
-      "Watchgraph:war_escalation_sanctions"
-    ],
-    "relevance_score": 5,
-    "relevance_reason": "crisis (+2.0); watchgraph modules war_escalation_sanctions (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "war_escalation_sanctions"
-    ],
-    "watchgraph_reasons": [
-      "war_escalation_sanctions: sanctions"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "BA",
-      "XOM",
-      "CVX",
-      "SHEL",
-      "TTE",
-      "BP",
-      "ENB",
-      "SU",
-      "EQNR",
-      "CCJ",
-      "URA"
-    ],
-    "id": "b78fdd073df84d4ea7cd"
-  },
-  {
-    "title": "Israel 3 June 2026 #1",
-    "url": "https://www.crisisgroup.org/content/israel-3-june-2026-1",
-    "source": "International Crisis Group Global Feed",
-    "source_type": "rss",
-    "published_at": "2026-06-04T16:11:16+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Israel 3 June 2026 #1 lalasor Thu, 06/04/2026 - 18:11 Israel Thu, 06/04/2026 - 12:00 3 June 2026 In a joint statement, the U.S., Lebanon and Israel announced that “Israel and Lebanon agreed to the implementation of a ceasefire. The ceasefire is contingent on a complete cessation of Hizbollah fire and the evacuation of all Hizbollah operatives from the South Litani Sector”. The follow day, Hizbollah’s secretary-gener…",
-    "matched_keywords": [
-      "crisis",
-      "Watchgraph:capitals_power_centers"
-    ],
-    "relevance_score": 5,
-    "relevance_reason": "crisis (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [
-      "capitals_power_centers"
-    ],
-    "watchgraph_reasons": [
-      "capitals_power_centers: evacuation"
-    ],
-    "market_context": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "RHM.DE",
-      "BA",
-      "SPY",
-      "QQQ",
-      "DAX",
-      "EWU",
-      "INDA",
-      "EWJ",
-      "EWY",
-      "EWA",
-      "EWC",
-      "EWZ"
-    ],
-    "id": "414b05b57c2878bf5b0b"
   },
   {
     "title": "yifanfeng97/Hyper-Extract",
@@ -7749,6 +7205,26 @@
     "id": "d4099ffdf256f04873c9"
   },
   {
+    "title": "Press Announcements | FDA",
+    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+    "source": "FDA Press Announcements",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T19:34:44+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Press Announcements",
+    "matched_keywords": [
+      "FDA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "FDA (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c1d633bd2ad847161048"
+  },
+  {
     "title": "UN News | Global perspective Human stories",
     "url": "https://news.un.org/en/",
     "source": "UN News Global",
@@ -7767,26 +7243,6 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d53cb23142526b0277f7"
-  },
-  {
-    "title": "Press Announcements | FDA",
-    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
-    "source": "FDA Press Announcements",
-    "source_type": "webpage_check",
-    "published_at": "2026-06-19T17:46:44+00:00",
-    "fetched_at": "2026-06-19T18:18:39+00:00",
-    "summary": "Press Announcements",
-    "matched_keywords": [
-      "FDA"
-    ],
-    "relevance_score": 4,
-    "relevance_reason": "FDA (+2.5); recent (+1.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "288d1adbe609ed4cdd17"
   },
   {
     "title": "News Releases | National Institutes of Health (NIH)",
@@ -7809,6 +7265,26 @@
     "id": "3779004c9b7a93d4cf3f"
   },
   {
+    "title": "Zoll prüft asiatisches Restaurant",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y45_pruefung_asiatisches_restaurant_hst.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T08:52:45+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Kräfte der Finanzkontrolle Schwarzarbeit des Hauptzollamts Stralsund haben in einem asiatischen Restaurant im Landkreis Vorpommern-Rügen fünf Personen ohne gültige Aufenthaltserlaubnis bei der Arbeit angetroffen.",
+    "matched_keywords": [
+      "Zoll"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Zoll (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f184300da15cefd65e9f"
+  },
+  {
     "title": "In search of the ‘rare and beautiful’ in an Ivorian rainforest",
     "url": "https://news.mongabay.com/2026/06/in-search-of-the-rare-and-beautiful-in-an-ivorian-rainforest/",
     "source": "Mongabay Latin America Rainforest Feed",
@@ -7829,6 +7305,26 @@
     "id": "271bd53a6a028757d5ef"
   },
   {
+    "title": "Hauptzollamt Lörrach prüft Taxi- und Mietwagenunternehmen",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y46_spp_taxi_mietwagen_loe.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T09:00:02+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Mehr als 60 Zollbeamtinnen und -beamte der Finanzkontrolle Schwarzarbeit haben im Bezirk des Hauptzollamts Lörrach um die Standorte Lörrach, Freiburg und Offenburg 45 Betriebe der Taxi- und Mietwagenbranche überprüft und dabei diverse Verstöße festgestellt.",
+    "matched_keywords": [
+      "Zoll"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Zoll (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e91342ad52d3d253eb7b"
+  },
+  {
     "title": "When Americans choose Chinese AI",
     "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
@@ -7847,6 +7343,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ca02181f59618721f6aa"
+  },
+  {
+    "title": "Schnäppchenjagd im Bundesfinanzministerium",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z38_zoll_auktion_gi.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-17T07:10:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Am Sonntag, dem 21. Juni 2026, können die Bürgerinnen und Bürger zum Tag der offenen Tür in Berlin auf der Bühne im Garten des Ministeriums ab 16:30 Uhr bei der öffentlichen Versteigerung mitbieten oder auch nur bei der spannenden Auktion zuschauen und mitfiebern.",
+    "matched_keywords": [
+      "Zoll"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Zoll (+2.0); watchgraph region europe: Berlin (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b398df6850bff8270ee9"
   },
   {
     "title": "Sliding doors: One Trump crisis, two possible futures for Europe",
@@ -7912,57 +7428,151 @@
     "id": "2ed9948e2950abe2db02"
   },
   {
-    "title": "Silicon Valley’s lure is fading for India’s tech talent",
-    "url": "https://restofworld.org/2026/silicon-valley-status/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "source": "Rest of World Global Tech Feed",
+    "title": "FW-M: Freigängerin eingefangen (Aubinger Lohe)",
+    "url": "https://www.presseportal.de/blaulicht/pm/131419/6293404",
+    "source": "Presseportal Feuerwehr Muenchen RSS",
     "source_type": "rss",
-    "published_at": "2026-06-05T13:00:00+00:00",
-    "fetched_at": "2026-06-19T01:55:55+00:00",
-    "summary": "India’s elite tech talent is starting to see big tech jobs in a new light.",
-    "matched_keywords": [],
+    "published_at": "2026-06-12T12:17:39+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "München (ots) - Freitag, 12. Juni 2026, 11:44 Uhr Erlbachstraße Nach langem Freigang konnten heute Einsatzkräfte der Feuerwehr München eine Pfaudame einfangen. Über ein halbes Jahr wurde von Anwohnerinnen und Anwohnern immer wieder ein ...",
+    "matched_keywords": [
+      "Feuerwehr Muenchen",
+      "Muenchen"
+    ],
     "relevance_score": 4,
-    "relevance_reason": "watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)",
+    "relevance_reason": "Feuerwehr Muenchen (+2.0); Muenchen (+2.0)",
     "risk_or_opportunity": "observation",
     "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "77fef285ffd14964a82c"
+    "id": "4bf82f4374bab4d511a7"
   },
   {
-    "title": "Level 2 - Meningococcal Disease in the Democratic Republic of the Congo",
-    "url": "https://wwwnc.cdc.gov/travel/notices/level2/meningococcal-drc",
-    "source": "CDC Travel Health Notices RSS",
+    "title": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig",
+    "url": "http://www.bverwg.de/pm/2026/44",
+    "source": "Bundesverwaltungsgericht Presse RSS",
     "source_type": "rss",
-    "published_at": "2026-03-24T04:00:00+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "There is an outbreak of meningococcal disease in the Mangembo Health Zone of Kongo Central Province. The best way to protect yourself is to get meningococcal vaccination.",
+    "published_at": "2026-06-10T22:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "BVerwG 1 C 25.25",
     "matched_keywords": [
-      "CDC",
-      "outbreak",
-      "travel health notice",
-      "Watchgraph:public_health_biosecurity"
+      "Bundesverwaltungsgericht",
+      "BVerwG"
     ],
     "relevance_score": 4,
-    "relevance_reason": "CDC (+2.0); travel health notice (+2.0); outbreak (+2.0); watchgraph modules public_health_biosecurity (+3.0); watchgraph demote demo (x0.45)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "public_health_biosecurity"
+    "relevance_reason": "BVerwG (+2.0); Bundesverwaltungsgericht (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "43b402f32d4e6ff5ee38"
+  },
+  {
+    "title": "Keine Klagebefugnis eines Medienunternehmens für ein Verfahren betreffend die Zeugnisverweigerung des Bundespräsidenten",
+    "url": "http://www.bverwg.de/pm/2026/43",
+    "source": "Bundesverwaltungsgericht Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-10T22:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "BVerwG 1 C 19.25",
+    "matched_keywords": [
+      "Bundesverwaltungsgericht",
+      "BVerwG"
     ],
-    "watchgraph_reasons": [
-      "public_health_biosecurity: outbreak"
+    "relevance_score": 4,
+    "relevance_reason": "BVerwG (+2.0); Bundesverwaltungsgericht (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fd71ebb07139b5d77c80"
+  },
+  {
+    "title": "Kein versorgungsrechtlicher Nachteil durch die schulferienbedingte Lücke zwischen Vorbereitungsdienst und Beamtenverhältnis auf Probe",
+    "url": "http://www.bverwg.de/pm/2026/46",
+    "source": "Bundesverwaltungsgericht Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-10T22:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "BVerwG 2 C 8.25",
+    "matched_keywords": [
+      "Bundesverwaltungsgericht",
+      "BVerwG"
     ],
-    "market_context": [
-      "PFE",
-      "MRNA",
-      "BNTX",
-      "GSK",
-      "AZN",
-      "TMO",
-      "DHR"
+    "relevance_score": 4,
+    "relevance_reason": "BVerwG (+2.0); Bundesverwaltungsgericht (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ebc67e897f677c47e5bb"
+  },
+  {
+    "title": "Annahme einer Verfassungstreuepflichtverletzung durch Chat-Beiträge setzt Aufklärung der subjektiven Einstellung des Beamten voraus",
+    "url": "http://www.bverwg.de/pm/2026/45",
+    "source": "Bundesverwaltungsgericht Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-10T22:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "BVerwG 2 C 12.25",
+    "matched_keywords": [
+      "Bundesverwaltungsgericht",
+      "BVerwG"
     ],
-    "id": "bac03518c904701be552"
+    "relevance_score": 4,
+    "relevance_reason": "BVerwG (+2.0); Bundesverwaltungsgericht (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9255be28e6346a65dfec"
+  },
+  {
+    "title": "Rechtswidrige Rückforderung von Beihilfen für Flughafen Frankfurt Hahn",
+    "url": "http://www.bverwg.de/pm/2026/42",
+    "source": "Bundesverwaltungsgericht Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-09T22:00:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "BVerwG 8 C 4.25",
+    "matched_keywords": [
+      "Bundesverwaltungsgericht",
+      "BVerwG"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "BVerwG (+2.0); Bundesverwaltungsgericht (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea12a9200fc02eaa5243"
+  },
+  {
+    "title": "MERS-CoV worldwide overview",
+    "url": "https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus-mers-cov-situation-update",
+    "source": "ECDC CDTR RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-08T12:20:22+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Since April 2012, and as of 1 June 2026, a total of 2 649 MERS cases, including 960 deaths, have been reported by health authorities worldwide.",
+    "matched_keywords": [
+      "CDTR",
+      "ECDC"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "ECDC (+2.0); CDTR (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "27d89d711c806fa5cfb7"
   },
   {
     "title": "owainlewis/awesome-artificial-intelligence",
@@ -7985,6 +7595,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "daeea086eb8b046f856a"
+  },
+  {
+    "title": "Die Bayerische Polizei - Neueste Pressemeldungen",
+    "url": "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html",
+    "source": "Bayerische Polizei Pressemeldungen",
+    "source_type": "webpage_check",
+    "published_at": null,
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Medieninfo Nordschwaben - 02.06.2026",
+    "matched_keywords": [
+      "Bayerische Polizei",
+      "Bayern"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Bayerische Polizei (+2.5); Bayern (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5f48b962f34cd8e86bf5"
   },
   {
     "title": "Updates | ReliefWeb",
@@ -8043,6 +7674,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "11fad926be469e380fa0"
+  },
+  {
+    "title": "Reiserückkehrer aus der Türkei mit fast acht Kilogramm Potenzhonig erwischt",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z35_potenzhonig_k.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T11:33:01+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Der 66-jährige Mann hatte 22 Gläser und mehr als 180 Sachets zwischen seiner Kleidung versteckt.",
+    "matched_keywords": [
+      "Zoll"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Zoll (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "22234dfa0f675cb4459d"
   },
   {
     "title": "Demand for vultures in West Africa threatens central African populations",
@@ -8125,6 +7776,26 @@
     "id": "ac56e3d28f409a8f9944"
   },
   {
+    "title": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit",
+    "url": "https://www.bundesarbeitsgericht.de/presse/vorwirkender-kuendigungsschutz-vor-zeitabschnitten-einer-elternzeit/",
+    "source": "Bundesarbeitsgericht Presse RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T13:53:42+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit",
+    "matched_keywords": [
+      "Bundesarbeitsgericht"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Bundesarbeitsgericht (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8277567103087ec1c764"
+  },
+  {
     "title": "How network aggregators can thrive in a disconnected world",
     "url": "https://e27.co/how-network-aggregators-can-thrive-in-a-disconnected-world-20251117/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -8143,6 +7814,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b0466449bc9f11a7ba07"
+  },
+  {
+    "title": "Massenweise illegale Vapes aus dem Verkehr gezogen",
+    "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Zigaretten/2026/z65_illegale_vapes_zfaffm.html",
+    "source": "Zoll Pressemitteilungen RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T10:50:00+00:00",
+    "fetched_at": "2026-06-19T20:08:40+00:00",
+    "summary": "Mehrere Hunderttausend unversteuerte, nicht in Deutschland zugelassene Vapes stellte die Frankfurter Zollfahndung in einer Lagerhalle in Heusenstamm sicher.",
+    "matched_keywords": [
+      "Zoll"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Zoll (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2a4499784ac984224391"
   },
   {
     "title": "Q&A: What do China’s provincial five-year plans say about climate and energy?",

@@ -10,6 +10,15 @@
       "goal": "Frühwarnsystem für massenpsychologisch relevante Makro-/Mikrotrends und AXI0M-relevante Signale.",
       "memory_repo": "Question86/keeper-clean",
       "memory_path": "core_rules/senna_infoflow/"
+    },
+    "source_merge_policy": {
+      "direct_sources_first": true,
+      "media_after_direct_sources": true,
+      "removed_ids_count": 9,
+      "disabled_ids_count": 4,
+      "merged_overlay_sources": 85,
+      "replaced_overlay_sources": 62,
+      "last_overlay_merge_utc": "2026-06-19T20:08:38.779396+00:00"
     }
   },
   "defaults": {
@@ -17,6 +26,277 @@
     "max_items": 20
   },
   "sources": [
+    {
+      "id": "ap_top_news_rss",
+      "name": "Associated Press Top News RSS",
+      "type": "rss",
+      "source_tier": 1,
+      "source_class": "wire_service_backbone",
+      "source_role": "backbone_context",
+      "enabled": true,
+      "max_items": 20,
+      "url": "https://apnews.com/index.rss",
+      "notes": "Backbone/context only; prefer direct official sources where available.",
+      "keywords": [
+        "AP",
+        "wire service",
+        "world",
+        "politics",
+        "economy",
+        "conflict",
+        "disaster"
+      ]
+    },
+    {
+      "id": "presseportal_polizei_rss",
+      "name": "Presseportal Police RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_first_responder_aggregator",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 20,
+      "url": "https://www.presseportal.de/rss/polizei.rss2",
+      "notes": "Direct police press releases. Event/claim status, not judicial truth.",
+      "keywords": [
+        "Polizei",
+        "police",
+        "Blaulicht",
+        "Einsatz",
+        "Unfall",
+        "Fahndung",
+        "Brand"
+      ]
+    },
+    {
+      "id": "presseportal_feuerwehr_muenchen_rss",
+      "name": "Presseportal Feuerwehr Muenchen RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_first_responder",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://www.presseportal.de/rss/dienststelle_131419.rss2",
+      "notes": "Official Feuerwehr Muenchen press RSS as listed by FF Muenchen.",
+      "keywords": [
+        "Feuerwehr Muenchen",
+        "Muenchen",
+        "Brand",
+        "Rettung",
+        "Unfall",
+        "Evakuierung"
+      ]
+    },
+    {
+      "id": "ffw_muenchen_news_feed",
+      "name": "Freiwillige Feuerwehr Muenchen News Feed",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_first_responder_local",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://www.ffw-muenchen.de/news-feed",
+      "notes": "Local first-responder signal.",
+      "keywords": [
+        "Feuerwehr",
+        "Muenchen",
+        "Alarmierung",
+        "Einsatzbericht",
+        "Brand"
+      ]
+    },
+    {
+      "id": "polizei_bayern_presse_direct",
+      "name": "Bayerische Polizei Pressemeldungen",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 2,
+      "url": "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html",
+      "notes": "Official police source. RSS exists on site; exact endpoint needs adapter extraction.",
+      "keywords": [
+        "Bayerische Polizei",
+        "Bayern",
+        "Nuernberg",
+        "Muenchen",
+        "Unfall",
+        "Fahndung"
+      ]
+    },
+    {
+      "id": "zoll_pressemitteilungen_rss",
+      "name": "Zoll Pressemitteilungen RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_federal_enforcement",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 12,
+      "url": "https://www.zoll.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSPressemitteilungen.xml?nn=280690",
+      "notes": "Customs enforcement, seizures, sanctions and supply-chain signal.",
+      "keywords": [
+        "Zoll",
+        "customs",
+        "Sanktionen",
+        "Schmuggel",
+        "Beschlagnahme"
+      ]
+    },
+    {
+      "id": "bverwg_presse_rss",
+      "name": "Bundesverwaltungsgericht Presse RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_court",
+      "source_role": "direct_legal_sensor",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.bverwg.de/rss/pressemitteilungen.rss",
+      "notes": "Administrative law press feed.",
+      "keywords": [
+        "BVerwG",
+        "Bundesverwaltungsgericht",
+        "Urteil",
+        "Verwaltungsrecht"
+      ]
+    },
+    {
+      "id": "bverwg_termine_rss",
+      "name": "Bundesverwaltungsgericht Termine RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_court",
+      "source_role": "direct_legal_calendar",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.bverwg.de/rss/verhandlungstermine.rss",
+      "notes": "Upcoming hearing/verdict dates.",
+      "keywords": [
+        "BVerwG",
+        "Verhandlung",
+        "Termin",
+        "Urteil"
+      ]
+    },
+    {
+      "id": "bundesarbeitsgericht_presse_rss",
+      "name": "Bundesarbeitsgericht Presse RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_court",
+      "source_role": "direct_legal_sensor",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.bundesarbeitsgericht.de/feed/presse/neueste",
+      "notes": "Employment law press feed.",
+      "keywords": [
+        "BAG",
+        "Bundesarbeitsgericht",
+        "Arbeitsrecht",
+        "Urteil"
+      ]
+    },
+    {
+      "id": "curia_eu_press_rss_de_en",
+      "name": "CJEU CURIA Press RSS DE EN",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_court_eu",
+      "source_role": "direct_legal_sensor",
+      "enabled": true,
+      "max_items": 10,
+      "url": "http://curia.europa.eu/site/rss.jsp?lang=de&secondLang=en",
+      "notes": "EU court press releases.",
+      "keywords": [
+        "EuGH",
+        "CJEU",
+        "CURIA",
+        "EU law",
+        "Datenschutz"
+      ]
+    },
+    {
+      "id": "bmg_pressemitteilungen_rss",
+      "name": "BMG Presse RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_health_ministry",
+      "source_role": "direct_health_policy_sensor",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.bundesgesundheitsministerium.de/pressemitteilungen.xml",
+      "notes": "BMG official press RSS.",
+      "keywords": [
+        "BMG",
+        "Gesundheit",
+        "Pandemie",
+        "Arzneimittel"
+      ]
+    },
+    {
+      "id": "ecdc_cdtr_rss",
+      "name": "ECDC CDTR RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_health_authority_eu",
+      "source_role": "direct_outbreak_sensor",
+      "enabled": true,
+      "max_items": 12,
+      "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed",
+      "notes": "Official ECDC Communicable Disease Threats Report feed.",
+      "keywords": [
+        "ECDC",
+        "CDTR",
+        "outbreak",
+        "surveillance",
+        "public health"
+      ]
+    },
+    {
+      "id": "reliefweb_rss_reference",
+      "name": "ReliefWeb RSS Reference",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "humanitarian_official_aggregator",
+      "source_role": "direct_humanitarian_sensor",
+      "enabled": true,
+      "max_items": 2,
+      "url": "https://reliefweb.int/rss",
+      "notes": "ReliefWeb supports RSS for updates/reports; use generated topic feeds later.",
+      "keywords": [
+        "ReliefWeb",
+        "OCHA",
+        "humanitarian",
+        "NGO",
+        "disaster",
+        "flood",
+        "conflict"
+      ]
+    },
+    {
+      "id": "msf_rss_reference",
+      "name": "MSF RSS Reference",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "ngo_medical_humanitarian",
+      "source_role": "direct_medical_humanitarian_sensor",
+      "enabled": true,
+      "max_items": 2,
+      "url": "https://www.msf.org/rss",
+      "notes": "Field medical signal for outbreaks and conflict medicine.",
+      "keywords": [
+        "MSF",
+        "outbreak",
+        "cholera",
+        "Ebola",
+        "Gaza",
+        "Sudan"
+      ]
+    },
     {
       "id": "google_trends_japan_hot",
       "name": "Google Trends Japan Hot Feed",
@@ -535,7 +815,8 @@
         "Strategic Petroleum Reserve",
         "OPEC",
         "energy security"
-      ]
+      ],
+      "notes": "Kept as official reference but homepage extraction is noisy; replace with EIA API/table adapter."
     },
     {
       "id": "eia_today_in_energy_web",
@@ -557,50 +838,8 @@
         "electricity",
         "geopolitical risk",
         "energy transition"
-      ]
-    },
-    {
-      "id": "iea_news_energy_web",
-      "name": "IEA News and Commentaries",
-      "type": "webpage_check",
-      "source_class": "energy_global_policy",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://www.iea.org/news",
-      "keywords": [
-        "IEA",
-        "oil market report",
-        "energy security",
-        "oil demand",
-        "oil supply",
-        "global energy",
-        "Ukraine",
-        "Russia",
-        "OPEC",
-        "LNG",
-        "clean energy",
-        "climate"
-      ]
-    },
-    {
-      "id": "opec_press_releases_web",
-      "name": "OPEC Press Releases",
-      "type": "webpage_check",
-      "source_class": "energy_oil_production",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://www.opec.org/opec_web/en/press_room/",
-      "keywords": [
-        "OPEC",
-        "OPEC+",
-        "oil production",
-        "production quota",
-        "crude oil",
-        "supply cut",
-        "spare capacity",
-        "energy market",
-        "oil price"
-      ]
+      ],
+      "notes": "Kept low-volume until RSS/API adapter is pinned."
     },
     {
       "id": "state_department_rss",
@@ -669,29 +908,6 @@
       ]
     },
     {
-      "id": "un_news_global_web",
-      "name": "UN News Global",
-      "type": "webpage_check",
-      "source_class": "global_multilateral",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://news.un.org/en/",
-      "keywords": [
-        "UN",
-        "Security Council",
-        "humanitarian",
-        "conflict",
-        "climate",
-        "health",
-        "food security",
-        "Ukraine",
-        "Gaza",
-        "Sudan",
-        "migration",
-        "diplomacy"
-      ]
-    },
-    {
       "id": "deepstatemap_ukraine_web",
       "name": "DeepStateMap Ukraine War Map",
       "type": "webpage_check",
@@ -712,53 +928,6 @@
         "Kharkiv",
         "Zaporizhzhia",
         "Kherson"
-      ]
-    },
-    {
-      "id": "isw_ukraine_rss",
-      "name": "Institute for the Study of War RSS",
-      "type": "rss",
-      "source_class": "russia_ukraine_conflict_analysis",
-      "enabled": true,
-      "max_items": 10,
-      "url": "https://www.understandingwar.org/rss.xml",
-      "keywords": [
-        "ISW",
-        "Ukraine",
-        "Russia",
-        "Russian offensive",
-        "front line",
-        "military assessment",
-        "Donetsk",
-        "Kharkiv",
-        "Zaporizhzhia",
-        "sanctions",
-        "mobilization",
-        "Kremlin"
-      ]
-    },
-    {
-      "id": "liveuamap_ukraine_web",
-      "name": "Liveuamap Ukraine",
-      "type": "webpage_check",
-      "source_class": "russia_ukraine_conflict_map",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://liveuamap.com/",
-      "keywords": [
-        "Ukraine",
-        "Russia",
-        "war",
-        "air raid",
-        "missile",
-        "drone",
-        "front line",
-        "Donetsk",
-        "Kharkiv",
-        "Kyiv",
-        "Black Sea",
-        "occupation",
-        "military"
       ]
     },
     {
@@ -856,27 +1025,6 @@
       ]
     },
     {
-      "id": "copernicus_ems_floods_web",
-      "name": "Copernicus Emergency Management Service",
-      "type": "webpage_check",
-      "source_class": "climate_disaster_earth_observation",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://emergency.copernicus.eu/",
-      "keywords": [
-        "Copernicus",
-        "flood",
-        "wildfire",
-        "drought",
-        "satellite",
-        "emergency mapping",
-        "Amazon",
-        "South America",
-        "climate disaster",
-        "rapid mapping"
-      ]
-    },
-    {
       "id": "who_disease_outbreak_news_web",
       "name": "WHO Disease Outbreak News",
       "type": "webpage_check",
@@ -948,26 +1096,6 @@
       ]
     },
     {
-      "id": "ecdc_threats_reports_web",
-      "name": "ECDC Communicable Disease Threats",
-      "type": "webpage_check",
-      "source_class": "global_health_outbreaks_europe",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report",
-      "keywords": [
-        "ECDC",
-        "communicable disease threats",
-        "epidemiological update",
-        "avian influenza",
-        "mpox",
-        "COVID-19",
-        "West Nile virus",
-        "outbreak",
-        "risk assessment"
-      ]
-    },
-    {
       "id": "cdc_eid_expedited_rss",
       "name": "CDC Emerging Infectious Diseases Expedited Articles",
       "type": "rss",
@@ -1006,7 +1134,8 @@
         "treatment",
         "guidance",
         "safety"
-      ]
+      ],
+      "notes": "Official but webpage extraction can be noisy."
     },
     {
       "id": "fda_drugs_whats_new_web",
@@ -1027,7 +1156,8 @@
         "guidance",
         "safety",
         "therapeutics"
-      ]
+      ],
+      "notes": "Official but webpage extraction can be noisy."
     },
     {
       "id": "ema_news_web",
@@ -1095,7 +1225,8 @@
         "crop forecast",
         "exports",
         "food security"
-      ]
+      ],
+      "notes": "Official but should become specific report/PDF adapter."
     },
     {
       "id": "usda_nass_news_web",
@@ -1117,7 +1248,8 @@
         "yield",
         "drought",
         "United States agriculture"
-      ]
+      ],
+      "notes": "Official but should become RSS/API if available."
     },
     {
       "id": "fao_newsroom_web",
@@ -1141,7 +1273,8 @@
         "prices",
         "global hunger",
         "food systems"
-      ]
+      ],
+      "notes": "Official but broad homepage; keep low-volume."
     },
     {
       "id": "reliefweb_food_security_updates",
@@ -1186,50 +1319,6 @@
         "drought",
         "flood",
         "global climate"
-      ]
-    },
-    {
-      "id": "copernicus_climate_news_web",
-      "name": "Copernicus Climate Change Service News",
-      "type": "webpage_check",
-      "source_class": "global_climate",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://climate.copernicus.eu/news",
-      "keywords": [
-        "Copernicus",
-        "C3S",
-        "climate",
-        "temperature anomaly",
-        "sea surface temperature",
-        "El Nino",
-        "Arctic",
-        "Antarctic",
-        "heatwave",
-        "drought",
-        "climate bulletin"
-      ]
-    },
-    {
-      "id": "nasa_climate_news_web",
-      "name": "NASA Climate News",
-      "type": "webpage_check",
-      "source_class": "global_climate_science",
-      "enabled": true,
-      "max_items": 1,
-      "url": "https://science.nasa.gov/climate-change/news/",
-      "keywords": [
-        "NASA",
-        "climate change",
-        "temperature",
-        "sea level",
-        "ice",
-        "carbon",
-        "wildfire",
-        "drought",
-        "satellite",
-        "climate science",
-        "global warming"
       ]
     },
     {

@@ -4,8 +4,8 @@ Scope: configured public sources after runtime overlay merge.
 
 ## Counts
 
-- Active sources: `89`
-- base: `62`
+- Active sources: `94`
+- base: `67`
 - hot: `6`
 - macro_policy: `11`
 - platform_dev: `8`
@@ -15,19 +15,23 @@ Scope: configured public sources after runtime overlay merge.
 
 ### base
 
+- `ap_top_news_rss` — Associated Press Top News RSS / `rss` / class `wire_service_backbone` / host `apnews.com`
 - `axi0m_blog` — AXI0M Blog / `webpage_check` / class `-` / host `axi0m.de`
 - `axi0m_home` — AXI0M Website / `webpage_check` / class `-` / host `axi0m.de`
 - `bleepingcomputer_security` — BleepingComputer Security / `rss` / class `-` / host `www.bleepingcomputer.com`
+- `bmg_pressemitteilungen_rss` — BMG Presse RSS / `rss` / class `official_health_ministry` / host `www.bundesgesundheitsministerium.de`
+- `bundesarbeitsgericht_presse_rss` — Bundesarbeitsgericht Presse RSS / `rss` / class `official_court` / host `www.bundesarbeitsgericht.de`
+- `bverwg_presse_rss` — Bundesverwaltungsgericht Presse RSS / `rss` / class `official_court` / host `www.bverwg.de`
+- `bverwg_termine_rss` — Bundesverwaltungsgericht Termine RSS / `rss` / class `official_court` / host `www.bverwg.de`
 - `carbon_brief_feed` — Carbon Brief Feed / `rss` / class `global_climate_policy` / host `www.carbonbrief.org`
 - `cdc_eid_expedited_rss` — CDC Emerging Infectious Diseases Expedited Articles / `rss` / class `infectious_disease_research` / host `wwwnc.cdc.gov`
 - `cdc_travel_health_notices_rss` — CDC Travel Health Notices RSS / `rss` / class `global_health_travel_outbreaks` / host `wwwnc.cdc.gov`
 - `cisa_all_advisories` — CISA Cybersecurity Advisories / `rss` / class `-` / host `www.cisa.gov`
-- `copernicus_climate_news_web` — Copernicus Climate Change Service News / `webpage_check` / class `global_climate` / host `climate.copernicus.eu`
-- `copernicus_ems_floods_web` — Copernicus Emergency Management Service / `webpage_check` / class `climate_disaster_earth_observation` / host `emergency.copernicus.eu`
 - `crisisgroup_global_feed` — International Crisis Group Global Feed / `rss` / class `conflict_foreign_policy` / host `www.crisisgroup.org`
+- `curia_eu_press_rss_de_en` — CJEU CURIA Press RSS DE EN / `rss` / class `official_court_eu` / host `curia.europa.eu`
 - `deepstatemap_ukraine_web` — DeepStateMap Ukraine War Map / `webpage_check` / class `russia_ukraine_conflict_map` / host `deepstatemap.live`
 - `e27_asia_startups_feed` — e27 Asia Startup and Tech Feed / `rss` / class `asia_tech_media` / host `e27.co`
-- `ecdc_threats_reports_web` — ECDC Communicable Disease Threats / `webpage_check` / class `global_health_outbreaks_europe` / host `www.ecdc.europa.eu`
+- `ecdc_cdtr_rss` — ECDC CDTR RSS / `rss` / class `official_health_authority_eu` / host `www.ecdc.europa.eu`
 - `ecfr_feed` — European Council on Foreign Relations Feed / `rss` / class `global_foreign_policy` / host `ecfr.eu`
 - `eia_today_in_energy_web` — EIA Today in Energy / `webpage_check` / class `energy_oil_macro` / host `www.eia.gov`
 - `eia_weekly_petroleum_status_web` — EIA Weekly Petroleum Status Report / `webpage_check` / class `energy_oil_production` / host `www.eia.gov`
@@ -35,6 +39,7 @@ Scope: configured public sources after runtime overlay merge.
 - `fao_newsroom_web` — FAO Newsroom / `webpage_check` / class `agriculture_food_security` / host `www.fao.org`
 - `fda_drugs_whats_new_web` — FDA What's New Related to Drugs / `webpage_check` / class `medical_approvals_drugs` / host `www.fda.gov`
 - `fda_press_announcements_web` — FDA Press Announcements / `webpage_check` / class `medical_approvals_research` / host `www.fda.gov`
+- `ffw_muenchen_news_feed` — Freiwillige Feuerwehr Muenchen News Feed / `rss` / class `official_first_responder_local` / host `www.ffw-muenchen.de`
 - `global_forest_watch_blog` — Global Forest Watch Blog / `rss` / class `rainforest_south_america` / host `www.globalforestwatch.org`
 - `google_trends_japan_hot` — Google Trends Japan Hot Feed / `rss` / class `regional_trend_radar` / host `trends.google.co.jp`
 - `google_trends_korea_hot` — Google Trends South Korea Hot Feed / `rss` / class `regional_trend_radar` / host `trends.google.co.kr`
@@ -47,36 +52,36 @@ Scope: configured public sources after runtime overlay merge.
 - `hn_ai_security` — Hacker News AI/Security Search / `hackernews` / class `-` / host `-`
 - `hn_local_first_ai` — Hacker News Local-first AI Search / `hackernews` / class `-` / host `-`
 - `hn_release_security_burst` — Hacker News Release/Security Burst / `hackernews` / class `platform_social` / host `-`
-- `iea_news_energy_web` — IEA News and Commentaries / `webpage_check` / class `energy_global_policy` / host `www.iea.org`
-- `isw_ukraine_rss` — Institute for the Study of War RSS / `rss` / class `russia_ukraine_conflict_analysis` / host `www.understandingwar.org`
 - `japan_digital_agency_news` — Japan Digital Agency News RSS / `rss` / class `apac_public_institution` / host `www.digital.go.jp`
 - `jpcert_english_alerts` — JPCERT/CC English Alerts / `rss` / class `security_advisory` / host `www.jpcert.or.jp`
 - `jpcert_english_blog` — JPCERT/CC English Blog Atom / `rss` / class `security_advisory` / host `blogs.jpcert.or.jp`
 - `jvn_vulnerability_notes` — JVN Japan Vulnerability Notes / `rss` / class `security_advisory` / host `jvn.jp`
-- `liveuamap_ukraine_web` — Liveuamap Ukraine / `webpage_check` / class `russia_ukraine_conflict_map` / host `liveuamap.com`
 - `manual_notes` — Manual Notes Inbox / `manual_note` / class `-` / host `-`
 - `mongabay_latin_america_rainforest_feed` — Mongabay Latin America Rainforest Feed / `rss` / class `rainforest_south_america` / host `news.mongabay.com`
-- `nasa_climate_news_web` — NASA Climate News / `webpage_check` / class `global_climate_science` / host `science.nasa.gov`
+- `msf_rss_reference` — MSF RSS Reference / `webpage_check` / class `ngo_medical_humanitarian` / host `www.msf.org`
 - `nasa_firms_active_fire_web` — NASA FIRMS Active Fire Watch / `webpage_check` / class `rainforest_fire_early_warning` / host `firms.modaps.eosdis.nasa.gov`
 - `nhc_atlantic_cyclones` — NOAA NHC Atlantic Tropical Cyclones / `rss` / class `-` / host `www.nhc.noaa.gov`
 - `nhc_central_pacific_cyclones` — NOAA NHC Central Pacific Tropical Cyclones / `rss` / class `-` / host `www.nhc.noaa.gov`
 - `nhc_eastern_pacific_cyclones` — NOAA NHC Eastern Pacific Tropical Cyclones / `rss` / class `-` / host `www.nhc.noaa.gov`
 - `nih_news_releases_web` — NIH News Releases / `webpage_check` / class `medical_research_breakthroughs` / host `www.nih.gov`
-- `opec_press_releases_web` — OPEC Press Releases / `webpage_check` / class `energy_oil_production` / host `www.opec.org`
 - `openai_news_rss` — OpenAI News RSS / `rss` / class `-` / host `openai.com`
+- `polizei_bayern_presse_direct` — Bayerische Polizei Pressemeldungen / `webpage_check` / class `official_police_direct` / host `www.polizei.bayern.de`
+- `presseportal_feuerwehr_muenchen_rss` — Presseportal Feuerwehr Muenchen RSS / `rss` / class `official_first_responder` / host `www.presseportal.de`
+- `presseportal_polizei_rss` — Presseportal Police RSS / `rss` / class `official_first_responder_aggregator` / host `www.presseportal.de`
 - `reliefweb_food_security_updates` — ReliefWeb Food Security Updates / `webpage_check` / class `agriculture_food_security` / host `reliefweb.int`
 - `reliefweb_mindanao_recovery_watch` — ReliefWeb Mindanao Recovery Watch / `webpage_check` / class `humanitarian_recovery_watch` / host `reliefweb.int`
+- `reliefweb_rss_reference` — ReliefWeb RSS Reference / `webpage_check` / class `humanitarian_official_aggregator` / host `reliefweb.int`
 - `reliefweb_ukraine_updates` — ReliefWeb Ukraine Updates / `webpage_check` / class `russia_ukraine_humanitarian` / host `reliefweb.int`
 - `restofworld_feed` — Rest of World Global Tech Feed / `rss` / class `global_south_tech_media` / host `restofworld.org`
 - `state_department_rss` — U.S. Department of State RSS / `rss` / class `global_foreign_policy` / host `www.state.gov`
 - `twcert_security_news` — TWCERT/CC Security News RSS / `rss` / class `security_advisory` / host `www.twcert.org.tw`
 - `twcert_tvn_vulnerability_notes` — TWCERT/CC TVN Vulnerability Notes RSS / `rss` / class `security_advisory` / host `www.twcert.org.tw`
-- `un_news_global_web` — UN News Global / `webpage_check` / class `global_multilateral` / host `news.un.org`
 - `usda_nass_news_web` — USDA NASS News Releases / `webpage_check` / class `agriculture_us_crop_data` / host `www.nass.usda.gov`
 - `usda_wasde_web` — USDA WASDE Report / `webpage_check` / class `agriculture_global_grains` / host `www.usda.gov`
 - `who_afro_rss` — WHO Africa RSS / `rss` / class `tropical_disease_outbreaks` / host `www.afro.who.int`
 - `who_disease_outbreak_news_web` — WHO Disease Outbreak News / `webpage_check` / class `global_health_outbreaks` / host `www.who.int`
 - `wmo_news_web` — World Meteorological Organization News / `webpage_check` / class `global_climate` / host `wmo.int`
+- `zoll_pressemitteilungen_rss` — Zoll Pressemitteilungen RSS / `rss` / class `official_federal_enforcement` / host `www.zoll.de`
 
 ### hot
 

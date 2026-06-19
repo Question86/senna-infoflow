@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T18:22:32Z",
+  "generated_at": "2026-06-19T20:12:42Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -448,7 +448,7 @@
     },
     "domain:firms.modaps.eosdis.nasa.gov": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:12:42Z",
       "last_trend_wucht": 20.5,
       "samples": [
         {
@@ -506,6 +506,34 @@
           "urls": [
             "https://firms.modaps.eosdis.nasa.gov/"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 18.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:firms.modaps.eosdis.nasa.gov",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "NASA FIRMS Active Fire Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:firms.modaps.eosdis.nasa.gov",
+          "topic_label": "NASA | LANCE | FIRMS",
+          "trend_wucht": 20.5,
+          "urls": [
+            "https://firms.modaps.eosdis.nasa.gov/"
+          ]
         }
       ],
       "topic_key": "domain:firms.modaps.eosdis.nasa.gov",
@@ -513,8 +541,8 @@
     },
     "domain:news.mongabay.com": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T17:44:38Z",
-      "last_trend_wucht": 72.0,
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 23.5,
       "samples": [
         {
           "bucket": "other",
@@ -548,10 +576,38 @@
             "https://news.mongabay.com/2026/06/south-african-authorities-thwart-smuggling-of-150-venomous-scorpions-arrest-man/",
             "https://news.mongabay.com/short-article/2026/06/demand-for-vultures-in-west-africa-threatens-central-african-populations/"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 21.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:news.mongabay.com",
+          "sample_index": 5939666,
+          "score_delta_5m": -13.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:news.mongabay.com",
+          "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
+          "trend_wucht": 23.5,
+          "urls": [
+            "https://news.mongabay.com/2026/06/death-and-exile-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon/"
+          ]
         }
       ],
       "topic_key": "domain:news.mongabay.com",
-      "topic_label": "What’s at stake for the environment in Colombia’s upcoming election?"
+      "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon"
     },
     "domain:news.un.org": {
       "bucket": "other",
@@ -835,7 +891,7 @@
     },
     "domain:wmo.int": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:12:42Z",
       "last_trend_wucht": 14.5,
       "samples": [
         {
@@ -887,6 +943,34 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "domain:wmo.int",
+          "topic_label": "News Portal",
+          "trend_wucht": 14.5,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 12.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:wmo.int",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
           "topic_key": "domain:wmo.int",
           "topic_label": "News Portal",
           "trend_wucht": 14.5,
@@ -991,6 +1075,122 @@
       ],
       "topic_key": "domain:www.bleepingcomputer.com",
       "topic_label": "Texas govt data breach exposes over 3 million driver’s licenses"
+    },
+    "domain:www.bundesarbeitsgericht.de": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 7.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.bundesarbeitsgericht.de",
+          "sample_index": 5939666,
+          "score_delta_5m": 7.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Bundesarbeitsgericht Presse RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.bundesarbeitsgericht.de",
+          "topic_label": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit",
+          "trend_wucht": 16.0,
+          "urls": [
+            "https://www.bundesarbeitsgericht.de/presse/vorwirkender-kuendigungsschutz-vor-zeitabschnitten-einer-elternzeit/"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.bundesarbeitsgericht.de",
+      "topic_label": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit"
+    },
+    "domain:www.bundesgesundheitsministerium.de": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 27.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 12.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.bundesgesundheitsministerium.de",
+          "sample_index": 5939666,
+          "score_delta_5m": 12.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "BMG Presse RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.bundesgesundheitsministerium.de",
+          "topic_label": "Bundesgesundheitsministerin Nina Warken beim EPSCO-Rat in Luxemburg",
+          "trend_wucht": 27.0,
+          "urls": [
+            "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/warken-beim-epsco-rat-pm-16-06-2026",
+            "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/finanzentwicklung-der-gkv-im-1-quartal-2026-pm-19-06-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.bundesgesundheitsministerium.de",
+      "topic_label": "Bundesgesundheitsministerin Nina Warken beim EPSCO-Rat in Luxemburg"
+    },
+    "domain:www.bverwg.de": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 29.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 5,
+          "network_score": 13.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.bverwg.de",
+          "sample_index": 5939666,
+          "score_delta_5m": 13.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Bundesverwaltungsgericht Presse RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.bverwg.de",
+          "topic_label": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig",
+          "trend_wucht": 29.0,
+          "urls": [
+            "http://www.bverwg.de/pm/2026/44",
+            "http://www.bverwg.de/pm/2026/43",
+            "http://www.bverwg.de/pm/2026/46",
+            "http://www.bverwg.de/pm/2026/45",
+            "http://www.bverwg.de/pm/2026/42"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.bverwg.de",
+      "topic_label": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig"
     },
     "domain:www.carbonbrief.org": {
       "bucket": "apac_signal",
@@ -1142,6 +1342,44 @@
       "topic_key": "domain:www.ecb.europa.eu",
       "topic_label": "Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30"
     },
+    "domain:www.ecdc.europa.eu": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 33.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 15.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.ecdc.europa.eu",
+          "sample_index": 5939666,
+          "score_delta_5m": 15.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "ECDC CDTR RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.ecdc.europa.eu",
+          "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
+          "trend_wucht": 33.0,
+          "urls": [
+            "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+            "https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus-mers-cov-situation-update"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.ecdc.europa.eu",
+      "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda"
+    },
     "domain:www.eia.gov": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T17:44:38Z",
@@ -1257,8 +1495,8 @@
     },
     "domain:www.fda.gov": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
-      "last_trend_wucht": 27.0,
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 7.5,
       "samples": [
         {
           "bucket": "other",
@@ -1319,10 +1557,38 @@
             "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
             "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
           ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 5.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.fda.gov",
+          "sample_index": 5939666,
+          "score_delta_5m": -17.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.fda.gov",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 7.5,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
         }
       ],
       "topic_key": "domain:www.fda.gov",
-      "topic_label": "What's New Related to Drugs | FDA"
+      "topic_label": "Press Announcements | FDA"
     },
     "domain:www.nass.usda.gov": {
       "bucket": "other",
@@ -1397,6 +1663,123 @@
       ],
       "topic_key": "domain:www.nih.gov",
       "topic_label": "News Releases | National Institutes of Health (NIH)"
+    },
+    "domain:www.nikkei.com": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 30.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 1,
+          "network_score": 13.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.nikkei.com",
+          "sample_index": 5939666,
+          "score_delta_5m": 13.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.nikkei.com",
+          "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
+          "trend_wucht": 30.0,
+          "urls": [
+            "https://www.nikkei.com/article/DGXZQOUA18CWY0Y6A610C2000000/"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.nikkei.com",
+      "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞"
+    },
+    "domain:www.polizei.bayern.de": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 8.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.polizei.bayern.de",
+          "sample_index": 5939666,
+          "score_delta_5m": 8.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Bayerische Polizei Pressemeldungen"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.polizei.bayern.de",
+          "topic_label": "Die Bayerische Polizei - Neueste Pressemeldungen",
+          "trend_wucht": 18.0,
+          "urls": [
+            "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.polizei.bayern.de",
+      "topic_label": "Die Bayerische Polizei - Neueste Pressemeldungen"
+    },
+    "domain:www.presseportal.de": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 52.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 23,
+          "network_score": 24.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.presseportal.de",
+          "sample_index": 5939666,
+          "score_delta_5m": 24.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 2,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS",
+            "Presseportal Police RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.presseportal.de",
+          "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da",
+          "trend_wucht": 52.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/44143/6298227",
+            "https://www.presseportal.de/blaulicht/pm/68442/6298225",
+            "https://www.presseportal.de/blaulicht/pm/69780/6298224",
+            "https://www.presseportal.de/blaulicht/pm/117709/6298228",
+            "https://www.presseportal.de/blaulicht/pm/117710/6298222",
+            "https://www.presseportal.de/blaulicht/pm/117705/6298220"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.presseportal.de",
+      "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da"
     },
     "domain:www.twcert.org": {
       "bucket": "security",
@@ -1543,6 +1926,48 @@
       "topic_key": "domain:www.who.int",
       "topic_label": "Disease Outbreak News"
     },
+    "domain:www.zoll.de": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 33.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 7,
+          "network_score": 15.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:domain:www.zoll.de",
+          "sample_index": 5939666,
+          "score_delta_5m": 15.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "domain:www.zoll.de",
+          "topic_label": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen",
+          "trend_wucht": 33.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z36_lebende_schlange_ffm.html",
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z37_taufe_zollschiff_friesland_ol.html",
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y45_pruefung_asiatisches_restaurant_hst.html",
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y46_spp_taxi_mietwagen_loe.html",
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z38_zoll_auktion_gi.html",
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z35_potenzhonig_k.html"
+          ]
+        }
+      ],
+      "topic_key": "domain:www.zoll.de",
+      "topic_label": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen"
+    },
     "domain:wwwnc.cdc.gov": {
       "bucket": "other",
       "last_seen_at": "2026-06-19T17:44:38Z",
@@ -1650,6 +2075,41 @@
       ],
       "topic_key": "earthquake:green-earthquake-magnitude-4.5m-depth:10km-in-russia-19-0:4",
       "topic_label": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km."
+    },
+    "earthquake:green-earthquake-magnitude-4.5m-depth:216.301km-in-japan-19-06-2:4": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:green-earthquake-magnitude-4.5m-depth:216.301km-in-japan-19-06-2:4",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.5m-depth:216.301km-in-japan-19-06-2:4",
+          "topic_label": "Green earthquake (Magnitude 4.5M, Depth:216.301km) in Japan 19/06/2026 18:16 UTC, 3.9 million in 100km.",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547496"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:green-earthquake-magnitude-4.5m-depth:216.301km-in-japan-19-06-2:4",
+      "topic_label": "Green earthquake (Magnitude 4.5M, Depth:216.301km) in Japan 19/06/2026 18:16 UTC, 3.9 million in 100km."
     },
     "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-india-18-06:4": {
       "last_seen_at": "2026-06-18T18:23:02Z",
@@ -1826,6 +2286,41 @@
       "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4",
       "topic_label": "Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km."
     },
+    "earthquake:green-earthquake-magnitude-4.7m-depth:76.074km-in-papua-new-guin:4": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:green-earthquake-magnitude-4.7m-depth:76.074km-in-papua-new-guin:4",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:76.074km-in-papua-new-guin:4",
+          "topic_label": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km.",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547508"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:76.074km-in-papua-new-guin:4",
+      "topic_label": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km."
+    },
     "earthquake:green-earthquake-magnitude-4.8m-depth:20km-in-rat-islands:4": {
       "last_seen_at": "2026-06-18T16:21:23Z",
       "last_trend_wucht": 10.0,
@@ -1909,6 +2404,76 @@
       ],
       "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:21.07km-in-timor-le:4",
       "topic_label": "Green earthquake (Magnitude 4.9M, Depth:21.07km) in Timor-Leste 18/06/2026 07:26 UTC, 560 thousand in 100km."
+    },
+    "earthquake:green-earthquake-magnitude-4.9m-depth:35km-in-philippines-19-06-:4": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:green-earthquake-magnitude-4.9m-depth:35km-in-philippines-19-06-:4",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:35km-in-philippines-19-06-:4",
+          "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547504"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:35km-in-philippines-19-06-:4",
+      "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km."
+    },
+    "earthquake:green-earthquake-magnitude-4.9m-depth:8.453km-in-ryukyu-islands-:4": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:green-earthquake-magnitude-4.9m-depth:8.453km-in-ryukyu-islands-:4",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:8.453km-in-ryukyu-islands-:4",
+          "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547511"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:green-earthquake-magnitude-4.9m-depth:8.453km-in-ryukyu-islands-:4",
+      "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km."
     },
     "earthquake:green-earthquake-magnitude-5.2m-depth:10km-in-russia-19-0:5": {
       "last_seen_at": "2026-06-19T09:22:22Z",
@@ -2220,6 +2785,83 @@
       "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
       "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
     },
+    "earthquake:japan:4.0": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 35.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 15.4,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:japan:4.0",
+          "sample_index": 5939666,
+          "score_delta_5m": 15.4,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:japan:4.0",
+          "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
+          "trend_wucht": 35.8,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547511",
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547496"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:japan:4.0",
+      "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km."
+    },
+    "earthquake:japan:4.9": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 24.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 9.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:japan:4.9",
+          "sample_index": 5939666,
+          "score_delta_5m": 9.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:japan:4.9",
+          "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
+          "trend_wucht": 24.8,
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000supp"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:japan:4.9",
+      "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan"
+    },
     "earthquake:m 4.7 - fiji region:4.7": {
       "bucket": "disaster_recovery",
       "last_seen_at": "2026-06-19T15:58:18Z",
@@ -2348,6 +2990,41 @@
       ],
       "topic_key": "earthquake:m-4.7-fiji-region:4.7",
       "topic_label": "M 4.7 - Fiji region"
+    },
+    "earthquake:m-4.9-127-km-sse-of-itoman-japan:4.9": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:m-4.9-127-km-sse-of-itoman-japan:4.9",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:m-4.9-127-km-sse-of-itoman-japan:4.9",
+          "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000supp"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:m-4.9-127-km-sse-of-itoman-japan:4.9",
+      "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan"
     },
     "earthquake:m-4.9-169-km-e-of-petropavlovsk-kamchatsky-russia:4.9": {
       "last_seen_at": "2026-06-19T07:39:37Z",
@@ -2621,6 +3298,82 @@
       "topic_key": "earthquake:mid-atlantic-ridge:5.1",
       "topic_label": "M 5.1 - central Mid-Atlantic Ridge"
     },
+    "earthquake:papua new guinea 19:4.0": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 20.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 7.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:papua new guinea 19:4.0",
+          "sample_index": 5939666,
+          "score_delta_5m": 7.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:papua new guinea 19:4.0",
+          "topic_label": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km.",
+          "trend_wucht": 20.8,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547508"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:papua new guinea 19:4.0",
+      "topic_label": "Green earthquake (Magnitude 4.7M, Depth:76.074km) in Papua New Guinea 19/06/2026 19:00 UTC, 2 thousand in 100km."
+    },
+    "earthquake:philippines:4.0": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 24.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 9.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:earthquake:philippines:4.0",
+          "sample_index": 5939666,
+          "score_delta_5m": 9.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "earthquake:philippines:4.0",
+          "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
+          "trend_wucht": 24.8,
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547504"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:philippines:4.0",
+      "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km."
+    },
     "earthquake:updates-reliefweb:unknown": {
       "bucket": "disaster_recovery",
       "last_seen_at": "2026-06-19T18:22:32Z",
@@ -2872,6 +3625,41 @@
       ],
       "topic_key": "title:16-4290-ai",
       "topic_label": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値"
+    },
+    "title:17ai10.5": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:17ai10.5",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:17ai10.5",
+          "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://www.nikkei.com/article/DGXZQOUA18CWY0Y6A610C2000000/"
+          ]
+        }
+      ],
+      "topic_key": "title:17ai10.5",
+      "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞"
     },
     "title:18": {
       "bucket": "apac_signal",
@@ -4355,6 +5143,41 @@
       "topic_key": "title:ai8claude-fable-5ai",
       "topic_label": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】"
     },
+    "title:annahme-einer-verfassungstreuepflichtverletzung-durch-chat-beitrage-setzt-aufklarung-der-subjekt": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:annahme-einer-verfassungstreuepflichtverletzung-durch-chat-beitrage-setzt-aufklarung-der-subjekt",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bundesverwaltungsgericht Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:annahme-einer-verfassungstreuepflichtverletzung-durch-chat-beitrage-setzt-aufklarung-der-subjekt",
+          "topic_label": "Annahme einer Verfassungstreuepflichtverletzung durch Chat-Beiträge setzt Aufklärung der subjektiven Einstellung des Beamten voraus",
+          "trend_wucht": 2.0,
+          "urls": [
+            "http://www.bverwg.de/pm/2026/45"
+          ]
+        }
+      ],
+      "topic_key": "title:annahme-einer-verfassungstreuepflichtverletzung-durch-chat-beitrage-setzt-aufklarung-der-subjekt",
+      "topic_label": "Annahme einer Verfassungstreuepflichtverletzung durch Chat-Beiträge setzt Aufklärung der subjektiven Einstellung des Beamten voraus"
+    },
     "title:announcing-20260054-mro-liquidity-providing-for-7-days-deadline-09:30": {
       "bucket": "macro_policy",
       "last_seen_at": "2026-06-19T17:44:38Z",
@@ -5786,6 +6609,41 @@
       "topic_key": "title:bowman-when-regulation-reshapes-markets:-the-migration-of-corporate-lending",
       "topic_label": "Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending"
     },
+    "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
+          "topic_label": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/74160/6298219"
+          ]
+        }
+      ],
+      "topic_key": "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
+      "topic_label": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig"
+    },
     "title:brimob-sumut-turun-tangan-saat-kebakaran-hanguskan-ratusan-kios-pasar-dwikora": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 8.0,
@@ -5906,6 +6764,41 @@
       ],
       "topic_key": "title:built-internal-data-analytics-agent",
       "topic_label": "How we built an internal data analytics agent"
+    },
+    "title:bundesgesundheitsministerin-nina-warken-beim-epsco-rat-in-luxemburg": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:bundesgesundheitsministerin-nina-warken-beim-epsco-rat-in-luxemburg",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "BMG Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:bundesgesundheitsministerin-nina-warken-beim-epsco-rat-in-luxemburg",
+          "topic_label": "Bundesgesundheitsministerin Nina Warken beim EPSCO-Rat in Luxemburg",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/warken-beim-epsco-rat-pm-16-06-2026"
+          ]
+        }
+      ],
+      "topic_key": "title:bundesgesundheitsministerin-nina-warken-beim-epsco-rat-in-luxemburg",
+      "topic_label": "Bundesgesundheitsministerin Nina Warken beim EPSCO-Rat in Luxemburg"
     },
     "title:bytechefhq-bytechef": {
       "last_seen_at": "2026-06-18T00:36:09Z",
@@ -7394,6 +8287,41 @@
       "topic_key": "title:data-download-program-and-federal-reserve-economic-data-partnership",
       "topic_label": "Data Download Program and Federal Reserve Economic Data Partnership"
     },
+    "title:death-and-exile:-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:death-and-exile:-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Mongabay Latin America Rainforest Feed"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:death-and-exile:-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon",
+          "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://news.mongabay.com/2026/06/death-and-exile-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon/"
+          ]
+        }
+      ],
+      "topic_key": "title:death-and-exile:-a-war-plagues-indigenous-jiw-and-nukak-in-the-colombian-amazon",
+      "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon"
+    },
     "title:debriefed-12-june-2026:-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitori": {
       "bucket": "macro_policy",
       "last_seen_at": "2026-06-19T17:44:38Z",
@@ -7710,6 +8638,41 @@
       ],
       "topic_key": "title:dicklesworthstone-frankenterm",
       "topic_label": "Dicklesworthstone/frankenterm"
+    },
+    "title:die-bayerische-polizei-neueste-pressemeldungen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:die-bayerische-polizei-neueste-pressemeldungen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bayerische Polizei Pressemeldungen"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:die-bayerische-polizei-neueste-pressemeldungen",
+          "topic_label": "Die Bayerische Polizei - Neueste Pressemeldungen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html"
+          ]
+        }
+      ],
+      "topic_key": "title:die-bayerische-polizei-neueste-pressemeldungen",
+      "topic_label": "Die Bayerische Polizei - Neueste Pressemeldungen"
     },
     "title:dinorah-figuera-retorna-con-apoyo-de-eeuu-:-en-agenda-reuniones-con-jorge-rodr-guez": {
       "last_seen_at": "2026-06-19T01:43:09Z",
@@ -8151,6 +9114,41 @@
       ],
       "topic_key": "title:eat-pray-ai-yutu",
       "topic_label": "eat-pray-ai/yutu"
+    },
+    "title:ebola-disease-outbreak-in-the-democratic-republic-of-the-congo-and-uganda": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:ebola-disease-outbreak-in-the-democratic-republic-of-the-congo-and-uganda",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "ECDC CDTR RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:ebola-disease-outbreak-in-the-democratic-republic-of-the-congo-and-uganda",
+          "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+          ]
+        }
+      ],
+      "topic_key": "title:ebola-disease-outbreak-in-the-democratic-republic-of-the-congo-and-uganda",
+      "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda"
     },
     "title:ecb-announces-main-milestones-for-roll-out-of-integrated-reporting-framework": {
       "last_seen_at": "2026-06-18T14:33:45Z",
@@ -9589,6 +10587,41 @@
       "topic_key": "title:fileai-secures-strategic-investment-from-jr-east-group-s-venture-arm-to-expand-in-japan",
       "topic_label": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan"
     },
+    "title:finanzentwicklung-der-gkv-im-1.-quartal-2026": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:finanzentwicklung-der-gkv-im-1.-quartal-2026",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "BMG Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:finanzentwicklung-der-gkv-im-1.-quartal-2026",
+          "topic_label": "Finanzentwicklung der GKV im 1. Quartal 2026",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/finanzentwicklung-der-gkv-im-1-quartal-2026-pm-19-06-2026-1"
+          ]
+        }
+      ],
+      "topic_key": "title:finanzentwicklung-der-gkv-im-1.-quartal-2026",
+      "topic_label": "Finanzentwicklung der GKV im 1. Quartal 2026"
+    },
     "title:four-vc-executives.-zero-personal-gain.-three-years-in-prison": {
       "last_seen_at": "2026-06-19T01:58:32Z",
       "last_trend_wucht": 12.0,
@@ -9707,6 +10740,356 @@
       ],
       "topic_key": "title:frank-elderson:-strengthening-operational-resilience-for-the-age-of-ai",
       "topic_label": "Frank Elderson: Strengthening operational resilience for the age of AI"
+    },
+    "title:fw-en:-fehlalarm-im-fachmarktzentrum": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-en:-fehlalarm-im-fachmarktzentrum",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
+          "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/69780/6298224"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
+      "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum"
+    },
+    "title:fw-m:-balkonbrand-droht-uberzugreifen-ludwigsvorstadt": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-balkonbrand-droht-uberzugreifen-ludwigsvorstadt",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-balkonbrand-droht-uberzugreifen-ludwigsvorstadt",
+          "topic_label": "FW-M: Balkonbrand droht überzugreifen (Ludwigsvorstadt)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6297367"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-balkonbrand-droht-uberzugreifen-ludwigsvorstadt",
+      "topic_label": "FW-M: Balkonbrand droht überzugreifen (Ludwigsvorstadt)"
+    },
+    "title:fw-m:-brennender-pkw-in-tiefgarage-berg-am-laim": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-brennender-pkw-in-tiefgarage-berg-am-laim",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-brennender-pkw-in-tiefgarage-berg-am-laim",
+          "topic_label": "FW-M: Brennender Pkw in Tiefgarage (Berg am Laim)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6291171"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-brennender-pkw-in-tiefgarage-berg-am-laim",
+      "topic_label": "FW-M: Brennender Pkw in Tiefgarage (Berg am Laim)"
+    },
+    "title:fw-m:-freigangerin-eingefangen-aubinger-lohe": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-freigangerin-eingefangen-aubinger-lohe",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-freigangerin-eingefangen-aubinger-lohe",
+          "topic_label": "FW-M: Freigängerin eingefangen (Aubinger Lohe)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6293404"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-freigangerin-eingefangen-aubinger-lohe",
+      "topic_label": "FW-M: Freigängerin eingefangen (Aubinger Lohe)"
+    },
+    "title:fw-m:-gartenhutte-brennt-in-der-nacht-frottmaning": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-gartenhutte-brennt-in-der-nacht-frottmaning",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-gartenhutte-brennt-in-der-nacht-frottmaning",
+          "topic_label": "FW-M: Gartenhütte brennt in der Nacht (Fröttmaning)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6294423"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-gartenhutte-brennt-in-der-nacht-frottmaning",
+      "topic_label": "FW-M: Gartenhütte brennt in der Nacht (Fröttmaning)"
+    },
+    "title:fw-m:-rettung-auf-baustelle-mittels-drehleiter-maxhof": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-rettung-auf-baustelle-mittels-drehleiter-maxhof",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-rettung-auf-baustelle-mittels-drehleiter-maxhof",
+          "topic_label": "FW-M: Rettung auf Baustelle mittels Drehleiter (Maxhof)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6296241"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-rettung-auf-baustelle-mittels-drehleiter-maxhof",
+      "topic_label": "FW-M: Rettung auf Baustelle mittels Drehleiter (Maxhof)"
+    },
+    "title:fw-m:-tierrettung-aus-groter-not-michaeliburg": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-tierrettung-aus-groter-not-michaeliburg",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-tierrettung-aus-groter-not-michaeliburg",
+          "topic_label": "FW-M: Tierrettung aus größter Not (Michaeliburg)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6294884"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-tierrettung-aus-groter-not-michaeliburg",
+      "topic_label": "FW-M: Tierrettung aus größter Not (Michaeliburg)"
+    },
+    "title:fw-m:-vollsperrung-der-a99-nach-verkehrsunfall-allach": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-vollsperrung-der-a99-nach-verkehrsunfall-allach",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-vollsperrung-der-a99-nach-verkehrsunfall-allach",
+          "topic_label": "FW-M: Vollsperrung der A99 nach Verkehrsunfall (Allach)",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6292017"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-vollsperrung-der-a99-nach-verkehrsunfall-allach",
+      "topic_label": "FW-M: Vollsperrung der A99 nach Verkehrsunfall (Allach)"
+    },
+    "title:fw-m:-wochenendruckblick-der-feuerwehr-munchen-fur-den-5.-bis-7.-juni-2026": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-m:-wochenendruckblick-der-feuerwehr-munchen-fur-den-5.-bis-7.-juni-2026",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Feuerwehr Muenchen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-m:-wochenendruckblick-der-feuerwehr-munchen-fur-den-5.-bis-7.-juni-2026",
+          "topic_label": "FW-M: Wochenendrückblick der Feuerwehr München für den 5. bis 7. Juni 2026",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131419/6289689"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-m:-wochenendruckblick-der-feuerwehr-munchen-fur-den-5.-bis-7.-juni-2026",
+      "topic_label": "FW-M: Wochenendrückblick der Feuerwehr München für den 5. bis 7. Juni 2026"
+    },
+    "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
+          "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/118232/6298221"
+          ]
+        }
+      ],
+      "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
+      "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck"
     },
     "title:g7": {
       "last_seen_at": "2026-06-19T01:43:09Z",
@@ -10370,6 +11753,41 @@
       ],
       "topic_key": "title:h-l-ne-rey-appointed-as-economic-adviser-and-head-of-monetary-and-economic-department",
       "topic_label": "Hélène Rey appointed as Economic Adviser and Head of Monetary and Economic Department"
+    },
+    "title:hauptzollamt-lorrach-pruft-taxi-und-mietwagenunternehmen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:hauptzollamt-lorrach-pruft-taxi-und-mietwagenunternehmen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:hauptzollamt-lorrach-pruft-taxi-und-mietwagenunternehmen",
+          "topic_label": "Hauptzollamt Lörrach prüft Taxi- und Mietwagenunternehmen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y46_spp_taxi_mietwagen_loe.html"
+          ]
+        }
+      ],
+      "topic_key": "title:hauptzollamt-lorrach-pruft-taxi-und-mietwagenunternehmen",
+      "topic_label": "Hauptzollamt Lörrach prüft Taxi- und Mietwagenunternehmen"
     },
     "title:hawkish-fed-could-push-gold-prices-back-to-4-000-next-week": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -11730,6 +13148,76 @@
       ],
       "topic_key": "title:kawayiyokami-p-ai",
       "topic_label": "kawayiYokami/P-ai"
+    },
+    "title:kein-versorgungsrechtlicher-nachteil-durch-die-schulferienbedingte-lucke-zwischen-vorbereitungsd": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:kein-versorgungsrechtlicher-nachteil-durch-die-schulferienbedingte-lucke-zwischen-vorbereitungsd",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bundesverwaltungsgericht Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:kein-versorgungsrechtlicher-nachteil-durch-die-schulferienbedingte-lucke-zwischen-vorbereitungsd",
+          "topic_label": "Kein versorgungsrechtlicher Nachteil durch die schulferienbedingte Lücke zwischen Vorbereitungsdienst und Beamtenverhältnis auf Probe",
+          "trend_wucht": 2.0,
+          "urls": [
+            "http://www.bverwg.de/pm/2026/46"
+          ]
+        }
+      ],
+      "topic_key": "title:kein-versorgungsrechtlicher-nachteil-durch-die-schulferienbedingte-lucke-zwischen-vorbereitungsd",
+      "topic_label": "Kein versorgungsrechtlicher Nachteil durch die schulferienbedingte Lücke zwischen Vorbereitungsdienst und Beamtenverhältnis auf Probe"
+    },
+    "title:keine-klagebefugnis-eines-medienunternehmens-fur-ein-verfahren-betreffend-die-zeugnisverweigerun": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:keine-klagebefugnis-eines-medienunternehmens-fur-ein-verfahren-betreffend-die-zeugnisverweigerun",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bundesverwaltungsgericht Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:keine-klagebefugnis-eines-medienunternehmens-fur-ein-verfahren-betreffend-die-zeugnisverweigerun",
+          "topic_label": "Keine Klagebefugnis eines Medienunternehmens für ein Verfahren betreffend die Zeugnisverweigerung des Bundespräsidenten",
+          "trend_wucht": 2.0,
+          "urls": [
+            "http://www.bverwg.de/pm/2026/43"
+          ]
+        }
+      ],
+      "topic_key": "title:keine-klagebefugnis-eines-medienunternehmens-fur-ein-verfahren-betreffend-die-zeugnisverweigerun",
+      "topic_label": "Keine Klagebefugnis eines Medienunternehmens für ein Verfahren betreffend die Zeugnisverweigerung des Bundespräsidenten"
     },
     "title:kilo-org-kilocode": {
       "last_seen_at": "2026-06-19T02:33:15Z",
@@ -13476,6 +14964,41 @@
       "topic_key": "title:mary-elizabeth-mcmunn:-opportunities-and-responsibilities-international-financial-services-in-fr",
       "topic_label": "Mary-Elizabeth McMunn: Opportunities and responsibilities - international financial services in fragmenting times"
     },
+    "title:massenweise-illegale-vapes-aus-dem-verkehr-gezogen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:massenweise-illegale-vapes-aus-dem-verkehr-gezogen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:massenweise-illegale-vapes-aus-dem-verkehr-gezogen",
+          "topic_label": "Massenweise illegale Vapes aus dem Verkehr gezogen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Zigaretten/2026/z65_illegale_vapes_zfaffm.html"
+          ]
+        }
+      ],
+      "topic_key": "title:massenweise-illegale-vapes-aus-dem-verkehr-gezogen",
+      "topic_label": "Massenweise illegale Vapes aus dem Verkehr gezogen"
+    },
     "title:mati-listrik-3-jam-di-gegerkalong-bandung-pedagang-es-hingga-laundry-kelimpungan": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 8.0,
@@ -13615,6 +15138,41 @@
       ],
       "topic_key": "title:menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik",
       "topic_label": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik"
+    },
+    "title:mers-cov-worldwide-overview": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:mers-cov-worldwide-overview",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "ECDC CDTR RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:mers-cov-worldwide-overview",
+          "topic_label": "MERS-CoV worldwide overview",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus-mers-cov-situation-update"
+          ]
+        }
+      ],
+      "topic_key": "title:mers-cov-worldwide-overview",
+      "topic_label": "MERS-CoV worldwide overview"
     },
     "title:meshery-meshery": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -14411,7 +15969,7 @@
     },
     "title:nasa-lance-firms": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:12:42Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -14459,6 +16017,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "title:nasa-lance-firms",
+          "topic_label": "NASA | LANCE | FIRMS",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://firms.modaps.eosdis.nasa.gov/"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:nasa-lance-firms",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "NASA FIRMS Active Fire Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
           "topic_key": "title:nasa-lance-firms",
           "topic_label": "NASA | LANCE | FIRMS",
           "trend_wucht": 2.0,
@@ -14525,6 +16109,41 @@
       ],
       "topic_key": "title:netease-youdao-lobsterai",
       "topic_label": "netease-youdao/LobsterAI"
+    },
+    "title:neues-zollschiff-friesland-feierlich-getauft": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:neues-zollschiff-friesland-feierlich-getauft",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:neues-zollschiff-friesland-feierlich-getauft",
+          "topic_label": "Neues Zollschiff Friesland feierlich getauft",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z37_taufe_zollschiff_friesland_ol.html"
+          ]
+        }
+      ],
+      "topic_key": "title:neues-zollschiff-friesland-feierlich-getauft",
+      "topic_label": "Neues Zollschiff Friesland feierlich getauft"
     },
     "title:new-data-release:-ecb-wage-tracker-points-to-stable-negotiated-wage-pressures-in-2026": {
       "last_seen_at": "2026-06-18T14:33:45Z",
@@ -14689,7 +16308,7 @@
     },
     "title:news-portal": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:12:42Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -14737,6 +16356,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "title:news-portal",
+          "topic_label": "News Portal",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://wmo.int/news"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:news-portal",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "World Meteorological Organization News"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
           "topic_key": "title:news-portal",
           "topic_label": "News Portal",
           "trend_wucht": 2.0,
@@ -15903,6 +17548,426 @@
       "topic_key": "title:pnganga813-commits-aether-desktop-orchestrator",
       "topic_label": "pnganga813-commits/Aether-desktop-orchestrator"
     },
+    "title:pol-bo:-vermisster-herner-52-tot-aufgefunden": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
+          "topic_label": "POL-BO: Vermisster Herner (52) tot aufgefunden",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/11530/6298215"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
+      "topic_label": "POL-BO: Vermisster Herner (52) tot aufgefunden"
+    },
+    "title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da",
+          "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/44143/6298227"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-nh:-folgemeldung:-vermisste-64-jahrige-ist-wieder-da",
+      "topic_label": "POL-NH: Folgemeldung: Vermisste 64 Jährige ist wieder da"
+    },
+    "title:pol-pdlu:-lambsheim-gerlosheim-verkehrsunfall-mit-todlich-verletzter-person": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdlu:-lambsheim-gerlosheim-verkehrsunfall-mit-todlich-verletzter-person",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdlu:-lambsheim-gerlosheim-verkehrsunfall-mit-todlich-verletzter-person",
+          "topic_label": "POL-PDLU: Lambsheim/Gerlosheim - Verkehrsunfall mit tödlich verletzter Person",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117688/6298216"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdlu:-lambsheim-gerlosheim-verkehrsunfall-mit-todlich-verletzter-person",
+      "topic_label": "POL-PDLU: Lambsheim/Gerlosheim - Verkehrsunfall mit tödlich verletzter Person"
+    },
+    "title:pol-pdmt:-verkehrsunfall-mit-schwerverletzten-in-bad-marienberg-l-293": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdmt:-verkehrsunfall-mit-schwerverletzten-in-bad-marienberg-l-293",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdmt:-verkehrsunfall-mit-schwerverletzten-in-bad-marienberg-l-293",
+          "topic_label": "POL-PDMT: Verkehrsunfall mit Schwerverletzten in Bad Marienberg, L 293",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117710/6298222"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdmt:-verkehrsunfall-mit-schwerverletzten-in-bad-marienberg-l-293",
+      "topic_label": "POL-PDMT: Verkehrsunfall mit Schwerverletzten in Bad Marienberg, L 293"
+    },
+    "title:pol-pdmz:-verkehrsunfall-mit-verletztem-zweiradfahrer": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdmz:-verkehrsunfall-mit-verletztem-zweiradfahrer",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdmz:-verkehrsunfall-mit-verletztem-zweiradfahrer",
+          "topic_label": "POL-PDMZ: Verkehrsunfall mit verletztem Zweiradfahrer",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117705/6298220"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdmz:-verkehrsunfall-mit-verletztem-zweiradfahrer",
+      "topic_label": "POL-PDMZ: Verkehrsunfall mit verletztem Zweiradfahrer"
+    },
+    "title:pol-pdnr:-badeunfall-mit-gutem-ausgang": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdnr:-badeunfall-mit-gutem-ausgang",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdnr:-badeunfall-mit-gutem-ausgang",
+          "topic_label": "POL-PDNR: Badeunfall mit gutem Ausgang",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117709/6298228"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdnr:-badeunfall-mit-gutem-ausgang",
+      "topic_label": "POL-PDNR: Badeunfall mit gutem Ausgang"
+    },
+    "title:pol-pdnw:-motorroller-umgeworfen-polizei-sucht-zeugen": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdnw:-motorroller-umgeworfen-polizei-sucht-zeugen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdnw:-motorroller-umgeworfen-polizei-sucht-zeugen",
+          "topic_label": "POL-PDNW: Motorroller umgeworfen - Polizei sucht Zeugen",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117687/6298213"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdnw:-motorroller-umgeworfen-polizei-sucht-zeugen",
+      "topic_label": "POL-PDNW: Motorroller umgeworfen - Polizei sucht Zeugen"
+    },
+    "title:pol-pdtr:-groe-alkohol-und-drogenkontrolle-im-rahmen-der-roadpol-woche-im-ehranger-hafen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdtr:-groe-alkohol-und-drogenkontrolle-im-rahmen-der-roadpol-woche-im-ehranger-hafen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdtr:-groe-alkohol-und-drogenkontrolle-im-rahmen-der-roadpol-woche-im-ehranger-hafen",
+          "topic_label": "POL-PDTR: Große Alkohol- und Drogenkontrolle im Rahmen der ROADPOL-Woche im Ehranger Hafen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117698/6298226"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdtr:-groe-alkohol-und-drogenkontrolle-im-rahmen-der-roadpol-woche-im-ehranger-hafen",
+      "topic_label": "POL-PDTR: Große Alkohol- und Drogenkontrolle im Rahmen der ROADPOL-Woche im Ehranger Hafen"
+    },
+    "title:pol-pdwil:-flachenbrand": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-pdwil:-flachenbrand",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-pdwil:-flachenbrand",
+          "topic_label": "POL-PDWIL: Flächenbrand",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/117697/6298218"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-pdwil:-flachenbrand",
+      "topic_label": "POL-PDWIL: Flächenbrand"
+    },
+    "title:pol-piaz:-vollendeter-schockanruf-seniorin-ubergibt-goldschmuck-und-goldmunzen-im-funfstelligen-": {
+      "bucket": "macro_policy",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 3.0,
+      "samples": [
+        {
+          "bucket": "macro_policy",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-piaz:-vollendeter-schockanruf-seniorin-ubergibt-goldschmuck-und-goldmunzen-im-funfstelligen-",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-piaz:-vollendeter-schockanruf-seniorin-ubergibt-goldschmuck-und-goldmunzen-im-funfstelligen-",
+          "topic_label": "POL-PIAZ: Vollendeter Schockanruf - Seniorin übergibt Goldschmuck und Goldmünzen im fünfstelligen Wert",
+          "trend_wucht": 3.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/131673/6298223"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-piaz:-vollendeter-schockanruf-seniorin-ubergibt-goldschmuck-und-goldmunzen-im-funfstelligen-",
+      "topic_label": "POL-PIAZ: Vollendeter Schockanruf - Seniorin übergibt Goldschmuck und Goldmünzen im fünfstelligen Wert"
+    },
+    "title:pol-whv:-offentlichkeitsfahndung-nach-vermisster-person-aus-sande": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-whv:-offentlichkeitsfahndung-nach-vermisster-person-aus-sande",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-whv:-offentlichkeitsfahndung-nach-vermisster-person-aus-sande",
+          "topic_label": "POL-WHV: Öffentlichkeitsfahndung nach vermisster Person aus Sande",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/68442/6298217"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-whv:-offentlichkeitsfahndung-nach-vermisster-person-aus-sande",
+      "topic_label": "POL-WHV: Öffentlichkeitsfahndung nach vermisster Person aus Sande"
+    },
+    "title:pol-whv:-vermisste-person-norbert-willi-unruh-angetroffen": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:pol-whv:-vermisste-person-norbert-willi-unruh-angetroffen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Presseportal Police RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:pol-whv:-vermisste-person-norbert-willi-unruh-angetroffen",
+          "topic_label": "POL-WHV: Vermisste Person Norbert Willi UNRUH angetroffen",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.presseportal.de/blaulicht/pm/68442/6298225"
+          ]
+        }
+      ],
+      "topic_key": "title:pol-whv:-vermisste-person-norbert-willi-unruh-angetroffen",
+      "topic_label": "POL-WHV: Vermisste Person Norbert Willi UNRUH angetroffen"
+    },
     "title:police-cleans-nearly-15-000-socgholish-infected-sites-tied-to-evil-corp": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 15.0,
@@ -16194,7 +18259,7 @@
     },
     "title:press-announcements-fda": {
       "bucket": "other",
-      "last_seen_at": "2026-06-19T18:22:32Z",
+      "last_seen_at": "2026-06-19T20:12:42Z",
       "last_trend_wucht": 2.0,
       "samples": [
         {
@@ -16242,6 +18307,32 @@
           ],
           "status": "mature",
           "timestamp_utc": "2026-06-19T18:22:32Z",
+          "topic_key": "title:press-announcements-fda",
+          "topic_label": "Press Announcements | FDA",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+          ]
+        },
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:press-announcements-fda",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "FDA Press Announcements"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
           "topic_key": "title:press-announcements-fda",
           "topic_label": "Press Announcements | FDA",
           "trend_wucht": 2.0,
@@ -16539,6 +18630,76 @@
       ],
       "topic_key": "title:read-remote-repository-content-with-github-cli",
       "topic_label": "Read remote repository content with GitHub CLI"
+    },
+    "title:rechtswidrige-ruckforderung-von-beihilfen-fur-flughafen-frankfurt-hahn": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:rechtswidrige-ruckforderung-von-beihilfen-fur-flughafen-frankfurt-hahn",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bundesverwaltungsgericht Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:rechtswidrige-ruckforderung-von-beihilfen-fur-flughafen-frankfurt-hahn",
+          "topic_label": "Rechtswidrige Rückforderung von Beihilfen für Flughafen Frankfurt Hahn",
+          "trend_wucht": 2.0,
+          "urls": [
+            "http://www.bverwg.de/pm/2026/42"
+          ]
+        }
+      ],
+      "topic_key": "title:rechtswidrige-ruckforderung-von-beihilfen-fur-flughafen-frankfurt-hahn",
+      "topic_label": "Rechtswidrige Rückforderung von Beihilfen für Flughafen Frankfurt Hahn"
+    },
+    "title:reiseruckkehrer-aus-der-turkei-mit-fast-acht-kilogramm-potenzhonig-erwischt": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:reiseruckkehrer-aus-der-turkei-mit-fast-acht-kilogramm-potenzhonig-erwischt",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:reiseruckkehrer-aus-der-turkei-mit-fast-acht-kilogramm-potenzhonig-erwischt",
+          "topic_label": "Reiserückkehrer aus der Türkei mit fast acht Kilogramm Potenzhonig erwischt",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z35_potenzhonig_k.html"
+          ]
+        }
+      ],
+      "topic_key": "title:reiseruckkehrer-aus-der-turkei-mit-fast-acht-kilogramm-potenzhonig-erwischt",
+      "topic_label": "Reiserückkehrer aus der Türkei mit fast acht Kilogramm Potenzhonig erwischt"
     },
     "title:repository-switcher-generally-available-in-global-navigation": {
       "last_seen_at": "2026-06-18T17:28:30Z",
@@ -16854,6 +19015,41 @@
       ],
       "topic_key": "title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary",
       "topic_label": "Saudi parrotfish festival stretches scientific & traditional ecological knowledge (commentary)"
+    },
+    "title:schnappchenjagd-im-bundesfinanzministerium": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:schnappchenjagd-im-bundesfinanzministerium",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:schnappchenjagd-im-bundesfinanzministerium",
+          "topic_label": "Schnäppchenjagd im Bundesfinanzministerium",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z38_zoll_auktion_gi.html"
+          ]
+        }
+      ],
+      "topic_key": "title:schnappchenjagd-im-bundesfinanzministerium",
+      "topic_label": "Schnäppchenjagd im Bundesfinanzministerium"
     },
     "title:schneider-electric-easergy-ecostruxture-powerlogic-and-saitel-products": {
       "last_seen_at": "2026-06-18T17:28:30Z",
@@ -20031,6 +22227,41 @@
       "topic_key": "title:vendor-signed-uefi",
       "topic_label": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性"
     },
+    "title:versagung-von-aussagegenehmigungen-fur-ehemalige-mitglieder-der-bundesregierung-rechtmaig": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:versagung-von-aussagegenehmigungen-fur-ehemalige-mitglieder-der-bundesregierung-rechtmaig",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bundesverwaltungsgericht Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:versagung-von-aussagegenehmigungen-fur-ehemalige-mitglieder-der-bundesregierung-rechtmaig",
+          "topic_label": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig",
+          "trend_wucht": 2.0,
+          "urls": [
+            "http://www.bverwg.de/pm/2026/44"
+          ]
+        }
+      ],
+      "topic_key": "title:versagung-von-aussagegenehmigungen-fur-ehemalige-mitglieder-der-bundesregierung-rechtmaig",
+      "topic_label": "Versagung von Aussagegenehmigungen für ehemalige Mitglieder der Bundesregierung rechtmäßig"
+    },
     "title:virtual-monorepo": {
       "last_seen_at": "2026-06-19T07:39:37Z",
       "last_trend_wucht": 7.0,
@@ -20230,6 +22461,41 @@
       ],
       "topic_key": "title:vol.140vol.141",
       "topic_label": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.140、Vol.141を更新しました"
+    },
+    "title:vorwirkender-kundigungsschutz-vor-zeitabschnitten-einer-elternzeit": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:vorwirkender-kundigungsschutz-vor-zeitabschnitten-einer-elternzeit",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Bundesarbeitsgericht Presse RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:vorwirkender-kundigungsschutz-vor-zeitabschnitten-einer-elternzeit",
+          "topic_label": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.bundesarbeitsgericht.de/presse/vorwirkender-kuendigungsschutz-vor-zeitabschnitten-einer-elternzeit/"
+          ]
+        }
+      ],
+      "topic_key": "title:vorwirkender-kundigungsschutz-vor-zeitabschnitten-einer-elternzeit",
+      "topic_label": "Vorwirkender Kündigungsschutz vor Zeitabschnitten einer Elternzeit"
     },
     "title:vs-code-openai-anthropic-github-copilot": {
       "last_seen_at": "2026-06-19T05:50:10Z",
@@ -21082,6 +23348,76 @@
       ],
       "topic_key": "title:zhu1090093659-deepseek-pp",
       "topic_label": "zhu1090093659/deepseek-pp"
+    },
+    "title:zoll-am-frankfurter-flughafen-entdeckt-lebende-schlangen": {
+      "bucket": "apac_signal",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "apac_signal",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:zoll-am-frankfurter-flughafen-entdeckt-lebende-schlangen",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:zoll-am-frankfurter-flughafen-entdeckt-lebende-schlangen",
+          "topic_label": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/z36_lebende_schlange_ffm.html"
+          ]
+        }
+      ],
+      "topic_key": "title:zoll-am-frankfurter-flughafen-entdeckt-lebende-schlangen",
+      "topic_label": "Zoll am Frankfurter Flughafen entdeckt lebende Schlangen"
+    },
+    "title:zoll-pruft-asiatisches-restaurant": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T20:12:42Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T20-12-42Z",
+          "sample_id": "2026-06-19T20-12-42Z:title:zoll-pruft-asiatisches-restaurant",
+          "sample_index": 5939666,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Zoll Pressemitteilungen RSS"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T20:12:42Z",
+          "topic_key": "title:zoll-pruft-asiatisches-restaurant",
+          "topic_label": "Zoll prüft asiatisches Restaurant",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/y45_pruefung_asiatisches_restaurant_hst.html"
+          ]
+        }
+      ],
+      "topic_key": "title:zoll-pruft-asiatisches-restaurant",
+      "topic_label": "Zoll prüft asiatisches Restaurant"
     },
     "url:https://www.digital.go.jp/news/d37c295a-17eb-4ca9-87dd-6f0ee87146ae": {
       "bucket": "apac_signal",
