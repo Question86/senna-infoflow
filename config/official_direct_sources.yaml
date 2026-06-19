@@ -1,5 +1,5 @@
 {
-  "_comment": "Direct-source overlay. Official and first-responder sources first. Minimal stable core; expand iteratively.",
+  "_comment": "Direct-source overlay. Official and first-responder sources first. Media/agency feeds are context after direct sources. Added city police/international executive/law-enforcement lanes 2026-06-19.",
   "sources": [
     {
       "id": "ap_top_news_rss",
@@ -20,6 +20,397 @@
         "economy",
         "conflict",
         "disaster"
+      ]
+    },
+    {
+      "id": "kyiv_police_timeline_web",
+      "name": "Kyiv Police Official Timeline",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 8,
+      "url": "https://kyiv.npu.gov.ua/timeline?type=posts",
+      "notes": "Official Kyiv National Police timeline. Direct event/claim status, not court-proven fact.",
+      "keywords": [
+        "Kyiv Police",
+        "National Police of Ukraine",
+        "Kyiv",
+        "Ukraine",
+        "crime",
+        "attack",
+        "public safety",
+        "airstrike",
+        "explosion"
+      ]
+    },
+    {
+      "id": "kyiv_police_telegram_public",
+      "name": "Kyiv Police Official Telegram Public View",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_social_reference",
+      "source_role": "direct_event_social_sensor",
+      "enabled": true,
+      "max_items": 8,
+      "url": "https://t.me/s/gunpKyiv",
+      "notes": "Public Telegram mirror for the official Kyiv Police channel; treat as direct social sensor and cross-check with official timeline.",
+      "keywords": [
+        "Kyiv Police",
+        "Telegram",
+        "Kyiv",
+        "Ukraine",
+        "police",
+        "incident",
+        "public safety"
+      ]
+    },
+    {
+      "id": "moscow_gumvd_news_web",
+      "name": "Moscow GU MVD Official News",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 8,
+      "url": "https://77.xn--b1aew.xn--p1ai/news",
+      "notes": "Official Moscow Directorate of the Russian Ministry of Internal Affairs news page. Direct event/claim status; sanctions/propaganda context should be considered.",
+      "keywords": [
+        "Moscow Police",
+        "GU MVD Moscow",
+        "Russia",
+        "Moscow",
+        "crime",
+        "public safety",
+        "investigation",
+        "detention"
+      ]
+    },
+    {
+      "id": "moscow_petrovka38_web",
+      "name": "Petrovka 38 Moscow Police Publication",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "police_affiliated_publication",
+      "source_role": "local_police_context_sensor",
+      "enabled": true,
+      "max_items": 6,
+      "url": "https://petrovka-38.com/",
+      "notes": "Moscow police-affiliated publication/context layer; lower priority than official GU MVD page.",
+      "keywords": [
+        "Petrovka 38",
+        "Moscow Police",
+        "Moscow",
+        "Russia",
+        "police",
+        "crime"
+      ]
+    },
+    {
+      "id": "mvd_media_web",
+      "name": "MVD Media National Police News",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_media_national",
+      "source_role": "national_police_context_sensor",
+      "enabled": true,
+      "max_items": 6,
+      "url": "https://mvdmedia.ru/",
+      "notes": "Russian MVD national media channel; not Moscow-only. Use for national police context and cross-source confirmation.",
+      "keywords": [
+        "MVD Media",
+        "Russia",
+        "police",
+        "Ministry of Internal Affairs",
+        "crime",
+        "security"
+      ]
+    },
+    {
+      "id": "taipei_police_latest_news_rss",
+      "name": "Taipei City Police Latest News RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 15,
+      "url": "https://police.gov.taipei/search.getService.asp?ctNodeId=45344&mp=108001&serviceName=GIZ.xdrss",
+      "notes": "Official Taipei City Police RSS for latest news.",
+      "keywords": [
+        "Taipei Police",
+        "Taipei",
+        "Taiwan",
+        "TCPD",
+        "fraud",
+        "public safety",
+        "crime"
+      ]
+    },
+    {
+      "id": "taipei_police_activities_rss",
+      "name": "Taipei City Police Activities RSS",
+      "type": "rss",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 12,
+      "url": "https://police.gov.taipei/search.getService.asp?ctNodeId=45999&mp=108001&serviceName=GIP.xdrss",
+      "notes": "Official Taipei City Police RSS for activities/announcements.",
+      "keywords": [
+        "Taipei Police",
+        "Taipei",
+        "Taiwan",
+        "activity",
+        "public safety"
+      ]
+    },
+    {
+      "id": "taipei_police_english_news_web",
+      "name": "Taipei City Police English News",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_context_sensor",
+      "enabled": true,
+      "max_items": 6,
+      "url": "https://english.police.gov.taipei/News.aspx?n=7530E85A87340C57&sms=BB747421902FE807",
+      "notes": "Official English-facing Taipei Police news page; slower than Chinese RSS but useful for machine-readable English context.",
+      "keywords": [
+        "Taipei Police",
+        "English",
+        "Taiwan",
+        "fraud",
+        "public safety",
+        "crime"
+      ]
+    },
+    {
+      "id": "iran_police_official_web",
+      "name": "Iran Police FARAJA Official Site",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct_candidate",
+      "source_role": "national_police_direct_sensor",
+      "enabled": true,
+      "max_items": 6,
+      "url": "https://www.police.ir/",
+      "notes": "Best available official national Iranian police/FARAJA website. Verification and propaganda/sanctions context required.",
+      "keywords": [
+        "Iran Police",
+        "FARAJA",
+        "NAJA",
+        "Iran",
+        "Tehran",
+        "police",
+        "security",
+        "crime"
+      ]
+    },
+    {
+      "id": "iran_police_news_web",
+      "name": "Iran Police News Site",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_news_candidate",
+      "source_role": "national_police_news_sensor",
+      "enabled": true,
+      "max_items": 6,
+      "url": "https://news.police.ir/",
+      "notes": "Candidate police news endpoint for FARAJA/Iran police news. Needs validation during run; no stable RSS confirmed.",
+      "keywords": [
+        "Iran Police",
+        "FARAJA",
+        "police news",
+        "Tehran",
+        "crime",
+        "security"
+      ]
+    },
+    {
+      "id": "tehran_police_mehr_tag_web",
+      "name": "Mehr Tehran Police Tag",
+      "type": "webpage_check",
+      "source_tier": 5,
+      "source_class": "local_media_specialist_context",
+      "source_role": "tehran_police_context_fallback",
+      "enabled": true,
+      "max_items": 4,
+      "url": "https://www.mehrnews.com/tag/%D9%BE%D9%84%DD%85%D8%B3+D%A1%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%A8%D8%B2%D8%B1%DA%AF",
+      "notes": "Not official police; Persian media fallback for Greater Tehran Police mentions when official endpoint is sparse.",
+      "keywords": [
+        "Tehran Police",
+        "Greater Tehran Police",
+        "FATEB",
+        "Mehr",
+        "Iran",
+        "police"
+      ]
+    },
+    {
+      "id": "iran_police_telegram_candidate",
+      "name": "Iran Police News Telegram Candidate",
+      "type": "webpage_check",
+      "source_tier": 6,
+      "source_class": "social_candidate",
+      "source_role": "candidate_social_sensor",
+      "enabled": true,
+      "max_items": 4,
+      "url": "https://t.me/s/polic_news_ir",
+      "notes": "Candidate/social mirror for Iranian police news. Treat as low-trust until official ownership is verified. Never outrank official police.ir/news.police.ir.",
+      "keywords": [
+        "Iran Police",
+        "FARAJA",
+        "Telegram",
+        "Tehran",
+        "police",
+        "candidate"
+      ]
+    },
+    {
+      "id": "israel_police_news_web",
+      "name": "Israel Police News Collector",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 8,
+      "url": "https://www.gov.il/en/collectors/news?officeId=2042b1a4-5ec1-44a9-84dc-764b19864cfa",
+      "notes": "National Israel Police official news collector; Tel Aviv has no separate municipal police feed in this model.",
+      "keywords": [
+        "Israel Police",
+        "Tel Aviv",
+        "Israel",
+        "police",
+        "public safety",
+        "crime",
+        "security"
+      ]
+    },
+    {
+      "id": "israel_police_department_web",
+      "name": "Israel Police Department Page",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "official_department_reference",
+      "enabled": true,
+      "max_items": 4,
+      "url": "https://www.gov.il/en/departments/israel_police",
+      "notes": "Official Israel Police department reference page; lower frequency than news collector.",
+      "keywords": [
+        "Israel Police",
+        "gov.il",
+        "Tel Aviv",
+        "police",
+        "security"
+      ]
+    },
+    {
+      "id": "lebanon_isf_news_web",
+      "name": "Lebanese Internal Security Forces News",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_police_direct",
+      "source_role": "direct_event_sensor",
+      "enabled": true,
+      "max_items": 8,
+      "url": "https://isf.gov.lb/isf-news/",
+      "notes": "Official Lebanese ISF news page; Beirut policing signal is national ISF rather than separate city police feed.",
+      "keywords": [
+        "Lebanon ISF",
+        "Beirut",
+        "Lebanon",
+        "Internal Security Forces",
+        "police",
+        "arrest",
+        "security",
+        "crime"
+      ]
+    },
+    {
+      "id": "interpol_news_events_web",
+      "name": "INTERPOL News and Events",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_international_law_enforcement",
+      "source_role": "global_police_signal",
+      "enabled": true,
+      "max_items": 8,
+      "url": "https://www.interpol.int/en/News-and-Events",
+      "notes": "Official INTERPOL news page. No stable official RSS confirmed; do not use third-party RSS as source of record.",
+      "keywords": [
+        "INTERPOL",
+        "international police",
+        "cybercrime",
+        "organized crime",
+        "illicit pharmaceuticals",
+        "red notice",
+        "global law enforcement"
+      ]
+    },
+    {
+      "id": "interpol_notices_web",
+      "name": "INTERPOL Notices",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_international_law_enforcement",
+      "source_role": "global_police_notice_reference",
+      "enabled": true,
+      "max_items": 4,
+      "url": "https://www.interpol.int/en/How-we-work/Notices",
+      "notes": "Official INTERPOL Notices reference page. Treat as reference/monitoring lane; not a live warrant database scraper.",
+      "keywords": [
+        "INTERPOL Notices",
+        "Red Notice",
+        "wanted persons",
+        "international alert",
+        "law enforcement"
+      ]
+    },
+    {
+      "id": "white_house_news_web",
+      "name": "White House News",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_government_executive",
+      "source_role": "direct_policy_signal",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.whitehouse.gov/news/",
+      "notes": "Official White House news page. Current site exposes news pages; stable current RSS was not confirmed.",
+      "keywords": [
+        "White House",
+        "US policy",
+        "presidential action",
+        "press release",
+        "fact sheet",
+        "national security",
+        "executive order"
+      ]
+    },
+    {
+      "id": "white_house_presidential_actions_web",
+      "name": "White House Presidential Actions",
+      "type": "webpage_check",
+      "source_tier": 4,
+      "source_class": "official_government_executive",
+      "source_role": "direct_policy_legal_signal",
+      "enabled": true,
+      "max_items": 10,
+      "url": "https://www.whitehouse.gov/presidential-actions/",
+      "notes": "Official White House presidential actions page; stronger legal/policy signal than general news.",
+      "keywords": [
+        "White House",
+        "Presidential Actions",
+        "Executive Orders",
+        "Presidential Memoranda",
+        "Proclamations",
+        "Nominations"
       ]
     },
     {
@@ -83,26 +474,6 @@
       ]
     },
     {
-      "id": "polizei_bayern_presse_direct",
-      "name": "Bayerische Polizei Pressemeldungen",
-      "type": "webpage_check",
-      "source_tier": 4,
-      "source_class": "official_police_direct",
-      "source_role": "direct_event_sensor",
-      "enabled": true,
-      "max_items": 2,
-      "url": "https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html",
-      "notes": "Official police source. RSS exists on site; exact endpoint needs adapter extraction.",
-      "keywords": [
-        "Bayerische Polizei",
-        "Bayern",
-        "Nuernberg",
-        "Muenchen",
-        "Unfall",
-        "Fahndung"
-      ]
-    },
-    {
       "id": "zoll_pressemitteilungen_rss",
       "name": "Zoll Pressemitteilungen RSS",
       "type": "rss",
@@ -112,7 +483,7 @@
       "enabled": true,
       "max_items": 12,
       "url": "https://www.zoll.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSPressemitteilungen.xml?nn=280690",
-      "notes": "Customs enforcement, seizures, sanctions and supply-chain signal.",
+      "notes": "Customs enforcement, seizeres, sanctions and supply-chain signal.",
       "keywords": [
         "Zoll",
         "customs",
