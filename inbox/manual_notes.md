@@ -57,6 +57,18 @@ Diese Lane ist für Themen, die regelmäßig im Blick bleiben sollen, auch wenn 
   Update-Regel: Quellenabdeckung schrittweise ausbauen; Feed-Stille hier niemals als Weltstille werten.
   Nicht tun: Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.
 
+- [observe] id: mindanao_post_quake_recovery_hotspots
+  Titel: Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte
+  Status: active
+  Region: Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines
+  Quelle: Gesprächsnotiz User Yps, 2026-06-19; öffentliche Lage nach Mw 7.8 Offshore-Sarangani/Mindanao-Erdbeben vom 2026-06-08
+  Warum: Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben.
+  Beobachten: Nachbeben und Phivolcs-Lage, Glan und Sarangani-Landrutsche, General Santos City als Hafen-/Handels-/Versorgungsknoten, Krankenhäuser und Outdoor-Patientenversorgung, Trinkwasser/Sanitärversorgung, Lebensmittel/Baumaterial/Transportpreise, 60-Tage-Preisstopps und Marktumgehung, Versicherungs-/Schadensregulierung, Immobilienpreise/Mieten/Umsiedlung, Fischerei und Küstenökosysteme, Tourismus-Stornierungen, Schulen, Straßen/Brücken, Strom/Telekom, Häfen und maritime Infrastruktur, Wiederaufbauverträge, Korruptions-/Hilfsverteilungsrisiken, Landwirtschaft/Regenzeit/Monsoon, Küstenhebung/Tsunami-Folgen, mentale Gesundheit, Sicherheitslage und lokale Spannungen ohne Spekulation.
+  Trigger: Mindanao, Sarangani, Glan, Malapatan, Maasim, General Santos, GenSan, Davao Occidental, South Cotabato, SOCSCSKSARGEN, earthquake, aftershock, PHIVOLCS, tsunami, landslide, coastal uplift, hospital, water, sanitation, price freeze, insurance, real estate, rent, rebuilding, reconstruction, fisheries, fishery, tourism, port, airport, logistics, GSC, schools, bridge, road, power outage, telecom, aid distribution, monsoon
+  Update-Regel: In Routineupdates mindestens als Unter-Beobachtung-Thema führen; hochziehen bei M5+ Nachbeben, neuen Todes-/Verletztenzahlen, Preis-/Versorgungsengpässen, Hafen-/Flughafen-/Krankenhausausfällen, Versicherungs-/Immobilienmeldungen, Wiederaufbauvertragsskandal, Krankheitsausbruch, Regenzeit-Folgeschäden oder starker lokaler Protest-/Aid-Distribution-Dynamik.
+  Nicht tun: Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.
+
+
 ## Eingehende Hinweise
 
 <!-- Beispiele:
