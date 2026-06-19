@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-18T23:59:21Z",
+  "generated_at": "2026-06-19T00:27:44Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -9615,6 +9615,34 @@
           "status": "emerging",
           "urls": [
             "https://diariocorreo.pe/edicion/arequipa/trabajadores-cas-del-ministerio-publico-acatan-huelga-de-48-horas-en-arequipa-noticia/"
+          ]
+        }
+      ]
+    },
+    "title:upcoming-deprecation-of-opus-4.6-fast": {
+      "topic_key": "title:upcoming-deprecation-of-opus-4.6-fast",
+      "topic_label": "Upcoming deprecation of Opus 4.6 (fast)",
+      "last_seen_at": "2026-06-19T00:27:44Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T00-27-44Z:title:upcoming-deprecation-of-opus-4.6-fast",
+          "sample_index": 5939429,
+          "timestamp_utc": "2026-06-19T00:27:44Z",
+          "run_id": "2026-06-19T00-27-44Z",
+          "topic_key": "title:upcoming-deprecation-of-opus-4.6-fast",
+          "topic_label": "Upcoming deprecation of Opus 4.6 (fast)",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Changelog Atom"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast"
           ]
         }
       ]

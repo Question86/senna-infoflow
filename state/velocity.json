@@ -1,15 +1,33 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T23:59:21+00:00",
+  "generated_at": "2026-06-19T00:27:44+00:00",
   "entities": {
+    "title:upcoming-deprecation-opus-fast": {
+      "title": "Upcoming deprecation of Opus 4.6 (fast)",
+      "first_seen_at": "2026-06-19T00:27:44+00:00",
+      "last_seen_at": "2026-06-19T00:27:44+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Changelog Atom"
+      ]
+    },
     "domain:www.thestar.com": {
       "title": "Myanmar airstrike kills seven civilians : witnesses",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -17,6 +35,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -28,10 +50,10 @@
       "title": "China backs Myanmar full participation in Asean , UN",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -39,6 +61,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -50,10 +76,10 @@
       "title": "Përfundon protesta e 19 - të , mijëra qytetarë mbyllin marshimin nëpër rrugët e Tiranës ! Thirrja për kryeministrin : Rama jepe dorëheqjen ! Nuk ka bisedime !",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -61,6 +87,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -72,10 +102,10 @@
       "title": "El paro de la CNTE no termina , asegura la sección 34 de Zacatecas",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -83,6 +113,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -94,10 +128,10 @@
       "title": "Greves no INEM : adjunta da ministra diz que não sabia do protesto , mas não convenceu | Comissão de inquérito ao INEM",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -105,6 +139,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -116,10 +154,10 @@
       "title": "Live / Çohuni nga kafja , dita e 19 - të e tubimit , protestuesit marshojnë në rrugët e kryeqytetit , thirrje qytetarëve : Bashkohuni me ne",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -127,6 +165,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -138,10 +180,10 @@
       "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -149,6 +191,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -160,10 +206,10 @@
       "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -171,6 +217,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -182,10 +232,10 @@
       "title": "Los médicos de Aragón cierran el curso de huelgas con una última protesta antes del verano : Solo queremos atender bien a nuestros pacientes",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -193,6 +243,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -204,10 +258,10 @@
       "title": "Lula warns Trump not to meddle in Brazil elections",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -215,6 +269,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -226,10 +284,10 @@
       "title": "Não vamos desistir . Centenas de pessoas protestam contra pacote laboral junto ao Parlamento",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -237,6 +295,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -248,10 +310,10 @@
       "title": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -259,6 +321,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -270,10 +336,10 @@
       "title": "Aykut Kocaman neden olmadı ? Aziz Yıldırım ı nasıl çıldırttı ?",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -281,6 +347,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -292,10 +362,10 @@
       "title": "Ukraine - Liveticker : EU verhängt Russland - Sanktionen erstmals für zwölf Monate",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -303,6 +373,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -314,10 +388,10 @@
       "title": "В Киргизии начался громкий суд по делу о госперевороте",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -325,6 +399,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -336,10 +414,10 @@
       "title": "Quem permitir continuidade da discussão do pacote laboral está a trair trabalhadores diz CGTP",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -347,6 +425,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -358,10 +440,10 @@
       "title": "장동혁 , 정책위의장 구인난 ... 당권파도 극우 거리두기 요구 - 정치ㅣ한국일보",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -369,6 +451,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -380,10 +466,10 @@
       "title": "ארה ב בסנקציות על חיזבאללה : משבשים את הליך השלום",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -391,6 +477,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -402,10 +492,10 @@
       "title": "Damai dengan AS , Kelompok Radikal Iran Khawatir Dipinggirkan",
       "first_seen_at": "2026-06-18T14:33:45+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T14:33:45+00:00",
@@ -446,6 +536,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -456,10 +550,10 @@
       "title": "Departamento de Estado dos EUA ataca o STF e acusa Corte de promover lawfare contra Eduardo Bolsonaro",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -467,6 +561,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -478,10 +576,10 @@
       "title": "İnternet haber sitelerine Basın İlan Kurumu denetimi : Teklifin 7 maddesi daha Meclisten geçti",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -489,6 +587,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -500,10 +602,10 @@
       "title": "هيئة الدفاع تدعو لفصل معتقلي قضايا دعم المقاومة عن النزلاء الجنائيين",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -511,6 +613,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -522,10 +628,10 @@
       "title": "مسلم لیگ ن کی آزاد کشمیر الیکشن کیلئے امیدواروں کی حتمی فہرست جاری",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -533,6 +639,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -544,10 +654,10 @@
       "title": "El conflicto médico se agrava con miles de cancelaciones y un otoño incierto",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -555,6 +665,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -566,10 +680,10 @@
       "title": "Trabajadores CAS del Ministerio Público acatan huelga de 48 horas en Arequipa",
       "first_seen_at": "2026-06-18T23:17:58+00:00",
       "last_seen_at": "2026-06-18T23:17:58+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-18T23:17:58+00:00",
@@ -577,6 +691,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -603,6 +721,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -646,6 +768,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -671,6 +797,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -786,6 +916,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -811,6 +945,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -894,6 +1032,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -919,6 +1061,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -946,6 +1092,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -971,6 +1121,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1002,6 +1156,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1031,6 +1189,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1062,6 +1224,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1091,6 +1257,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1122,6 +1292,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1152,6 +1326,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1181,6 +1359,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1215,6 +1397,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1338,6 +1524,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1372,6 +1562,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1405,6 +1599,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1444,6 +1642,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1481,6 +1683,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1520,6 +1726,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1557,6 +1767,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1600,6 +1814,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1641,6 +1859,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1684,6 +1906,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1726,6 +1952,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1767,6 +1997,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1874,6 +2108,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1915,6 +2153,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -1958,6 +2200,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1999,6 +2245,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2042,6 +2292,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2083,6 +2337,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2126,6 +2384,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2167,6 +2429,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2210,6 +2476,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2251,6 +2521,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2298,6 +2572,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2343,6 +2621,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2390,6 +2672,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2436,6 +2722,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2481,6 +2771,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2531,6 +2825,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2586,6 +2884,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2639,6 +2941,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2694,6 +3000,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2748,6 +3058,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2801,6 +3115,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -2859,6 +3177,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2915,6 +3237,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2968,6 +3294,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3023,6 +3353,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3076,6 +3410,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3131,6 +3469,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3184,6 +3526,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3239,6 +3585,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3292,6 +3642,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3347,6 +3701,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3400,6 +3758,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3455,6 +3817,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3509,6 +3875,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3562,6 +3932,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3620,6 +3994,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3675,6 +4053,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3728,6 +4110,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3783,6 +4169,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3836,6 +4226,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3891,6 +4285,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3944,6 +4342,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -3999,6 +4401,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4052,6 +4458,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4107,6 +4517,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4160,6 +4574,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4215,6 +4633,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4268,6 +4690,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4323,6 +4749,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4376,6 +4806,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4431,6 +4865,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4484,6 +4922,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4539,6 +4981,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4592,6 +5038,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4647,6 +5097,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4700,6 +5154,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4755,6 +5213,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4808,6 +5270,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4864,6 +5330,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4917,6 +5387,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -4972,6 +5446,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5025,6 +5503,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5080,6 +5562,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5133,6 +5619,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5188,6 +5678,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5241,6 +5735,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5296,6 +5794,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5349,6 +5851,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5404,6 +5910,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5457,6 +5967,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5512,6 +6026,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5565,6 +6083,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5620,6 +6142,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5673,6 +6199,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5728,6 +6258,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5781,6 +6315,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5836,6 +6374,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5889,6 +6431,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -5944,6 +6490,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5997,6 +6547,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6052,6 +6606,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6105,6 +6663,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6164,6 +6726,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6221,6 +6787,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6280,6 +6850,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6337,6 +6911,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6396,6 +6974,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6453,6 +7035,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6512,6 +7098,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6569,6 +7159,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6628,6 +7222,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6685,6 +7283,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6748,6 +7350,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6809,6 +7415,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6872,6 +7482,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6933,6 +7547,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -6996,6 +7614,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7057,6 +7679,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -7120,6 +7746,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7181,6 +7811,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -7248,6 +7882,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7313,6 +7951,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -7380,6 +8022,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7446,6 +8092,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7511,6 +8161,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -7582,6 +8236,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7648,6 +8306,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7713,6 +8375,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -7784,6 +8450,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7854,6 +8524,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7923,6 +8597,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8038,6 +8716,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8107,6 +8789,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8183,6 +8869,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8256,6 +8946,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8331,6 +9025,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8404,6 +9102,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8479,6 +9181,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8552,6 +9258,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8631,6 +9341,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8708,6 +9422,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8791,6 +9509,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8872,6 +9594,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -8955,6 +9681,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9036,6 +9766,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -9119,6 +9853,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9200,6 +9938,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -9283,6 +10025,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9364,6 +10110,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -9447,6 +10197,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9528,6 +10282,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -9611,6 +10369,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9692,6 +10454,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -9775,6 +10541,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9856,6 +10626,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -9939,6 +10713,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10020,6 +10798,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -10114,6 +10896,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -10220,6 +11006,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -10330,6 +11120,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -10452,6 +11246,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -10579,6 +11377,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10704,6 +11506,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -10831,6 +11637,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10956,6 +11766,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
@@ -11083,6 +11897,10 @@
         {
           "at": "2026-06-18T23:59:21+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11208,6 +12026,10 @@
         },
         {
           "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
           "count": 0
         }
       ],
