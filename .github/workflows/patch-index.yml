@@ -1,4 +1,4 @@
-name: Patch docs index research buttons
+name: Cleanup one-shot index patch workflow
 
 on:
   workflow_dispatch:
@@ -7,101 +7,14 @@ permissions:
   contents: write
 
 jobs:
-  patch:
+  cleanup:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-      - name: Restore index and add research buttons
-        run: |
-          git checkout a3487e184a74e6fe8da030551acafd31510576d6 -- docs/index.html
-          python - <<'PY'
-          from pathlib import Path
-          p = Path("docs/index.html")
-          s = p.read_text(encoding="utf-8")
-
-          repl = []
-          repl.append((
-          """function renderWatch(){
-            const topics=D.latest?.under_observation?.topics||[];
-            $('watch').innerHTML=topics.map((t,i)=>{const wh=t.window_hits||{};const wins=WINDOWS.map(w=>`${w}:${wh[w]?.hit_count||0}`).join(' · ');return `<div class=card onclick='watch(${i})'><div class=title>${esc(t.title)}</div><div class=summary>${wins}</div></div>`}).join('')||'<div class=card><span class=muted>keine Beobachtungslanes</span></div>';
-          }""",
-          """function renderWatch(){
-            const topics=D.latest?.under_observation?.topics||[];
-            $('watch').innerHTML=topics.map((t,i)=>{const wh=t.window_hits||{};const wins=WINDOWS.map(w=>`${w}:${wh[w]?.hit_count||0}`).join(' · ');return `<div class=card onclick='watch(${i})'><div class=title>${esc(t.title)}</div><div class=summary>${wins}</div><div class=tags><button type=button class=tab onclick='copyResearch("watch",${i},event)'>recherchier mir das</button></div></div>`}).join('')||'<div class=card><span class=muted>keine Beobachtungslanes</span></div>';
-          }"""
-          ))
-
-          repl.append((
-          """ $('findings').innerHTML=fs.map((f,i)=>`<div class=card onclick='openFinding(${i})'><div class=grid2><b class="score ${f.p==='high'?'high':f.p==='medium'?'med':'obs'}">${f.relevance_score??''}</b><div><div class=title>${f.url?`<a href="${esc(f.url)}" target=_blank rel=noopener>${esc(f.title)}</a>`:esc(f.title)}</div><div class=summary>${esc(f.summary||'')}</div><div class=tags><span class=tag>${esc(f.bucket||f.source_type||'other')}</span><span class=tag>${esc(f.source||'')}</span><span class=tag>${esc(f.risk_or_opportunity||'')}</span></div></div></div></div>`).join('')||'<div class=card><span class=muted>keine Findings</span></div>';""",
-          """ $('findings').innerHTML=fs.map((f,i)=>`<div class=card onclick='openFinding(${i})'><div class=grid2><b class="score ${f.p==='high'?'high':f.p==='medium'?'med':'obs'}">${f.relevance_score??''}</b><div><div class=title>${f.url?`<a href="${esc(f.url)}" target=_blank rel=noopener>${esc(f.title)}</a>`:esc(f.title)}</div><div class=summary>${esc(f.summary||'')}</div><div class=tags><span class=tag>${esc(f.bucket||f.source_type||'other')}</span><span class=tag>${esc(f.source||'')}</span><span class=tag>${esc(f.risk_or_opportunity||'')}</span><button type=button class=tab onclick='copyResearch("finding",${i},event)'>recherchier mir das</button></div></div></div></div>`).join('')||'<div class=card><span class=muted>keine Findings</span></div>';"""
-          ))
-
-          repl.append((
-          """ $('radar').innerHTML=ts.slice(0,30).map((t,i)=>{const w=t.trend_wucht??t.trend_score??0,d=t.score_delta_5m??t.acceleration??0,dc=d>0?'up':d<0?'dn':'flat';return `<div class=topic onclick='openTrend(${i})'><div><b>${esc(t.topic_label)}</b><small>${esc((t.sources||[])[0]||'')} · ×${t.mention_count||1} · src:${t.source_count||1}</small></div><div><div class=wucht>${Number(w).toFixed(0)}</div><div class="delta ${dc}">${d>0?'↑':d<0?'↓':'→'}${Math.abs(d).toFixed(1)}</div></div></div>`}).join('')||'<div class=card><span class=muted>keine Trenddaten</span></div>';""",
-          """ $('radar').innerHTML=ts.slice(0,30).map((t,i)=>{const w=t.trend_wucht??t.trend_score??0,d=t.score_delta_5m??t.acceleration??0,dc=d>0?'up':d<0?'dn':'flat';return `<div class=topic onclick='openTrend(${i})'><div><b>${esc(t.topic_label)}</b><small>${esc((t.sources||[])[0]||'')} · ×${t.mention_count||1} · src:${t.source_count||1}</small><div class=tags><button type=button class=tab onclick='copyResearch("trend",${i},event)'>recherchier mir das</button></div></div><div><div class=wucht>${Number(w).toFixed(0)}</div><div class="delta ${dc}">${d>0?'↑':d<0?'↓':'→'}${Math.abs(d).toFixed(1)}</div></div></div>`}).join('')||'<div class=card><span class=muted>keine Trenddaten</span></div>';"""
-          ))
-
-          insert_after = """function renderPrinciples(){const p=D.latest?.coverage?.principles||D.latest?.score_debias?.principles||[];$('principles').innerHTML=p.map(x=>`<div class=summary>${esc(x)}</div>`).join('')||'<span class=muted>keine Prinzipien</span>'}"""
-          addition = r"""
-          function cleanText(x){return String(x??'').replace(/\s+/g,' ').trim()}
-          function researchPrompt(kind,x){
-           const title=cleanText(x?.title||x?.topic_label||x?.topic_key||'unbenanntes Thema');
-           const source=cleanText(x?.source||(x?.sources||[]).join(', ')||'');
-           const url=cleanText(x?.url||'');
-           const summary=cleanText(x?.summary||x?.status||'');
-           const score=cleanText(x?.relevance_score??x?.trend_wucht??x?.trend_score??'');
-           return [
-            'Senna, recherchiere mir dieses Thema vertieft.',
-            '',
-            'Nutze den Senna-Infoflow-Treffer als Ausgangspunkt, aber prüfe danach direkte öffentliche Primärquellen, Gegenquellen und Aktualität. Keine News älter als 14 Tage als aktuelle Lage verwenden.',
-            '',
-            `Typ: ${kind}`,
-            `Thema: ${title}`,
-            source?`Quelle(n): ${source}`:'',
-            url?`URL: ${url}`:'',
-            summary?`Kurzlage: ${summary}`:'',
-            score?`Score/Wucht: ${score}`:'',
-            '',
-            'Bitte liefere:',
-            '1. Was ist wirklich bekannt?',
-            '2. Was ist wahrscheinlich, aber nicht gesichert?',
-            '3. Welche direkten Quellen bestätigen oder widersprechen?',
-            '4. Risiko, Chance oder nur Beobachtung?',
-            '5. Relevanz für Yps/AXI0M.',
-            '6. Empfohlene nächste Handlung.'
-           ].filter(Boolean).join('\\n');
-          }
-          async function copyResearch(kind,i,e){
-           if(e)e.stopPropagation();
-           const x=kind==='finding'?findings()[i]:kind==='trend'?trendList()[i]:D.latest?.under_observation?.topics?.[i];
-           if(!x)return;
-           const text=researchPrompt(kind,x);
-           try{
-            await navigator.clipboard.writeText(text);
-            $('detail').innerHTML=`<b>Recherche-Prompt kopiert.</b><p class=muted>${esc(cleanText(x.title||x.topic_label||x.topic_key))}</p>`;
-           }catch(err){
-            window.prompt('Prompt kopieren:',text);
-           }
-          }
-          """
-
-          for old, new in repl:
-              if old not in s:
-                  raise SystemExit("needle not found")
-              s = s.replace(old, new)
-
-          if insert_after not in s:
-              raise SystemExit("insert needle not found")
-          s = s.replace(insert_after, insert_after + addition)
-
-          p.write_text(s, encoding="utf-8")
-          PY
-      - name: Commit patch
+      - name: Remove this one-shot workflow
         run: |
           git config user.name "senna-infoflow[bot]"
           git config user.email "senna-infoflow[bot]@users.noreply.github.com"
-          git add docs/index.html
-          git commit -m "fix: restore index and add research buttons"
+          git rm .github/workflows/patch-index.yml
+          git commit -m "chore: remove one-shot index patch workflow"
           git push
