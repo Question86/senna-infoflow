@@ -46,6 +46,29 @@
     "id": "ade6f01bdf6d264a92ba"
   },
   {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+    "url": "https://jvn.jp/vu/JVNVU90347806/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-19T11:00:00+09:00",
+    "fetched_at": "2026-06-19T02:06:57+00:00",
+    "summary": "2026年06月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c948d41722cb7e0c1e51"
+  },
+  {
     "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
     "url": "https://e27.co/acrab-raises-us350m-to-advance-agentic-ai-compute-infrastructure-20260618/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -209,6 +232,28 @@
       "PINS"
     ],
     "id": "d47f9797763853a687f3"
+  },
+  {
+    "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU93024090/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-19T11:00:15+09:00",
+    "fetched_at": "2026-06-19T02:06:57+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4867136ab2b4a24b0865"
   },
   {
     "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
@@ -1543,6 +1588,28 @@
     "id": "c7b0459f8ee27a7c8220"
   },
   {
+    "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:15:44+00:00",
+    "fetched_at": "2026-06-19T02:06:57+00:00",
+    "summary": "国内コンサルティング大手の人員が初めて10万人を超える見通しだ。人工知能（AI）導入や活用の支援などで需要が高まる。コンサル各社は採用を拡大して「特需」を取り込む。人員拡大、25%増も2026年度の大手7社の人員数が合計で約10万2000人と前年度から6%増える見込みだ。25年度の約9万6000人も代表的な専門性の高い弁護...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "018a6b161bd1368860ca"
+  },
+  {
     "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
     "url": "https://www.morningstar.com/news/dow-jones/202606188799/dow-jones-top-markets-headlines-at-7-pm-et-stocks-rally-gas-prices-fall-as-us-iran-move-ahead-on-peace-deal-oil",
     "source": "GDELT Macro Market Policy RSS",
@@ -1995,6 +2062,27 @@
     "id": "8aecbb8459ea327d7f66"
   },
   {
+    "title": "The AI economy is moving faster than our institutions",
+    "url": "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T02:00:43+00:00",
+    "fetched_at": "2026-06-19T02:06:57+00:00",
+    "summary": "Every third quarter of the year, our team begins discussing recruitment for the organisation or project, whether for documentation work, coordination, or even operational roles. Last year, in particular, was a period in which we recruited a significant number of employees into the organisation due to multiple projects that needed to be executed according to […] The post The AI economy is moving faster than our insti…",
+    "matched_keywords": [
+      "AI",
+      "startup"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "startup (+2.0); AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e655da32d7895d3aeaa7"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362",
     "source": "GDACS All Events Last 24h",
@@ -2154,6 +2242,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eb0fd52d3c3a998520c2"
+  },
+  {
+    "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000246.000045379.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:16:39+00:00",
+    "fetched_at": "2026-06-19T02:06:57+00:00",
+    "summary": "エンジニアプラットフォームを提供するファインディ株式会社（東京都品川区、代表取締役：山田 裕一朗、以下「当社」）は、「アーキテクチャConference 2026」のスポンサー募集を開始したことを発表します。本カンファレンスは、スタートアップ・ベンチャー企業から大企業まで幅広い規模・分野のアーキテクチャに関する...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "46ab08fb32d9f7cfc049"
   },
   {
     "title": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",

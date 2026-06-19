@@ -1,0 +1,675 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-19T02-10-07Z",
+  "generated_at": "2026-06-19T02:10:07Z",
+  "latest": {
+    "counts": {
+      "high": 0,
+      "medium": 1,
+      "new_relevant_findings": 5,
+      "observe": 4,
+      "source_errors": 7,
+      "today_file_total": 124
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 10,
+        "github": 5,
+        "macro_finance": 8,
+        "other": 23,
+        "security": 10,
+        "social": 1
+      },
+      "counts": {
+        "findings": 5,
+        "high": 0,
+        "medium": 1,
+        "observe": 4,
+        "source_errors": 7
+      },
+      "coverage_confidence": "low",
+      "failed_sensor_groups": {
+        "other": 5,
+        "security": 1,
+        "social": 1
+      },
+      "generated_at": "2026-06-19T02:10:07Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": [
+        "source_errors_present",
+        "source_errors_exceed_findings",
+        "critical_sensor_group_failed:social",
+        "critical_sensor_group_failed:security"
+      ]
+    },
+    "date": "2026-06-19",
+    "findings": [
+      {
+        "fetched_at": "2026-06-19T02:06:57+00:00",
+        "id": "c948d41722cb7e0c1e51",
+        "market_context": [],
+        "matched_keywords": [
+          "advisory",
+          "Japan",
+          "JVN",
+          "Security"
+        ],
+        "published_at": "2026-06-19T11:00:00+09:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "relevance_score": 16,
+        "risk_or_opportunity": "risk",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "2026年06月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+        "url": "https://jvn.jp/vu/JVNVU90347806/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:06:57+00:00",
+        "id": "4867136ab2b4a24b0865",
+        "market_context": [],
+        "matched_keywords": [
+          "Japan",
+          "JVN",
+          "Security"
+        ],
+        "published_at": "2026-06-19T11:00:15+09:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "relevance_score": 13,
+        "risk_or_opportunity": "risk",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU93024090/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:06:57+00:00",
+        "id": "018a6b161bd1368860ca",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-18T23:15:44+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "relevance_score": 9,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "国内コンサルティング大手の人員が初めて10万人を超える見通しだ。人工知能（AI）導入や活用の支援などで需要が高まる。コンサル各社は採用を拡大して「特需」を取り込む。人員拡大、25%増も2026年度の大手7社の人員数が合計で約10万2000人と前年度から6%増える見込みだ。25年度の約9万6000人も代表的な専門性の高い弁護...",
+        "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:06:57+00:00",
+        "id": "e655da32d7895d3aeaa7",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "startup"
+        ],
+        "published_at": "2026-06-19T02:00:43+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "startup (+2.0); AI (+2.5); recent (+1.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "observation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Every third quarter of the year, our team begins discussing recruitment for the organisation or project, whether for documentation work, coordination, or even operational roles. Last year, in particular, was a period in which we recruited a significant number of employees into the organisation due to multiple projects that needed to be executed according to […] The post The AI economy is moving faster than our insti…",
+        "title": "The AI economy is moving faster than our institutions",
+        "url": "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:06:57+00:00",
+        "id": "46ab08fb32d9f7cfc049",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T01:16:39+00:00",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "opportunity",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "エンジニアプラットフォームを提供するファインディ株式会社（東京都品川区、代表取締役：山田 裕一朗、以下「当社」）は、「アーキテクチャConference 2026」のスポンサー募集を開始したことを発表します。本カンファレンスは、スタートアップ・ベンチャー企業から大企業まで幅広い規模・分野のアーキテクチャに関する...",
+        "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+        "url": "https://prtimes.jp/main/html/rd/p/000000246.000045379.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      }
+    ],
+    "generated_at": "2026-06-19T02:10:07+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T02:10:07Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [],
+      "medium": [
+        {
+          "fetched_at": "2026-06-19T02:06:57+00:00",
+          "id": "c948d41722cb7e0c1e51",
+          "market_context": [],
+          "matched_keywords": [
+            "advisory",
+            "Japan",
+            "JVN",
+            "Security"
+          ],
+          "published_at": "2026-06-19T11:00:00+09:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+          "relevance_score": 16,
+          "risk_or_opportunity": "risk",
+          "source": "JVN Japan Vulnerability Notes",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "2026年06月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+          "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+          "url": "https://jvn.jp/vu/JVNVU90347806/",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        }
+      ],
+      "observe": [
+        {
+          "fetched_at": "2026-06-19T02:06:57+00:00",
+          "id": "4867136ab2b4a24b0865",
+          "market_context": [],
+          "matched_keywords": [
+            "Japan",
+            "JVN",
+            "Security"
+          ],
+          "published_at": "2026-06-19T11:00:15+09:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+          "relevance_score": 13,
+          "risk_or_opportunity": "risk",
+          "source": "JVN Japan Vulnerability Notes",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+          "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+          "url": "https://jvn.jp/vu/JVNVU93024090/",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T02:06:57+00:00",
+          "id": "018a6b161bd1368860ca",
+          "market_context": [],
+          "matched_keywords": [
+            "AI",
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-18T23:15:44+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+          "relevance_score": 9,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "国内コンサルティング大手の人員が初めて10万人を超える見通しだ。人工知能（AI）導入や活用の支援などで需要が高まる。コンサル各社は採用を拡大して「特需」を取り込む。人員拡大、25%増も2026年度の大手7社の人員数が合計で約10万2000人と前年度から6%増える見込みだ。25年度の約9万6000人も代表的な専門性の高い弁護...",
+          "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T02:06:57+00:00",
+          "id": "e655da32d7895d3aeaa7",
+          "market_context": [],
+          "matched_keywords": [
+            "AI",
+            "startup"
+          ],
+          "published_at": "2026-06-19T02:00:43+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "startup (+2.0); AI (+2.5); recent (+1.0)",
+          "relevance_score": 6,
+          "risk_or_opportunity": "observation",
+          "source": "e27 Asia Startup and Tech Feed",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Every third quarter of the year, our team begins discussing recruitment for the organisation or project, whether for documentation work, coordination, or even operational roles. Last year, in particular, was a period in which we recruited a significant number of employees into the organisation due to multiple projects that needed to be executed according to […] The post The AI economy is moving faster than our insti…",
+          "title": "The AI economy is moving faster than our institutions",
+          "url": "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T02:06:57+00:00",
+          "id": "46ab08fb32d9f7cfc049",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-19T01:16:39+00:00",
+          "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "opportunity",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "エンジニアプラットフォームを提供するファインディ株式会社（東京都品川区、代表取締役：山田 裕一朗、以下「当社」）は、「アーキテクチャConference 2026」のスポンサー募集を開始したことを発表します。本カンファレンスは、スタートアップ・ベンチャー企業から大企業まで幅広い規模・分野のアーキテクチャに関する...",
+          "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+          "url": "https://prtimes.jp/main/html/rd/p/000000246.000045379.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        }
+      ]
+    },
+    "source_errors": [
+      {
+        "error": "403 Client Error: Forbidden for url: https://www.techinasia.com/feed",
+        "source_id": "techinasia_feed",
+        "source_name": "Tech in Asia Feed",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.jpcert.or.jp/english/rss/jpcert.rdf",
+        "source_id": "jpcert_english_alerts",
+        "source_name": "JPCERT/CC English Alerts",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.twcert.org.tw/tw/lp-14-1-x.xml",
+        "source_id": "twcert_security_news",
+        "source_name": "TWCERT/CC Security News",
+        "source_type": "rss"
+      },
+      {
+        "error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%28twitter+OR+x.com+OR+X%29+%28trend+OR+trending+OR+trends%29+%28RSS+OR+feed+OR+aggregator%29+%28Japan+OR+Japanese+OR+JP%29+stars%3A%3E5+pushed%3A%3E2025-01-01&sort=updated&order=desc&per_page=8",
+        "source_id": "github_search_japan_twitter_trend_rss_tools",
+        "source_name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
+        "source_type": "github_search"
+      },
+      {
+        "error": "403 Client Error: Forbidden for url: https://www.oecd.org/en/about/newsroom.html",
+        "source_id": "oecd_newsroom_macro",
+        "source_name": "OECD Newsroom Macro and Policy Watch",
+        "source_type": "webpage_check"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22central+bank%22+OR+inflation+OR+%22rate+cut%22+OR+%22rate+hike%22+OR+bonds+OR+recession+OR+tariff+OR+sanctions+OR+oil+OR+shipping%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
+        "source_id": "gdelt_macro_market_policy_rss",
+        "source_name": "GDELT Macro Market Policy RSS",
+        "source_type": "rss"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28wildfire+OR+%22forest+fire%22+OR+flood+OR+drought+OR+blackout+OR+%22port+closure%22+OR+%22supply+chain%22+OR+%22rail+strike%22+OR+%22pipeline+outage%22%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
+        "source_id": "gdelt_initial_disruption_rss",
+        "source_name": "GDELT Initial Disruption Resonance RSS",
+        "source_type": "rss"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-19T02:10:07+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 5,
+      "clusters": 5,
+      "cross_source_confrmed": 0,
+      "hot": 0,
+      "early_signals": 2,
+      "dominance_penalized": 0
+    },
+    "clusters": [
+      {
+        "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+        "sources": [
+          "JVN Japan Vulnerability Notes"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://jvn.jp/vu/JVNVU90347806/"
+        ],
+        "finding_count": 1,
+        "max_score": 16,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 23.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 18.1,
+        "ranking_score": 23.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 0.0,
+        "baseline_bonus": 0.0,
+        "early_signal": true,
+        "early_signal_bonus": 5.5,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T01:58:32+00:00"
+      },
+      {
+        "key": "title:vendor-signed-uefi",
+        "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+        "sources": [
+          "JVN Japan Vulnerability Notes"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://jvn.jp/vu/JVNVU93024090/"
+        ],
+        "finding_count": 1,
+        "max_score": 13,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 22.5,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 18.1,
+        "ranking_score": 22.5,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": true,
+        "early_signal_bonus": 5.5,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T02:10:07+00:00"
+      },
+      {
+        "key": "domain:www.nikkei.com",
+        "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/"
+        ],
+        "finding_count": 1,
+        "max_score": 9,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 13.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 14.1,
+        "ranking_score": 13.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T02:10:07+00:00"
+      },
+      {
+        "key": "title:economy-moving-faster-than-our-institutions",
+        "title": "The AI economy is moving faster than our institutions",
+        "sources": [
+          "e27 Asia Startup and Tech Feed"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/"
+        ],
+        "finding_count": 1,
+        "max_score": 6,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 10.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 11.1,
+        "ranking_score": 10.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T02:10:07+00:00"
+      },
+      {
+        "key": "title:martin-fowler-conference-2026",
+        "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://prtimes.jp/main/html/rd/p/000000246.000045379.html"
+        ],
+        "finding_count": 1,
+        "max_score": 5,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "raw_network_score": 10.1,
+        "ranking_score": 9.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T02:10:07+00:00"
+      }
+    ],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-19T02:10:07Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-19T02-10-07Z:title:cisa-ics-advisory-ics-medical-advisory-2026-06-18",
+      "sample_index": 5939450,
+      "timestamp_utc": "2026-06-19T02:10:07Z",
+      "run_id": "2026-06-19T02-10-07Z",
+      "topic_key": "title:cisa-ics-advisory-ics-medical-advisory-2026-06-18",
+      "topic_label": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+      "network_score": 16.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "score_delta_5m": 16.0,
+      "trend_wucht": 18.0,
+      "status": "emerging",
+      "urls": [
+        "https://jvn.jp/vu/JVNVU90347806/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-10-07Z:title:vendor-signed-uefi",
+      "sample_index": 5939450,
+      "timestamp_utc": "2026-06-19T02:10:07Z",
+      "run_id": "2026-06-19T02-10-07Z",
+      "topic_key": "title:vendor-signed-uefi",
+      "topic_label": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+      "network_score": 13.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "score_delta_5m": 13.0,
+      "trend_wucht": 15.0,
+      "status": "emerging",
+      "urls": [
+        "https://jvn.jp/vu/JVNVU93024090/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-10-07Z:title:7-10-ai",
+      "sample_index": 5939450,
+      "timestamp_utc": "2026-06-19T02:10:07Z",
+      "run_id": "2026-06-19T02-10-07Z",
+      "topic_key": "title:7-10-ai",
+      "topic_label": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+      "network_score": 9.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "score_delta_5m": 9.0,
+      "trend_wucht": 11.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-10-07Z:title:the-ai-economy-is-moving-faster-than-our-institutions",
+      "sample_index": 5939450,
+      "timestamp_utc": "2026-06-19T02:10:07Z",
+      "run_id": "2026-06-19T02-10-07Z",
+      "topic_key": "title:the-ai-economy-is-moving-faster-than-our-institutions",
+      "topic_label": "The AI economy is moving faster than our institutions",
+      "network_score": 6.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "score_delta_5m": 6.0,
+      "trend_wucht": 8.0,
+      "status": "emerging",
+      "urls": [
+        "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-10-07Z:title:martin-fowler-conference-2026",
+      "sample_index": 5939450,
+      "timestamp_utc": "2026-06-19T02:10:07Z",
+      "run_id": "2026-06-19T02-10-07Z",
+      "topic_key": "title:martin-fowler-conference-2026",
+      "topic_label": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+      "network_score": 5.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "score_delta_5m": 5.0,
+      "trend_wucht": 7.0,
+      "status": "emerging",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000246.000045379.html"
+      ]
+    }
+  ]
+}

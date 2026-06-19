@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T01:58:32+00:00",
+  "generated_at": "2026-06-19T02:10:07+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2459,15 +2459,16 @@
       "z_hint": 0.0
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
-      "updated_at": "2026-06-19T01:58:32+00:00",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+      "updated_at": "2026-06-19T02:10:07+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        18.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 18.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 18.1,
+      "z_hint": -0.5
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -3347,6 +3348,50 @@
       "rolling_average": 8.1,
       "rolling_peak": 8.1,
       "last_score": 8.1,
+      "z_hint": 0.0
+    },
+    "title:vendor-signed-uefi": {
+      "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+      "updated_at": "2026-06-19T02:10:07+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "domain:www.nikkei.com": {
+      "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+      "updated_at": "2026-06-19T02:10:07+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:economy-moving-faster-than-our-institutions": {
+      "title": "The AI economy is moving faster than our institutions",
+      "updated_at": "2026-06-19T02:10:07+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:martin-fowler-conference-2026": {
+      "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+      "updated_at": "2026-06-19T02:10:07+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

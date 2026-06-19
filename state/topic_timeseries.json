@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19T01:58:32Z",
+  "generated_at": "2026-06-19T02:10:07Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -12508,6 +12508,146 @@
           "status": "emerging",
           "urls": [
             "https://e27.co/how-network-aggregators-can-thrive-in-a-disconnected-world-20251117/"
+          ]
+        }
+      ]
+    },
+    "title:cisa-ics-advisory-ics-medical-advisory-2026-06-18": {
+      "topic_key": "title:cisa-ics-advisory-ics-medical-advisory-2026-06-18",
+      "topic_label": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+      "last_seen_at": "2026-06-19T02:10:07Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-10-07Z:title:cisa-ics-advisory-ics-medical-advisory-2026-06-18",
+          "sample_index": 5939450,
+          "timestamp_utc": "2026-06-19T02:10:07Z",
+          "run_id": "2026-06-19T02-10-07Z",
+          "topic_key": "title:cisa-ics-advisory-ics-medical-advisory-2026-06-18",
+          "topic_label": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU90347806/"
+          ]
+        }
+      ]
+    },
+    "title:vendor-signed-uefi": {
+      "topic_key": "title:vendor-signed-uefi",
+      "topic_label": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+      "last_seen_at": "2026-06-19T02:10:07Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-10-07Z:title:vendor-signed-uefi",
+          "sample_index": 5939450,
+          "timestamp_utc": "2026-06-19T02:10:07Z",
+          "run_id": "2026-06-19T02-10-07Z",
+          "topic_key": "title:vendor-signed-uefi",
+          "topic_label": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU93024090/"
+          ]
+        }
+      ]
+    },
+    "title:7-10-ai": {
+      "topic_key": "title:7-10-ai",
+      "topic_label": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+      "last_seen_at": "2026-06-19T02:10:07Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-10-07Z:title:7-10-ai",
+          "sample_index": 5939450,
+          "timestamp_utc": "2026-06-19T02:10:07Z",
+          "run_id": "2026-06-19T02-10-07Z",
+          "topic_key": "title:7-10-ai",
+          "topic_label": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/"
+          ]
+        }
+      ]
+    },
+    "title:the-ai-economy-is-moving-faster-than-our-institutions": {
+      "topic_key": "title:the-ai-economy-is-moving-faster-than-our-institutions",
+      "topic_label": "The AI economy is moving faster than our institutions",
+      "last_seen_at": "2026-06-19T02:10:07Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-10-07Z:title:the-ai-economy-is-moving-faster-than-our-institutions",
+          "sample_index": 5939450,
+          "timestamp_utc": "2026-06-19T02:10:07Z",
+          "run_id": "2026-06-19T02-10-07Z",
+          "topic_key": "title:the-ai-economy-is-moving-faster-than-our-institutions",
+          "topic_label": "The AI economy is moving faster than our institutions",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/"
+          ]
+        }
+      ]
+    },
+    "title:martin-fowler-conference-2026": {
+      "topic_key": "title:martin-fowler-conference-2026",
+      "topic_label": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+      "last_seen_at": "2026-06-19T02:10:07Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-10-07Z:title:martin-fowler-conference-2026",
+          "sample_index": 5939450,
+          "timestamp_utc": "2026-06-19T02:10:07Z",
+          "run_id": "2026-06-19T02-10-07Z",
+          "topic_key": "title:martin-fowler-conference-2026",
+          "topic_label": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://prtimes.jp/main/html/rd/p/000000246.000045379.html"
           ]
         }
       ]

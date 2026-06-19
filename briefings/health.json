@@ -5,7 +5,7 @@
     "warnings": 1
   },
   "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-19T01:58:33Z",
+  "generated_at": "2026-06-19T02:10:07Z",
   "issues": [
     {
       "code": "source_errors_present",
@@ -23,5 +23,7 @@
     "seen_removed_expired": 0,
     "seen_removed_overflow": 0
   },
-  "status": "warning"
+  "status": "warning",
+  "under_observation_source": "inbox/manual_notes.md",
+  "under_observation_topics": 4
 }
