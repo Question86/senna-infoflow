@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T16:56:13Z",
+  "generated_at": "2026-06-19T17:38:25Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {

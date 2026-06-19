@@ -1,106 +1,103 @@
 {
-  "cadence_minutes": 5,
-  "doc_type": "senna.trend_radar",
+  "doc_type": "senna.run_snapshot",
   "generated_at": "2026-06-19T17:38:25Z",
-  "notes": [
-    "Network clusters are included, so quality-gated-out signals still contribute to trend radar.",
-    "Single-source and single-platform signals remain visible but are bucketed.",
-    "CJK/non-Latin titles use stable hash/domain keys instead of title:unknown."
-  ],
-  "ranked_topics": [],
+  "latest": {
+    "counts": {
+      "high": 0,
+      "medium": 0,
+      "new_relevant_findings": 0,
+      "observe": 0,
+      "source_errors": 0,
+      "today_file_total": 247
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 9,
+        "github": 5,
+        "other": 19,
+        "public_health": 1,
+        "security": 10,
+        "social": 1
+      },
+      "counts": {
+        "findings": 0,
+        "high": 0,
+        "medium": 0,
+        "observe": 0,
+        "source_errors": 0
+      },
+      "coverage_confidence": "normal",
+      "failed_sensor_groups": {},
+      "generated_at": "2026-06-19T17:38:25Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": []
+    },
+    "date": "2026-06-19",
+    "findings": [],
+    "generated_at": "2026-06-19T17:38:25+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T17:38:25Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": []
+    },
+    "source_errors": []
+  },
+  "network": {
+    "clusters": [],
+    "counts": {
+      "clusters": 0,
+      "cross_source_confrmed": 0,
+      "dominance_penalized": 0,
+      "early_signals": 0,
+      "findings": 0,
+      "hot": 0
+    },
+    "generated_at": "2026-06-19T17:38:25+00:00",
+    "resonance_ranking": {
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms.",
+      "generated_at": "2026-06-19T17:38:25Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "schema_version": 1
+    },
+    "source": "briefings/latest.json"
+  },
   "run_id": "2026-06-19T17-38-25Z",
   "schema_version": 3,
-  "under_observation_topics": [
-    {
-      "cadence": "routine",
-      "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
-      "id": "apac_japan_x_stormfront",
-      "region": "Japan, APAC",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "Japan X/Twitter Tech- und Event-Sturmfront",
-      "triggers": "Japan, Tokyo, 日本, 急上昇, Twitter, X, trend, viral, Hatena, AI, security, outage, launch, anime, game, earthquake, social velocity",
-      "update_rule": "Auch ohne neue Treffer mindestens im Routinebriefing anzeigen; bei bestätigter X/RSS-Brücke aktivieren.",
-      "watch": "Japanische Social-Velocity-Proxies, Hatena Hotentry IT, Google Trends Japan, GitHub-Suchen nach X/Twitter-Trend-RSS-/Aggregator-Tools, spätere stabile lawful X/RSS-Brücke.",
-      "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Kein Wahlbetrugsnarrativ ohne belastbare Belege verstärken.",
-      "id": "south_korea_election_infrastructure_stress",
-      "region": "South Korea, APAC",
-      "source": "Rechercheauftrag User Yps, 2026-06-19; fnnews/GDELT-Signal zur blockierten Auszählungsstelle",
-      "status": "active",
-      "title": "Südkorea Wahl-Infrastruktur und Protestvertrauen",
-      "triggers": "South Korea, Seoul, Korea, election, ballot, NEC, protest, polling station, vote counting, forced dispersal, police, democracy, infrastructure trust",
-      "update_rule": "Bei Reuters/AP/Yonhap/NEC-Bestätigung oder Räumungssignal hochziehen; sonst beobachtet lassen.",
-      "watch": "NEC-Untersuchung, Polizeiräumung, Verletzte, offizielle Parlaments-/Behördenentscheidungen, Seoul-Protestzahlen, Desinformation/Cyber-/Leak-Bezug.",
-      "why": "Wahlverwaltungsfehler können sich in Infrastrukturvertrauenskrisen verwandeln; junge Protestkohorten und mögliche Zwangsräumung erhöhen Eskalationsrisiko."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "APAC nicht als China-Beifang behandeln.",
-      "id": "apac_tech_social_trend_mesh",
-      "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "APAC Tech-/Social-Motoren außerhalb China",
-      "triggers": "Taiwan, TSMC, Thailand, Philippines, Vietnam, Korea, Japan, Singapore, Indonesia, India, startup, AI, platform, outage, security, developer tools",
-      "update_rule": "In Routineupdates als Coverage-Achse behalten; bei Mehrquellen-Signal in OBSERVE/MEDIUM hochziehen.",
-      "watch": "Regionale Trends, Tech-/Startup-Bewegung, Plattform-Ausfälle, KI-/Devtools, Halbleiter, Security, politische Plattformdynamik.",
-      "why": "Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
-      "id": "global_south_coverage_gap",
-      "region": "Africa, South America, LATAM",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19",
-      "status": "active",
-      "title": "Global-South-Signalabdeckung Afrika und Südamerika",
-      "triggers": "Africa, Nigeria, Kenya, South Africa, Brazil, Argentina, Chile, Colombia, LATAM, fintech, mobile money, power outage, flood, drought, platform policy, cybersecurity",
-      "update_rule": "Quellenabdeckung schrittweise ausbauen; Feed-Stille hier niemals als Weltstille werten.",
-      "watch": "Tech-Ökosysteme, digitale Zahlungssysteme, Energie-/Netzausfälle, Klima-/Katastrophensignale, Plattformpolitik, Security, regionale Regulierung.",
-      "why": "Afrika und Südamerika sind bei Tech-, Infrastruktur-, Klima-, Energie-, Zahlungs- und Plattformthemen nicht zu unterschätzen; westliche Feeds blenden sie oft aus."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
-      "id": "mindanao_post_quake_recovery_hotspots",
-      "region": "Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19; öffentliche Lage nach Mw 7.8 Offshore-Sarangani/Mindanao-Erdbeben vom 2026-06-08",
-      "status": "active",
-      "title": "Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte",
-      "triggers": "Mindanao, Sarangani, Glan, Malapatan, Maasim, General Santos, GenSan, Davao Occidental, South Cotabato, SOCSCSKSARGEN, earthquake, aftershock, PHIVOLCS, tsunami, landslide, coastal uplift, hospital, water, sanitation, price freeze, insurance, real estate, rent, rebuilding, reconstruction, fisheries, fishery, tourism, port, airport, logistics, GSC, schools, bridge, road, power outage, telecom, aid distribution, monsoon",
-      "update_rule": "In Routineupdates mindestens als Unter-Beobachtung-Thema führen; hochziehen bei M5+ Nachbeben, neuen Todes-/Verletztenzahlen, Preis-/Versorgungsengpässen, Hafen-/Flughafen-/Krankenhausausfällen, Versicherungs-/Immobilienmeldungen, Wiederaufbauvertragsskandal, Krankheitsausbruch, Regenzeit-Folgeschäden oder starker lokaler Protest-/Aid-Distribution-Dynamik.",
-      "watch": "Nachbeben und PHIVOLCS-Lage, Glan und Sarangani-Landrutsche, General Santos City als Hafen-/Handels-/Versorgungsknoten, Krankenhäuser und Outdoor-Patientenversorgung, Trinkwasser/Sanitärversorgung, Lebensmittel/Baumaterial/Transportpreise, 60-Tage-Preisstopps und Marktumgehung, Versicherungs-/Schadensregulierung, Immobilienpreise/Mieten/Umsiedlung, Fischerei und Küstenökosysteme, Tourismus-Stornierungen, Schulen, Straßen/Brücken, Strom/Telekom, Häfen und maritime Infrastruktur, Wiederaufbauverträge, Korruptions-/Hilfsverteilungsrisiken, Landwirtschaft/Regenzeit/Monsoon, Küstenhebung/Tsunami-Folgen, mentale Gesundheit, Sicherheitslage und lokale Spannungen ohne Spekulation.",
-      "why": "Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben."
-    },
-    {
-      "cadence": "routine",
-      "do_not": "Keine Tradingempfehlung. Keine anonyme X-These als Tatsache behandeln. Kein „Strategy muss Bitcoin verkaufen“ behaupten, solange es nicht durch Filing, offizielle Meldung oder belastbare Mehrquellenlage gestützt ist.",
-      "id": "strategy_strc_capital_structure_stress",
-      "region": "USA, Crypto Markets, Public Equities",
-      "source": "Gesprächsnotiz User Yps, 2026-06-19; Bull Theory X-Hinweis vom 2026-06-18/19; öffentliche Strategy-/STRC-Marktdaten",
-      "status": "active",
-      "title": "Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop",
-      "triggers": "Strategy, MicroStrategy, MSTR, STRC, Stretch, STRF, STRK, STRD, preferred stock, perpetual preferred, par value, $100 par, dividend, 11.5%, 12%, yield, effective yield, VWAP, Bitcoin sale, sell Bitcoin, BTC treasury, Bitcoin treasury company, Saylor, ATM, dilution, cash reserve, dividend coverage, mNAV, NAV, treasury company, SATA, Strive",
-      "update_rule": "Hochziehen bei STRC <95, <90 oder <85; bei Dividendenerhöhung; bei offizieller Strategy-Meldung zu STRC/Preferred/ATM; bei Strategy-Bitcoin-Verkauf; bei glaubwürdiger Mehrquellen-Resonanz. X-only bleibt Frührauch, nicht Beweis.",
-      "watch": "STRC-Kurs relativ zu $100/$95/$90/$85, offizieller Strategy-STRC-Dividendensatz, STRC-VWAP, Effective Yield, MSTR-Kurs und mNAV/BTC-per-share-Narrativ, ATM-Emissionen, Bitcoin-Käufe/-Verkäufe durch Strategy, Cash-Reserve-Runway, STRC/STRF/STRK/STRD Stack, Konkurrenzprodukte wie SATA, Berichterstattung von CoinDesk, FT, Investors.com/IBD, The Block, Blocktrainer, Yahoo Finance, Nasdaq.",
-      "why": "STRC ist kein normaler Bitcoin-Preisindikator, sondern ein Stressmesser in Strategys Finanzierungsschicht. Wenn STRC deutlich unter dem $100-Par-Ziel handelt, signalisiert der Markt, dass die variable Dividende nicht reicht. Das kann Strategy beim Preferred-ATM, bei Bitcoin-Käufen, bei MSTR-Verwässerung und im Extrem bei Bitcoin-Verkäufen unter Druck setzen."
-    }
-  ],
-  "window_keys": [
-    "now",
-    "30m",
-    "1h",
-    "4h",
-    "8h",
-    "24h",
-    "72h",
-    "168h"
-  ],
-  "windows": {
+  "topic_samples": [],
+  "trend_windows": {
     "168h": {
       "buckets": {
         "agentic_devtools": {

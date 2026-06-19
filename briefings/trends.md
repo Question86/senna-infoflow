@@ -1,6 +1,6 @@
 # Senna Trend Radar
 
-_Generated: 2026-06-19T16:56:13Z_
+_Generated: 2026-06-19T17:38:25Z_
 
 Verdichtung der 5-Minuten-Atoms in Zeitfenster: `now`, `30m`, `1h`, `4h`, `8h`, `24h`, `72h`, `168h`.
 
@@ -8,60 +8,45 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 
 ## Current ranking
 
-- **Ju571nK/sigil** — bucket `agentic_devtools` / wucht `30.8` / score `13.4` / sources `1` / Δ5m `13.4` / `github_repo:ju571nk/sigil`
-- **AI credits consumed per user now in the Copilot usage metrics API** — bucket `single_platform_devtools` / wucht `24.0` / score `12.0` / sources `1` / Δ5m `12.0` / `title:credits-consumed-per-user-now-copilot-usage-metrics`
-- **How we built an internal data analytics agent** — bucket `agentic_devtools` / wucht `22.0` / score `9.0` / sources `1` / Δ5m `9.0` / `title:built-internal-data-analytics-agent`
-- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — bucket `disaster_recovery` / wucht `20.8` / score `7.9` / sources `1` / Δ5m `7.9` / `earthquake:fiji 19:4.0`
-- **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — bucket `other` / wucht `20.0` / score `9.0` / sources `1` / Δ5m `9.0` / `title:typescript-tsgo-tsc`
-- **AIに任せる設計、人間に残る設計** — bucket `other` / wucht `20.0` / score `9.0` / sources `1` / Δ5m `9.0` / `url:https://zenn.dev/dress_code/articles/832cc1733e992c`
-- **Texas govt data breach exposes over 3 million driver’s licenses** — bucket `other` / wucht `18.0` / score `16.0` / sources `1` / Δ5m `-4.5` / `domain:www.bleepingcomputer.com`
-- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — bucket `disaster_recovery` / wucht `5.0` / score `0.0` / sources `1` / Δ5m `0.0` / `earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4`
-- **Ju571nK/sigil** — bucket `agentic_devtools` / wucht `4.0` / score `0.0` / sources `1` / Δ5m `0.0` / `title:ju571nk-sigil`
-- **How we built an internal data analytics agent** — bucket `agentic_devtools` / wucht `4.0` / score `0.0` / sources `1` / Δ5m `0.0` / `title:how-we-built-an-internal-data-analytics-agent`
-- **Texas govt data breach exposes over 3 million driver’s licenses** — bucket `other` / wucht `2.0` / score `0.0` / sources `1` / Δ5m `0.0` / `title:texas-govt-data-breach-exposes-over-3-million-drivers-licenses`
-- **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — bucket `other` / wucht `2.0` / score `0.0` / sources `1` / Δ5m `0.0` / `title:typescript-7.0-rc-go10-tsgotsc6.0`
+- Keine Topic-Samples im aktuellen Run. Fenster können trotzdem historische Bewegung zeigen.
 
 ## Fenster: now
 
-### Top
-- **Ju571nK/sigil** — `agentic_devtools` / trend `30.8` / status `emerging` / samples `1` / sources `1` / Δ `13.4` / `github_repo:ju571nk/sigil`
-- **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `24.0` / status `emerging` / samples `1` / sources `1` / Δ `12.0` / `title:credits-consumed-per-user-now-copilot-usage-metrics`
-- **How we built an internal data analytics agent** — `agentic_devtools` / trend `22.0` / status `emerging` / samples `1` / sources `1` / Δ `9.0` / `title:built-internal-data-analytics-agent`
-- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — `disaster_recovery` / trend `20.8` / status `emerging` / samples `1` / sources `1` / Δ `7.9` / `earthquake:fiji 19:4.0`
-- **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — `other` / trend `20.0` / status `emerging` / samples `1` / sources `1` / Δ `9.0` / `title:typescript-tsgo-tsc`
-- **AIに任せる設計、人間に残る設計** — `other` / trend `20.0` / status `emerging` / samples `1` / sources `1` / Δ `9.0` / `url:https://zenn.dev/dress_code/articles/832cc1733e992c`
-- **Texas govt data breach exposes over 3 million driver’s licenses** — `other` / trend `18.0` / status `mature` / samples `1` / sources `1` / Δ `-4.5` / `domain:www.bleepingcomputer.com`
-- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — `disaster_recovery` / trend `5.0` / status `mature` / samples `1` / sources `1` / Δ `0.0` / `earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4`
-- **Ju571nK/sigil** — `agentic_devtools` / trend `4.0` / status `mature` / samples `1` / sources `1` / Δ `0.0` / `title:ju571nk-sigil`
-- **How we built an internal data analytics agent** — `agentic_devtools` / trend `4.0` / status `mature` / samples `1` / sources `1` / Δ `0.0` / `title:how-we-built-an-internal-data-analytics-agent`
-
-### Buckets
-- `other`: `6` Topics. Spitze: 「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも
-- `agentic_devtools`: `4` Topics. Spitze: Ju571nK/sigil
-- `disaster_recovery`: `2` Topics. Spitze: Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.
-- `single_platform_devtools`: `2` Topics. Spitze: AI credits consumed per user now in the Copilot usage metrics API
+- Keine Topics in diesem Fenster.
 
 ### Unter Beobachtung
-- **Japan X/Twitter Tech- und Event-Sturmfront** — `10` Treffer. Beispiele: Ju571nK/sigil, Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC,
+- **Japan X/Twitter Tech- und Event-Sturmfront** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
 - **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
-- **APAC Tech-/Social-Motoren außerhalb China** — `8` Treffer. Beispiele: Ju571nK/sigil, AI credits consumed per user now in the Copilot usage metrics API
-- **Global-South-Signalabdeckung Afrika und Südamerika** — `4` Treffer. Beispiele: Ju571nK/sigil, Texas govt data breach exposes over 3 million driver’s licenses
-- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `2` Treffer. Beispiele: Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC,, Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC,
+- **APAC Tech-/Social-Motoren außerhalb China** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **Global-South-Signalabdeckung Afrika und Südamerika** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
 - **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
 
 ## Fenster: 30m
 
+- Keine Topics in diesem Fenster.
+
+### Unter Beobachtung
+- **Japan X/Twitter Tech- und Event-Sturmfront** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **APAC Tech-/Social-Motoren außerhalb China** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **Global-South-Signalabdeckung Afrika und Südamerika** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+- **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
+
+## Fenster: 1h
+
 ### Top
-- **Texas govt data breach exposes over 3 million driver’s licenses** — `other` / trend `20.36` / status `watch` / samples `1` / sources `1` / Δ `0.0` / `domain:www.bleepingcomputer.com`
-- **Ju571nK/sigil** — `agentic_devtools` / trend `17.76` / status `new` / samples `1` / sources `1` / Δ `0.0` / `github_repo:ju571nk/sigil`
-- **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `16.36` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:credits-consumed-per-user-now-copilot-usage-metrics`
-- **How we built an internal data analytics agent** — `agentic_devtools` / trend `13.36` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:built-internal-data-analytics-agent`
-- **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — `other` / trend `13.36` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:typescript-tsgo-tsc`
-- **AIに任せる設計、人間に残る設計** — `other` / trend `13.36` / status `new` / samples `1` / sources `1` / Δ `0.0` / `url:https://zenn.dev/dress_code/articles/832cc1733e992c`
-- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — `disaster_recovery` / trend `12.26` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:fiji 19:4.0`
-- **Texas govt data breach exposes over 3 million driver’s licenses** — `other` / trend `4.77` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:texas-govt-data-breach-exposes-over-3-million-drivers-licenses`
-- **Ju571nK/sigil** — `agentic_devtools` / trend `4.77` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:ju571nk-sigil`
-- **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `4.77` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api`
+- **Texas govt data breach exposes over 3 million driver’s licenses** — `other` / trend `19.53` / status `cooling` / samples `1` / sources `1` / Δ `0.0` / `domain:www.bleepingcomputer.com`
+- **Ju571nK/sigil** — `agentic_devtools` / trend `16.93` / status `new` / samples `1` / sources `1` / Δ `0.0` / `github_repo:ju571nk/sigil`
+- **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `15.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:credits-consumed-per-user-now-copilot-usage-metrics`
+- **How we built an internal data analytics agent** — `agentic_devtools` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:built-internal-data-analytics-agent`
+- **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — `other` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:typescript-tsgo-tsc`
+- **AIに任せる設計、人間に残る設計** — `other` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `url:https://zenn.dev/dress_code/articles/832cc1733e992c`
+- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — `disaster_recovery` / trend `11.43` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:fiji 19:4.0`
+- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — `disaster_recovery` / trend `3.93` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:green-earthquake-magnitude-4.7m-depth:467.976km-in-fiji-19-06-20:4`
+- **AIに任せる設計、人間に残る設計** — `other` / trend `3.93` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:ai`
+- **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `3.93` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api`
 
 ### Buckets
 - `other`: `6` Topics. Spitze: Texas govt data breach exposes over 3 million driver’s licenses
@@ -77,34 +62,6 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 - **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `2` Treffer. Beispiele: Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC,, Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC,
 - **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
 
-## Fenster: 1h
-
-### Top
-- **Texas govt data breach exposes over 3 million driver’s licenses** — `other` / trend `19.53` / status `watch` / samples `1` / sources `1` / Δ `0.0` / `domain:www.bleepingcomputer.com`
-- **Ju571nK/sigil** — `agentic_devtools` / trend `16.93` / status `new` / samples `1` / sources `1` / Δ `0.0` / `github_repo:ju571nk/sigil`
-- **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `15.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:credits-consumed-per-user-now-copilot-usage-metrics`
-- **GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載** — `other` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:gmktec-ps4-evo-evo-oculink`
-- **How we built an internal data analytics agent** — `agentic_devtools` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:built-internal-data-analytics-agent`
-- **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — `other` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:typescript-tsgo-tsc`
-- **AIに任せる設計、人間に残る設計** — `other` / trend `12.53` / status `new` / samples `1` / sources `1` / Δ `0.0` / `url:https://zenn.dev/dress_code/articles/832cc1733e992c`
-- **M 4.7 - Fiji region** — `disaster_recovery` / trend `11.43` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:m 4.7 - fiji region:4.7`
-- **Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC, Few people affected in 100km.** — `disaster_recovery` / trend `11.43` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:fiji 19:4.0`
-- **M 4.7 - Fiji region** — `disaster_recovery` / trend `3.93` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:m-4.7-fiji-region:4.7`
-
-### Buckets
-- `other`: `8` Topics. Spitze: Texas govt data breach exposes over 3 million driver’s licenses
-- `agentic_devtools`: `4` Topics. Spitze: Ju571nK/sigil
-- `disaster_recovery`: `4` Topics. Spitze: M 4.7 - Fiji region
-- `single_platform_devtools`: `2` Topics. Spitze: AI credits consumed per user now in the Copilot usage metrics API
-
-### Unter Beobachtung
-- **Japan X/Twitter Tech- und Event-Sturmfront** — `14` Treffer. Beispiele: Texas govt data breach exposes over 3 million driver’s licenses, Ju571nK/sigil
-- **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
-- **APAC Tech-/Social-Motoren außerhalb China** — `8` Treffer. Beispiele: Texas govt data breach exposes over 3 million driver’s licenses, Ju571nK/sigil
-- **Global-South-Signalabdeckung Afrika und Südamerika** — `4` Treffer. Beispiele: Texas govt data breach exposes over 3 million driver’s licenses, Ju571nK/sigil
-- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `4` Treffer. Beispiele: M 4.7 - Fiji region, Green earthquake (Magnitude 4.7M, Depth:467.976km) in Fiji 19/06/2026 15:28 UTC,
-- **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
-
 ## Fenster: 4h
 
 ### Top
@@ -115,8 +72,8 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 - **Ju571nK/sigil** — `agentic_devtools` / trend `16.3` / status `new` / samples `1` / sources `1` / Δ `0.0` / `github_repo:ju571nk/sigil`
 - **AI credits consumed per user now in the Copilot usage metrics API** — `single_platform_devtools` / trend `14.9` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:credits-consumed-per-user-now-copilot-usage-metrics`
 - **「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も** — `other` / trend `11.9` / status `new` / samples `1` / sources `1` / Δ `0.0` / `domain:pic.x.com`
-- **GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載** — `other` / trend `11.9` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:gmktec-ps4-evo-evo-oculink`
 - **How we built an internal data analytics agent** — `agentic_devtools` / trend `11.9` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:built-internal-data-analytics-agent`
+- **GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載** — `other` / trend `11.9` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:gmktec-ps4-evo-evo-oculink`
 - **「TypeScript 7.0」がとうとうリリース候補（RC）に、Go言語ベース、速度も約10倍に／「tsgo」ではなく「tsc」で利用可能。「6.0」と併用できる互換パッケージも** — `other` / trend `11.9` / status `new` / samples `1` / sources `1` / Δ `0.0` / `title:typescript-tsgo-tsc`
 
 ### Buckets
@@ -149,8 +106,8 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 - **https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan** — `disaster_recovery` / trend `23.39` / status `new` / samples `1` / sources `1` / Δ `0.0` / `earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown`
 
 ### Buckets
-- `other`: `42` Topics. Spitze: AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可
 - `security`: `41` Topics. Spitze: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰
+- `other`: `27` Topics. Spitze: AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可
 - `apac_signal`: `23` Topics. Spitze: マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました
 - `agentic_devtools`: `6` Topics. Spitze: Ju571nK/sigil
 - `disaster_recovery`: `6` Topics. Spitze: Updates | ReliefWeb
@@ -159,11 +116,11 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 - `single_platform_devtools`: `2` Topics. Spitze: AI credits consumed per user now in the Copilot usage metrics API
 
 ### Unter Beobachtung
-- **Japan X/Twitter Tech- und Event-Sturmfront** — `86` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
+- **Japan X/Twitter Tech- und Event-Sturmfront** — `77` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
 - **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
-- **APAC Tech-/Social-Motoren außerhalb China** — `87` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
-- **Global-South-Signalabdeckung Afrika und Südamerika** — `59` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
-- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `17` Treffer. Beispiele: Texas govt data breach exposes over 3 million driver’s licenses, Updates | ReliefWeb
+- **APAC Tech-/Social-Motoren außerhalb China** — `83` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
+- **Global-South-Signalabdeckung Afrika und Südamerika** — `51` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
+- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `8` Treffer. Beispiele: Texas govt data breach exposes over 3 million driver’s licenses, Updates | ReliefWeb
 - **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `0` Treffer. Nicht Entwarnung. Nur keine Feed-Spur in diesem Fenster.
 
 ## Fenster: 24h
@@ -181,7 +138,7 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 - **Texas govt data breach exposes over 3 million driver’s licenses** — `other` / trend `24.71` / status `new` / samples `3` / sources `1` / Δ `0.5` / `domain:www.bleepingcomputer.com`
 
 ### Buckets
-- `other`: `244` Topics. Spitze: AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可
+- `other`: `226` Topics. Spitze: AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可
 - `security`: `41` Topics. Spitze: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰
 - `apac_signal`: `23` Topics. Spitze: マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました
 - `agentic_devtools`: `6` Topics. Spitze: Ju571nK/sigil
@@ -191,12 +148,12 @@ Regel: Ein Fenster ist kein Urteil. Es zeigt Druck, Wiederholung, Beschleunigung
 - `single_platform_devtools`: `2` Topics. Spitze: AI credits consumed per user now in the Copilot usage metrics API
 
 ### Unter Beobachtung
-- **Japan X/Twitter Tech- und Event-Sturmfront** — `164` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
+- **Japan X/Twitter Tech- und Event-Sturmfront** — `152` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
 - **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `36` Treffer. Beispiele: 「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け, China backs Myanmar full participation in Asean , UN
-- **APAC Tech-/Social-Motoren außerhalb China** — `146` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
-- **Global-South-Signalabdeckung Afrika und Südamerika** — `79` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
-- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `44` Treffer. Beispiele: Detecting Duplicate Issues – Public Preview and issue fields MCP support for Git, Texas govt data breach exposes over 3 million driver’s licenses
-- **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `5` Treffer. Beispiele: Repository switcher generally available in global navigation, The Great AI Divide: Navigating U.S. and Chinese dominance
+- **APAC Tech-/Social-Motoren außerhalb China** — `134` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
+- **Global-South-Signalabdeckung Afrika und Südamerika** — `70` Treffer. Beispiele: 歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰, Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compr
+- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `41` Treffer. Beispiele: Detecting Duplicate Issues – Public Preview and issue fields MCP support for Git, Texas govt data breach exposes over 3 million driver’s licenses
+- **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `4` Treffer. Beispiele: The Great AI Divide: Navigating U.S. and Chinese dominance, Navato Fire in Sparks now 100 % contained
 
 ## Fenster: 72h
 
