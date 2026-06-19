@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T01:29:15+00:00",
+  "generated_at": "2026-06-19T01:43:09+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2265,6 +2265,127 @@
       "rolling_average": 11.7,
       "rolling_peak": 11.7,
       "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "domain:www.correiobraziliense.com": {
+      "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "domain:emisorasunidas.com": {
+      "title": "Exfiscal denunciado por persecución a activistas en USAC",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "domain:www.scmp.com": {
+      "title": "Editorial | US and Iran have good reasons to stay the course for peace",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.fnnews.com": {
+      "title": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "url:https://primamedia.ru/news/2531351/": {
+      "title": "Выборы в парламент Приморья назначены на 20 сентября",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.epochtimes.com": {
+      "title": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:pablo-salazar-profesores-espaldas-sociedad": {
+      "title": "Pablo Salazar : Profesores de espaldas a la sociedad",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.proceso.com": {
+      "title": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:grossistmeklingen-fortsetter-overtid-over-4000-kan-tas-streik": {
+      "title": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta": {
+      "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "domain:talcualdigital.com": {
+      "title": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
+      "updated_at": "2026-06-19T01:43:09+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
       "z_hint": 0.0
     }
   }

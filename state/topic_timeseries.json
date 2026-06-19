@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19T01:29:15Z",
+  "generated_at": "2026-06-19T01:43:09Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -9671,6 +9671,314 @@
           "status": "emerging",
           "urls": [
             "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
+          ]
+        }
+      ]
+    },
+    "title:s-nchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial": {
+      "topic_key": "title:s-nchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial",
+      "topic_label": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:s-nchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:s-nchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial",
+          "topic_label": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.correiobraziliense.com.br/mundo/2026/06/7444052-sanchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial.html"
+          ]
+        }
+      ]
+    },
+    "title:exfiscal-denunciado-por-persecuci-n-a-activistas-en-usac": {
+      "topic_key": "title:exfiscal-denunciado-por-persecuci-n-a-activistas-en-usac",
+      "topic_label": "Exfiscal denunciado por persecución a activistas en USAC",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:exfiscal-denunciado-por-persecuci-n-a-activistas-en-usac",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:exfiscal-denunciado-por-persecuci-n-a-activistas-en-usac",
+          "topic_label": "Exfiscal denunciado por persecución a activistas en USAC",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://emisorasunidas.com/nacional/2026/06/18/diputados-denuncia-exfiscal-toma-protesta-usac/"
+          ]
+        }
+      ]
+    },
+    "title:editorial-us-and-iran-have-good-reasons-to-stay-the-course-for-peace": {
+      "topic_key": "title:editorial-us-and-iran-have-good-reasons-to-stay-the-course-for-peace",
+      "topic_label": "Editorial | US and Iran have good reasons to stay the course for peace",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:editorial-us-and-iran-have-good-reasons-to-stay-the-course-for-peace",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:editorial-us-and-iran-have-good-reasons-to-stay-the-course-for-peace",
+          "topic_label": "Editorial | US and Iran have good reasons to stay the course for peace",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.scmp.com/opinion/comment/article/3357576/us-and-iran-have-good-reasons-stay-course-peace"
+          ]
+        }
+      ]
+    },
+    "title:2030": {
+      "topic_key": "title:2030",
+      "topic_label": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:2030",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:2030",
+          "topic_label": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.fnnews.com/news/202606190605096299"
+          ]
+        }
+      ]
+    },
+    "title:20": {
+      "topic_key": "title:20",
+      "topic_label": "Выборы в парламент Приморья назначены на 20 сентября",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:20",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:20",
+          "topic_label": "Выборы в парламент Приморья назначены на 20 сентября",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://primamedia.ru/news/2531351/"
+          ]
+        }
+      ]
+    },
+    "title:g7": {
+      "topic_key": "title:g7",
+      "topic_label": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:g7",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:g7",
+          "topic_label": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.epochtimes.com/gb/26/6/18/n14791907.htm"
+          ]
+        }
+      ]
+    },
+    "title:pablo-salazar-:-profesores-de-espaldas-a-la-sociedad": {
+      "topic_key": "title:pablo-salazar-:-profesores-de-espaldas-a-la-sociedad",
+      "topic_label": "Pablo Salazar : Profesores de espaldas a la sociedad",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:pablo-salazar-:-profesores-de-espaldas-a-la-sociedad",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:pablo-salazar-:-profesores-de-espaldas-a-la-sociedad",
+          "topic_label": "Pablo Salazar : Profesores de espaldas a la sociedad",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.lasprovincias.es/opinion/pablo-salazar-profesores-espaldas-sociedad-20260619235517-nt.html"
+          ]
+        }
+      ]
+    },
+    "title:lumumba-el-aficionado-estatua-estar-en-las-gradas-del-estadio-guadalajara": {
+      "topic_key": "title:lumumba-el-aficionado-estatua-estar-en-las-gradas-del-estadio-guadalajara",
+      "topic_label": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:lumumba-el-aficionado-estatua-estar-en-las-gradas-del-estadio-guadalajara",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:lumumba-el-aficionado-estatua-estar-en-las-gradas-del-estadio-guadalajara",
+          "topic_label": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.proceso.com.mx/deportes/2026/6/18/lumumba-el-aficionado-estatua-estara-en-las-gradas-del-estadio-guadalajara-374291.html"
+          ]
+        }
+      ]
+    },
+    "title:grossistmeklingen-fortsetter-p-overtid-over-4000-kan-tas-ut-i-streik": {
+      "topic_key": "title:grossistmeklingen-fortsetter-p-overtid-over-4000-kan-tas-ut-i-streik",
+      "topic_label": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:grossistmeklingen-fortsetter-p-overtid-over-4000-kan-tas-ut-i-streik",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:grossistmeklingen-fortsetter-p-overtid-over-4000-kan-tas-ut-i-streik",
+          "topic_label": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.tv2.no/direkte/jpybz/siste-nytt/6a346c93c389e3dd47255406/grossistmeklingen-fortsetter-pa-overtid"
+          ]
+        }
+      ]
+    },
+    "title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta": {
+      "topic_key": "title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta",
+      "topic_label": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta",
+          "topic_label": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.is.fi/ulkomaat/art-2000012090584.html"
+          ]
+        }
+      ]
+    },
+    "title:dinorah-figuera-retorna-con-apoyo-de-eeuu-:-en-agenda-reuniones-con-jorge-rodr-guez": {
+      "topic_key": "title:dinorah-figuera-retorna-con-apoyo-de-eeuu-:-en-agenda-reuniones-con-jorge-rodr-guez",
+      "topic_label": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
+      "last_seen_at": "2026-06-19T01:43:09Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-43-09Z:title:dinorah-figuera-retorna-con-apoyo-de-eeuu-:-en-agenda-reuniones-con-jorge-rodr-guez",
+          "sample_index": 5939444,
+          "timestamp_utc": "2026-06-19T01:43:09Z",
+          "run_id": "2026-06-19T01-43-09Z",
+          "topic_key": "title:dinorah-figuera-retorna-con-apoyo-de-eeuu-:-en-agenda-reuniones-con-jorge-rodr-guez",
+          "topic_label": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Politics Unrest Elections RSS"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://talcualdigital.com/dinorah-figuera-regresa-al-pais-y-confirma-reuniones-con-eeuu-y-jorge-rodriguez/"
           ]
         }
       ]

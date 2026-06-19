@@ -1,31 +1,281 @@
 {
-  "generated_at": "2026-06-19T01:29:15+00:00",
-  "today_file_total": 2,
+  "generated_at": "2026-06-19T01:43:09+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
-      "key": "earthquake:south of panama 19:4.0",
-      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+      "key": "domain:www.correiobraziliense.com",
+      "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
       "sources": [
-        "GDACS All Events Last 24h"
+        "GDELT Politics Unrest Elections RSS"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
+        "https://www.correiobraziliense.com.br/mundo/2026/06/7444052-sanchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial.html"
       ],
       "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
+      "max_score": 14,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 11.7,
+      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "elections_unrest"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:emisorasunidas.com",
+      "title": "Exfiscal denunciado por persecución a activistas en USAC",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://emisorasunidas.com/nacional/2026/06/18/diputados-denuncia-exfiscal-toma-protesta-usac/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.scmp.com",
+      "title": "Editorial | US and Iran have good reasons to stay the course for peace",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.scmp.com/opinion/comment/article/3357576/us-and-iran-have-good-reasons-stay-course-peace"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.fnnews.com",
+      "title": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.fnnews.com/news/202606190605096299"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://primamedia.ru/news/2531351/",
+      "title": "Выборы в парламент Приморья назначены на 20 сентября",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://primamedia.ru/news/2531351/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.epochtimes.com",
+      "title": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.epochtimes.com/gb/26/6/18/n14791907.htm"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:pablo-salazar-profesores-espaldas-sociedad",
+      "title": "Pablo Salazar : Profesores de espaldas a la sociedad",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.lasprovincias.es/opinion/pablo-salazar-profesores-espaldas-sociedad-20260619235517-nt.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.proceso.com",
+      "title": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.proceso.com.mx/deportes/2026/6/18/lumumba-el-aficionado-estatua-estara-en-las-gradas-del-estadio-guadalajara-374291.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:grossistmeklingen-fortsetter-overtid-over-4000-kan-tas-streik",
+      "title": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.tv2.no/direkte/jpybz/siste-nytt/6a346c93c389e3dd47255406/grossistmeklingen-fortsetter-pa-overtid"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta",
+      "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.is.fi/ulkomaat/art-2000012090584.html"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:talcualdigital.com",
+      "title": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
+      "sources": [
+        "GDELT Politics Unrest Elections RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://talcualdigital.com/dinorah-figuera-regresa-al-pais-y-confirma-reuniones-con-eeuu-y-jorge-rodriguez/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

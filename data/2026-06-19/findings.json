@@ -1,5 +1,557 @@
 [
   {
+    "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+    "url": "https://www.correiobraziliense.com.br/mundo/2026/06/7444052-sanchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial.html",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:00:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "protest",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "election (+2.0); protest (+2.5); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election, protest"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "b477b420990071b8e4a6"
+  },
+  {
+    "title": "Exfiscal denunciado por persecución a activistas en USAC",
+    "url": "https://emisorasunidas.com/nacional/2026/06/18/diputados-denuncia-exfiscal-toma-protesta-usac/",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Exfiscal denunciado por persecución a activistas en USAC",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "protest",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "election (+2.0); protest (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election, protest"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "4b1a011f2fa6f16f9ff2"
+  },
+  {
+    "title": "Editorial | US and Iran have good reasons to stay the course for peace",
+    "url": "https://www.scmp.com/opinion/comment/article/3357576/us-and-iran-have-good-reasons-stay-course-peace",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:15:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Editorial | US and Iran have good reasons to stay the course for peace",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "2636590a04c634433282"
+  },
+  {
+    "title": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+    "url": "https://www.fnnews.com/news/202606190605096299",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:45:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "cc6ebeb4c5e01d290a14"
+  },
+  {
+    "title": "Выборы в парламент Приморья назначены на 20 сентября",
+    "url": "https://primamedia.ru/news/2531351/",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:30:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Выборы в парламент Приморья назначены на 20 сентября",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "0301caa170f5441449ef"
+  },
+  {
+    "title": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+    "url": "https://www.epochtimes.com/gb/26/6/18/n14791907.htm",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "f6d4fe1a0d2e3b0ddb68"
+  },
+  {
+    "title": "Pablo Salazar : Profesores de espaldas a la sociedad",
+    "url": "https://www.lasprovincias.es/opinion/pablo-salazar-profesores-espaldas-sociedad-20260619235517-nt.html",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Pablo Salazar : Profesores de espaldas a la sociedad",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "41867d36ae8f9caf1313"
+  },
+  {
+    "title": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
+    "url": "https://www.proceso.com.mx/deportes/2026/6/18/lumumba-el-aficionado-estatua-estara-en-las-gradas-del-estadio-guadalajara-374291.html",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "29caf2cf0d185d40abe5"
+  },
+  {
+    "title": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
+    "url": "https://www.tv2.no/direkte/jpybz/siste-nytt/6a346c93c389e3dd47255406/grossistmeklingen-fortsetter-pa-overtid",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "85a3048b2644b469afe4"
+  },
+  {
+    "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+    "url": "https://www.is.fi/ulkomaat/art-2000012090584.html",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:30:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "258605726be41ecfd068"
+  },
+  {
+    "title": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
+    "url": "https://talcualdigital.com/dinorah-figuera-regresa-al-pais-y-confirma-reuniones-con-eeuu-y-jorge-rodriguez/",
+    "source": "GDELT Politics Unrest Elections RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:00:00+00:00",
+    "fetched_at": "2026-06-19T01:41:00+00:00",
+    "summary": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
+    "matched_keywords": [
+      "election",
+      "GDELT",
+      "unrest",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "fae12ef70292dca20e37"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362",
     "source": "GDACS All Events Last 24h",
