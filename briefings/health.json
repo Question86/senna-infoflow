@@ -6,7 +6,7 @@
     "warnings": 1
   },
   "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-19T17:44:39Z",
+  "generated_at": "2026-06-19T18:22:33Z",
   "issues": [
     {
       "code": "source_errors_present",
@@ -18,9 +18,9 @@
   "seen_state": {
     "max_items": 50000,
     "retention_days": 90,
-    "seen_kept": 1003,
+    "seen_kept": 1013,
     "seen_malformed_removed": 0,
-    "seen_original": 1003,
+    "seen_original": 1013,
     "seen_removed_expired": 0,
     "seen_removed_overflow": 0
   },

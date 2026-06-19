@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T17:44:38+00:00",
+  "generated_at": "2026-06-19T18:22:32+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3968,8 +3968,9 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-06-19T14:52:13+00:00",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
+        23.7,
         23.7,
         23.7
       ],
@@ -4452,26 +4453,28 @@
       "z_hint": 0.0
     },
     "domain:reliefweb.int": {
-      "title": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
-      "updated_at": "2026-06-19T17:44:38+00:00",
+      "title": "Updates | ReliefWeb",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
-        28.7
+        28.7,
+        39.4
       ],
-      "rolling_average": 28.7,
-      "rolling_peak": 28.7,
-      "last_score": 28.7,
-      "z_hint": 0.0
+      "rolling_average": 34.05,
+      "rolling_peak": 39.4,
+      "last_score": 39.4,
+      "z_hint": 5.35
     },
     "domain:www.fda.gov": {
       "title": "What's New Related to Drugs | FDA",
-      "updated_at": "2026-06-19T17:44:38+00:00",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
-        26.2
+        26.2,
+        20.2
       ],
-      "rolling_average": 26.2,
+      "rolling_average": 23.2,
       "rolling_peak": 26.2,
-      "last_score": 26.2,
-      "z_hint": 0.0
+      "last_score": 20.2,
+      "z_hint": -3.0
     },
     "domain:www.eia.gov": {
       "title": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
@@ -4541,14 +4544,15 @@
     },
     "domain:firms.modaps.eosdis.nasa.gov": {
       "title": "NASA | LANCE | FIRMS",
-      "updated_at": "2026-06-19T17:44:38+00:00",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
-        16.1
+        16.1,
+        13.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 14.6,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": 0.0
+      "last_score": 13.1,
+      "z_hint": -1.5
     },
     "title:deepstatemap-map-war-ukraine": {
       "title": "DeepStateMAP | Map of the war in Ukraine",
@@ -4574,25 +4578,27 @@
     },
     "domain:www.usda.gov": {
       "title": "WASDE Report | USDA",
-      "updated_at": "2026-06-19T17:44:38+00:00",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
+      "last_score": 8.1,
+      "z_hint": -1.5
     },
     "domain:wmo.int": {
       "title": "News Portal",
-      "updated_at": "2026-06-19T17:44:38+00:00",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     },
     "domain:www.ema.europa.eu": {
       "title": "News | European Medicines Agency (EMA)",
@@ -4607,14 +4613,15 @@
     },
     "domain:news.un.org": {
       "title": "UN News | Global perspective Human stories",
-      "updated_at": "2026-06-19T17:44:38+00:00",
+      "updated_at": "2026-06-19T18:22:32+00:00",
       "network_scores": [
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 7.6,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
-      "z_hint": 0.0
+      "last_score": 6.1,
+      "z_hint": -1.5
     },
     "domain:www.nih.gov": {
       "title": "News Releases | National Institutes of Health (NIH)",
@@ -4625,6 +4632,17 @@
       "rolling_average": 9.1,
       "rolling_peak": 9.1,
       "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:randomwalker.blog.fc2.com": {
+      "title": "【完全版】AIで誰でもポートフォリオを無料計算できる方法（REITやゴールドもOK!）",
+      "updated_at": "2026-06-19T18:22:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

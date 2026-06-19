@@ -115,13 +115,13 @@
     "id": "7e231db339493730183a"
   },
   {
-    "title": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
+    "title": "Updates | ReliefWeb",
     "url": "https://reliefweb.int/updates?search=food%20security%20agriculture%20Ukraine%20Russia%20wheat",
     "source": "ReliefWeb Food Security Updates",
     "source_type": "webpage_check",
-    "published_at": null,
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "",
+    "published_at": "2026-06-19T18:21:08+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "summary": "Updates containing food security agriculture Ukraine Russia wheat",
     "matched_keywords": [
       "agriculture",
       "food security",
@@ -131,8 +131,8 @@
       "Watchgraph:agriculture_food_fertilizer",
       "wheat"
     ],
-    "relevance_score": 23,
-    "relevance_reason": "Security (+7.5); food security (+2.0); agriculture (+2.5); wheat (+2.5); Ukraine (+2.5); Russia (+2.5); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: wheat (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "relevance_score": 22,
+    "relevance_reason": "Security (+6.0); food security (+2.0); agriculture (+2.0); wheat (+2.0); Ukraine (+2.0); Russia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: wheat (+2.0)",
     "risk_or_opportunity": "observation",
     "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
     "watchgraph_modules": [
@@ -152,7 +152,7 @@
       "corn",
       "soy"
     ],
-    "id": "94014e89902ab506f33b"
+    "id": "7c6e960ac7b42b7bab43"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
@@ -320,6 +320,48 @@
     "id": "ade6f01bdf6d264a92ba"
   },
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T18:19:02+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "earthquake",
+      "General Santos",
+      "Glan",
+      "Mindanao",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "39cb0f57b92e141612a3"
+  },
+  {
     "title": "What’s at stake for the environment in Colombia’s upcoming election?",
     "url": "https://news.mongabay.com/2026/06/whats-at-stake-for-the-environment-in-colombias-upcoming-election/",
     "source": "Mongabay Latin America Rainforest Feed",
@@ -370,48 +412,6 @@
       "EWZ"
     ],
     "id": "6c4ae330423cf0c4181a"
-  },
-  {
-    "title": "Updates | ReliefWeb",
-    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "source": "ReliefWeb Mindanao Recovery Watch",
-    "source_type": "webpage_check",
-    "published_at": "2026-06-19T14:50:59+00:00",
-    "fetched_at": "2026-06-19T14:50:36+00:00",
-    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-    "matched_keywords": [
-      "earthquake",
-      "General Santos",
-      "Glan",
-      "Mindanao",
-      "recovery",
-      "relief",
-      "Sarangani",
-      "Watchgraph:earthquakes_tsunami"
-    ],
-    "relevance_score": 18,
-    "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "earthquakes_tsunami"
-    ],
-    "watchgraph_reasons": [
-      "earthquakes_tsunami: earthquake"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "CAT",
-      "VMC",
-      "MLM",
-      "HOLN.SW",
-      "HD",
-      "LOW"
-    ],
-    "id": "cabc775efe9e23cfcac3"
   },
   {
     "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
@@ -1762,8 +1762,8 @@
     "url": "https://firms.modaps.eosdis.nasa.gov/",
     "source": "NASA FIRMS Active Fire Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-17T14:24:29+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
+    "published_at": "2026-06-17T14:24:24+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
     "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
     "matched_keywords": [
       "active fire",
@@ -1797,7 +1797,7 @@
       "corn",
       "soy"
     ],
-    "id": "636cb1bcb655e6c635b4"
+    "id": "4aef49bcda5a0b9c2cd2"
   },
   {
     "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
@@ -2236,8 +2236,8 @@
     "url": "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
     "source": "FDA What's New Related to Drugs",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T10:38:15+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
+    "published_at": "2026-06-19T10:35:33+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
     "summary": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
     "matched_keywords": [
       "approval",
@@ -2252,7 +2252,7 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "1ba4882fcd70c1af1a08"
+    "id": "f7805126037460e9f232"
   },
   {
     "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -5751,27 +5751,6 @@
     "id": "645e49a70ddf796b9d69"
   },
   {
-    "title": "WASDE Report | USDA",
-    "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report",
-    "source": "USDA WASDE Report",
-    "source_type": "webpage_check",
-    "published_at": "2026-06-18T12:00:01+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB).",
-    "matched_keywords": [
-      "USDA",
-      "WASDE"
-    ],
-    "relevance_score": 6,
-    "relevance_reason": "USDA (+2.5); WASDE (+2.5); recent (+1.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "b97e5fd01f5809d125e6"
-  },
-  {
     "title": "AI did not kill creativity, it gave us the opportunity to exercise it",
     "url": "https://e27.co/ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it-20260618/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -5791,6 +5770,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5201ee858ea605941d3a"
+  },
+  {
+    "title": "WASDE Report | USDA",
+    "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report",
+    "source": "USDA WASDE Report",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-18T06:30:15+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "summary": "The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB).",
+    "matched_keywords": [
+      "USDA",
+      "WASDE"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "USDA (+2.5); WASDE (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ce68a42fc72d0bcf62c"
   },
   {
     "title": "Level 2 - Malaria in Yemen",
@@ -5982,8 +5982,8 @@
     "url": "https://wmo.int/news",
     "source": "World Meteorological Organization News",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T17:43:21+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
+    "published_at": "2026-06-19T18:21:10+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
     "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
     "matched_keywords": [
       "climate",
@@ -5996,7 +5996,7 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "8ad1ed17b785070466bc"
+    "id": "fb9640b2a6a8ac0dffa1"
   },
   {
     "title": "How we built an internal data analytics agent",
@@ -6018,6 +6018,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c9152c8ae99440360a51"
+  },
+  {
+    "title": "【完全版】AIで誰でもポートフォリオを無料計算できる方法（REITやゴールドもOK!）",
+    "url": "https://randomwalker.blog.fc2.com/blog-entry-5716.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T13:47:12+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "summary": "いやー久々に興奮しています。 長年、個人投資家がモヤモヤしていた「自分の多資産ポートフォリオの期待リターンとリスク」を、かんたんに計算できる方法を発見してしまったのです。 ことの発端は、読者さんからよく寄せられるこんな声です。 「株と債券以外にもREITや金も持っているんですが、今までのツールではポート...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5aca2b31976e113c1fad"
   },
   {
     "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
@@ -7728,32 +7749,12 @@
     "id": "d4099ffdf256f04873c9"
   },
   {
-    "title": "Press Announcements | FDA",
-    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
-    "source": "FDA Press Announcements",
-    "source_type": "webpage_check",
-    "published_at": "2026-06-19T17:42:15+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
-    "summary": "Press Announcements",
-    "matched_keywords": [
-      "FDA"
-    ],
-    "relevance_score": 4,
-    "relevance_reason": "FDA (+2.5); recent (+1.0)",
-    "risk_or_opportunity": "observation",
-    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-    "watchgraph_modules": [],
-    "watchgraph_reasons": [],
-    "market_context": [],
-    "id": "0b4acbdae8977b22d8a5"
-  },
-  {
     "title": "UN News | Global perspective Human stories",
     "url": "https://news.un.org/en/",
     "source": "UN News Global",
     "source_type": "webpage_check",
-    "published_at": "2026-06-19T17:29:07+00:00",
-    "fetched_at": "2026-06-19T17:40:51+00:00",
+    "published_at": "2026-06-19T17:50:56+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
     "summary": "UN News produces daily news content in Arabic, Chinese, English, French, Kiswahili, Portuguese, Russian and Spanish, and weekly programmes in Hindi, Urdu and Bangla. Our multimedia service, through this new integrated single platform, updates throughout the day, in text, audio and video – also making use of quality images and other media from across the UN system. We produce news features and analyses on a variety o…",
     "matched_keywords": [
       "UN"
@@ -7765,7 +7766,27 @@
     "watchgraph_modules": [],
     "watchgraph_reasons": [],
     "market_context": [],
-    "id": "b7b6be12c1ec4b67d703"
+    "id": "d53cb23142526b0277f7"
+  },
+  {
+    "title": "Press Announcements | FDA",
+    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+    "source": "FDA Press Announcements",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T17:46:44+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "summary": "Press Announcements",
+    "matched_keywords": [
+      "FDA"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "FDA (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "288d1adbe609ed4cdd17"
   },
   {
     "title": "News Releases | National Institutes of Health (NIH)",
@@ -7964,6 +7985,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "daeea086eb8b046f856a"
+  },
+  {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Ukraine",
+    "source": "ReliefWeb Ukraine Updates",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T18:19:45+00:00",
+    "fetched_at": "2026-06-19T18:18:39+00:00",
+    "summary": "Updates containing Ukraine",
+    "matched_keywords": [
+      "Ukraine"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Ukraine (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7fce01028934cb29aae6"
   },
   {
     "title": "South African authorities thwart smuggling of 150 venomous scorpions, arrest man",
