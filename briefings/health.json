@@ -1,27 +1,21 @@
 {
   "counts": {
     "critical": 0,
-    "source_errors_appended": 5,
-    "warnings": 1
+    "source_errors_appended": 0,
+    "warnings": 0
   },
   "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-19T00:27:44Z",
-  "issues": [
-    {
-      "code": "source_errors_present",
-      "message": "5 source error(s) in latest run.",
-      "severity": "warning"
-    }
-  ],
+  "generated_at": "2026-06-19T01:29:16Z",
+  "issues": [],
   "schema_version": 1,
   "seen_state": {
     "max_items": 50000,
     "retention_days": 90,
-    "seen_kept": 646,
+    "seen_kept": 648,
     "seen_malformed_removed": 0,
-    "seen_original": 646,
+    "seen_original": 648,
     "seen_removed_expired": 0,
     "seen_removed_overflow": 0
   },
-  "status": "warning"
+  "status": "ok"
 }

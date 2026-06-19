@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.run_snapshot",
+  "run_id": "2026-06-19T01-29-15Z",
+  "generated_at": "2026-06-19T01:29:15Z",
+  "latest": {
+    "counts": {
+      "high": 0,
+      "medium": 0,
+      "new_relevant_findings": 1,
+      "observe": 1,
+      "source_errors": 0,
+      "today_file_total": 2
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 11,
+        "github": 5,
+        "other": 6,
+        "security": 10
+      },
+      "counts": {
+        "findings": 1,
+        "high": 0,
+        "medium": 0,
+        "observe": 1,
+        "source_errors": 0
+      },
+      "coverage_confidence": "normal",
+      "failed_sensor_groups": {},
+      "generated_at": "2026-06-19T01:29:16Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": []
+    },
+    "date": "2026-06-19",
+    "findings": [
+      {
+        "fetched_at": "2026-06-19T01:28:15+00:00",
+        "id": "272bc79164d64ec6d8ab",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "matched_keywords": [
+          "earthquake",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": "2026-06-19T01:08:06+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "risk",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "On 6/19/2026 12:07:07 AM, an earthquake occurred in South Of Panama potentially affecting No people affected in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
+        "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
+      }
+    ],
+    "generated_at": "2026-06-19T01:29:15+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T01:29:16Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": [
+        {
+          "fetched_at": "2026-06-19T01:28:15+00:00",
+          "id": "272bc79164d64ec6d8ab",
+          "market_context": [
+            "MUV2.DE",
+            "SREN.SW",
+            "RNR",
+            "WRB",
+            "CAT",
+            "VMC",
+            "MLM",
+            "HOLN.SW",
+            "HD",
+            "LOW"
+          ],
+          "matched_keywords": [
+            "earthquake",
+            "Watchgraph:earthquakes_tsunami"
+          ],
+          "published_at": "2026-06-19T01:08:06+00:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+          "relevance_score": 6,
+          "risk_or_opportunity": "risk",
+          "signal_class": "raw_disaster_signal",
+          "source": "GDACS All Events Last 24h",
+          "source_bias_class": "disaster",
+          "source_type": "rss",
+          "summary": "On 6/19/2026 12:07:07 AM, an earthquake occurred in South Of Panama potentially affecting No people affected in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
+          "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362",
+          "watchgraph_modules": [
+            "earthquakes_tsunami"
+          ],
+          "watchgraph_reasons": [
+            "earthquakes_tsunami: earthquake"
+          ]
+        }
+      ]
+    },
+    "source_errors": []
+  },
+  "network": {
+    "generated_at": "2026-06-19T01:29:15+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 1,
+      "clusters": 1,
+      "cross_source_confrmed": 0,
+      "hot": 0,
+      "early_signals": 0,
+      "dominance_penalized": 1
+    },
+    "clusters": [
+      {
+        "key": "earthquake:south of panama 19:4.0",
+        "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+        "sources": [
+          "GDACS All Events Last 24h"
+        ],
+        "source_classes": [
+          "emergency_official",
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
+        ],
+        "finding_count": 1,
+        "max_score": 6,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 7.9,
+        "hot": false,
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "raw_network_score": 11.7,
+        "ranking_score": 7.9,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-19T01:29:15+00:00"
+      }
+    ],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-19T01:29:15Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [
+    {
+      "sample_id": "2026-06-19T01-29-15Z:earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-south-of-pa:4",
+      "sample_index": 5939441,
+      "timestamp_utc": "2026-06-19T01:29:15Z",
+      "run_id": "2026-06-19T01-29-15Z",
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-south-of-pa:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+      "network_score": 6.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "score_delta_5m": 6.0,
+      "trend_wucht": 8.0,
+      "status": "emerging",
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:08:06+00:00",
+    "fetched_at": "2026-06-19T01:28:15+00:00",
+    "summary": "On 6/19/2026 12:07:07 AM, an earthquake occurred in South Of Panama potentially affecting No people affected in 100km. The earthquake had Magnitude 4.6M, Depth:10km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "272bc79164d64ec6d8ab"
+  },
+  {
     "title": "Upcoming deprecation of Opus 4.6 (fast)",
     "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
     "source": "GitHub Changelog Atom",

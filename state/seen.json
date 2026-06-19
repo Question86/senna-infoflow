@@ -51,7 +51,7 @@
     },
     "030e898492fe54b2ba12": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
@@ -65,21 +65,21 @@
     },
     "03a847087d64eb5eda72": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
       "url": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine"
     },
     "03c05d308a77dd189b22": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
       "url": "https://portswigger.net/research/the-fragile-lock"
     },
     "03dbd462da21f5d5a2b1": {
       "first_seen_at": "2026-06-17T19:49:43+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
       "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
@@ -100,7 +100,7 @@
     },
     "05289f952601b76360c6": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation RSLinx",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02"
@@ -135,7 +135,7 @@
     },
     "072b48f7da8804368a39": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Microsoft fixes Windows Server 2016 security update failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/"
@@ -170,7 +170,7 @@
     },
     "09341bcddfe112e11bde": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "Give GitHub Copilot CLI real code intelligence with language servers",
       "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/"
@@ -198,7 +198,7 @@
     },
     "0a50512323e6af4b74e9": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "What are git worktrees, and why should I use them?",
       "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/"
@@ -226,21 +226,21 @@
     },
     "0bd39739580f2b1df56a": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:32+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Power-up: monitor.py scoring cleanup and workflow hardening",
       "url": "https://github.com/Question86/senna-infoflow/issues/1"
     },
     "0bec57c5c4f4184bf355": {
       "first_seen_at": "2026-06-18T00:35:18+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "activepieces/activepieces",
       "url": "https://github.com/activepieces/activepieces"
     },
     "0c1a91eae8fcd58f274d": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "AVer PTC cameras",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01"
@@ -296,14 +296,14 @@
     },
     "0d8204a589eafc93f04e": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "The New Security Risks of the Agentic Development Lifecycle",
       "url": "https://snyk.io/blog/agentic-development-lifecycle/"
     },
     "0dbd6a35caf3a13316de": {
       "first_seen_at": "2026-06-18T17:28:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Copilot-authored pull requests now included in author searches",
       "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches"
@@ -317,7 +317,7 @@
     },
     "0ed60b87d9da00adb877": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "PRC-linked influence operations are targeting AI debates in the US",
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
@@ -331,14 +331,14 @@
     },
     "0f44bd04ba536cef02db": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "How we made GitHub Copilot CLI more selective about delegation",
       "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/"
     },
     "1015dc7ca4218c176b27": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
       "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/"
@@ -366,7 +366,7 @@
     },
     "1104ceb7a6e85d19e8ea": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "Protestware by open source maintainer to hinder agentic coding: The jqwik 1.10.0 Prompt Injection",
       "url": "https://snyk.io/blog/protestware-open-source-maintainer-qwik-1-10-0-prompt-injection/"
@@ -380,14 +380,14 @@
     },
     "11949d77027bd607eedf": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva"
     },
     "1243669d2468d99c51a2": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
@@ -429,7 +429,7 @@
     },
     "16aa77aba8b8ef88b360": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
@@ -457,7 +457,7 @@
     },
     "16db028a38da40c52c2a": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
       "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/"
@@ -499,7 +499,7 @@
     },
     "18bd15c93b3f84130071": {
       "first_seen_at": "2026-06-18T18:22:35+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
@@ -625,7 +625,7 @@
     },
     "206e468023531447049a": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Schneider Electric EasyLogic T150 and Saitel DP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04"
@@ -646,7 +646,7 @@
     },
     "21fae2db024a2ad0ddc5": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:32+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Network Hub roadmap: cadence, momentum, correlation, alerts, AXI0M intelligence",
       "url": "https://github.com/Question86/senna-infoflow/issues/4"
@@ -667,14 +667,14 @@
     },
     "2319bd027a3c45a856e7": {
       "first_seen_at": "2026-06-17T18:47:16+00:00",
-      "last_seen_at": "2026-06-19T00:27:37+00:00",
+      "last_seen_at": "2026-06-19T01:29:09+00:00",
       "source": "NOAA NHC Eastern Pacific Tropical Cyclones",
       "title": "There are no tropical cyclones at this time.",
       "url": "https://www.nhc.noaa.gov/"
     },
     "2427db065adf9dc4fcc3": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
       "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
@@ -702,7 +702,7 @@
     },
     "257bbe0c34388b5c3f13": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Cybergang ShinyHunters attackiert Oracle-PeopleSoft-Schwachstelle",
       "url": "https://www.heise.de/news/Cybergang-ShinyHunters-attackiert-Oracle-PeopleSoft-Schwachstelle-11331861.html"
@@ -716,35 +716,42 @@
     },
     "25aee84d365532e4bed7": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "So You Have an AI Security Budget. Now what?",
       "url": "https://snyk.io/blog/ai-security-budget/"
     },
     "25c0d61cf86560c16dbf": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
       "url": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling"
     },
     "2695c118eea82846a214": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network"
     },
     "27048a6bc61c051219d7": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "ShapedPlugin update flow hacked to infect WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/"
     },
+    "272bc79164d64ec6d8ab": {
+      "first_seen_at": "2026-06-19T01:28:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
+      "source": "GDACS All Events Last 24h",
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
+    },
     "273c66c88e57b426d64a": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T00:27:33+00:00",
+      "last_seen_at": "2026-06-19T01:29:04+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 6.7M, Depth:10km) in Indonesia 16/06/2026 03:27 UTC, 260 thousand (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546617"
@@ -807,7 +814,7 @@
     },
     "29dc9f2c25139332b4a8": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "Type Level Security: The future of secure AI code generation?",
       "url": "https://snyk.io/blog/type-level-security/"
@@ -821,7 +828,7 @@
     },
     "2b10ff01316dee959093": {
       "first_seen_at": "2026-06-18T22:34:09+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
@@ -849,7 +856,7 @@
     },
     "2bc8bf80c4e1e6fc166a": {
       "first_seen_at": "2026-06-18T22:34:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
@@ -863,7 +870,7 @@
     },
     "2bed540cefa9ec37b870": {
       "first_seen_at": "2026-06-17T12:44:55+00:00",
-      "last_seen_at": "2026-06-19T00:26:58+00:00",
+      "last_seen_at": "2026-06-19T01:28:28+00:00",
       "source": "AXI0M Blog",
       "title": "Blog | AXIOM",
       "url": "https://axi0m.de/blog.html"
@@ -912,14 +919,14 @@
     },
     "2e85c7fc55ea39300cd2": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T00:27:33+00:00",
+      "last_seen_at": "2026-06-19T01:29:04+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 6.3M, Depth:10km) in China 16/06/2026 09:06 UTC, 9 thousand (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546719"
     },
     "2ea5c21579b41af5c574": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06"
@@ -947,7 +954,7 @@
     },
     "2fddc9671df4e8590f36": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
       "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes"
@@ -968,7 +975,7 @@
     },
     "3029d8de0268ab6fc190": {
       "first_seen_at": "2026-06-18T02:19:16+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "jeremylongshore/claude-code-plugins-plus-skills",
       "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
@@ -1003,14 +1010,14 @@
     },
     "3404cb04c86c2422eb9d": {
       "first_seen_at": "2026-06-18T20:05:15+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316"
     },
     "347c3b8e9d717eb228c3": {
       "first_seen_at": "2026-06-17T18:46:44+00:00",
-      "last_seen_at": "2026-06-19T00:27:00+00:00",
+      "last_seen_at": "2026-06-19T01:28:31+00:00",
       "source": "AXI0M Website",
       "title": "AXIOM | Verifiable AI Process Infrastructure",
       "url": "https://axi0m.de/"
@@ -1031,14 +1038,14 @@
     },
     "351c4a7b25fca9e4ed12": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
       "url": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/"
     },
     "352d7741281424bfce39": {
       "first_seen_at": "2026-06-18T16:20:57+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Safer pull_request_target defaults for GitHub Actions checkout",
       "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
@@ -1066,7 +1073,7 @@
     },
     "35c83bed700b53972fc1": {
       "first_seen_at": "2026-06-18T22:33:56+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
       "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
@@ -1080,7 +1087,7 @@
     },
     "362ccf654099f2f4ddbc": {
       "first_seen_at": "2026-06-17T18:47:15+00:00",
-      "last_seen_at": "2026-06-19T00:27:36+00:00",
+      "last_seen_at": "2026-06-19T01:29:07+00:00",
       "source": "NOAA NHC Atlantic Tropical Cyclones",
       "title": "Atlantic Tropical Weather Outlook",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc"
@@ -1094,21 +1101,21 @@
     },
     "36fd99d7b2223ddf5144": {
       "first_seen_at": "2026-06-18T18:22:53+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297"
     },
     "3757724d359a32d9427a": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Repeater Strike: manual testing, amplified",
       "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified"
     },
     "37626d5f7017be644551": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T00:27:04+00:00",
+      "last_seen_at": "2026-06-19T01:28:34+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Watchgraph expansion: global macro/microtrend monitor structure",
       "url": "https://github.com/Question86/senna-infoflow/issues/2"
@@ -1143,7 +1150,7 @@
     },
     "3a07995cb481b42ca0ed": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05"
@@ -1157,7 +1164,7 @@
     },
     "3add54470456f8409e46": {
       "first_seen_at": "2026-06-18T22:33:56+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "MAI-Code-1-Flash available on more Copilot surfaces",
       "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
@@ -1171,14 +1178,14 @@
     },
     "3bfe60c1345cc2daaacb": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies and Python version in README",
       "url": "https://github.com/axi0m/nathair/pull/493"
     },
     "3c0853eaba7619d4c30a": {
       "first_seen_at": "2026-06-17T18:47:17+00:00",
-      "last_seen_at": "2026-06-19T00:27:39+00:00",
+      "last_seen_at": "2026-06-19T01:29:10+00:00",
       "source": "NOAA NHC Central Pacific Tropical Cyclones",
       "title": "Central North Pacific Tropical Weather Outlook",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=cpac"
@@ -1227,14 +1234,14 @@
     },
     "3fe794b3e300e4c10d58": {
       "first_seen_at": "2026-06-18T05:20:41+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "TracecatHQ/tracecat",
       "url": "https://github.com/TracecatHQ/tracecat"
     },
     "4096bc3832cfcb283637": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update CHANGELOG.md and version to match recent enhancements",
       "url": "https://github.com/axi0m/ratatoskr/pull/48"
@@ -1318,7 +1325,7 @@
     },
     "43f5e19cfa16fb828c32": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Geräteverwaltung: Root-Attacken auf Ivanti Endpoint Manager Mobile möglich",
       "url": "https://www.heise.de/news/Geraeteverwaltung-Root-Attacken-auf-Ivanti-Endpoint-Manager-Mobile-moeglich-11328488.html"
@@ -1339,7 +1346,7 @@
     },
     "465ff9397f84259ae9c8": {
       "first_seen_at": "2026-06-18T14:33:35+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
@@ -1374,14 +1381,14 @@
     },
     "48c6a4ed3f60d36fb5ce": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Nvidias KI-Agenten-Plattform NeMo ist über drei Sicherheitslücken angreifbar",
       "url": "https://www.heise.de/news/Nvidias-KI-Agenten-Plattform-NeMo-ist-ueber-drei-Sicherheitsluecken-angreifbar-11335058.html"
     },
     "496391fcf82378561da5": {
       "first_seen_at": "2026-06-18T03:38:26+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.0, Central Mid-Atlantic Ridge",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvdy"
@@ -1409,7 +1416,7 @@
     },
     "4ad86ff038d4f207f32d": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Top 10 web hacking techniques of 2025",
       "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025"
@@ -1423,7 +1430,7 @@
     },
     "4bcbe0adf67c888e5963": {
       "first_seen_at": "2026-06-18T05:20:31+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.3, Guerrero, Mexico",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvhr"
@@ -1451,14 +1458,14 @@
     },
     "4d3629efdb92574875b2": {
       "first_seen_at": "2026-06-18T22:34:12+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
     },
     "4d8bf356d936f572cbef": {
       "first_seen_at": "2026-06-17T18:47:05+00:00",
-      "last_seen_at": "2026-06-19T00:27:26+00:00",
+      "last_seen_at": "2026-06-19T01:28:57+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.7 - 43 km ESE of Palu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st95"
@@ -1514,14 +1521,14 @@
     },
     "532511ffdd288b041f15": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog"
     },
     "5385a1b2fc424b67616e": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation CompactLogix",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-04"
@@ -1535,7 +1542,7 @@
     },
     "541fb82b00c202ed0367": {
       "first_seen_at": "2026-06-18T22:34:12+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
@@ -1605,7 +1612,7 @@
     },
     "587996d30e4332924736": {
       "first_seen_at": "2026-06-18T14:33:35+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547262"
@@ -1619,7 +1626,7 @@
     },
     "58beb51798d679cc0660": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies",
       "url": "https://github.com/axi0m/ratatoskr/pull/66"
@@ -1633,49 +1640,49 @@
     },
     "599ca8f806d425321166": {
       "first_seen_at": "2026-06-17T18:46:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Why Account Takeovers Are Rising and How to Stop Them",
       "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/"
     },
     "5a0e2a965ce484d34d64": {
       "first_seen_at": "2026-06-18T20:05:01+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Copilot code review: AGENTS.md support and UI improvements",
       "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements"
     },
     "5a947f1bf86013c03caa": {
       "first_seen_at": "2026-06-18T20:04:24+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.2, Southeast of Honshu, Japan",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwks"
     },
     "5b54b9d3d51dd0db7f37": {
       "first_seen_at": "2026-06-18T17:28:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Repository switcher generally available in global navigation",
       "url": "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation"
     },
     "5b63241c9dd710572ef2": {
       "first_seen_at": "2026-06-17T18:47:16+00:00",
-      "last_seen_at": "2026-06-19T00:27:37+00:00",
+      "last_seen_at": "2026-06-19T01:29:09+00:00",
       "source": "NOAA NHC Eastern Pacific Tropical Cyclones",
       "title": "Eastern North Pacific Tropical Weather Outlook",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac"
     },
     "5b6c222ce943594e8cf5": {
       "first_seen_at": "2026-06-18T14:33:32+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in Indonesia 18/06/2026 13:39 UTC, 1.5 million in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547262"
     },
     "5bd7d0da5b1d1f6b7adb": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "When a Government Pulls an AI Model: What the Fable 5 and Mythos 5 Suspension Means for Security Teams",
       "url": "https://snyk.io/blog/fable-mythos-suspension-security-takeaways/"
@@ -1724,14 +1731,14 @@
     },
     "5e39b2a49ef1e27ee34f": {
       "first_seen_at": "2026-06-17T18:47:17+00:00",
-      "last_seen_at": "2026-06-19T00:27:39+00:00",
+      "last_seen_at": "2026-06-19T01:29:10+00:00",
       "source": "NOAA NHC Central Pacific Tropical Cyclones",
       "title": "There are no tropical cyclones at this time.",
       "url": "https://www.nhc.noaa.gov/"
     },
     "5eaa57e9823820bafa9c": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Introducing HTTP Anomaly Rank",
       "url": "https://portswigger.net/research/introducing-http-anomaly-rank"
@@ -1745,7 +1752,7 @@
     },
     "5f3fb3e80e794fdf9164": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
       "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/"
@@ -1759,14 +1766,14 @@
     },
     "5f9effc8e989677d0a2e": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Device Posture Integration with TailScale",
       "url": "https://github.com/fleetdm/fleet/issues/29780"
     },
     "60ef3dff607ad6980955": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "The Government Just Banned an AI Model. An Engineer's Perspective.",
       "url": "https://snyk.io/blog/government-ban-ai-model-engineer-perspective/"
@@ -1815,7 +1822,7 @@
     },
     "63ca956e20d4bcaffb16": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "phpBB: Kritische Sicherheitslücke ermöglicht Kompromittierung",
       "url": "https://www.heise.de/news/phpBB-Kritische-Sicherheitsluecke-ermoeglicht-Kompromittierung-11332689.html"
@@ -1857,7 +1864,7 @@
     },
     "671a3656c0d2466767ea": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Root-Attacken auf Cisco Catalyst SD-WAN Manager und cPanel-Plug-in LiteSpeed",
       "url": "https://www.heise.de/news/Root-Attacken-auf-Cisco-Catalyst-SD-WAN-Manager-und-cPanel-Plug-in-LiteSpeed-11333457.html"
@@ -1892,14 +1899,14 @@
     },
     "68d7df606e115bb458a0": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add functions for checking API tokens",
       "url": "https://github.com/axi0m/ratatoskr/pull/62"
     },
     "68e8d770c5b6726d121f": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add CodeQL workflow for GitHub code scanning",
       "url": "https://github.com/axi0m/nathair/pull/494"
@@ -1913,7 +1920,7 @@
     },
     "697f90d26a7608cf627f": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
       "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/"
@@ -1927,7 +1934,7 @@
     },
     "69b3525061736b3e822e": {
       "first_seen_at": "2026-06-17T18:46:50+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction"
@@ -1969,7 +1976,7 @@
     },
     "6bececdfec000c00a54f": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "📜 Add logging",
       "url": "https://github.com/axi0m/ratatoskr/issues/13"
@@ -1983,7 +1990,7 @@
     },
     "6c49ade7eecee8895692": {
       "first_seen_at": "2026-06-17T19:41:06+00:00",
-      "last_seen_at": "2026-06-19T00:27:26+00:00",
+      "last_seen_at": "2026-06-19T01:28:57+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.6 - central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti"
@@ -2018,7 +2025,7 @@
     },
     "6f74b6cea0be7b0047d7": {
       "first_seen_at": "2026-06-18T17:27:26+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.4, Mindanao, Philippines",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwfh"
@@ -2032,7 +2039,7 @@
     },
     "6f9c9a61d04a05c7e337": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Ubiquiti UniFi OS: Kritische Schadcode-Lücken und mehr",
       "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Kritische-Luecken-erlauben-Codeschmuggel-11329967.html"
@@ -2088,7 +2095,7 @@
     },
     "7185a37416e171ad7b9d": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T00:27:04+00:00",
+      "last_seen_at": "2026-06-19T01:28:34+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Sponsor Launch: fund Keeper-Clean roadmap",
       "url": "https://github.com/Question86/keeper-clean/issues/1"
@@ -2102,7 +2109,7 @@
     },
     "7245266198d05cbfd67d": {
       "first_seen_at": "2026-06-18T15:00:06+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 5M, Depth:35.299km) in Andreanof Islands, Aleutian Is. 18/06/2026 13:58 UTC, [unknown].",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547263"
@@ -2123,21 +2130,21 @@
     },
     "7302ba57a3576c1d4f59": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:32+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Watchgraph expansion: global macro/microtrend monitor structure",
       "url": "https://github.com/Question86/senna-infoflow/issues/2"
     },
     "731ed601345b112ffb39": {
       "first_seen_at": "2026-06-18T19:15:33+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
     },
     "73a5fb0f9ceb46e575cb": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "Node-gyp Supply Chain Compromise: A Self-Propagating npm Worm That Hides in binding.gyp",
       "url": "https://snyk.io/blog/node-gyp-supply-chain-compromise-self-propagating-npm-worm-binding-gyp/"
@@ -2151,7 +2158,7 @@
     },
     "746fb32a147e7aed9665": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "FortiSandbox: Angriffe auf kritische Schwachstellen beobachtet",
       "url": "https://www.heise.de/news/Angriffe-auf-FortiSandbox-Schwachstellen-11335667.html"
@@ -2193,21 +2200,21 @@
     },
     "78066f4c3b91cd1c0718": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen",
       "url": "https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html"
     },
     "785facc1e7df68b971ee": {
       "first_seen_at": "2026-06-18T17:28:17+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285"
     },
     "78a78074df32329737ec": {
       "first_seen_at": "2026-06-18T22:33:30+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "Pipelex/pipelex",
       "url": "https://github.com/Pipelex/pipelex"
@@ -2235,7 +2242,7 @@
     },
     "7999449514b7da12b926": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T00:27:04+00:00",
+      "last_seen_at": "2026-06-19T01:28:34+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Power-up: monitor.py scoring cleanup and workflow hardening",
       "url": "https://github.com/Question86/senna-infoflow/issues/1"
@@ -2256,7 +2263,7 @@
     },
     "7a4c32f0bca82108e79f": {
       "first_seen_at": "2026-06-18T14:33:39+00:00",
-      "last_seen_at": "2026-06-19T00:27:36+00:00",
+      "last_seen_at": "2026-06-19T01:29:07+00:00",
       "source": "NOAA NHC Atlantic Tropical Cyclones",
       "title": "There are no tropical cyclones at this time.",
       "url": "https://www.nhc.noaa.gov/"
@@ -2270,7 +2277,7 @@
     },
     "7bc64040137802486081": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add asciinema markdown to README.md",
       "url": "https://github.com/axi0m/ratatoskr/pull/51"
@@ -2298,7 +2305,7 @@
     },
     "7c467bfaae8cbe279c60": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T00:27:33+00:00",
+      "last_seen_at": "2026-06-19T01:29:04+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 70 thousand in MMI VI.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536386"
@@ -2312,7 +2319,7 @@
     },
     "7c66537bb0f34830168b": {
       "first_seen_at": "2026-06-17T12:45:13+00:00",
-      "last_seen_at": "2026-06-19T00:27:41+00:00",
+      "last_seen_at": "2026-06-19T01:29:12+00:00",
       "source": "GitHub Search: AI Security Automation",
       "title": "bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude",
       "url": "https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude"
@@ -2417,7 +2424,7 @@
     },
     "8167b9cf79d4b73dbb69": {
       "first_seen_at": "2026-06-18T18:22:50+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in India 18/06/2026 15:29 UTC, 3.8 million in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547297"
@@ -2494,21 +2501,21 @@
     },
     "867da05eb98ec42d8820": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation FactoryTalk Historian Site Edition",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03"
     },
     "867f8dcc4e953cd5b218": {
       "first_seen_at": "2026-06-18T14:33:19+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Generated release notes credit you for Copilot pull requests",
       "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests"
     },
     "86d15e7b783260c0589b": {
       "first_seen_at": "2026-06-18T16:20:56+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "How pull request limits are cutting down the noise",
       "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
@@ -2522,7 +2529,7 @@
     },
     "88a5d390d90e9fa7f228": {
       "first_seen_at": "2026-06-17T21:30:18+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/"
@@ -2543,7 +2550,7 @@
     },
     "8a23229f6e5f8d277405": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Critical Security Patch Update: Oracle veröffentlicht 245 Sicherheitsupdates",
       "url": "https://www.heise.de/news/Critical-Security-Patch-Update-Oracle-veroeffentlicht-245-Sicherheitsupdates-11335248.html"
@@ -2634,14 +2641,14 @@
     },
     "907edc7519815dd5b21b": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "A Forgotten Contributor Account Compromised the Entire Mastra npm Package Scope",
       "url": "https://snyk.io/blog/a-forgotten-contributor-account-compromised-the-entire-mastra-npm-package-scope/"
     },
     "90ae8111366f3807969c": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
       "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01"
@@ -2655,7 +2662,7 @@
     },
     "91820d19366cbaae084f": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/"
@@ -2683,7 +2690,7 @@
     },
     "9277ec730057497fb994": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T00:27:04+00:00",
+      "last_seen_at": "2026-06-19T01:28:34+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Rapidly switching between tabs causes view size to be wrong",
       "url": "https://github.com/sindresorhus/Settings/issues/9"
@@ -2704,7 +2711,7 @@
     },
     "936e7a7a3990b8244141": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "🔑 - Verify GitLab API Personal Access Token Before Check",
       "url": "https://github.com/axi0m/ratatoskr/issues/54"
@@ -2718,14 +2725,14 @@
     },
     "93f047ea500a6d53d98f": {
       "first_seen_at": "2026-06-17T18:47:20+00:00",
-      "last_seen_at": "2026-06-19T00:27:42+00:00",
+      "last_seen_at": "2026-06-19T01:29:14+00:00",
       "source": "GitHub Search: Agent Security",
       "title": "romanklis/openclaw-contained",
       "url": "https://github.com/romanklis/openclaw-contained"
     },
     "93fda1f4668fd9726e12": {
       "first_seen_at": "2026-06-18T07:04:32+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 2.4, Poland",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqt"
@@ -2753,7 +2760,7 @@
     },
     "9462034bb0a16bddc902": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Top 10 web hacking techniques of 2025: call for nominations",
       "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open"
@@ -2767,14 +2774,14 @@
     },
     "96bd13f63924d3502faa": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation"
     },
     "96fa1a2353ce6c78379c": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
       "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
@@ -2795,14 +2802,14 @@
     },
     "9889d700bb84f5be4d26": {
       "first_seen_at": "2026-06-17T20:44:12+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Introducing LifeSciBench",
       "url": "https://openai.com/index/introducing-life-sci-bench"
     },
     "98deffefdf9b8bfdfb86": {
       "first_seen_at": "2026-06-18T08:47:06+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "0xPlaygrounds/rig",
       "url": "https://github.com/0xPlaygrounds/rig"
@@ -2830,7 +2837,7 @@
     },
     "999486dc927471fca224": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "📐 Test support for Microsoft Teams, Discord and Slack",
       "url": "https://github.com/axi0m/ratatoskr/issues/10"
@@ -2865,7 +2872,7 @@
     },
     "9ae0bdb31f4a0d38b4ad": {
       "first_seen_at": "2026-06-18T00:35:18+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify"
@@ -2900,7 +2907,7 @@
     },
     "9cadf7d7d43dc97a05c2": {
       "first_seen_at": "2026-06-17T22:12:34+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.1, Mindanao, Philippines",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luuf"
@@ -2928,14 +2935,14 @@
     },
     "9dfa54d2015b45f7f4dc": {
       "first_seen_at": "2026-06-18T22:34:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
     },
     "9e028a607681d9da7c9a": {
       "first_seen_at": "2026-06-18T16:19:28+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "baserow/baserow",
       "url": "https://github.com/baserow/baserow"
@@ -2949,7 +2956,7 @@
     },
     "9f06ae672ae180b6e54d": {
       "first_seen_at": "2026-06-19T00:27:11+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Upcoming deprecation of Opus 4.6 (fast)",
       "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast"
@@ -2963,7 +2970,7 @@
     },
     "9f28a5618f327b1bf190": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "A Day in the Life of an AI Engineer in Snyk's Lisbon Office",
       "url": "https://snyk.io/blog/a-day-in-the-life-of-an-ai-engineer-in-snyks-lisbon-office/"
@@ -2977,7 +2984,7 @@
     },
     "a03d249ab31386f158b0": {
       "first_seen_at": "2026-06-18T14:31:50+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.6, Gaspe Peninsula, Canada",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lway"
@@ -3040,7 +3047,7 @@
     },
     "a46dacab4acd01c7a39d": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03"
@@ -3054,7 +3061,7 @@
     },
     "a52802f0fce7a367f2be": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
       "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/"
@@ -3075,7 +3082,7 @@
     },
     "a6c1199c33957ce7ae7e": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Ivanti Sentry: Verwirrung um Status von kritischem Befehlsschmuggel-Leck",
       "url": "https://www.heise.de/news/Ivanti-Sentry-Wirrwar-um-Missbrauch-kritischer-Befehlsschmuggel-Luecke-11329730.html"
@@ -3138,7 +3145,7 @@
     },
     "ade1e9a334d8ae6a4671": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "FreeBSD: Rechteausweitungslücke mit augenzwinkerndem Codenamen",
       "url": "https://www.heise.de/news/FreeBSD-Rechteausweitungsluecke-mit-augenzwinkerndem-Codenamen-11328722.html"
@@ -3152,7 +3159,7 @@
     },
     "aeb3fe67531df41f8ada": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:32+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Memory: Senna Infoflow watchgraph expansion 2026-06-17",
       "url": "https://github.com/Question86/keeper-clean/issues/3"
@@ -3215,7 +3222,7 @@
     },
     "b3f86bbab4348d5054ec": {
       "first_seen_at": "2026-06-17T18:46:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
       "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/"
@@ -3264,21 +3271,21 @@
     },
     "b7ff04a190facdab542d": {
       "first_seen_at": "2026-06-17T20:31:39+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.2, South Sandwich Islands Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luqf"
     },
     "b860a9ee64183909b836": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add code of conduct and update packages",
       "url": "https://github.com/axi0m/ratatoskr/pull/64"
     },
     "b90acfeecca5dedc01a0": {
       "first_seen_at": "2026-06-18T19:15:27+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Control who and what triggers GitHub Actions workflows",
       "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
@@ -3306,7 +3313,7 @@
     },
     "baac7bccc36609028568": {
       "first_seen_at": "2026-06-18T17:28:20+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Philippines 18/06/2026 16:33 UTC, 530 thousand in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547285"
@@ -3376,7 +3383,7 @@
     },
     "bfdb21663b514950e906": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T00:27:04+00:00",
+      "last_seen_at": "2026-06-19T01:28:34+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Memory: Senna Infoflow watchgraph expansion 2026-06-17",
       "url": "https://github.com/Question86/keeper-clean/issues/3"
@@ -3397,14 +3404,14 @@
     },
     "c03aa6ea127bea919fb2": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07"
     },
     "c1d422fc03a9e7ed3127": {
       "first_seen_at": "2026-06-17T18:47:08+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green flood alert in Türkiye",
       "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920"
@@ -3422,6 +3429,13 @@
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.8, Qinghai, China",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026ltpv"
+    },
+    "c339d8f622e9fa6faead": {
+      "first_seen_at": "2026-06-19T01:29:02+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
+      "source": "GDACS All Events Last Week",
+      "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
     },
     "c3bed8ffcfe82d61f05a": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
@@ -3460,14 +3474,14 @@
     },
     "c6bcfcff34c3b3f312e1": {
       "first_seen_at": "2026-06-17T18:47:14+00:00",
-      "last_seen_at": "2026-06-19T00:27:34+00:00",
+      "last_seen_at": "2026-06-19T01:29:06+00:00",
       "source": "GDACS Tropical Cyclones Last Week",
       "title": "Green notification for tropical cyclone ARTHUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (8.348 million in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001276"
     },
     "c7033403a98584e0e3da": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Mehrere Plug-ins für JetBrains-IDEs stehlen API-Keys für OpenAI, DeepSeek & Co.",
       "url": "https://www.heise.de/news/Mehrere-Plug-ins-fuer-JetBrains-IDEs-stehlen-API-Keys-fuer-OpenAI-DeepSeek-Co-11335021.html"
@@ -3488,7 +3502,7 @@
     },
     "c7950a98b173abd6cd34": {
       "first_seen_at": "2026-06-18T16:21:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
@@ -3565,7 +3579,7 @@
     },
     "cc8be7a69bb2884d47e5": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update README badges",
       "url": "https://github.com/axi0m/nathair/pull/490"
@@ -3579,7 +3593,7 @@
     },
     "ceda53d1e383927bbd98": {
       "first_seen_at": "2026-06-18T02:19:06+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.6, Venezuela",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvbh"
@@ -3614,14 +3628,14 @@
     },
     "d056a2724157f41eb4b4": {
       "first_seen_at": "2026-06-18T07:04:32+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.5, Peru-Brazil Border Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lviv"
     },
     "d079ce4761da47466985": {
       "first_seen_at": "2026-06-18T02:19:49+00:00",
-      "last_seen_at": "2026-06-19T00:27:18+00:00",
+      "last_seen_at": "2026-06-19T01:28:49+00:00",
       "source": "BleepingComputer Security",
       "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/"
@@ -3656,7 +3670,7 @@
     },
     "d35aa74f588d0640d937": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:32+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Main backmerge",
       "url": "https://github.com/maximhq/bifrost/pull/2402"
@@ -3684,7 +3698,7 @@
     },
     "d42a4f78c2eb0fbf2231": {
       "first_seen_at": "2026-06-18T20:05:18+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 5.3M, Depth:10km) in Southeast Of Honshu, Japan 18/06/2026 19:17 UTC, No people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547316"
@@ -3712,21 +3726,21 @@
     },
     "d610d1ceacd4ad709ac1": {
       "first_seen_at": "2026-06-18T14:31:50+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.0, Fiji Islands Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvxe"
     },
     "d63fcea28f1c7d72edb6": {
       "first_seen_at": "2026-06-18T22:34:14+00:00",
-      "last_seen_at": "2026-06-19T00:27:34+00:00",
+      "last_seen_at": "2026-06-19T01:29:06+00:00",
       "source": "GDACS Tropical Cyclones Last Week",
       "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
     },
     "d651ac00405018749494": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/"
@@ -3740,14 +3754,14 @@
     },
     "d7670bf035f70c367cd9": {
       "first_seen_at": "2026-06-18T14:31:50+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 3.6, Chile-Bolivia Border Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvwm"
     },
     "d7a4cff815f05d90005b": {
       "first_seen_at": "2026-06-18T14:33:28+00:00",
-      "last_seen_at": "2026-06-19T00:27:22+00:00",
+      "last_seen_at": "2026-06-19T01:28:53+00:00",
       "source": "Snyk Security Blog",
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
       "url": "https://snyk.io/blog/secure-developer-program/"
@@ -3768,7 +3782,7 @@
     },
     "d8ee3be47fde65e62fe2": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona"
@@ -3789,14 +3803,14 @@
     },
     "dad7648c7c73c2cea279": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "OpenSSL: Präparierte Signatur kann Weg für Schadcode ebnen",
       "url": "https://www.heise.de/news/OpenSSL-Praeparierte-Signatur-kann-Weg-fuer-Schadcode-ebnen-11328258.html"
     },
     "db85d8c4f8b4918d71bb": {
       "first_seen_at": "2026-06-18T05:20:31+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.5, Central Mid-Atlantic Ridge",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvfx"
@@ -3810,7 +3824,7 @@
     },
     "dc116eee19c118e39d5a": {
       "first_seen_at": "2026-06-18T14:33:32+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547244"
@@ -3845,28 +3859,28 @@
     },
     "dd273dc1ff1c92ea57c4": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "AzeoTech DAQFactory",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02"
     },
     "dd4d82e5953b38ad6b1e": {
       "first_seen_at": "2026-06-17T18:47:05+00:00",
-      "last_seen_at": "2026-06-19T00:27:26+00:00",
+      "last_seen_at": "2026-06-19T01:28:57+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.3 - 260 km SSE of Dunhuang, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbz"
     },
     "de64c55e971bcc405432": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T00:27:33+00:00",
+      "last_seen_at": "2026-06-19T01:29:04+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 4.4 million (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544720"
     },
     "ded411f96a8a31087a52": {
       "first_seen_at": "2026-06-18T14:31:50+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.0, Andreanof Islands, Aleutian Islands",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwae"
@@ -3880,7 +3894,7 @@
     },
     "e01c99aee6b7bd7befd3": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Präparierte PDF-Datei kann Avira Antivirus gefährlich werden",
       "url": "https://www.heise.de/news/Praeparierte-PDF-Datei-kann-Avira-Antivirus-gefaehrlich-werden-11332323.html"
@@ -3908,42 +3922,42 @@
     },
     "e0e06ca9ca7d323e35f6": {
       "first_seen_at": "2026-06-18T08:46:57+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.8, Timor Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvnq"
     },
     "e1a54ae526b93bdca8d3": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies",
       "url": "https://github.com/axi0m/nathair/pull/492"
     },
     "e1be8c69ef4ea48ce652": {
       "first_seen_at": "2026-06-18T19:15:25+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
     },
     "e1e12c55dd8395a636a5": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T00:27:04+00:00",
+      "last_seen_at": "2026-06-19T01:28:34+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Document repository name typo: Ergo_tastmaster → Ergo_taskmaster",
       "url": "https://github.com/Question86/Ergo_taskmaster/pull/1"
     },
     "e2ce181af514e8ad0219": {
       "first_seen_at": "2026-06-18T22:33:20+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.3, Off Coast of Oregon",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lwno"
     },
     "e2ec4b520cf970ae6912": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
       "url": "https://portswigger.net/research/inline-style-exfiltration"
@@ -3964,14 +3978,14 @@
     },
     "e3545d330d93af955ec6": {
       "first_seen_at": "2026-06-18T14:33:35+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 4.8M, Depth:606.102km) in Fiji Islands Region 18/06/2026 12:29 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547244"
     },
     "e3f2b9b451d98927c4bb": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "How Preply combines AI and human tutors to personalize learning",
       "url": "https://openai.com/index/preply"
@@ -4006,7 +4020,7 @@
     },
     "e75be3f9ffcfdc822165": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies",
       "url": "https://github.com/axi0m/axi0m/pull/3"
@@ -4027,7 +4041,7 @@
     },
     "e7a1ba4ffaba15f9a31e": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T00:27:33+00:00",
+      "last_seen_at": "2026-06-19T01:29:04+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 5.1M, Depth:10km) in China 18/05/2026 13:44 UTC, 6 thousand (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541314"
@@ -4041,7 +4055,7 @@
     },
     "e7def24dd52538a89fbd": {
       "first_seen_at": "2026-06-18T22:34:09+00:00",
-      "last_seen_at": "2026-06-19T00:27:28+00:00",
+      "last_seen_at": "2026-06-19T01:28:59+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 4.6M, Depth:549.781km) in Fiji 18/06/2026 21:09 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547330"
@@ -4062,7 +4076,7 @@
     },
     "e8cff630e53e5499c1f1": {
       "first_seen_at": "2026-06-18T07:04:32+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 5.2, Mindanao, Philippines",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvmh"
@@ -4083,7 +4097,7 @@
     },
     "e9333b422e910b42de54": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-18T23:58:59+00:00",
+      "last_seen_at": "2026-06-19T01:28:55+00:00",
       "source": "PortSwigger Research",
       "title": "HTTP/1.1 must die: the desync endgame",
       "url": "https://portswigger.net/research/http1-must-die"
@@ -4104,7 +4118,7 @@
     },
     "eb07b438fc7600ce4a79": {
       "first_seen_at": "2026-06-17T18:47:12+00:00",
-      "last_seen_at": "2026-06-19T00:27:31+00:00",
+      "last_seen_at": "2026-06-19T01:29:02+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green flood alert in Türkiye",
       "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920"
@@ -4118,7 +4132,7 @@
     },
     "ec4212b33a25d845a52b": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01"
@@ -4146,7 +4160,7 @@
     },
     "ededa98f7463fe398793": {
       "first_seen_at": "2026-06-18T18:22:37+00:00",
-      "last_seen_at": "2026-06-19T00:27:11+00:00",
+      "last_seen_at": "2026-06-19T01:28:41+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Actions: Build custom images from custom images",
       "url": "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images"
@@ -4174,7 +4188,7 @@
     },
     "ef4a254655b638c1ffbc": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:20+00:00",
+      "last_seen_at": "2026-06-19T01:28:50+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Mitsubishi Electric MELSEC iQ-F Series",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05"
@@ -4195,14 +4209,14 @@
     },
     "efe8afa2b42999a1f98e": {
       "first_seen_at": "2026-06-17T18:47:05+00:00",
-      "last_seen_at": "2026-06-19T00:27:26+00:00",
+      "last_seen_at": "2026-06-19T01:28:57+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 2.4 - 8 km NE of Bel Air North, Maryland",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st41"
     },
     "f01d29c6b9e59a74c36f": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T00:27:17+00:00",
+      "last_seen_at": "2026-06-19T01:28:47+00:00",
       "source": "heise Security Alerts",
       "title": "Android 17 hat direkt Sicherheitspatches mit an Bord",
       "url": "https://www.heise.de/news/Android-17-hat-direkt-Sicherheitspatches-mit-an-Bord-11335345.html"
@@ -4216,7 +4230,7 @@
     },
     "f04c160172fd68982967": {
       "first_seen_at": "2026-06-18T16:20:54+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
@@ -4230,7 +4244,7 @@
     },
     "f1342f1a4f405719877f": {
       "first_seen_at": "2026-06-17T21:53:41+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 3.8, Northern Chile",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026luro"
@@ -4265,21 +4279,21 @@
     },
     "f42a0bf79368d34084a4": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T00:27:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:40+00:00",
       "source": "GitHub Blog Atom",
       "title": "GitHub availability report: May 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/"
     },
     "f4356f9a67d89935a829": {
       "first_seen_at": "2026-06-17T19:49:33+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 3.6, Chile-Bolivia Border Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lupc"
     },
     "f4915b933bdfb7f7de40": {
       "first_seen_at": "2026-06-18T08:46:57+00:00",
-      "last_seen_at": "2026-06-19T00:25:05+00:00",
+      "last_seen_at": "2026-06-19T01:28:19+00:00",
       "source": "GEOFON/GFZ Global Recent Earthquakes RSS",
       "title": "M 4.9, Timor Region",
       "url": "https://geofon.gfz.de/eqinfo/event.php?from=rss&id=gfz2026lvng"
@@ -4342,7 +4356,7 @@
     },
     "f7ea6dc23cc6b60d0827": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T00:27:08+00:00",
+      "last_seen_at": "2026-06-19T01:28:38+00:00",
       "source": "OpenAI News RSS",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud"
@@ -4405,7 +4419,7 @@
     },
     "fbff11eb7d1a0e02da08": {
       "first_seen_at": "2026-06-18T07:04:42+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "Budibase/budibase",
       "url": "https://github.com/Budibase/budibase"
@@ -4419,7 +4433,7 @@
     },
     "fc99b40147cb5c4943db": {
       "first_seen_at": "2026-06-18T14:32:00+00:00",
-      "last_seen_at": "2026-06-18T18:22:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "triggerdotdev/trigger.dev",
       "url": "https://github.com/triggerdotdev/trigger.dev"
@@ -4489,7 +4503,7 @@
     },
     "fe7bdbb02fb24b5b7713": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T00:27:02+00:00",
+      "last_seen_at": "2026-06-19T01:28:33+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add files via upload",
       "url": "https://github.com/FigureT13/Delete-Me/pull/1"
@@ -4517,13 +4531,13 @@
     },
     "fff908fffc634e054650": {
       "first_seen_at": "2026-06-18T00:35:18+00:00",
-      "last_seen_at": "2026-06-19T00:25:10+00:00",
+      "last_seen_at": "2026-06-19T01:28:24+00:00",
       "source": "GitHub Search Breakout AI Tools",
       "title": "simstudioai/sim",
       "url": "https://github.com/simstudioai/sim"
     }
   },
-  "last_pruned_at": "2026-06-19T00:27:44Z",
+  "last_pruned_at": "2026-06-19T01:29:16Z",
   "max_items": 50000,
   "retention_days": 90,
   "version": 1

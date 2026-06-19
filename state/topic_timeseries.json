@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19T00:27:44Z",
+  "generated_at": "2026-06-19T01:29:15Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -9643,6 +9643,34 @@
           "status": "emerging",
           "urls": [
             "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-south-of-pa:4": {
+      "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-south-of-pa:4",
+      "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+      "last_seen_at": "2026-06-19T01:29:15Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-29-15Z:earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-south-of-pa:4",
+          "sample_index": 5939441,
+          "timestamp_utc": "2026-06-19T01:29:15Z",
+          "run_id": "2026-06-19T01-29-15Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-4.6m-depth:10km-in-south-of-pa:4",
+          "topic_label": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362"
           ]
         }
       ]
