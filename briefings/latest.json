@@ -1,11 +1,11 @@
 {
   "counts": {
     "high": 0,
-    "medium": 1,
-    "new_relevant_findings": 12,
-    "observe": 11,
+    "medium": 3,
+    "new_relevant_findings": 16,
+    "observe": 13,
     "source_errors": 4,
-    "today_file_total": 159
+    "today_file_total": 175
   },
   "coverage": {
     "active_sensor_groups": {
@@ -16,10 +16,10 @@
       "social": 1
     },
     "counts": {
-      "findings": 12,
+      "findings": 16,
       "high": 0,
-      "medium": 1,
-      "observe": 11,
+      "medium": 3,
+      "observe": 13,
       "source_errors": 4
     },
     "coverage_confidence": "low",
@@ -28,7 +28,7 @@
       "security": 1,
       "social": 1
     },
-    "generated_at": "2026-06-19T07:39:38Z",
+    "generated_at": "2026-06-19T09:22:22Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -45,188 +45,318 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "8d4d98664c96854e4344",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "ae828d46cdc8793ed5ef",
       "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "matched_keywords": [
-        "AI",
-        "funding",
-        "Singapore",
-        "startup",
-        "Watchgraph:capitals_power_centers",
-        "Webentwicklung"
-      ],
-      "published_at": "2026-06-19T07:04:44+00:00",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "relevance_reason": "Webentwicklung (+3.0); startup (+2.0); AI (+2.0); funding (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "relevance_score": 19,
-      "risk_or_opportunity": "opportunity",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan’s JR East Group, marking a significant step in the company’s expansion into the Japanese market. The investment comes alongside a deployment partnership in which fileAI’s governed AI platform will be rolled out across JR East […] The post fileAI secures strategic investment f…",
-      "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
-      "url": "https://e27.co/fileai-funding-20260619/",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "6a5f37aa46c70c3c3df1",
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
         "META",
         "GOOGL",
-        "MSFT",
         "RDDT",
         "SNAP",
-        "S",
         "PINS"
       ],
       "matched_keywords": [
-        "Security",
-        "Watchgraph:cyber_active_exploitation",
-        "Watchgraph:narrative_social_reputation"
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "published_at": "2026-06-19T06:47:55+00:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation, narrative_social_reputation (+6.0)",
-      "relevance_score": 13,
-      "risk_or_opportunity": "risk",
-      "source": "BleepingComputer Security",
+      "published_at": "2026-06-19T05:40:38+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 16,
+      "risk_or_opportunity": "observation",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "summary": "作成した手順を使うときは、新しいスレッドでCodexに該当手順の利用を指示する。アップロードするファイルや対象の日付範囲など、その回ごとに異なる値を渡せば、Codexが手順に沿って作業を進める。 OpenAIは録画時の注意として、短く完結した内容にすること、パスワードなどの機密情報を含めないことを挙げている。録画...",
+      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
       "watchgraph_modules": [
-        "cyber_active_exploitation",
-        "narrative_social_reputation"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "cyber_active_exploitation: Fortinet",
-        "narrative_social_reputation: data leak"
+        "ai_agents_workflow: Codex"
       ]
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "d8259e9fe8f69b273510",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "111e7ac5911fe1e8484c",
+      "market_context": [],
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Japan",
+        "OpenAI"
+      ],
+      "published_at": "2026-06-19T03:59:47+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "OpenAI (+7.5); Japan (+2.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 16,
+      "risk_or_opportunity": "observation",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "「ChatGPT」は、SNSで拡散した「この写真を復元して」というプロンプトによって、性的で生々しい暴力表現を含む画像を容易に生成していたことが分かった。AIサイバーセキュリティ・調査会社であるMindgardが米国時間6月18日に報告書を公開した。この報告は、AIチャットボットの安全策やコンテンツフィルターをめぐる継続...",
+      "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+      "url": "https://japan.cnet.com/article/35249158/",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "a1c4c66f4c00a20458c9",
       "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
       "matched_keywords": [
         "AI",
-        "Southeast Asia",
-        "startup",
-        "Watchgraph:capitals_power_centers"
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "published_at": "2026-06-19T06:11:11+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); AI (+2.5); recent (+1.0); watchgraph region china_credible_only: Beijing (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "relevance_score": 12,
-      "risk_or_opportunity": "observation",
-      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-06-19T00:17:02+00:00",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+      "relevance_score": 15,
+      "risk_or_opportunity": "opportunity",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Manus’s reported buyback encapsulates a new reality: AI deals are no longer just commercial transactions but geopolitical chess moves with clear implications for Southeast Asia. If Chinese investors repurchase Manus at the roughly US$2 billion price Meta paid, the outcome will reflect Beijing’s intent to retain control over advanced AI assets developed with Chinese capital, […] The post Ecosystem Roundup: Manus buyb…",
-      "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
-      "url": "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/",
+      "summary": "GitHub - dmtrKovalenko/fff: The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS - dmtrKovalenko/fff A file search toolkit for human...",
+      "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202606182/",
       "watchgraph_modules": [
-        "capitals_power_centers"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "capitals_power_centers: capital"
+        "ai_agents_workflow: AI agents"
       ]
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "a67a68a21d5dcb4fa94a",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "f992e5668b627d81aee0",
+      "market_context": [],
+      "matched_keywords": [
+        "AI",
+        "Security"
+      ],
+      "published_at": "2026-06-19T08:44:08+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Security (+6.0); AI (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0)",
+      "relevance_score": 12,
+      "risk_or_opportunity": "observation",
+      "source": "BleepingComputer Security",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "06f05a128262af449a2d",
       "market_context": [
         "MUV2.DE",
         "SREN.SW",
         "RNR",
         "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
       ],
       "matched_keywords": [
-        "earthquake",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "drought",
+        "Watchgraph:wildfire_heat_drought"
       ],
-      "published_at": "2026-06-19T07:33:01.754+00:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "earthquake (+2.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "published_at": "2026-04-30T13:07:47+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "drought (+2.5); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
       "relevance_score": 10,
-      "risk_or_opportunity": "risk",
+      "risk_or_opportunity": "observation",
       "signal_class": "raw_disaster_signal",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source": "GDACS All Events Last 24h",
       "source_bias_class": "disaster",
       "source_type": "rss",
-      "summary": "PAGER - GREEN ShakeMap - VI Time 2026-06-19 06:52:34 UTC 2026-06-19 06:52:34 UTC at epicenter Location 53.249°N 160.651°E Depth 10.00 km (6.21 mi)",
-      "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3",
+      "summary": "The Drought notification level is Green.",
+      "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "wildfire_heat_drought"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "wildfire_heat_drought: drought"
       ]
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "6248b5ea8b6455e7824f",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "8cf598746cd01c7168f8",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "matched_keywords": [
+        "drought",
+        "Watchgraph:wildfire_heat_drought"
+      ],
+      "published_at": "2026-04-30T13:07:44+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "signal_class": "raw_disaster_signal",
+      "source": "GDACS All Events Last 24h",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "The Drought notification level is Green.",
+      "title": "Drought is on going in United States",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546",
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "watchgraph_reasons": [
+        "wildfire_heat_drought: drought"
+      ]
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "8c494a1a86ca0e2d7fbb",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "matched_keywords": [
+        "drought",
+        "Watchgraph:wildfire_heat_drought"
+      ],
+      "published_at": "2026-04-30T13:07:38+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "drought (+2.5); watchgraph region australia: Australia (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "signal_class": "raw_disaster_signal",
+      "source": "GDACS All Events Last 24h",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "The Drought notification level is Green.",
+      "title": "Drought is on going in Australia",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457",
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "watchgraph_reasons": [
+        "wildfire_heat_drought: drought"
+      ]
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "0a9024d694fd767e3fb8",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "matched_keywords": [
+        "drought",
+        "Watchgraph:wildfire_heat_drought"
+      ],
+      "published_at": "2025-10-02T10:20:21+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+      "relevance_score": 8,
+      "risk_or_opportunity": "observation",
+      "signal_class": "raw_disaster_signal",
+      "source": "GDACS All Events Last 24h",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "The Drought notification level is Green.",
+      "title": "Drought is on going in Mexico, United States",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093",
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "watchgraph_reasons": [
+        "wildfire_heat_drought: drought"
+      ]
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "8a2f47e89b9037a37226",
       "market_context": [],
       "matched_keywords": [
         "Security"
       ],
-      "published_at": "2026-06-19T06:52:00.000+00:00",
+      "published_at": "2026-06-19T08:39:00.000+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "Security (+6.0); recent (+1.0)",
       "relevance_score": 7,
@@ -234,15 +364,15 @@
       "source": "heise Security Alerts",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Splunk warnt, dass bösartige Akteure eine kritische Codeschmuggel-Lücke in Splunk Enterprise angreifen. Updates stehen bereit.",
-      "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
-      "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html",
+      "summary": "Ein Anruf des BSI um 2:30 holte kürzlich Windchill-Kunden aus dem Schlaf. Jetzt wird klar, wieso. Doch welche Rolle spielte das BKA dieses Mal?",
+      "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
+      "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "dac61b2277ac079dd41c",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "dd7f6c6d5ea24263ecae",
       "market_context": [
         "MUV2.DE",
         "SREN.SW",
@@ -259,44 +389,7 @@
         "earthquake",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "published_at": "2026-06-19T07:35:42.040+00:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "relevance_score": 6,
-      "risk_or_opportunity": "risk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_bias_class": "disaster",
-      "source_type": "rss",
-      "summary": "Time 2026-06-19 07:05:45 UTC 2026-06-19 07:05:45 UTC at epicenter Location 52.824°N 161.115°E Depth 10.00 km (6.21 mi)",
-      "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "2fca87e99f78748c0d71",
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "matched_keywords": [
-        "earthquake",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "published_at": "2026-06-19T07:19:38+00:00",
+      "published_at": "2026-06-19T08:49:42+00:00",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "relevance_score": 6,
@@ -305,9 +398,9 @@
       "source": "GDACS All Events Last 24h",
       "source_bias_class": "disaster",
       "source_type": "rss",
-      "summary": "On 6/19/2026 6:52:34 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=V. The earthquake had Magnitude 6.6M, Depth:10km.",
-      "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
-      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396",
+      "summary": "On 6/19/2026 7:48:56 AM, an earthquake occurred in Russia potentially affecting Few people affected in 100km. The earthquake had Magnitude 4.5M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
@@ -316,8 +409,8 @@
       ]
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "085a7cc41213947164f2",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "7acaa08ab6be35cd4fad",
       "market_context": [
         "MUV2.DE",
         "SREN.SW",
@@ -334,7 +427,7 @@
         "earthquake",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "published_at": "2026-06-19T07:05:18+00:00",
+      "published_at": "2026-06-19T08:23:38+00:00",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "relevance_score": 6,
@@ -343,9 +436,9 @@
       "source": "GDACS All Events Last 24h",
       "source_bias_class": "disaster",
       "source_type": "rss",
-      "summary": "On 6/19/2026 6:51:27 AM, an earthquake occurred in Off East Coast Of Kamchatka potentially affecting No people affected in 100km. The earthquake had Magnitude 6.6M, Depth:10km.",
-      "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
-      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395",
+      "summary": "On 6/19/2026 8:03:40 AM, an earthquake occurred in Russia potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.2M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547405",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
@@ -354,8 +447,8 @@
       ]
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "47f4c5650f3c1f639b40",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "e78a281d6ab43bef97b8",
       "market_context": [
         "MUV2.DE",
         "SREN.SW",
@@ -372,17 +465,18 @@
         "earthquake",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "published_at": "2026-06-19T07:03:38.171+00:00",
+      "published_at": "2026-06-19T08:14:31+00:00",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "relevance_score": 6,
       "risk_or_opportunity": "risk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "signal_class": "raw_disaster_signal",
+      "source": "GDACS All Events Last 24h",
       "source_bias_class": "disaster",
       "source_type": "rss",
-      "summary": "Time 2026-06-19 06:51:27 UTC 2026-06-19 06:51:27 UTC at epicenter Location 52.151°N 160.923°E Depth 10.00 km (6.21 mi)",
-      "title": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26170000",
+      "summary": "On 6/19/2026 7:52:57 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 19/06/2026 07:52 UTC, 240 thousand in MMI>=III.",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
@@ -391,14 +485,95 @@
       ]
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "6a308ee81fa2c253389a",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "8f0226437bd880bfabf1",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "matched_keywords": [
+        "drought",
+        "Watchgraph:wildfire_heat_drought"
+      ],
+      "published_at": "2026-04-30T13:07:35+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "drought (+2.5); watchgraph modules wildfire_heat_drought (+3.0)",
+      "relevance_score": 6,
+      "risk_or_opportunity": "observation",
+      "source": "GDACS All Events Last 24h",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "The Drought notification level is Orange.",
+      "title": "Drought is on going in Madagascar",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018431",
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "watchgraph_reasons": [
+        "wildfire_heat_drought: drought"
+      ]
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "b5d40d5cef5de855cbfe",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "matched_keywords": [
+        "drought",
+        "Watchgraph:wildfire_heat_drought"
+      ],
+      "published_at": "2026-02-11T09:57:31+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "drought (+2.5); watchgraph modules wildfire_heat_drought (+3.0)",
+      "relevance_score": 6,
+      "risk_or_opportunity": "observation",
+      "signal_class": "raw_disaster_signal",
+      "source": "GDACS All Events Last 24h",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "The Drought notification level is Green.",
+      "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
+      "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "watchgraph_reasons": [
+        "wildfire_heat_drought: drought"
+      ]
+    },
+    {
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "562fb88475a96fbfdb5f",
       "market_context": [],
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "published_at": "2026-06-18T23:26:50+00:00",
+      "published_at": "2026-06-19T06:26:45+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "relevance_score": 5,
@@ -406,21 +581,21 @@
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
-      "title": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2118337.html",
+      "summary": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+      "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118393.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "d3f5427b7b60c2c29e98",
+      "fetched_at": "2026-06-19T09:20:55+00:00",
+      "id": "411ccbfe4953a43f46ae",
       "market_context": [],
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "published_at": "2026-06-18T22:48:32+00:00",
+      "published_at": "2026-06-19T05:03:38+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "relevance_score": 5,
@@ -428,39 +603,17 @@
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "科学誌「Nature」が6月16日に報じたところによると、現在、IT業界の富裕層や起業家たちの間で、有効性が証明されていない薬やサプリメントを使って自らの体を改造し、寿命を延ばそうとする「バイオハッキング」が過熱しているという。 例えば2019年、IT起業家のブライアン・ジョンソン氏は寿命を延ばすため、通常は臓器...",
-      "title": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news028.html",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T07:38:12+00:00",
-      "id": "42ce6cfde0d0307067fd",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-18T21:07:11+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "TL;DR プロダクトの構成要素が多数の Git リポジトリに分かれているが、モノリポ化するのは大変。でもコーディングエージェントにはモノリポのほうが文脈与えやすくて、どうしよう。そんなあなたに virtual monorepo パターンと実際の使い方を指南します。 Claude Code をはじめとするコーディングエージェントを一切使...",
-      "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
-      "url": "https://ymmt.hatenablog.com/entry/2026/06/18/230120",
+      "summary": "ダイソンから初めてのポータブルハンディファン「Dyson HushJet Mini Coolファン」が登場した。一目で従来のハンディファンとは違うと思わせる羽根のないスリムな外観が特徴だ。",
+      "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T07:39:37+00:00",
+  "generated_at": "2026-06-19T09:22:22+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T07:39:38Z",
+    "generated_at": "2026-06-19T09:22:22Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -489,190 +642,320 @@
     "high": [],
     "medium": [
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "8d4d98664c96854e4344",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "ae828d46cdc8793ed5ef",
         "market_context": [
-          "LMT",
-          "RTX",
-          "NOC",
-          "GD",
-          "RHM.DE",
-          "BA",
-          "SPY",
-          "QQQ",
-          "DAX",
-          "EWU",
-          "INDA",
-          "EWJ",
-          "EWY",
-          "EWA",
-          "EWC",
-          "EWZ"
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "published_at": "2026-06-19T05:40:38+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "relevance_score": 16,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "作成した手順を使うときは、新しいスレッドでCodexに該当手順の利用を指示する。アップロードするファイルや対象の日付範囲など、その回ごとに異なる値を渡せば、Codexが手順に沿って作業を進める。 OpenAIは録画時の注意として、短く完結した内容にすること、パスワードなどの機密情報を含めないことを挙げている。録画...",
+        "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "111e7ac5911fe1e8484c",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Japan",
+          "OpenAI"
+        ],
+        "published_at": "2026-06-19T03:59:47+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "OpenAI (+7.5); Japan (+2.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "relevance_score": 16,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "「ChatGPT」は、SNSで拡散した「この写真を復元して」というプロンプトによって、性的で生々しい暴力表現を含む画像を容易に生成していたことが分かった。AIサイバーセキュリティ・調査会社であるMindgardが米国時間6月18日に報告書を公開した。この報告は、AIチャットボットの安全策やコンテンツフィルターをめぐる継続...",
+        "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+        "url": "https://japan.cnet.com/article/35249158/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "a1c4c66f4c00a20458c9",
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
         ],
         "matched_keywords": [
           "AI",
-          "funding",
-          "Singapore",
-          "startup",
-          "Watchgraph:capitals_power_centers",
-          "Webentwicklung"
+          "AI Agents",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:ai_agents_workflow"
         ],
-        "published_at": "2026-06-19T07:04:44+00:00",
+        "published_at": "2026-06-19T00:17:02+00:00",
         "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-        "relevance_reason": "Webentwicklung (+3.0); startup (+2.0); AI (+2.0); funding (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-        "relevance_score": 19,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); debias: removed false GitHub keyword match on non-GitHub source",
+        "relevance_score": 15,
         "risk_or_opportunity": "opportunity",
-        "source": "e27 Asia Startup and Tech Feed",
+        "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan’s JR East Group, marking a significant step in the company’s expansion into the Japanese market. The investment comes alongside a deployment partnership in which fileAI’s governed AI platform will be rolled out across JR East […] The post fileAI secures strategic investment f…",
-        "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
-        "url": "https://e27.co/fileai-funding-20260619/",
+        "summary": "GitHub - dmtrKovalenko/fff: The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS - dmtrKovalenko/fff A file search toolkit for human...",
+        "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
+        "url": "https://kawarimidoll.com/posts/202606182/",
         "watchgraph_modules": [
-          "capitals_power_centers"
+          "ai_agents_workflow"
         ],
         "watchgraph_reasons": [
-          "capitals_power_centers: capital"
+          "ai_agents_workflow: AI agents"
         ]
       }
     ],
     "observe": [
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "6a5f37aa46c70c3c3df1",
-        "market_context": [
-          "CRWD",
-          "PANW",
-          "FTNT",
-          "ZS",
-          "OKTA",
-          "NET",
-          "META",
-          "GOOGL",
-          "MSFT",
-          "RDDT",
-          "SNAP",
-          "S",
-          "PINS"
-        ],
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "f992e5668b627d81aee0",
+        "market_context": [],
         "matched_keywords": [
-          "Security",
-          "Watchgraph:cyber_active_exploitation",
-          "Watchgraph:narrative_social_reputation"
+          "AI",
+          "Security"
         ],
-        "published_at": "2026-06-19T06:47:55+00:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation, narrative_social_reputation (+6.0)",
-        "relevance_score": 13,
-        "risk_or_opportunity": "risk",
+        "published_at": "2026-06-19T08:44:08+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Security (+6.0); AI (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0)",
+        "relevance_score": 12,
+        "risk_or_opportunity": "observation",
         "source": "BleepingComputer Security",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-        "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-        "watchgraph_modules": [
-          "cyber_active_exploitation",
-          "narrative_social_reputation"
-        ],
-        "watchgraph_reasons": [
-          "cyber_active_exploitation: Fortinet",
-          "narrative_social_reputation: data leak"
-        ]
+        "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
+        "title": "NY man charged after harassing college student with AI-generated nudes",
+        "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "d8259e9fe8f69b273510",
-        "market_context": [
-          "LMT",
-          "RTX",
-          "NOC",
-          "GD",
-          "RHM.DE",
-          "BA",
-          "SPY",
-          "QQQ",
-          "DAX",
-          "EWU",
-          "INDA",
-          "EWJ",
-          "EWY",
-          "EWA",
-          "EWC",
-          "EWZ"
-        ],
-        "matched_keywords": [
-          "AI",
-          "Southeast Asia",
-          "startup",
-          "Watchgraph:capitals_power_centers"
-        ],
-        "published_at": "2026-06-19T06:11:11+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); AI (+2.5); recent (+1.0); watchgraph region china_credible_only: Beijing (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-        "relevance_score": 12,
-        "risk_or_opportunity": "observation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Manus’s reported buyback encapsulates a new reality: AI deals are no longer just commercial transactions but geopolitical chess moves with clear implications for Southeast Asia. If Chinese investors repurchase Manus at the roughly US$2 billion price Meta paid, the outcome will reflect Beijing’s intent to retain control over advanced AI assets developed with Chinese capital, […] The post Ecosystem Roundup: Manus buyb…",
-        "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
-        "url": "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/",
-        "watchgraph_modules": [
-          "capitals_power_centers"
-        ],
-        "watchgraph_reasons": [
-          "capitals_power_centers: capital"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "a67a68a21d5dcb4fa94a",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "06f05a128262af449a2d",
         "market_context": [
           "MUV2.DE",
           "SREN.SW",
           "RNR",
           "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
         ],
         "matched_keywords": [
-          "earthquake",
-          "PAGER",
-          "ShakeMap",
-          "Watchgraph:earthquakes_tsunami"
+          "drought",
+          "Watchgraph:wildfire_heat_drought"
         ],
-        "published_at": "2026-06-19T07:33:01.754+00:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "earthquake (+2.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "published_at": "2026-04-30T13:07:47+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "drought (+2.5); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
         "relevance_score": 10,
-        "risk_or_opportunity": "risk",
+        "risk_or_opportunity": "observation",
         "signal_class": "raw_disaster_signal",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source": "GDACS All Events Last 24h",
         "source_bias_class": "disaster",
         "source_type": "rss",
-        "summary": "PAGER - GREEN ShakeMap - VI Time 2026-06-19 06:52:34 UTC 2026-06-19 06:52:34 UTC at epicenter Location 53.249°N 160.651°E Depth 10.00 km (6.21 mi)",
-        "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3",
+        "summary": "The Drought notification level is Green.",
+        "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545",
         "watchgraph_modules": [
-          "earthquakes_tsunami"
+          "wildfire_heat_drought"
         ],
         "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+          "wildfire_heat_drought: drought"
         ]
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "6248b5ea8b6455e7824f",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "8cf598746cd01c7168f8",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "matched_keywords": [
+          "drought",
+          "Watchgraph:wildfire_heat_drought"
+        ],
+        "published_at": "2026-04-30T13:07:44+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "The Drought notification level is Green.",
+        "title": "Drought is on going in United States",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546",
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ],
+        "watchgraph_reasons": [
+          "wildfire_heat_drought: drought"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "8c494a1a86ca0e2d7fbb",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "matched_keywords": [
+          "drought",
+          "Watchgraph:wildfire_heat_drought"
+        ],
+        "published_at": "2026-04-30T13:07:38+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "drought (+2.5); watchgraph region australia: Australia (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "The Drought notification level is Green.",
+        "title": "Drought is on going in Australia",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457",
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ],
+        "watchgraph_reasons": [
+          "wildfire_heat_drought: drought"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "0a9024d694fd767e3fb8",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "matched_keywords": [
+          "drought",
+          "Watchgraph:wildfire_heat_drought"
+        ],
+        "published_at": "2025-10-02T10:20:21+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 8,
+        "risk_or_opportunity": "observation",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "The Drought notification level is Green.",
+        "title": "Drought is on going in Mexico, United States",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093",
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ],
+        "watchgraph_reasons": [
+          "wildfire_heat_drought: drought"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "8a2f47e89b9037a37226",
         "market_context": [],
         "matched_keywords": [
           "Security"
         ],
-        "published_at": "2026-06-19T06:52:00.000+00:00",
+        "published_at": "2026-06-19T08:39:00.000+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "Security (+6.0); recent (+1.0)",
         "relevance_score": 7,
@@ -680,15 +963,15 @@
         "source": "heise Security Alerts",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Splunk warnt, dass bösartige Akteure eine kritische Codeschmuggel-Lücke in Splunk Enterprise angreifen. Updates stehen bereit.",
-        "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
-        "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html",
+        "summary": "Ein Anruf des BSI um 2:30 holte kürzlich Windchill-Kunden aus dem Schlaf. Jetzt wird klar, wieso. Doch welche Rolle spielte das BKA dieses Mal?",
+        "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
+        "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "dac61b2277ac079dd41c",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "dd7f6c6d5ea24263ecae",
         "market_context": [
           "MUV2.DE",
           "SREN.SW",
@@ -705,44 +988,7 @@
           "earthquake",
           "Watchgraph:earthquakes_tsunami"
         ],
-        "published_at": "2026-06-19T07:35:42.040+00:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "relevance_score": 6,
-        "risk_or_opportunity": "risk",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "source_bias_class": "disaster",
-        "source_type": "rss",
-        "summary": "Time 2026-06-19 07:05:45 UTC 2026-06-19 07:05:45 UTC at epicenter Location 52.824°N 161.115°E Depth 10.00 km (6.21 mi)",
-        "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "2fca87e99f78748c0d71",
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "matched_keywords": [
-          "earthquake",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "published_at": "2026-06-19T07:19:38+00:00",
+        "published_at": "2026-06-19T08:49:42+00:00",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
         "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
         "relevance_score": 6,
@@ -751,9 +997,9 @@
         "source": "GDACS All Events Last 24h",
         "source_bias_class": "disaster",
         "source_type": "rss",
-        "summary": "On 6/19/2026 6:52:34 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=V. The earthquake had Magnitude 6.6M, Depth:10km.",
-        "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396",
+        "summary": "On 6/19/2026 7:48:56 AM, an earthquake occurred in Russia potentially affecting Few people affected in 100km. The earthquake had Magnitude 4.5M, Depth:10km.",
+        "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404",
         "watchgraph_modules": [
           "earthquakes_tsunami"
         ],
@@ -762,8 +1008,8 @@
         ]
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "085a7cc41213947164f2",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "7acaa08ab6be35cd4fad",
         "market_context": [
           "MUV2.DE",
           "SREN.SW",
@@ -780,7 +1026,7 @@
           "earthquake",
           "Watchgraph:earthquakes_tsunami"
         ],
-        "published_at": "2026-06-19T07:05:18+00:00",
+        "published_at": "2026-06-19T08:23:38+00:00",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
         "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
         "relevance_score": 6,
@@ -789,9 +1035,9 @@
         "source": "GDACS All Events Last 24h",
         "source_bias_class": "disaster",
         "source_type": "rss",
-        "summary": "On 6/19/2026 6:51:27 AM, an earthquake occurred in Off East Coast Of Kamchatka potentially affecting No people affected in 100km. The earthquake had Magnitude 6.6M, Depth:10km.",
-        "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395",
+        "summary": "On 6/19/2026 8:03:40 AM, an earthquake occurred in Russia potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.2M, Depth:10km.",
+        "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547405",
         "watchgraph_modules": [
           "earthquakes_tsunami"
         ],
@@ -800,8 +1046,8 @@
         ]
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "47f4c5650f3c1f639b40",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "e78a281d6ab43bef97b8",
         "market_context": [
           "MUV2.DE",
           "SREN.SW",
@@ -818,17 +1064,18 @@
           "earthquake",
           "Watchgraph:earthquakes_tsunami"
         ],
-        "published_at": "2026-06-19T07:03:38.171+00:00",
+        "published_at": "2026-06-19T08:14:31+00:00",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
         "relevance_score": 6,
         "risk_or_opportunity": "risk",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
         "source_bias_class": "disaster",
         "source_type": "rss",
-        "summary": "Time 2026-06-19 06:51:27 UTC 2026-06-19 06:51:27 UTC at epicenter Location 52.151°N 160.923°E Depth 10.00 km (6.21 mi)",
-        "title": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26170000",
+        "summary": "On 6/19/2026 7:52:57 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
+        "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 19/06/2026 07:52 UTC, 240 thousand in MMI>=III.",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403",
         "watchgraph_modules": [
           "earthquakes_tsunami"
         ],
@@ -837,14 +1084,95 @@
         ]
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "6a308ee81fa2c253389a",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "8f0226437bd880bfabf1",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "matched_keywords": [
+          "drought",
+          "Watchgraph:wildfire_heat_drought"
+        ],
+        "published_at": "2026-04-30T13:07:35+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "drought (+2.5); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "observation",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "The Drought notification level is Orange.",
+        "title": "Drought is on going in Madagascar",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018431",
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ],
+        "watchgraph_reasons": [
+          "wildfire_heat_drought: drought"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "b5d40d5cef5de855cbfe",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "matched_keywords": [
+          "drought",
+          "Watchgraph:wildfire_heat_drought"
+        ],
+        "published_at": "2026-02-11T09:57:31+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "drought (+2.5); watchgraph modules wildfire_heat_drought (+3.0)",
+        "relevance_score": 6,
+        "risk_or_opportunity": "observation",
+        "signal_class": "raw_disaster_signal",
+        "source": "GDACS All Events Last 24h",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "The Drought notification level is Green.",
+        "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
+        "watchgraph_modules": [
+          "wildfire_heat_drought"
+        ],
+        "watchgraph_reasons": [
+          "wildfire_heat_drought: drought"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "562fb88475a96fbfdb5f",
         "market_context": [],
         "matched_keywords": [
           "Hatena",
           "hotentry"
         ],
-        "published_at": "2026-06-18T23:26:50+00:00",
+        "published_at": "2026-06-19T06:26:45+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
         "relevance_score": 5,
@@ -852,21 +1180,21 @@
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
-        "title": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
-        "url": "https://internet.watch.impress.co.jp/docs/news/2118337.html",
+        "summary": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+        "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118393.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "d3f5427b7b60c2c29e98",
+        "fetched_at": "2026-06-19T09:20:55+00:00",
+        "id": "411ccbfe4953a43f46ae",
         "market_context": [],
         "matched_keywords": [
           "Hatena",
           "hotentry"
         ],
-        "published_at": "2026-06-18T22:48:32+00:00",
+        "published_at": "2026-06-19T05:03:38+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
         "relevance_score": 5,
@@ -874,31 +1202,9 @@
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "科学誌「Nature」が6月16日に報じたところによると、現在、IT業界の富裕層や起業家たちの間で、有効性が証明されていない薬やサプリメントを使って自らの体を改造し、寿命を延ばそうとする「バイオハッキング」が過熱しているという。 例えば2019年、IT起業家のブライアン・ジョンソン氏は寿命を延ばすため、通常は臓器...",
-        "title": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news028.html",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T07:38:12+00:00",
-        "id": "42ce6cfde0d0307067fd",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-18T21:07:11+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "TL;DR プロダクトの構成要素が多数の Git リポジトリに分かれているが、モノリポ化するのは大変。でもコーディングエージェントにはモノリポのほうが文脈与えやすくて、どうしよう。そんなあなたに virtual monorepo パターンと実際の使い方を指南します。 Claude Code をはじめとするコーディングエージェントを一切使...",
-        "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
-        "url": "https://ymmt.hatenablog.com/entry/2026/06/18/230120",
+        "summary": "ダイソンから初めてのポータブルハンディファン「Dyson HushJet Mini Coolファン」が登場した。一目で従来のハンディファンとは違うと思わせる羽根のないスリムな外観が特徴だ。",
+        "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -933,7 +1239,7 @@
   "under_observation": {
     "count": 5,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T07:39:38Z",
+    "generated_at": "2026-06-19T09:22:22Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 1,
     "source": "inbox/manual_notes.md",
@@ -943,22 +1249,22 @@
         "current_feed_signal_count": 10,
         "current_feed_signal_examples": [
           {
-            "score": 13,
-            "source": "BleepingComputer Security",
-            "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
+            "score": 16,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+            "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html"
           },
           {
-            "score": 10,
-            "source": "USGS M4.5+ Earthquakes Past Hour",
-            "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
-            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
+            "score": 16,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+            "url": "https://japan.cnet.com/article/35249158/"
           },
           {
-            "score": 7,
-            "source": "heise Security Alerts",
-            "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
-            "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
+            "score": 15,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
+            "url": "https://kawarimidoll.com/posts/202606182/"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -992,22 +1298,22 @@
         "current_feed_signal_count": 4,
         "current_feed_signal_examples": [
           {
-            "score": 19,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
-            "url": "https://e27.co/fileai-funding-20260619/"
-          },
-          {
-            "score": 13,
-            "source": "BleepingComputer Security",
-            "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
+            "score": 16,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+            "url": "https://japan.cnet.com/article/35249158/"
           },
           {
             "score": 12,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
-            "url": "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/"
+            "source": "BleepingComputer Security",
+            "title": "NY man charged after harassing college student with AI-generated nudes",
+            "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/"
+          },
+          {
+            "score": 10,
+            "source": "GDACS All Events Last 24h",
+            "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
           }
         ],
         "do_not": "APAC nicht als China-Beifang behandeln.",
@@ -1023,19 +1329,25 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
+        "current_feed_signal_count": 8,
         "current_feed_signal_examples": [
           {
-            "score": 13,
+            "score": 12,
             "source": "BleepingComputer Security",
-            "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-            "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
+            "title": "NY man charged after harassing college student with AI-generated nudes",
+            "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/"
           },
           {
-            "score": 7,
-            "source": "heise Security Alerts",
-            "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
-            "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
+            "score": 10,
+            "source": "GDACS All Events Last 24h",
+            "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
+          },
+          {
+            "score": 8,
+            "source": "GDACS All Events Last 24h",
+            "title": "Drought is on going in United States",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546"
           }
         ],
         "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
@@ -1051,25 +1363,25 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 6,
+        "current_feed_signal_count": 9,
         "current_feed_signal_examples": [
           {
-            "score": 12,
-            "source": "e27 Asia Startup and Tech Feed",
-            "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
-            "url": "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/"
-          },
-          {
             "score": 10,
-            "source": "USGS M4.5+ Earthquakes Past Hour",
-            "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
-            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
+            "source": "GDACS All Events Last 24h",
+            "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
           },
           {
-            "score": 6,
-            "source": "USGS M4.5+ Earthquakes Past Hour",
-            "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
-            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8"
+            "score": 8,
+            "source": "GDACS All Events Last 24h",
+            "title": "Drought is on going in United States",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546"
+          },
+          {
+            "score": 8,
+            "source": "GDACS All Events Last 24h",
+            "title": "Drought is on going in Australia",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457"
           }
         ],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",

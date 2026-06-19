@@ -7,10 +7,10 @@
     "social": 1
   },
   "counts": {
-    "findings": 12,
+    "findings": 16,
     "high": 0,
-    "medium": 1,
-    "observe": 11,
+    "medium": 3,
+    "observe": 13,
     "source_errors": 4
   },
   "coverage_confidence": "low",
@@ -19,7 +19,7 @@
     "security": 1,
     "social": 1
   },
-  "generated_at": "2026-06-19T07:39:38Z",
+  "generated_at": "2026-06-19T09:22:22Z",
   "principles": [
     "Scoring is not truth.",
     "Surviving sources are not a representative world picture.",

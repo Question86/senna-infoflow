@@ -1,94 +1,117 @@
 {
-  "generated_at": "2026-06-19T07:39:37+00:00",
-  "today_file_total": 159,
+  "generated_at": "2026-06-19T09:22:22+00:00",
+  "today_file_total": 175,
   "current_clusters": [
     {
-      "key": "title:fileai-secures-strategic-investment-east-group-venture-arm",
-      "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
+      "key": "title:codex-record-replay",
+      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/fileai-funding-20260619/"
+        "https://www.itmedia.co.jp/news/articles/2606/19/news102.html"
       ],
       "finding_count": 1,
-      "max_score": 19,
+      "max_score": 16,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 24.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:www.bleepingcomputer.com",
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "sources": [
-        "BleepingComputer Security"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.7,
+      "network_score": 21.1,
       "hot": false,
       "watchgraph_modules": [
-        "cyber_active_exploitation",
-        "narrative_social_reputation"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:ecosystem-roundup-manus-buyback-geopolitical-wake-call-sea",
-      "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
+        "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 6.6 - 136 km e of petropavlovsk-kamchatsky, russia:6.6",
-      "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
+      "key": "domain:japan.cnet.com",
+      "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.cnet.com/article/35249158/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:kawarimidoll.com",
+      "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://kawarimidoll.com/posts/202606182/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "earthquake:russia 19:5.0",
+      "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
+      "sources": [
+        "GDACS All Events Last 24h"
       ],
       "source_classes": [
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547405",
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403"
+      ],
+      "finding_count": 2,
+      "max_score": 6,
+      "credibility_total": 2.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 17.4,
+      "hot": true,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "earthquake:indonesia:unknown",
+      "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -99,13 +122,232 @@
       "network_score": 15.7,
       "hot": false,
       "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "sources": [
+        "BleepingComputer Security"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:united states:unknown",
+      "title": "Drought is on going in United States",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:australia:unknown",
+      "title": "Drought is on going in Australia",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:mexico:unknown",
+      "title": "Drought is on going in Mexico, United States",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:russia 19:4.0",
+      "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "earthquake:madagascar:unknown",
+      "title": "Drought is on going in Madagascar",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018431"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:austria:unknown",
+      "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
+      "sources": [
+        "GDACS All Events Last 24h"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:microsoft-defender-rogueplanet-microsoft",
+      "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://forest.watch.impress.co.jp/docs/news/2118393.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
+      "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2606/19/news098.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:www.heise.de",
-      "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
+      "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
       "sources": [
         "heise Security Alerts"
       ],
@@ -113,184 +355,15 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
+        "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html"
       ],
       "finding_count": 1,
       "max_score": 7,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9",
-      "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:russia 19:6.0",
-      "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:off east coast of kamchatka 19:6.0",
-      "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 6.6 - 185 km se of petropavlovsk-kamchatsky, russia:6.6",
-      "title": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26170000"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "url:https://internet.watch.impress.co.jp/docs/news/2118337.html",
-      "title": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://internet.watch.impress.co.jp/docs/news/2118337.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:nature",
-      "title": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/19/news028.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:ymmt.hatenablog.com",
-      "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ymmt.hatenablog.com/entry/2026/06/18/230120"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

@@ -5,7 +5,7 @@
     "warnings": 1
   },
   "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-19T07:39:38Z",
+  "generated_at": "2026-06-19T09:22:22Z",
   "issues": [
     {
       "code": "source_errors_present",

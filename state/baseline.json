@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T07:39:37+00:00",
+  "generated_at": "2026-06-19T09:22:22+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -109,8 +109,8 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "updated_at": "2026-06-19T07:39:37+00:00",
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "updated_at": "2026-06-19T09:22:22+00:00",
       "network_scores": [
         16.1,
         28.1,
@@ -118,12 +118,13 @@
         17.1,
         14.1,
         17.1,
-        18.7
+        18.7,
+        14.1
       ],
-      "rolling_average": 25.0,
+      "rolling_average": 23.64,
       "rolling_peak": 63.8,
-      "last_score": 18.7,
-      "z_hint": -6.3
+      "last_score": 14.1,
+      "z_hint": -9.54
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -3682,15 +3683,16 @@
       "z_hint": 0.0
     },
     "domain:www.heise.de": {
-      "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
-      "updated_at": "2026-06-19T07:39:37+00:00",
+      "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
+      "updated_at": "2026-06-19T09:22:22+00:00",
       "network_scores": [
-        12.1
+        12.1,
+        9.1
       ],
-      "rolling_average": 12.1,
+      "rolling_average": 10.6,
       "rolling_peak": 12.1,
-      "last_score": 12.1,
-      "z_hint": 0.0
+      "last_score": 9.1,
+      "z_hint": -1.5
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -3761,6 +3763,149 @@
     "domain:ymmt.hatenablog.com": {
       "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
       "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:codex-record-replay": {
+      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "domain:japan.cnet.com": {
+      "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "domain:kawarimidoll.com": {
+      "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        20.1
+      ],
+      "rolling_average": 20.1,
+      "rolling_peak": 20.1,
+      "last_score": 20.1,
+      "z_hint": 0.0
+    },
+    "earthquake:russia 19:5.0": {
+      "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        17.4
+      ],
+      "rolling_average": 17.4,
+      "rolling_peak": 17.4,
+      "last_score": 17.4,
+      "z_hint": 0.0
+    },
+    "earthquake:indonesia:unknown": {
+      "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "earthquake:united states:unknown": {
+      "title": "Drought is on going in United States",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        13.7
+      ],
+      "rolling_average": 13.7,
+      "rolling_peak": 13.7,
+      "last_score": 13.7,
+      "z_hint": 0.0
+    },
+    "earthquake:australia:unknown": {
+      "title": "Drought is on going in Australia",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        13.7
+      ],
+      "rolling_average": 13.7,
+      "rolling_peak": 13.7,
+      "last_score": 13.7,
+      "z_hint": 0.0
+    },
+    "earthquake:mexico:unknown": {
+      "title": "Drought is on going in Mexico, United States",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        13.7
+      ],
+      "rolling_average": 13.7,
+      "rolling_peak": 13.7,
+      "last_score": 13.7,
+      "z_hint": 0.0
+    },
+    "earthquake:russia 19:4.0": {
+      "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "earthquake:madagascar:unknown": {
+      "title": "Drought is on going in Madagascar",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "earthquake:austria:unknown": {
+      "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "title:microsoft-defender-rogueplanet-microsoft": {
+      "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+      "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.itmedia.co.jp/news/articles/2606/19/news098.html": {
+      "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
+      "updated_at": "2026-06-19T09:22:22+00:00",
       "network_scores": [
         10.1
       ],
