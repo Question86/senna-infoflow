@@ -16,7 +16,7 @@
     },
     "00c8bb4c800818cf66d3": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
       "url": "https://blogs.jpcert.or.jp/en/2026/02/multiple-threat-actors-rapidly-exploit-react2shell-a-case-study-of-active-compromise.html"
@@ -37,7 +37,7 @@
     },
     "018a6b161bd1368860ca": {
       "first_seen_at": "2026-06-19T02:06:59+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/"
@@ -58,14 +58,14 @@
     },
     "01bc99c036a3e5408078": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-19T13:47:12+00:00",
+      "last_seen_at": "2026-06-19T14:51:02+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260018.html"
     },
     "01cf77493db259eab643": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia"
@@ -93,7 +93,7 @@
     },
     "030e898492fe54b2ba12": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
@@ -107,7 +107,7 @@
     },
     "03a847087d64eb5eda72": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
       "url": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine"
@@ -121,14 +121,14 @@
     },
     "03c05d308a77dd189b22": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
       "url": "https://portswigger.net/research/the-fragile-lock"
     },
     "03dbd462da21f5d5a2b1": {
       "first_seen_at": "2026-06-17T19:49:43+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
       "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
@@ -149,7 +149,7 @@
     },
     "05289f952601b76360c6": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation RSLinx",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02"
@@ -191,7 +191,7 @@
     },
     "06f05a128262af449a2d": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
@@ -212,7 +212,7 @@
     },
     "07f38f361ac45d18b688": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU95564871/"
@@ -254,14 +254,14 @@
     },
     "09341bcddfe112e11bde": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "Give GitHub Copilot CLI real code intelligence with language servers",
       "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/"
     },
     "093990adf6411da2bb14": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "IEI 威強電工業電腦｜iVEC-IEI Virtualization Edge Computer - 存在4個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10969-4c4e2-1.html"
@@ -289,7 +289,7 @@
     },
     "0a50512323e6af4b74e9": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "What are git worktrees, and why should I use them?",
       "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/"
@@ -303,14 +303,14 @@
     },
     "0a68815c2a845d60ce21": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "The Great AI Divide: Navigating U.S. and Chinese dominance",
       "url": "https://restofworld.org/2026/ai-divide-america-china-world/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     "0a6a423733ea37262ee2": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.140、Vol.141を更新しました",
       "url": "https://www.digital.go.jp/policies/mynumber/private-business/info"
@@ -324,21 +324,21 @@
     },
     "0a9024d694fd767e3fb8": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Drought is on going in Mexico, United States",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093"
     },
     "0a90975f15401e94a0a5": {
       "first_seen_at": "2026-06-19T01:56:06+00:00",
-      "last_seen_at": "2026-06-19T13:47:00+00:00",
+      "last_seen_at": "2026-06-19T14:50:50+00:00",
       "source": "Google Trends Philippines Hot Feed",
-      "title": "megan fox",
+      "title": "twitch",
       "url": "https://trends.google.com/trending/rss?geo=PH"
     },
     "0b37276fa511495380e4": {
       "first_seen_at": "2026-06-19T12:30:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "Momentum without maturity: Southeast Asia’s AI reality",
       "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/"
@@ -352,7 +352,7 @@
     },
     "0b61657fb98a90aba54c": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "Can open-source beat OpenAI?",
       "url": "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
@@ -366,7 +366,7 @@
     },
     "0bd39739580f2b1df56a": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Power-up: monitor.py scoring cleanup and workflow hardening",
       "url": "https://github.com/Question86/senna-infoflow/issues/1"
@@ -380,7 +380,7 @@
     },
     "0c1a91eae8fcd58f274d": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "AVer PTC cameras",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01"
@@ -443,7 +443,7 @@
     },
     "0d47adc47b52efa2c682": {
       "first_seen_at": "2026-06-19T11:00:32+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
       "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html"
@@ -457,14 +457,14 @@
     },
     "0d8204a589eafc93f04e": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "The New Security Risks of the Agentic Development Lifecycle",
       "url": "https://snyk.io/blog/agentic-development-lifecycle/"
     },
     "0dbd6a35caf3a13316de": {
       "first_seen_at": "2026-06-18T17:28:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Copilot-authored pull requests now included in author searches",
       "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches"
@@ -478,7 +478,7 @@
     },
     "0e1edcdad57222fc71a7": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "JSAC2026 -Workshop/Lightning Talk Session/Panel Discussion-",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/jsac2026-ws-lt-pd.html"
@@ -492,21 +492,21 @@
     },
     "0e509be207b2cd064227": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-19T13:47:12+00:00",
+      "last_seen_at": "2026-06-19T14:51:02+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260017.html"
     },
     "0ed60b87d9da00adb877": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "PRC-linked influence operations are targeting AI debates in the US",
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
     },
     "0f19de086470f9a3cf56": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404"
@@ -520,14 +520,14 @@
     },
     "0f44bd04ba536cef02db": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "How we made GitHub Copilot CLI more selective about delegation",
       "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/"
     },
     "100c69b06d9559e8e171": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "makeplane/plane",
       "url": "https://github.com/makeplane/plane"
@@ -562,14 +562,14 @@
     },
     "1104ceb7a6e85d19e8ea": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "Protestware by open source maintainer to hinder agentic coding: The jqwik 1.10.0 Prompt Injection",
       "url": "https://snyk.io/blog/protestware-open-source-maintainer-qwik-1-10-0-prompt-injection/"
     },
     "111e7ac5911fe1e8484c": {
       "first_seen_at": "2026-06-19T09:20:57+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
       "url": "https://japan.cnet.com/article/35249158/"
@@ -583,21 +583,21 @@
     },
     "11949d77027bd607eedf": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva"
     },
     "11fad926be469e380fa0": {
       "first_seen_at": "2026-06-19T13:47:08+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
       "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     "1243669d2468d99c51a2": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
@@ -625,7 +625,7 @@
     },
     "13199b0412058df99b77": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "KrCERT/CC發布「Operation SearchStrike」報告：駭客以SEO毒化Github散布惡意軟體",
       "url": "https://www.twcert.org.tw/tw/cp-104-10887-c63c0-1.html"
@@ -653,7 +653,7 @@
     },
     "16aa77aba8b8ef88b360": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
@@ -681,7 +681,7 @@
     },
     "16db028a38da40c52c2a": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
       "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/"
@@ -716,7 +716,7 @@
     },
     "17e61e0c6cefc29837e9": {
       "first_seen_at": "2026-06-19T12:31:20+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/"
@@ -730,14 +730,14 @@
     },
     "185af6f36226dcc61aaa": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "デジタル関係制度改革検討会（第10回）（2026年4月23日開催）の議事録を掲載しました",
       "url": "https://www.digital.go.jp/councils/digital-system-reform/9474fdac-7640-4f63-9111-f1dafa426d1e"
     },
     "18bd15c93b3f84130071": {
       "first_seen_at": "2026-06-18T18:22:35+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
@@ -828,7 +828,7 @@
     },
     "1dd7246a9149123d480b": {
       "first_seen_at": "2026-06-19T07:39:18+00:00",
-      "last_seen_at": "2026-06-19T13:47:59+00:00",
+      "last_seen_at": "2026-06-19T14:51:52+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.6 - 133 km ESE of Petropavlovsk-Kamchatsky, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
@@ -877,14 +877,14 @@
     },
     "206e468023531447049a": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Schneider Electric EasyLogic T150 and Saitel DP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04"
     },
     "2097c8cb132ad53dfa30": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
       "url": "https://jvn.jp/jp/JVN20769211/"
@@ -905,7 +905,7 @@
     },
     "21fae2db024a2ad0ddc5": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Network Hub roadmap: cadence, momentum, correlation, alerts, AXI0M intelligence",
       "url": "https://github.com/Question86/senna-infoflow/issues/4"
@@ -919,7 +919,7 @@
     },
     "2246c42569e51fd9deaa": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode"
@@ -940,14 +940,14 @@
     },
     "2319bd027a3c45a856e7": {
       "first_seen_at": "2026-06-17T18:47:16+00:00",
-      "last_seen_at": "2026-06-19T13:48:13+00:00",
+      "last_seen_at": "2026-06-19T14:52:06+00:00",
       "source": "NOAA NHC Eastern Pacific Tropical Cyclones",
       "title": "There are no tropical cyclones at this time.",
       "url": "https://www.nhc.noaa.gov/"
     },
     "2427db065adf9dc4fcc3": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
       "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
@@ -975,7 +975,7 @@
     },
     "257bbe0c34388b5c3f13": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Cybergang ShinyHunters attackiert Oracle-PeopleSoft-Schwachstelle",
       "url": "https://www.heise.de/news/Cybergang-ShinyHunters-attackiert-Oracle-PeopleSoft-Schwachstelle-11331861.html"
@@ -996,14 +996,14 @@
     },
     "25aee84d365532e4bed7": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "So You Have an AI Security Budget. Now what?",
       "url": "https://snyk.io/blog/ai-security-budget/"
     },
     "25c0d61cf86560c16dbf": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
       "url": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling"
@@ -1017,21 +1017,21 @@
     },
     "2695c118eea82846a214": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network"
     },
     "26a1773e35c2c5576a0a": {
       "first_seen_at": "2026-06-19T10:59:37+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
       "url": "https://shueisha.online/articles/-/257888"
     },
     "27048a6bc61c051219d7": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "ShapedPlugin update flow hacked to infect WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/"
@@ -1045,7 +1045,7 @@
     },
     "273c66c88e57b426d64a": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T13:48:08+00:00",
+      "last_seen_at": "2026-06-19T14:52:01+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 6.7M, Depth:10km) in Indonesia 16/06/2026 03:27 UTC, 260 thousand (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546617"
@@ -1143,7 +1143,7 @@
     },
     "29dc9f2c25139332b4a8": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "Type Level Security: The future of secure AI code generation?",
       "url": "https://snyk.io/blog/type-level-security/"
@@ -1157,7 +1157,7 @@
     },
     "2a5a9cdb4f50ed469ba1": {
       "first_seen_at": "2026-06-19T02:30:49+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "東急「車内コンセントでモバイルバッテリー充電しないで」 注意喚起を更新",
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news080.html"
@@ -1171,7 +1171,7 @@
     },
     "2b10ff01316dee959093": {
       "first_seen_at": "2026-06-18T22:34:09+00:00",
-      "last_seen_at": "2026-06-19T07:39:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
@@ -1199,7 +1199,7 @@
     },
     "2bc8bf80c4e1e6fc166a": {
       "first_seen_at": "2026-06-18T22:34:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
@@ -1213,14 +1213,14 @@
     },
     "2be541bac085e71222f8": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "Chile turned to China for an undersea cable. The U.S. said no",
       "url": "https://restofworld.org/2026/chile-china-america-google-cable/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     "2bed540cefa9ec37b870": {
       "first_seen_at": "2026-06-17T12:44:55+00:00",
-      "last_seen_at": "2026-06-19T13:47:31+00:00",
+      "last_seen_at": "2026-06-19T14:51:22+00:00",
       "source": "AXI0M Blog",
       "title": "Blog | AXIOM",
       "url": "https://axi0m.de/blog.html"
@@ -1262,7 +1262,7 @@
     },
     "2cbb531ce405efb60e9d": {
       "first_seen_at": "2026-06-19T12:30:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
       "url": "https://e27.co/bioark-feature-20250514/"
@@ -1276,21 +1276,21 @@
     },
     "2e85c7fc55ea39300cd2": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T13:48:08+00:00",
+      "last_seen_at": "2026-06-19T14:52:01+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 6.3M, Depth:10km) in China 16/06/2026 09:06 UTC, 9 thousand (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546719"
     },
     "2ea5056bca03cec2c312": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
       "url": "https://jvn.jp/vu/JVNVU92116935/"
     },
     "2ea5c21579b41af5c574": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06"
@@ -1339,7 +1339,7 @@
     },
     "2fddc9671df4e8590f36": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
       "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes"
@@ -1360,9 +1360,9 @@
     },
     "30220e89e43d8c8fb66b": {
       "first_seen_at": "2026-06-19T01:56:01+00:00",
-      "last_seen_at": "2026-06-19T13:46:56+00:00",
+      "last_seen_at": "2026-06-19T14:50:45+00:00",
       "source": "Google Trends Taiwan Hot Feed",
-      "title": "余德龍",
+      "title": "巴西海地",
       "url": "https://trends.google.com/trending/rss?geo=TW"
     },
     "3029d8de0268ab6fc190": {
@@ -1409,7 +1409,7 @@
     },
     "32b92063638f5c8e98ca": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
       "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8"
@@ -1437,7 +1437,7 @@
     },
     "347c3b8e9d717eb228c3": {
       "first_seen_at": "2026-06-17T18:46:44+00:00",
-      "last_seen_at": "2026-06-19T13:47:33+00:00",
+      "last_seen_at": "2026-06-19T14:51:25+00:00",
       "source": "AXI0M Website",
       "title": "AXIOM | Verifiable AI Process Infrastructure",
       "url": "https://axi0m.de/"
@@ -1465,7 +1465,7 @@
     },
     "352d7741281424bfce39": {
       "first_seen_at": "2026-06-18T16:20:57+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Safer pull_request_target defaults for GitHub Actions checkout",
       "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout"
@@ -1493,7 +1493,7 @@
     },
     "35c83bed700b53972fc1": {
       "first_seen_at": "2026-06-18T22:33:56+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
       "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
@@ -1507,7 +1507,7 @@
     },
     "362ccf654099f2f4ddbc": {
       "first_seen_at": "2026-06-17T18:47:15+00:00",
-      "last_seen_at": "2026-06-19T13:48:11+00:00",
+      "last_seen_at": "2026-06-19T14:52:04+00:00",
       "source": "NOAA NHC Atlantic Tropical Cyclones",
       "title": "Atlantic Tropical Weather Outlook",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc"
@@ -1535,21 +1535,21 @@
     },
     "3751f22e27b07a7c8ef8": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU98100934/"
     },
     "3757724d359a32d9427a": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Repeater Strike: manual testing, amplified",
       "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified"
     },
     "37626d5f7017be644551": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T13:47:37+00:00",
+      "last_seen_at": "2026-06-19T14:51:29+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Watchgraph expansion: global macro/microtrend monitor structure",
       "url": "https://github.com/Question86/senna-infoflow/issues/2"
@@ -1563,14 +1563,14 @@
     },
     "38a0593735f06ff117a5": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "通航國際｜E-LAN 網路型電話錄音系統 - SQL Injection",
       "url": "https://www.twcert.org.tw/tw/cp-132-10911-e6abb-1.html"
     },
     "38d75bb6bd0d49b137da": {
       "first_seen_at": "2026-06-19T05:48:49+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
       "url": "https://forest.watch.impress.co.jp/docs/news/2118390.html"
@@ -1605,7 +1605,7 @@
     },
     "3a07995cb481b42ca0ed": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05"
@@ -1626,7 +1626,7 @@
     },
     "3add54470456f8409e46": {
       "first_seen_at": "2026-06-18T22:33:56+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "MAI-Code-1-Flash available on more Copilot surfaces",
       "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
@@ -1640,14 +1640,14 @@
     },
     "3bfe60c1345cc2daaacb": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies and Python version in README",
       "url": "https://github.com/axi0m/nathair/pull/493"
     },
     "3c0853eaba7619d4c30a": {
       "first_seen_at": "2026-06-17T18:47:17+00:00",
-      "last_seen_at": "2026-06-19T13:48:14+00:00",
+      "last_seen_at": "2026-06-19T14:52:07+00:00",
       "source": "NOAA NHC Central Pacific Tropical Cyclones",
       "title": "Central North Pacific Tropical Weather Outlook",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=cpac"
@@ -1682,14 +1682,14 @@
     },
     "3ee7da14f448fba870f2": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Drought is on going in Mexico, United States",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093"
     },
     "3eece550177ddb29dea0": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "What the SpaceX IPO reveals about Gulf money in AI",
       "url": "https://restofworld.org/2026/spacex-ipo-gulf-money-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
@@ -1703,7 +1703,7 @@
     },
     "3f6fc7ec463846157cbc": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "モビリティ：令和7年度「「交通商社機能」の取組を支援する事例集」を掲載しました",
       "url": "https://www.digital.go.jp/policies/mobility"
@@ -1724,7 +1724,7 @@
     },
     "4096bc3832cfcb283637": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update CHANGELOG.md and version to match recent enhancements",
       "url": "https://github.com/axi0m/ratatoskr/pull/48"
@@ -1836,7 +1836,7 @@
     },
     "43d613b3683749f0c5f6": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh"
@@ -1850,7 +1850,7 @@
     },
     "43fb5c158e0855facb7b": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-19T13:47:12+00:00",
+      "last_seen_at": "2026-06-19T14:51:02+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260011.html"
@@ -1927,7 +1927,7 @@
     },
     "4867136ab2b4a24b0865": {
       "first_seen_at": "2026-06-19T02:07:21+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93024090/"
@@ -1948,7 +1948,7 @@
     },
     "48c6a4ed3f60d36fb5ce": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Nvidias KI-Agenten-Plattform NeMo ist über drei Sicherheitslücken angreifbar",
       "url": "https://www.heise.de/news/Nvidias-KI-Agenten-Plattform-NeMo-ist-ueber-drei-Sicherheitsluecken-angreifbar-11335058.html"
@@ -1997,7 +1997,7 @@
     },
     "4a61fe58674e889ea9e2": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "dotnet/aspnetcore",
       "url": "https://github.com/dotnet/aspnetcore"
@@ -2011,7 +2011,7 @@
     },
     "4ad86ff038d4f207f32d": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Top 10 web hacking techniques of 2025",
       "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025"
@@ -2081,7 +2081,7 @@
     },
     "4d8bf356d936f572cbef": {
       "first_seen_at": "2026-06-17T18:47:05+00:00",
-      "last_seen_at": "2026-06-19T13:47:59+00:00",
+      "last_seen_at": "2026-06-19T14:51:52+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.7 - 43 km ESE of Palu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st95"
@@ -2179,28 +2179,28 @@
     },
     "5308a176b141809acd58": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332"
     },
     "532511ffdd288b041f15": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog"
     },
     "5385a1b2fc424b67616e": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation CompactLogix",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-04"
     },
     "538956db0ca8ccd57191": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
       "url": "https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html"
@@ -2214,7 +2214,7 @@
     },
     "541fb82b00c202ed0367": {
       "first_seen_at": "2026-06-18T22:34:12+00:00",
-      "last_seen_at": "2026-06-19T07:39:24+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
@@ -2242,7 +2242,7 @@
     },
     "5549cf7960eaeb2ecec9": {
       "first_seen_at": "2026-06-19T01:56:13+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "Give physical AI a soul: Why your voice AI still feels like a bot",
       "url": "https://e27.co/give-physical-ai-a-soul-why-your-voice-ai-still-feels-like-a-bot-20260609/"
@@ -2340,7 +2340,7 @@
     },
     "58beb51798d679cc0660": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies",
       "url": "https://github.com/axi0m/ratatoskr/pull/66"
@@ -2361,23 +2361,23 @@
     },
     "5a0e2a965ce484d34d64": {
       "first_seen_at": "2026-06-18T20:05:01+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Copilot code review: AGENTS.md support and UI improvements",
       "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements"
     },
     "5a138df68c72e9f931de": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers"
     },
     "5a749a73f190cb543b11": {
       "first_seen_at": "2026-06-19T01:56:08+00:00",
-      "last_seen_at": "2026-06-19T13:47:02+00:00",
+      "last_seen_at": "2026-06-19T14:50:52+00:00",
       "source": "Google Trends Vietnam Hot Feed",
-      "title": "thổ nhĩ kỳ vs paraguay",
+      "title": "cổng thông tin tuyển sinh đầu cấp",
       "url": "https://trends.google.com/trending/rss?geo=VN"
     },
     "5a947f1bf86013c03caa": {
@@ -2389,14 +2389,14 @@
     },
     "5b54b9d3d51dd0db7f37": {
       "first_seen_at": "2026-06-18T17:28:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Repository switcher generally available in global navigation",
       "url": "https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation"
     },
     "5b63241c9dd710572ef2": {
       "first_seen_at": "2026-06-17T18:47:16+00:00",
-      "last_seen_at": "2026-06-19T13:48:13+00:00",
+      "last_seen_at": "2026-06-19T14:52:06+00:00",
       "source": "NOAA NHC Eastern Pacific Tropical Cyclones",
       "title": "Eastern North Pacific Tropical Weather Outlook",
       "url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac"
@@ -2410,7 +2410,7 @@
     },
     "5bd7d0da5b1d1f6b7adb": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "When a Government Pulls an AI Model: What the Fable 5 and Mythos 5 Suspension Means for Security Teams",
       "url": "https://snyk.io/blog/fable-mythos-suspension-security-takeaways/"
@@ -2424,7 +2424,7 @@
     },
     "5c65c09192af449f0725": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-19T13:47:12+00:00",
+      "last_seen_at": "2026-06-19T14:51:02+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260012.html"
@@ -2445,7 +2445,7 @@
     },
     "5d34062c912a33e21ee3": {
       "first_seen_at": "2026-06-19T13:47:51+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
@@ -2473,14 +2473,14 @@
     },
     "5e39b2a49ef1e27ee34f": {
       "first_seen_at": "2026-06-17T18:47:17+00:00",
-      "last_seen_at": "2026-06-19T13:48:14+00:00",
+      "last_seen_at": "2026-06-19T14:52:07+00:00",
       "source": "NOAA NHC Central Pacific Tropical Cyclones",
       "title": "There are no tropical cyclones at this time.",
       "url": "https://www.nhc.noaa.gov/"
     },
     "5eaa57e9823820bafa9c": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Introducing HTTP Anomaly Rank",
       "url": "https://portswigger.net/research/introducing-http-anomaly-rank"
@@ -2494,14 +2494,14 @@
     },
     "5f3fb3e80e794fdf9164": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
       "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/"
     },
     "5f435306962f84f90d78": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "YAMAGoya: A Real-time Client Monitoring Tool Using Sigma and YARA Rules",
       "url": "https://blogs.jpcert.or.jp/en/2025/11/YAMAGoya.html"
@@ -2515,14 +2515,14 @@
     },
     "5f9effc8e989677d0a2e": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Device Posture Integration with TailScale",
       "url": "https://github.com/fleetdm/fleet/issues/29780"
     },
     "60ef3dff607ad6980955": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "The Government Just Banned an AI Model. An Engineer's Perspective.",
       "url": "https://snyk.io/blog/government-ban-ai-model-engineer-perspective/"
@@ -2557,7 +2557,7 @@
     },
     "6248b5ea8b6455e7824f": {
       "first_seen_at": "2026-06-19T07:39:08+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
       "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
@@ -2585,7 +2585,7 @@
     },
     "63ca956e20d4bcaffb16": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "phpBB: Kritische Sicherheitslücke ermöglicht Kompromittierung",
       "url": "https://www.heise.de/news/phpBB-Kritische-Sicherheitsluecke-ermoeglicht-Kompromittierung-11332689.html"
@@ -2648,7 +2648,7 @@
     },
     "671a3656c0d2466767ea": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Root-Attacken auf Cisco Catalyst SD-WAN Manager und cPanel-Plug-in LiteSpeed",
       "url": "https://www.heise.de/news/Root-Attacken-auf-Cisco-Catalyst-SD-WAN-Manager-und-cPanel-Plug-in-LiteSpeed-11333457.html"
@@ -2683,14 +2683,14 @@
     },
     "68d7df606e115bb458a0": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add functions for checking API tokens",
       "url": "https://github.com/axi0m/ratatoskr/pull/62"
     },
     "68e8d770c5b6726d121f": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add CodeQL workflow for GitHub code scanning",
       "url": "https://github.com/axi0m/nathair/pull/494"
@@ -2704,7 +2704,7 @@
     },
     "697f90d26a7608cf627f": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
       "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/"
@@ -2718,7 +2718,7 @@
     },
     "69b3525061736b3e822e": {
       "first_seen_at": "2026-06-17T18:46:50+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction"
@@ -2746,7 +2746,7 @@
     },
     "6a5f37aa46c70c3c3df1": {
       "first_seen_at": "2026-06-19T07:39:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
@@ -2781,7 +2781,7 @@
     },
     "6bececdfec000c00a54f": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "📜 Add logging",
       "url": "https://github.com/axi0m/ratatoskr/issues/13"
@@ -2802,7 +2802,7 @@
     },
     "6c49ade7eecee8895692": {
       "first_seen_at": "2026-06-17T19:41:06+00:00",
-      "last_seen_at": "2026-06-19T13:47:59+00:00",
+      "last_seen_at": "2026-06-19T14:51:52+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.6 - central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti"
@@ -2823,7 +2823,7 @@
     },
     "6da64fe549065a895f38": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "TSUBAME Report Overflow (Oct-Dec 2025)",
       "url": "https://blogs.jpcert.or.jp/en/2026/05/tsubame_overflow_2025-10-12.html"
@@ -2879,7 +2879,7 @@
     },
     "6f9c9a61d04a05c7e337": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Ubiquiti UniFi OS: Kritische Schadcode-Lücken und mehr",
       "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Kritische-Luecken-erlauben-Codeschmuggel-11329967.html"
@@ -2928,7 +2928,7 @@
     },
     "70511d065d04c422240d": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-19T13:47:12+00:00",
+      "last_seen_at": "2026-06-19T14:51:02+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260010.html"
@@ -2949,7 +2949,7 @@
     },
     "7185a37416e171ad7b9d": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T13:47:37+00:00",
+      "last_seen_at": "2026-06-19T14:51:29+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Sponsor Launch: fund Keeper-Clean roadmap",
       "url": "https://github.com/Question86/keeper-clean/issues/1"
@@ -2963,7 +2963,7 @@
     },
     "72022ed22225f911a0b7": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "新型惡意軟體 KadNap 鎖定家用路由器",
       "url": "https://www.twcert.org.tw/tw/cp-104-10809-f19ee-1.html"
@@ -2991,21 +2991,21 @@
     },
     "7302ba57a3576c1d4f59": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Watchgraph expansion: global macro/microtrend monitor structure",
       "url": "https://github.com/Question86/senna-infoflow/issues/2"
     },
     "731ed601345b112ffb39": {
       "first_seen_at": "2026-06-18T19:15:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
     },
     "73a5fb0f9ceb46e575cb": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "Node-gyp Supply Chain Compromise: A Self-Propagating npm Worm That Hides in binding.gyp",
       "url": "https://snyk.io/blog/node-gyp-supply-chain-compromise-self-propagating-npm-worm-binding-gyp/"
@@ -3019,7 +3019,7 @@
     },
     "746fb32a147e7aed9665": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "FortiSandbox: Angriffe auf kritische Schwachstellen beobachtet",
       "url": "https://www.heise.de/news/Angriffe-auf-FortiSandbox-Schwachstellen-11335667.html"
@@ -3075,7 +3075,7 @@
     },
     "78066f4c3b91cd1c0718": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen",
       "url": "https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html"
@@ -3110,7 +3110,7 @@
     },
     "793888e99fb1d4a91e7d": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "yifanfeng97/Hyper-Extract",
       "url": "https://github.com/yifanfeng97/Hyper-Extract"
@@ -3131,7 +3131,7 @@
     },
     "7999449514b7da12b926": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T13:47:37+00:00",
+      "last_seen_at": "2026-06-19T14:51:29+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Power-up: monitor.py scoring cleanup and workflow hardening",
       "url": "https://github.com/Question86/senna-infoflow/issues/1"
@@ -3152,7 +3152,7 @@
     },
     "7a4c32f0bca82108e79f": {
       "first_seen_at": "2026-06-18T14:33:39+00:00",
-      "last_seen_at": "2026-06-19T13:48:11+00:00",
+      "last_seen_at": "2026-06-19T14:52:04+00:00",
       "source": "NOAA NHC Atlantic Tropical Cyclones",
       "title": "There are no tropical cyclones at this time.",
       "url": "https://www.nhc.noaa.gov/"
@@ -3173,14 +3173,14 @@
     },
     "7acaa08ab6be35cd4fad": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547405"
     },
     "7bc64040137802486081": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add asciinema markdown to README.md",
       "url": "https://github.com/axi0m/ratatoskr/pull/51"
@@ -3208,7 +3208,7 @@
     },
     "7c467bfaae8cbe279c60": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T13:48:08+00:00",
+      "last_seen_at": "2026-06-19T14:52:01+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 70 thousand in MMI VI.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536386"
@@ -3222,7 +3222,7 @@
     },
     "7c66537bb0f34830168b": {
       "first_seen_at": "2026-06-17T12:45:13+00:00",
-      "last_seen_at": "2026-06-19T13:48:16+00:00",
+      "last_seen_at": "2026-06-19T14:52:09+00:00",
       "source": "GitHub Search: AI Security Automation",
       "title": "bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude",
       "url": "https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude"
@@ -3271,7 +3271,7 @@
     },
     "7e231db339493730183a": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
       "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html"
@@ -3292,7 +3292,7 @@
     },
     "7e8bd5509cf752fdfcba": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "Spotify’s post-English AI future",
       "url": "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
@@ -3348,14 +3348,14 @@
     },
     "8027d1fadb4af2caa8f9": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "沛盛資訊｜OMICARD EDM - Insecure Direct Object Reference",
       "url": "https://www.twcert.org.tw/tw/cp-132-10947-027a7-1.html"
     },
     "802c3e6a6f0e22a1df20": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
       "url": "https://www.digital.go.jp/policies/digital_promotion_staff/application-for-student"
@@ -3439,7 +3439,7 @@
     },
     "8409fa1e87bf9d40cc8d": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標",
       "url": "https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html"
@@ -3457,6 +3457,13 @@
       "source": "Federal Reserve Monetary Policy Press Releases",
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+    },
+    "846c848fbc9793146b97": {
+      "first_seen_at": "2026-06-19T14:50:39+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
+      "source": "Hatena Bookmark Hotentry IT",
+      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html"
     },
     "8595b8098be2ee76c542": {
       "first_seen_at": "2026-06-18T14:32:28+00:00",
@@ -3495,21 +3502,21 @@
     },
     "867da05eb98ec42d8820": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation FactoryTalk Historian Site Edition",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03"
     },
     "867f8dcc4e953cd5b218": {
       "first_seen_at": "2026-06-18T14:33:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Generated release notes credit you for Copilot pull requests",
       "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests"
     },
     "86d15e7b783260c0589b": {
       "first_seen_at": "2026-06-18T16:20:56+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "How pull request limits are cutting down the noise",
       "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
@@ -3537,7 +3544,7 @@
     },
     "88b2bde7fd6d42fb6e48": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "三角デジタル監が2026年OECD閣僚理事会に出席しました",
       "url": "https://www.digital.go.jp/news/1261eec6-7ea5-4e5f-8935-b867a49d3d52"
@@ -3565,14 +3572,14 @@
     },
     "8a23229f6e5f8d277405": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Critical Security Patch Update: Oracle veröffentlicht 245 Sicherheitsupdates",
       "url": "https://www.heise.de/news/Critical-Security-Patch-Update-Oracle-veroeffentlicht-245-Sicherheitsupdates-11335248.html"
     },
     "8a2f47e89b9037a37226": {
       "first_seen_at": "2026-06-19T09:21:53+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
       "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html"
@@ -3614,28 +3621,28 @@
     },
     "8c494a1a86ca0e2d7fbb": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Drought is on going in Australia",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457"
     },
     "8c72cd67e2087383388e": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "松本大臣記者会見（令和8年6月19日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260619-01"
     },
     "8c8296148d2537909a41": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "英特內｜DreamMaker - 存在5個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10943-8fb00-1.html"
     },
     "8cf598746cd01c7168f8": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Drought is on going in United States",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546"
@@ -3649,7 +3656,7 @@
     },
     "8d4d98664c96854e4344": {
       "first_seen_at": "2026-06-19T07:38:31+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
       "url": "https://e27.co/fileai-funding-20260619/"
@@ -3670,7 +3677,7 @@
     },
     "8dcf580239d0e46ad47e": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 19/06/2026 07:52 UTC, 240 thousand in MMI>=III.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403"
@@ -3698,7 +3705,7 @@
     },
     "8eee5f89bbfb8f9f5b60": {
       "first_seen_at": "2026-06-19T10:59:37+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
       "url": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro"
@@ -3719,14 +3726,14 @@
     },
     "8fc18592e8a0e89a9748": {
       "first_seen_at": "2026-06-19T01:55:55+00:00",
-      "last_seen_at": "2026-06-19T13:46:48+00:00",
+      "last_seen_at": "2026-06-19T14:50:37+00:00",
       "source": "Google Trends Japan Hot Feed",
-      "title": "順位",
+      "title": "小倉 優子",
       "url": "https://trends.google.com/trending/rss?geo=JP"
     },
     "8fe34be48b417709cc9a": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp"
@@ -3740,14 +3747,14 @@
     },
     "907edc7519815dd5b21b": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "A Forgotten Contributor Account Compromised the Entire Mastra npm Package Scope",
       "url": "https://snyk.io/blog/a-forgotten-contributor-account-compromised-the-entire-mastra-npm-package-scope/"
     },
     "90ae8111366f3807969c": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
       "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01"
@@ -3761,14 +3768,14 @@
     },
     "9151ec93970ff1a1fe61": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "JSAC2026 -Day 1-",
       "url": "https://blogs.jpcert.or.jp/en/2026/02/jsac2026day1.html"
     },
     "91820d19366cbaae084f": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/"
@@ -3789,7 +3796,7 @@
     },
     "91ea01f198a7c780eb15": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547405"
@@ -3803,7 +3810,7 @@
     },
     "9277ec730057497fb994": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T13:47:37+00:00",
+      "last_seen_at": "2026-06-19T14:51:29+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Rapidly switching between tabs causes view size to be wrong",
       "url": "https://github.com/sindresorhus/Settings/issues/9"
@@ -3824,7 +3831,7 @@
     },
     "936e7a7a3990b8244141": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "🔑 - Verify GitLab API Personal Access Token Before Check",
       "url": "https://github.com/axi0m/ratatoskr/issues/54"
@@ -3838,7 +3845,7 @@
     },
     "93f047ea500a6d53d98f": {
       "first_seen_at": "2026-06-17T18:47:20+00:00",
-      "last_seen_at": "2026-06-19T13:48:18+00:00",
+      "last_seen_at": "2026-06-19T14:52:11+00:00",
       "source": "GitHub Search: Agent Security",
       "title": "romanklis/openclaw-contained",
       "url": "https://github.com/romanklis/openclaw-contained"
@@ -3859,7 +3866,7 @@
     },
     "943c5989a520a2897c9e": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "行政データにおける機械可読性に関するルールをコード化する取組みについて掲載しました",
       "url": "https://www.digital.go.jp/resources/machine-readability-rule"
@@ -3887,7 +3894,7 @@
     },
     "9462034bb0a16bddc902": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Top 10 web hacking techniques of 2025: call for nominations",
       "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open"
@@ -3901,14 +3908,14 @@
     },
     "96bd13f63924d3502faa": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation"
     },
     "96fa1a2353ce6c78379c": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
       "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
@@ -3943,7 +3950,7 @@
     },
     "9889d700bb84f5be4d26": {
       "first_seen_at": "2026-06-17T20:44:12+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Introducing LifeSciBench",
       "url": "https://openai.com/index/introducing-life-sci-bench"
@@ -3957,7 +3964,7 @@
     },
     "98cc7845c6fd34da5782": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
       "url": "https://jvn.jp/jp/JVN16937365/"
@@ -3992,7 +3999,7 @@
     },
     "999486dc927471fca224": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "📐 Test support for Microsoft Teams, Discord and Slack",
       "url": "https://github.com/axi0m/ratatoskr/issues/10"
@@ -4076,14 +4083,14 @@
     },
     "9c043c450f622fad712c": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "UAT-10608大規模自動化竊密行動：鎖定React2Shell漏洞入侵逾700台Next.js伺服器",
       "url": "https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html"
     },
     "9c17c05e24b053147455": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm"
@@ -4097,7 +4104,7 @@
     },
     "9c7c077c0d7195589702": {
       "first_seen_at": "2026-06-19T11:00:32+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
       "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html"
@@ -4146,14 +4153,14 @@
     },
     "9dd5c847308392533a4c": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "Study of Binaries Created with Rust through Reverse Engineering",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/rust_research_en.html"
     },
     "9dfa54d2015b45f7f4dc": {
       "first_seen_at": "2026-06-18T22:34:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure"
@@ -4174,7 +4181,7 @@
     },
     "9f06ae672ae180b6e54d": {
       "first_seen_at": "2026-06-19T00:27:11+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Upcoming deprecation of Opus 4.6 (fast)",
       "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast"
@@ -4188,14 +4195,14 @@
     },
     "9f28a5618f327b1bf190": {
       "first_seen_at": "2026-06-17T18:47:03+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "A Day in the Life of an AI Engineer in Snyk's Lisbon Office",
       "url": "https://snyk.io/blog/a-day-in-the-life-of-an-ai-engineer-in-snyks-lisbon-office/"
     },
     "9f4db499c820ea10b856": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "TSUBAME Report Overflow (Jul-Sep 2025)",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/tsubame_overflow_2025-07-09.html"
@@ -4230,7 +4237,7 @@
     },
     "a1c4c66f4c00a20458c9": {
       "first_seen_at": "2026-06-19T09:20:57+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
       "url": "https://kawarimidoll.com/posts/202606182/"
@@ -4251,14 +4258,14 @@
     },
     "a253ddf6bd1a4addf465": {
       "first_seen_at": "2026-06-19T12:30:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "NewGen doubles down on K25.ai as Asia-focused AI livestreaming platform eyes commercial launch",
       "url": "https://e27.co/newgen-doubles-down-on-k25-ai-as-asia-focused-ai-livestreaming-platform-eyes-commercial-launch-20260619/"
     },
     "a2b0ac3dd003e1c32b5d": {
       "first_seen_at": "2026-06-19T03:56:13+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
       "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/"
@@ -4293,14 +4300,14 @@
     },
     "a441ab2fcc46c239612d": {
       "first_seen_at": "2026-06-19T12:29:59+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
       "url": "https://togetter.com/li/2711078"
     },
     "a46dacab4acd01c7a39d": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03"
@@ -4314,7 +4321,7 @@
     },
     "a52802f0fce7a367f2be": {
       "first_seen_at": "2026-06-18T14:33:24+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
       "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/"
@@ -4426,10 +4433,17 @@
     },
     "abd411989a16366b4680": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "China builds a rival satellite constellation as SpaceX goes public",
       "url": "https://restofworld.org/2026/spacesail-spacex-starlink-competition-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    "ac824561526b8c465fae": {
+      "first_seen_at": "2026-06-19T14:50:39+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
+      "source": "Hatena Bookmark Hotentry IT",
+      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+      "url": "https://togetter.com/li/2711202"
     },
     "ac83b56638e3442ffe57": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
@@ -4440,7 +4454,7 @@
     },
     "accd48d9866312e585d9": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "CSIRTs Around the World – Azerbaijan",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/csirts-around-the-world-azerbaijan.html"
@@ -4454,7 +4468,7 @@
     },
     "ade6f01bdf6d264a92ba": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
       "url": "https://restofworld.org/2026/tech-facebook-google-whatsapp-scams/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
@@ -4468,21 +4482,21 @@
     },
     "ae828d46cdc8793ed5ef": {
       "first_seen_at": "2026-06-19T09:20:57+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html"
     },
     "aeb3fe67531df41f8ada": {
       "first_seen_at": "2026-06-17T18:46:46+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Memory: Senna Infoflow watchgraph expansion 2026-06-17",
       "url": "https://github.com/Question86/keeper-clean/issues/3"
     },
     "af5b202b0b9c99f20d3a": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-19T13:47:12+00:00",
+      "last_seen_at": "2026-06-19T14:51:02+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260014.html"
@@ -4524,7 +4538,7 @@
     },
     "b0ffeb96c3904b0d5a33": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
       "url": "https://jvn.jp/jp/JVN79926428/"
@@ -4552,7 +4566,7 @@
     },
     "b2a43fe27156803d6365": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "Interlock 勒索軟體組織利用 Cisco FMC 零日漏洞發動攻擊，呼籲用戶儘速修補",
       "url": "https://www.twcert.org.tw/tw/cp-104-10808-892d1-1.html"
@@ -4573,7 +4587,7 @@
     },
     "b3f86bbab4348d5054ec": {
       "first_seen_at": "2026-06-17T18:46:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
       "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/"
@@ -4601,7 +4615,7 @@
     },
     "b544f7323e8d5a290166": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5"
@@ -4615,7 +4629,7 @@
     },
     "b5d40d5cef5de855cbfe": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332"
@@ -4629,14 +4643,14 @@
     },
     "b636dc4b9eae16c99890": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "第4回 日EUデジタルパートナーシップ閣僚級会合の結果",
       "url": "https://www.digital.go.jp/news/d37c295a-17eb-4ca9-87dd-6f0ee87146ae"
     },
     "b688ff74ffd6e5e1d36f": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "ETSI發布EN 304 223標準，強化人工智慧模型與系統資安防護",
       "url": "https://www.twcert.org.tw/tw/cp-104-10727-665e8-1.html"
@@ -4650,7 +4664,7 @@
     },
     "b729b1ba053c3d86355a": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "Hepta Platforms｜Heptabase - Exposed Dangerous",
       "url": "https://www.twcert.org.tw/tw/cp-132-10968-6be4c-1.html"
@@ -4678,14 +4692,14 @@
     },
     "b860a9ee64183909b836": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add code of conduct and update packages",
       "url": "https://github.com/axi0m/ratatoskr/pull/64"
     },
     "b90acfeecca5dedc01a0": {
       "first_seen_at": "2026-06-18T19:15:27+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Control who and what triggers GitHub Actions workflows",
       "url": "https://github.blog/changelog/2026-06-18-control-who-and-what-triggers-github-actions-workflows"
@@ -4755,7 +4769,7 @@
     },
     "bbe187a61c75af91ff3b": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "因特普科技｜ITS智能圖控系統 - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10941-6c082-1.html"
@@ -4769,7 +4783,7 @@
     },
     "bc651160d182cb61b172": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Drought is on going in United States",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546"
@@ -4804,7 +4818,7 @@
     },
     "bfdb21663b514950e906": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T13:47:37+00:00",
+      "last_seen_at": "2026-06-19T14:51:29+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Memory: Senna Infoflow watchgraph expansion 2026-06-17",
       "url": "https://github.com/Question86/keeper-clean/issues/3"
@@ -4825,14 +4839,14 @@
     },
     "c03aa6ea127bea919fb2": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07"
     },
     "c1d422fc03a9e7ed3127": {
       "first_seen_at": "2026-06-17T18:47:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green flood alert in Türkiye",
       "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920"
@@ -4930,14 +4944,14 @@
     },
     "c6bcfcff34c3b3f312e1": {
       "first_seen_at": "2026-06-17T18:47:14+00:00",
-      "last_seen_at": "2026-06-19T13:48:09+00:00",
+      "last_seen_at": "2026-06-19T14:52:02+00:00",
       "source": "GDACS Tropical Cyclones Last Week",
       "title": "Green notification for tropical cyclone ARTHUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (8.348 million in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001276"
     },
     "c7033403a98584e0e3da": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Mehrere Plug-ins für JetBrains-IDEs stehlen API-Keys für OpenAI, DeepSeek & Co.",
       "url": "https://www.heise.de/news/Mehrere-Plug-ins-fuer-JetBrains-IDEs-stehlen-API-Keys-fuer-OpenAI-DeepSeek-Co-11335021.html"
@@ -4958,21 +4972,21 @@
     },
     "c7950a98b173abd6cd34": {
       "first_seen_at": "2026-06-18T16:21:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
     },
     "c7b0459f8ee27a7c8220": {
       "first_seen_at": "2026-06-19T01:55:59+00:00",
-      "last_seen_at": "2026-06-19T13:46:54+00:00",
+      "last_seen_at": "2026-06-19T14:50:43+00:00",
       "source": "Google Trends South Korea Hot Feed",
-      "title": "usdc",
+      "title": "이병규",
       "url": "https://trends.google.com/trending/rss?geo=KR"
     },
     "c807694be3137fd5d12d": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "勒索軟體組織「The Gentlemen」結合SystemBC惡意軟體擴大攻擊版圖",
       "url": "https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html"
@@ -4993,7 +5007,7 @@
     },
     "c948d41722cb7e0c1e51": {
       "first_seen_at": "2026-06-19T02:07:21+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
       "url": "https://jvn.jp/vu/JVNVU90347806/"
@@ -5014,7 +5028,7 @@
     },
     "ca02181f59618721f6aa": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "When Americans choose Chinese AI",
       "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
@@ -5042,7 +5056,7 @@
     },
     "ca3d1739e9ea288196a9": {
       "first_seen_at": "2026-06-19T03:56:18+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
       "url": "https://jvn.jp/vu/JVNVU97140216/"
@@ -5068,6 +5082,13 @@
       "title": "Read remote repository content with GitHub CLI",
       "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli"
     },
+    "cabc775efe9e23cfcac3": {
+      "first_seen_at": "2026-06-19T14:51:00+00:00",
+      "last_seen_at": "2026-06-19T14:51:00+00:00",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+    },
     "cad294dc003cdd1122c2": {
       "first_seen_at": "2026-06-18T23:16:57+00:00",
       "last_seen_at": "2026-06-19T02:25:08+00:00",
@@ -5091,14 +5112,14 @@
     },
     "cc8be7a69bb2884d47e5": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update README badges",
       "url": "https://github.com/axi0m/nathair/pull/490"
     },
     "ccfd749279a119cc54ec": {
       "first_seen_at": "2026-06-19T12:31:20+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/"
@@ -5154,7 +5175,7 @@
     },
     "d0471edcc2838374b52c": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "JSAC2026 -Day 2-",
       "url": "https://blogs.jpcert.or.jp/en/2026/02/jsac2026day2.html"
@@ -5189,21 +5210,21 @@
     },
     "d13c95238888e2ec5c5e": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "日躍科技｜App好校通 - Insecure Direct Object Reference",
       "url": "https://www.twcert.org.tw/tw/cp-132-10896-e3240-1.html"
     },
     "d1ad5b853ec8a452e37c": {
       "first_seen_at": "2026-06-19T11:00:34+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
     },
     "d1cbcd2e5c3a34d88878": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "withastro/flue",
       "url": "https://github.com/withastro/flue"
@@ -5238,7 +5259,7 @@
     },
     "d35aa74f588d0640d937": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Main backmerge",
       "url": "https://github.com/maximhq/bifrost/pull/2402"
@@ -5294,14 +5315,14 @@
     },
     "d47f9797763853a687f3": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp"
     },
     "d4b066b20cfa0fa213b2": {
       "first_seen_at": "2026-06-19T01:55:57+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html"
@@ -5336,14 +5357,14 @@
     },
     "d63fcea28f1c7d72edb6": {
       "first_seen_at": "2026-06-18T22:34:14+00:00",
-      "last_seen_at": "2026-06-19T13:48:09+00:00",
+      "last_seen_at": "2026-06-19T14:52:02+00:00",
       "source": "GDACS Tropical Cyclones Last Week",
       "title": "Green notification for tropical cyclone SEVEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001277"
     },
     "d651ac00405018749494": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/"
@@ -5357,7 +5378,7 @@
     },
     "d709fe6c851c35b07706": {
       "first_seen_at": "2026-06-19T03:56:13+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
       "url": "https://e27.co/81-correlated-with-gold-is-bitcoin-just-another-macro-derivative-now-20260619/"
@@ -5371,7 +5392,7 @@
     },
     "d7a4cff815f05d90005b": {
       "first_seen_at": "2026-06-18T14:33:28+00:00",
-      "last_seen_at": "2026-06-19T13:47:56+00:00",
+      "last_seen_at": "2026-06-19T14:51:48+00:00",
       "source": "Snyk Security Blog",
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
       "url": "https://snyk.io/blog/secure-developer-program/"
@@ -5385,7 +5406,7 @@
     },
     "d8259e9fe8f69b273510": {
       "first_seen_at": "2026-06-19T07:38:31+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
       "url": "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/"
@@ -5399,14 +5420,14 @@
     },
     "d8ee3be47fde65e62fe2": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona"
     },
     "d8f7076da10e9b24c1fd": {
       "first_seen_at": "2026-06-19T01:56:23+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
@@ -5448,7 +5469,7 @@
     },
     "daeea086eb8b046f856a": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "owainlewis/awesome-artificial-intelligence",
       "url": "https://github.com/owainlewis/awesome-artificial-intelligence"
@@ -5511,7 +5532,7 @@
     },
     "dd273dc1ff1c92ea57c4": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "AzeoTech DAQFactory",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02"
@@ -5525,14 +5546,14 @@
     },
     "dd4d82e5953b38ad6b1e": {
       "first_seen_at": "2026-06-17T18:47:05+00:00",
-      "last_seen_at": "2026-06-19T13:47:59+00:00",
+      "last_seen_at": "2026-06-19T14:51:52+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 6.3 - 260 km SSE of Dunhuang, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbz"
     },
     "dd7f6c6d5ea24263ecae": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404"
@@ -5546,7 +5567,7 @@
     },
     "de1c706dd5b73b8adf06": {
       "first_seen_at": "2026-06-19T03:56:13+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
       "url": "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/"
@@ -5560,14 +5581,14 @@
     },
     "de2671fc87bbb4bb6b73": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Drought is on going in Australia",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457"
     },
     "de64c55e971bcc405432": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T13:48:08+00:00",
+      "last_seen_at": "2026-06-19T14:52:01+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 4.4 million (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544720"
@@ -5588,7 +5609,7 @@
     },
     "e01c99aee6b7bd7befd3": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Präparierte PDF-Datei kann Avira Antivirus gefährlich werden",
       "url": "https://www.heise.de/news/Praeparierte-PDF-Datei-kann-Avira-Antivirus-gefaehrlich-werden-11332323.html"
@@ -5623,7 +5644,7 @@
     },
     "e1a54ae526b93bdca8d3": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies",
       "url": "https://github.com/axi0m/nathair/pull/492"
@@ -5637,14 +5658,14 @@
     },
     "e1be8c69ef4ea48ce652": {
       "first_seen_at": "2026-06-18T19:15:25+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
     },
     "e1e12c55dd8395a636a5": {
       "first_seen_at": "2026-06-17T18:46:47+00:00",
-      "last_seen_at": "2026-06-19T13:47:37+00:00",
+      "last_seen_at": "2026-06-19T14:51:29+00:00",
       "source": "GitHub Search: senna-infoflow Mentions",
       "title": "Document repository name typo: Ergo_tastmaster → Ergo_taskmaster",
       "url": "https://github.com/Question86/Ergo_taskmaster/pull/1"
@@ -5665,7 +5686,7 @@
     },
     "e2ec4b520cf970ae6912": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
       "url": "https://portswigger.net/research/inline-style-exfiltration"
@@ -5686,7 +5707,7 @@
     },
     "e32c2ac5f383168732c3": {
       "first_seen_at": "2026-06-19T01:55:57+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
       "url": "https://zenn.dev/stak22/articles/3ea03d0e3ca025"
@@ -5714,7 +5735,7 @@
     },
     "e3f2b9b451d98927c4bb": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "How Preply combines AI and human tutors to personalize learning",
       "url": "https://openai.com/index/preply"
@@ -5728,14 +5749,14 @@
     },
     "e4ed18bf9401cb7a1b5d": {
       "first_seen_at": "2026-06-19T09:22:08+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
     },
     "e56ff9e059c62e3ba6de": {
       "first_seen_at": "2026-06-19T01:56:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:08+00:00",
+      "last_seen_at": "2026-06-19T14:50:57+00:00",
       "source": "Rest of World Global Tech Feed",
       "title": "As the world embraces EVs, the U.S. hits the brakes",
       "url": "https://restofworld.org/2026/us-ev-sales-drop-global-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
@@ -5749,7 +5770,7 @@
     },
     "e655da32d7895d3aeaa7": {
       "first_seen_at": "2026-06-19T02:07:16+00:00",
-      "last_seen_at": "2026-06-19T13:47:06+00:00",
+      "last_seen_at": "2026-06-19T14:50:56+00:00",
       "source": "e27 Asia Startup and Tech Feed",
       "title": "The AI economy is moving faster than our institutions",
       "url": "https://e27.co/the-ai-economy-is-moving-faster-than-our-institutions-20260609/"
@@ -5770,7 +5791,7 @@
     },
     "e703b199c55e51a606f8": {
       "first_seen_at": "2026-06-19T02:31:15+00:00",
-      "last_seen_at": "2026-06-19T13:47:22+00:00",
+      "last_seen_at": "2026-06-19T14:51:14+00:00",
       "source": "GitHub Trending RSS All Languages Daily",
       "title": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec"
@@ -5784,14 +5805,14 @@
     },
     "e75be3f9ffcfdc822165": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Update dependencies",
       "url": "https://github.com/axi0m/axi0m/pull/3"
     },
     "e78a281d6ab43bef97b8": {
       "first_seen_at": "2026-06-19T09:22:05+00:00",
-      "last_seen_at": "2026-06-19T13:48:02+00:00",
+      "last_seen_at": "2026-06-19T14:51:56+00:00",
       "source": "GDACS All Events Last 24h",
       "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 19/06/2026 07:52 UTC, 240 thousand in MMI>=III.",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403"
@@ -5812,7 +5833,7 @@
     },
     "e7a1ba4ffaba15f9a31e": {
       "first_seen_at": "2026-06-17T18:47:13+00:00",
-      "last_seen_at": "2026-06-19T13:48:08+00:00",
+      "last_seen_at": "2026-06-19T14:52:01+00:00",
       "source": "GDACS Orange/Red Earthquakes",
       "title": "Orange earthquake (Magnitude 5.1M, Depth:10km) in China 18/05/2026 13:44 UTC, 6 thousand (in MMI>=VII).",
       "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541314"
@@ -5868,14 +5889,14 @@
     },
     "e9333b422e910b42de54": {
       "first_seen_at": "2026-06-17T19:09:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:58+00:00",
+      "last_seen_at": "2026-06-19T14:51:50+00:00",
       "source": "PortSwigger Research",
       "title": "HTTP/1.1 must die: the desync endgame",
       "url": "https://portswigger.net/research/http1-must-die"
     },
     "e9dca464afb2f096aca4": {
       "first_seen_at": "2026-06-19T11:27:10+00:00",
-      "last_seen_at": "2026-06-19T13:46:52+00:00",
+      "last_seen_at": "2026-06-19T14:50:41+00:00",
       "source": "Japan Digital Agency News RSS",
       "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました",
       "url": "https://www.digital.go.jp/policies/mynumber/local-government/info"
@@ -5903,7 +5924,7 @@
     },
     "eb07b438fc7600ce4a79": {
       "first_seen_at": "2026-06-17T18:47:12+00:00",
-      "last_seen_at": "2026-06-19T13:48:06+00:00",
+      "last_seen_at": "2026-06-19T14:51:59+00:00",
       "source": "GDACS All Events Last Week",
       "title": "Green flood alert in Türkiye",
       "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103920"
@@ -5924,14 +5945,14 @@
     },
     "eb5ad90580f743982f38": {
       "first_seen_at": "2026-06-19T01:56:04+00:00",
-      "last_seen_at": "2026-06-19T13:46:58+00:00",
+      "last_seen_at": "2026-06-19T14:50:48+00:00",
       "source": "Google Trends Thailand Hot Feed",
-      "title": "ไก่ kfc",
+      "title": "โมร็อกโกบอล",
       "url": "https://trends.google.com/trending/rss?geo=TH"
     },
     "ec4212b33a25d845a52b": {
       "first_seen_at": "2026-06-17T18:47:01+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01"
@@ -5959,7 +5980,7 @@
     },
     "ededa98f7463fe398793": {
       "first_seen_at": "2026-06-18T18:22:37+00:00",
-      "last_seen_at": "2026-06-19T13:47:44+00:00",
+      "last_seen_at": "2026-06-19T14:51:36+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Actions: Build custom images from custom images",
       "url": "https://github.blog/changelog/2026-06-18-actions-build-custom-images-from-custom-images"
@@ -5973,7 +5994,7 @@
     },
     "ee5099d9c830208e2a4a": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "金財通商務科技｜Service Center - Insecure Direct Object Reference",
       "url": "https://www.twcert.org.tw/tw/cp-132-10938-97ddd-1.html"
@@ -5994,7 +6015,7 @@
     },
     "ef4a254655b638c1ffbc": {
       "first_seen_at": "2026-06-18T17:28:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:53+00:00",
+      "last_seen_at": "2026-06-19T14:51:46+00:00",
       "source": "CISA Cybersecurity Advisories",
       "title": "Mitsubishi Electric MELSEC iQ-F Series",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05"
@@ -6015,14 +6036,14 @@
     },
     "efe8afa2b42999a1f98e": {
       "first_seen_at": "2026-06-17T18:47:05+00:00",
-      "last_seen_at": "2026-06-19T13:47:59+00:00",
+      "last_seen_at": "2026-06-19T14:51:52+00:00",
       "source": "USGS Significant Earthquakes",
       "title": "M 2.4 - 8 km NE of Bel Air North, Maryland",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st41"
     },
     "f01d29c6b9e59a74c36f": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-19T13:47:50+00:00",
+      "last_seen_at": "2026-06-19T14:51:42+00:00",
       "source": "heise Security Alerts",
       "title": "Android 17 hat direkt Sicherheitspatches mit an Bord",
       "url": "https://www.heise.de/news/Android-17-hat-direkt-Sicherheitspatches-mit-an-Bord-11335345.html"
@@ -6036,7 +6057,7 @@
     },
     "f04c160172fd68982967": {
       "first_seen_at": "2026-06-18T16:20:54+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
@@ -6078,7 +6099,7 @@
     },
     "f26b2c0b9adf734fc303": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "基點資訊｜CelloOS - Improper Access Control",
       "url": "https://www.twcert.org.tw/tw/cp-132-10966-3258e-1.html"
@@ -6092,7 +6113,7 @@
     },
     "f42a0bf79368d34084a4": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-19T13:47:43+00:00",
+      "last_seen_at": "2026-06-19T14:51:35+00:00",
       "source": "GitHub Blog Atom",
       "title": "GitHub availability report: May 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/"
@@ -6162,7 +6183,7 @@
     },
     "f6d5670827d187d6f5cb": {
       "first_seen_at": "2026-06-19T12:29:59+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
       "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html"
@@ -6183,7 +6204,7 @@
     },
     "f732bf5ec0db01b33172": {
       "first_seen_at": "2026-06-19T01:56:19+00:00",
-      "last_seen_at": "2026-06-19T13:47:16+00:00",
+      "last_seen_at": "2026-06-19T14:51:07+00:00",
       "source": "JVN Japan Vulnerability Notes",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
       "url": "https://jvn.jp/vu/JVNVU95977590/"
@@ -6204,7 +6225,7 @@
     },
     "f7ea6dc23cc6b60d0827": {
       "first_seen_at": "2026-06-17T12:44:58+00:00",
-      "last_seen_at": "2026-06-19T13:47:41+00:00",
+      "last_seen_at": "2026-06-19T14:51:33+00:00",
       "source": "OpenAI News RSS",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud"
@@ -6246,7 +6267,7 @@
     },
     "f992e5668b627d81aee0": {
       "first_seen_at": "2026-06-19T09:21:54+00:00",
-      "last_seen_at": "2026-06-19T13:47:51+00:00",
+      "last_seen_at": "2026-06-19T14:51:44+00:00",
       "source": "BleepingComputer Security",
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/"
@@ -6337,7 +6358,7 @@
     },
     "fd37a583c5b1463d4a12": {
       "first_seen_at": "2026-06-19T11:27:08+00:00",
-      "last_seen_at": "2026-06-19T13:46:50+00:00",
+      "last_seen_at": "2026-06-19T14:50:39+00:00",
       "source": "Hatena Bookmark Hotentry IT",
       "title": "デザインシステムのskillの精度が上がった8つの方法",
       "url": "https://zenn.dev/pksha/articles/7a7db5c105f396"
@@ -6393,7 +6414,7 @@
     },
     "fe7bdbb02fb24b5b7713": {
       "first_seen_at": "2026-06-17T12:45:10+00:00",
-      "last_seen_at": "2026-06-19T13:47:35+00:00",
+      "last_seen_at": "2026-06-19T14:51:27+00:00",
       "source": "GitHub Search: AXI0M Mentions",
       "title": "Add files via upload",
       "url": "https://github.com/FigureT13/Delete-Me/pull/1"
@@ -6421,21 +6442,21 @@
     },
     "ff2a6b8d063b7b1d9f67": {
       "first_seen_at": "2026-06-19T11:27:33+00:00",
-      "last_seen_at": "2026-06-19T13:47:14+00:00",
+      "last_seen_at": "2026-06-19T14:51:04+00:00",
       "source": "JPCERT/CC English Blog Atom",
       "title": "ICS Security Conference 2026",
       "url": "https://blogs.jpcert.or.jp/en/2026/04/ics-conference2026.html"
     },
     "ff52ab4db12ae9ac8a7c": {
       "first_seen_at": "2026-06-19T11:27:40+00:00",
-      "last_seen_at": "2026-06-19T13:47:21+00:00",
+      "last_seen_at": "2026-06-19T14:51:12+00:00",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "title": "IEI 威強電工業電腦｜iRM-IEI Remote Management - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10971-ac61f-1.html"
     },
     "ff5571a8e60fa5a2b1e7": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-19T13:47:19+00:00",
+      "last_seen_at": "2026-06-19T14:51:10+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "開源漏洞掃描工具 Trivy 遭 TeamPCP 供應鏈攻擊，恐導致CI/CD 機敏資料外洩",
       "url": "https://www.twcert.org.tw/tw/cp-104-10807-5c50f-1.html"
@@ -6448,7 +6469,7 @@
       "url": "https://github.com/simstudioai/sim"
     }
   },
-  "last_pruned_at": "2026-06-19T13:48:20Z",
+  "last_pruned_at": "2026-06-19T14:52:13Z",
   "max_items": 50000,
   "retention_days": 90,
   "version": 1

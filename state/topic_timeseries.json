@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T13:48:19Z",
+  "generated_at": "2026-06-19T14:52:13Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -329,6 +329,43 @@
       ],
       "topic_key": "domain-titlehash:twcert.org.tw:0054d8a281",
       "topic_label": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標"
+    },
+    "domain:pic.x.com": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T14:52:13Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T14-52-13Z",
+          "sample_id": "2026-06-19T14-52-13Z:domain:pic.x.com",
+          "sample_index": 5939602,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T14:52:13Z",
+          "topic_key": "domain:pic.x.com",
+          "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://togetter.com/li/2711202"
+          ]
+        }
+      ],
+      "topic_key": "domain:pic.x.com",
+      "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も"
     },
     "domain:restofworld.org": {
       "bucket": "other",
@@ -1445,8 +1482,8 @@
     },
     "earthquake:updates-reliefweb:unknown": {
       "bucket": "disaster_recovery",
-      "last_seen_at": "2026-06-19T11:28:55Z",
-      "last_trend_wucht": 44.8,
+      "last_seen_at": "2026-06-19T14:52:13Z",
+      "last_trend_wucht": 24.9,
       "samples": [
         {
           "bucket": "disaster_recovery",
@@ -1473,6 +1510,35 @@
           "topic_key": "earthquake:updates-reliefweb:unknown",
           "topic_label": "Updates | ReliefWeb",
           "trend_wucht": 44.8,
+          "urls": [
+            "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+          ]
+        },
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 3,
+          "network_score": 19.9,
+          "origin_counts": {
+            "latest_finding": 2,
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T14-52-13Z",
+          "sample_id": "2026-06-19T14-52-13Z:earthquake:updates-reliefweb:unknown",
+          "sample_index": 5939602,
+          "score_delta_5m": 0.0,
+          "source_classes": [
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "ReliefWeb Mindanao Recovery Watch"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T14:52:13Z",
+          "topic_key": "earthquake:updates-reliefweb:unknown",
+          "topic_label": "Updates | ReliefWeb",
+          "trend_wucht": 24.9,
           "urls": [
             "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
           ]
@@ -2808,6 +2874,41 @@
       ],
       "topic_key": "title:ai-layerx",
       "topic_label": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ"
+    },
+    "title:ai-premieredavinci": {
+      "bucket": "agentic_devtools",
+      "last_seen_at": "2026-06-19T14:52:13Z",
+      "last_trend_wucht": 4.0,
+      "samples": [
+        {
+          "bucket": "agentic_devtools",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T14-52-13Z",
+          "sample_id": "2026-06-19T14-52-13Z:title:ai-premieredavinci",
+          "sample_index": 5939602,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T14:52:13Z",
+          "topic_key": "title:ai-premieredavinci",
+          "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+          "trend_wucht": 4.0,
+          "urls": [
+            "https://www.itmedia.co.jp/news/articles/2606/19/news119.html"
+          ]
+        }
+      ],
+      "topic_key": "title:ai-premieredavinci",
+      "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可"
     },
     "title:ai-self-improvement": {
       "last_seen_at": "2026-06-19T01:58:32Z",
@@ -9104,6 +9205,41 @@
       "topic_key": "title:iv-_-3dm",
       "topic_label": "《 钢铁雄心IV 》 全新战区包 《 门前惊雷 》 上线 _ 3DM单机"
     },
+    "title:jaaiai": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T14:52:13Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T14-52-13Z",
+          "sample_id": "2026-06-19T14-52-13Z:title:jaaiai",
+          "sample_index": 5939602,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T14:52:13Z",
+          "topic_key": "title:jaaiai",
+          "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://togetter.com/li/2711202"
+          ]
+        }
+      ],
+      "topic_key": "title:jaaiai",
+      "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も"
+    },
     "title:jefferson-global-economic-developments-and-the-u.s.-economy": {
       "last_seen_at": "2026-06-18T14:33:45Z",
       "last_trend_wucht": 10.0,
@@ -13071,6 +13207,43 @@
       ],
       "topic_key": "title:prasenjeet-symon-ogcode",
       "topic_label": "prasenjeet-symon/ogcode"
+    },
+    "title:premiere-davinci": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T14:52:13Z",
+      "last_trend_wucht": 55.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 26.5,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+          "run_id": "2026-06-19T14-52-13Z",
+          "sample_id": "2026-06-19T14-52-13Z:title:premiere-davinci",
+          "sample_index": 5939602,
+          "score_delta_5m": 26.5,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T14:52:13Z",
+          "topic_key": "title:premiere-davinci",
+          "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+          "trend_wucht": 55.0,
+          "urls": [
+            "https://www.itmedia.co.jp/news/articles/2606/19/news119.html"
+          ]
+        }
+      ],
+      "topic_key": "title:premiere-davinci",
+      "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可"
     },
     "title:primo-382-dolenc:-keynote-address-aci-slovenia-annual-assembly-and-financial-markets-conference": {
       "last_seen_at": "2026-06-18T14:33:45Z",

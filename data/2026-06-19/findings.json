@@ -232,6 +232,48 @@
     "id": "ade6f01bdf6d264a92ba"
   },
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T14:50:59+00:00",
+    "fetched_at": "2026-06-19T14:50:36+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "earthquake",
+      "General Santos",
+      "Glan",
+      "Mindanao",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cabc775efe9e23cfcac3"
+  },
+  {
     "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
     "url": "https://blogs.jpcert.or.jp/en/2026/02/multiple-threat-actors-rapidly-exploit-react2shell-a-case-study-of-active-compromise.html",
     "source": "JPCERT/CC English Blog Atom",
@@ -255,45 +297,51 @@
     "id": "00c8bb4c800818cf66d3"
   },
   {
-    "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "source": "ReliefWeb Mindanao Recovery Watch",
-    "source_type": "webpage_check",
-    "published_at": null,
-    "fetched_at": "2026-06-19T13:46:48+00:00",
-    "summary": "",
+    "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T09:34:59+00:00",
+    "fetched_at": "2026-06-19T14:50:36+00:00",
+    "summary": "外部ツールとAIをつなぐ規格「MCP」（Model Context Protocol）に対応し、Claude Codeに加え「Cursor」「Codex」といったAIエージェントサービスから、プロジェクトの画面を直接読み取って動画を編集できる。動画・音声・画像・テキストのマルチトラック編集をはじめ、トリミングや分割、速度・不透明度の調整、変形に対...",
     "matched_keywords": [
-      "earthquake",
-      "Glan",
-      "Mindanao",
-      "recovery",
-      "relief",
-      "Sarangani",
-      "Watchgraph:earthquakes_tsunami"
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
     ],
-    "relevance_score": 18,
-    "relevance_reason": "Mindanao (+2.5); Sarangani (+2.5); Glan (+2.5); earthquake (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "relevance_score": 17,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
     "watchgraph_modules": [
-      "earthquakes_tsunami"
+      "ai_agents_workflow"
     ],
     "watchgraph_reasons": [
-      "earthquakes_tsunami: earthquake"
+      "ai_agents_workflow: MCP, Codex"
     ],
     "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "CAT",
-      "VMC",
-      "MLM",
-      "HOLN.SW",
-      "HD",
-      "LOW"
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
     ],
-    "id": "ca144e94de3081ff6362"
+    "id": "846c848fbc9793146b97"
   },
   {
     "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
@@ -4685,6 +4733,27 @@
       "soy"
     ],
     "id": "b5d40d5cef5de855cbfe"
+  },
+  {
+    "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+    "url": "https://togetter.com/li/2711202",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T10:58:06+00:00",
+    "fetched_at": "2026-06-19T14:50:36+00:00",
+    "summary": "市川 晋 【海老名の果樹農家】 @farm_ichikawa JAさがみにはいつもお世話になってるから敢えて言う。 生成AIを使ったポスターで宣伝しても何も伝わってこないんだよ。 PC上でカタカタしただけで作った販促物より、直接畑に出向いてヘタクソでも撮る一枚の方が何百倍も見る人に届くと思うぞ。 pic.x.com/uWFWPfg66P 2026-...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ac824561526b8c465fae"
   },
   {
     "title": "Frank Elderson: Fireside chat",

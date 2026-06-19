@@ -5,7 +5,7 @@
     "new_relevant_findings": 3,
     "observe": 1,
     "source_errors": 0,
-    "today_file_total": 236
+    "today_file_total": 238
   },
   "coverage": {
     "active_sensor_groups": {
@@ -25,7 +25,7 @@
     },
     "coverage_confidence": "normal",
     "failed_sensor_groups": {},
-    "generated_at": "2026-06-19T13:48:20Z",
+    "generated_at": "2026-06-19T14:52:13Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -38,8 +38,51 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T13:46:48+00:00",
-      "id": "5d34062c912a33e21ee3",
+      "fetched_at": "2026-06-19T14:50:36+00:00",
+      "id": "cabc775efe9e23cfcac3",
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "matched_keywords": [
+        "earthquake",
+        "General Santos",
+        "Glan",
+        "Mindanao",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "published_at": "2026-06-19T14:50:59+00:00",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 18,
+      "risk_or_opportunity": "risk",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_bias_class": "normal",
+      "source_type": "webpage_check",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ]
+    },
+    {
+      "fetched_at": "2026-06-19T14:50:36+00:00",
+      "id": "846c848fbc9793146b97",
       "market_context": [
         "NVDA",
         "AMD",
@@ -61,95 +104,57 @@
         "PINS"
       ],
       "matched_keywords": [
-        "AI",
-        "AI Agents",
-        "Security",
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "OpenAI",
         "Watchgraph:ai_agents_workflow"
       ],
-      "published_at": "2026-06-19T13:10:19+00:00",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "relevance_reason": "AI Agents (+6.2); Security (+6.0); AI (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "relevance_score": 19,
-      "risk_or_opportunity": "opportunity",
-      "source": "BleepingComputer Security",
+      "published_at": "2026-06-19T09:34:59+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 17,
+      "risk_or_opportunity": "observation",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "summary": "外部ツールとAIをつなぐ規格「MCP」（Model Context Protocol）に対応し、Claude Codeに加え「Cursor」「Codex」といったAIエージェントサービスから、プロジェクトの画面を直接読み取って動画を編集できる。動画・音声・画像・テキストのマルチトラック編集をはじめ、トリミングや分割、速度・不透明度の調整、変形に対...",
+      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
+        "ai_agents_workflow: MCP, Codex"
       ]
     },
     {
-      "fetched_at": "2026-06-19T13:46:48+00:00",
-      "id": "ca144e94de3081ff6362",
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "matched_keywords": [
-        "earthquake",
-        "Glan",
-        "Mindanao",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "published_at": null,
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "Mindanao (+2.5); Sarangani (+2.5); Glan (+2.5); earthquake (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "relevance_score": 18,
-      "risk_or_opportunity": "risk",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "",
-      "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T13:46:48+00:00",
-      "id": "11fad926be469e380fa0",
+      "fetched_at": "2026-06-19T14:50:36+00:00",
+      "id": "ac824561526b8c465fae",
       "market_context": [],
-      "matched_keywords": [],
-      "published_at": "2026-06-19T13:00:00+00:00",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "published_at": "2026-06-19T10:58:06+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
-      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
       "risk_or_opportunity": "observation",
-      "source": "Rest of World Global Tech Feed",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "A customer experiences the Osmo Pocket 4 camera at a DJI store in Shanghai, China, on April 20, 2026. (Photo by Costfoto/NurPhoto via Getty Images)",
-      "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-      "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "市川 晋 【海老名の果樹農家】 @farm_ichikawa JAさがみにはいつもお世話になってるから敢えて言う。 生成AIを使ったポスターで宣伝しても何も伝わってこないんだよ。 PC上でカタカタしただけで作った販促物より、直接畑に出向いてヘタクソでも撮る一枚の方が何百倍も見る人に届くと思うぞ。 pic.x.com/uWFWPfg66P 2026-...",
+      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+      "url": "https://togetter.com/li/2711202",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T13:48:19+00:00",
+  "generated_at": "2026-06-19T14:52:13+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T13:48:20Z",
+    "generated_at": "2026-06-19T14:52:13Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -178,8 +183,51 @@
     "high": [],
     "medium": [
       {
-        "fetched_at": "2026-06-19T13:46:48+00:00",
-        "id": "5d34062c912a33e21ee3",
+        "fetched_at": "2026-06-19T14:50:36+00:00",
+        "id": "cabc775efe9e23cfcac3",
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "matched_keywords": [
+          "earthquake",
+          "General Santos",
+          "Glan",
+          "Mindanao",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "published_at": "2026-06-19T14:50:59+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 18,
+        "risk_or_opportunity": "risk",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_bias_class": "normal",
+        "source_type": "webpage_check",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T14:50:36+00:00",
+        "id": "846c848fbc9793146b97",
         "market_context": [
           "NVDA",
           "AMD",
@@ -201,89 +249,51 @@
           "PINS"
         ],
         "matched_keywords": [
-          "AI",
-          "AI Agents",
-          "Security",
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "OpenAI",
           "Watchgraph:ai_agents_workflow"
         ],
-        "published_at": "2026-06-19T13:10:19+00:00",
-        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-        "relevance_reason": "AI Agents (+6.2); Security (+6.0); AI (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-        "relevance_score": 19,
-        "risk_or_opportunity": "opportunity",
-        "source": "BleepingComputer Security",
+        "published_at": "2026-06-19T09:34:59+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "relevance_score": 17,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
-        "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-        "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+        "summary": "外部ツールとAIをつなぐ規格「MCP」（Model Context Protocol）に対応し、Claude Codeに加え「Cursor」「Codex」といったAIエージェントサービスから、プロジェクトの画面を直接読み取って動画を編集できる。動画・音声・画像・テキストのマルチトラック編集をはじめ、トリミングや分割、速度・不透明度の調整、変形に対...",
+        "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
         "watchgraph_modules": [
           "ai_agents_workflow"
         ],
         "watchgraph_reasons": [
-          "ai_agents_workflow: AI agents"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T13:46:48+00:00",
-        "id": "ca144e94de3081ff6362",
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "matched_keywords": [
-          "earthquake",
-          "Glan",
-          "Mindanao",
-          "recovery",
-          "relief",
-          "Sarangani",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "published_at": null,
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "Mindanao (+2.5); Sarangani (+2.5); Glan (+2.5); earthquake (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "relevance_score": 18,
-        "risk_or_opportunity": "risk",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "",
-        "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
+          "ai_agents_workflow: MCP, Codex"
         ]
       }
     ],
     "observe": [
       {
-        "fetched_at": "2026-06-19T13:46:48+00:00",
-        "id": "11fad926be469e380fa0",
+        "fetched_at": "2026-06-19T14:50:36+00:00",
+        "id": "ac824561526b8c465fae",
         "market_context": [],
-        "matched_keywords": [],
-        "published_at": "2026-06-19T13:00:00+00:00",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T10:58:06+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
-        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
         "risk_or_opportunity": "observation",
-        "source": "Rest of World Global Tech Feed",
+        "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "A customer experiences the Osmo Pocket 4 camera at a DJI store in Shanghai, China, on April 20, 2026. (Photo by Costfoto/NurPhoto via Getty Images)",
-        "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-        "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "summary": "市川 晋 【海老名の果樹農家】 @farm_ichikawa JAさがみにはいつもお世話になってるから敢えて言う。 生成AIを使ったポスターで宣伝しても何も伝わってこないんだよ。 PC上でカタカタしただけで作った販促物より、直接畑に出向いてヘタクソでも撮る一枚の方が何百倍も見る人に届くと思うぞ。 pic.x.com/uWFWPfg66P 2026-...",
+        "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+        "url": "https://togetter.com/li/2711202",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -293,26 +303,32 @@
   "under_observation": {
     "count": 6,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T13:48:20Z",
+    "generated_at": "2026-06-19T14:52:13Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 2,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
+        "current_feed_signal_count": 3,
         "current_feed_signal_examples": [
-          {
-            "score": 19,
-            "source": "BleepingComputer Security",
-            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-            "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
-          },
           {
             "score": 18,
             "source": "ReliefWeb Mindanao Recovery Watch",
-            "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+            "title": "Updates | ReliefWeb",
             "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+          },
+          {
+            "score": 17,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+            "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html"
+          },
+          {
+            "score": 5,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+            "url": "https://togetter.com/li/2711202"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -327,7 +343,7 @@
         "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.",
         "window_hits": {
           "168h": {
-            "hit_count": 191,
+            "hit_count": 195,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -357,6 +373,15 @@
                 "trend_score": 36.7
               },
               {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 29.2
+              },
+              {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
@@ -364,53 +389,61 @@
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 28.9
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "trend",
-                  "hatena"
-                ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.5
               }
             ]
           },
           "1h": {
-            "hit_count": 3,
+            "hit_count": 5,
             "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 30.03
+              },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
                 "trend_score": 24.12
               },
               {
-                "bucket": "agentic_devtools",
+                "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 24.03
+                "topic_key": "domain:pic.x.com",
+                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "trend_score": 12.53
               },
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 3.93
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:jaaiai",
+                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 169,
+            "hit_count": 154,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -433,11 +466,11 @@
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "title:the-full-snyk-ai-security-platform-free-for-open-source-maintainers",
-                "topic_label": "The full Snyk AI Security Platform, free for open source maintainers",
-                "trend_score": 36.73
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 29.23
               },
               {
                 "bucket": "agentic_devtools",
@@ -456,44 +489,62 @@
                 ],
                 "topic_key": "title:unknown",
                 "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.67
+                "trend_score": 27.12
               }
             ]
           },
           "30m": {
-            "hit_count": 3,
+            "hit_count": 5,
             "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 30.86
+              },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
                 "trend_score": 24.95
               },
               {
-                "bucket": "agentic_devtools",
+                "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 24.86
+                "topic_key": "domain:pic.x.com",
+                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "trend_score": 13.36
               },
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 4.77
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:jaaiai",
+                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 60,
+            "hit_count": 64,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -514,6 +565,15 @@
                 "trend_score": 42.15
               },
               {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 29.4
+              },
+              {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
@@ -530,20 +590,11 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 27.09
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.9
               }
             ]
           },
           "72h": {
-            "hit_count": 191,
+            "hit_count": 195,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -573,6 +624,15 @@
                 "trend_score": 36.7
               },
               {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 29.2
+              },
+              {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
@@ -580,21 +640,11 @@
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 28.91
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "trend",
-                  "hatena"
-                ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.54
               }
             ]
           },
           "8h": {
-            "hit_count": 81,
+            "hit_count": 83,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -615,6 +665,15 @@
                 "trend_score": 42.05
               },
               {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 29.3
+              },
+              {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
@@ -631,47 +690,56 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 26.99
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.8
               }
             ]
           },
           "now": {
-            "hit_count": 3,
+            "hit_count": 5,
             "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:premiere-davinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 55.0
+              },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-                "trend_score": 44.8
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
+                "trend_score": 24.9
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "domain:pic.x.com",
+                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "trend_score": 20.0
               },
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 29.5
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
                 "trend_score": 4.0
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:jaaiai",
+                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "trend_score": 2.0
               }
             ]
           }
@@ -751,18 +819,17 @@
             "matched_topics": []
           },
           "24h": {
-            "hit_count": 56,
+            "hit_count": 36,
             "matched_topics": [
               {
                 "bucket": "other",
                 "matched_terms": [
                   "korea",
-                  "election",
-                  "protest"
+                  "election"
                 ],
                 "topic_key": "title:unknown",
                 "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 28.67
+                "trend_score": 27.12
               },
               {
                 "bucket": "other",
@@ -771,27 +838,7 @@
                 ],
                 "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
                 "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-                "trend_score": 19.48
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election",
-                  "protest"
-                ],
-                "topic_key": "title:tunisi-avvocati-in-sciopero-e-protesta-davanti-al-palazzo-di-giustizia",
-                "topic_label": "Tunisi , avvocati in sciopero e protesta davanti al Palazzo di giustizia",
-                "trend_score": 17.13
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election",
-                  "protest"
-                ],
-                "topic_key": "title:balla-i-p-rgjigjet-berish-s-:-shko-n-protest-po-ta-mbajti",
-                "topic_label": "Balla i përgjigjet Berishës : Shko në protestë po ta mbajti !",
-                "trend_score": 16.73
+                "trend_score": 19.32
               },
               {
                 "bucket": "other",
@@ -800,6 +847,25 @@
                 ],
                 "topic_key": "title:china-backs-myanmar-full-participation-in-asean-un",
                 "topic_label": "China backs Myanmar full participation in Asean , UN",
+                "trend_score": 16.73
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "election"
+                ],
+                "topic_key": "title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
+                "topic_label": "Myanmar airstrike kills seven civilians : witnesses",
+                "trend_score": 16.73
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "election",
+                  "protest"
+                ],
+                "topic_key": "title:s-nchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial",
+                "topic_label": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
                 "trend_score": 16.73
               }
             ]
@@ -878,21 +944,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
-        "current_feed_signal_examples": [
-          {
-            "score": 19,
-            "source": "BleepingComputer Security",
-            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-            "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
-          },
-          {
-            "score": 3,
-            "source": "Rest of World Global Tech Feed",
-            "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-            "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "APAC nicht als China-Beifang behandeln.",
         "id": "apac_tech_social_trend_mesh",
         "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
@@ -905,7 +958,7 @@
         "why": "Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät.",
         "window_hits": {
           "168h": {
-            "hit_count": 162,
+            "hit_count": 163,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -957,50 +1010,21 @@
             ]
           },
           "1h": {
-            "hit_count": 4,
+            "hit_count": 1,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security",
                   "devtools"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 24.03
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "tech-"
-                ],
-                "topic_key": "domain:restofworld.org",
-                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-                "trend_score": 10.53
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security",
-                  "devtools"
-                ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 3.93
-              },
-              {
-                "bucket": "apac_signal",
-                "matched_terms": [
-                  "tech-"
-                ],
-                "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
-                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 153,
+            "hit_count": 140,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1021,16 +1045,6 @@
                 "trend_score": 41.98
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "platform",
-                  "security"
-                ],
-                "topic_key": "title:the-full-snyk-ai-security-platform-free-for-open-source-maintainers",
-                "topic_label": "The full Snyk AI Security Platform, free for open source maintainers",
-                "trend_score": 36.73
-              },
-              {
                 "bucket": "market_product",
                 "matched_terms": [
                   "startup"
@@ -1048,54 +1062,35 @@
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
                 "trend_score": 28.96
-              }
-            ]
-          },
-          "30m": {
-            "hit_count": 4,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security",
-                  "devtools"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 24.86
               },
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "tech-"
+                  "korea",
+                  "japan"
                 ],
-                "topic_key": "domain:restofworld.org",
-                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-                "trend_score": 11.36
-              },
+                "topic_key": "title:unknown",
+                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+                "trend_score": 27.12
+              }
+            ]
+          },
+          "30m": {
+            "hit_count": 1,
+            "matched_topics": [
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security",
                   "devtools"
                 ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 4.77
-              },
-              {
-                "bucket": "apac_signal",
-                "matched_terms": [
-                  "tech-"
-                ],
-                "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
-                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 75,
+            "hit_count": 76,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1146,7 +1141,7 @@
             ]
           },
           "72h": {
-            "hit_count": 162,
+            "hit_count": 163,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1198,7 +1193,7 @@
             ]
           },
           "8h": {
-            "hit_count": 83,
+            "hit_count": 84,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1249,44 +1244,15 @@
             ]
           },
           "now": {
-            "hit_count": 4,
+            "hit_count": 1,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security",
                   "devtools"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 29.5
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "tech-"
-                ],
-                "topic_key": "domain:restofworld.org",
-                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
-                "trend_score": 16.0
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security",
-                  "devtools"
-                ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 4.0
-              },
-              {
-                "bucket": "apac_signal",
-                "matched_terms": [
-                  "tech-"
-                ],
-                "topic_key": "title:gopro-and-roomba-were-u.s.-pioneers.-chinese-rivals-now-dominate",
-                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
                 "trend_score": 4.0
               }
             ]
@@ -1295,15 +1261,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 1,
-        "current_feed_signal_examples": [
-          {
-            "score": 19,
-            "source": "BleepingComputer Security",
-            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-            "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
         "id": "global_south_coverage_gap",
         "region": "Africa, South America, LATAM",
@@ -1366,30 +1325,11 @@
             ]
           },
           "1h": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 24.03
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 3.93
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
-            "hit_count": 88,
+            "hit_count": 77,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1410,15 +1350,6 @@
                 "trend_score": 41.98
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:the-full-snyk-ai-security-platform-free-for-open-source-maintainers",
-                "topic_label": "The full Snyk AI Security Platform, free for open source maintainers",
-                "trend_score": 36.73
-              },
-              {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
@@ -1435,31 +1366,21 @@
                 "topic_key": "title:ics-security-conference-2026",
                 "topic_label": "ICS Security Conference 2026",
                 "trend_score": 26.92
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
+                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+                "trend_score": 26.73
               }
             ]
           },
           "30m": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 24.86
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 4.77
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "4h": {
             "hit_count": 48,
@@ -1612,27 +1533,8 @@
             ]
           },
           "now": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 29.5
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
-                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-                "trend_score": 4.0
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           }
         }
       },
@@ -1643,7 +1545,7 @@
           {
             "score": 18,
             "source": "ReliefWeb Mindanao Recovery Watch",
-            "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+            "title": "Updates | ReliefWeb",
             "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
           }
         ],
@@ -1688,7 +1590,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 23.29
+                "trend_score": 23.86
               },
               {
                 "bucket": "disaster_recovery",
@@ -1722,14 +1624,14 @@
                   "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
                 "trend_score": 24.12
               }
             ]
           },
           "24h": {
-            "hit_count": 60,
+            "hit_count": 42,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
@@ -1758,7 +1660,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 23.32
+                "trend_score": 23.92
               },
               {
                 "bucket": "disaster_recovery",
@@ -1792,8 +1694,8 @@
                   "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
                 "trend_score": 24.95
               }
             ]
@@ -1819,7 +1721,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 23.49
+                "trend_score": 24.26
               },
               {
                 "bucket": "disaster_recovery",
@@ -1873,7 +1775,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 23.3
+                "trend_score": 23.87
               },
               {
                 "bucket": "disaster_recovery",
@@ -1918,7 +1820,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 23.39
+                "trend_score": 24.05
               },
               {
                 "bucket": "disaster_recovery",
@@ -1961,9 +1863,9 @@
                   "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-                "trend_score": 44.8
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
+                "trend_score": 24.9
               }
             ]
           }
@@ -2039,35 +1941,8 @@
             "matched_topics": []
           },
           "24h": {
-            "hit_count": 10,
+            "hit_count": 5,
             "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "nav"
-                ],
-                "topic_key": "title:arnavutlukta-muhalefet-milletvekilleri-meclis-k-rs-s-n-bloke-etti",
-                "topic_label": "Arnavutlukta muhalefet milletvekilleri meclis kürsüsünü bloke etti",
-                "trend_score": 13.73
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "yield"
-                ],
-                "topic_key": "title:historical-euro-area-government-bond-yield-curve",
-                "topic_label": "Historical euro area government bond yield curve",
-                "trend_score": 12.73
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "yield"
-                ],
-                "topic_key": "title:latest-06-january-2017-euro-area-government-bond-yield-curves",
-                "topic_label": "Latest (06 January 2017) euro area government bond yield curves",
-                "trend_score": 12.73
-              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -2080,11 +1955,38 @@
               {
                 "bucket": "other",
                 "matched_terms": [
+                  "nav"
+                ],
+                "topic_key": "title:the-great-ai-divide:-navigating-u.s.-and-chinese-dominance",
+                "topic_label": "The Great AI Divide: Navigating U.S. and Chinese dominance",
+                "trend_score": 8.73
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "nav"
+                ],
+                "topic_key": "title:navato-fire-in-sparks-now-100-contained",
+                "topic_label": "Navato Fire in Sparks now 100 % contained",
+                "trend_score": 7.73
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
                   "yield"
                 ],
-                "topic_key": "title:interactive-web-page",
-                "topic_label": "Interactive web page",
-                "trend_score": 10.73
+                "topic_key": "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47-tracking-lower-bond-yields-as-iran-war-win",
+                "topic_label": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+                "trend_score": 7.13
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "yield"
+                ],
+                "topic_key": "title:mortgage-rates-dip-as-10-year-treasury-yield-retreats-nbc-bay-area",
+                "topic_label": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+                "trend_score": 6.73
               }
             ]
           },
