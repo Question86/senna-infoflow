@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-19T05:50:10Z",
+  "generated_at": "2026-06-19T07:39:37Z",
   "cadence_minutes": 5,
   "retention_samples_per_topic": 2500,
   "topics": {
@@ -13233,6 +13233,342 @@
           "status": "emerging",
           "urls": [
             "https://pc.watch.impress.co.jp/docs/news/2118433.html"
+          ]
+        }
+      ]
+    },
+    "title:fileai-secures-strategic-investment-from-jr-east-group-s-venture-arm-to-expand-in-japan": {
+      "topic_key": "title:fileai-secures-strategic-investment-from-jr-east-group-s-venture-arm-to-expand-in-japan",
+      "topic_label": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 21.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:fileai-secures-strategic-investment-from-jr-east-group-s-venture-arm-to-expand-in-japan",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:fileai-secures-strategic-investment-from-jr-east-group-s-venture-arm-to-expand-in-japan",
+          "topic_label": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
+          "network_score": 19.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 19.0,
+          "trend_wucht": 21.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/fileai-funding-20260619/"
+          ]
+        }
+      ]
+    },
+    "title:cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak": {
+      "topic_key": "title:cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak",
+      "topic_label": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak",
+          "topic_label": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
+          ]
+        }
+      ]
+    },
+    "title:ecosystem-roundup:-manus-buyback-is-a-geopolitical-wake-up-call-for-sea-s-ai-ecosystem": {
+      "topic_key": "title:ecosystem-roundup:-manus-buyback-is-a-geopolitical-wake-up-call-for-sea-s-ai-ecosystem",
+      "topic_label": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:ecosystem-roundup:-manus-buyback-is-a-geopolitical-wake-up-call-for-sea-s-ai-ecosystem",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:ecosystem-roundup:-manus-buyback-is-a-geopolitical-wake-up-call-for-sea-s-ai-ecosystem",
+          "topic_label": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/"
+          ]
+        }
+      ]
+    },
+    "earthquake:m-6.6-136-km-e-of-petropavlovsk-kamchatsky-russia:6.6": {
+      "topic_key": "earthquake:m-6.6-136-km-e-of-petropavlovsk-kamchatsky-russia:6.6",
+      "topic_label": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:earthquake:m-6.6-136-km-e-of-petropavlovsk-kamchatsky-russia:6.6",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "earthquake:m-6.6-136-km-e-of-petropavlovsk-kamchatsky-russia:6.6",
+          "topic_label": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
+          ]
+        }
+      ]
+    },
+    "title:splunk-enterprise:-angriffe-auf-codeschmuggel-l-cke": {
+      "topic_key": "title:splunk-enterprise:-angriffe-auf-codeschmuggel-l-cke",
+      "topic_label": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:splunk-enterprise:-angriffe-auf-codeschmuggel-l-cke",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:splunk-enterprise:-angriffe-auf-codeschmuggel-l-cke",
+          "topic_label": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "heise Security Alerts"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
+          ]
+        }
+      ]
+    },
+    "earthquake:m-4.9-169-km-e-of-petropavlovsk-kamchatsky-russia:4.9": {
+      "topic_key": "earthquake:m-4.9-169-km-e-of-petropavlovsk-kamchatsky-russia:4.9",
+      "topic_label": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:earthquake:m-4.9-169-km-e-of-petropavlovsk-kamchatsky-russia:4.9",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "earthquake:m-4.9-169-km-e-of-petropavlovsk-kamchatsky-russia:4.9",
+          "topic_label": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-russia-19-0:6": {
+      "topic_key": "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-russia-19-0:6",
+      "topic_label": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-russia-19-0:6",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-russia-19-0:6",
+          "topic_label": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396"
+          ]
+        }
+      ]
+    },
+    "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-off-east-co:6": {
+      "topic_key": "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-off-east-co:6",
+      "topic_label": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-off-east-co:6",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "earthquake:green-earthquake-magnitude-6.6m-depth:10km-in-off-east-co:6",
+          "topic_label": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDACS All Events Last 24h"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395"
+          ]
+        }
+      ]
+    },
+    "earthquake:m-6.6-185-km-se-of-petropavlovsk-kamchatsky-russia:6.6": {
+      "topic_key": "earthquake:m-6.6-185-km-se-of-petropavlovsk-kamchatsky-russia:6.6",
+      "topic_label": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:earthquake:m-6.6-185-km-se-of-petropavlovsk-kamchatsky-russia:6.6",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "earthquake:m-6.6-185-km-se-of-petropavlovsk-kamchatsky-russia:6.6",
+          "topic_label": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/pt26170000"
+          ]
+        }
+      ]
+    },
+    "title:8-6": {
+      "topic_key": "title:8-6",
+      "topic_label": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:8-6",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:8-6",
+          "topic_label": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://internet.watch.impress.co.jp/docs/news/2118337.html"
+          ]
+        }
+      ]
+    },
+    "title:it-nature": {
+      "topic_key": "title:it-nature",
+      "topic_label": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:it-nature",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:it-nature",
+          "topic_label": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.itmedia.co.jp/news/articles/2606/19/news028.html"
+          ]
+        }
+      ]
+    },
+    "title:virtual-monorepo": {
+      "topic_key": "title:virtual-monorepo",
+      "topic_label": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
+      "last_seen_at": "2026-06-19T07:39:37Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T07-39-37Z:title:virtual-monorepo",
+          "sample_index": 5939515,
+          "timestamp_utc": "2026-06-19T07:39:37Z",
+          "run_id": "2026-06-19T07-39-37Z",
+          "topic_key": "title:virtual-monorepo",
+          "topic_label": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://ymmt.hatenablog.com/entry/2026/06/18/230120"
           ]
         }
       ]

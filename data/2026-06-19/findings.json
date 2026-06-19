@@ -24,6 +24,52 @@
     "id": "2ea5056bca03cec2c312"
   },
   {
+    "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
+    "url": "https://e27.co/fileai-funding-20260619/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:04:44+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan’s JR East Group, marking a significant step in the company’s expansion into the Japanese market. The investment comes alongside a deployment partnership in which fileAI’s governed AI platform will be rolled out across JR East […] The post fileAI secures strategic investment f…",
+    "matched_keywords": [
+      "AI",
+      "funding",
+      "Singapore",
+      "startup",
+      "Watchgraph:capitals_power_centers",
+      "Webentwicklung"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Webentwicklung (+3.0); startup (+2.0); AI (+2.0); funding (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "8d4d98664c96854e4344"
+  },
+  {
     "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
     "url": "https://restofworld.org/2026/tech-facebook-google-whatsapp-scams/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
@@ -301,6 +347,48 @@
     "id": "4867136ab2b4a24b0865"
   },
   {
+    "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:47:55+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+    "matched_keywords": [
+      "Security",
+      "Watchgraph:cyber_active_exploitation",
+      "Watchgraph:narrative_social_reputation"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation, narrative_social_reputation (+6.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation",
+      "narrative_social_reputation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Fortinet",
+      "narrative_social_reputation: data leak"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "S",
+      "PINS"
+    ],
+    "id": "6a5f37aa46c70c3c3df1"
+  },
+  {
     "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
     "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -411,6 +499,50 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "66a9d6052b256d37c2e3"
+  },
+  {
+    "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
+    "url": "https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:11:11+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "Manus’s reported buyback encapsulates a new reality: AI deals are no longer just commercial transactions but geopolitical chess moves with clear implications for Southeast Asia. If Chinese investors repurchase Manus at the roughly US$2 billion price Meta paid, the outcome will reflect Beijing’s intent to retain control over advanced AI assets developed with Chinese capital, […] The post Ecosystem Roundup: Manus buyb…",
+    "matched_keywords": [
+      "AI",
+      "Southeast Asia",
+      "startup",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); AI (+2.5); recent (+1.0); watchgraph region china_credible_only: Beijing (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "d8259e9fe8f69b273510"
   },
   {
     "title": "Standing committee reports on Canada response to wildfires",
@@ -927,6 +1059,44 @@
       "soy"
     ],
     "id": "366fdf4bc240ed5ddea5"
+  },
+  {
+    "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:33:01.754+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "PAGER - GREEN ShakeMap - VI Time 2026-06-19 06:52:34 UTC 2026-06-19 06:52:34 UTC at epicenter Location 53.249°N 160.651°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "earthquake (+2.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a67a68a21d5dcb4fa94a"
   },
   {
     "title": "Editorial | US and Iran have good reasons to stay the course for peace",
@@ -2064,6 +2234,26 @@
     "id": "4f31e75bd542dfbf2a10"
   },
   {
+    "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
+    "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:52:00.000+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "Splunk warnt, dass bösartige Akteure eine kritische Codeschmuggel-Lücke in Splunk Enterprise angreifen. Updates stehen bereit.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6248b5ea8b6455e7824f"
+  },
+  {
     "title": "youtuber",
     "url": "https://trends.google.com/trending/rss?geo=JP",
     "source": "Google Trends Japan Hot Feed",
@@ -2398,6 +2588,150 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8aecbb8459ea327d7f66"
+  },
+  {
+    "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:35:42.040+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "Time 2026-06-19 07:05:45 UTC 2026-06-19 07:05:45 UTC at epicenter Location 52.824°N 161.115°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "dac61b2277ac079dd41c"
+  },
+  {
+    "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:19:38+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "On 6/19/2026 6:52:34 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=V. The earthquake had Magnitude 6.6M, Depth:10km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2fca87e99f78748c0d71"
+  },
+  {
+    "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
+    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547395",
+    "source": "GDACS All Events Last 24h",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:05:18+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "On 6/19/2026 6:51:27 AM, an earthquake occurred in Off East Coast Of Kamchatka potentially affecting No people affected in 100km. The earthquake had Magnitude 6.6M, Depth:10km.",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "085a7cc41213947164f2"
+  },
+  {
+    "title": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26170000",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-19T07:03:38.171+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "Time 2026-06-19 06:51:27 UTC 2026-06-19 06:51:27 UTC at epicenter Location 52.151°N 160.923°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "47f4c5650f3c1f639b40"
   },
   {
     "title": "The AI economy is moving faster than our institutions",
@@ -2960,6 +3294,48 @@
     "id": "9cb78530cd441554dd1d"
   },
   {
+    "title": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2118337.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:26:50+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6a308ee81fa2c253389a"
+  },
+  {
+    "title": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news028.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T22:48:32+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "科学誌「Nature」が6月16日に報じたところによると、現在、IT業界の富裕層や起業家たちの間で、有効性が証明されていない薬やサプリメントを使って自らの体を改造し、寿命を延ばそうとする「バイオハッキング」が過熱しているという。 例えば2019年、IT起業家のブライアン・ジョンソン氏は寿命を延ばすため、通常は臓器...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3f5427b7b60c2c29e98"
+  },
+  {
     "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
     "url": "https://www.itmedia.co.jp/news/articles/2606/19/news069.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -2979,6 +3355,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6a149b0048aed0b532bd"
+  },
+  {
+    "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
+    "url": "https://ymmt.hatenablog.com/entry/2026/06/18/230120",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T21:07:11+00:00",
+    "fetched_at": "2026-06-19T07:38:12+00:00",
+    "summary": "TL;DR プロダクトの構成要素が多数の Git リポジトリに分かれているが、モノリポ化するのは大変。でもコーディングエージェントにはモノリポのほうが文脈与えやすくて、どうしよう。そんなあなたに virtual monorepo パターンと実際の使い方を指南します。 Claude Code をはじめとするコーディングエージェントを一切使...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "42ce6cfde0d0307067fd"
   },
   {
     "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T05:50:10+00:00",
+  "generated_at": "2026-06-19T07:39:37+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -109,20 +109,21 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "updated_at": "2026-06-18T22:34:21+00:00",
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "updated_at": "2026-06-19T07:39:37+00:00",
       "network_scores": [
         16.1,
         28.1,
         63.8,
         17.1,
         14.1,
-        17.1
+        17.1,
+        18.7
       ],
-      "rolling_average": 26.05,
+      "rolling_average": 25.0,
       "rolling_peak": 63.8,
-      "last_score": 17.1,
-      "z_hint": -8.95
+      "last_score": 18.7,
+      "z_hint": -6.3
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -3639,6 +3640,127 @@
     "title:000wh-lenovo-thinkpad": {
       "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
       "updated_at": "2026-06-19T05:50:10+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:fileai-secures-strategic-investment-east-group-venture-arm": {
+      "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        24.1
+      ],
+      "rolling_average": 24.1,
+      "rolling_peak": 24.1,
+      "last_score": 24.1,
+      "z_hint": 0.0
+    },
+    "title:ecosystem-roundup-manus-buyback-geopolitical-wake-call-sea": {
+      "title": "Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 6.6 - 136 km e of petropavlovsk-kamchatsky, russia:6.6": {
+      "title": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        15.7
+      ],
+      "rolling_average": 15.7,
+      "rolling_peak": 15.7,
+      "last_score": 15.7,
+      "z_hint": 0.0
+    },
+    "domain:www.heise.de": {
+      "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
+      "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "earthquake:russia 19:6.0": {
+      "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V.",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "earthquake:off east coast of kamchatka 19:6.0": {
+      "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Off East Coast Of Kamchatka 19/06/2026 06:51 UTC, No people affected in 100km.",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 6.6 - 185 km se of petropavlovsk-kamchatsky, russia:6.6": {
+      "title": "M 6.6 - 185 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        11.7
+      ],
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
+      "last_score": 11.7,
+      "z_hint": 0.0
+    },
+    "url:https://internet.watch.impress.co.jp/docs/news/2118337.html": {
+      "title": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:nature": {
+      "title": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
+      "updated_at": "2026-06-19T07:39:37+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:ymmt.hatenablog.com": {
+      "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
+      "updated_at": "2026-06-19T07:39:37+00:00",
       "network_scores": [
         10.1
       ],
