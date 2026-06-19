@@ -1,6 +1,8 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-06-19T02:33:15Z",
+  "schema_version": 2,
+  "generated_at": "2026-06-19T02:37:23Z",
+  "cadence_minutes": 5,
+  "retention_samples_per_topic": 2500,
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",

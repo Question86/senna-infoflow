@@ -1,21 +1,161 @@
 {
   "schema_version": 2,
-  "doc_type": "senna.trend_radar",
+  "doc_type": "senna.run_snapshot",
   "run_id": "2026-06-19T02-37-23Z",
   "generated_at": "2026-06-19T02:37:23Z",
-  "cadence_minutes": 5,
-  "window_keys": [
-    "now",
-    "30m",
-    "1h",
-    "4h",
-    "8h",
-    "24h",
-    "72h",
-    "168h"
-  ],
-  "ranked_topics": [],
-  "windows": {
+  "latest": {
+    "counts": {
+      "high": 0,
+      "medium": 0,
+      "new_relevant_findings": 0,
+      "observe": 0,
+      "source_errors": 8,
+      "today_file_total": 136
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 10,
+        "github": 5,
+        "macro_finance": 8,
+        "other": 23,
+        "security": 10,
+        "social": 1
+      },
+      "counts": {
+        "findings": 0,
+        "high": 0,
+        "medium": 0,
+        "observe": 0,
+        "source_errors": 8
+      },
+      "coverage_confidence": "low",
+      "failed_sensor_groups": {
+        "other": 6,
+        "security": 1,
+        "social": 1
+      },
+      "generated_at": "2026-06-19T02:37:23Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": [
+        "source_errors_present",
+        "source_errors_exceed_findings",
+        "critical_sensor_group_failed:social",
+        "critical_sensor_group_failed:security"
+      ]
+    },
+    "date": "2026-06-19",
+    "findings": [],
+    "generated_at": "2026-06-19T02:37:23+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T02:37:23Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [],
+      "medium": [],
+      "observe": []
+    },
+    "source_errors": [
+      {
+        "error": "403 Client Error: Forbidden for url: https://www.techinasia.com/feed",
+        "source_id": "techinasia_feed",
+        "source_name": "Tech in Asia Feed",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.jpcert.or.jp/english/rss/jpcert.rdf",
+        "source_id": "jpcert_english_alerts",
+        "source_name": "JPCERT/CC English Alerts",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.twcert.org.tw/tw/lp-14-1-x.xml",
+        "source_id": "twcert_security_news",
+        "source_name": "TWCERT/CC Security News",
+        "source_type": "rss"
+      },
+      {
+        "error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%28twitter+OR+x.com+OR+X%29+%28trend+OR+trending+OR+trends%29+%28RSS+OR+feed+OR+aggregator%29+%28Japan+OR+Japanese+OR+JP%29+stars%3A%3E5+pushed%3A%3E2025-01-01&sort=updated&order=desc&per_page=8",
+        "source_id": "github_search_japan_twitter_trend_rss_tools",
+        "source_name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
+        "source_type": "github_search"
+      },
+      {
+        "error": "403 Client Error: Forbidden for url: https://www.oecd.org/en/about/newsroom.html",
+        "source_id": "oecd_newsroom_macro",
+        "source_name": "OECD Newsroom Macro and Policy Watch",
+        "source_type": "webpage_check"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22central+bank%22+OR+inflation+OR+%22rate+cut%22+OR+%22rate+hike%22+OR+bonds+OR+recession+OR+tariff+OR+sanctions+OR+oil+OR+shipping%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
+        "source_id": "gdelt_macro_market_policy_rss",
+        "source_name": "GDELT Macro Market Policy RSS",
+        "source_type": "rss"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28election+OR+protest+OR+strike+OR+coup+OR+parliament+OR+%22government+collapse%22+OR+sanctions+OR+unrest%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
+        "source_id": "gdelt_politics_unrest_elections_rss",
+        "source_name": "GDELT Politics Unrest Elections RSS",
+        "source_type": "rss"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28wildfire+OR+%22forest+fire%22+OR+flood+OR+drought+OR+blackout+OR+%22port+closure%22+OR+%22supply+chain%22+OR+%22rail+strike%22+OR+%22pipeline+outage%22%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
+        "source_id": "gdelt_initial_disruption_rss",
+        "source_name": "GDELT Initial Disruption Resonance RSS",
+        "source_type": "rss"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-19T02:37:23+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 0,
+      "clusters": 0,
+      "cross_source_confrmed": 0,
+      "hot": 0,
+      "early_signals": 0,
+      "dominance_penalized": 0
+    },
+    "clusters": [],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-19T02:37:23Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [],
+  "trend_windows": {
     "now": {
       "window_minutes": 0,
       "generated_at": "2026-06-19T02:37:23Z",
