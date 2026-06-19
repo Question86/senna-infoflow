@@ -1,0 +1,61 @@
+{
+  "_comment": "Noise and broken-source controls. Remove means do not include in active merged config. Prefer direct official feed/source of record over media-framed or homepage-noise.",
+  "remove_source_ids": [
+    "iea_news_energy_web",
+    "opec_press_releases_web",
+    "isw_ukraine_rss",
+    "liveuamap_ukraine_web",
+    "ecdc_threats_reports_web",
+    "nasa_climate_news_web",
+    "copernicus_ems_floods_web",
+    "copernicus_climate_news_web",
+    "un_news_global_web"
+  ],
+  "disable_source_ids": [
+    "reuters_public_feed_reference",
+    "afp_api_reference",
+    "prediction_market_public_watch",
+    "x_japan_direct_rsshub_research"
+  ],
+  "downgrade_source_ids": {
+    "eia_weekly_petroleum_status_web": {
+      "max_items": 1,
+      "notes_append": "Kept as official reference but homepage extraction is noisy; replace with EIA API/table adapter."
+    },
+    "eia_today_in_energy_web": {
+      "max_items": 1,
+      "notes_append": "Kept low-volume until RSS/API adapter is pinned."
+    },
+    "fda_press_announcements_web": {
+      "max_items": 1,
+      "notes_append": "Official but webpage extraction can be noisy."
+    },
+    "fda_drugs_whats_new_web": {
+      "max_items": 1,
+      "notes_append": "Official but webpage extraction can be noisy."
+    },
+    "usda_wasde_web": {
+      "max_items": 1,
+      "notes_append": "Official but should become specific report/PDF adapter."
+    },
+    "usda_nass_news_web": {
+      "max_items": 1,
+      "notes_append": "Official but should become RSS/API if available."
+    },
+    "fao_newsroom_web": {
+      "max_items": 1,
+      "notes_append": "Official but broad homepage; keep low-volume."
+    }
+  },
+  "policy": {
+    "direct_source_first": true,
+    "media_after_direct_sources": true,
+    "police_fire_courts_health_label": "direct_event_or_process_claim_not_final_truth",
+    "do_not": [
+      "Do not treat police press releases as court-proven facts.",
+      "Do not treat court schedules as outcomes.",
+      "Do not treat media rewrites as stronger than original official/first-responder feeds.",
+      "Do not scrape restricted APIs or bypass access controls."
+    ]
+  }
+}
