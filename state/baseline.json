@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T11:01:02+00:00",
+  "generated_at": "2026-06-19T11:28:55+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -816,15 +816,16 @@
       "z_hint": 0.0
     },
     "domain:www.ecb.europa.eu": {
-      "title": "Euro area monthly balance of payments: April 2026",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
+      "updated_at": "2026-06-19T11:28:55+00:00",
       "network_scores": [
-        241.3
+        241.3,
+        23.3
       ],
-      "rolling_average": 241.3,
+      "rolling_average": 132.3,
       "rolling_peak": 241.3,
-      "last_score": 241.3,
-      "z_hint": 0.0
+      "last_score": 23.3,
+      "z_hint": -109.0
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -3936,6 +3937,292 @@
       "rolling_average": 10.1,
       "rolling_peak": 10.1,
       "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.twcert.org": {
+      "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        115.7
+      ],
+      "rolling_average": 115.7,
+      "rolling_peak": 115.7,
+      "last_score": 115.7,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2025-55182": {
+      "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        34.2
+      ],
+      "rolling_average": 34.2,
+      "rolling_peak": 34.2,
+      "last_score": 34.2,
+      "z_hint": 0.0
+    },
+    "earthquake:updates | reliefweb:unknown": {
+      "title": "Updates | ReliefWeb",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        23.7
+      ],
+      "rolling_average": 23.7,
+      "rolling_peak": 23.7,
+      "last_score": 23.7,
+      "z_hint": 0.0
+    },
+    "title:security-alert-alert-regarding-vulnerabilities-adobe-acrobat-reader": {
+      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        20.2
+      ],
+      "rolling_average": 20.2,
+      "rolling_peak": 20.2,
+      "last_score": 20.2,
+      "z_hint": 0.0
+    },
+    "title:ics-security-conference-2026": {
+      "title": "ICS Security Conference 2026",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:jsac2026-day": {
+      "title": "JSAC2026 -Day 1-",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2026-20182": {
+      "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:csirts-around-world-azerbaijan": {
+      "title": "CSIRTs Around the World – Azerbaijan",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:security-alert-microsoft-releases-june-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:security-alert-updated-alert-regarding-multiple-vulnerabilities-trend": {
+      "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:security-alert-microsoft-releases-may-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:security-alert-microsoft-releases-april-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:skill": {
+      "title": "デザインシステムのskillの精度が上がった8つの方法",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "cve:CVE-2026-20131": {
+      "title": "Interlock 勒索軟體組織利用 Cisco FMC 零日漏洞發動攻擊，呼籲用戶儘速修補",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:study-binaries-created-rust-through-reverse-engineering": {
+      "title": "Study of Binaries Created with Rust through Reverse Engineering",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:yamagoya-real-time-client-monitoring-tool-using-sigma": {
+      "title": "YAMAGoya: A Real-time Client Monitoring Tool Using Sigma and YARA Rules",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.digital.go.jp/resources/machine-readability-rule": {
+      "title": "行政データにおける機械可読性に関するルールをコード化する取組みについて掲載しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.digital.go.jp/policies/mobility": {
+      "title": "モビリティ：令和7年度「「交通商社機能」の取組を支援する事例集」を掲載しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "title:vol-125": {
+      "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "title:vol-140-vol-141": {
+      "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.140、Vol.141を更新しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8": {
+      "title": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.digital.go.jp/speech/minister-260619-01": {
+      "title": "松本大臣記者会見（令和8年6月19日）動画を掲載しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.digital.go.jp/news/d37c295a-17eb-4ca9-87dd-6f0ee87146ae": {
+      "title": "第4回 日EUデジタルパートナーシップ閣僚級会合の結果",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "title:2026-oecd": {
+      "title": "三角デジタル監が2026年OECD閣僚理事会に出席しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "title:2026": {
+      "title": "デジタル関係制度改革検討会（第10回）（2026年4月23日開催）の議事録を掲載しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.digital.go.jp/policies/digital_promotion_staff/application-for-student": {
+      "title": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
+      "updated_at": "2026-06-19T11:28:55+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
       "z_hint": 0.0
     }
   }

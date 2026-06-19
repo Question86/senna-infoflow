@@ -11,17 +11,18 @@
     "macro_policy": "every 15 minutes or manual dispatch"
   },
   "counts": {
-    "active_sources": 42,
+    "active_sources": 56,
     "by_type": {
       "github_search": 5,
       "hackernews": 3,
       "manual_note": 1,
-      "rss": 31,
-      "webpage_check": 2
+      "rss": 44,
+      "webpage_check": 3
     },
     "by_lane": {
-      "base": 26,
+      "base": 29,
       "hot": 6,
+      "macro_policy": 11,
       "platform_dev": 8,
       "vendor_security": 2
     }
@@ -172,12 +173,30 @@
       "max_items": 20
     },
     {
+      "id": "japan_digital_agency_news",
+      "name": "Japan Digital Agency News RSS",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "apac_public_institution",
+      "host": "www.digital.go.jp",
+      "max_items": 10
+    },
+    {
       "id": "jpcert_english_alerts",
       "name": "JPCERT/CC English Alerts",
       "type": "rss",
       "lane": "base",
       "source_class": "security_advisory",
       "host": "www.jpcert.or.jp",
+      "max_items": 10
+    },
+    {
+      "id": "jpcert_english_blog",
+      "name": "JPCERT/CC English Blog Atom",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "security_advisory",
+      "host": "blogs.jpcert.or.jp",
       "max_items": 10
     },
     {
@@ -235,6 +254,15 @@
       "max_items": 15
     },
     {
+      "id": "reliefweb_mindanao_recovery_watch",
+      "name": "ReliefWeb Mindanao Recovery Watch",
+      "type": "webpage_check",
+      "lane": "base",
+      "source_class": "humanitarian_recovery_watch",
+      "host": "reliefweb.int",
+      "max_items": 1
+    },
+    {
       "id": "restofworld_feed",
       "name": "Rest of World Global Tech Feed",
       "type": "rss",
@@ -244,17 +272,17 @@
       "max_items": 10
     },
     {
-      "id": "techinasia_feed",
-      "name": "Tech in Asia Feed",
+      "id": "twcert_security_news",
+      "name": "TWCERT/CC Security News RSS",
       "type": "rss",
       "lane": "base",
-      "source_class": "asia_tech_media",
-      "host": "www.techinasia.com",
+      "source_class": "security_advisory",
+      "host": "www.twcert.org.tw",
       "max_items": 10
     },
     {
-      "id": "twcert_security_news",
-      "name": "TWCERT/CC Security News",
+      "id": "twcert_tvn_vulnerability_notes",
+      "name": "TWCERT/CC TVN Vulnerability Notes RSS",
       "type": "rss",
       "lane": "base",
       "source_class": "security_advisory",
@@ -314,6 +342,105 @@
       "source_class": null,
       "host": "earthquake.usgs.gov",
       "max_items": 10
+    },
+    {
+      "id": "bis_central_bank_speeches",
+      "name": "BIS Central Bankers Speeches",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "bis_press_releases",
+      "name": "BIS Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "bis_statistics",
+      "name": "BIS Statistical Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_open_market_operations",
+      "name": "ECB Open Market Operations and Communication",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 10
+    },
+    {
+      "id": "ecb_press_policy",
+      "name": "ECB Press Releases Speeches Interviews",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_statistical_press",
+      "name": "ECB Statistical Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 15
+    },
+    {
+      "id": "ecb_yield_curve",
+      "name": "ECB Euro Area Yield Curve",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 10
+    },
+    {
+      "id": "fed_monetary_policy_press",
+      "name": "Federal Reserve Monetary Policy Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 15
+    },
+    {
+      "id": "fed_policy_rates",
+      "name": "Federal Reserve Policy Rates Feed",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 10
+    },
+    {
+      "id": "fed_selected_interest_rates_h15",
+      "name": "Federal Reserve Selected Interest Rates H.15",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 10
+    },
+    {
+      "id": "fed_speeches_testimony",
+      "name": "Federal Reserve Speeches and Testimony",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 15
     },
     {
       "id": "github_blog_atom",

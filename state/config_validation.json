@@ -1,11 +1,11 @@
 {
   "counts": {
     "errors": 0,
-    "sources": 53,
+    "sources": 72,
     "warnings": 0
   },
   "doc_type": "senna.config_validation",
-  "generated_at": "2026-06-19T10:59:34Z",
+  "generated_at": "2026-06-19T11:27:06Z",
   "issues": [],
   "schema_version": 1,
   "status": "ok"

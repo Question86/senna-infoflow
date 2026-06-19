@@ -4,9 +4,10 @@ Scope: configured public sources after runtime overlay merge.
 
 ## Counts
 
-- Active sources: `42`
-- base: `26`
+- Active sources: `56`
+- base: `29`
 - hot: `6`
+- macro_policy: `11`
 - platform_dev: `8`
 - vendor_security: `2`
 
@@ -30,16 +31,19 @@ Scope: configured public sources after runtime overlay merge.
 - `hn_ai_security` — Hacker News AI/Security Search / `hackernews` / class `-` / host `-`
 - `hn_local_first_ai` — Hacker News Local-first AI Search / `hackernews` / class `-` / host `-`
 - `hn_release_security_burst` — Hacker News Release/Security Burst / `hackernews` / class `platform_social` / host `-`
+- `japan_digital_agency_news` — Japan Digital Agency News RSS / `rss` / class `apac_public_institution` / host `www.digital.go.jp`
 - `jpcert_english_alerts` — JPCERT/CC English Alerts / `rss` / class `security_advisory` / host `www.jpcert.or.jp`
+- `jpcert_english_blog` — JPCERT/CC English Blog Atom / `rss` / class `security_advisory` / host `blogs.jpcert.or.jp`
 - `jvn_vulnerability_notes` — JVN Japan Vulnerability Notes / `rss` / class `security_advisory` / host `jvn.jp`
 - `manual_notes` — Manual Notes Inbox / `manual_note` / class `-` / host `-`
 - `nhc_atlantic_cyclones` — NOAA NHC Atlantic Tropical Cyclones / `rss` / class `-` / host `www.nhc.noaa.gov`
 - `nhc_central_pacific_cyclones` — NOAA NHC Central Pacific Tropical Cyclones / `rss` / class `-` / host `www.nhc.noaa.gov`
 - `nhc_eastern_pacific_cyclones` — NOAA NHC Eastern Pacific Tropical Cyclones / `rss` / class `-` / host `www.nhc.noaa.gov`
 - `openai_news_rss` — OpenAI News RSS / `rss` / class `-` / host `openai.com`
+- `reliefweb_mindanao_recovery_watch` — ReliefWeb Mindanao Recovery Watch / `webpage_check` / class `humanitarian_recovery_watch` / host `reliefweb.int`
 - `restofworld_feed` — Rest of World Global Tech Feed / `rss` / class `global_south_tech_media` / host `restofworld.org`
-- `techinasia_feed` — Tech in Asia Feed / `rss` / class `asia_tech_media` / host `www.techinasia.com`
-- `twcert_security_news` — TWCERT/CC Security News / `rss` / class `security_advisory` / host `www.twcert.org.tw`
+- `twcert_security_news` — TWCERT/CC Security News RSS / `rss` / class `security_advisory` / host `www.twcert.org.tw`
+- `twcert_tvn_vulnerability_notes` — TWCERT/CC TVN Vulnerability Notes RSS / `rss` / class `security_advisory` / host `www.twcert.org.tw`
 
 ### hot
 
@@ -49,6 +53,20 @@ Scope: configured public sources after runtime overlay merge.
 - `gdacs_tropical_cyclones_week` — GDACS Tropical Cyclones Last Week / `rss` / class `-` / host `www.gdacs.org`
 - `usgs_m45_earthquakes_hour` — USGS M4.5+ Earthquakes Past Hour / `rss` / class `geoscience_institute` / host `earthquake.usgs.gov`
 - `usgs_significant_earthquakes` — USGS Significant Earthquakes / `rss` / class `-` / host `earthquake.usgs.gov`
+
+### macro_policy
+
+- `bis_central_bank_speeches` — BIS Central Bankers Speeches / `rss` / class `central_bank_network` / host `www.bis.org`
+- `bis_press_releases` — BIS Press Releases / `rss` / class `central_bank_network` / host `www.bis.org`
+- `bis_statistics` — BIS Statistical Releases / `rss` / class `central_bank_network` / host `www.bis.org`
+- `ecb_open_market_operations` — ECB Open Market Operations and Communication / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `ecb_press_policy` — ECB Press Releases Speeches Interviews / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `ecb_statistical_press` — ECB Statistical Press Releases / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `ecb_yield_curve` — ECB Euro Area Yield Curve / `rss` / class `central_bank` / host `www.ecb.europa.eu`
+- `fed_monetary_policy_press` — Federal Reserve Monetary Policy Press Releases / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `fed_policy_rates` — Federal Reserve Policy Rates Feed / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `fed_selected_interest_rates_h15` — Federal Reserve Selected Interest Rates H.15 / `rss` / class `central_bank` / host `www.federalreserve.gov`
+- `fed_speeches_testimony` — Federal Reserve Speeches and Testimony / `rss` / class `central_bank` / host `www.federalreserve.gov`
 
 ### platform_dev
 

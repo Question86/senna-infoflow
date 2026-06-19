@@ -33,6 +33,40 @@
     "id": "d1ad5b853ec8a452e37c"
   },
   {
+    "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-29T02:18:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "《網路韌性法案》（Cyber Resilience Act, CRA）執行時程已正式進入倒數階段，最具衝擊力的第 14 條「漏洞通報義務」將於2026年9月11日 正式強制執行。屆時，所有進入歐盟市場的具備數位功能產品，若得知存在「活躍漏洞利用（Actively Exploited Vulnerability）」，製造商必須在24小時內發布早期預警。這項嚴格的法規不僅是歐盟境內的法律義務，更對全球電子製造供應鏈帶來巨大的連鎖反應，迫使廠商必須全面升級產品開發與漏洞應變機制。 根據法案最終公告條款，製造商在獲悉漏洞後將面臨極具挑戰性的時間壓力，企業必須在發現漏洞的24小時內，透過歐盟「單一通報平台 (SRP)」向當地電腦安全事件應變團隊 (CSIRT) 及歐盟網路安全局 (ENISA) 發出早期預警，並於72 小時內補齊詳細的漏洞災損評估。此外，在具備可用的矯正或緩解措施後 14 天內，製造商還需提交最終報告，若屬於重大資安事件…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: actively exploited"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "7e231db339493730183a"
+  },
+  {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
     "url": "https://jvn.jp/vu/JVNVU92116935/",
     "source": "JVN Japan Vulnerability Notes",
@@ -123,6 +157,71 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ade6f01bdf6d264a92ba"
+  },
+  {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-19T11:27:28+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "earthquake",
+      "General Santos",
+      "Glan",
+      "Mindanao",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "14b6748483595d15f4a6"
+  },
+  {
+    "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
+    "url": "https://blogs.jpcert.or.jp/en/2026/02/multiple-threat-actors-rapidly-exploit-react2shell-a-case-study-of-active-compromise.html",
+    "source": "JPCERT/CC English Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-02-13T02:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "On December 3, 2025 (local time), a vulnerability allowing unauthenticated remote code execution in React Server Components (RSC) (CVE-2025-55182) was disclosed. JPCERT/CC has received multiple incident reports related to this attack. Among them, there was a case in which this...",
+    "matched_keywords": [
+      "Content-Chance",
+      "incident",
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+7.5); Content-Chance (+6.2); JPCERT (+2.0); incident (+2.0)",
+    "risk_or_opportunity": "mixed",
+    "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "00c8bb4c800818cf66d3"
   },
   {
     "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
@@ -385,6 +484,28 @@
     "id": "f732bf5ec0db01b33172"
   },
   {
+    "title": "ICS Security Conference 2026",
+    "url": "https://blogs.jpcert.or.jp/en/2026/04/ics-conference2026.html",
+    "source": "JPCERT/CC English Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-04-14T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "JPCERT/CC held the ICS Security Conference 2026 on February 10, 2026. This conference aims to share the current threat landscape surrounding Industrial Control System (ICS) in Japan and abroad, as well as initiatives undertaken by stakeholders in ICS security. It...",
+    "matched_keywords": [
+      "Japan",
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff2a6b8d063b7b1d9f67"
+  },
+  {
     "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -604,6 +725,50 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2097c8cb132ad53dfa30"
+  },
+  {
+    "title": "新型惡意軟體 KadNap 鎖定家用路由器",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10809-f19ee-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-03-30T08:51:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "資安研究團隊 Black Lotus Labs 近期發現一款名為「KadNap」的新型惡意軟體，該威脅自2025年8月起活躍，主要針對多家知名品牌邊緣網路設備(edge device)與家用(SOHO)路由器進行攻擊。遭感染的設備會被納入殭屍網路，並成為非法代理服務「Doppelganger」的一部分，供網路犯罪者利用。目前全球估計超過14,000台設備受害，受影響地區主要集中於美國(60%)，台灣、香港與俄羅斯亦有約5%的感染比例。 根據分析報告，KadNap展現高度隱匿性與技術性。攻擊者首先從IP位址為212.104.140[.]140的伺服器下載名為「aic.sh」的惡意腳本並透過建立排程任務（cron job）每小時定期執行以確保持續性。隨後下載名為「kad」的惡意執行檔部署惡意軟體，該惡意軟體會強制關閉標準的SSH連接埠（Port 22）以防範外部管理介入並強化控制權。 KadNap採用客製化的Kademlia 分散…",
+    "matched_keywords": [
+      "GitHub Actions",
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "72022ed22225f911a0b7"
+  },
+  {
+    "title": "開源漏洞掃描工具 Trivy 遭 TeamPCP 供應鏈攻擊，恐導致CI/CD 機敏資料外洩",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10807-5c50f-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-03-30T08:30:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "由雲端資安廠商Aqua Security 維護的知名開源漏洞掃描工具 Trivy，近期證實遭名為 TeamPCP的駭客組織發動大規模供應鏈攻擊。攻擊者利用未完全撤銷的高權限服務帳號憑證，成功竄改 Trivy 官方發布版本及 GitHub Actions，並將惡意竊資軟體植入CI/CD流程中，導致惡意蠕蟲在npm套件庫中大規模擴散。 根據資安研究人員與Aqua Security 的研究調查，此次事件源於2026年2月底 CI/CD環境配置不當導致高權限存取Token外洩。儘管官方於3月1日進行憑證輪替，但因處理不全，駭客仍保有部分存取權限。3月19日，駭客利用殘留憑證對aquasecurity/trivy-action 儲存庫發動「強制推送 (Force-push)」，竄改 76 個版本標籤中的75個，以及setup-trivy的7個版本標籤。導致特定版本標籤的CI/CD流程在不知情的狀況下執行惡意程式碼。此外，駭客還在 Doc…",
+    "matched_keywords": [
+      "GitHub Actions",
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff5571a8e60fa5a2b1e7"
   },
   {
     "title": "penpot/penpot",
@@ -1005,6 +1170,29 @@
     "id": "0e26c88b4771382933f7"
   },
   {
+    "title": "JSAC2026 -Day 1-",
+    "url": "https://blogs.jpcert.or.jp/en/2026/02/jsac2026day1.html",
+    "source": "JPCERT/CC English Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-02-20T02:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "JPCERT/CC hosted JSAC2026 from January 21 to 23, 2026. JSAC is an annual conference dedicated to advancing the capabilities of security analysts by fostering the exchange of technical knowledge and operational insights related to incident analysis and response. Now in...",
+    "matched_keywords": [
+      "analysis",
+      "incident",
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JPCERT (+2.0); incident (+2.0); analysis (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9151ec93970ff1a1fe61"
+  },
+  {
     "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
     "url": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1048,6 +1236,154 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a7615d87a0aea245d60f"
+  },
+  {
+    "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-29T02:31:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Cisco近日發布重大安全性公告，揭露並修復旗下Catalyst SD-WAN網路架構中一項高嚴重性的身分驗證繞過漏洞(CVE-2026-20182，CVSS：10.0)。該漏洞將允許未經身分驗證的遠端攻擊者，透過發送特製請求直接繞過身分驗證機制，進而取得內部高權限帳號管理帳號(non-root)。攻擊者一旦掌握此權限，便可透過存取「NETCONF」服務，藉此任意竄改 SD-WAN 的網路配置、建立惡意網路節點並深入攻擊企業與組織內部網路。目前美國網路安全與基礎設施安全局(CISA)已將此漏洞納入已知漏洞目錄(KEV)；同時亦有情資顯示，駭客組織 UAT-8616 正積極利用此漏洞發動攻擊，呼籲相關用戶務必提高警覺，並儘速採取對應的防禦與修補措施。 本次受影響的產品範圍相當廣泛，無論企業是採用本地端建置(On-Prem Deployment)或由Cisco代管的雲端版本(如Cisco SD-WAN Cloud)皆受到此漏洞影響…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "538956db0ca8ccd57191"
+  },
+  {
+    "title": "UAT-10608大規模自動化竊密行動：鎖定React2Shell漏洞入侵逾700台Next.js伺服器",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-04-30T06:05:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "思科旗下資安威脅情報與研究團隊 Cisco Talos 近日揭露，一個被追蹤為「UAT-10608」的威脅叢集，正針對暴露於網路的Next.js應用程式發動大規模自動化憑證竊取行動。該組織利用去年底備受關注的 React2Shell 漏洞（CVE-2025-55182），結合名為「NEXUS Listener」的自動化資料蒐集框架，在短時間內入侵全球至少766台主機，影響範圍橫跨多個地區與雲端服務供應商。 React2Shell（CVE-2025-55182）為一項高風險 RCE 漏洞，允許未經驗證的遠端攻擊者，在缺乏適當輸入驗證和處理的應用程式環境中執行任意程式碼，影響 React 與 Next.js 等主流前端框架。報告指出，UAT-10608 的攻擊具高度系統化特徵，先透過 Shodan、Censys 或自訂掃描器大規模探測暴露於公開網路的 Next.js環境；確認存在漏洞後，即向 Server Function 端點發…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: RCE"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "9c043c450f622fad712c"
+  },
+  {
+    "title": "KrCERT/CC發布「Operation SearchStrike」報告：駭客以SEO毒化Github散布惡意軟體",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10887-c63c0-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-04-30T05:57:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "韓國電腦網路危機處理暨協調中心（KrCERT/CC）的威脅狩獵分析團隊近期發布名為「Operation SearchStrike」報告。該報告指出，攻擊者正利用搜尋引擎最佳化中毒(SEO Poisoning） 技術，在搜尋引擎中推廣偽冒GitHub 儲存庫，藉此散布惡意軟體。此攻擊主要鎖定具備企業內部高權限的技術人員，旨在以此作為跳板，進而發動全組織規模的橫向移動與滲透攻擊。 這波攻擊主要是透過 SEO Poisoning技術操弄搜尋排名，把內含惡意MSI安裝檔的假冒 GitHub 儲存庫推至搜尋結果首頁，常見偽冒程式像是 Tftpd64、WinDbg、PsExec、Postman、USMT 這類網管與維運人員常用的工具，進行供應鏈層級的冒充攻擊，如圖1所示。一旦受害者誤下載並執行，系統會在背景植入以 Node.js 開發的惡意程式，並利用 Ethereum 智慧合約作為命令與控制(C2)通訊管道。由於採用去中心化機制，可降低…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: strike"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "13199b0412058df99b77"
+  },
+  {
+    "title": "CSIRTs Around the World – Azerbaijan",
+    "url": "https://blogs.jpcert.or.jp/en/2026/03/csirts-around-the-world-azerbaijan.html",
+    "source": "JPCERT/CC English Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-03-25T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Hello, this is Shihono from the Global Coordination Division. In early March, we traveled to Baku, the capital of Azerbaijan, and had the opportunity to visit five organizations, including CSIRTs and facilities involved in cyber security workforce development. In this...",
+    "matched_keywords": [
+      "JPCERT",
+      "Security",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); JPCERT (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "accd48d9866312e585d9"
   },
   {
     "title": "U . S . drought eases , but May ranks as the second driest on record",
@@ -1891,6 +2227,288 @@
     "id": "4a35178d32323d6dbf68"
   },
   {
+    "title": "IEI 威強電工業電腦｜iRM-IEI Remote Management - 存在2個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10971-ac61f-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-12T08:02:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "IEI 威強電工業電腦｜iRM-IEI Remote Management - 存在2個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff52ab4db12ae9ac8a7c"
+  },
+  {
+    "title": "IEI 威強電工業電腦｜iVEC-IEI Virtualization Edge Computer - 存在4個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10969-4c4e2-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-12T07:47:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "IEI 威強電工業電腦｜iVEC-IEI Virtualization Edge Computer - 存在4個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "093990adf6411da2bb14"
+  },
+  {
+    "title": "Hepta Platforms｜Heptabase - Exposed Dangerous",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10968-6be4c-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-12T06:32:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Hepta Platforms｜Heptabase - Exposed Dangerous",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b729b1ba053c3d86355a"
+  },
+  {
+    "title": "基點資訊｜CelloOS - Improper Access Control",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10966-3258e-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-12T06:16:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "基點資訊｜CelloOS - Improper Access Control",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f26b2c0b9adf734fc303"
+  },
+  {
+    "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
+    "url": "https://www.jpcert.or.jp/english/at/2026/at260017.html",
+    "source": "JPCERT/CC English Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-10T13:50+09:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Security Alert: Microsoft Releases June 2026 Security Updates",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0e509be207b2cd064227"
+  },
+  {
+    "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
+    "url": "https://www.jpcert.or.jp/english/at/2026/at260018.html",
+    "source": "JPCERT/CC English Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-10T13:50+09:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "01bc99c036a3e5408078"
+  },
+  {
+    "title": "沛盛資訊｜OMICARD EDM - Insecure Direct Object Reference",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10947-027a7-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-02T03:37:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "沛盛資訊｜OMICARD EDM - Insecure Direct Object Reference",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8027d1fadb4af2caa8f9"
+  },
+  {
+    "title": "英特內｜DreamMaker - 存在5個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10943-8fb00-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-29T08:41:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "英特內｜DreamMaker - 存在5個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8c8296148d2537909a41"
+  },
+  {
+    "title": "因特普科技｜ITS智能圖控系統 - 存在2個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10941-6c082-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-29T08:02:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "因特普科技｜ITS智能圖控系統 - 存在2個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bbe187a61c75af91ff3b"
+  },
+  {
+    "title": "金財通商務科技｜Service Center - Insecure Direct Object Reference",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10938-97ddd-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-29T05:46:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "金財通商務科技｜Service Center - Insecure Direct Object Reference",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee5099d9c830208e2a4a"
+  },
+  {
+    "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
+    "url": "https://www.jpcert.or.jp/english/at/2026/at260014.html",
+    "source": "JPCERT/CC English Alerts",
+    "source_type": "rss",
+    "published_at": "2026-05-22T14:14+09:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af5b202b0b9c99f20d3a"
+  },
+  {
+    "title": "通航國際｜E-LAN 網路型電話錄音系統 - SQL Injection",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10911-e6abb-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-19T13:42:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "通航國際｜E-LAN 網路型電話錄音系統 - SQL Injection",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "38a0593735f06ff117a5"
+  },
+  {
+    "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
+    "url": "https://www.jpcert.or.jp/english/at/2026/at260012.html",
+    "source": "JPCERT/CC English Alerts",
+    "source_type": "rss",
+    "published_at": "2026-05-13T11:18+09:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Security Alert: Microsoft Releases May 2026 Security Updates",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5c65c09192af449f0725"
+  },
+  {
     "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
     "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545",
     "source": "GDACS All Events Last 24h",
@@ -1928,6 +2546,70 @@
       "soy"
     ],
     "id": "06f05a128262af449a2d"
+  },
+  {
+    "title": "日躍科技｜App好校通 - Insecure Direct Object Reference",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10896-e3240-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-04-30T09:33:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "日躍科技｜App好校通 - Insecure Direct Object Reference",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d13c95238888e2ec5c5e"
+  },
+  {
+    "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
+    "url": "https://www.jpcert.or.jp/english/at/2026/at260010.html",
+    "source": "JPCERT/CC English Alerts",
+    "source_type": "rss",
+    "published_at": "2026-04-15T11:53+09:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Security Alert: Microsoft Releases April 2026 Security Updates",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "70511d065d04c422240d"
+  },
+  {
+    "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
+    "url": "https://www.jpcert.or.jp/english/at/2026/at260011.html",
+    "source": "JPCERT/CC English Alerts",
+    "source_type": "rss",
+    "published_at": "2026-04-15T11:53+09:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); JPCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "43fb5c158e0855facb7b"
   },
   {
     "title": "Kilo-Org/kilocode",
@@ -2181,6 +2863,29 @@
     "id": "c7b0459f8ee27a7c8220"
   },
   {
+    "title": "デザインシステムのskillの精度が上がった8つの方法",
+    "url": "https://zenn.dev/pksha/articles/7a7db5c105f396",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:52:33+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しているのですが、今日は人生で初めてテックブログを書いてみたので、よければご覧ください。（この記事は、デザイントークンを扱うデザイナー・エンジニアを主な対象にしていますが、AI にデザイン実装を任せてみたいという方...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry",
+      "technology"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); AI (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fd37a583c5b1463d4a12"
+  },
+  {
     "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -2223,6 +2928,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f442598e64be5c13d3fe"
+  },
+  {
+    "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619~53145e5a0b.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-19T10:15:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
+    "matched_keywords": [
+      "central bank",
+      "ECB"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "ECB (+2.0); central bank (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "396fcfa862b5f804326e"
   },
   {
     "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
@@ -2409,6 +3135,27 @@
     "id": "7e8bd5509cf752fdfcba"
   },
   {
+    "title": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-05-29T02:05:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "近期微軟資安研究團隊與資安廠商觀察指出，攻擊者正大量利用名為「EvilTokens」的新興網路釣魚服務平台（PhaaS），結合人工智慧與自動化工具，針對企業與組織發動「裝置碼(Device Code)」釣魚攻擊。駭客透過社交工程手段，誘騙使用者於官方合法頁面完成授權程序，藉此成功繞過多因子驗證(MFA)並接管帳號，進而竊取內部敏感資料。資安專家特別指出，由於微軟Azure與Google兩大雲端平台在OAuth 2.0裝置碼機制的權限實作上存在差異，微軟環境面臨更為嚴重威脅。 國家資通安全研究院日前亦發布資安提醒指出，攻擊者正濫用「裝置碼」登入機制發動釣魚攻擊。「裝置碼」登入機制原本是為了智慧電視、物聯網（IoT）等不便輸入帳號密碼的設備所設計的驗證流程。然而，此項便利功能現已成為駭客濫用的目標。 圖1：裝置程式碼釣魚登入頁面範例。資料來源：proofpoint 攻擊者通常會發送客製化的社交工程郵件，如假冒企業內部設備管理人員，…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8409fa1e87bf9d40cc8d"
+  },
+  {
     "title": "Drought is on going in United States",
     "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546",
     "source": "GDACS All Events Last 24h",
@@ -2485,6 +3232,111 @@
       "soy"
     ],
     "id": "8c494a1a86ca0e2d7fbb"
+  },
+  {
+    "title": "勒索軟體組織「The Gentlemen」結合SystemBC惡意軟體擴大攻擊版圖",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-04-30T06:08:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "勒索軟體即服務（RaaS）組織「The Gentlemen」 自 2025 年中旬崛起後，近期透過整合 SystemBC 代理惡意軟體，使其攻擊規模於 2026 年第一季大幅擴張。該組織採取高度成熟的雙重勒索策略，不僅加密受害者的系統檔案，亦同步進行大規模關鍵商業資料外洩，以此作為威脅支付贖金的籌碼。近期，資安研究人員在事件回應調查中發現，The Gentlemen在入侵流程中大量部署「SystemBC」代理惡意軟體，經分析其C2伺服器資料後，揭露受害者數量已逾 1,570 名，主要分佈於美國、英國及德國，感染特徵證實該攻擊具備高度針對性，精準鎖定企業與組織環境，而非一般個人使用者。 「SystemBC」是一款經常被利用於人為操作入侵流程中的代理惡意軟體。一旦於受害環境完成部署，該軟體即建立 SOCKS5 網路隧道，並透過自訂 RC4 加密協定連線至 C2 伺服器。此種加密代理通道不僅賦予攻擊者隱蔽通訊與橫向移動的能力，更整合…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c807694be3137fd5d12d"
+  },
+  {
+    "title": "Interlock 勒索軟體組織利用 Cisco FMC 零日漏洞發動攻擊，呼籲用戶儘速修補",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10808-892d1-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-03-30T08:36:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Amazon 威脅情報團隊發現，勒索軟體組織Interlock正積極利用 Cisco Secure Firewall Management Center (FMC) 的重大零日漏洞 (CVE-2026-20131，CVSS：10.0) 發動大規模攻擊。該漏洞屬於Java反序列化漏洞，允許未經身分驗證的遠端攻擊者，透過發送精心設計的反序列化物件，取得 root 最高權限並在受害設備上執行任意程式碼。建議用戶儘速依循Cisco官方建議，採取相關緩解措施並立即更新，同時檢視系統日誌確認潛在受害情形，以防止系統遭入侵後造成重大損失。 美國網路安全與基礎設施安全局（CISA）已正式將CVE-2026-20131納入已知漏洞目錄(KEV)，確認該漏洞正受到積極且廣泛的利用。根據 Amazon 全球誘餌網路 (MadPot) 的監測數據顯示，在Cisco 正式發布修補程式前，Interlock勒索軟體組織自 2026 年 1 月 26 日起…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b2a43fe27156803d6365"
+  },
+  {
+    "title": "Study of Binaries Created with Rust through Reverse Engineering",
+    "url": "https://blogs.jpcert.or.jp/en/2026/03/rust_research_en.html",
+    "source": "JPCERT/CC English Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-03-12T05:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Rust has been gaining attention in recent years as a language expected to replace C and C++, due to its memory safety and high performance. While Rust continues to be adopted as a programming language, malware developed using Rust (hereinafter...",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+6.0); JPCERT (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9dd5c847308392533a4c"
+  },
+  {
+    "title": "ETSI發布EN 304 223標準，強化人工智慧模型與系統資安防護",
+    "url": "https://www.twcert.org.tw/tw/cp-104-10727-665e8-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-02-24T09:22:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "歐洲電信標準協會(ETSI)近日正式發布ETSI EN 304 223 標準，為人工智慧（AI）模型與系統建立全球通用的資安基準。該標準獲歐洲各國國家標準組織投票通過，具高度權威性與國際適用性，被視為AI資安治理的重要里程碑。 隨著 AI 技術廣泛導入關鍵服務與產業場域，傳統資安防護已不足以因應新型威脅。ETSI 指出，AI 系統的風險不僅源自程式本身，更涵蓋資料管線、模型行為與營運環境，例如資料毒化、模型混淆、間接提示注入，以及複雜訓練與部署流程所衍生的潛在弱點，皆對組織資安形成新挑戰。 ETSI EN 304 223 採全生命週期方法，於安全設計、開發、部署、維護及終止營運五大階段中，定義 13 項核心原則與要求，並與國際公認的 AI 生命週期模型對齊，確保與既有標準與指引的相容性與互通性，協助資安團隊在 AI 系統整體營運過程中落實防護。 值得注意的是，該標準適用於採用深度神經網路(如生成式AI)，且實際部署於營運環境的…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b688ff74ffd6e5e1d36f"
+  },
+  {
+    "title": "YAMAGoya: A Real-time Client Monitoring Tool Using Sigma and YARA Rules",
+    "url": "https://blogs.jpcert.or.jp/en/2025/11/YAMAGoya.html",
+    "source": "JPCERT/CC English Blog Atom",
+    "source_type": "rss",
+    "published_at": "2025-11-18T02:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "In recent years, fileless malware and obfuscation techniques have made it increasingly difficult to detect suspicious activity by scanning files alone. To counter these threats, security researchers and malware analysts actively create and publish detection rules such as Sigma and...",
+    "matched_keywords": [
+      "JPCERT",
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+6.0); JPCERT (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5f435306962f84f90d78"
   },
   {
     "title": "Drought is on going in Mexico, United States",
@@ -2664,6 +3516,132 @@
     "id": "6248b5ea8b6455e7824f"
   },
   {
+    "title": "行政データにおける機械可読性に関するルールをコード化する取組みについて掲載しました",
+    "url": "https://www.digital.go.jp/resources/machine-readability-rule",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "行政データにおける機械可読性に関するルールをコード化する取組みについて掲載しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "943c5989a520a2897c9e"
+  },
+  {
+    "title": "モビリティ：令和7年度「「交通商社機能」の取組を支援する事例集」を掲載しました",
+    "url": "https://www.digital.go.jp/policies/mobility",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "モビリティ：令和7年度「「交通商社機能」の取組を支援する事例集」を掲載しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f6fc7ec463846157cbc"
+  },
+  {
+    "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました",
+    "url": "https://www.digital.go.jp/policies/mynumber/local-government/info",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e9dca464afb2f096aca4"
+  },
+  {
+    "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.140、Vol.141を更新しました",
+    "url": "https://www.digital.go.jp/policies/mynumber/private-business/info",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.140、Vol.141を更新しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a6a423733ea37262ee2"
+  },
+  {
+    "title": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
+    "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "32b92063638f5c8e98ca"
+  },
+  {
+    "title": "松本大臣記者会見（令和8年6月19日）動画を掲載しました",
+    "url": "https://www.digital.go.jp/speech/minister-260619-01",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T02:07:35+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "松本大臣記者会見（令和8年6月19日）動画を掲載しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8c72cd67e2087383388e"
+  },
+  {
     "title": "youtuber",
     "url": "https://trends.google.com/trending/rss?geo=JP",
     "source": "Google Trends Japan Hot Feed",
@@ -2830,6 +3808,90 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2a18aafb97eb09e0ecb6"
+  },
+  {
+    "title": "第4回 日EUデジタルパートナーシップ閣僚級会合の結果",
+    "url": "https://www.digital.go.jp/news/d37c295a-17eb-4ca9-87dd-6f0ee87146ae",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "第4回 日EUデジタルパートナーシップ閣僚級会合の結果",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b636dc4b9eae16c99890"
+  },
+  {
+    "title": "三角デジタル監が2026年OECD閣僚理事会に出席しました",
+    "url": "https://www.digital.go.jp/news/1261eec6-7ea5-4e5f-8935-b867a49d3d52",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "三角デジタル監が2026年OECD閣僚理事会に出席しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88b2bde7fd6d42fb6e48"
+  },
+  {
+    "title": "デジタル関係制度改革検討会（第10回）（2026年4月23日開催）の議事録を掲載しました",
+    "url": "https://www.digital.go.jp/councils/digital-system-reform/9474fdac-7640-4f63-9111-f1dafa426d1e",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "デジタル関係制度改革検討会（第10回）（2026年4月23日開催）の議事録を掲載しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "185af6f36226dcc61aaa"
+  },
+  {
+    "title": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
+    "url": "https://www.digital.go.jp/policies/digital_promotion_staff/application-for-student",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
+    "matched_keywords": [
+      "Digital Agency",
+      "Japan"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); Digital Agency (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "802c3e6a6f0e22a1df20"
   },
   {
     "title": "zai-org/GLM-5",
@@ -3106,6 +4168,26 @@
       "LOW"
     ],
     "id": "e78a281d6ab43bef97b8"
+  },
+  {
+    "title": "ECB publishes consolidated banking data for end-December 2025",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-19T08:00:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "ECB publishes consolidated banking data for end-December 2025",
+    "matched_keywords": [
+      "ECB"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "ECB (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "48a6974b9440f628e8b5"
   },
   {
     "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -3447,6 +4529,26 @@
       "soy"
     ],
     "id": "b5d40d5cef5de855cbfe"
+  },
+  {
+    "title": "Frank Elderson: Fireside chat",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-19T10:30:00+00:00",
+    "fetched_at": "2026-06-19T11:27:06+00:00",
+    "summary": "Frank Elderson: Fireside chat",
+    "matched_keywords": [
+      "ECB"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "ECB (+2.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "97068fdf9900f0308981"
   },
   {
     "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
