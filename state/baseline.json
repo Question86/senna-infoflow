@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T09:22:22+00:00",
+  "generated_at": "2026-06-19T11:01:02+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -109,8 +109,8 @@
       "z_hint": 15.08
     },
     "domain:www.bleepingcomputer.com": {
-      "title": "NY man charged after harassing college student with AI-generated nudes",
-      "updated_at": "2026-06-19T09:22:22+00:00",
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "updated_at": "2026-06-19T11:01:02+00:00",
       "network_scores": [
         16.1,
         28.1,
@@ -119,12 +119,13 @@
         14.1,
         17.1,
         18.7,
-        14.1
+        14.1,
+        26.7
       ],
-      "rolling_average": 23.64,
+      "rolling_average": 23.98,
       "rolling_peak": 63.8,
-      "last_score": 14.1,
-      "z_hint": -9.54
+      "last_score": 26.7,
+      "z_hint": 2.72
     },
     "earthquake:chile:3.8": {
       "title": "M 3.8, Northern Chile",
@@ -3683,16 +3684,17 @@
       "z_hint": 0.0
     },
     "domain:www.heise.de": {
-      "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
-      "updated_at": "2026-06-19T09:22:22+00:00",
+      "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+      "updated_at": "2026-06-19T11:01:02+00:00",
       "network_scores": [
         12.1,
-        9.1
+        9.1,
+        14.2
       ],
-      "rolling_average": 10.6,
-      "rolling_peak": 12.1,
-      "last_score": 9.1,
-      "z_hint": -1.5
+      "rolling_average": 11.8,
+      "rolling_peak": 14.2,
+      "last_score": 14.2,
+      "z_hint": 2.4
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -3906,6 +3908,28 @@
     "url:https://www.itmedia.co.jp/news/articles/2606/19/news098.html": {
       "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
       "updated_at": "2026-06-19T09:22:22+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:aws-aws-blocks": {
+      "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+      "updated_at": "2026-06-19T11:01:02+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "url:https://shueisha.online/articles/-/257888": {
+      "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+      "updated_at": "2026-06-19T11:01:02+00:00",
       "network_scores": [
         10.1
       ],

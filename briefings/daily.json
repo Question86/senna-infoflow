@@ -1,307 +1,35 @@
 {
-  "generated_at": "2026-06-19T09:22:22+00:00",
-  "today_file_total": 175,
+  "generated_at": "2026-06-19T11:01:02+00:00",
+  "today_file_total": 180,
   "current_clusters": [
     {
-      "key": "title:codex-record-replay",
-      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/19/news102.html"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:japan.cnet.com",
-      "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://japan.cnet.com/article/35249158/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:kawarimidoll.com",
-      "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://kawarimidoll.com/posts/202606182/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "earthquake:russia 19:5.0",
-      "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547405",
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403"
-      ],
-      "finding_count": 2,
-      "max_score": 6,
-      "credibility_total": 2.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 17.4,
-      "hot": true,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "earthquake:indonesia:unknown",
-      "title": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.bleepingcomputer.com",
-      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
       "sources": [
         "BleepingComputer Security"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/"
+        "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
       ],
       "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
+      "max_score": 24,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:united states:unknown",
-      "title": "Drought is on going in United States",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.7,
-      "hot": false,
+      "network_score": 26.7,
+      "hot": true,
       "watchgraph_modules": [
-        "wildfire_heat_drought"
+        "cyber_active_exploitation"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "earthquake:australia:unknown",
-      "title": "Drought is on going in Australia",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:mexico:unknown",
-      "title": "Drought is on going in Mexico, United States",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:russia 19:4.0",
-      "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:madagascar:unknown",
-      "title": "Drought is on going in Madagascar",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018431"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:austria:unknown",
-      "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Finland, Hungary, Lithuania, Latvia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, Ukraine",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:microsoft-defender-rogueplanet-microsoft",
-      "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+      "key": "title:aws-aws-blocks",
+      "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -309,45 +37,22 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2118393.html"
+        "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 11,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
-      "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/19/news098.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "network_score": 16.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:www.heise.de",
-      "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
+      "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
       "sources": [
         "heise Security Alerts"
       ],
@@ -355,15 +60,39 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html"
+        "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
+        "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://shueisha.online/articles/-/257888",
+      "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://shueisha.online/articles/-/257888"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

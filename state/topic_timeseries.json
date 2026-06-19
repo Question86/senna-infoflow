@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-19T09:22:22Z",
+  "generated_at": "2026-06-19T11:01:02Z",
   "cadence_minutes": 5,
   "retention_samples_per_topic": 2500,
   "topics": {
@@ -3048,8 +3048,8 @@
     },
     "title:unknown": {
       "topic_key": "title:unknown",
-      "topic_label": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
-      "last_seen_at": "2026-06-19T09:22:22Z",
+      "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+      "last_seen_at": "2026-06-19T11:01:02Z",
       "last_trend_wucht": 7.0,
       "samples": [
         {
@@ -3171,6 +3171,26 @@
           "status": "mature",
           "urls": [
             "https://www.itmedia.co.jp/news/articles/2606/19/news098.html"
+          ]
+        },
+        {
+          "sample_id": "2026-06-19T11-01-02Z:title:unknown",
+          "sample_index": 5939556,
+          "timestamp_utc": "2026-06-19T11:01:02Z",
+          "run_id": "2026-06-19T11-01-02Z",
+          "topic_key": "title:unknown",
+          "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 0.0,
+          "trend_wucht": 7.0,
+          "status": "mature",
+          "urls": [
+            "https://shueisha.online/articles/-/257888"
           ]
         }
       ]
@@ -14009,6 +14029,118 @@
           "status": "emerging",
           "urls": [
             "https://forest.watch.impress.co.jp/docs/news/2118393.html"
+          ]
+        }
+      ]
+    },
+    "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday": {
+      "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
+      "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "last_seen_at": "2026-06-19T11:01:02Z",
+      "last_trend_wucht": 26.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T11-01-02Z:title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
+          "sample_index": 5939556,
+          "timestamp_utc": "2026-06-19T11:01:02Z",
+          "run_id": "2026-06-19T11-01-02Z",
+          "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
+          "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+          "network_score": 24.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "BleepingComputer Security"
+          ],
+          "score_delta_5m": 24.0,
+          "trend_wucht": 26.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
+          ]
+        }
+      ]
+    },
+    "title:aws-aws-blocks": {
+      "topic_key": "title:aws-aws-blocks",
+      "topic_label": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+      "last_seen_at": "2026-06-19T11:01:02Z",
+      "last_trend_wucht": 13.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T11-01-02Z:title:aws-aws-blocks",
+          "sample_index": 5939556,
+          "timestamp_utc": "2026-06-19T11:01:02Z",
+          "run_id": "2026-06-19T11-01-02Z",
+          "topic_key": "title:aws-aws-blocks",
+          "topic_label": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+          "network_score": 11.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 11.0,
+          "trend_wucht": 13.0,
+          "status": "emerging",
+          "urls": [
+            "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro"
+          ]
+        }
+      ]
+    },
+    "title:cisco-ise:-kritische-sicherheitsl-cke-trotz-ben-tigter-adminrechte": {
+      "topic_key": "title:cisco-ise:-kritische-sicherheitsl-cke-trotz-ben-tigter-adminrechte",
+      "topic_label": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+      "last_seen_at": "2026-06-19T11:01:02Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T11-01-02Z:title:cisco-ise:-kritische-sicherheitsl-cke-trotz-ben-tigter-adminrechte",
+          "sample_index": 5939556,
+          "timestamp_utc": "2026-06-19T11:01:02Z",
+          "run_id": "2026-06-19T11-01-02Z",
+          "topic_key": "title:cisco-ise:-kritische-sicherheitsl-cke-trotz-ben-tigter-adminrechte",
+          "topic_label": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "heise Security Alerts"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html"
+          ]
+        }
+      ]
+    },
+    "title:f5-patcht-au-erplanm-ig-kritische-nginx-sicherheitsl-cken": {
+      "topic_key": "title:f5-patcht-au-erplanm-ig-kritische-nginx-sicherheitsl-cken",
+      "topic_label": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+      "last_seen_at": "2026-06-19T11:01:02Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T11-01-02Z:title:f5-patcht-au-erplanm-ig-kritische-nginx-sicherheitsl-cken",
+          "sample_index": 5939556,
+          "timestamp_utc": "2026-06-19T11:01:02Z",
+          "run_id": "2026-06-19T11-01-02Z",
+          "topic_key": "title:f5-patcht-au-erplanm-ig-kritische-nginx-sicherheitsl-cken",
+          "topic_label": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "heise Security Alerts"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html"
           ]
         }
       ]

@@ -4,9 +4,9 @@
 **Dieses Briefing ist kein repräsentatives Weltbild.** Es zeigt überlebende Signale aus konfigurierten öffentlichen Quellen.
 
 - Coverage confidence: `low`
-- Findings after quality gate: `16`
+- Findings after quality gate: `5`
 - Source errors: `4`
-- Priority after gate: high `0`, medium `3`, observe `13`
+- Priority after gate: high `1`, medium `0`, observe `4`
 - Failed sensor groups: `other`=2, `security`=1, `social`=1
 
 > Score ist nicht Wahrheit. Er ist eine strukturierte Vermutung über ein unvollständiges Sensorfeld.
@@ -14,116 +14,70 @@
 <!-- SENNA_QUALITY_GATE_END -->
 # Senna Briefing
 
-_Generiert: 2026-06-19T09:22:22+00:00_
+_Generiert: 2026-06-19T11:01:02+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „超高速ファイル検索fffが良さげかも | kawarimidoll.com“ aus Hatena Bookmark Hotentry IT (Score 17, opportunity). 4 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+5 neue relevante Treffer. Stärkstes Signal: „CISA: Splunk Enterprise flaw actively exploited, patch by Sunday“ aus BleepingComputer Security (Score 24, risk). 4 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **CISA: Splunk Enterprise flaw actively exploited, patch by Sunday** — Score 24, risk — [Quelle](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
+  - Quelle: BleepingComputer Security / `rss`
+  - Zeit: published `2026-06-19T10:39:58+00:00`, fetched `2026-06-19T10:59:35+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Priorität Mittel
 
-- **超高速ファイル検索fffが良さげかも | kawarimidoll.com** — Score 17, opportunity — [Quelle](https://kawarimidoll.com/posts/202606182/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T00:17:02+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: AI, AI Agents, GitHub, Hatena, hotentry, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: GitHub - dmtrKovalenko/fff: The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS - dmtrKovalenko/fff A file search toolkit for human...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」** — Score 16, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/19/news102.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T05:40:38+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: 作成した手順を使うときは、新しいスレッドでCodexに該当手順の利用を指示する。アップロードするファイルや対象の日付範囲など、その回ごとに異なる値を渡せば、Codexが手順に沿って作業を進める。 OpenAIは録画時の注意として、短く完結した内容にすること、パスワードなどの機密情報を含めないことを挙げている。録画...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚** — Score 16, observation — [Quelle](https://japan.cnet.com/article/35249158/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T03:59:47+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: Hatena, hotentry, Japan, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Japan (+2.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「ChatGPT」は、SNSで拡散した「この写真を復元して」というプロンプトによって、性的で生々しい暴力表現を含む画像を容易に生成していたことが分かった。AIサイバーセキュリティ・調査会社であるMindgardが米国時間6月18日に報告書を公開した。この報告は、AIチャットボットの安全策やコンテンツフィルターをめぐる継続...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **NY man charged after harassing college student with AI-generated nudes** — Score 12, observation — [Quelle](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
-  - Quelle: BleepingComputer Security / `rss`
-  - Zeit: published `2026-06-19T08:44:08+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: AI, Security
+- **AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた** — Score 11, observation — [Quelle](https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-19T05:56:57+00:00`, fetched `2026-06-19T10:59:35+00:00`
+  - Treffer: AI, Hatena, hotentry, Japan
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); AI (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0)
-  - Kurz: A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]
+  - Warum relevant: Japan (+2.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: はじめに 先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。 ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプロイできる」 ツール...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam** — Score 10, observation — [Quelle](https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545)
-  - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-04-30T13:07:47+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: drought, Watchgraph:wildfire_heat_drought
-  - Watchgraph: wildfire_heat_drought
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, ADM, BG, DE, NTR, CF, MOS, wheat, corn
-  - Warum relevant: drought (+2.5); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules wildfire_heat_drought (+3.0)
-  - Kurz: The Drought notification level is Green.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Drought is on going in United States** — Score 8, observation — [Quelle](https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546)
-  - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-04-30T13:07:44+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: drought, Watchgraph:wildfire_heat_drought
-  - Watchgraph: wildfire_heat_drought
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, ADM, BG, DE, NTR, CF, MOS, wheat, corn
-  - Warum relevant: drought (+2.5); watchgraph region usa: United States (+2.0); watchgraph modules wildfire_heat_drought (+3.0)
-  - Kurz: The Drought notification level is Green.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Drought is on going in Australia** — Score 8, observation — [Quelle](https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018457)
-  - Quelle: GDACS All Events Last 24h / `rss`
-  - Zeit: published `2026-04-30T13:07:38+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: drought, Watchgraph:wildfire_heat_drought
-  - Watchgraph: wildfire_heat_drought
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, ADM, BG, DE, NTR, CF, MOS, wheat, corn
-  - Warum relevant: drought (+2.5); watchgraph region australia: Australia (+2.0); watchgraph modules wildfire_heat_drought (+3.0)
-  - Kurz: The Drought notification level is Green.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an** — Score 7, observation — [Quelle](https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html)
+- **Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-19T08:39:00.000+00:00`, fetched `2026-06-19T09:20:55+00:00`
+  - Zeit: published `2026-06-19T10:06:00.000+00:00`, fetched `2026-06-19T10:59:35+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Ein Anruf des BSI um 2:30 holte kürzlich Windchill-Kunden aus dem Schlaf. Jetzt wird klar, wieso. Doch welche Rolle spielte das BKA dieses Mal?
+  - Kurz: Es sind wichtige Sicherheitsupdates für unter anderem Cisco Identity Services Engine (ISE) erschienen. Netzwerkadmins sollten zeitnah tätig werden.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2118393.html)
+- **F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-19T09:53:00.000+00:00`, fetched `2026-06-19T10:59:35+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け** — Score 5, observation — [Quelle](https://shueisha.online/articles/-/257888)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T06:26:45+00:00`, fetched `2026-06-19T09:20:55+00:00`
+  - Zeit: published `2026-06-19T01:56:39+00:00`, fetched `2026-06-19T10:59:35+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/19/news098.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T05:03:38+00:00`, fetched `2026-06-19T09:20:55+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ダイソンから初めてのポータブルハンディファン「Dyson HushJet Mini Coolファン」が登場した。一目で従来のハンディファンとは違うと思わせる羽根のないスリムな外観が特徴だ。
+  - Kurz: 中国は武力だけで日本に影響力を及ぼそうとしているわけではない。SNSやメディア、世論を通じて社会の対立をあおり、人々の不信感を増幅させる――。こうした「認知戦」「政治工作」は、中国が長年重視してきた安全保障戦略の柱の一つとされる。人民解放軍が体系化してきた政治工作ドクトリンには、日本社会を内側から揺さ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
@@ -140,7 +94,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 Diese Lane ist absichtlich feed-unabhängig. Sie hält Themen sichtbar, auch wenn die Presse gerade woanders hinglotzt.
 
-_Aktualisiert: 2026-06-19T09:22:22Z_
+_Aktualisiert: 2026-06-19T11:01:02Z_
 
 - **Japan X/Twitter Tech- und Event-Sturmfront** — `apac_japan_x_stormfront` / `active` / `routine`
   - Warum: Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.
@@ -148,7 +102,7 @@ _Aktualisiert: 2026-06-19T09:22:22Z_
   - Trigger: Japan, Tokyo, 日本, Twitter, X, trend, viral, Hatena, AI, security, outage, launch, anime, game, earthquake, social velocity
   - Update-Regel: Auch ohne neue Treffer mindestens im Routinebriefing anzeigen; bei bestätigter X/RSS-Brücke aktivieren.
   - Nicht tun: Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.
-  - Aktueller Feed-Signalabgleich: `10` Treffer
+  - Aktueller Feed-Signalabgleich: `5` Treffer
 - **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `south_korea_election_infrastructure_stress` / `active` / `routine`
   - Warum: Wahlverwaltungsfehler können sich in Infrastrukturvertrauenskrisen verwandeln; junge Protestkohorten und mögliche Zwangsräumung erhöhen Eskalationsrisiko.
   - Beobachten: NEC-Untersuchung, Polizeiräumung, Verletzte, offizielle Parlaments-/Behördenentscheidungen, Seoul-Protestzahlen, Desinformation/Cyber-/Leak-Bezug.
@@ -169,11 +123,11 @@ _Aktualisiert: 2026-06-19T09:22:22Z_
   - Trigger: Africa, Nigeria, Kenya, South Africa, Brazil, Argentina, Chile, Colombia, LATAM, fintech, mobile money, power outage, flood, drought, platform policy, cybersecurity
   - Update-Regel: Quellenabdeckung schrittweise ausbauen; Feed-Stille hier niemals als Weltstille werten.
   - Nicht tun: Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.
-  - Aktueller Feed-Signalabgleich: `8` Treffer
+  - Aktueller Feed-Signalabgleich: `3` Treffer
 - **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `mindanao_post_quake_recovery_hotspots` / `active` / `routine`
   - Warum: Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben.
   - Beobachten: Nachbeben und Phivolcs-Lage, Glan und Sarangani-Landrutsche, General Santos City als Hafen-/Handels-/Versorgungsknoten, Krankenhäuser und Outdoor-Patientenversorgung, Trinkwasser/Sanitärversorgung, Lebensmittel/Baumaterial/Transportpreise, 60-Tage-Preisstopps und Marktumgehung, Versicherungs-/Schadensregulierung, Immobilienpreise/Mieten/Umsiedlung, Fischerei und Küstenökosysteme, Tourismus-Stornierungen, Schulen, Straßen/Brücken, Strom/Telekom, Häfen und maritime Infrastruktur, Wiederaufbauverträge, Korruptions-/Hilfsverteilungsrisiken, Landwirtschaft/Regenzeit/Monsoon, Küstenhebung/Tsunami-Folgen, mentale Gesundheit, Sicherheitslage und lokale Spannungen ohne Spekulation.
   - Trigger: Mindanao, Sarangani, Glan, Malapatan, Maasim, General Santos, GenSan, Davao Occidental, South Cotabato, SOCSCSKSARGEN, earthquake, aftershock, PHIVOLCS, tsunami, landslide, coastal uplift, hospital, water, sanitation, price freeze, insurance, real estate, rent, rebuilding, reconstruction, fisheries, fishery, tourism, port, airport, logistics, GSC, schools, bridge, road, power outage, telecom, aid distribution, monsoon
   - Update-Regel: In Routineupdates mindestens als Unter-Beobachtung-Thema führen; hochziehen bei M5+ Nachbeben, neuen Todes-/Verletztenzahlen, Preis-/Versorgungsengpässen, Hafen-/Flughafen-/Krankenhausausfällen, Versicherungs-/Immobilienmeldungen, Wiederaufbauvertragsskandal, Krankheitsausbruch, Regenzeit-Folgeschäden oder starker lokaler Protest-/Aid-Distribution-Dynamik.
   - Nicht tun: Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.
-  - Aktueller Feed-Signalabgleich: `9` Treffer
+  - Aktueller Feed-Signalabgleich: `0` Treffer

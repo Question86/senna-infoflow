@@ -1,20 +1,537 @@
 {
   "schema_version": 2,
-  "doc_type": "senna.trend_radar",
+  "doc_type": "senna.run_snapshot",
   "run_id": "2026-06-19T11-01-02Z",
   "generated_at": "2026-06-19T11:01:02Z",
-  "cadence_minutes": 5,
-  "window_keys": [
-    "now",
-    "30m",
-    "1h",
-    "4h",
-    "8h",
-    "24h",
-    "72h",
-    "168h"
-  ],
-  "ranked_topics": [
+  "latest": {
+    "counts": {
+      "high": 1,
+      "medium": 0,
+      "new_relevant_findings": 5,
+      "observe": 4,
+      "source_errors": 4,
+      "today_file_total": 180
+    },
+    "coverage": {
+      "active_sensor_groups": {
+        "disaster_humanitarian": 9,
+        "github": 5,
+        "other": 17,
+        "security": 10,
+        "social": 1
+      },
+      "counts": {
+        "findings": 5,
+        "high": 1,
+        "medium": 0,
+        "observe": 4,
+        "source_errors": 4
+      },
+      "coverage_confidence": "low",
+      "failed_sensor_groups": {
+        "other": 2,
+        "security": 1,
+        "social": 1
+      },
+      "generated_at": "2026-06-19T11:01:02Z",
+      "principles": [
+        "Scoring is not truth.",
+        "Surviving sources are not a representative world picture.",
+        "Single-source proxy signals stay provisional."
+      ],
+      "schema_version": 1,
+      "scope": "configured_public_sources_only",
+      "warnings": [
+        "source_errors_present",
+        "critical_sensor_group_failed:social",
+        "critical_sensor_group_failed:security"
+      ]
+    },
+    "date": "2026-06-19",
+    "findings": [
+      {
+        "fetched_at": "2026-06-19T10:59:35+00:00",
+        "id": "d1ad5b853ec8a452e37c",
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "published_at": "2026-06-19T10:39:58+00:00",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "relevance_score": 24,
+        "risk_or_opportunity": "risk",
+        "source": "BleepingComputer Security",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+        "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: actively exploited"
+        ]
+      },
+      {
+        "fetched_at": "2026-06-19T10:59:35+00:00",
+        "id": "8eee5f89bbfb8f9f5b60",
+        "market_context": [],
+        "matched_keywords": [
+          "AI",
+          "Hatena",
+          "hotentry",
+          "Japan"
+        ],
+        "published_at": "2026-06-19T05:56:57+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Japan (+2.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "relevance_score": 11,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "はじめに 先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。 ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプロイできる」 ツール...",
+        "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+        "url": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T10:59:35+00:00",
+        "id": "9c7c077c0d7195589702",
+        "market_context": [],
+        "matched_keywords": [
+          "Security"
+        ],
+        "published_at": "2026-06-19T10:06:00.000+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "relevance_score": 7,
+        "risk_or_opportunity": "observation",
+        "source": "heise Security Alerts",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Identity Services Engine (ISE) erschienen. Netzwerkadmins sollten zeitnah tätig werden.",
+        "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+        "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T10:59:35+00:00",
+        "id": "0d47adc47b52efa2c682",
+        "market_context": [],
+        "matched_keywords": [
+          "Security"
+        ],
+        "published_at": "2026-06-19T09:53:00.000+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "relevance_score": 7,
+        "risk_or_opportunity": "observation",
+        "source": "heise Security Alerts",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.",
+        "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+        "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T10:59:35+00:00",
+        "id": "26a1773e35c2c5576a0a",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T01:56:39+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "中国は武力だけで日本に影響力を及ぼそうとしているわけではない。SNSやメディア、世論を通じて社会の対立をあおり、人々の不信感を増幅させる――。こうした「認知戦」「政治工作」は、中国が長年重視してきた安全保障戦略の柱の一つとされる。人民解放軍が体系化してきた政治工作ドクトリンには、日本社会を内側から揺さ...",
+        "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+        "url": "https://shueisha.online/articles/-/257888",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      }
+    ],
+    "generated_at": "2026-06-19T11:01:02+00:00",
+    "quality_gate": {
+      "audit_path": "briefings/quality_audit.json",
+      "generated_at": "2026-06-19T11:01:02Z",
+      "schema_version": 1,
+      "single_source_caps": {
+        "market_odds_proxy": 10,
+        "raw_disaster_signal": 10,
+        "single_platform_github": 10,
+        "vendor_self_feed": 9
+      },
+      "thresholds": {
+        "high": 24,
+        "medium": 14,
+        "observe": 3
+      }
+    },
+    "scope": "configured_public_sources_only",
+    "score_debias": {
+      "enabled": true,
+      "principles": [
+        "literal keyword false positives are removed",
+        "single-source vendor feeds are capped unless high-signal",
+        "single-platform GitHub repo findings remain visible but cannot dominate world/policy ranking alone",
+        "odds proxies are capped without external confirmation"
+      ],
+      "schema_version": 1
+    },
+    "sections": {
+      "high": [
+        {
+          "fetched_at": "2026-06-19T10:59:35+00:00",
+          "id": "d1ad5b853ec8a452e37c",
+          "market_context": [
+            "CRWD",
+            "PANW",
+            "FTNT",
+            "ZS",
+            "OKTA",
+            "NET",
+            "S"
+          ],
+          "matched_keywords": [
+            "Security",
+            "Watchgraph:cyber_active_exploitation"
+          ],
+          "published_at": "2026-06-19T10:39:58+00:00",
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+          "relevance_score": 24,
+          "risk_or_opportunity": "risk",
+          "source": "BleepingComputer Security",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+          "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+          "watchgraph_modules": [
+            "cyber_active_exploitation"
+          ],
+          "watchgraph_reasons": [
+            "cyber_active_exploitation: actively exploited"
+          ]
+        }
+      ],
+      "medium": [],
+      "observe": [
+        {
+          "fetched_at": "2026-06-19T10:59:35+00:00",
+          "id": "8eee5f89bbfb8f9f5b60",
+          "market_context": [],
+          "matched_keywords": [
+            "AI",
+            "Hatena",
+            "hotentry",
+            "Japan"
+          ],
+          "published_at": "2026-06-19T05:56:57+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Japan (+2.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+          "relevance_score": 11,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "はじめに 先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。 ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプロイできる」 ツール...",
+          "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+          "url": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T10:59:35+00:00",
+          "id": "9c7c077c0d7195589702",
+          "market_context": [],
+          "matched_keywords": [
+            "Security"
+          ],
+          "published_at": "2026-06-19T10:06:00.000+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Security (+6.0); recent (+1.0)",
+          "relevance_score": 7,
+          "risk_or_opportunity": "observation",
+          "source": "heise Security Alerts",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Identity Services Engine (ISE) erschienen. Netzwerkadmins sollten zeitnah tätig werden.",
+          "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+          "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T10:59:35+00:00",
+          "id": "0d47adc47b52efa2c682",
+          "market_context": [],
+          "matched_keywords": [
+            "Security"
+          ],
+          "published_at": "2026-06-19T09:53:00.000+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Security (+6.0); recent (+1.0)",
+          "relevance_score": 7,
+          "risk_or_opportunity": "observation",
+          "source": "heise Security Alerts",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.",
+          "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+          "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        },
+        {
+          "fetched_at": "2026-06-19T10:59:35+00:00",
+          "id": "26a1773e35c2c5576a0a",
+          "market_context": [],
+          "matched_keywords": [
+            "Hatena",
+            "hotentry"
+          ],
+          "published_at": "2026-06-19T01:56:39+00:00",
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+          "relevance_score": 5,
+          "risk_or_opportunity": "observation",
+          "source": "Hatena Bookmark Hotentry IT",
+          "source_bias_class": "normal",
+          "source_type": "rss",
+          "summary": "中国は武力だけで日本に影響力を及ぼそうとしているわけではない。SNSやメディア、世論を通じて社会の対立をあおり、人々の不信感を増幅させる――。こうした「認知戦」「政治工作」は、中国が長年重視してきた安全保障戦略の柱の一つとされる。人民解放軍が体系化してきた政治工作ドクトリンには、日本社会を内側から揺さ...",
+          "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+          "url": "https://shueisha.online/articles/-/257888",
+          "watchgraph_modules": [],
+          "watchgraph_reasons": []
+        }
+      ]
+    },
+    "source_errors": [
+      {
+        "error": "403 Client Error: Forbidden for url: https://www.techinasia.com/feed",
+        "source_id": "techinasia_feed",
+        "source_name": "Tech in Asia Feed",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.jpcert.or.jp/english/rss/jpcert.rdf",
+        "source_id": "jpcert_english_alerts",
+        "source_name": "JPCERT/CC English Alerts",
+        "source_type": "rss"
+      },
+      {
+        "error": "404 Client Error: Not Found for url: https://www.twcert.org.tw/tw/lp-14-1-x.xml",
+        "source_id": "twcert_security_news",
+        "source_name": "TWCERT/CC Security News",
+        "source_type": "rss"
+      },
+      {
+        "error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%28twitter+OR+x.com+OR+X%29+%28trend+OR+trending+OR+trends%29+%28RSS+OR+feed+OR+aggregator%29+%28Japan+OR+Japanese+OR+JP%29+stars%3A%3E5+pushed%3A%3E2025-01-01&sort=updated&order=desc&per_page=8",
+        "source_id": "github_search_japan_twitter_trend_rss_tools",
+        "source_name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
+        "source_type": "github_search"
+      }
+    ]
+  },
+  "network": {
+    "generated_at": "2026-06-19T11:01:02+00:00",
+    "source": "briefings/latest.json",
+    "counts": {
+      "findings": 5,
+      "clusters": 4,
+      "cross_source_confrmed": 0,
+      "hot": 0,
+      "early_signals": 0,
+      "dominance_penalized": 1
+    },
+    "clusters": [
+      {
+        "key": "domain:www.bleepingcomputer.com",
+        "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+        "sources": [
+          "BleepingComputer Security"
+        ],
+        "source_classes": [
+          "tier1_official"
+        ],
+        "urls": [
+          "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
+        ],
+        "finding_count": 1,
+        "max_score": 24,
+        "credibility_total": 1.35,
+        "cross_source_confirmed": false,
+        "momentum_delta": 0,
+        "momentum_status": "stable",
+        "network_score": 24.49,
+        "hot": false,
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+        "raw_network_score": 26.7,
+        "ranking_score": 24.49,
+        "initial_reach_tier": "official",
+        "source_reach_score": 4.0,
+        "authority_bonus_capped": 2.4,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 0.0,
+        "baseline_bonus": 1.09,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": true,
+        "dominance_penalty": 3.0,
+        "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+        "first_seen_at": "2026-06-17T21:31:36+00:00"
+      },
+      {
+        "key": "title:aws-aws-blocks",
+        "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro"
+        ],
+        "finding_count": 1,
+        "max_score": 11,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 15.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 16.1,
+        "ranking_score": 15.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T11:01:02+00:00"
+      },
+      {
+        "key": "domain:www.heise.de",
+        "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+        "sources": [
+          "heise Security Alerts"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
+          "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html"
+        ],
+        "finding_count": 2,
+        "max_score": 7,
+        "credibility_total": 2.1,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 11.96,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 14.2,
+        "ranking_score": 11.96,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.96,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T07:39:37+00:00"
+      },
+      {
+        "key": "url:https://shueisha.online/articles/-/257888",
+        "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+        "sources": [
+          "Hatena Bookmark Hotentry IT"
+        ],
+        "source_classes": [
+          "tier3_specialist"
+        ],
+        "urls": [
+          "https://shueisha.online/articles/-/257888"
+        ],
+        "finding_count": 1,
+        "max_score": 5,
+        "credibility_total": 1.05,
+        "cross_source_confirmed": false,
+        "momentum_delta": 1,
+        "momentum_status": "increasing",
+        "network_score": 9.0,
+        "hot": false,
+        "watchgraph_modules": [],
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "raw_network_score": 10.1,
+        "ranking_score": 9.0,
+        "initial_reach_tier": "specialist",
+        "source_reach_score": 2.5,
+        "authority_bonus_capped": 1.5,
+        "breadth_bonus": 0.0,
+        "momentum_bonus": 2.5,
+        "baseline_bonus": 0.0,
+        "early_signal": false,
+        "early_signal_bonus": 0.0,
+        "high_signal": false,
+        "dominant_emitter": false,
+        "dominance_penalty": 0.0,
+        "dominance_reason": "",
+        "first_seen_at": "2026-06-19T11:01:02+00:00"
+      }
+    ],
+    "resonance_ranking": {
+      "schema_version": 1,
+      "generated_at": "2026-06-19T11:01:02Z",
+      "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
+      "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
+    }
+  },
+  "topic_samples": [
     {
       "sample_id": "2026-06-19T11-01-02Z:title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
       "sample_index": 5939556,
@@ -116,7 +633,7 @@
       ]
     }
   ],
-  "windows": {
+  "trend_windows": {
     "now": {
       "window_minutes": 0,
       "generated_at": "2026-06-19T11:01:02Z",

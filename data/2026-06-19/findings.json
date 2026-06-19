@@ -1,5 +1,38 @@
 [
   {
+    "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-19T10:39:58+00:00",
+    "fetched_at": "2026-06-19T10:59:35+00:00",
+    "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+    "matched_keywords": [
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 24,
+    "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: actively exploited"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "d1ad5b853ec8a452e37c"
+  },
+  {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
     "url": "https://jvn.jp/vu/JVNVU92116935/",
     "source": "JVN Japan Vulnerability Notes",
@@ -970,6 +1003,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0e26c88b4771382933f7"
+  },
+  {
+    "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+    "url": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T05:56:57+00:00",
+    "fetched_at": "2026-06-19T10:59:35+00:00",
+    "summary": "はじめに 先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。 ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプロイできる」 ツール...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry",
+      "Japan"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Japan (+2.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8eee5f89bbfb8f9f5b60"
   },
   {
     "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
@@ -2528,6 +2584,46 @@
     "id": "4f31e75bd542dfbf2a10"
   },
   {
+    "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+    "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-19T10:06:00.000+00:00",
+    "fetched_at": "2026-06-19T10:59:35+00:00",
+    "summary": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Identity Services Engine (ISE) erschienen. Netzwerkadmins sollten zeitnah tätig werden.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9c7c077c0d7195589702"
+  },
+  {
+    "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+    "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-19T09:53:00.000+00:00",
+    "fetched_at": "2026-06-19T10:59:35+00:00",
+    "summary": "Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d47adc47b52efa2c682"
+  },
+  {
     "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
     "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html",
     "source": "heise Security Alerts",
@@ -3435,6 +3531,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "832d191ac82687e475ff"
+  },
+  {
+    "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+    "url": "https://shueisha.online/articles/-/257888",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:56:39+00:00",
+    "fetched_at": "2026-06-19T10:59:35+00:00",
+    "summary": "中国は武力だけで日本に影響力を及ぼそうとしているわけではない。SNSやメディア、世論を通じて社会の対立をあおり、人々の不信感を増幅させる――。こうした「認知戦」「政治工作」は、中国が長年重視してきた安全保障戦略の柱の一つとされる。人民解放軍が体系化してきた政治工作ドクトリンには、日本社会を内側から揺さ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "26a1773e35c2c5576a0a"
   },
   {
     "title": "円下落 、 一時１６１円８１銭 ／ ３９年半ぶり安値水準に迫る | 全国ニュース",
