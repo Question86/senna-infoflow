@@ -1,19 +1,1875 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T01:43:09+00:00",
+  "generated_at": "2026-06-19T01:58:32+00:00",
   "entities": {
-    "domain:www.correiobraziliense.com": {
-      "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
-      "first_seen_at": "2026-06-19T01:43:09+00:00",
-      "last_seen_at": "2026-06-19T01:43:09+00:00",
+    "title:openssl-2026": {
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
       "previous_run_count": 0,
       "last_run_count": 1,
       "momentum_delta": 1,
       "momentum_status": "increasing",
       "history": [
         {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "domain:restofworld.org": {
+      "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 7,
+      "momentum_delta": 7,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 7
+        }
+      ],
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ]
+    },
+    "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
+      "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:cisa-ics-advisory-ics-medical-advisory-2026": {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
+      "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "github_repo:deusdata/codebase-memory-mcp": {
+      "title": "DeusData/codebase-memory-mcp",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "title:signalrgb-ioctl": {
+      "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "title:radix-ax6600-wifi-tri-band-gaming-router": {
+      "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "github_repo:penpot/penpot": {
+      "title": "penpot/penpot",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "domain:finance.yahoo.com": {
+      "title": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "title:standing-committee-reports-canada-response-wildfires": {
+      "title": "Standing committee reports on Canada response to wildfires",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "title:openai-google-gemini": {
+      "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:singapore-carro-expands-regional-footprint-acquiring-carplace-what": {
+      "title": "Singapore’s Carro expands regional footprint by acquiring CarPlace: what it means for SEA, Australia markets",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:thingsboard": {
+      "title": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "title:optical-disc-archive-software-windows": {
+      "title": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "title:eos-network-setting-tool": {
+      "title": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "url:https://jvn.jp/jp/jvn55319858/": {
+      "title": "リコーおよびコニカミノルタジャパン製プリンタドライバーにおける権限昇格の脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "url:https://jvn.jp/vu/jvnvu99620284/": {
+      "title": "三菱電機製複数の家電製品におけるハードコードされた認証情報の使用に関する脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "title:crypton-x509-validation": {
+      "title": "crypton-x509-validationにおける不適切な証明書検証の脆弱性",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ]
+    },
+    "title:python-audit-gihyo": {
+      "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:www.wdsu.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.wwaytv3.com": {
+      "title": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.wbaltv.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.kcci.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.kcra.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.ibtimes.com": {
+      "title": "Could World Cup Crowds Threaten The Water Infrastructure Of New York And New Jersey ?",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.kmbc.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "title:four-executives-zero-personal-gain-three-years-prison": {
+      "title": "Four VC executives. Zero personal gain. Three years in prison",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:inside-funding-societies-strategy-help-smes-grow-through": {
+      "title": "Inside Funding Societies’ strategy to help SMEs grow through stronger institutional funding",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "domain:www.businesstimes.com": {
+      "title": "European shares retreat as markets mull hawkish US Federal Reserve",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:stockhouse.com": {
+      "title": "@ the Bell : Markets slip as rate hike fears and oil drop | 2026 - 06 - 18 | Investing News",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.latimes.com": {
+      "title": "Palisades victims seek tougher penalties against State Farm for claims",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 2,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 2
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS",
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:trends.google.com": {
+      "title": "축구중계",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 6,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 6
+        }
+      ],
+      "sources": [
+        "Google Trends Japan Hot Feed",
+        "Google Trends Philippines Hot Feed",
+        "Google Trends South Korea Hot Feed",
+        "Google Trends Taiwan Hot Feed",
+        "Google Trends Thailand Hot Feed",
+        "Google Trends Vietnam Hot Feed"
+      ]
+    },
+    "domain:www.morningstar.com": {
+      "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 2,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 2
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:gigazine.net": {
+      "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 3,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 3
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:malaysian-smes-grapple-growing-confidence-gap-adoption": {
+      "title": "Malaysian SMEs grapple with a growing “confidence gap” in AI adoption",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:top-best-erp-large-enterprise-malaysia": {
+      "title": "Top 4 Best ERP for Large Enterprise in Malaysia",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "github_repo:rocketchat/rocket.chat": {
+      "title": "RocketChat/Rocket.Chat",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "title:layerx": {
+      "title": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "github_repo:obra/superpowers": {
+      "title": "obra/superpowers",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "github_repo:continuedev/continue": {
+      "title": "continuedev/continue",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "github_repo:bytedance/ui-tars-desktop": {
+      "title": "bytedance/UI-TARS-desktop",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "github_repo:panniantong/agent-reach": {
+      "title": "Panniantong/Agent-Reach",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "domain:paris.maville.com": {
+      "title": "À Paris , une panne d électricité sur le réseau au départ de la gare de lEst : reprise",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.freemalaysiatoday.com": {
+      "title": "Wall Street indexes advance with boost from chips , Iran optimism",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "title:governance-banking-operations-decisioning": {
+      "title": "AI governance in banking operations and decisioning",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "title:did-not-kill-creativity-gave-opportunity-exercise": {
+      "title": "AI did not kill creativity, it gave us the opportunity to exercise it",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "url:http://www.shikoku-np.co.jp/national/main/20260619000180": {
+      "title": "円下落 、 一時１６１円８１銭 ／ ３９年半ぶり安値水準に迫る | 全国ニュース",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "title:rosanna-costa-por-ipom-balance-riesgos-para-inflaci": {
+      "title": "Rosanna Costa por IPoM : El balance de riesgos para la inflación se ha ido equilibrando",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.kolotv.com": {
+      "title": "Navato Fire in Sparks now 100 % contained",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:jateng.tribunnews.com": {
+      "title": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "url:https://www.jomo-news.co.jp/articles/-/961447": {
+      "title": "円下落 、 一時１６１円８１銭 ３９年半ぶり安値水準に迫る | 上毛新聞電子版｜群馬県のニュース ・ スポーツ情報",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.opinion.com": {
+      "title": "Sacaba capacita a 45 brigadistas para reforzar la respuesta ante incendios forestales",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.jiji.com": {
+      "title": "総裁不在下 、 異例の利上げ インフレ抑制 、 問われる手腕 ― 円安転換は不発 ・ 日銀 ： 時事ドットコム",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.cnbc.com": {
+      "title": "Jim Cramer says next week economic data will drive the markets",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.perfil.com": {
+      "title": "El debut de Warsh al frente de la Fed dispara apuestas por alzas de tasas este año",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "title:grafana-cloud-datadog-findy-tech-blog": {
+      "title": "ゼロから始める負荷試験環境構築 — Grafana Cloud k6とDatadogで本番トラフィックを再現する - Findy Tech Blog",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:regional.kompas.com": {
+      "title": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
+      "first_seen_at": "2026-06-18T14:33:45+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T14:33:45+00:00",
+          "count": 2
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T16:21:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T17:28:30+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T18:23:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T19:15:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T20:05:28+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T22:34:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:17:58+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:29:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:surabaya.kompas.com": {
+      "title": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
+      "first_seen_at": "2026-06-18T14:33:45+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T14:33:45+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T16:21:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T17:28:30+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T18:23:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T19:15:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T20:05:28+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T22:34:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:17:58+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:29:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "title:chip-memori-raksasa-gadget-ini-akan-dongrak-harga": {
+      "title": "Chip Memori , Raksasa Gadget Ini Akan Dongrak Harga Produk",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "url:https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html": {
+      "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:4290": {
+      "title": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:speakerdeck.com": {
+      "title": "プロジェクト失敗につながる地雷ワード",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:web-nginx-cvss": {
+      "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:self-improvement": {
+      "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:joho-todai.com": {
+      "title": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "title:cursor-git-origin-spacex": {
+      "title": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "domain:qiita.com": {
+      "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話 - Qiita",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ]
+    },
+    "github_repo:yairm210/unciv": {
+      "title": "yairm210/Unciv",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "github_repo:meshery/meshery": {
+      "title": "meshery/meshery",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ]
+    },
+    "domain:kaltim.tribunnews.com": {
+      "title": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.kitco.com": {
+      "title": "Hawkish Fed could push gold prices back to $4 , 000 next week",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:thebusinessjournal.com": {
+      "title": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.gsmarena.com": {
+      "title": "Trump says Intel and Apple will produce chips domestically",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.wptf.com": {
+      "title": "The Closing Bell : Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.excelsior.com": {
+      "title": "Fenómeno de El Niño avanza rápido en el Pacífico ; prevén sequías e inundaciones",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.capradio.org": {
+      "title": "California FAIR Plan will hike its rates this fall . How will that impact policyholders ?",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.eurointegration.com": {
+      "title": "Один з вокзалів Парижа зупиняв роботу через знеструмлення лінії , очікуються значні спізнення поїздів",
+      "first_seen_at": "2026-06-18T14:33:45+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T14:33:45+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T16:21:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T17:28:30+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T18:23:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T19:15:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T20:05:28+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T22:34:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:17:58+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:29:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:oilprice.com": {
+      "title": "Court Ruling Deals Major Blow to Trump War on Wind Power",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "title:iran-war-casts-fresh-shadow-over-sri-lanka": {
+      "title": "Iran war casts fresh shadow over Sri Lanka recovery - Business",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.investmentexecutive.com": {
+      "title": "Bank of England holds main interest rate at 3 . 75 % - Investment Executive",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.newsday.com": {
+      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.mcall.com": {
+      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.prnewswire.com": {
+      "title": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
+      "first_seen_at": "2026-06-18T14:33:45+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-18T14:33:45+00:00",
+          "count": 1
+        },
+        {
+          "at": "2026-06-18T15:00:18+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T16:21:23+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T17:28:30+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T18:23:02+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T19:15:55+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T20:05:28+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T22:34:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:17:58+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-18T23:59:21+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T00:27:44+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:29:15+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:beritajatim.com": {
+      "title": "Rumah Warga Jonggrang Magetan Ludes Terbakar Akibat Lilin saat Listrik Padam",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ]
+    },
+    "domain:www.smh.com": {
+      "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.theage.com": {
+      "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.nbcbayarea.com": {
+      "title": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.brisbanetimes.com": {
+      "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "domain:www.clickondetroit.com": {
+      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "GDELT Macro Market Policy RSS"
+      ]
+    },
+    "title:network-aggregators-can-thrive-disconnected-world": {
+      "title": "How network aggregators can thrive in a disconnected world",
+      "first_seen_at": "2026-06-19T01:58:32+00:00",
+      "last_seen_at": "2026-06-19T01:58:32+00:00",
+      "previous_run_count": 0,
+      "last_run_count": 1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "history": [
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 1
+        }
+      ],
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ]
+    },
+    "domain:www.correiobraziliense.com": {
+      "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+      "first_seen_at": "2026-06-19T01:43:09+00:00",
+      "last_seen_at": "2026-06-19T01:43:09+00:00",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
+      "history": [
+        {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -24,14 +1880,18 @@
       "title": "Exfiscal denunciado por persecución a activistas en USAC",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -42,14 +1902,18 @@
       "title": "Editorial | US and Iran have good reasons to stay the course for peace",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -60,14 +1924,18 @@
       "title": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -78,14 +1946,18 @@
       "title": "Выборы в парламент Приморья назначены на 20 сентября",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -96,14 +1968,18 @@
       "title": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -114,14 +1990,18 @@
       "title": "Pablo Salazar : Profesores de espaldas a la sociedad",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -132,14 +2012,18 @@
       "title": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -150,14 +2034,18 @@
       "title": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -168,14 +2056,18 @@
       "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -186,14 +2078,18 @@
       "title": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
       "first_seen_at": "2026-06-19T01:43:09+00:00",
       "last_seen_at": "2026-06-19T01:43:09+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 1,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "previous_run_count": 1,
+      "last_run_count": 0,
+      "momentum_delta": -1,
+      "momentum_status": "falling",
       "history": [
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 1
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -204,10 +2100,10 @@
       "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
       "first_seen_at": "2026-06-19T01:29:15+00:00",
       "last_seen_at": "2026-06-19T01:29:15+00:00",
-      "previous_run_count": 1,
+      "previous_run_count": 0,
       "last_run_count": 0,
-      "momentum_delta": -1,
-      "momentum_status": "falling",
+      "momentum_delta": 0,
+      "momentum_status": "quiet",
       "history": [
         {
           "at": "2026-06-19T01:29:15+00:00",
@@ -215,6 +2111,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -241,6 +2141,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -276,6 +2180,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -309,6 +2217,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -344,6 +2256,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -377,6 +2293,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -412,6 +2332,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -445,6 +2369,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -480,6 +2408,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -513,6 +2445,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -548,6 +2484,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -581,6 +2521,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -616,6 +2560,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -649,6 +2597,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -684,6 +2636,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -717,6 +2673,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -752,6 +2712,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -785,6 +2749,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -820,6 +2788,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -853,6 +2825,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -920,6 +2896,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -953,6 +2933,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -988,6 +2972,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1021,6 +3009,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1056,6 +3048,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1090,6 +3086,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1123,6 +3123,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1161,6 +3165,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1216,6 +3224,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1253,6 +3265,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1380,6 +3396,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1417,6 +3437,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1512,6 +3536,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1549,6 +3577,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1588,6 +3620,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1625,6 +3661,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1668,6 +3708,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1709,6 +3753,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1752,6 +3800,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1793,6 +3845,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1836,6 +3892,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1878,6 +3938,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1919,6 +3983,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -1966,6 +4034,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -1981,10 +4053,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
@@ -2100,6 +4168,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2146,6 +4218,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2191,6 +4267,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2242,6 +4322,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2291,6 +4375,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2342,6 +4430,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2391,6 +4483,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2446,6 +4542,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2499,6 +4599,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2554,6 +4658,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2608,6 +4716,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2661,6 +4773,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2780,6 +4896,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2833,6 +4953,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2888,6 +5012,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -2941,6 +5069,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -2996,6 +5128,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3049,6 +5185,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3104,6 +5244,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3157,6 +5301,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3212,6 +5360,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3265,6 +5417,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3324,6 +5480,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3381,6 +5541,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3440,6 +5604,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3498,6 +5666,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3555,6 +5727,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3617,6 +5793,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3684,6 +5864,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3749,6 +5933,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -3816,6 +6004,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3882,6 +6074,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -3947,6 +6143,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4017,6 +6217,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4085,6 +6289,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4150,6 +6358,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4217,6 +6429,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4282,6 +6498,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4349,6 +6569,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4414,6 +6638,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4481,6 +6709,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4546,6 +6778,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4613,6 +6849,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -4678,6 +6918,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4745,71 +6989,9 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
-        }
-      ],
-      "sources": [
-        "GDELT Initial Disruption Resonance RSS"
-      ]
-    },
-    "domain:www.prnewswire.com": {
-      "title": "Wildfire Pro Shop , Inc . Launches General Contractor Wildfire Defense Program -- First Installation Now Underway in Grizzly Ranch",
-      "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
         },
         {
-          "at": "2026-06-18T15:00:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T16:21:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T17:28:30+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T18:23:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T19:15:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T20:05:28+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T22:34:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:17:58+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:59:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T00:27:44+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:29:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:43:09+00:00",
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4876,6 +7058,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -4946,6 +7132,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5013,6 +7203,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5078,6 +7272,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5145,6 +7343,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5210,6 +7412,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5277,6 +7483,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5342,6 +7552,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5409,6 +7623,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5474,6 +7692,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5541,6 +7763,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5606,6 +7832,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5673,6 +7903,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5738,6 +7972,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5805,6 +8043,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -5870,6 +8112,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -5937,6 +8183,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6002,6 +8252,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6069,6 +8323,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6134,6 +8392,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6201,6 +8463,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6267,71 +8533,9 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
-        }
-      ],
-      "sources": [
-        "GDELT Politics Unrest Elections RSS"
-      ]
-    },
-    "domain:www.eurointegration.com": {
-      "title": "У Британії почалися вирішальні для майбутнього Стармера довибори у парламент",
-      "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
         },
         {
-          "at": "2026-06-18T15:00:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T16:21:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T17:28:30+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T18:23:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T19:15:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T20:05:28+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T22:34:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:17:58+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:59:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T00:27:44+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:29:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:43:09+00:00",
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6398,6 +8602,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6466,6 +8674,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6531,6 +8743,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6598,6 +8814,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6663,6 +8883,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6730,6 +8954,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6796,71 +9024,9 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
-        }
-      ],
-      "sources": [
-        "GDELT Initial Disruption Resonance RSS"
-      ]
-    },
-    "domain:regional.kompas.com": {
-      "title": "Listrik Padam di Sejumlah Wilayah Tangerang , PLN Sebut Ada Penurunan Kapasitas Suplai",
-      "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 2
         },
         {
-          "at": "2026-06-18T15:00:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T16:21:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T17:28:30+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T18:23:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T19:15:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T20:05:28+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T22:34:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:17:58+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:59:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T00:27:44+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:29:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:43:09+00:00",
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -6928,6 +9094,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -6993,6 +9163,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7060,6 +9234,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7125,6 +9303,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7192,6 +9374,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7257,6 +9443,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7324,6 +9514,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7389,6 +9583,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7456,6 +9654,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7521,6 +9723,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7588,6 +9794,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7653,6 +9863,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7720,6 +9934,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7786,71 +10004,9 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
-        }
-      ],
-      "sources": [
-        "GDELT Initial Disruption Resonance RSS"
-      ]
-    },
-    "domain:surabaya.kompas.com": {
-      "title": "Listrik Padam 3 Jam , Warga Pasuruan : Jangan Lama - lama , ASI Bisa Rusak",
-      "first_seen_at": "2026-06-18T14:33:45+00:00",
-      "last_seen_at": "2026-06-18T14:33:45+00:00",
-      "previous_run_count": 0,
-      "last_run_count": 0,
-      "momentum_delta": 0,
-      "momentum_status": "quiet",
-      "history": [
-        {
-          "at": "2026-06-18T14:33:45+00:00",
-          "count": 1
         },
         {
-          "at": "2026-06-18T15:00:18+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T16:21:23+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T17:28:30+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T18:23:02+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T19:15:55+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T20:05:28+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T22:34:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:17:58+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-18T23:59:21+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T00:27:44+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:29:15+00:00",
-          "count": 0
-        },
-        {
-          "at": "2026-06-19T01:43:09+00:00",
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -7918,6 +10074,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -7983,6 +10143,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8054,6 +10218,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8123,6 +10291,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8194,6 +10366,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8263,6 +10439,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8334,6 +10514,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8403,6 +10587,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8474,6 +10662,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8543,6 +10735,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8614,6 +10810,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8683,6 +10883,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8758,6 +10962,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8831,6 +11039,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -8906,6 +11118,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -8979,6 +11195,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -9054,6 +11274,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9127,6 +11351,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -9202,6 +11430,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9275,6 +11507,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -9354,6 +11590,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9431,6 +11671,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -9510,6 +11754,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9588,6 +11836,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9665,6 +11917,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -9748,6 +12004,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9826,6 +12086,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -9903,6 +12167,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -9986,6 +12254,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10068,6 +12340,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10149,6 +12425,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -10276,6 +12556,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10357,6 +12641,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -10445,6 +12733,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10530,6 +12822,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -10617,6 +12913,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10702,6 +13002,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -10789,6 +13093,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -10874,6 +13182,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -10965,6 +13277,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11054,6 +13370,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -11149,6 +13469,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11242,6 +13566,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -11337,6 +13665,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11430,6 +13762,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -11525,6 +13861,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11618,6 +13958,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -11713,6 +14057,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11806,6 +14154,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -11901,6 +14253,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -11994,6 +14350,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -12089,6 +14449,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12182,6 +14546,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -12277,6 +14645,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12370,6 +14742,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -12465,6 +14841,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12558,6 +14938,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -12664,6 +15048,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -12782,6 +15170,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -12905,6 +15297,10 @@
         {
           "at": "2026-06-19T01:43:09+00:00",
           "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
+          "count": 0
         }
       ],
       "sources": [
@@ -12920,10 +15316,6 @@
       "momentum_delta": 0,
       "momentum_status": "quiet",
       "history": [
-        {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 1
-        },
         {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
@@ -13038,6 +15430,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -13055,10 +15451,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         },
@@ -13172,6 +15564,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -13189,10 +15585,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         },
@@ -13306,6 +15698,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -13323,10 +15719,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         },
@@ -13440,6 +15832,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -13457,10 +15853,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         },
@@ -13574,6 +15966,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -13591,10 +15987,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         },
@@ -13708,6 +16100,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],
@@ -13725,10 +16121,6 @@
       "momentum_status": "quiet",
       "history": [
         {
-          "at": "2026-06-17T20:44:40+00:00",
-          "count": 0
-        },
-        {
           "at": "2026-06-17T20:48:21+00:00",
           "count": 0
         },
@@ -13842,6 +16234,10 @@
         },
         {
           "at": "2026-06-19T01:43:09+00:00",
+          "count": 0
+        },
+        {
+          "at": "2026-06-19T01:58:32+00:00",
           "count": 0
         }
       ],

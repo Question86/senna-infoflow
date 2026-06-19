@@ -1,5 +1,74 @@
 [
   {
+    "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
+    "url": "https://jvn.jp/vu/JVNVU92116935/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-15T15:20:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "OpenSSL ProjectからOpenSSL Security Advisory [9th June 2026]が公開されました。",
+    "matched_keywords": [
+      "advisory",
+      "CodeQL/Dependabot",
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 21,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); JVN (+2.0); Japan (+2.0); advisory (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2ea5056bca03cec2c312"
+  },
+  {
+    "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
+    "url": "https://restofworld.org/2026/tech-facebook-google-whatsapp-scams/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-10T10:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "In her new book “Bharat Bluff: Inside the Cons of India’s Internet Revolution,” writer Soumya Gupta explores how fraudsters are exploiting the trust people place in big tech platforms like Google, Facebook, and WhatsApp.",
+    "matched_keywords": [
+      "platform",
+      "Reputationsrisiko",
+      "Security"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Security (+6.0); Reputationsrisiko (+8.8); platform (+2.0); watchgraph region india: India (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ade6f01bdf6d264a92ba"
+  },
+  {
+    "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+    "url": "https://e27.co/acrab-raises-us350m-to-advance-agentic-ai-compute-infrastructure-20260618/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:30:22+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Acrab Inc., a Singapore-headquartered frontier tech company, has announced it has secured more than US$350 million in cumulative financing since its founding in 2024, as it looks to establish itself as a foundational infrastructure provider for the next generation of agentic AI. The company, which had previously operated in stealth, said the financing was raised […] The post Acrab raises US$350M to advance Agentic A…",
+    "matched_keywords": [
+      "AI",
+      "AI Agents",
+      "Singapore",
+      "startup"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI Agents (+6.2); startup (+2.0); AI (+2.5); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e2635349491b5c34ac4c"
+  },
+  {
     "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
     "url": "https://www.correiobraziliense.com.br/mundo/2026/06/7444052-sanchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial.html",
     "source": "GDELT Politics Unrest Elections RSS",
@@ -49,6 +118,227 @@
       "EWZ"
     ],
     "id": "b477b420990071b8e4a6"
+  },
+  {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
+    "url": "https://jvn.jp/vu/JVNVU95977590/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-17T09:00:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "2026年06月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f732bf5ec0db01b33172"
+  },
+  {
+    "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. Universal Android Debloater Next Generation Warning DISCLAIMER : Use at your own risk. We're not responsible for anything that could happen to your devices. This is a detached fork of the UAD project . This aims to improve privacy and efficiency (energy, speed, memor…",
+    "matched_keywords": [
+      "Datenschutz",
+      "GitHub Trending",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); Datenschutz (+6.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d8f7076da10e9b24c1fd"
+  },
+  {
+    "title": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minut…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "GitHub Trending",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP, MCP server"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "d47f9797763853a687f3"
+  },
+  {
+    "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU95564871/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-18T10:15:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "07f38f361ac45d18b688"
+  },
+  {
+    "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN20769211/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-17T12:00:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Micro-Star International Co., Ltd.が提供するRadiX AX6600 WiFi 6 Tri-Band Gaming Routerには、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2097c8cb132ad53dfa30"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Penpot: The open-source design tool for design and code collaboration Website • User Guide • Learning Center • Community Youtube • Peertube • Linkedin • Instagram • Mastodon • Bluesky • X Penpot video Penpot is the open-source design platform for teams that build digital products at scale. Penpot’s key strength lies in giving you full ownership of your design infrastructure . Built on open source and designed for se…",
+    "matched_keywords": [
+      "Content-Chance",
+      "GitHub Trending",
+      "Open Source",
+      "Webentwicklung"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Webentwicklung (+3.0); Open Source (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf6fd96994c824a844f4"
+  },
+  {
+    "title": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-now-3-205000016.html",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+    "matched_keywords": [
+      "GDELT",
+      "resonance",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "66a9d6052b256d37c2e3"
+  },
+  {
+    "title": "Standing committee reports on Canada response to wildfires",
+    "url": "https://energeticcity.ca/2026/06/18/federal-committee-warns-of-lack-of-preparedness-for-wildfires/",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Standing committee reports on Canada response to wildfires",
+    "matched_keywords": [
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought",
+      "wildfire"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "wildfire (+2.5); resonance (+2.0); GDELT (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: wildfire"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "52818c058c54c7b7152e"
   },
   {
     "title": "Exfiscal denunciado por persecución a activistas en USAC",
@@ -102,6 +392,430 @@
     "id": "4b1a011f2fa6f16f9ff2"
   },
   {
+    "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:55:53+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "米OpenAIに、著名なAI研究者と政策の専門家が相次いで加わることが分かった。米Googleで生成AIモデル「Gemini」の開発を共同で率いてきたノーム・シャジーア氏と、米連邦政府でAI政策に携わったディーン・ボール氏が、それぞれXへの投稿でOpenAIへの参加を明らかにした。 シャジーア氏は6月17日（現地時間）にXで「OpenA...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "568b84f80ec248c9490a"
+  },
+  {
+    "title": "Singapore’s Carro expands regional footprint by acquiring CarPlace: what it means for SEA, Australia markets",
+    "url": "https://e27.co/carro-acquires-carplace-what-it-means-for-sea-australia-markets-20260618/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:35:18+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Carro, the Singapore-headquartered online automotive marketplace that has built a significant presence across Southeast Asia, has made its first major move into Australia with the acquisition of CarPlace, a used-car platform operated by Australian automotive group Autoleague. The deal gives Carro a physical presence in three of Australia’s four largest markets in one go. It […] The post Singapore’s Carro expands reg…",
+    "matched_keywords": [
+      "Singapore",
+      "Southeast Asia",
+      "startup"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); Singapore (+2.5); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a82d2b646f0d788fa9a8"
+  },
+  {
+    "title": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
+    "url": "https://jvn.jp/jp/JVN16937365/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-16T12:00:15+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "ThingsBoardにはプロトタイプ汚染の脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "98cc7845c6fd34da5782"
+  },
+  {
+    "title": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+    "url": "https://jvn.jp/jp/JVN79926428/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-16T12:00:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "ソニー株式会社が提供するOptical Disc Archive Software（Windows版）のインストーラには、インストール時の不適切なファイルアクセス権設定の脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0ffeb96c3904b0d5a33"
+  },
+  {
+    "title": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU98100934/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-16T11:00:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "キヤノン株式会社が提供するPCソフトウェア EOS Network Setting Toolには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3751f22e27b07a7c8ef8"
+  },
+  {
+    "title": "リコーおよびコニカミノルタジャパン製プリンタドライバーにおける権限昇格の脆弱性",
+    "url": "https://jvn.jp/jp/JVN55319858/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-15T14:00:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "株式会社リコーおよびコニカミノルタジャパン株式会社が提供するプリンタドライバーには、権限昇格の脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "294ff12f0ad3c090357f"
+  },
+  {
+    "title": "三菱電機製複数の家電製品におけるハードコードされた認証情報の使用に関する脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU99620284/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-15T12:30:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "三菱電機製複数の家電製品には、ハードコードされた認証情報の使用に関する脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8760bb975d80f15d3b83"
+  },
+  {
+    "title": "Can open-source beat OpenAI?",
+    "url": "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-15T10:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Former Hugging Face executive Tiezhen Wang explains how China's open-source strategy is reshaping the AI race.",
+    "matched_keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); AI (+2.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0b61657fb98a90aba54c"
+  },
+  {
+    "title": "crypton-x509-validationにおける不適切な証明書検証の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU96130756/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-12T15:15:00+09:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0e26c88b4771382933f7"
+  },
+  {
+    "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+    "url": "https://gihyo.jp/article/2026/06/uv-audit-preview",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-17T03:22:30+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "OpenAI傘下のAstralは2026年6月8日、Pythonパッケージマネージャー「uv」に、依存関係の脆弱性を確認する新コマンドuv auditと、インストール時に既知のマルウェア情報を照合する機能を追加したと発表した。いずれも現時点ではプレビュー機能で、設計の反復に伴い破壊的変更が入る可能性があるとしている。 Vulnerabilit...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a7615d87a0aea245d60f"
+  },
+  {
+    "title": "U . S . drought eases , but May ranks as the second driest on record",
+    "url": "https://www.wdsu.com/article/us-drought-may-data/71618594",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "U . S . drought eases , but May ranks as the second driest on record",
+    "matched_keywords": [
+      "drought",
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "drought (+2.5); resonance (+2.0); GDELT (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: drought"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "9b6350e69b7d7c723176"
+  },
+  {
+    "title": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+    "url": "https://www.wwaytv3.com/exceptional-drought-expands-across-central-north-carolina-impacting-10-counties/",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+    "matched_keywords": [
+      "drought",
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "drought (+2.5); resonance (+2.0); GDELT (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: drought"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "c3cd757b29ab9abce8af"
+  },
+  {
+    "title": "U . S . drought eases , but May ranks as the second driest on record",
+    "url": "https://www.wbaltv.com/article/us-drought-may-data/71618594",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "U . S . drought eases , but May ranks as the second driest on record",
+    "matched_keywords": [
+      "drought",
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "drought (+2.5); resonance (+2.0); GDELT (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: drought"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "506878e78812d7fedaff"
+  },
+  {
+    "title": "U . S . drought eases , but May ranks as the second driest on record",
+    "url": "https://www.kcci.com/article/us-drought-may-data/71618594",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "U . S . drought eases , but May ranks as the second driest on record",
+    "matched_keywords": [
+      "drought",
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "drought (+2.5); resonance (+2.0); GDELT (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: drought"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "c3c4dac79a40253dd184"
+  },
+  {
+    "title": "U . S . drought eases , but May ranks as the second driest on record",
+    "url": "https://www.kcra.com/article/us-drought-may-data/71618594",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T21:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "U . S . drought eases , but May ranks as the second driest on record",
+    "matched_keywords": [
+      "drought",
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "drought (+2.5); resonance (+2.0); GDELT (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: drought"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "366fdf4bc240ed5ddea5"
+  },
+  {
     "title": "Editorial | US and Iran have good reasons to stay the course for peace",
     "url": "https://www.scmp.com/opinion/comment/article/3357576/us-and-iran-have-good-reasons-stay-course-peace",
     "source": "GDELT Politics Unrest Elections RSS",
@@ -150,6 +864,48 @@
       "EWZ"
     ],
     "id": "2636590a04c634433282"
+  },
+  {
+    "title": "Could World Cup Crowds Threaten The Water Infrastructure Of New York And New Jersey ?",
+    "url": "https://www.ibtimes.com/could-world-cup-crowds-threaten-water-infrastructure-new-york-new-jersey-3804275",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Could World Cup Crowds Threaten The Water Infrastructure Of New York And New Jersey ?",
+    "matched_keywords": [
+      "GDELT",
+      "resonance",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: World Cup"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "940d8b0627ca18078344"
   },
   {
     "title": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
@@ -452,6 +1208,112 @@
     "id": "85a3048b2644b469afe4"
   },
   {
+    "title": "U . S . drought eases , but May ranks as the second driest on record",
+    "url": "https://www.kmbc.com/article/us-drought-may-data/71618594",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "U . S . drought eases , but May ranks as the second driest on record",
+    "matched_keywords": [
+      "drought",
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "drought (+2.5); resonance (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: drought"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "4cfadd30df490d12efc7"
+  },
+  {
+    "title": "Four VC executives. Zero personal gain. Three years in prison",
+    "url": "https://e27.co/four-vc-executives-zero-personal-gain-three-years-in-prison-20260618/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T11:37:49+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "A Jakarta courtroom delivered a verdict on Thursday that is already reverberating far beyond Indonesia’s borders. Four senior executives from two of the country’s most prominent state-backed venture capital firms, MDI Ventures and BRI Ventures, have been sentenced to prison over investments made in the now-defunct agritech startup TaniHub. Also Read: Indonesia detains 3 more […] The post Four VC executives. Zero per…",
+    "matched_keywords": [
+      "Indonesia",
+      "startup",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "startup (+2.0); Indonesia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "1f145c36055ee91c950d"
+  },
+  {
+    "title": "Inside Funding Societies’ strategy to help SMEs grow through stronger institutional funding",
+    "url": "https://e27.co/funding-societies-smes-20251125/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T11:10:10+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "In Indonesia’s increasingly competitive and cautious economic climate, small and medium-sized enterprises (SMEs) are facing a complex set of challenges. According to Arthur Adisusanto, Country Head for Indonesia at Funding Societies, the slowdown in consumer spending has had a direct impact on SME revenues and their ability to grow. While inflation and global headwinds contribute […] The post Inside Funding Societie…",
+    "matched_keywords": [
+      "funding",
+      "Indonesia",
+      "startup"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "startup (+2.0); funding (+2.5); Indonesia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4a35178d32323d6dbf68"
+  },
+  {
     "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
     "url": "https://www.is.fi/ulkomaat/art-2000012090584.html",
     "source": "GDELT Politics Unrest Elections RSS",
@@ -500,6 +1362,49 @@
       "EWZ"
     ],
     "id": "258605726be41ecfd068"
+  },
+  {
+    "title": "European shares retreat as markets mull hawkish US Federal Reserve",
+    "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-retreat-markets-mull-hawkish-us-federal-reserve",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "European shares retreat as markets mull hawkish US Federal Reserve",
+    "matched_keywords": [
+      "GDELT",
+      "macro",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "7d69dcd941d74ca8cebc"
   },
   {
     "title": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
@@ -552,6 +1457,544 @@
     "id": "fae12ef70292dca20e37"
   },
   {
+    "title": "@ the Bell : Markets slip as rate hike fears and oil drop | 2026 - 06 - 18 | Investing News",
+    "url": "https://stockhouse.com/news/market-updates/2026/06/18/-bell-markets-slip-as-rate-hike-fears-and-oil-drop",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "@ the Bell : Markets slip as rate hike fears and oil drop | 2026 - 06 - 18 | Investing News",
+    "matched_keywords": [
+      "GDELT",
+      "macro",
+      "oil",
+      "rate hike"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "rate hike (+2.5); oil (+2.5); macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e31932b3f2ab1376df9d"
+  },
+  {
+    "title": "Palisades victims seek tougher penalties against State Farm for claims",
+    "url": "https://www.latimes.com/business/story/2026-06-18/january-2025-wildfire-victims-seek-tougher-penalties-against-state-farm-over-claims-handling",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Palisades victims seek tougher penalties against State Farm for claims",
+    "matched_keywords": [
+      "GDELT",
+      "resonance",
+      "Watchgraph:wildfire_heat_drought",
+      "wildfire"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "wildfire (+2.0); resonance (+2.0); GDELT (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "wildfire_heat_drought"
+    ],
+    "watchgraph_reasons": [
+      "wildfire_heat_drought: wildfire"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "ca60b9b0e852a14d82e8"
+  },
+  {
+    "title": "축구중계",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "source": "Google Trends South Korea Hot Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:50:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "축구중계",
+    "matched_keywords": [
+      "Korea",
+      "South Korea",
+      "trend"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "South Korea (+2.0); Korea (+2.0); trend (+2.0); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c7b0459f8ee27a7c8220"
+  },
+  {
+    "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
+    "url": "https://www.morningstar.com/news/dow-jones/202606188799/dow-jones-top-markets-headlines-at-7-pm-et-stocks-rally-gas-prices-fall-as-us-iran-move-ahead-on-peace-deal-oil",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
+    "matched_keywords": [
+      "GDELT",
+      "macro",
+      "oil"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "oil (+2.5); macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "03bd7eebc3f8270a1883"
+  },
+  {
+    "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+    "url": "https://gigazine.net/news/20260618-ai-brand-visibility-research/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T11:39:05+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "大手企業やメディア向けに特化したエンタープライズ対応のCMSおよびホスティングプラットフォーム・WordPress VIPがAI時代のブランド可視性とウェブ体験に関する調査レポート「Future of the Web 2026: Chapter 1」を公開しました。このレポートは、AI時代のブランド可視性とウェブ体験をテーマにしたものです。 Future ...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "47ae5782826caad9883c"
+  },
+  {
+    "title": "Malaysian SMEs grapple with a growing “confidence gap” in AI adoption",
+    "url": "https://e27.co/xero-malaysian-smes-20251119/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T11:00:05+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Malaysian SMEs are embracing AI at an impressive speed, but a new report by Xero suggests this enthusiasm masks a deeper uncertainty that could hinder long-term progress. The study, Building a Future-Ready Economy: Examining AI Readiness and Adoption Among Malaysia’s MSMEs, describes this divide between optimism and confidence as a widening “confidence gap.” According to […] The post Malaysian SMEs grapple with a gr…",
+    "matched_keywords": [
+      "AI",
+      "startup"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "startup (+2.0); AI (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "89e085554ada4636f06c"
+  },
+  {
+    "title": "Top 4 Best ERP for Large Enterprise in Malaysia",
+    "url": "https://e27.co/top-4-best-erp-for-large-enterprise-in-malaysia-20260618/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T07:44:28+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "The Industrial History of Malaysian Large Enterprises The journey of Malaysian large enterprises from 2014 to 2026 highlights a massive operational paradigm shift. Over the past decade, corporations across Malaysia transitioned from regional production hubs into hyper-automated, data-driven global powerhouses. This evolution accelerated rapidly post-pandemic, forcing legacy conglomerates to abandon disconnected stan…",
+    "matched_keywords": [
+      "startup",
+      "Watchgraph:public_health_biosecurity"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "startup (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules public_health_biosecurity (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "public_health_biosecurity"
+    ],
+    "watchgraph_reasons": [
+      "public_health_biosecurity: pandemic"
+    ],
+    "market_context": [
+      "PFE",
+      "MRNA",
+      "BNTX",
+      "GSK",
+      "AZN",
+      "TMO",
+      "DHR"
+    ],
+    "id": "a992b4bb83e7f6066f47"
+  },
+  {
+    "title": "Spotify’s post-English AI future",
+    "url": "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-16T10:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "More than half of Spotify listening is now in non-English languages as the company expands across Africa, Asia, and Latin America with local artists, pricing, and payment systems.",
+    "matched_keywords": [
+      "Africa",
+      "AI",
+      "Asia",
+      "Latin America"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Asia (+2.0); Africa (+2.0); Latin America (+2.0); AI (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7e8bd5509cf752fdfcba"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "The Secure CommsOS™ for mission-critical operations The ultimate secure open-source solution for team communications Rocket.Chat is an open-source, secure, fully customizable communications platform developed in TypeScript for organizations with high standards of data protection. We are the ultimate solution for team communications, enabling real-time conversations between colleagues, with other companies, and with…",
+    "matched_keywords": [
+      "Datenschutz",
+      "GitHub Trending"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Datenschutz (+6.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d86dab73c910c0e0a64"
+  },
+  {
+    "title": "Dow Jones Top Markets Headlines at 3 PM ET : Brent Trades at Prewar Prices , Gas Falls Below $4 After Iran Deal Is Signed | BOE ...",
+    "url": "https://www.morningstar.com/news/dow-jones/202606186840/dow-jones-top-markets-headlines-at-3-pm-et-brent-trades-at-prewar-prices-gas-falls-below-4-after-iran-deal-is-signed-boe",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Dow Jones Top Markets Headlines at 3 PM ET : Brent Trades at Prewar Prices , Gas Falls Below $4 After Iran Deal Is Signed | BOE ...",
+    "matched_keywords": [
+      "GDELT",
+      "macro",
+      "Watchgraph:energy_oil_gas_power_uranium"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "energy_oil_gas_power_uranium"
+    ],
+    "watchgraph_reasons": [
+      "energy_oil_gas_power_uranium: Brent"
+    ],
+    "market_context": [
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "CCJ",
+      "ENB",
+      "SU",
+      "EQNR",
+      "URA"
+    ],
+    "id": "4f31e75bd542dfbf2a10"
+  },
+  {
+    "title": "youtuber",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "source": "Google Trends Japan Hot Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:40:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "youtuber",
+    "matched_keywords": [
+      "Japan",
+      "trend"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Japan (+2.0); trend (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8fc18592e8a0e89a9748"
+  },
+  {
+    "title": "ngày báo chí cách mạng việt nam",
+    "url": "https://trends.google.com/trending/rss?geo=VN",
+    "source": "Google Trends Vietnam Hot Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:40:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "ngày báo chí cách mạng việt nam",
+    "matched_keywords": [
+      "trend",
+      "Vietnam"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Vietnam (+2.0); trend (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5a749a73f190cb543b11"
+  },
+  {
+    "title": "bts arirang bulacan",
+    "url": "https://trends.google.com/trending/rss?geo=PH",
+    "source": "Google Trends Philippines Hot Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "bts arirang bulacan",
+    "matched_keywords": [
+      "Philippines",
+      "trend"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Philippines (+2.0); trend (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a90975f15401e94a0a5"
+  },
+  {
+    "title": "mexico vs south korea",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "source": "Google Trends Taiwan Hot Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:20:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "mexico vs south korea",
+    "matched_keywords": [
+      "Taiwan",
+      "trend"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Taiwan (+2.0); trend (+2.0); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "30220e89e43d8c8fb66b"
+  },
+  {
+    "title": "jonathan david",
+    "url": "https://trends.google.com/trending/rss?geo=TH",
+    "source": "Google Trends Thailand Hot Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:10:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "jonathan david",
+    "matched_keywords": [
+      "Thailand",
+      "trend"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Thailand (+2.0); trend (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb5ad90580f743982f38"
+  },
+  {
+    "title": "Chile turned to China for an undersea cable. The U.S. said no",
+    "url": "https://restofworld.org/2026/chile-china-america-google-cable/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T10:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "A proposed undersea cable from Chile to Hong Kong promised to connect South America directly to Asia. Instead, it became a test of how far the U.S. will go to curb Chinese telecom ambitions.",
+    "matched_keywords": [
+      "Asia"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Asia (+2.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph region china_credible_only: China, Hong Kong (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2be541bac085e71222f8"
+  },
+  {
+    "title": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ",
+    "url": "https://tech.layerx.co.jp/entry/prompt-log-driven-ai-workflow",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:48:09+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "アイキャッチ はじめに こんにちは。バクラク申請・経費精算の開発をしているyoheiです。 最近、自宅寿司にハマっており寿司アカデミーに通うかほんの少し迷ってます。 近ごろはもっぱらAIを使ってコーディングしているのですが、同じような指示を書いてるな〜と思うことありませんか？ PRを作って、レビューコメントを...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2a18aafb97eb09e0ecb6"
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. We're Hiring! We're hiring someone to help out full time with Superpowers community and code work. You can read about the job at https://pr…",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5a138df68c72e9f931de"
+  },
+  {
+    "title": "continuedev/continue",
+    "url": "https://github.com/continuedev/continue",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "open-source coding agent Continue Pioneering open-source coding agent What is Continue? Note: The continuedev/continue repository is no longer actively maintained and is read-only for all users. Continue is a coding agent available as a CLI , VS Code extension , and JetBrains plugin . Documentation To learn how to configure Continue, how it works, and how to customize it, check out the Continue Docs . Final 2.0.0 Re…",
+    "matched_keywords": [
+      "Content-Chance",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Content-Chance (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ac83b56638e3442ffe57"
+  },
+  {
+    "title": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra Introduction English | 简体中文 TARS * is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop : Agent TARS UI-TARS-desktop Agent TARS is a general multimodal AI Agent stack, it brings the power of GUI Agent and Vision into your terminal, computer, browser and product. It primarily ships w…",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b926a219fc758e0fbdfc"
+  },
+  {
+    "title": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. 👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 为什么需要 Agent Reach？ AI Agent 已经能帮你写代码、改文档、管项目——但你让它去网上找点东西，它就抓瞎了： 📺 \"帮我看看这个 YouTube 教程讲了什么\" → 看不了 ，拿不到字幕 🐦 \"帮我搜一下推特上大家怎么评价这个产品\" → 搜不了 ，Twitter API 要付费 📖 \"去…",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a040fe21af15577ad42"
+  },
+  {
+    "title": "À Paris , une panne d électricité sur le réseau au départ de la gare de lEst : reprise",
+    "url": "https://paris.maville.com/actu/actudet_-a-paris-une-panne-d-electricite-sur-le-reseau-au-depart-de-la-gare-de-l-est-reprise-progressive-du-trafic-ferroviaire-_fil-7367715_actu.Htm",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "À Paris , une panne d électricité sur le réseau au départ de la gare de lEst : reprise",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); watchgraph region europe: Paris (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f6fe3c083c78876dc535"
+  },
+  {
+    "title": "Wall Street indexes advance with boost from chips , Iran optimism",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/06/19/wall-street-indexes-advance-with-boost-from-chips-iran-optimism",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Wall Street indexes advance with boost from chips , Iran optimism",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8aecbb8459ea327d7f66"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.6M, Depth:10km) in South Of Panama 19/06/2026 00:07 UTC, No people affected in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547362",
     "source": "GDACS All Events Last 24h",
@@ -588,6 +2031,341 @@
     "id": "272bc79164d64ec6d8ab"
   },
   {
+    "title": "AI governance in banking operations and decisioning",
+    "url": "https://e27.co/ai-governance-in-banking-operations-and-decisioning-20260606/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:00:26+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Banks are still talking about AI governance as though it belongs mainly to policy teams, future regulation, and committee oversight. That view is already out of date. AI governance is now an operating model issue. The real danger is not only that a model makes a poor recommendation or that an employee shares sensitive information […] The post AI governance in banking operations and decisioning appeared first on e27 .",
+    "matched_keywords": [
+      "AI",
+      "startup"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "startup (+2.0); AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "645e49a70ddf796b9d69"
+  },
+  {
+    "title": "AI did not kill creativity, it gave us the opportunity to exercise it",
+    "url": "https://e27.co/ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it-20260618/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:32:13+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Every time a new AI tool emerges, the same fear resurfaces: Will AI replace human creativity? As someone who has spent years building businesses, creating content, writing, speaking, and mentoring entrepreneurs, I don’t think that’s the right question. The better question is this: What happens when people no longer spend most of their time executing? […] The post AI did not kill creativity, it gave us the opportunit…",
+    "matched_keywords": [
+      "AI",
+      "startup"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "startup (+2.0); AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5201ee858ea605941d3a"
+  },
+  {
+    "title": "The Great AI Divide: Navigating U.S. and Chinese dominance",
+    "url": "https://restofworld.org/2026/ai-divide-america-china-world/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-09T10:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "At a Rest of World event during New York Tech Week, we explored the challenges and possible solutions to the dominance of American and Chinese AI companies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "AI (+2.5); watchgraph region usa: New York (+2.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a68815c2a845d60ce21"
+  },
+  {
+    "title": "円下落 、 一時１６１円８１銭 ／ ３９年半ぶり安値水準に迫る | 全国ニュース",
+    "url": "http://www.shikoku-np.co.jp/national/main/20260619000180",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "円下落 、 一時１６１円８１銭 ／ ３９年半ぶり安値水準に迫る | 全国ニュース",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "48c75e1bc6e663a0252f"
+  },
+  {
+    "title": "Rosanna Costa por IPoM : El balance de riesgos para la inflación se ha ido equilibrando",
+    "url": "https://www.radioagricultura.cl/noticias/economia/rosanna-costa-por-ipom-el-balance-de-riesgos-para-la-inflacion-se-ha-ido-equilibrando_20260618/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Rosanna Costa por IPoM : El balance de riesgos para la inflación se ha ido equilibrando",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "28740269b31d3354b1c8"
+  },
+  {
+    "title": "Navato Fire in Sparks now 100 % contained",
+    "url": "https://www.kolotv.com/2026/06/17/navato-fire-sparks-now-90-contained/",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Navato Fire in Sparks now 100 % contained",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb0fd52d3c3a998520c2"
+  },
+  {
+    "title": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
+    "url": "https://jateng.tribunnews.com/semarang/1257016/prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-cerah",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "01acbe5d095c05e397c9"
+  },
+  {
+    "title": "円下落 、 一時１６１円８１銭 ３９年半ぶり安値水準に迫る | 上毛新聞電子版｜群馬県のニュース ・ スポーツ情報",
+    "url": "https://www.jomo-news.co.jp/articles/-/961447",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "円下落 、 一時１６１円８１銭 ３９年半ぶり安値水準に迫る | 上毛新聞電子版｜群馬県のニュース ・ スポーツ情報",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "585ddc368c00f86b8a6d"
+  },
+  {
+    "title": "Sacaba capacita a 45 brigadistas para reforzar la respuesta ante incendios forestales",
+    "url": "https://www.opinion.com.bo/articulo/cochabamba/sacaba-capacita-45-brigadistas-reforzar-respuesta-incendios-forestales/20260618192915992502.html",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Sacaba capacita a 45 brigadistas para reforzar la respuesta ante incendios forestales",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cd06da7358776e89ada4"
+  },
+  {
+    "title": "総裁不在下 、 異例の利上げ インフレ抑制 、 問われる手腕 ― 円安転換は不発 ・ 日銀 ： 時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026061601173&g=cyr",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "総裁不在下 、 異例の利上げ インフレ抑制 、 問われる手腕 ― 円安転換は不発 ・ 日銀 ： 時事ドットコム",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e3806abce43a5c1de168"
+  },
+  {
+    "title": "Jim Cramer says next week economic data will drive the markets",
+    "url": "https://www.cnbc.com/2026/06/18/jim-cramer-economic-data-drive-markets.html",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Jim Cramer says next week economic data will drive the markets",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6fa349e8d71ea84b76c5"
+  },
+  {
+    "title": "El debut de Warsh al frente de la Fed dispara apuestas por alzas de tasas este año",
+    "url": "https://www.perfil.com/noticias/bloomberg/bc-el-debut-de-warsh-al-frente-de-la-fed-dispara-apuestas-por-alzas-de-tasas-este-ano.phtml",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "El debut de Warsh al frente de la Fed dispara apuestas por alzas de tasas este año",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ddef4683ad940da092b2"
+  },
+  {
+    "title": "ゼロから始める負荷試験環境構築 — Grafana Cloud k6とDatadogで本番トラフィックを再現する - Findy Tech Blog",
+    "url": "https://tech.findy.co.jp/entry/2026/06/19/070000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:11:03+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "こんにちは。 CTO室/Platform開発チームでSREを担当している富田(@Cooking_ENG)です。 ファインディでは、サービスがどれほどの負荷に耐えられるかを把握し、性能の問題を表面化・改善することで、ユーザーに安定したサービスを提供できる状態を目指しています。 そこで、Grafana Labsが提供するGrafana Cloud k6を採用...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4eaa85277233ae2c43b2"
+  },
+  {
+    "title": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
+    "url": "https://regional.kompas.com/read/2026/06/19/063332178/semarang-dilanda-pemadaman-listrik-berjam-jam-warga-mulai-borong-power-bank",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f21a440a64dc1f8d5fd"
+  },
+  {
+    "title": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
+    "url": "https://surabaya.kompas.com/read/2026/06/19/060520378/dampak-listrik-padam-di-surabaya-traffic-light-mati-bayi-menangis-pekerjaan",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "650172b7ecda69660ab4"
+  },
+  {
+    "title": "Chip Memori , Raksasa Gadget Ini Akan Dongrak Harga Produk",
+    "url": "https://global.kontan.co.id/news/chip-memori-raksasa-gadget-ini-akan-dongrak-harga-produk",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T00:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Chip Memori , Raksasa Gadget Ini Akan Dongrak Harga Produk",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6dec66d46f63d341662b"
+  },
+  {
     "title": "Upcoming deprecation of Opus 4.6 (fast)",
     "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
     "source": "GitHub Changelog Atom",
@@ -607,5 +2385,756 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9f06ae672ae180b6e54d"
+  },
+  {
+    "title": "ゲーム開発ではなぜファイルのマージよりも「ロック」を多用して開発を進めるのか？",
+    "url": "https://gigazine.net/news/20260619-game-dev-dont-merge-files/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:48:05+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "ゲーム開発の現場では、複数人が同じファイルを編集して後から変更内容を統合する「マージ」が一般的なソフトウェア開発ほど使われていません。ゲーム開発者のアレックス・クリリン氏が、画像や3Dモデルなどのバイナリファイル、ファイルの排他ロック、巨大なデータ容量といった事情から、ゲーム開発特有の作業手順が生...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49fbc17ede3f6c63df56"
+  },
+  {
+    "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T21:07:10+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4b066b20cfa0fa213b2"
+  },
+  {
+    "title": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/19/news021.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T21:02:58+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "ITmedia デジタル戦略EXPO 2026 夏では、各分野の第一人者や企業の現場でビジネス変革に取り組むリーダーの声を通じて、経営×IT×現場のコラボレーションで全社変革を進めるヒントをお届けします。 AIを活用したデジタル戦略が必須となる中、ダイハツ工業や旭化成、NOT A HOTELなどビジネス変革に取り組む企業の「当事者...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea447561ec40f83d7e98"
+  },
+  {
+    "title": "プロジェクト失敗につながる地雷ワード",
+    "url": "https://speakerdeck.com/bunnchinn3/puroziekutoshi-bai-nitunagarudi-lei-wado",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T09:19:25+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4c1d30ed28b6f512a265"
+  },
+  {
+    "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118062.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:49:07+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa9b71891841470d27b4"
+  },
+  {
+    "title": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
+    "url": "https://gigazine.net/news/20260618-claude-design-claude-code/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T07:36:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "AnthropicがClaude Designの機能強化を2026年6月17日に発表しました。Claude Designはデザインシステムに沿った制作、キャンバス上での直接編集、Claude Codeとの同期、外部ツールとの連携に対応するようになり、デザインからコーディングまでの流れをより一体的に扱えるようになりました。 Claude Design now stays on ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "543be6f09ffaf1d4e08f"
+  },
+  {
+    "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+    "url": "https://zenn.dev/stak22/articles/3ea03d0e3ca025",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T06:30:15+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "こんにちは、takahashi（@stak_22） です。 私は Claude Code を使って開発しているのですが、「さっき同じこと指摘したのに、また同じミスしてる」というケースがよくあります。 同じセッションなら覚えてくれます。でもセッションをまたぐと忘れる。チームの別メンバーが同じエージェントを動かしたら、また一から同じ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e32c2ac5f383168732c3"
+  },
+  {
+    "title": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+    "url": "https://joho-todai.com/epic-games-lore-version-control/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T04:37:57+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "※ ◎=ネイティブ対応 △=制限付き対応 ×=非対応。LoreはUEFN（Unreal Editor for Fortnite）内蔵VCSとして運用実績あり。pre-1.0 Gitの設計に正面から答える設計意図はわかりやすい。GitとPerforceの長所を選び取り、短所を避ける。 集中型のサーバーを持ちつつ、リポジトリの状態をマークルツリーと不変のリビジョンチェ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "290f13e16579905be511"
+  },
+  {
+    "title": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-17T11:57:19+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Originは、チームとAIエージェントがコードをホスティングし、レビュー・共同作業するための基盤で、「エージェント時代のGitフォージ」をうたうプラットフォーム。 同日に公式サイトを公開し、ウェイトリストへの登録を呼び掛けている。 Cursorを運営する米Anysphereをめぐっては、SpaceXが600億ドル（約9.6兆円）で買...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "61e9a9623a3f7ef3615c"
+  },
+  {
+    "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話 - Qiita",
+    "url": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-17T09:14:08+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。 はじめに みなさん、文字列の全角・半角判定、どうやってますか？ 大半の人はこう答えるでしょう。 「正規表現で /[^\\x20-\\x7E]/ とか使えば一発じゃん」 はい、大正解です。実務では絶対にそうしてくださ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6c010164cf5cc040aeaf"
+  },
+  {
+    "title": "yairm210/Unciv",
+    "url": "https://github.com/yairm210/Unciv",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Open-source Android/Desktop remake of Civ V Unciv - Civ V remake for Android & Desktop What is this? An open source, moddability-focused Android and Desktop remake of Civ V, made with LibGDX. Is this any good? Depends what you're looking for. If you're in the market for high-res graphics, amazing soundtracks, animations etc, I highly recommend Firaxis's Civ-V-like game, \"Civilization V\". If you want a small, fast, m…",
+    "matched_keywords": [
+      "GitHub Trending",
+      "Open Source"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Open Source (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dca743e92a606cb34733"
+  },
+  {
+    "title": "meshery/meshery",
+    "url": "https://github.com/meshery/meshery",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Meshery, the cloud native manager If you like Meshery, please ★ this repository to show your support! 🤩 MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT A self-service engineering platform, Meshery , is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). As an extensible platform, Meshery offers visual and collabora…",
+    "matched_keywords": [
+      "GitHub Trending",
+      "Open Source"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Open Source (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e1a6b18088f3b11c4968"
+  },
+  {
+    "title": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
+    "url": "https://kaltim.tribunnews.com/news/1153499/menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "99a9f708d050bcadd5fe"
+  },
+  {
+    "title": "Hawkish Fed could push gold prices back to $4 , 000 next week",
+    "url": "http://www.kitco.com/news/article/2026-06-18/hawkish-fed-could-push-gold-prices-back-4000-next-week",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Hawkish Fed could push gold prices back to $4 , 000 next week",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "331c6c7f5331930d1b81"
+  },
+  {
+    "title": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+    "url": "https://thebusinessjournal.com/stocks-rise-on-wall-street-as-tech-rally-overcomes-fed-rate-hike-concerns/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "99eb77fe32f9a65cf1ee"
+  },
+  {
+    "title": "Trump says Intel and Apple will produce chips domestically",
+    "url": "https://www.gsmarena.com/trump_says_intel_and_apple_will_produce_chips_domestically-news-73337.php",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T23:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Trump says Intel and Apple will produce chips domestically",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2f8bf5b9ff0c540dc628"
+  },
+  {
+    "title": "The Closing Bell : Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+    "url": "https://www.wptf.com/2026/06/18/15596/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "The Closing Bell : Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f8b2d00f5f83d21f5c6a"
+  },
+  {
+    "title": "Fenómeno de El Niño avanza rápido en el Pacífico ; prevén sequías e inundaciones",
+    "url": "https://www.excelsior.com.mx/nacional/fenomeno-nino-avanza-rapido-pacifico-preven-sequias-e-inundaciones",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Fenómeno de El Niño avanza rápido en el Pacífico ; prevén sequías e inundaciones",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "789cd24861f590b76e21"
+  },
+  {
+    "title": "California FAIR Plan will hike its rates this fall . How will that impact policyholders ?",
+    "url": "https://www.capradio.org/articles/2026/06/18/californias-fair-plan-will-hike-its-rates-this-fall-how-will-that-impact-policyholders/",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "California FAIR Plan will hike its rates this fall . How will that impact policyholders ?",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c67b614d4d9a3643442"
+  },
+  {
+    "title": "Один з вокзалів Парижа зупиняв роботу через знеструмлення лінії , очікуються значні спізнення поїздів",
+    "url": "https://www.eurointegration.com.ua/news/2026/06/18/7239985/",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Один з вокзалів Парижа зупиняв роботу через знеструмлення лінії , очікуються значні спізнення поїздів",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6ae521510f34ae38780"
+  },
+  {
+    "title": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+    "url": "https://www.latimes.com/business/story/2026-06-18/stocks-rise-on-wall-street-erasing-much-of-their-loss-from-day-earlier",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b26a4e893cad7f962561"
+  },
+  {
+    "title": "Court Ruling Deals Major Blow to Trump War on Wind Power",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Court-Ruling-Deals-Major-Blow-to-Trumps-War-on-Wind-Power.html",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Court Ruling Deals Major Blow to Trump War on Wind Power",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "230b36f2976557bcdd62"
+  },
+  {
+    "title": "Iran war casts fresh shadow over Sri Lanka recovery - Business",
+    "url": "https://www.dailymirror.lk/business/Iran-war-casts-fresh-shadow-over-Sri-Lankas-recovery/215-343337",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Iran war casts fresh shadow over Sri Lanka recovery - Business",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d512adac9e3c025b687d"
+  },
+  {
+    "title": "Bank of England holds main interest rate at 3 . 75 % - Investment Executive",
+    "url": "https://www.investmentexecutive.com/news/economy/bank-of-england-holds-main-interest-rate-at-3-75/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Bank of England holds main interest rate at 3 . 75 % - Investment Executive",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "989eda5f7a6e388da40c"
+  },
+  {
+    "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+    "url": "https://www.newsday.com/business/mortgages-interest-rates-economy-housing-real-estate-f40510",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:45:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "07edd1c0ba640c2d30fb"
+  },
+  {
+    "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %",
+    "url": "https://www.mcall.com/2026/06/18/mortgage-rates-fall-after-ceasefire-agreement/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:30:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dd3fca56499a17594696"
+  },
+  {
+    "title": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
+    "url": "http://www.prnewswire.com/news-releases/traba-launches-neo--ai-that-decides-acts-and-runs-your-operation-with-you-302804816.html",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "288b985a715b501c7677"
+  },
+  {
+    "title": "Rumah Warga Jonggrang Magetan Ludes Terbakar Akibat Lilin saat Listrik Padam",
+    "url": "https://beritajatim.com/rumah-warga-jonggrang-magetan-ludes-terbakar-akibat-lilin-saat-listrik-padam",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Rumah Warga Jonggrang Magetan Ludes Terbakar Akibat Lilin saat Listrik Padam",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4ee9fd8165675e4263fe"
+  },
+  {
+    "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+    "url": "https://www.smh.com.au/business/markets/asx-set-to-fall-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-20260619-p6088p.html",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "57548826dc8ee3a4f611"
+  },
+  {
+    "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+    "url": "https://www.theage.com.au/business/markets/asx-set-to-fall-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-20260619-p6088p.html",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:15:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "065dab1f6379f1db4c44"
+  },
+  {
+    "title": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+    "url": "https://www.nbcbayarea.com/news/national-international/mortgage-rates-fall/4101218/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6f4a75f70a0797254646"
+  },
+  {
+    "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+    "url": "https://www.brisbanetimes.com.au/business/markets/asx-set-to-fall-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-20260619-p6088p.html",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "413dbb4fc18310aaaa9f"
+  },
+  {
+    "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+    "url": "https://www.clickondetroit.com/business/2026/06/18/average-30-year-us-mortgage-rate-falls-to-647-tracking-lower-bond-yields-as-iran-war-winds-down/",
+    "source": "GDELT Macro Market Policy RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T20:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+    "matched_keywords": [
+      "GDELT",
+      "macro"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "macro (+2.0); GDELT (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4099ffdf256f04873c9"
+  },
+  {
+    "title": "When Americans choose Chinese AI",
+    "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-17T10:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "Developers say DeepSeek is good enough for a fraction of the cost. “You don’t need God to write your email.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "AI (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca02181f59618721f6aa"
+  },
+  {
+    "title": "Silicon Valley’s lure is fading for India’s tech talent",
+    "url": "https://restofworld.org/2026/silicon-valley-status/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-05T13:00:00+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "India’s elite tech talent is starting to see big tech jobs in a new light.",
+    "matched_keywords": [],
+    "relevance_score": 4,
+    "relevance_reason": "watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "77fef285ffd14964a82c"
+  },
+  {
+    "title": "How network aggregators can thrive in a disconnected world",
+    "url": "https://e27.co/how-network-aggregators-can-thrive-in-a-disconnected-world-20251117/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-18T11:30:45+00:00",
+    "fetched_at": "2026-06-19T01:55:55+00:00",
+    "summary": "In a connected world, we assume information flows freely. In reality, most ecosystems are fragmented: companies, institutions, and even countries operate in silos. And where there are silos, there are opportunities. The power of the bridge Sociologist Ronald Burt once coined the concept of “structural holes”— the invisible gaps that exist between disconnected groups, organisations, […] The post How network aggregato…",
+    "matched_keywords": [
+      "startup"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "startup (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0466449bc9f11a7ba07"
   }
 ]

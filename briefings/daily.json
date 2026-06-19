@@ -1,18 +1,223 @@
 {
-  "generated_at": "2026-06-19T01:43:09+00:00",
-  "today_file_total": 13,
+  "generated_at": "2026-06-19T01:58:32+00:00",
+  "today_file_total": 119,
   "current_clusters": [
     {
-      "key": "domain:www.correiobraziliense.com",
-      "title": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
+      "key": "domain:restofworld.org",
+      "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "Rest of World Global Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.correiobraziliense.com.br/mundo/2026/06/7444052-sanchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial.html"
+        "https://restofworld.org/2026/tech-facebook-google-whatsapp-scams/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "https://restofworld.org/2026/chile-china-america-google-cable/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "https://restofworld.org/2026/ai-divide-america-china-world/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "https://restofworld.org/2026/when-americans-choose-chinese-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 7,
+      "max_score": 19,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 7,
+      "momentum_status": "increasing",
+      "network_score": 54.7,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:trends.google.com",
+      "title": "축구중계",
+      "sources": [
+        "Google Trends Japan Hot Feed",
+        "Google Trends Philippines Hot Feed",
+        "Google Trends South Korea Hot Feed",
+        "Google Trends Taiwan Hot Feed",
+        "Google Trends Thailand Hot Feed",
+        "Google Trends Vietnam Hot Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://trends.google.com/trending/rss?geo=KR",
+        "https://trends.google.com/trending/rss?geo=JP",
+        "https://trends.google.com/trending/rss?geo=VN",
+        "https://trends.google.com/trending/rss?geo=PH",
+        "https://trends.google.com/trending/rss?geo=TW",
+        "https://trends.google.com/trending/rss?geo=TH"
+      ],
+      "finding_count": 6,
+      "max_score": 9,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": true,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 53.6,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:openssl-2026",
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU92116935/"
+      ],
+      "finding_count": 1,
+      "max_score": 21,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 26.1,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.latimes.com",
+      "title": "Palisades victims seek tougher penalties against State Farm for claims",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS",
+        "GDELT Macro Market Policy RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.latimes.com/business/story/2026-06-18/january-2025-wildfire-victims-seek-tougher-penalties-against-state-farm-over-claims-handling",
+        "https://www.latimes.com/business/story/2026-06-18/stocks-rise-on-wall-street-erasing-much-of-their-loss-from-day-earlier"
+      ],
+      "finding_count": 2,
+      "max_score": 9,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 25.2,
+      "hot": true,
+      "watchgraph_modules": [
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:gigazine.net",
+      "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20260618-ai-brand-visibility-research/",
+        "https://gigazine.net/news/20260619-game-dev-dont-merge-files/",
+        "https://gigazine.net/news/20260618-claude-design-claude-code/"
+      ],
+      "finding_count": 3,
+      "max_score": 8,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 23.3,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:acrab-raises-350m-advance-agentic-compute-infrastructure",
+      "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/acrab-raises-us350m-to-advance-agentic-ai-compute-infrastructure-20260618/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU95977590/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation",
+      "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "github_repo:deusdata/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/DeusData/codebase-memory-mcp"
       ],
       "finding_count": 1,
       "max_score": 14,
@@ -23,21 +228,139 @@
       "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [
-        "elections_unrest"
+        "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:emisorasunidas.com",
-      "title": "Exfiscal denunciado por persecución a activistas en USAC",
+      "key": "domain:www.morningstar.com",
+      "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "GDELT Macro Market Policy RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://emisorasunidas.com/nacional/2026/06/18/diputados-denuncia-exfiscal-toma-protesta-usac/"
+        "https://www.morningstar.com/news/dow-jones/202606188799/dow-jones-top-markets-headlines-at-7-pm-et-stocks-rally-gas-prices-fall-as-us-iran-move-ahead-on-peace-deal-oil",
+        "https://www.morningstar.com/news/dow-jones/202606186840/dow-jones-top-markets-headlines-at-3-pm-et-brent-trades-at-prewar-prices-gas-falls-below-4-after-iran-deal-is-signed-boe"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 18.2,
+      "hot": true,
+      "watchgraph_modules": [
+        "energy_oil_gas_power_uranium"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:signalrgb-ioctl",
+      "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU95564871/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:radix-ax6600-wifi-tri-band-gaming-router",
+      "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN20769211/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "github_repo:penpot/penpot",
+      "title": "penpot/penpot",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/penpot/penpot"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "domain:finance.yahoo.com",
+      "title": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-now-3-205000016.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:standing-committee-reports-canada-response-wildfires",
+      "title": "Standing committee reports on Canada response to wildfires",
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://energeticcity.ca/2026/06/18/federal-committee-warns-of-lack-of-preparedness-for-wildfires/"
       ],
       "finding_count": 1,
       "max_score": 12,
@@ -48,234 +371,124 @@
       "network_score": 17.1,
       "hot": false,
       "watchgraph_modules": [
-        "elections_unrest"
+        "wildfire_heat_drought"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.scmp.com",
-      "title": "Editorial | US and Iran have good reasons to stay the course for peace",
+      "key": "title:openai-google-gemini",
+      "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.scmp.com/opinion/comment/article/3357576/us-and-iran-have-good-reasons-stay-course-peace"
+        "https://www.itmedia.co.jp/news/articles/2606/19/news072.html"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.fnnews.com",
-      "title": "개표소 봉쇄 시위 보름째 … 뜨거운 감자 강제해산 에 2030 의견 엇갈려",
+      "key": "title:singapore-carro-expands-regional-footprint-acquiring-carplace-what",
+      "title": "Singapore’s Carro expands regional footprint by acquiring CarPlace: what it means for SEA, Australia markets",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.fnnews.com/news/202606190605096299"
+        "https://e27.co/carro-acquires-carplace-what-it-means-for-sea-australia-markets-20260618/"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://primamedia.ru/news/2531351/",
-      "title": "Выборы в парламент Приморья назначены на 20 сентября",
+      "key": "title:thingsboard",
+      "title": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "JVN Japan Vulnerability Notes"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://primamedia.ru/news/2531351/"
+        "https://jvn.jp/jp/JVN16937365/"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.epochtimes.com",
-      "title": "英国制裁援俄中企 西方施压加速终结俄乌战争 | 影子舰队 | G7峰会 | 欧盟",
+      "key": "title:optical-disc-archive-software-windows",
+      "title": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "JVN Japan Vulnerability Notes"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.epochtimes.com/gb/26/6/18/n14791907.htm"
+        "https://jvn.jp/jp/JVN79926428/"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:pablo-salazar-profesores-espaldas-sociedad",
-      "title": "Pablo Salazar : Profesores de espaldas a la sociedad",
+      "key": "title:eos-network-setting-tool",
+      "title": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "JVN Japan Vulnerability Notes"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.lasprovincias.es/opinion/pablo-salazar-profesores-espaldas-sociedad-20260619235517-nt.html"
+        "https://jvn.jp/vu/JVNVU98100934/"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 17.1,
       "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.proceso.com",
-      "title": "Lumumba , el aficionado estatua , estará en las gradas del Estadio Guadalajara",
-      "sources": [
-        "GDELT Politics Unrest Elections RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.proceso.com.mx/deportes/2026/6/18/lumumba-el-aficionado-estatua-estara-en-las-gradas-del-estadio-guadalajara-374291.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:grossistmeklingen-fortsetter-overtid-over-4000-kan-tas-streik",
-      "title": "Grossistmeklingen fortsetter på overtid – over 4000 kan tas ut i streik",
-      "sources": [
-        "GDELT Politics Unrest Elections RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.tv2.no/direkte/jpybz/siste-nytt/6a346c93c389e3dd47255406/grossistmeklingen-fortsetter-pa-overtid"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:kuubassa-suunnitellaan-valtavaa-mullistusta-kohti-markkinataloutta",
-      "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
-      "sources": [
-        "GDELT Politics Unrest Elections RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.is.fi/ulkomaat/art-2000012090584.html"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:talcualdigital.com",
-      "title": "Dinorah Figuera retorna con apoyo de EEUU : en agenda reuniones con Jorge Rodríguez",
-      "sources": [
-        "GDELT Politics Unrest Elections RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://talcualdigital.com/dinorah-figuera-regresa-al-pais-y-confirma-reuniones-con-eeuu-y-jorge-rodriguez/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T01:43:09+00:00",
+  "generated_at": "2026-06-19T01:58:32+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -1034,15 +1034,16 @@
       "z_hint": 0.0
     },
     "domain:www.prnewswire.com": {
-      "title": "Wildfire Pro Shop , Inc . Launches General Contractor Wildfire Defense Program -- First Installation Now Underway in Grizzly Ranch",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
+      "updated_at": "2026-06-19T01:58:32+00:00",
       "network_scores": [
-        17.1
+        17.1,
+        9.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 13.1,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 0.0
+      "last_score": 9.1,
+      "z_hint": -4.0
     },
     "earthquake:alaska:5.0": {
       "title": "M 5.0 - 211 km WSW of Adak, Alaska",
@@ -1056,15 +1057,16 @@
       "z_hint": 0.0
     },
     "domain:regional.kompas.com": {
-      "title": "Listrik Padam di Sejumlah Wilayah Tangerang , PLN Sebut Ada Penurunan Kapasitas Suplai",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
+      "updated_at": "2026-06-19T01:58:32+00:00",
       "network_scores": [
-        16.2
+        16.2,
+        10.1
       ],
-      "rolling_average": 16.2,
+      "rolling_average": 13.15,
       "rolling_peak": 16.2,
-      "last_score": 16.2,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -3.05
     },
     "domain:www.ecoticias.com": {
       "title": "La IA vigila incendios forestales en Collserola en una prueba clave para proteger Barcelona",
@@ -1288,15 +1290,16 @@
       "z_hint": 0.0
     },
     "domain:www.eurointegration.com": {
-      "title": "У Британії почалися вирішальні для майбутнього Стармера довибори у парламент",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "Один з вокзалів Парижа зупиняв роботу через знеструмлення лінії , очікуються значні спізнення поїздів",
+      "updated_at": "2026-06-19T01:58:32+00:00",
       "network_scores": [
-        16.1
+        16.1,
+        9.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 12.6,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": 0.0
+      "last_score": 9.1,
+      "z_hint": -3.5
     },
     "earthquake:m 5.0, andreanof islands, aleutian islands:5.0": {
       "title": "M 5.0, Andreanof Islands, Aleutian Islands",
@@ -1497,15 +1500,16 @@
       "z_hint": 0.0
     },
     "domain:surabaya.kompas.com": {
-      "title": "Listrik Padam 3 Jam , Warga Pasuruan : Jangan Lama - lama , ASI Bisa Rusak",
-      "updated_at": "2026-06-18T14:33:45+00:00",
+      "title": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
+      "updated_at": "2026-06-19T01:58:32+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        10.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 10.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -0.5
     },
     "title:apindo-pengusaha-resah-dan-khawatir-hadapi-pemadaman-listrik": {
       "title": "Apindo : Pengusaha Resah dan Khawatir Hadapi Pemadaman Listrik Berulang",
@@ -2386,6 +2390,963 @@
       "rolling_average": 14.1,
       "rolling_peak": 14.1,
       "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "domain:restofworld.org": {
+      "title": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        54.7
+      ],
+      "rolling_average": 54.7,
+      "rolling_peak": 54.7,
+      "last_score": 54.7,
+      "z_hint": 0.0
+    },
+    "domain:trends.google.com": {
+      "title": "축구중계",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        53.6
+      ],
+      "rolling_average": 53.6,
+      "rolling_peak": 53.6,
+      "last_score": 53.6,
+      "z_hint": 0.0
+    },
+    "title:openssl-2026": {
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        26.1
+      ],
+      "rolling_average": 26.1,
+      "rolling_peak": 26.1,
+      "last_score": 26.1,
+      "z_hint": 0.0
+    },
+    "domain:www.latimes.com": {
+      "title": "Palisades victims seek tougher penalties against State Farm for claims",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        25.2
+      ],
+      "rolling_average": 25.2,
+      "rolling_peak": 25.2,
+      "last_score": 25.2,
+      "z_hint": 0.0
+    },
+    "domain:gigazine.net": {
+      "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        23.3
+      ],
+      "rolling_average": 23.3,
+      "rolling_peak": 23.3,
+      "last_score": 23.3,
+      "z_hint": 0.0
+    },
+    "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
+      "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "title:cisa-ics-advisory-ics-medical-advisory-2026": {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
+      "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "github_repo:deusdata/codebase-memory-mcp": {
+      "title": "DeusData/codebase-memory-mcp",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "domain:www.morningstar.com": {
+      "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        18.2
+      ],
+      "rolling_average": 18.2,
+      "rolling_peak": 18.2,
+      "last_score": 18.2,
+      "z_hint": 0.0
+    },
+    "title:signalrgb-ioctl": {
+      "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "title:radix-ax6600-wifi-tri-band-gaming-router": {
+      "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "github_repo:penpot/penpot": {
+      "title": "penpot/penpot",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "domain:finance.yahoo.com": {
+      "title": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:standing-committee-reports-canada-response-wildfires": {
+      "title": "Standing committee reports on Canada response to wildfires",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:openai-google-gemini": {
+      "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:singapore-carro-expands-regional-footprint-acquiring-carplace-what": {
+      "title": "Singapore’s Carro expands regional footprint by acquiring CarPlace: what it means for SEA, Australia markets",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:thingsboard": {
+      "title": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:optical-disc-archive-software-windows": {
+      "title": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:eos-network-setting-tool": {
+      "title": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "url:https://jvn.jp/jp/jvn55319858/": {
+      "title": "リコーおよびコニカミノルタジャパン製プリンタドライバーにおける権限昇格の脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "url:https://jvn.jp/vu/jvnvu99620284/": {
+      "title": "三菱電機製複数の家電製品におけるハードコードされた認証情報の使用に関する脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:crypton-x509-validation": {
+      "title": "crypton-x509-validationにおける不適切な証明書検証の脆弱性",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:python-audit-gihyo": {
+      "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:www.wdsu.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.wwaytv3.com": {
+      "title": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.wbaltv.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.kcci.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.kcra.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.ibtimes.com": {
+      "title": "Could World Cup Crowds Threaten The Water Infrastructure Of New York And New Jersey ?",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.kmbc.com": {
+      "title": "U . S . drought eases , but May ranks as the second driest on record",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:four-executives-zero-personal-gain-three-years-prison": {
+      "title": "Four VC executives. Zero personal gain. Three years in prison",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:inside-funding-societies-strategy-help-smes-grow-through": {
+      "title": "Inside Funding Societies’ strategy to help SMEs grow through stronger institutional funding",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "domain:www.businesstimes.com": {
+      "title": "European shares retreat as markets mull hawkish US Federal Reserve",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "domain:stockhouse.com": {
+      "title": "@ the Bell : Markets slip as rate hike fears and oil drop | 2026 - 06 - 18 | Investing News",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:malaysian-smes-grapple-growing-confidence-gap-adoption": {
+      "title": "Malaysian SMEs grapple with a growing “confidence gap” in AI adoption",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:top-best-erp-large-enterprise-malaysia": {
+      "title": "Top 4 Best ERP for Large Enterprise in Malaysia",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "github_repo:rocketchat/rocket.chat": {
+      "title": "RocketChat/Rocket.Chat",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:layerx": {
+      "title": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "github_repo:obra/superpowers": {
+      "title": "obra/superpowers",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "github_repo:continuedev/continue": {
+      "title": "continuedev/continue",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "github_repo:bytedance/ui-tars-desktop": {
+      "title": "bytedance/UI-TARS-desktop",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "github_repo:panniantong/agent-reach": {
+      "title": "Panniantong/Agent-Reach",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
+    },
+    "domain:paris.maville.com": {
+      "title": "À Paris , une panne d électricité sur le réseau au départ de la gare de lEst : reprise",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:www.freemalaysiatoday.com": {
+      "title": "Wall Street indexes advance with boost from chips , Iran optimism",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:governance-banking-operations-decisioning": {
+      "title": "AI governance in banking operations and decisioning",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:did-not-kill-creativity-gave-opportunity-exercise": {
+      "title": "AI did not kill creativity, it gave us the opportunity to exercise it",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "domain:www.perfil.com": {
+      "title": "El debut de Warsh al frente de la Fed dispara apuestas por alzas de tasas este año",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.4
+      ],
+      "rolling_average": 10.4,
+      "rolling_peak": 10.4,
+      "last_score": 10.4,
+      "z_hint": 0.0
+    },
+    "url:http://www.shikoku-np.co.jp/national/main/20260619000180": {
+      "title": "円下落 、 一時１６１円８１銭 ／ ３９年半ぶり安値水準に迫る | 全国ニュース",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:rosanna-costa-por-ipom-balance-riesgos-para-inflaci": {
+      "title": "Rosanna Costa por IPoM : El balance de riesgos para la inflación se ha ido equilibrando",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.kolotv.com": {
+      "title": "Navato Fire in Sparks now 100 % contained",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:jateng.tribunnews.com": {
+      "title": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.jomo-news.co.jp/articles/-/961447": {
+      "title": "円下落 、 一時１６１円８１銭 ３９年半ぶり安値水準に迫る | 上毛新聞電子版｜群馬県のニュース ・ スポーツ情報",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.opinion.com": {
+      "title": "Sacaba capacita a 45 brigadistas para reforzar la respuesta ante incendios forestales",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.jiji.com": {
+      "title": "総裁不在下 、 異例の利上げ インフレ抑制 、 問われる手腕 ― 円安転換は不発 ・ 日銀 ： 時事ドットコム",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:www.cnbc.com": {
+      "title": "Jim Cramer says next week economic data will drive the markets",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:grafana-cloud-datadog-findy-tech-blog": {
+      "title": "ゼロから始める負荷試験環境構築 — Grafana Cloud k6とDatadogで本番トラフィックを再現する - Findy Tech Blog",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:chip-memori-raksasa-gadget-ini-akan-dongrak-harga": {
+      "title": "Chip Memori , Raksasa Gadget Ini Akan Dongrak Harga Produk",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "url:https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html": {
+      "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:4290": {
+      "title": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:speakerdeck.com": {
+      "title": "プロジェクト失敗につながる地雷ワード",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:web-nginx-cvss": {
+      "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:self-improvement": {
+      "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:joho-todai.com": {
+      "title": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:cursor-git-origin-spacex": {
+      "title": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:qiita.com": {
+      "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話 - Qiita",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "github_repo:yairm210/unciv": {
+      "title": "yairm210/Unciv",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "github_repo:meshery/meshery": {
+      "title": "meshery/meshery",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:kaltim.tribunnews.com": {
+      "title": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.kitco.com": {
+      "title": "Hawkish Fed could push gold prices back to $4 , 000 next week",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:thebusinessjournal.com": {
+      "title": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.gsmarena.com": {
+      "title": "Trump says Intel and Apple will produce chips domestically",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.wptf.com": {
+      "title": "The Closing Bell : Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.excelsior.com": {
+      "title": "Fenómeno de El Niño avanza rápido en el Pacífico ; prevén sequías e inundaciones",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.capradio.org": {
+      "title": "California FAIR Plan will hike its rates this fall . How will that impact policyholders ?",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:oilprice.com": {
+      "title": "Court Ruling Deals Major Blow to Trump War on Wind Power",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "title:iran-war-casts-fresh-shadow-over-sri-lanka": {
+      "title": "Iran war casts fresh shadow over Sri Lanka recovery - Business",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.investmentexecutive.com": {
+      "title": "Bank of England holds main interest rate at 3 . 75 % - Investment Executive",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.newsday.com": {
+      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.mcall.com": {
+      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:beritajatim.com": {
+      "title": "Rumah Warga Jonggrang Magetan Ludes Terbakar Akibat Lilin saat Listrik Padam",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.smh.com": {
+      "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.theage.com": {
+      "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.nbcbayarea.com": {
+      "title": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.brisbanetimes.com": {
+      "title": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "domain:www.clickondetroit.com": {
+      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "title:network-aggregators-can-thrive-disconnected-world": {
+      "title": "How network aggregators can thrive in a disconnected world",
+      "updated_at": "2026-06-19T01:58:32+00:00",
+      "network_scores": [
+        8.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 8.1,
+      "last_score": 8.1,
       "z_hint": 0.0
     }
   }

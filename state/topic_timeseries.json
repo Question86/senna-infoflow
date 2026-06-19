@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19T01:43:09Z",
+  "generated_at": "2026-06-19T01:58:32Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -3046,9 +3046,9 @@
     },
     "title:unknown": {
       "topic_key": "title:unknown",
-      "topic_label": "В Киргизии начался громкий суд по делу о госперевороте",
-      "last_seen_at": "2026-06-18T23:17:57Z",
-      "last_trend_wucht": 12.0,
+      "topic_label": "リコーおよびコニカミノルタジャパン製プリンタドライバーにおける権限昇格の脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 28.0,
       "samples": [
         {
           "sample_id": "2026-06-18T14-33-45Z:title:unknown",
@@ -3097,6 +3097,35 @@
             "https://www.hankookilbo.com/news/article/A2026061814380003227",
             "https://assabeel.net/75669",
             "https://jang.com.pk/news/1592789"
+          ]
+        },
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:unknown",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:unknown",
+          "topic_label": "リコーおよびコニカミノルタジャパン製プリンタドライバーにおける権限昇格の脆弱性",
+          "network_score": 12.0,
+          "mention_count": 9,
+          "source_count": 5,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS",
+            "GDELT Macro Market Policy RSS",
+            "Google Trends South Korea Hot Feed",
+            "Hatena Bookmark Hotentry IT",
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 2.0,
+          "trend_wucht": 28.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/jp/JVN55319858/",
+            "https://jvn.jp/vu/JVNVU99620284/",
+            "https://trends.google.com/trending/rss?geo=KR",
+            "http://www.shikoku-np.co.jp/national/main/20260619000180",
+            "https://www.jomo-news.co.jp/articles/-/961447",
+            "https://www.jiji.com/jc/article?k=2026061601173&g=cyr"
           ]
         }
       ]
@@ -9979,6 +10008,2506 @@
           "status": "emerging",
           "urls": [
             "https://talcualdigital.com/dinorah-figuera-regresa-al-pais-y-confirma-reuniones-con-eeuu-y-jorge-rodriguez/"
+          ]
+        }
+      ]
+    },
+    "title:openssl-2026-6-9": {
+      "topic_key": "title:openssl-2026-6-9",
+      "topic_label": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 23.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:openssl-2026-6-9",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:openssl-2026-6-9",
+          "topic_label": "OpenSSLにおける脆弱性に対するアップデート（2026年6月9日）",
+          "network_score": 21.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 21.0,
+          "trend_wucht": 23.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU92116935/"
+          ]
+        }
+      ]
+    },
+    "title:big-tech-big-cons:-scammers-are-hiding-in-the-apps-that-make-your-life-easy": {
+      "topic_key": "title:big-tech-big-cons:-scammers-are-hiding-in-the-apps-that-make-your-life-easy",
+      "topic_label": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 21.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:big-tech-big-cons:-scammers-are-hiding-in-the-apps-that-make-your-life-easy",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:big-tech-big-cons:-scammers-are-hiding-in-the-apps-that-make-your-life-easy",
+          "topic_label": "Big Tech, big cons: Scammers are hiding in the apps that make your life easy",
+          "network_score": 19.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 19.0,
+          "trend_wucht": 21.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/tech-facebook-google-whatsapp-scams/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:acrab-raises-us-350m-to-advance-agentic-ai-compute-infrastructure": {
+      "topic_key": "title:acrab-raises-us-350m-to-advance-agentic-ai-compute-infrastructure",
+      "topic_label": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 18.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:acrab-raises-us-350m-to-advance-agentic-ai-compute-infrastructure",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:acrab-raises-us-350m-to-advance-agentic-ai-compute-infrastructure",
+          "topic_label": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+          "network_score": 16.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 16.0,
+          "trend_wucht": 18.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/acrab-raises-us350m-to-advance-agentic-ai-compute-infrastructure-20260618/"
+          ]
+        }
+      ]
+    },
+    "title:cisa-ics-advisory-ics-medical-advisory-2026-06-16": {
+      "topic_key": "title:cisa-ics-advisory-ics-medical-advisory-2026-06-16",
+      "topic_label": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:cisa-ics-advisory-ics-medical-advisory-2026-06-16",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:cisa-ics-advisory-ics-medical-advisory-2026-06-16",
+          "topic_label": "CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU95977590/"
+          ]
+        }
+      ]
+    },
+    "title:universal-debloater-alliance-universal-android-debloater-next-generation": {
+      "topic_key": "title:universal-debloater-alliance-universal-android-debloater-next-generation",
+      "topic_label": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:universal-debloater-alliance-universal-android-debloater-next-generation",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:universal-debloater-alliance-universal-android-debloater-next-generation",
+          "topic_label": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+          ]
+        }
+      ]
+    },
+    "title:deusdata-codebase-memory-mcp": {
+      "topic_key": "title:deusdata-codebase-memory-mcp",
+      "topic_label": "DeusData/codebase-memory-mcp",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 16.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:deusdata-codebase-memory-mcp",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:deusdata-codebase-memory-mcp",
+          "topic_label": "DeusData/codebase-memory-mcp",
+          "network_score": 14.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 14.0,
+          "trend_wucht": 16.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/DeusData/codebase-memory-mcp"
+          ]
+        }
+      ]
+    },
+    "title:signalrgb-ioctl": {
+      "topic_key": "title:signalrgb-ioctl",
+      "topic_label": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:signalrgb-ioctl",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:signalrgb-ioctl",
+          "topic_label": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU95564871/"
+          ]
+        }
+      ]
+    },
+    "title:radix-ax6600-wifi-6-tri-band-gaming-router-os": {
+      "topic_key": "title:radix-ax6600-wifi-6-tri-band-gaming-router-os",
+      "topic_label": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:radix-ax6600-wifi-6-tri-band-gaming-router-os",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:radix-ax6600-wifi-6-tri-band-gaming-router-os",
+          "topic_label": "RadiX AX6600 WiFi 6 Tri-Band Gaming RouterにおけるOSコマンドインジェクションの脆弱性",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/jp/JVN20769211/"
+          ]
+        }
+      ]
+    },
+    "title:penpot-penpot": {
+      "topic_key": "title:penpot-penpot",
+      "topic_label": "penpot/penpot",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:penpot-penpot",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:penpot-penpot",
+          "topic_label": "penpot/penpot",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/penpot/penpot"
+          ]
+        }
+      ]
+    },
+    "title:usa-rare-earth-now-has-3-.-5-billion-to-establish-a-mine-to-magnet-business-that-is-crucial-to-n": {
+      "topic_key": "title:usa-rare-earth-now-has-3-.-5-billion-to-establish-a-mine-to-magnet-business-that-is-crucial-to-n",
+      "topic_label": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:usa-rare-earth-now-has-3-.-5-billion-to-establish-a-mine-to-magnet-business-that-is-crucial-to-n",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:usa-rare-earth-now-has-3-.-5-billion-to-establish-a-mine-to-magnet-business-that-is-crucial-to-n",
+          "topic_label": "USA Rare Earth Now Has $3 . 5 Billion to Establish a Mine - to - Magnet Business That Is Crucial to National Security . Is the Stock a Buy Today ?",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-now-3-205000016.html"
+          ]
+        }
+      ]
+    },
+    "title:standing-committee-reports-on-canada-response-to-wildfires": {
+      "topic_key": "title:standing-committee-reports-on-canada-response-to-wildfires",
+      "topic_label": "Standing committee reports on Canada response to wildfires",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:standing-committee-reports-on-canada-response-to-wildfires",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:standing-committee-reports-on-canada-response-to-wildfires",
+          "topic_label": "Standing committee reports on Canada response to wildfires",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://energeticcity.ca/2026/06/18/federal-committee-warns-of-lack-of-preparedness-for-wildfires/"
+          ]
+        }
+      ]
+    },
+    "title:openai-google-gemini-ai": {
+      "topic_key": "title:openai-google-gemini-ai",
+      "topic_label": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:openai-google-gemini-ai",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:openai-google-gemini-ai",
+          "topic_label": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.itmedia.co.jp/news/articles/2606/19/news072.html"
+          ]
+        }
+      ]
+    },
+    "title:singapore-s-carro-expands-regional-footprint-by-acquiring-carplace:-what-it-means-for-sea-austra": {
+      "topic_key": "title:singapore-s-carro-expands-regional-footprint-by-acquiring-carplace:-what-it-means-for-sea-austra",
+      "topic_label": "Singapore’s Carro expands regional footprint by acquiring CarPlace: what it means for SEA, Australia markets",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:singapore-s-carro-expands-regional-footprint-by-acquiring-carplace:-what-it-means-for-sea-austra",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:singapore-s-carro-expands-regional-footprint-by-acquiring-carplace:-what-it-means-for-sea-austra",
+          "topic_label": "Singapore’s Carro expands regional footprint by acquiring CarPlace: what it means for SEA, Australia markets",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/carro-acquires-carplace-what-it-means-for-sea-australia-markets-20260618/"
+          ]
+        }
+      ]
+    },
+    "title:thingsboard": {
+      "topic_key": "title:thingsboard",
+      "topic_label": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:thingsboard",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:thingsboard",
+          "topic_label": "ThingsBoardにおけるプロトタイプ汚染の脆弱性",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/jp/JVN16937365/"
+          ]
+        }
+      ]
+    },
+    "title:optical-disc-archive-software-windows": {
+      "topic_key": "title:optical-disc-archive-software-windows",
+      "topic_label": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:optical-disc-archive-software-windows",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:optical-disc-archive-software-windows",
+          "topic_label": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/jp/JVN79926428/"
+          ]
+        }
+      ]
+    },
+    "title:eos-network-setting-tool": {
+      "topic_key": "title:eos-network-setting-tool",
+      "topic_label": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:eos-network-setting-tool",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:eos-network-setting-tool",
+          "topic_label": "キヤノン製EOS Network Setting Toolにおける複数の脆弱性",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU98100934/"
+          ]
+        }
+      ]
+    },
+    "title:can-open-source-beat-openai": {
+      "topic_key": "title:can-open-source-beat-openai",
+      "topic_label": "Can open-source beat OpenAI?",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:can-open-source-beat-openai",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:can-open-source-beat-openai",
+          "topic_label": "Can open-source beat OpenAI?",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:crypton-x509-validation": {
+      "topic_key": "title:crypton-x509-validation",
+      "topic_label": "crypton-x509-validationにおける不適切な証明書検証の脆弱性",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 14.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:crypton-x509-validation",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:crypton-x509-validation",
+          "topic_label": "crypton-x509-validationにおける不適切な証明書検証の脆弱性",
+          "network_score": 12.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 12.0,
+          "trend_wucht": 14.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU96130756/"
+          ]
+        }
+      ]
+    },
+    "title:python-uv-uv-audit-gihyo.jp": {
+      "topic_key": "title:python-uv-uv-audit-gihyo.jp",
+      "topic_label": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 13.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:python-uv-uv-audit-gihyo.jp",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:python-uv-uv-audit-gihyo.jp",
+          "topic_label": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+          "network_score": 11.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 11.0,
+          "trend_wucht": 13.0,
+          "status": "emerging",
+          "urls": [
+            "https://gihyo.jp/article/2026/06/uv-audit-preview"
+          ]
+        }
+      ]
+    },
+    "title:u-.-s-.-drought-eases-but-may-ranks-as-the-second-driest-on-record": {
+      "topic_key": "title:u-.-s-.-drought-eases-but-may-ranks-as-the-second-driest-on-record",
+      "topic_label": "U . S . drought eases , but May ranks as the second driest on record",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:u-.-s-.-drought-eases-but-may-ranks-as-the-second-driest-on-record",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:u-.-s-.-drought-eases-but-may-ranks-as-the-second-driest-on-record",
+          "topic_label": "U . S . drought eases , but May ranks as the second driest on record",
+          "network_score": 10.0,
+          "mention_count": 5,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.wdsu.com/article/us-drought-may-data/71618594",
+            "https://www.wbaltv.com/article/us-drought-may-data/71618594",
+            "https://www.kcci.com/article/us-drought-may-data/71618594",
+            "https://www.kcra.com/article/us-drought-may-data/71618594",
+            "https://www.kmbc.com/article/us-drought-may-data/71618594"
+          ]
+        }
+      ]
+    },
+    "title:exceptional-drought-expands-across-central-north-carolina-impacting-10-counties": {
+      "topic_key": "title:exceptional-drought-expands-across-central-north-carolina-impacting-10-counties",
+      "topic_label": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:exceptional-drought-expands-across-central-north-carolina-impacting-10-counties",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:exceptional-drought-expands-across-central-north-carolina-impacting-10-counties",
+          "topic_label": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.wwaytv3.com/exceptional-drought-expands-across-central-north-carolina-impacting-10-counties/"
+          ]
+        }
+      ]
+    },
+    "title:could-world-cup-crowds-threaten-the-water-infrastructure-of-new-york-and-new-jersey": {
+      "topic_key": "title:could-world-cup-crowds-threaten-the-water-infrastructure-of-new-york-and-new-jersey",
+      "topic_label": "Could World Cup Crowds Threaten The Water Infrastructure Of New York And New Jersey ?",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:could-world-cup-crowds-threaten-the-water-infrastructure-of-new-york-and-new-jersey",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:could-world-cup-crowds-threaten-the-water-infrastructure-of-new-york-and-new-jersey",
+          "topic_label": "Could World Cup Crowds Threaten The Water Infrastructure Of New York And New Jersey ?",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.ibtimes.com/could-world-cup-crowds-threaten-water-infrastructure-new-york-new-jersey-3804275"
+          ]
+        }
+      ]
+    },
+    "title:four-vc-executives.-zero-personal-gain.-three-years-in-prison": {
+      "topic_key": "title:four-vc-executives.-zero-personal-gain.-three-years-in-prison",
+      "topic_label": "Four VC executives. Zero personal gain. Three years in prison",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:four-vc-executives.-zero-personal-gain.-three-years-in-prison",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:four-vc-executives.-zero-personal-gain.-three-years-in-prison",
+          "topic_label": "Four VC executives. Zero personal gain. Three years in prison",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/four-vc-executives-zero-personal-gain-three-years-in-prison-20260618/"
+          ]
+        }
+      ]
+    },
+    "title:inside-funding-societies-strategy-to-help-smes-grow-through-stronger-institutional-funding": {
+      "topic_key": "title:inside-funding-societies-strategy-to-help-smes-grow-through-stronger-institutional-funding",
+      "topic_label": "Inside Funding Societies’ strategy to help SMEs grow through stronger institutional funding",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:inside-funding-societies-strategy-to-help-smes-grow-through-stronger-institutional-funding",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:inside-funding-societies-strategy-to-help-smes-grow-through-stronger-institutional-funding",
+          "topic_label": "Inside Funding Societies’ strategy to help SMEs grow through stronger institutional funding",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/funding-societies-smes-20251125/"
+          ]
+        }
+      ]
+    },
+    "title:european-shares-retreat-as-markets-mull-hawkish-us-federal-reserve": {
+      "topic_key": "title:european-shares-retreat-as-markets-mull-hawkish-us-federal-reserve",
+      "topic_label": "European shares retreat as markets mull hawkish US Federal Reserve",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:european-shares-retreat-as-markets-mull-hawkish-us-federal-reserve",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:european-shares-retreat-as-markets-mull-hawkish-us-federal-reserve",
+          "topic_label": "European shares retreat as markets mull hawkish US Federal Reserve",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-retreat-markets-mull-hawkish-us-federal-reserve"
+          ]
+        }
+      ]
+    },
+    "title:the-bell-:-markets-slip-as-rate-hike-fears-and-oil-drop-2026-06-18-investing-news": {
+      "topic_key": "title:the-bell-:-markets-slip-as-rate-hike-fears-and-oil-drop-2026-06-18-investing-news",
+      "topic_label": "@ the Bell : Markets slip as rate hike fears and oil drop | 2026 - 06 - 18 | Investing News",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:the-bell-:-markets-slip-as-rate-hike-fears-and-oil-drop-2026-06-18-investing-news",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:the-bell-:-markets-slip-as-rate-hike-fears-and-oil-drop-2026-06-18-investing-news",
+          "topic_label": "@ the Bell : Markets slip as rate hike fears and oil drop | 2026 - 06 - 18 | Investing News",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://stockhouse.com/news/market-updates/2026/06/18/-bell-markets-slip-as-rate-hike-fears-and-oil-drop"
+          ]
+        }
+      ]
+    },
+    "title:palisades-victims-seek-tougher-penalties-against-state-farm-for-claims": {
+      "topic_key": "title:palisades-victims-seek-tougher-penalties-against-state-farm-for-claims",
+      "topic_label": "Palisades victims seek tougher penalties against State Farm for claims",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:palisades-victims-seek-tougher-penalties-against-state-farm-for-claims",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:palisades-victims-seek-tougher-penalties-against-state-farm-for-claims",
+          "topic_label": "Palisades victims seek tougher penalties against State Farm for claims",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.latimes.com/business/story/2026-06-18/january-2025-wildfire-victims-seek-tougher-penalties-against-state-farm-over-claims-handling"
+          ]
+        }
+      ]
+    },
+    "title:dow-jones-top-markets-headlines-at-7-pm-et-:-stocks-rally-gas-prices-fall-as-u-.-s-.-iran-move-a": {
+      "topic_key": "title:dow-jones-top-markets-headlines-at-7-pm-et-:-stocks-rally-gas-prices-fall-as-u-.-s-.-iran-move-a",
+      "topic_label": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:dow-jones-top-markets-headlines-at-7-pm-et-:-stocks-rally-gas-prices-fall-as-u-.-s-.-iran-move-a",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:dow-jones-top-markets-headlines-at-7-pm-et-:-stocks-rally-gas-prices-fall-as-u-.-s-.-iran-move-a",
+          "topic_label": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.morningstar.com/news/dow-jones/202606188799/dow-jones-top-markets-headlines-at-7-pm-et-stocks-rally-gas-prices-fall-as-us-iran-move-ahead-on-peace-deal-oil"
+          ]
+        }
+      ]
+    },
+    "title:60-ai": {
+      "topic_key": "title:60-ai",
+      "topic_label": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:60-ai",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:60-ai",
+          "topic_label": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://gigazine.net/news/20260618-ai-brand-visibility-research/"
+          ]
+        }
+      ]
+    },
+    "title:malaysian-smes-grapple-with-a-growing-confidence-gap-in-ai-adoption": {
+      "topic_key": "title:malaysian-smes-grapple-with-a-growing-confidence-gap-in-ai-adoption",
+      "topic_label": "Malaysian SMEs grapple with a growing “confidence gap” in AI adoption",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:malaysian-smes-grapple-with-a-growing-confidence-gap-in-ai-adoption",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:malaysian-smes-grapple-with-a-growing-confidence-gap-in-ai-adoption",
+          "topic_label": "Malaysian SMEs grapple with a growing “confidence gap” in AI adoption",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/xero-malaysian-smes-20251119/"
+          ]
+        }
+      ]
+    },
+    "title:top-4-best-erp-for-large-enterprise-in-malaysia": {
+      "topic_key": "title:top-4-best-erp-for-large-enterprise-in-malaysia",
+      "topic_label": "Top 4 Best ERP for Large Enterprise in Malaysia",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:top-4-best-erp-for-large-enterprise-in-malaysia",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:top-4-best-erp-for-large-enterprise-in-malaysia",
+          "topic_label": "Top 4 Best ERP for Large Enterprise in Malaysia",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/top-4-best-erp-for-large-enterprise-in-malaysia-20260618/"
+          ]
+        }
+      ]
+    },
+    "title:spotify-s-post-english-ai-future": {
+      "topic_key": "title:spotify-s-post-english-ai-future",
+      "topic_label": "Spotify’s post-English AI future",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:spotify-s-post-english-ai-future",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:spotify-s-post-english-ai-future",
+          "topic_label": "Spotify’s post-English AI future",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:rocketchat-rocket.chat": {
+      "topic_key": "title:rocketchat-rocket.chat",
+      "topic_label": "RocketChat/Rocket.Chat",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:rocketchat-rocket.chat",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:rocketchat-rocket.chat",
+          "topic_label": "RocketChat/Rocket.Chat",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/RocketChat/Rocket.Chat"
+          ]
+        }
+      ]
+    },
+    "title:dow-jones-top-markets-headlines-at-3-pm-et-:-brent-trades-at-prewar-prices-gas-falls-below-4-aft": {
+      "topic_key": "title:dow-jones-top-markets-headlines-at-3-pm-et-:-brent-trades-at-prewar-prices-gas-falls-below-4-aft",
+      "topic_label": "Dow Jones Top Markets Headlines at 3 PM ET : Brent Trades at Prewar Prices , Gas Falls Below $4 After Iran Deal Is Signed | BOE ...",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:dow-jones-top-markets-headlines-at-3-pm-et-:-brent-trades-at-prewar-prices-gas-falls-below-4-aft",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:dow-jones-top-markets-headlines-at-3-pm-et-:-brent-trades-at-prewar-prices-gas-falls-below-4-aft",
+          "topic_label": "Dow Jones Top Markets Headlines at 3 PM ET : Brent Trades at Prewar Prices , Gas Falls Below $4 After Iran Deal Is Signed | BOE ...",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.morningstar.com/news/dow-jones/202606186840/dow-jones-top-markets-headlines-at-3-pm-et-brent-trades-at-prewar-prices-gas-falls-below-4-after-iran-deal-is-signed-boe"
+          ]
+        }
+      ]
+    },
+    "title:youtuber": {
+      "topic_key": "title:youtuber",
+      "topic_label": "youtuber",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:youtuber",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:youtuber",
+          "topic_label": "youtuber",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Google Trends Japan Hot Feed"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://trends.google.com/trending/rss?geo=JP"
+          ]
+        }
+      ]
+    },
+    "title:ng-y-b-o-ch-c-ch-m-ng-vi-t-nam": {
+      "topic_key": "title:ng-y-b-o-ch-c-ch-m-ng-vi-t-nam",
+      "topic_label": "ngày báo chí cách mạng việt nam",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:ng-y-b-o-ch-c-ch-m-ng-vi-t-nam",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:ng-y-b-o-ch-c-ch-m-ng-vi-t-nam",
+          "topic_label": "ngày báo chí cách mạng việt nam",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Google Trends Vietnam Hot Feed"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://trends.google.com/trending/rss?geo=VN"
+          ]
+        }
+      ]
+    },
+    "title:bts-arirang-bulacan": {
+      "topic_key": "title:bts-arirang-bulacan",
+      "topic_label": "bts arirang bulacan",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:bts-arirang-bulacan",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:bts-arirang-bulacan",
+          "topic_label": "bts arirang bulacan",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Google Trends Philippines Hot Feed"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://trends.google.com/trending/rss?geo=PH"
+          ]
+        }
+      ]
+    },
+    "title:mexico-vs-south-korea": {
+      "topic_key": "title:mexico-vs-south-korea",
+      "topic_label": "mexico vs south korea",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:mexico-vs-south-korea",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:mexico-vs-south-korea",
+          "topic_label": "mexico vs south korea",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Google Trends Taiwan Hot Feed"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://trends.google.com/trending/rss?geo=TW"
+          ]
+        }
+      ]
+    },
+    "title:jonathan-david": {
+      "topic_key": "title:jonathan-david",
+      "topic_label": "jonathan david",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:jonathan-david",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:jonathan-david",
+          "topic_label": "jonathan david",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Google Trends Thailand Hot Feed"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://trends.google.com/trending/rss?geo=TH"
+          ]
+        }
+      ]
+    },
+    "title:chile-turned-to-china-for-an-undersea-cable.-the-u.s.-said-no": {
+      "topic_key": "title:chile-turned-to-china-for-an-undersea-cable.-the-u.s.-said-no",
+      "topic_label": "Chile turned to China for an undersea cable. The U.S. said no",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:chile-turned-to-china-for-an-undersea-cable.-the-u.s.-said-no",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:chile-turned-to-china-for-an-undersea-cable.-the-u.s.-said-no",
+          "topic_label": "Chile turned to China for an undersea cable. The U.S. said no",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/chile-china-america-google-cable/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:ai-layerx": {
+      "topic_key": "title:ai-layerx",
+      "topic_label": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:ai-layerx",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:ai-layerx",
+          "topic_label": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://tech.layerx.co.jp/entry/prompt-log-driven-ai-workflow"
+          ]
+        }
+      ]
+    },
+    "title:obra-superpowers": {
+      "topic_key": "title:obra-superpowers",
+      "topic_label": "obra/superpowers",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:obra-superpowers",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:obra-superpowers",
+          "topic_label": "obra/superpowers",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/obra/superpowers"
+          ]
+        }
+      ]
+    },
+    "title:continuedev-continue": {
+      "topic_key": "title:continuedev-continue",
+      "topic_label": "continuedev/continue",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:continuedev-continue",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:continuedev-continue",
+          "topic_label": "continuedev/continue",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/continuedev/continue"
+          ]
+        }
+      ]
+    },
+    "title:bytedance-ui-tars-desktop": {
+      "topic_key": "title:bytedance-ui-tars-desktop",
+      "topic_label": "bytedance/UI-TARS-desktop",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:bytedance-ui-tars-desktop",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:bytedance-ui-tars-desktop",
+          "topic_label": "bytedance/UI-TARS-desktop",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/bytedance/UI-TARS-desktop"
+          ]
+        }
+      ]
+    },
+    "title:panniantong-agent-reach": {
+      "topic_key": "title:panniantong-agent-reach",
+      "topic_label": "Panniantong/Agent-Reach",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:panniantong-agent-reach",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:panniantong-agent-reach",
+          "topic_label": "Panniantong/Agent-Reach",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Panniantong/Agent-Reach"
+          ]
+        }
+      ]
+    },
+    "title:paris-une-panne-d-lectricit-sur-le-r-seau-au-d-part-de-la-gare-de-lest-:-reprise": {
+      "topic_key": "title:paris-une-panne-d-lectricit-sur-le-r-seau-au-d-part-de-la-gare-de-lest-:-reprise",
+      "topic_label": "À Paris , une panne d électricité sur le réseau au départ de la gare de lEst : reprise",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:paris-une-panne-d-lectricit-sur-le-r-seau-au-d-part-de-la-gare-de-lest-:-reprise",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:paris-une-panne-d-lectricit-sur-le-r-seau-au-d-part-de-la-gare-de-lest-:-reprise",
+          "topic_label": "À Paris , une panne d électricité sur le réseau au départ de la gare de lEst : reprise",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://paris.maville.com/actu/actudet_-a-paris-une-panne-d-electricite-sur-le-reseau-au-depart-de-la-gare-de-l-est-reprise-progressive-du-trafic-ferroviaire-_fil-7367715_actu.Htm"
+          ]
+        }
+      ]
+    },
+    "title:wall-street-indexes-advance-with-boost-from-chips-iran-optimism": {
+      "topic_key": "title:wall-street-indexes-advance-with-boost-from-chips-iran-optimism",
+      "topic_label": "Wall Street indexes advance with boost from chips , Iran optimism",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:wall-street-indexes-advance-with-boost-from-chips-iran-optimism",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:wall-street-indexes-advance-with-boost-from-chips-iran-optimism",
+          "topic_label": "Wall Street indexes advance with boost from chips , Iran optimism",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.freemalaysiatoday.com/category/business/2026/06/19/wall-street-indexes-advance-with-boost-from-chips-iran-optimism"
+          ]
+        }
+      ]
+    },
+    "title:ai-governance-in-banking-operations-and-decisioning": {
+      "topic_key": "title:ai-governance-in-banking-operations-and-decisioning",
+      "topic_label": "AI governance in banking operations and decisioning",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:ai-governance-in-banking-operations-and-decisioning",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:ai-governance-in-banking-operations-and-decisioning",
+          "topic_label": "AI governance in banking operations and decisioning",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/ai-governance-in-banking-operations-and-decisioning-20260606/"
+          ]
+        }
+      ]
+    },
+    "title:ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it": {
+      "topic_key": "title:ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it",
+      "topic_label": "AI did not kill creativity, it gave us the opportunity to exercise it",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it",
+          "topic_label": "AI did not kill creativity, it gave us the opportunity to exercise it",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/ai-did-not-kill-creativity-it-gave-us-the-opportunity-to-exercise-it-20260618/"
+          ]
+        }
+      ]
+    },
+    "title:the-great-ai-divide:-navigating-u.s.-and-chinese-dominance": {
+      "topic_key": "title:the-great-ai-divide:-navigating-u.s.-and-chinese-dominance",
+      "topic_label": "The Great AI Divide: Navigating U.S. and Chinese dominance",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 8.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:the-great-ai-divide:-navigating-u.s.-and-chinese-dominance",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:the-great-ai-divide:-navigating-u.s.-and-chinese-dominance",
+          "topic_label": "The Great AI Divide: Navigating U.S. and Chinese dominance",
+          "network_score": 6.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 6.0,
+          "trend_wucht": 8.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/ai-divide-america-china-world/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:rosanna-costa-por-ipom-:-el-balance-de-riesgos-para-la-inflaci-n-se-ha-ido-equilibrando": {
+      "topic_key": "title:rosanna-costa-por-ipom-:-el-balance-de-riesgos-para-la-inflaci-n-se-ha-ido-equilibrando",
+      "topic_label": "Rosanna Costa por IPoM : El balance de riesgos para la inflación se ha ido equilibrando",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:rosanna-costa-por-ipom-:-el-balance-de-riesgos-para-la-inflaci-n-se-ha-ido-equilibrando",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:rosanna-costa-por-ipom-:-el-balance-de-riesgos-para-la-inflaci-n-se-ha-ido-equilibrando",
+          "topic_label": "Rosanna Costa por IPoM : El balance de riesgos para la inflación se ha ido equilibrando",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.radioagricultura.cl/noticias/economia/rosanna-costa-por-ipom-el-balance-de-riesgos-para-la-inflacion-se-ha-ido-equilibrando_20260618/"
+          ]
+        }
+      ]
+    },
+    "title:navato-fire-in-sparks-now-100-contained": {
+      "topic_key": "title:navato-fire-in-sparks-now-100-contained",
+      "topic_label": "Navato Fire in Sparks now 100 % contained",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:navato-fire-in-sparks-now-100-contained",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:navato-fire-in-sparks-now-100-contained",
+          "topic_label": "Navato Fire in Sparks now 100 % contained",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.kolotv.com/2026/06/17/navato-fire-sparks-now-90-contained/"
+          ]
+        }
+      ]
+    },
+    "title:prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-:-cerah": {
+      "topic_key": "title:prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-:-cerah",
+      "topic_label": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-:-cerah",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-:-cerah",
+          "topic_label": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://jateng.tribunnews.com/semarang/1257016/prakiraan-cuaca-kota-semarang-hari-ini-jumat-19-juni-2026-cerah"
+          ]
+        }
+      ]
+    },
+    "title:sacaba-capacita-a-45-brigadistas-para-reforzar-la-respuesta-ante-incendios-forestales": {
+      "topic_key": "title:sacaba-capacita-a-45-brigadistas-para-reforzar-la-respuesta-ante-incendios-forestales",
+      "topic_label": "Sacaba capacita a 45 brigadistas para reforzar la respuesta ante incendios forestales",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:sacaba-capacita-a-45-brigadistas-para-reforzar-la-respuesta-ante-incendios-forestales",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:sacaba-capacita-a-45-brigadistas-para-reforzar-la-respuesta-ante-incendios-forestales",
+          "topic_label": "Sacaba capacita a 45 brigadistas para reforzar la respuesta ante incendios forestales",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.opinion.com.bo/articulo/cochabamba/sacaba-capacita-45-brigadistas-reforzar-respuesta-incendios-forestales/20260618192915992502.html"
+          ]
+        }
+      ]
+    },
+    "title:jim-cramer-says-next-week-economic-data-will-drive-the-markets": {
+      "topic_key": "title:jim-cramer-says-next-week-economic-data-will-drive-the-markets",
+      "topic_label": "Jim Cramer says next week economic data will drive the markets",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:jim-cramer-says-next-week-economic-data-will-drive-the-markets",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:jim-cramer-says-next-week-economic-data-will-drive-the-markets",
+          "topic_label": "Jim Cramer says next week economic data will drive the markets",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.cnbc.com/2026/06/18/jim-cramer-economic-data-drive-markets.html"
+          ]
+        }
+      ]
+    },
+    "title:el-debut-de-warsh-al-frente-de-la-fed-dispara-apuestas-por-alzas-de-tasas-este-a-o": {
+      "topic_key": "title:el-debut-de-warsh-al-frente-de-la-fed-dispara-apuestas-por-alzas-de-tasas-este-a-o",
+      "topic_label": "El debut de Warsh al frente de la Fed dispara apuestas por alzas de tasas este año",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:el-debut-de-warsh-al-frente-de-la-fed-dispara-apuestas-por-alzas-de-tasas-este-a-o",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:el-debut-de-warsh-al-frente-de-la-fed-dispara-apuestas-por-alzas-de-tasas-este-a-o",
+          "topic_label": "El debut de Warsh al frente de la Fed dispara apuestas por alzas de tasas este año",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.perfil.com/noticias/bloomberg/bc-el-debut-de-warsh-al-frente-de-la-fed-dispara-apuestas-por-alzas-de-tasas-este-ano.phtml"
+          ]
+        }
+      ]
+    },
+    "title:grafana-cloud-k6-datadog-findy-tech-blog": {
+      "topic_key": "title:grafana-cloud-k6-datadog-findy-tech-blog",
+      "topic_label": "ゼロから始める負荷試験環境構築 — Grafana Cloud k6とDatadogで本番トラフィックを再現する - Findy Tech Blog",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:grafana-cloud-k6-datadog-findy-tech-blog",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:grafana-cloud-k6-datadog-findy-tech-blog",
+          "topic_label": "ゼロから始める負荷試験環境構築 — Grafana Cloud k6とDatadogで本番トラフィックを再現する - Findy Tech Blog",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://tech.findy.co.jp/entry/2026/06/19/070000"
+          ]
+        }
+      ]
+    },
+    "title:semarang-dilanda-pemadaman-listrik-berjam-jam-warga-mulai-borong-power-bank-dan-lampu-darurat": {
+      "topic_key": "title:semarang-dilanda-pemadaman-listrik-berjam-jam-warga-mulai-borong-power-bank-dan-lampu-darurat",
+      "topic_label": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:semarang-dilanda-pemadaman-listrik-berjam-jam-warga-mulai-borong-power-bank-dan-lampu-darurat",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:semarang-dilanda-pemadaman-listrik-berjam-jam-warga-mulai-borong-power-bank-dan-lampu-darurat",
+          "topic_label": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://regional.kompas.com/read/2026/06/19/063332178/semarang-dilanda-pemadaman-listrik-berjam-jam-warga-mulai-borong-power-bank"
+          ]
+        }
+      ]
+    },
+    "title:dampak-listrik-padam-di-surabaya-:-traffic-light-mati-bayi-menangis-pekerjaan-tertunda": {
+      "topic_key": "title:dampak-listrik-padam-di-surabaya-:-traffic-light-mati-bayi-menangis-pekerjaan-tertunda",
+      "topic_label": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:dampak-listrik-padam-di-surabaya-:-traffic-light-mati-bayi-menangis-pekerjaan-tertunda",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:dampak-listrik-padam-di-surabaya-:-traffic-light-mati-bayi-menangis-pekerjaan-tertunda",
+          "topic_label": "Dampak Listrik Padam di Surabaya : Traffic Light Mati , Bayi Menangis , Pekerjaan Tertunda",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://surabaya.kompas.com/read/2026/06/19/060520378/dampak-listrik-padam-di-surabaya-traffic-light-mati-bayi-menangis-pekerjaan"
+          ]
+        }
+      ]
+    },
+    "title:chip-memori-raksasa-gadget-ini-akan-dongrak-harga-produk": {
+      "topic_key": "title:chip-memori-raksasa-gadget-ini-akan-dongrak-harga-produk",
+      "topic_label": "Chip Memori , Raksasa Gadget Ini Akan Dongrak Harga Produk",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:chip-memori-raksasa-gadget-ini-akan-dongrak-harga-produk",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:chip-memori-raksasa-gadget-ini-akan-dongrak-harga-produk",
+          "topic_label": "Chip Memori , Raksasa Gadget Ini Akan Dongrak Harga Produk",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://global.kontan.co.id/news/chip-memori-raksasa-gadget-ini-akan-dongrak-harga-produk"
+          ]
+        }
+      ]
+    },
+    "title:2": {
+      "topic_key": "title:2",
+      "topic_label": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:2",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:2",
+          "topic_label": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html"
+          ]
+        }
+      ]
+    },
+    "title:16-4290-ai": {
+      "topic_key": "title:16-4290-ai",
+      "topic_label": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:16-4290-ai",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:16-4290-ai",
+          "topic_label": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.itmedia.co.jp/business/articles/2606/19/news021.html"
+          ]
+        }
+      ]
+    },
+    "title:web-nginx-3-cvss-4.0-10-9.2-v1.30.3-v1.31.2": {
+      "topic_key": "title:web-nginx-3-cvss-4.0-10-9.2-v1.30.3-v1.31.2",
+      "topic_label": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:web-nginx-3-cvss-4.0-10-9.2-v1.30.3-v1.31.2",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:web-nginx-3-cvss-4.0-10-9.2-v1.30.3-v1.31.2",
+          "topic_label": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://forest.watch.impress.co.jp/docs/news/2118062.html"
+          ]
+        }
+      ]
+    },
+    "title:claude-design-claude-code-ai": {
+      "topic_key": "title:claude-design-claude-code-ai",
+      "topic_label": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:claude-design-claude-code-ai",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:claude-design-claude-code-ai",
+          "topic_label": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://gigazine.net/news/20260618-claude-design-claude-code/"
+          ]
+        }
+      ]
+    },
+    "title:ai-self-improvement": {
+      "topic_key": "title:ai-self-improvement",
+      "topic_label": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:ai-self-improvement",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:ai-self-improvement",
+          "topic_label": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://zenn.dev/stak22/articles/3ea03d0e3ca025"
+          ]
+        }
+      ]
+    },
+    "title:epic-games-git-lore": {
+      "topic_key": "title:epic-games-git-lore",
+      "topic_label": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:epic-games-git-lore",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:epic-games-git-lore",
+          "topic_label": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://joho-todai.com/epic-games-lore-version-control/"
+          ]
+        }
+      ]
+    },
+    "title:cursor-git-origin-spacex": {
+      "topic_key": "title:cursor-git-origin-spacex",
+      "topic_label": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:cursor-git-origin-spacex",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:cursor-git-origin-spacex",
+          "topic_label": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/"
+          ]
+        }
+      ]
+    },
+    "title:0.002-qiita": {
+      "topic_key": "title:0.002-qiita",
+      "topic_label": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話 - Qiita",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:0.002-qiita",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:0.002-qiita",
+          "topic_label": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話 - Qiita",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19"
+          ]
+        }
+      ]
+    },
+    "title:yairm210-unciv": {
+      "topic_key": "title:yairm210-unciv",
+      "topic_label": "yairm210/Unciv",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:yairm210-unciv",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:yairm210-unciv",
+          "topic_label": "yairm210/Unciv",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/yairm210/Unciv"
+          ]
+        }
+      ]
+    },
+    "title:meshery-meshery": {
+      "topic_key": "title:meshery-meshery",
+      "topic_label": "meshery/meshery",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:meshery-meshery",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:meshery-meshery",
+          "topic_label": "meshery/meshery",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/meshery/meshery"
+          ]
+        }
+      ]
+    },
+    "title:menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik": {
+      "topic_key": "title:menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik",
+      "topic_label": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik",
+          "topic_label": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://kaltim.tribunnews.com/news/1153499/menteri-esdm-bahlil-singgung-penurunan-kualitas-batu-bara-janji-tak-ada-pemadaman-listrik"
+          ]
+        }
+      ]
+    },
+    "title:hawkish-fed-could-push-gold-prices-back-to-4-000-next-week": {
+      "topic_key": "title:hawkish-fed-could-push-gold-prices-back-to-4-000-next-week",
+      "topic_label": "Hawkish Fed could push gold prices back to $4 , 000 next week",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:hawkish-fed-could-push-gold-prices-back-to-4-000-next-week",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:hawkish-fed-could-push-gold-prices-back-to-4-000-next-week",
+          "topic_label": "Hawkish Fed could push gold prices back to $4 , 000 next week",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "http://www.kitco.com/news/article/2026-06-18/hawkish-fed-could-push-gold-prices-back-4000-next-week"
+          ]
+        }
+      ]
+    },
+    "title:stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier": {
+      "topic_key": "title:stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier",
+      "topic_label": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier",
+          "topic_label": "Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+          "network_score": 4.0,
+          "mention_count": 2,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://thebusinessjournal.com/stocks-rise-on-wall-street-as-tech-rally-overcomes-fed-rate-hike-concerns/",
+            "https://www.latimes.com/business/story/2026-06-18/stocks-rise-on-wall-street-erasing-much-of-their-loss-from-day-earlier"
+          ]
+        }
+      ]
+    },
+    "title:trump-says-intel-and-apple-will-produce-chips-domestically": {
+      "topic_key": "title:trump-says-intel-and-apple-will-produce-chips-domestically",
+      "topic_label": "Trump says Intel and Apple will produce chips domestically",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:trump-says-intel-and-apple-will-produce-chips-domestically",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:trump-says-intel-and-apple-will-produce-chips-domestically",
+          "topic_label": "Trump says Intel and Apple will produce chips domestically",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.gsmarena.com/trump_says_intel_and_apple_will_produce_chips_domestically-news-73337.php"
+          ]
+        }
+      ]
+    },
+    "title:the-closing-bell-:-stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier": {
+      "topic_key": "title:the-closing-bell-:-stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier",
+      "topic_label": "The Closing Bell : Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:the-closing-bell-:-stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:the-closing-bell-:-stocks-rise-on-wall-street-erasing-much-of-their-loss-from-a-day-earlier",
+          "topic_label": "The Closing Bell : Stocks rise on Wall Street , erasing much of their loss from a day earlier",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.wptf.com/2026/06/18/15596/"
+          ]
+        }
+      ]
+    },
+    "title:fen-meno-de-el-ni-o-avanza-r-pido-en-el-pac-fico-prev-n-sequ-as-e-inundaciones": {
+      "topic_key": "title:fen-meno-de-el-ni-o-avanza-r-pido-en-el-pac-fico-prev-n-sequ-as-e-inundaciones",
+      "topic_label": "Fenómeno de El Niño avanza rápido en el Pacífico ; prevén sequías e inundaciones",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:fen-meno-de-el-ni-o-avanza-r-pido-en-el-pac-fico-prev-n-sequ-as-e-inundaciones",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:fen-meno-de-el-ni-o-avanza-r-pido-en-el-pac-fico-prev-n-sequ-as-e-inundaciones",
+          "topic_label": "Fenómeno de El Niño avanza rápido en el Pacífico ; prevén sequías e inundaciones",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.excelsior.com.mx/nacional/fenomeno-nino-avanza-rapido-pacifico-preven-sequias-e-inundaciones"
+          ]
+        }
+      ]
+    },
+    "title:california-fair-plan-will-hike-its-rates-this-fall-.-how-will-that-impact-policyholders": {
+      "topic_key": "title:california-fair-plan-will-hike-its-rates-this-fall-.-how-will-that-impact-policyholders",
+      "topic_label": "California FAIR Plan will hike its rates this fall . How will that impact policyholders ?",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:california-fair-plan-will-hike-its-rates-this-fall-.-how-will-that-impact-policyholders",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:california-fair-plan-will-hike-its-rates-this-fall-.-how-will-that-impact-policyholders",
+          "topic_label": "California FAIR Plan will hike its rates this fall . How will that impact policyholders ?",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.capradio.org/articles/2026/06/18/californias-fair-plan-will-hike-its-rates-this-fall-how-will-that-impact-policyholders/"
+          ]
+        }
+      ]
+    },
+    "title:court-ruling-deals-major-blow-to-trump-war-on-wind-power": {
+      "topic_key": "title:court-ruling-deals-major-blow-to-trump-war-on-wind-power",
+      "topic_label": "Court Ruling Deals Major Blow to Trump War on Wind Power",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:court-ruling-deals-major-blow-to-trump-war-on-wind-power",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:court-ruling-deals-major-blow-to-trump-war-on-wind-power",
+          "topic_label": "Court Ruling Deals Major Blow to Trump War on Wind Power",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://oilprice.com/Alternative-Energy/Wind-Power/Court-Ruling-Deals-Major-Blow-to-Trumps-War-on-Wind-Power.html"
+          ]
+        }
+      ]
+    },
+    "title:iran-war-casts-fresh-shadow-over-sri-lanka-recovery-business": {
+      "topic_key": "title:iran-war-casts-fresh-shadow-over-sri-lanka-recovery-business",
+      "topic_label": "Iran war casts fresh shadow over Sri Lanka recovery - Business",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:iran-war-casts-fresh-shadow-over-sri-lanka-recovery-business",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:iran-war-casts-fresh-shadow-over-sri-lanka-recovery-business",
+          "topic_label": "Iran war casts fresh shadow over Sri Lanka recovery - Business",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.dailymirror.lk/business/Iran-war-casts-fresh-shadow-over-Sri-Lankas-recovery/215-343337"
+          ]
+        }
+      ]
+    },
+    "title:bank-of-england-holds-main-interest-rate-at-3-.-75-investment-executive": {
+      "topic_key": "title:bank-of-england-holds-main-interest-rate-at-3-.-75-investment-executive",
+      "topic_label": "Bank of England holds main interest rate at 3 . 75 % - Investment Executive",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:bank-of-england-holds-main-interest-rate-at-3-.-75-investment-executive",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:bank-of-england-holds-main-interest-rate-at-3-.-75-investment-executive",
+          "topic_label": "Bank of England holds main interest rate at 3 . 75 % - Investment Executive",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.investmentexecutive.com/news/economy/bank-of-england-holds-main-interest-rate-at-3-75/"
+          ]
+        }
+      ]
+    },
+    "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47-tracking-lower-bond-yields-as-iran-war-win": {
+      "topic_key": "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47-tracking-lower-bond-yields-as-iran-war-win",
+      "topic_label": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47-tracking-lower-bond-yields-as-iran-war-win",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47-tracking-lower-bond-yields-as-iran-war-win",
+          "topic_label": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
+          "network_score": 4.0,
+          "mention_count": 2,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.newsday.com/business/mortgages-interest-rates-economy-housing-real-estate-f40510",
+            "https://www.clickondetroit.com/business/2026/06/18/average-30-year-us-mortgage-rate-falls-to-647-tracking-lower-bond-yields-as-iran-war-winds-down/"
+          ]
+        }
+      ]
+    },
+    "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47": {
+      "topic_key": "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47",
+      "topic_label": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47",
+          "topic_label": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.mcall.com/2026/06/18/mortgage-rates-fall-after-ceasefire-agreement/"
+          ]
+        }
+      ]
+    },
+    "title:traba-launches-neo-ai-that-decides-acts-and-runs-your-operation-with-you": {
+      "topic_key": "title:traba-launches-neo-ai-that-decides-acts-and-runs-your-operation-with-you",
+      "topic_label": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:traba-launches-neo-ai-that-decides-acts-and-runs-your-operation-with-you",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:traba-launches-neo-ai-that-decides-acts-and-runs-your-operation-with-you",
+          "topic_label": "Traba Launches Neo - AI That Decides , Acts And Runs Your Operation With You",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "http://www.prnewswire.com/news-releases/traba-launches-neo--ai-that-decides-acts-and-runs-your-operation-with-you-302804816.html"
+          ]
+        }
+      ]
+    },
+    "title:rumah-warga-jonggrang-magetan-ludes-terbakar-akibat-lilin-saat-listrik-padam": {
+      "topic_key": "title:rumah-warga-jonggrang-magetan-ludes-terbakar-akibat-lilin-saat-listrik-padam",
+      "topic_label": "Rumah Warga Jonggrang Magetan Ludes Terbakar Akibat Lilin saat Listrik Padam",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:rumah-warga-jonggrang-magetan-ludes-terbakar-akibat-lilin-saat-listrik-padam",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:rumah-warga-jonggrang-magetan-ludes-terbakar-akibat-lilin-saat-listrik-padam",
+          "topic_label": "Rumah Warga Jonggrang Magetan Ludes Terbakar Akibat Lilin saat Listrik Padam",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://beritajatim.com/rumah-warga-jonggrang-magetan-ludes-terbakar-akibat-lilin-saat-listrik-padam"
+          ]
+        }
+      ]
+    },
+    "title:markets-today-:-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-asx-set-to-slide": {
+      "topic_key": "title:markets-today-:-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-asx-set-to-slide",
+      "topic_label": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:markets-today-:-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-asx-set-to-slide",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:markets-today-:-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-asx-set-to-slide",
+          "topic_label": "Markets today : Wall Street rebounds , Intel surges as Trump announces Apple deal , ASX set to slide",
+          "network_score": 4.0,
+          "mention_count": 3,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.smh.com.au/business/markets/asx-set-to-fall-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-20260619-p6088p.html",
+            "https://www.theage.com.au/business/markets/asx-set-to-fall-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-20260619-p6088p.html",
+            "https://www.brisbanetimes.com.au/business/markets/asx-set-to-fall-wall-street-rebounds-intel-surges-as-trump-announces-apple-deal-20260619-p6088p.html"
+          ]
+        }
+      ]
+    },
+    "title:mortgage-rates-dip-as-10-year-treasury-yield-retreats-nbc-bay-area": {
+      "topic_key": "title:mortgage-rates-dip-as-10-year-treasury-yield-retreats-nbc-bay-area",
+      "topic_label": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:mortgage-rates-dip-as-10-year-treasury-yield-retreats-nbc-bay-area",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:mortgage-rates-dip-as-10-year-treasury-yield-retreats-nbc-bay-area",
+          "topic_label": "Mortgage rates dip as 10 - year Treasury yield retreats – NBC Bay Area",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GDELT Macro Market Policy RSS"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.nbcbayarea.com/news/national-international/mortgage-rates-fall/4101218/"
+          ]
+        }
+      ]
+    },
+    "title:when-americans-choose-chinese-ai": {
+      "topic_key": "title:when-americans-choose-chinese-ai",
+      "topic_label": "When Americans choose Chinese AI",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:when-americans-choose-chinese-ai",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:when-americans-choose-chinese-ai",
+          "topic_label": "When Americans choose Chinese AI",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/when-americans-choose-chinese-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:silicon-valley-s-lure-is-fading-for-india-s-tech-talent": {
+      "topic_key": "title:silicon-valley-s-lure-is-fading-for-india-s-tech-talent",
+      "topic_label": "Silicon Valley’s lure is fading for India’s tech talent",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:silicon-valley-s-lure-is-fading-for-india-s-tech-talent",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:silicon-valley-s-lure-is-fading-for-india-s-tech-talent",
+          "topic_label": "Silicon Valley’s lure is fading for India’s tech talent",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Rest of World Global Tech Feed"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://restofworld.org/2026/silicon-valley-status/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          ]
+        }
+      ]
+    },
+    "title:how-network-aggregators-can-thrive-in-a-disconnected-world": {
+      "topic_key": "title:how-network-aggregators-can-thrive-in-a-disconnected-world",
+      "topic_label": "How network aggregators can thrive in a disconnected world",
+      "last_seen_at": "2026-06-19T01:58:32Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T01-58-32Z:title:how-network-aggregators-can-thrive-in-a-disconnected-world",
+          "sample_index": 5939447,
+          "timestamp_utc": "2026-06-19T01:58:32Z",
+          "run_id": "2026-06-19T01-58-32Z",
+          "topic_key": "title:how-network-aggregators-can-thrive-in-a-disconnected-world",
+          "topic_label": "How network aggregators can thrive in a disconnected world",
+          "network_score": 3.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 3.0,
+          "trend_wucht": 5.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/how-network-aggregators-can-thrive-in-a-disconnected-world-20251117/"
           ]
         }
       ]
