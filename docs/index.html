@@ -12,11 +12,11 @@ h1{font:700 14px var(--mono);letter-spacing:.08em;color:var(--a);margin:0}h1 spa
 .badge{border:1px solid var(--b);border-radius:4px;padding:2px 7px}.ok{color:var(--g);border-color:#1a5c38}.bad{color:var(--r);border-color:#6a2020}.warn{color:var(--a);border-color:#7a5215}
 .wrap{display:grid;grid-template-columns:260px 1fr 310px;gap:10px;padding:10px}.panel{background:var(--p);border:1px solid var(--b);border-radius:10px;overflow:hidden}.ph{padding:9px 12px;border-bottom:1px solid var(--b);font:700 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--m);display:flex;justify-content:space-between}.pb{padding:10px 12px}.stack{display:flex;flex-direction:column;gap:10px}
 .tabs{display:flex;gap:4px;flex-wrap:wrap}.tab{cursor:pointer;border:1px solid var(--b);background:#0f151d;color:var(--m);border-radius:4px;padding:3px 8px;font:700 10px var(--mono)}.tab.active{color:var(--a);border-color:#7a5215;background:#23190b}
-.row{display:flex;justify-content:space-betweent;gap:10px;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}.row:last-child{border-bottom:0}.num{font:700 18px var(--mono)}.high{color:var(--r)}.med{color:var(--a)}.obs{color:var(--c)}
+.row{display:flex;justify-content:space-between;gap:10px;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}.row:last-child{border-bottom:0}.num{font:700 18px var(--mono)}.high{color:var(--r)}.med{color:var(--a)}.obs{color:var(--c)}
 .card{padding:10px 12px;border-bottom:1px solid var(--b);cursor:pointer}.card:hover{background:var(--p2)}.card:last-child{border-bottom:0}.score{font:700 13px var(--mono);width:32px;text-align:right}.title{font-weight:600;color:#e8f2ff}.summary{color:var(--m);font-size:12px;margin-top:4px}.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.tag{font:10px var(--mono);border:1px solid var(--b);color:var(--m);border-radius:3px;padding:1px 5px}.grid2{display:grid;grid-template-columns:42px 1fr;gap:8px}
 .topic{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:8px 12px;border-bottom:1px solid var(--b);cursor:pointer}.topic:hover{background:var(--p2)}.topic b{font-weight:600}.topic small{display:block;color:var(--m);font:10px var(--mono)}.wucht{font:700 16px var(--mono);color:var(--a);text-align:right}.delta{font:10px var(--mono);text-align:right}.up{color:var(--g)}.dn{color:var(--r)}.flat{color:var(--m)}
 #error{display:none;margin:10px;padding:10px;border:1px solid #6a2020;border-radius:8px;background:rgba(224,92,92,.08);color:var(--r);white-space:pre-wrap;font:11px var(--mono)}
-#detail{min-height:180px;color:var(--m)}canvas{width:100$;height:190px;display:block}.muted{color:var(--m)}code{font-family:var(--mono);color:var(--a)}
+#detail{min-height:180px;color:var(--m)}canvas{width:100%;height:190px;display:block}.muted{color:var(--m)}code{font-family:var(--mono);color:var(--a)}
 @media(max-width:1000px){.wrap{grid-template-columns:1fr}.meta{margin-left:0}}
 </style>
 </head>
@@ -45,11 +45,11 @@ h1{font:700 14px var(--mono);letter-spacing:.08em;color:var(--a);margin:0}h1 spa
 </div>
 <script>
 const LATEST_URL='https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/latest.json';
-const TRENDS_URL='https://raw.githubusercontent.com/Question86/senna-inflow/main/briefings/trends.json';
+const TRENDS_URL='https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/trends.json';
 const WINDOWS=['now','30m','1h','4h','8h','24h','72h','168h'];
 let D={latest:null,trends:null}, S={window:'now'};
 const $=id=>document.getElementById(id);
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'fgt;','"':'&quot;'}[c]));
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 async function get(url){const r=await fetch(url+'?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw new Error(r.status+' '+r.statusText+' '+url);return r.json()}
 async function load(){
   $('error').style.display='none';
@@ -61,7 +61,7 @@ function fail(msg,e){$('error').style.display='block';$('error').textContent=msg
 function render(){
   const L=D.latest,c=L.counts||{},cov=L.coverage||{};
   $('ts').textContent=L.generated_at?new Date(L.generated_at).toLocaleString('de-DE'):'—';
-  $('conf').textContent=cov.coverage_confidence||'—'; $('conf').className='badge '+6((cov.coverage_confidence||'').toLowerCase()==='low'?'bad':'ok');
+  $('conf').textContent=cov.coverage_confidence||'—'; $('conf').className='badge '+((cov.coverage_confidence||'').toLowerCase()==='low'?'bad':'ok');
   $('run').textContent=L.run_id?'Run '+String(L.run_id).replace('T','/').slice(0,16):'Run —';
   $('total').textContent=c.today_file_total??0;
   $('counts').innerHTML=[['High',c.high,'high'],['Medium',c.medium,'med'],['Observe',c.observe,'obs'],['Relevant',c.new_relevant_findings,''],['Errors',c.source_errors,(c.source_errors||0)>0?'high':'muted']].map(([k,v,cl])=>`<div class=row><span>${k}</span><b class="num ${cl}">${v??0}</b></div>`).join('');
@@ -117,7 +117,7 @@ function researchPrompt(kind,x){
   '4. Risiko, Chance oder nur Beobachtung?',
   '5. Relevanz für Yps/AXI0M.',
   '6. Empfohlene nächste Handlung.'
- ].filter(Boolean).join('\n');
+ ].filter(Boolean).join('\\n');
 }
 async function copyResearch(kind,i,e){
  if(e)e.stopPropagation();
