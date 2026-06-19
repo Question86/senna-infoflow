@@ -40,48 +40,128 @@ jobs:
           from pathlib import Path
           import yaml
 
+          def load_yaml(path):
+              p = Path(path)
+              if not p.exists():
+                  return {}
+              return yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+
           base_path = Path("config/sources.yaml")
-          base = yaml.safe_load(base_path.read_text(encoding="utf-8")) or {}
-          base_sources = list(base.get("sources") or [])
-          existing_ids = {str(source.get("id")) for source in base_sources if isinstance(source, dict)}
+          base = load_yaml(base_path)
+          base_sources = [
+              source for source in (base.get("sources") or [])
+              if isinstance(source, dict) and source.get("id")
+          ]
+
+          controls = load_yaml("config/source_controls.yaml")
+          remove_ids = {str(x) for x in controls.get("remove_source_ids", [])}
+          disable_ids = {str(x) for x in controls.get("disable_source_ids", [])}
+          downgrades = controls.get("downgrade_source_ids", {}) or {}
+
+          sources_by_id = {}
+          order = []
+
+          def upsert(source, prefer_front=False):
+              sid = str(source.get("id") or "")
+              if not sid:
+                  return False
+              existed = sid in sources_by_id
+              sources_by_id[sid] = source
+              if not existed:
+                  if prefer_front:
+                      order.insert(0, sid)
+                  else:
+                      order.append(sid)
+              return existed
+
+          for source in base_sources:
+              sid = str(source.get("id"))
+              if sid not in remove_ids:
+                  upsert(source)
 
           event_name = os.getenv("GITHUB_EVENT_NAME", "")
           minute = datetime.now(timezone.utc).minute
           include_macro = event_name == "workflow_dispatch" or minute % 15 == 0
 
           overlay_paths = [
-              Path("config/official_direct_sources.yaml"),
-              Path("config/hot_sources.yaml"),
-              Path("config/strategic_sources.yaml"),
+              ("config/official_direct_sources.yaml", True),
+              ("config/hot_sources.yaml", False),
+              ("config/strategic_sources.yaml", False),
           ]
           if include_macro:
-              overlay_paths.append(Path("config/macro_sources.yaml"))
+              overlay_paths.append(("config/macro_sources.yaml", False))
           else:
               print("Macro overlay skipped for this 5-minute run; it runs every 15 minutes or on manual dispatch.")
 
-          merged_sources = []
-          overlay_count = 0
-
-          for overlay_path in overlay_paths:
-              if not overlay_path.exists():
-                  print(f"No {overlay_path} found; skipping.")
-                  continue
-              overlay = yaml.safe_load(overlay_path.read_text(encoding="utf-8")) or {}
-              sources = list(overlay.get("sources") or [])
-              accepted = [
-                  source
-                  for source in sources
-                  if isinstance(source, dict) and str(source.get("id")) not in existing_ids
+          merged_count = 0
+          replaced_count = 0
+          for overlay_path, prefer_front in overlay_paths:
+              overlay = load_yaml(overlay_path)
+              sources = [
+                  source for source in (overlay.get("sources") or [])
+                  if isinstance(source, dict) and source.get("id")
               ]
-              for source in accepted:
-                  existing_ids.add(str(source.get("id")))
-              merged_sources.extend(accepted)
-              overlay_count += len(accepted)
-              print(f"Merged {len(accepted)} source(s) from {overlay_path}.")
+              accepted = 0
+              replaced = 0
+              for source in sources:
+                  sid = str(source.get("id"))
+                  if sid in remove_ids:
+                      continue
+                  if upsert(source, prefer_front=prefer_front):
+                      replaced += 1
+                  accepted += 1
+              merged_count += accepted
+              replaced_count += replaced
+              print(f"Merged {accepted} source(s) from {overlay_path}; replaced {replaced}.")
 
-          base["sources"] = merged_sources + base_sources
-          base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          print(f"Reset merged config with {overlay_count} overlay source(s).")
+          for sid in list(sources_by_id):
+              if sid in remove_ids:
+                  sources_by_id.pop(sid, None)
+          order = [sid for sid in order if sid in sources_by_id and sid not in remove_ids]
+
+          for sid in disable_ids:
+              if sid in sources_by_id:
+                  sources_by_id[sid]["enabled"] = False
+
+          for sid, patch in downgrades.items():
+              if sid in sources_by_id and isinstance(patch, dict):
+                  for key, value in patch.items():
+                      if key == "notes_append":
+                          old = str(sources_by_id[sid].get("notes", "") or "")
+                          sources_by_id[sid]["notes"] = (old + " " + str(value)).strip()
+                      else:
+                          sources_by_id[sid][key] = value
+
+          direct_overlay = load_yaml("config/official_direct_sources.yaml")
+          direct_ids = [
+              str(source.get("id"))
+              for source in (direct_overlay.get("sources") or [])
+              if isinstance(source, dict)
+              and source.get("id")
+              and str(source.get("id")) in sources_by_id
+          ]
+          direct_set = set(direct_ids)
+          final_ids = direct_ids + [
+              sid for sid in order
+              if sid in sources_by_id and sid not in direct_set
+          ]
+
+          base["sources"] = [sources_by_id[sid] for sid in final_ids]
+          base.setdefault("meta", {})
+          base["meta"]["source_merge_policy"] = {
+              "direct_sources_first": True,
+              "media_after_direct_sources": True,
+              "removed_ids_count": len(remove_ids),
+              "disabled_ids_count": len(disable_ids),
+              "merged_overlay_sources": merged_count,
+              "replaced_overlay_sources": replaced_count,
+              "last_overlay_merge_utc": datetime.now(timezone.utc).isoformat(),
+          }
+          base_path.write_text(
+              json.dumps(base, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          print(f"Reset merged config with {len(base['sources'])} source definitions.")
           PY
 
       - name: Write active source manifest
@@ -99,10 +179,6 @@ jobs:
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 12
         run: python scripts/run_monitor_hardened.py
-
-      - name: Filter stale findings
-        timeout-minutes: 1
-        run: python scripts/stale_filter_postprocess.py
 
       - name: Debias finding scores
         timeout-minutes: 1
