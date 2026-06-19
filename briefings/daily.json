@@ -1,329 +1,80 @@
 {
-  "generated_at": "2026-06-19T11:28:55+00:00",
-  "today_file_total": 227,
+  "generated_at": "2026-06-19T12:31:48+00:00",
+  "today_file_total": 234,
   "current_clusters": [
     {
-      "key": "domain:www.twcert.org",
-      "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
+      "key": "title:momentum-without-maturity-southeast-asia-reality",
+      "title": "Momentum without maturity: Southeast Asia’s AI reality",
       "sources": [
-        "TWCERT/CC Security News RSS",
-        "TWCERT/CC TVN Vulnerability Notes RSS"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html",
-        "https://www.twcert.org.tw/tw/cp-104-10809-f19ee-1.html",
-        "https://www.twcert.org.tw/tw/cp-104-10807-5c50f-1.html",
-        "https://www.twcert.org.tw/tw/cp-104-10887-c63c0-1.html",
-        "https://www.twcert.org.tw/tw/cp-132-10971-ac61f-1.html",
-        "https://www.twcert.org.tw/tw/cp-132-10969-4c4e2-1.html"
-      ],
-      "finding_count": 17,
-      "max_score": 23,
-      "credibility_total": 17.85,
-      "cross_source_confirmed": true,
-      "momentum_delta": 17,
-      "momentum_status": "increasing",
-      "network_score": 115.7,
-      "hot": true,
-      "watchgraph_modules": [
-        "cyber_active_exploitation",
-        "elections_unrest"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "cve:CVE-2025-55182",
-      "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
-      "sources": [
-        "JPCERT/CC English Blog Atom",
-        "TWCERT/CC Security News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blogs.jpcert.or.jp/en/2026/02/multiple-threat-actors-rapidly-exploit-react2shell-a-case-study-of-active-compromise.html",
-        "https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html"
-      ],
-      "finding_count": 2,
-      "max_score": 18,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": true,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 34.2,
-      "hot": true,
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "earthquake:updates | reliefweb:unknown",
-      "title": "Updates | ReliefWeb",
-      "sources": [
-        "ReliefWeb Mindanao Recovery Watch"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+        "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/"
       ],
       "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 1.35,
+      "max_score": 20,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 23.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619~53145e5a0b.en.html",
-        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html",
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html"
-      ],
-      "finding_count": 3,
-      "max_score": 8,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 3,
-      "momentum_status": "increasing",
-      "network_score": 23.3,
+      "network_score": 25.1,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "title:security-alert-alert-regarding-vulnerabilities-adobe-acrobat-reader",
-      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
+      "key": "domain:www.bleepingcomputer.com",
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
       "sources": [
-        "JPCERT/CC English Alerts"
+        "BleepingComputer Security"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.jpcert.or.jp/english/at/2026/at260018.html",
-        "https://www.jpcert.or.jp/english/at/2026/at260011.html"
+        "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/"
       ],
       "finding_count": 2,
-      "max_score": 10,
+      "max_score": 9,
       "credibility_total": 2.1,
       "cross_source_confirmed": false,
       "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 20.2,
+      "network_score": 19.2,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "title:ics-security-conference-2026",
-      "title": "ICS Security Conference 2026",
+      "key": "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future",
+      "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
       "sources": [
-        "JPCERT/CC English Blog Atom"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://blogs.jpcert.or.jp/en/2026/04/ics-conference2026.html"
+        "https://e27.co/bioark-feature-20250514/"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 7,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 19.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "title:jsac2026-day",
-      "title": "JSAC2026 -Day 1-",
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blogs.jpcert.or.jp/en/2026/02/jsac2026day1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "cve:CVE-2026-20182",
-      "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
-      "sources": [
-        "TWCERT/CC Security News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:csirts-around-world-azerbaijan",
-      "title": "CSIRTs Around the World – Azerbaijan",
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blogs.jpcert.or.jp/en/2026/03/csirts-around-the-world-azerbaijan.html"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:security-alert-microsoft-releases-june-2026-security-updates",
-      "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.jpcert.or.jp/english/at/2026/at260017.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:security-alert-updated-alert-regarding-multiple-vulnerabilities-trend",
-      "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.jpcert.or.jp/english/at/2026/at260014.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:security-alert-microsoft-releases-may-2026-security-updates",
-      "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.jpcert.or.jp/english/at/2026/at260012.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:security-alert-microsoft-releases-april-2026-security-updates",
-      "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
-      "sources": [
-        "JPCERT/CC English Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.jpcert.or.jp/english/at/2026/at260010.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:skill",
-      "title": "デザインシステムのskillの精度が上がった8つの方法",
+      "key": "title:github-copilot",
+      "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -331,153 +82,61 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://zenn.dev/pksha/articles/7a7db5c105f396"
+        "https://forest.watch.impress.co.jp/docs/news/2118410.html"
       ],
       "finding_count": 1,
-      "max_score": 9,
+      "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 14.1,
+      "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "cve:CVE-2026-20131",
-      "title": "Interlock 勒索軟體組織利用 Cisco FMC 零日漏洞發動攻擊，呼籲用戶儘速修補",
+      "key": "title:claude-fable",
+      "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
       "sources": [
-        "TWCERT/CC Security News RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.twcert.org.tw/tw/cp-104-10808-892d1-1.html"
+        "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:study-binaries-created-rust-through-reverse-engineering",
-      "title": "Study of Binaries Created with Rust through Reverse Engineering",
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blogs.jpcert.or.jp/en/2026/03/rust_research_en.html"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:yamagoya-real-time-client-monitoring-tool-using-sigma",
-      "title": "YAMAGoya: A Real-time Client Monitoring Tool Using Sigma and YARA Rules",
-      "sources": [
-        "JPCERT/CC English Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blogs.jpcert.or.jp/en/2025/11/YAMAGoya.html"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/resources/machine-readability-rule",
-      "title": "行政データにおける機械可読性に関するルールをコード化する取組みについて掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/resources/machine-readability-rule"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://www.digital.go.jp/policies/mobility",
-      "title": "モビリティ：令和7年度「「交通商社機能」の取組を支援する事例集」を掲載しました",
+      "key": "domain:togetter.com",
+      "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
       "sources": [
-        "Japan Digital Agency News RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/policies/mobility"
+        "https://togetter.com/li/2711078"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:vol-125",
-      "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.125を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/policies/mynumber/local-government/info"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

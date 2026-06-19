@@ -91,6 +91,33 @@
     "id": "2ea5056bca03cec2c312"
   },
   {
+    "title": "Momentum without maturity: Southeast Asia’s AI reality",
+    "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T11:49:27+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six economies — Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam — and found the region is nudging […] The post Momentum withou…",
+    "matched_keywords": [
+      "AI",
+      "Indonesia",
+      "Philippines",
+      "Singapore",
+      "Southeast Asia",
+      "startup",
+      "Thailand",
+      "Vietnam"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "Southeast Asia (+2.5); startup (+2.0); AI (+2.5); Singapore (+2.0); Indonesia (+2.0); Vietnam (+2.0); Thailand (+2.0); Philippines (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0b37276fa511495380e4"
+  },
+  {
     "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
     "url": "https://e27.co/fileai-funding-20260619/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -2841,6 +2868,27 @@
     "id": "ca60b9b0e852a14d82e8"
   },
   {
+    "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-19T12:12:20+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
+    "matched_keywords": [
+      "AI",
+      "Security"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Security (+6.0); AI (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "mixed",
+    "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17e61e0c6cefc29837e9"
+  },
+  {
     "title": "축구중계",
     "url": "https://trends.google.com/trending/rss?geo=KR",
     "source": "Google Trends South Korea Hot Feed",
@@ -3012,6 +3060,28 @@
       "EWZ"
     ],
     "id": "d709fe6c851c35b07706"
+  },
+  {
+    "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2118410.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:38:34+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "48738b3cd9cf42bd99fc"
   },
   {
     "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
@@ -3434,6 +3504,47 @@
       "URA"
     ],
     "id": "4f31e75bd542dfbf2a10"
+  },
+  {
+    "title": "BioArk’s growth strategy plants seeds for a greener agricultural future",
+    "url": "https://e27.co/bioark-feature-20250514/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T11:50:48+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "Farming practices across Asia face mounting pressure to increase output while reducing environmental damage. For BioArk, a Singapore-based agritech company, this challenge is a starting point for rethinking how fertilisers are made, applied, and integrated into existing systems without demanding costly changes from farmers. Rather than focusing on history or legacy methods, BioArk’s team develops […] The post BioArk…",
+    "matched_keywords": [
+      "Singapore",
+      "startup"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "startup (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2cbb531ce405efb60e9d"
+  },
+  {
+    "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+    "source": "BleepingComputer Security",
+    "source_type": "rss",
+    "published_at": "2026-06-19T11:32:34+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ccfd749279a119cc54ec"
   },
   {
     "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
@@ -4551,6 +4662,27 @@
     "id": "97068fdf9900f0308981"
   },
   {
+    "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T08:39:56+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f6d5670827d187d6f5cb"
+  },
+  {
     "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
     "url": "https://forest.watch.impress.co.jp/docs/news/2118393.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -4570,6 +4702,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "562fb88475a96fbfdb5f"
+  },
+  {
+    "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
+    "url": "https://togetter.com/li/2711078",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T05:21:28+00:00",
+    "fetched_at": "2026-06-19T12:29:57+00:00",
+    "summary": "有機化学を学ぶ人 @yuukiwomanabu 【気がついたきっかけ①】 勘の良い学生がUSBを挿しただけで見知らぬファイルが作成することを報告。 作成されるファイルはmac用にフォーマットしたものとwindows用にフォーマットしたもので異なる可能性があります。 windowsユーザーの場合 svchost.exe または svchost..exe です。 202...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a441ab2fcc46c239612d"
   },
   {
     "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
