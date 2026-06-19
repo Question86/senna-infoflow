@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
       - name: Restore index and add research buttons
         run: |
           git checkout a3487e184a74e6fe8da030551acafd31510576d6 -- docs/index.html
