@@ -1,18 +1,363 @@
 {
-  "generated_at": "2026-06-19T02:37:23+00:00",
+  "generated_at": "2026-06-19T03:57:18+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 0,
-    "clusters": 0,
+    "findings": 9,
+    "clusters": 9,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 0,
+    "early_signals": 2,
     "dominance_penalized": 0
   },
-  "clusters": [],
+  "clusters": [
+    {
+      "key": "title:melsec-fx5-eip-fx5-enet",
+      "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU97140216/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 22.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 22.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "title:chinese-backers-move-buy-manus-meta-potential-reversal",
+      "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 22.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 22.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "domain:japan.zdnet.com",
+      "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.zdnet.com/article/35249088/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "title:000-experiment-indonesia-running-asean-largest-test-risk",
+      "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "title:correlated-gold-bitcoin-just-another-macro-derivative-now",
+      "title": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/81-correlated-with-gold-is-bitcoin-just-another-macro-derivative-now-20260619/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "title:wordpress-saas-cms",
+      "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "title:open-knowledge-format",
+      "title": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/michy/articles/b7c9e2a4f6d810"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "title:apple-intel-sns",
+      "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2606/19/news069.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    },
+    {
+      "key": "domain:tamakino.hatenablog.com",
+      "title": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://tamakino.hatenablog.com/entry/2026/06/12/080000"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
+    }
+  ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-06-19T02:37:23Z",
+    "generated_at": "2026-06-19T03:57:19Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

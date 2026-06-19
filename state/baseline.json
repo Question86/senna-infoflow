@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T02:37:23+00:00",
+  "generated_at": "2026-06-19T03:57:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3518,6 +3518,105 @@
     "github_repo:owainlewis/awesome-artificial-intelligence": {
       "title": "owainlewis/awesome-artificial-intelligence",
       "updated_at": "2026-06-19T02:33:15+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
+    },
+    "title:melsec-fx5-eip-fx5-enet": {
+      "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "title:chinese-backers-move-buy-manus-meta-potential-reversal": {
+      "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
+    },
+    "domain:japan.zdnet.com": {
+      "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:000-experiment-indonesia-running-asean-largest-test-risk": {
+      "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:correlated-gold-bitcoin-just-another-macro-derivative-now": {
+      "title": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:wordpress-saas-cms": {
+      "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:open-knowledge-format": {
+      "title": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:apple-intel-sns": {
+      "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
+      "updated_at": "2026-06-19T03:57:18+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "domain:tamakino.hatenablog.com": {
+      "title": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
+      "updated_at": "2026-06-19T03:57:18+00:00",
       "network_scores": [
         9.1
       ],

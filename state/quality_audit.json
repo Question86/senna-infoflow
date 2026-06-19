@@ -1,26 +1,25 @@
 {
   "active_sensor_groups": {
-    "disaster_humanitarian": 10,
+    "disaster_humanitarian": 9,
     "github": 5,
-    "macro_finance": 8,
-    "other": 23,
+    "other": 17,
     "security": 10,
     "social": 1
   },
   "counts": {
-    "findings": 0,
+    "findings": 9,
     "high": 0,
     "medium": 0,
-    "observe": 0,
-    "source_errors": 8
+    "observe": 9,
+    "source_errors": 4
   },
   "coverage_confidence": "low",
   "failed_sensor_groups": {
-    "other": 6,
+    "other": 2,
     "security": 1,
     "social": 1
   },
-  "generated_at": "2026-06-19T02:37:23Z",
+  "generated_at": "2026-06-19T03:57:19Z",
   "principles": [
     "Scoring is not truth.",
     "Surviving sources are not a representative world picture.",
@@ -30,7 +29,6 @@
   "scope": "configured_public_sources_only",
   "warnings": [
     "source_errors_present",
-    "source_errors_exceed_findings",
     "critical_sensor_group_failed:social",
     "critical_sensor_group_failed:security"
   ]

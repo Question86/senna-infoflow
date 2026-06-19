@@ -234,6 +234,28 @@
     "id": "d47f9797763853a687f3"
   },
   {
+    "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU97140216/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-19T12:30:00+09:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPには、サービス運用妨害（DoS）状態が発生する可能性のある脆弱性が存在します。",
+    "matched_keywords": [
+      "Japan",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); JVN (+2.0); Japan (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca3d1739e9ea288196a9"
+  },
+  {
     "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93024090/",
     "source": "JVN Japan Vulnerability Notes",
@@ -254,6 +276,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4867136ab2b4a24b0865"
+  },
+  {
+    "title": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
+    "url": "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T03:44:31+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "The early Chinese backers of Singapore-headquartered AI startup Manus are reportedly preparing to buy the company back from Meta at the same roughly US$2 billion price the Facebook parent paid last year. The move underscores how geopolitics is reshaping exits for technology companies across Southeast Asia. Also Read: China blocks Meta’s AI bet on Manus: […] The post Chinese backers move to buy Manus from Meta in pot…",
+    "matched_keywords": [
+      "AI",
+      "Singapore",
+      "Southeast Asia",
+      "startup"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Southeast Asia (+2.0); startup (+2.0); AI (+2.0); Singapore (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a2b0ac3dd003e1c32b5d"
   },
   {
     "title": "SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性",
@@ -1732,6 +1777,91 @@
     "id": "018a6b161bd1368860ca"
   },
   {
+    "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
+    "url": "https://japan.zdnet.com/article/35249088/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T22:49:49+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "筆者はこれまで、「Docker」「Docker Desktop」「Podman」「Portainer」など、あらゆる種類のコンテナーツールを使ってきた。コンテナー関連の作業のほとんどは各種「Linux」マシンで処理してきたが、「MacBook」で作業したくなることもある。どちらを使用するにせよ、選択肢は常に存在することに気づいた。 筆者の（Mac...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Japan"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Japan (+2.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f442598e64be5c13d3fe"
+  },
+  {
+    "title": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
+    "url": "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T03:50:22+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "Two weeks ago, I sat across from the new chairman of a cooperative in West Java. He had been appointed three months earlier under Indonesia’s Koperasi Merah Putih programme. He asked me, sincerely and without embarrassment, how he was supposed to know which risks his cooperative was actually carrying — and whether he had to […] The post The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk managem…",
+    "matched_keywords": [
+      "Indonesia",
+      "startup"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "startup (+2.0); Indonesia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "de1c706dd5b73b8adf06"
+  },
+  {
+    "title": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
+    "url": "https://e27.co/81-correlated-with-gold-is-bitcoin-just-another-macro-derivative-now-20260619/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-19T02:55:50+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "The cryptocurrency market recently experienced a sizable contraction, dropping 2.21 per cent to reach a total capitalisation of US$2.17T over a 24-hour period. This downturn stems primarily from a hawkish Federal Reserve policy update signalling a higher-for-longer interest-rate environment. Wall Street rebounded from the initial Federal Reserve sell-off on Thursday, and technology stocks led the […] The post 81% co…",
+    "matched_keywords": [
+      "startup",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "startup (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "d709fe6c851c35b07706"
+  },
+  {
     "title": "Dow Jones Top Markets Headlines at 7 PM ET : Stocks Rally , Gas Prices Fall as U . S ., Iran Move Ahead on Peace Deal | Oil ...",
     "url": "https://www.morningstar.com/news/dow-jones/202606188799/dow-jones-top-markets-headlines-at-7-pm-et-stocks-rally-gas-prices-fall-as-us-iran-move-ahead-on-peace-deal-oil",
     "source": "GDELT Macro Market Policy RSS",
@@ -2366,6 +2496,27 @@
     "id": "0a68815c2a845d60ce21"
   },
   {
+    "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
+    "url": "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T02:00:27+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "「会社のWordPressサイト、このまま続けていいのだろうか」。近年、WordPress運用の負荷や保守体制を見直す企業も増えています。 本記事では、WordPressの法人運用で起きている典型的な5つの困りごとと、その対処として注目されているSaaS型CMSへの移行について、得るもの・失うものの両面から整理します。 「はてなCMS...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "832d191ac82687e475ff"
+  },
+  {
     "title": "円下落 、 一時１６１円８１銭 ／ ３９年半ぶり安値水準に迫る | 全国ニュース",
     "url": "http://www.shikoku-np.co.jp/national/main/20260619000180",
     "source": "GDELT Macro Market Policy RSS",
@@ -2742,6 +2893,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "49fbc17ede3f6c63df56"
+  },
+  {
+    "title": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
+    "url": "https://zenn.dev/michy/articles/b7c9e2a4f6d810",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:35:33+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "はじめに Google Cloud Blogで紹介されていたOpen Knowledge Format（OKF）を触ってみました。 OKFは、MarkdownファイルとYAML frontmatterで知識を表現するための軽量フォーマットです。Googleのサンプルでは、BigQueryのメタデータやWeb上のドキュメントをOKF bundleとして出力し、知識グラフとして可視化できます。 ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9cb78530cd441554dd1d"
+  },
+  {
+    "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news069.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T22:34:45+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "ドナルド・トランプ米大統領は6月18日（現地時間）、自身のSNS「Truth Social」に投稿し、米Appleが米Intelと協力して米国内でチップを設計・製造することに合意したと述べた。ただしAppleとIntelは、この内容を公式に認めてはいない。 トランプ氏は投稿で、世界が依存するテクノロジーは米国で発明されたものだとした上...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6a149b0048aed0b532bd"
   },
   {
     "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
@@ -3497,6 +3690,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ca02181f59618721f6aa"
+  },
+  {
+    "title": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
+    "url": "https://tamakino.hatenablog.com/entry/2026/06/12/080000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-13T01:40:02+00:00",
+    "fetched_at": "2026-06-19T03:55:54+00:00",
+    "summary": "データセンターは立地の選定が最大難関の問題になってきている。中国は、データセンターを海の中に沈めてしまうプロジェクトを進め、商用利用も始まっている。海中では故障率も低くなるとrefiが報じた。 データセンターは用地の選定が最大難関 データセンターをどこに設置するかは非常に頭の痛い問題だ。大量の電力を消...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2ed9948e2950abe2db02"
   },
   {
     "title": "Silicon Valley’s lure is fading for India’s tech talent",

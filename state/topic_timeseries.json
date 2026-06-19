@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-19T02:37:23Z",
+  "generated_at": "2026-06-19T03:57:18Z",
   "cadence_minutes": 5,
   "retention_samples_per_topic": 2500,
   "topics": {
@@ -12925,6 +12925,258 @@
           "status": "emerging",
           "urls": [
             "https://github.com/owainlewis/awesome-artificial-intelligence"
+          ]
+        }
+      ]
+    },
+    "title:melsec-iq-f-fx5-eip-fx5-enet-ip": {
+      "topic_key": "title:melsec-iq-f-fx5-eip-fx5-enet-ip",
+      "topic_label": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:melsec-iq-f-fx5-eip-fx5-enet-ip",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:melsec-iq-f-fx5-eip-fx5-enet-ip",
+          "topic_label": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "JVN Japan Vulnerability Notes"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://jvn.jp/vu/JVNVU97140216/"
+          ]
+        }
+      ]
+    },
+    "title:chinese-backers-move-to-buy-manus-from-meta-in-potential-us-2b-reversal": {
+      "topic_key": "title:chinese-backers-move-to-buy-manus-from-meta-in-potential-us-2b-reversal",
+      "topic_label": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 15.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:chinese-backers-move-to-buy-manus-from-meta-in-potential-us-2b-reversal",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:chinese-backers-move-to-buy-manus-from-meta-in-potential-us-2b-reversal",
+          "topic_label": "Chinese backers move to buy Manus from Meta in potential US$2B reversal",
+          "network_score": 13.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 13.0,
+          "trend_wucht": 15.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/chinese-backers-move-to-buy-manus-from-meta-in-potential-us2b-reversal-20260619/"
+          ]
+        }
+      ]
+    },
+    "title:macbook-linux-container": {
+      "topic_key": "title:macbook-linux-container",
+      "topic_label": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 11.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:macbook-linux-container",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:macbook-linux-container",
+          "topic_label": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
+          "network_score": 9.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 9.0,
+          "trend_wucht": 11.0,
+          "status": "emerging",
+          "urls": [
+            "https://japan.zdnet.com/article/35249088/"
+          ]
+        }
+      ]
+    },
+    "title:the-83-000-experiment:-indonesia-is-running-asean-s-largest-test-of-risk-management-at-scale": {
+      "topic_key": "title:the-83-000-experiment:-indonesia-is-running-asean-s-largest-test-of-risk-management-at-scale",
+      "topic_label": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:the-83-000-experiment:-indonesia-is-running-asean-s-largest-test-of-risk-management-at-scale",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:the-83-000-experiment:-indonesia-is-running-asean-s-largest-test-of-risk-management-at-scale",
+          "topic_label": "The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/"
+          ]
+        }
+      ]
+    },
+    "title:81-correlated-with-gold:-is-bitcoin-just-another-macro-derivative-now": {
+      "topic_key": "title:81-correlated-with-gold:-is-bitcoin-just-another-macro-derivative-now",
+      "topic_label": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 10.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:81-correlated-with-gold:-is-bitcoin-just-another-macro-derivative-now",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:81-correlated-with-gold:-is-bitcoin-just-another-macro-derivative-now",
+          "topic_label": "81% correlated with gold: Is Bitcoin just another macro derivative now?",
+          "network_score": 8.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "e27 Asia Startup and Tech Feed"
+          ],
+          "score_delta_5m": 8.0,
+          "trend_wucht": 10.0,
+          "status": "emerging",
+          "urls": [
+            "https://e27.co/81-correlated-with-gold-is-bitcoin-just-another-macro-derivative-now-20260619/"
+          ]
+        }
+      ]
+    },
+    "title:wordpress-5-saas-cms-by": {
+      "topic_key": "title:wordpress-5-saas-cms-by",
+      "topic_label": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:wordpress-5-saas-cms-by",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:wordpress-5-saas-cms-by",
+          "topic_label": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress"
+          ]
+        }
+      ]
+    },
+    "title:open-knowledge-format": {
+      "topic_key": "title:open-knowledge-format",
+      "topic_label": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:open-knowledge-format",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:open-knowledge-format",
+          "topic_label": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://zenn.dev/michy/articles/b7c9e2a4f6d810"
+          ]
+        }
+      ]
+    },
+    "title:apple-intel-sns": {
+      "topic_key": "title:apple-intel-sns",
+      "topic_label": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:apple-intel-sns",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:apple-intel-sns",
+          "topic_label": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://www.itmedia.co.jp/news/articles/2606/19/news069.html"
+          ]
+        }
+      ]
+    },
+    "title:udc-it": {
+      "topic_key": "title:udc-it",
+      "topic_label": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
+      "last_seen_at": "2026-06-19T03:57:18Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T03-57-18Z:title:udc-it",
+          "sample_index": 5939471,
+          "timestamp_utc": "2026-06-19T03:57:18Z",
+          "run_id": "2026-06-19T03-57-18Z",
+          "topic_key": "title:udc-it",
+          "topic_label": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://tamakino.hatenablog.com/entry/2026/06/12/080000"
           ]
         }
       ]
