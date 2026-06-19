@@ -1,857 +1,102 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
 <head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Senna Infoflow</title>
 <style>
-:root {
-  --bg:         #0b0f14;
-  --bg1:        #111820;
-  --bg2:        #161f2a;
-  --bg3:        #1c2636;
-  --border:     #1e2d3d;
-  --border2:    #243548;
-  --amber:      #f0a832;
-  --amber2:     #7a5215;
-  --cyan:       #38bcd4;
-  --cyan2:      #194f5e;
-  --green:      #3ddc84;
-  --green2:     #1a5c38;
-  --coral:      #e05c5c;
-  --coral2:     #6a2020;
-  --slate:      #8899aa;
-  --slate2:     #2a3a4a;
-  --purple:     #a78bfa;
-  --purple2:    #3b2d6e;
-  --gold:       #fbbf24;
-  --txt:        #c8d8e8;
-  --txt2:       #6a7f94;
-  --txt3:       #e8f2ff;
-  --mono:       'JetBrains Mono','Fira Code','Consolas',monospace;
-  --ui:         'Inter','Segoe UI',system-ui,sans-serif;
-}
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html,body{height:100%;background:var(--bg);color:var(--txt);font-family:var(--ui);font-size:13px;line-height:1.5;overflow-x:hidden}
-a{color:var(--cyan);text-decoration:none}
-a:hover{text-decoration:underline}
-::-webkit-scrollbar{width:4px;height:4px}
-::-webkit-scrollbar-track{background:transparent}
-::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
-
-/* TOPBAR */
-#topbar{position:sticky;top:0;z-index:100;background:var(--bg1);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:16px;padding:0 16px;height:46px;flex-wrap:nowrap;min-width:0}
-.wordmark{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--amber);letter-spacing:.06em;white-space:nowrap;flex-shrink:0}
-.wordmark span{color:var(--txt2);font-weight:400}
-
-/* Window tabs */
-#wtabs{display:flex;gap:2px;background:var(--bg);border-radius:4px;padding:3px;flex-shrink:0}
-.wtab{font-family:var(--mono);font-size:10px;font-weight:700;padding:3px 9px;border-radius:3px;border:none;background:transparent;color:var(--txt2);cursor:pointer;letter-spacing:.04em;transition:all .1s}
-.wtab:hover{color:var(--txt)}
-.wtab.active{background:var(--amber2);color:var(--amber)}
-
-/* Topbar meta */
-.tb-meta{margin-left:auto;display:flex;align-items:center;gap:12px;flex-shrink:0}
-.conf-badge{font-family:var(--mono);font-size:10px;font-weight:700;padding:2px 7px;border-radius:3px;text-transform:uppercase;letter-spacing:.08em}
-.conf-normal{background:var(--green2);color:var(--green)}
-.conf-low{background:var(--coral2);color:var(--coral)}
-.conf-high{background:var(--green2);color:var(--green)}
-.tb-ts{font-family:var(--mono);font-size:10px;color:var(--txt2)}
-.run-dot-wrap{display:flex;align-items:center;gap:5px;font-family:var(--mono);font-size:10px;color:var(--txt2)}
-.run-dot{width:6px;height:6px;border-radius:50%;background:var(--green);box-shadow:0 0 5px var(--green);animation:pulse 2.5s ease-in-out infinite}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
-
-/* LAYOUT */
-#layout{display:grid;grid-template-columns:230px 1fr 280px;gap:8px;padding:8px;min-height:calc(100vh - 46px)}
-
-/* PANEL */
-.panel{background:var(--bg1);border:1px solid var(--border);border-radius:8px;overflow:hidden;display:flex;flex-direction:column}
-.ph{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid var(--border);font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--txt2);flex-shrink:0}
-.ph .badge{font-size:10px;padding:1px 6px;border-radius:3px;background:var(--bg);color:var(--cyan);font-weight:700;letter-spacing:.04em}
-.pb{overflow-y:auto;flex:1}
-
-/* LEFT COL */
-#col-left{display:flex;flex-direction:column;gap:8px;grid-column:1;grid-row:1/3;min-height:0}
-
-/* COUNTS */
-#p-counts .pb{padding:12px;display:flex;flex-direction:column;gap:8px}
-.count-row{display:flex;align-items:center;justify-content:space-between}
-.count-label{font-size:11px;color:var(--txt2);font-family:var(--mono);text-transform:uppercase;letter-spacing:.06em}
-.count-val{font-family:var(--mono);font-size:20px;font-weight:700;line-height:1}
-.cv-high{color:var(--coral)}
-.cv-med{color:var(--amber)}
-.cv-obs{color:var(--cyan)}
-.cv-atoms{color:var(--txt)}
-.count-divider{border:none;border-top:1px solid var(--border);margin:2px 0}
-
-/* SENSOR GROUPS */
-#p-sensors .pb{padding:10px 12px;display:flex;flex-direction:column;gap:6px}
-.sg-row{display:flex;align-items:center;gap:8px}
-.sg-name{font-size:10px;color:var(--txt2);flex:1;font-family:var(--mono);text-transform:uppercase;letter-spacing:.04em}
-.sg-bar-bg{flex:1;height:4px;background:var(--border);border-radius:2px;overflow:hidden}
-.sg-bar{height:100%;border-radius:2px;background:var(--cyan);transition:width .4s}
-.sg-count{font-family:var(--mono);font-size:10px;color:var(--cyan);width:20px;text-align:right;flex-shrink:0}
-
-/* OBSERVATION LANES */
-#p-obs .pb{padding:0}
-.obs-lane{padding:8px 12px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .1s}
-.obs-lane:last-child{border-bottom:none}
-.obs-lane:hover{background:var(--bg3)}
-.obs-lane.active-lane{background:var(--bg3);border-left:3px solid var(--amber)}
-.obs-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:3px}
-.obs-title{font-size:11px;font-weight:500;color:var(--txt);line-height:1.2}
-.obs-hits{font-family:var(--mono);font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px}
-.obs-hit0{background:var(--slate2);color:var(--slate)}
-.obs-hit1{background:var(--cyan2);color:var(--cyan)}
-.obs-hit2{background:var(--amber2);color:var(--amber)}
-.obs-windows{display:flex;gap:4px;flex-wrap:wrap}
-.obs-win{font-family:var(--mono);font-size:9px;padding:1px 5px;border-radius:2px;border:1px solid var(--border);color:var(--txt2)}
-.obs-win.has-hit{border-color:var(--cyan2);color:var(--cyan)}
-
-/* MID COL */
-#col-mid{display:flex;flex-direction:column;gap:8px;grid-column:2;grid-row:1/3;min-height:0}
-
-/* GRAPH PANEL */
-#p-graph{flex-shrink:0}
-#graph-hdr{display:flex;align-items:center;gap:10px;padding:8px 12px;border-bottom:1px solid var(--border)}
-#graph-title{font-family:var(--mono);font-size:11px;font-weight:700;color:var(--txt3);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-#graph-title.empty{color:var(--txt2);font-weight:400;font-style:italic}
-#graph-meta-tags{display:flex;gap:5px;flex-shrink:0}
-.gmeta{font-family:var(--mono);font-size:9px;padding:2px 6px;border-radius:3px;border:1px solid var(--border);color:var(--txt2)}
-.gmeta.emerging{border-color:var(--green2);color:var(--green)}
-.gmeta.mature{border-color:var(--slate2);color:var(--slate)}
-.gmeta.cooling{border-color:var(--coral2);color:var(--coral)}
-
-/* Graph range tabs */
-#graph-range-tabs{display:flex;gap:2px;background:var(--bg);border-radius:3px;padding:2px;flex-shrink:0}
-.rtab{font-family:var(--mono);font-size:9px;font-weight:700;padding:2px 7px;border-radius:2px;border:none;background:transparent;color:var(--txt2);cursor:pointer;transition:all .1s}
-.rtab:hover{color:var(--txt)}
-.rtab.active{background:var(--amber2);color:var(--amber)}
-
-#graph-area{position:relative;height:180px;padding:10px 12px 6px}
-#graph-canvas{width:100%;height:100%;display:block}
-#graph-empty{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:4px;color:var(--txt2);font-size:12px}
-#graph-empty .hint{font-size:10px;color:var(--slate2);font-family:var(--mono)}
-
-#graph-stats{padding:6px 12px 10px;display:flex;gap:18px}
-.gstat{display:flex;flex-direction:column;gap:1px}
-.gstat-lbl{font-size:9px;color:var(--txt2);font-family:var(--mono);text-transform:uppercase;letter-spacing:.06em}
-.gstat-val{font-size:15px;font-weight:700;font-family:var(--mono);color:var(--amber)}
-.gstat-val.up{color:var(--green)}
-.gstat-val.dn{color:var(--coral)}
-.gstat-val.flat{color:var(--slate)}
-
-/* FINDINGS */
-#p-findings{flex:1;min-height:0}
-#bucket-bar{display:flex;gap:3px;padding:7px 12px;border-bottom:1px solid var(--border);background:var(--bg);flex-wrap:wrap;flex-shrink:0}
-.bb{font-family:var(--mono);font-size:9px;font-weight:700;padding:3px 8px;border-radius:3px;border:1px solid var(--border);color:var(--txt2);cursor:pointer;transition:all .1s;display:flex;align-items:center;gap:3px}
-.bb:hover{border-color:var(--border2);color:var(--txt)}
-.bb.active{background:var(--cyan2);border-color:var(--cyan2);color:var(--cyan)}
-.bb .bc{background:rgba(255,255,255,.07);border-radius:2px;padding:0 4px;font-size:8px}
-
-/* Finding card */
-.fc{padding:10px 12px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .1s;border-left:2px solid transparent}
-.fc:last-child{border-bottom:none}
-.fc:hover{background:var(--bg3)}
-.fc.active-fc{background:var(--bg3);border-left-color:var(--amber)}
-.fc.prio-high{border-left-color:var(--coral)}
-.fc.prio-medium{border-left-color:var(--amber)}
-.fc.prio-observe{border-left-color:var(--slate2)}
-.fc-top{display:flex;align-items:flex-start;gap:7px;margin-bottom:4px}
-.fc-score{font-family:var(--mono);font-size:12px;font-weight:700;width:26px;text-align:right;flex-shrink:0;line-height:1.3}
-.fc-score.high{color:var(--coral)}
-.fc-score.medium{color:var(--amber)}
-.fc-score.observe{color:var(--slate)}
-.fc-title{flex:1;font-size:12px;font-weight:500;color:var(--txt3);line-height:1.3}
-.fc-wucht{flex-shrink:0;font-family:var(--mono);font-size:10px;font-weight:700}
-.fc-wucht.up{color:var(--green)}
-.fc-wucht.flat{color:var(--txt2)}
-.fc-wucht.dn{color:var(--coral)}
-.fc-meta{display:flex;gap:4px;flex-wrap:wrap;margin-left:33px;margin-bottom:3px}
-.ftag{font-family:var(--mono);font-size:9px;padding:1px 5px;border-radius:2px;border:1px solid var(--border);color:var(--txt2);white-space:nowrap}
-.ftag.status-emerging{border-color:var(--green2);color:var(--green)}
-.ftag.status-cooling{border-color:var(--coral2);color:var(--coral)}
-.ftag.bucket-security{border-color:var(--coral2);color:var(--coral)}
-.ftag.bucket-market_product{border-color:var(--amber2);color:var(--amber)}
-.ftag.bucket-apac_signal{border-color:var(--cyan2);color:var(--cyan)}
-.ftag.bucket-disaster_recovery{border-color:var(--purple2);color:var(--purple)}
-.ftag.bucket-macro_policy{border-color:var(--slate2);color:var(--slate)}
-.fc-sum{margin-left:33px;font-size:11px;color:var(--txt2);line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-
-/* RIGHT COL */
-#col-right{display:flex;flex-direction:column;gap:8px;grid-column:3;grid-row:1/3;min-height:0}
-
-/* WUCHT RADAR */
-#p-radar .pb{padding:0}
-.radar-row{display:flex;align-items:center;gap:7px;padding:7px 12px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .1s}
-.radar-row:last-child{border-bottom:none}
-.radar-row:hover{background:var(--bg3)}
-.rr-left{flex:1;min-width:0}
-.rr-label{font-size:11px;color:var(--txt);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:500}
-.rr-sub{font-family:var(--mono);font-size:9px;color:var(--txt2);margin-top:1px}
-.rr-right{display:flex;flex-direction:column;align-items:flex-end;gap:1px;flex-shrink:0}
-.rr-wucht{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--amber)}
-.rr-delta{font-family:var(--mono);font-size:9px;font-weight:700}
-.rr-delta.up{color:var(--green)}
-.rr-delta.flat{color:var(--txt2)}
-.rr-delta.dn{color:var(--coral)}
-.rr-status{font-family:var(--mono);font-size:8px;padding:1px 5px;border-radius:2px;text-transform:uppercase;font-weight:700}
-.rr-status.emerging{background:var(--green2);color:var(--green)}
-.rr-status.mature{background:var(--slate2);color:var(--slate)}
-.rr-status.cooling{background:var(--coral2);color:var(--coral)}
-
-/* PRINCIPLES */
-#p-principles .pb{padding:10px 12px;display:flex;flex-direction:column;gap:6px}
-.principle{font-size:10px;color:var(--txt2);padding:5px 8px;border-left:2px solid var(--border2);line-height:1.35;font-style:italic}
-
-/* QUALITY GATE */
-#p-gate .pb{padding:10px 12px;display:flex;flex-direction:column;gap:6px}
-.gate-row{display:flex;align-items:center;justify-content:space-between}
-.gate-name{font-size:10px;color:var(--txt2);font-family:var(--mono)}
-.gate-val{font-family:var(--mono);font-size:11px;font-weight:700;color:var(--amber)}
-
-/* RESPONSIVE */
-@media(max-width:1100px){
-  #layout{grid-template-columns:210px 1fr;grid-template-rows:auto}
-  #col-right{grid-column:1/3;grid-row:3;display:grid;grid-template-columns:1fr 1fr 1fr}
-}
-@media(max-width:720px){
-  #layout{grid-template-columns:1fr}
-  #col-left,#col-mid,#col-right{grid-column:1;grid-row:auto}
-  #col-right{display:flex;flex-direction:column}
-}
+:root{--bg:#0b0f14;--p:#111820;--p2:#161f2a;--b:#1e2d3d;--t:#c8d8e8;--m:#6a7f94;--a:#f0a832;--c:#38bcd4;--g:#3ddc84;--r:#e05c5c;--mono:Consolas,Menlo,monospace;--ui:Inter,Segoe UI,system-ui,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:13px/1.45 var(--ui)}a{color:var(--c);text-decoration:none}a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:2;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:10px 14px;background:var(--p);border-bottom:1px solid var(--b)}
+h1{font:700 14px var(--mono);letter-spacing:.08em;color:var(--a);margin:0}h1 span{color:var(--m);font-weight:400}.meta{margin-left:auto;display:flex;gap:10px;flex-wrap:wrap;color:var(--m);font:11px var(--mono)}
+.badge{border:1px solid var(--b);border-radius:4px;padding:2px 7px}.ok{color:var(--g);border-color:#1a5c38}.bad{color:var(--r);border-color:#6a2020}.warn{color:var(--a);border-color:#7a5215}
+.wrap{display:grid;grid-template-columns:260px 1fr 310px;gap:10px;padding:10px}.panel{background:var(--p);border:1px solid var(--b);border-radius:10px;overflow:hidden}.ph{padding:9px 12px;border-bottom:1px solid var(--b);font:700 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--m);display:flex;justify-content:space-between}.pb{padding:10px 12px}.stack{display:flex;flex-direction:column;gap:10px}
+.tabs{display:flex;gap:4px;flex-wrap:wrap}.tab{cursor:pointer;border:1px solid var(--b);background:#0f151d;color:var(--m);border-radius:4px;padding:3px 8px;font:700 10px var(--mono)}.tab.active{color:var(--a);border-color:#7a5215;background:#23190b}
+.row{display:flex;justify-content:space-between;gap:10px;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}.row:last-child{border-bottom:0}.num{font:700 18px var(--mono)}.high{color:var(--r)}.med{color:var(--a)}.obs{color:var(--c)}
+.card{padding:10px 12px;border-bottom:1px solid var(--b);cursor:pointer}.card:hover{background:var(--p2)}.card:last-child{border-bottom:0}.score{font:700 13px var(--mono);width:32px;text-align:right}.title{font-weight:600;color:#e8f2ff}.summary{color:var(--m);font-size:12px;margin-top:4px}.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.tag{font:10px var(--mono);border:1px solid var(--b);color:var(--m);border-radius:3px;padding:1px 5px}.grid2{display:grid;grid-template-columns:42px 1fr;gap:8px}
+.topic{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:8px 12px;border-bottom:1px solid var(--b);cursor:pointer}.topic:hover{background:var(--p2)}.topic b{font-weight:600}.topic small{display:block;color:var(--m);font:10px var(--mono)}.wucht{font:700 16px var(--mono);color:var(--a);text-align:right}.delta{font:10px var(--mono);text-align:right}.up{color:var(--g)}.dn{color:var(--r)}.flat{color:var(--m)}
+#error{display:none;margin:10px;padding:10px;border:1px solid #6a2020;border-radius:8px;background:rgba(224,92,92,.08);color:var(--r);white-space:pre-wrap;font:11px var(--mono)}
+#detail{min-height:180px;color:var(--m)}canvas{width:100%;height:190px;display:block}.muted{color:var(--m)}code{font-family:var(--mono);color:var(--a)}
+@media(max-width:1000px){.wrap{grid-template-columns:1fr}.meta{margin-left:0}}
 </style>
 </head>
 <body>
-
-<header id="topbar">
-  <div class="wordmark">SENNA <span>INFOFLOW</span></div>
-  <div id="wtabs">
-    <button class="wtab active" data-w="now">NOW</button>
-    <button class="wtab" data-w="30m">30m</button>
-    <button class="wtab" data-w="1h">1h</button>
-    <button class="wtab" data-w="4h">4h</button>
-    <button class="wtab" data-w="8h">8h</button>
-    <button class="wtab" data-w="24h">24h</button>
-    <button class="wtab" data-w="72h">72h</button>
-    <button class="wtab" data-w="168h">168h</button>
-  </div>
-  <div class="tb-meta">
-    <span class="tb-ts" id="tb-ts">—</span>
-    <span class="conf-badge conf-normal" id="tb-conf">—</span>
-    <div class="run-dot-wrap"><div class="run-dot"></div><span id="tb-run">Run —</span></div>
-  </div>
+<header>
+  <h1>SENNA <span>INFOFLOW</span></h1>
+  <div class="tabs" id="tabs"></div>
+  <div class="meta"><span id="ts">—</span><span id="conf" class="badge">—</span><span id="run">Run —</span></div>
 </header>
-
-<div id="layout">
-
-  <!-- LEFT -->
-  <aside id="col-left">
-    <div class="panel" id="p-counts">
-      <div class="ph">Lagebild <span class="badge" id="today-total">—</span></div>
-      <div class="pb" id="counts-body"></div>
-    </div>
-    <div class="panel" id="p-sensors">
-      <div class="ph">Sensor-Gruppen</div>
-      <div class="pb" id="sensors-body"></div>
-    </div>
-    <div class="panel" id="p-obs" style="flex:1;min-height:0">
-      <div class="ph">Beobachtung</div>
-      <div class="pb" id="obs-body"></div>
-    </div>
+<div id="error"></div>
+<div class="wrap">
+  <aside class="stack">
+    <section class="panel"><div class="ph">Lagebild <span id="total">—</span></div><div class="pb" id="counts"></div></section>
+    <section class="panel"><div class="ph">Sensoren</div><div class="pb" id="sensors"></div></section>
+    <section class="panel"><div class="ph">Beobachtung</div><div id="watch"></div></section>
   </aside>
-
-  <!-- MID -->
-  <main id="col-mid">
-    <div class="panel" id="p-graph">
-      <div id="graph-hdr">
-        <div id="graph-title" class="empty">← Signal anklicken</div>
-        <div id="graph-meta-tags"></div>
-        <div id="graph-range-tabs">
-          <button class="rtab" data-r="now">now</button>
-          <button class="rtab" data-r="30m">30m</button>
-          <button class="rtab" data-r="1h">1h</button>
-          <button class="rtab" data-r="4h">4h</button>
-          <button class="rtab active" data-r="8h">8h</button>
-          <button class="rtab" data-r="24h">24h</button>
-          <button class="rtab" data-r="168h">7d</button>
-        </div>
-      </div>
-      <div id="graph-area">
-        <canvas id="graph-canvas" style="display:none"></canvas>
-        <div id="graph-empty">
-          <span>Kein Signal ausgewählt</span>
-          <span class="hint">Klicke auf einen Trend oder Finding</span>
-        </div>
-      </div>
-      <div id="graph-stats" style="display:none"></div>
-    </div>
-
-    <div class="panel" id="p-findings" style="flex:1;min-height:0">
-      <div class="ph">
-        Findings
-        <div id="bucket-bar"></div>
-      </div>
-      <div class="pb" id="findings-body"></div>
-    </div>
+  <main class="stack">
+    <section class="panel"><div class="ph">Signal <span id="signalName">kein Signal</span></div><div class="pb"><canvas id="chart"></canvas><div id="detail">Klicke auf ein Finding oder einen Trend.</div></div></section>
+    <section class="panel"><div class="ph">Findings <span id="findingCount">—</span></div><div id="findings"></div></section>
   </main>
-
-  <!-- RIGHT -->
-  <aside id="col-right">
-    <div class="panel" id="p-radar" style="flex:1;min-height:0">
-      <div class="ph">Trend-Radar <span class="badge" id="radar-window-label">now</span></div>
-      <div class="pb" id="radar-body"></div>
-    </div>
-    <div class="panel" id="p-gate">
-      <div class="ph">Quality Gate</div>
-      <div class="pb" id="gate-body"></div>
-    </div>
-    <div class="panel" id="p-principles">
-      <div class="ph">Prinzipien</div>
-      <div class="pb" id="principles-body"></div>
-    </div>
+  <aside class="stack">
+    <section class="panel"><div class="ph">Trend-Radar <span id="winLabel">now</span></div><div id="radar"></div></section>
+    <section class="panel"><div class="ph">Quality Gate</div><div class="pb" id="gate"></div></section>
+    <section class="panel"><div class="ph">Prinzipien</div><div class="pb" id="principles"></div></section>
   </aside>
-
 </div>
-
 <script>
-/* ══════════════════════════════════════════════════════════════
-   SENNA INFOFLOW — echte Kabel zu latest.json + trends.json
-═══════════════════════════════════════════════════════════════ */
-const LATEST_URL  = 'briefings/latest.json';
-const TRENDS_URL  = 'briefings/trends.json';
-const REFRESH_MS  = 5 * 60 * 1000;
-
-const WINDOW_KEYS = ['now','30m','1h','4h','8h','24h','72h','168h'];
-
-let D = { latest: null, trends: null };
-let S = {
-  window: 'now',
-  graphRange: '8h',
-  activeTopic: null,     // topic_key string
-  activeFinding: null,   // index in current finding list
-  bucket: 'all',
-};
-
-/* ── LOAD ── */
-async function load() {
-  const [lr, tr] = await Promise.allSettled([
-    fetch(LATEST_URL + '?t=' + Date.now()).then(r => r.json()),
-    fetch(TRENDS_URL + '?t=' + Date.now()).then(r => r.json()),
-  ]);
-  if (lr.status === 'fulfilled') D.latest = lr.value;
-  if (tr.status === 'fulfilled') D.trends = tr.value;
-  if (!D.latest) { console.warn('No latest.json, staying blank'); return; }
+const LATEST_URL='https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/latest.json';
+const TRENDS_URL='https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/trends.json';
+const WINDOWS=['now','30m','1h','4h','8h','24h','72h','168h'];
+let D={latest:null,trends:null}, S={window:'now'};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+async function get(url){const r=await fetch(url+'?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw new Error(r.status+' '+r.statusText+' '+url);return r.json()}
+async function load(){
+  $('error').style.display='none';
+  try{D.latest=await get(LATEST_URL)}catch(e){fail('latest.json konnte nicht geladen werden',e);return}
+  try{D.trends=await get(TRENDS_URL)}catch(e){console.warn(e);D.trends=null}
   render();
 }
-
-/* ── MAIN RENDER ── */
-function render() {
-  const L = D.latest;
-  if (!L) return;
-
-  // Topbar
-  document.getElementById('tb-ts').textContent = L.generated_at
-    ? new Date(L.generated_at).toLocaleString('de-DE',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'})
-    : '—';
-  const conf = (L.coverage?.coverage_confidence || '').toLowerCase();
-  const cb = document.getElementById('tb-conf');
-  cb.textContent = conf || '—';
-  cb.className = 'conf-badge conf-' + (conf || 'low');
-  document.getElementById('tb-run').textContent = L.run_id
-    ? 'Run ' + L.run_id.replace('T','/').slice(0,16)
-    : '—';
-
-  renderCounts(L);
-  renderSensors(L);
-  renderObs(L);
-  renderRadar();
-  renderFindings();
-  renderGate(L);
-  renderPrinciples(L);
+function fail(msg,e){$('error').style.display='block';$('error').textContent=msg+'\n'+(e?.message||e)+'\n\nDie index.html lädt absichtlich direkt aus main/briefings/:\n'+LATEST_URL+'\n'+TRENDS_URL}
+function render(){
+  const L=D.latest,c=L.counts||{},cov=L.coverage||{};
+  $('ts').textContent=L.generated_at?new Date(L.generated_at).toLocaleString('de-DE'):'—';
+  $('conf').textContent=cov.coverage_confidence||'—'; $('conf').className='badge '+((cov.coverage_confidence||'').toLowerCase()==='low'?'bad':'ok');
+  $('run').textContent=L.run_id?'Run '+String(L.run_id).replace('T','/').slice(0,16):'Run —';
+  $('total').textContent=c.today_file_total??0;
+  $('counts').innerHTML=[['High',c.high,'high'],['Medium',c.medium,'med'],['Observe',c.observe,'obs'],['Relevant',c.new_relevant_findings,''],['Errors',c.source_errors,(c.source_errors||0)>0?'high':'muted']].map(([k,v,cl])=>`<div class=row><span>${k}</span><b class="num ${cl}">${v??0}</b></div>`).join('');
+  const sg=cov.active_sensor_groups||{}; $('sensors').innerHTML=Object.entries(sg).sort((a,b)=>b[1]-a[1]).map(([k,v])=>`<div class=row><span>${esc(k)}</span><b>${v}</b></div>`).join('')||'<span class=muted>keine Daten</span>';
+  renderWatch(); renderFindings(); renderRadar(); renderGate(); renderPrinciples(); renderTabs();
 }
-
-/* ── COUNTS ── */
-function renderCounts(L) {
-  const c = L.counts || {};
-  const el = document.getElementById('counts-body');
-  document.getElementById('today-total').textContent = c.today_file_total ?? 0;
-  el.innerHTML = `
-    <div class="count-row"><span class="count-label">High</span><span class="count-val cv-high">${c.high ?? 0}</span></div>
-    <div class="count-row"><span class="count-label">Medium</span><span class="count-val cv-med">${c.medium ?? 0}</span></div>
-    <div class="count-row"><span class="count-label">Observe</span><span class="count-val cv-obs">${c.observe ?? 0}</span></div>
-    <hr class="count-divider">
-    <div class="count-row"><span class="count-label">Atoms</span><span class="count-val cv-atoms">${c.today_file_total ?? 0}</span></div>
-    <div class="count-row"><span class="count-label">Relevant</span><span class="count-val cv-atoms">${c.new_relevant_findings ?? 0}</span></div>
-    <div class="count-row"><span class="count-label">Errors</span><span class="count-val" style="color:${(c.source_errors||0)>0?'var(--coral)':'var(--slate)'}">${c.source_errors ?? 0}</span></div>
-  `;
+function renderTabs(){$('tabs').innerHTML=WINDOWS.map(w=>`<button class="tab ${S.window===w?'active':''}" onclick="S.window='${w}';renderRadar();renderTabs()">${w}</button>`).join('')}
+function renderWatch(){
+  const topics=D.latest?.under_observation?.topics||[];
+  $('watch').innerHTML=topics.map((t,i)=>{const wh=t.window_hits||{};const wins=WINDOWS.map(w=>`${w}:${wh[w]?.hit_count||0}`).join(' · ');return `<div class=card onclick='watch(${i})'><div class=title>${esc(t.title)}</div><div class=summary>${wins}</div></div>`}).join('')||'<div class=card><span class=muted>keine Beobachtungslanes</span></div>';
 }
-
-/* ── SENSORS ── */
-function renderSensors(L) {
-  const sg = L.coverage?.active_sensor_groups || {};
-  const el = document.getElementById('sensors-body');
-  const max = Math.max(1, ...Object.values(sg));
-  el.innerHTML = Object.entries(sg).sort((a,b)=>b[1]-a[1]).map(([name, count]) => `
-    <div class="sg-row">
-      <span class="sg-name">${e(name)}</span>
-      <div class="sg-bar-bg"><div class="sg-bar" style="width:${Math.round(count/max*100)}%"></div></div>
-      <span class="sg-count">${count}</span>
-    </div>
-  `).join('');
+function findings(){
+ const s=D.latest?.sections||{};return [...(s.high||[]).map(x=>({...x,p:'high'})),...(s.medium||[]).map(x=>({...x,p:'medium'})),...(s.observe||[]).map(x=>({...x,p:'observe'}))];
 }
-
-/* ── OBSERVATION LANES ── */
-function renderObs(L) {
-  const topics = L.under_observation?.topics || [];
-  const el = document.getElementById('obs-body');
-  el.innerHTML = topics.map((t, i) => {
-    const wh = t.window_hits || {};
-    const now_count = wh['now']?.hit_count || 0;
-    const h24 = wh['24h']?.hit_count || 0;
-    const h1 = wh['1h']?.hit_count || 0;
-    const total_feed = t.current_feed_signal_count || 0;
-
-    const hcls = total_feed > 3 ? 'obs-hit2' : total_feed > 0 ? 'obs-hit1' : 'obs-hit0';
-
-    const winHtml = WINDOW_KEYS.map(wk => {
-      const cnt = wh[wk]?.hit_count || 0;
-      return `<span class="obs-win ${cnt > 0 ? 'has-hit' : ''}">${wk}:${cnt}</span>`;
-    }).join('');
-
-    return `<div class="obs-lane" data-obs-idx="${i}" onclick="selectObs(${i})">
-      <div class="obs-head">
-        <span class="obs-title">${e(t.title)}</span>
-        <span class="obs-hits ${hcls}">${total_feed}</span>
-      </div>
-      <div class="obs-windows">${winHtml}</div>
-    </div>`;
-  }).join('');
+function renderFindings(){
+ const fs=findings();$('findingCount').textContent=fs.length;
+ $('findings').innerHTML=fs.map((f,i)=>`<div class=card onclick='openFinding(${i})'><div class=grid2><b class="score ${f.p==='high'?'high':f.p==='medium'?'med':'obs'}">${f.relevance_score??''}</b><div><div class=title>${f.url?`<a href="${esc(f.url)}" target=_blank rel=noopener>${esc(f.title)}</a>`:esc(f.title)}</div><div class=summary>${esc(f.summary||'')}</div><div class=tags><span class=tag>${esc(f.bucket||f.source_type||'other')}</span><span class=tag>${esc(f.source||'')}</span><span class=tag>${esc(f.risk_or_opportunity||'')}</span></div></div></div></div>`).join('')||'<div class=card><span class=muted>keine Findings</span></div>';
 }
-
-function selectObs(i) {
-  document.querySelectorAll('.obs-lane').forEach((el,j) => el.classList.toggle('active-lane', j===i));
-  const L = D.latest;
-  if (!L) return;
-  const topic = L.under_observation?.topics?.[i];
-  if (!topic) return;
-
-  // Use the best available window topic for graph
-  const wh = topic.window_hits || {};
-  const allWindows = WINDOW_KEYS.map(wk => wh[wk]).filter(Boolean);
-  const allTopics = allWindows.flatMap(w => w.matched_topics || []);
-  const best = allTopics.sort((a,b) => b.trend_score - a.trend_score)[0];
-  if (best) selectTopicKey(best.topic_key, best.topic_label, null);
+function trendList(){
+ if(D.trends?.windows?.[S.window]?.ranked_topics)return D.trends.windows[S.window].ranked_topics;
+ if(D.trends?.ranked_topics)return D.trends.ranked_topics;
+ return (D.latest?.under_observation?.topics||[]).flatMap(t=>Object.values(t.window_hits||{}).flatMap(w=>w.matched_topics||[])).sort((a,b)=>(b.trend_score||0)-(a.trend_score||0));
 }
-
-/* ── RADAR ── */
-function renderRadar() {
-  const L = D.latest;
-  if (!L) return;
-
-  // Pull ranked_topics from trends.json window or from latest.json
-  let topics = [];
-  if (D.trends?.windows?.[S.window]?.ranked_topics) {
-    topics = D.trends.windows[S.window].ranked_topics;
-  } else if (D.trends?.ranked_topics) {
-    topics = D.trends.ranked_topics;
-  } else {
-    // Fall back to window data inside latest.json if trends.json not present
-    const wdata = L.under_observation?.topics?.flatMap(t =>
-      Object.values(t.window_hits||{}).flatMap(w => w.matched_topics||[])
-    ) || [];
-    topics = wdata.sort((a,b) => b.trend_score - a.trend_score).slice(0,20);
-  }
-
-  document.getElementById('radar-window-label').textContent = S.window;
-
-  const el = document.getElementById('radar-body');
-  if (!topics.length) {
-    el.innerHTML = '<div style="padding:16px 12px;color:var(--txt2);font-size:11px">Keine Daten für dieses Fenster</div>';
-    return;
-  }
-
-  el.innerHTML = topics.slice(0,25).map(t => {
-    const wucht = t.trend_wucht ?? t.trend_score ?? 0;
-    const delta = t.score_delta_5m ?? t.acceleration ?? 0;
-    const status = t.status || 'new';
-    const dCls = delta > 0 ? 'up' : delta < 0 ? 'dn' : 'flat';
-    const dTxt = delta > 0 ? `↑+${delta.toFixed(1)}` : delta < 0 ? `↓${delta.toFixed(1)}` : '→';
-    const srcs = (t.sources||[]).slice(0,1).join('');
-
-    return `<div class="radar-row" onclick="selectTopicKey('${e(t.topic_key)}','${e(t.topic_label)}', this)">
-      <div class="rr-left">
-        <div class="rr-label" title="${e(t.topic_label)}">${e(t.topic_label)}</div>
-        <div class="rr-sub">${e(srcs)} · ×${t.mention_count||1} · src:${t.source_count||1}</div>
-      </div>
-      <div class="rr-right">
-        <span class="rr-wucht">${wucht.toFixed(0)}</span>
-        <span class="rr-delta ${dCls}">${dTxt}</span>
-        <span class="rr-status ${status}">${status}</span>
-      </div>
-    </div>`;
-  }).join('');
+function renderRadar(){
+ const ts=trendList();$('winLabel').textContent=S.window;
+ $('radar').innerHTML=ts.slice(0,30).map((t,i)=>{const w=t.trend_wucht??t.trend_score??0,d=t.score_delta_5m??t.acceleration??0,dc=d>0?'up':d<0?'dn':'flat';return `<div class=topic onclick='openTrend(${i})'><div><b>${esc(t.topic_label)}</b><small>${esc((t.sources||[])[0]||'')} · ×${t.mention_count||1} · src:${t.source_count||1}</small></div><div><div class=wucht>${Number(w).toFixed(0)}</div><div class="delta ${dc}">${d>0?'↑':d<0?'↓':'→'}${Math.abs(d).toFixed(1)}</div></div></div>`}).join('')||'<div class=card><span class=muted>keine Trenddaten</span></div>';
 }
-
-/* ── FINDINGS ── */
-function currentFindings() {
-  const L = D.latest;
-  if (!L) return [];
-  const s = L.sections || {};
-  const all = [
-    ...(s.high||[]).map(f=>({...f,_prio:'high'})),
-    ...(s.medium||[]).map(f=>({...f,_prio:'medium'})),
-    ...(s.observe||[]).map(f=>({...f,_prio:'observe'})),
-  ];
-  if (S.bucket === 'all') return all;
-  return all.filter(f => (f.source_type||'') === S.bucket || (f.bucket||'') === S.bucket);
-}
-
-function renderFindings() {
-  const L = D.latest;
-  if (!L) return;
-
-  const s = L.sections || {};
-  const all = [
-    ...(s.high||[]).map(f=>({...f,_prio:'high'})),
-    ...(s.medium||[]).map(f=>({...f,_prio:'medium'})),
-    ...(s.observe||[]).map(f=>({...f,_prio:'observe'})),
-  ];
-
-  // Bucket bar
-  const buckets = {};
-  all.forEach(f => {
-    const b = f.bucket || f.source_type || 'other';
-    buckets[b] = (buckets[b]||0)+1;
-  });
-  const bbEl = document.getElementById('bucket-bar');
-  bbEl.innerHTML = `<button class="bb ${S.bucket==='all'?'active':''}" onclick="setBucket('all')">Alle <span class="bc">${all.length}</span></button>`
-    + Object.entries(buckets).sort((a,b)=>b[1]-a[1]).map(([b,cnt]) =>
-        `<button class="bb ${S.bucket===b?'active':''}" onclick="setBucket('${b}')">${b.replace('_',' ')} <span class="bc">${cnt}</span></button>`
-      ).join('');
-
-  // Filter
-  const filtered = S.bucket === 'all' ? all : all.filter(f => (f.bucket||f.source_type||'other') === S.bucket);
-
-  const el = document.getElementById('findings-body');
-  if (!filtered.length) {
-    el.innerHTML = '<div style="padding:16px 12px;color:var(--txt2);font-size:11px">Keine Findings</div>';
-    return;
-  }
-
-  el.innerHTML = filtered.map((f, i) => {
-    // Try to match trend wucht from trends.json
-    let wucht = null, delta = null, fstatus = null;
-    if (D.trends?.ranked_topics) {
-      const mt = D.trends.ranked_topics.find(t => matchTopic(t, f));
-      if (mt) { wucht = mt.trend_wucht; delta = mt.score_delta_5m; fstatus = mt.status; }
-    }
-    const dCls = delta > 0 ? 'up' : delta < 0 ? 'dn' : 'flat';
-    const dTxt = delta > 0 ? `↑${delta.toFixed(0)}` : delta < 0 ? `↓${Math.abs(delta).toFixed(0)}` : wucht != null ? `⊙${wucht.toFixed(0)}` : '';
-
-    const bucket = f.bucket || f.source_type || 'other';
-    const tags = [
-      bucket !== 'other' ? `<span class="ftag bucket-${bucket}">${bucket.replace('_',' ')}</span>` : '',
-      fstatus ? `<span class="ftag status-${fstatus}">${fstatus}</span>` : '',
-      (f.risk_or_opportunity !== 'observation') ? `<span class="ftag">${f.risk_or_opportunity}</span>` : '',
-      `<span class="ftag">${e(f.source)}</span>`,
-    ].filter(Boolean).join('');
-
-    const isActive = S.activeFinding === i;
-
-    return `<div class="fc prio-${f._prio} ${isActive?'active-fc':''}" onclick="selectFinding(${i})">
-      <div class="fc-top">
-        <div class="fc-score ${f._prio}">${f.relevance_score}</div>
-        <div class="fc-title">${e(f.title)}</div>
-        ${dTxt ? `<div class="fc-wucht ${dCls}">${dTxt}</div>` : ''}
-      </div>
-      <div class="fc-meta">${tags}</div>
-      <div class="fc-sum">${e(f.summary||'')}</div>
-    </div>`;
-  }).join('');
-}
-
-function matchTopic(t, f) {
-  const url = (f.url||'').toLowerCase();
-  const title = (f.title||'').toLowerCase();
-  for (const u of (t.urls||[])) {
-    if (url && url.includes(u.toLowerCase().split('/').pop().slice(0,30))) return true;
-  }
-  const lbl = (t.topic_label||'').toLowerCase();
-  if (title.length > 10 && lbl.length > 10) {
-    const tw = title.split(/\s+/).filter(w=>w.length>5).slice(0,3);
-    return tw.some(w => lbl.includes(w));
-  }
-  return false;
-}
-
-function selectFinding(i) {
-  S.activeFinding = i;
-  const findings = currentFindings();
-  const f = findings[i];
-  if (!f) return;
-  renderFindings();
-
-  // Try to find matching topic
-  let matched = null;
-  const allTopics = [
-    ...(D.trends?.ranked_topics||[]),
-    ...Object.values(D.trends?.windows||{}).flatMap(w => w.ranked_topics||[]),
-  ];
-  matched = allTopics.find(t => matchTopic(t, f));
-  if (matched) selectTopicKey(matched.topic_key, matched.topic_label, null);
-  else drawGraphFromFinding(f);
-}
-
-/* ── TOPIC GRAPH ── */
-function selectTopicKey(key, label, _el) {
-  S.activeTopic = key;
-
-  document.getElementById('graph-title').textContent = label || key;
-  document.getElementById('graph-title').classList.remove('empty');
-
-  drawGraph();
-}
-
-function drawGraphFromFinding(f) {
-  document.getElementById('graph-title').textContent = f.title;
-  document.getElementById('graph-title').classList.remove('empty');
-  document.getElementById('graph-meta-tags').innerHTML = `<span class="gmeta">${f.source_type||''}</span>`;
-
-  // Synthesize from windows data using relevance_score
-  const pts = synthesizePoints(f);
-  if (pts.length) drawOnCanvas(pts, f.relevance_score, 0, f.source_type||'');
-  else showGraphEmpty();
-}
-
-function synthesizePoints(f) {
-  // Try to find this finding's topic across all windows
-  const pts = [];
-  const windowOrder = ['now','30m','1h','4h','8h','24h','72h','168h'];
-  if (!D.trends?.windows) {
-    // No window data: just single point
-    return [{ ts: f.published_at || f.fetched_at, score: f.relevance_score, wucht: f.relevance_score }];
-  }
-  windowOrder.forEach(wk => {
-    const wd = D.trends.windows[wk];
-    if (!wd) return;
-    const topic = (wd.ranked_topics||[]).find(t => matchTopic(t, f));
-    if (topic) pts.push({ ts: topic.timestamp_utc || wd.generated_at, wk, wucht: topic.trend_wucht||0, score: topic.avg_score||f.relevance_score, delta: topic.score_delta_5m||0, status: topic.status });
-  });
-  return pts;
-}
-
-function drawGraph() {
-  if (!S.activeTopic) return;
-  const key = S.activeTopic;
-
-  // Collect points across all windows for this topic_key
-  const pts = [];
-  const wins = D.trends?.windows || {};
-  WINDOW_KEYS.forEach(wk => {
-    const wd = wins[wk];
-    if (!wd) return;
-    const t = (wd.ranked_topics||[]).find(t2 => t2.topic_key === key);
-    if (t) pts.push({
-      ts: t.timestamp_utc || wd.generated_at,
-      wk,
-      wucht: t.trend_wucht || t.trend_score || 0,
-      score: t.avg_score || t.latest_score || 0,
-      delta: t.score_delta_5m ?? t.acceleration ?? 0,
-      status: t.status,
-      srcs: t.source_count || 1,
-      mentions: t.mention_count || 1,
-    });
-  });
-
-  // Also check ranked_topics top level
-  if (!pts.length && D.trends?.ranked_topics) {
-    const t = D.trends.ranked_topics.find(t2 => t2.topic_key === key);
-    if (t) pts.push({ ts: t.timestamp_utc, wk:'now', wucht: t.trend_wucht||0, score: t.avg_score||0, delta: t.score_delta_5m||0, status:t.status, srcs:t.source_count||1, mentions:t.mention_count||1 });
-  }
-
-  if (!pts.length) { showGraphEmpty(); return; }
-
-  const wucht = pts[pts.length-1]?.wucht || 0;
-  const delta = pts[pts.length-1]?.delta || 0;
-  const status = pts[pts.length-1]?.status || 'new';
-  const srcs = pts[pts.length-1]?.srcs || 1;
-  const mentions = pts[pts.length-1]?.mentions || 1;
-
-  // Update meta tags
-  document.getElementById('graph-meta-tags').innerHTML = [
-    `<span class="gmeta ${status}">${status}</span>`,
-    `<span class="gmeta">src:${srcs}</span>`,
-    `<span class="gmeta">×${mentions}</span>`,
-  ].join('');
-
-  // Stats row
-  const dCls = delta > 0 ? 'up' : delta < 0 ? 'dn' : 'flat';
-  const dTxt = delta > 0 ? `+${delta.toFixed(1)}` : delta.toFixed(1);
-  document.getElementById('graph-stats').style.display = 'flex';
-  document.getElementById('graph-stats').innerHTML = `
-    <div class="gstat"><span class="gstat-lbl">Wucht</span><span class="gstat-val">${wucht.toFixed(0)}</span></div>
-    <div class="gstat"><span class="gstat-lbl">Δ5min</span><span class="gstat-val ${dCls}">${dTxt}</span></div>
-    <div class="gstat"><span class="gstat-lbl">Mentions</span><span class="gstat-val">${mentions}</span></div>
-    <div class="gstat"><span class="gstat-lbl">Quellen</span><span class="gstat-val">${srcs}</span></div>
-    <div class="gstat"><span class="gstat-lbl">Status</span><span class="gstat-val">${status}</span></div>
-  `;
-
-  drawOnCanvas(pts, wucht, delta, status);
-}
-
-function drawOnCanvas(pts, wucht, delta, status) {
-  if (!pts.length) { showGraphEmpty(); return; }
-  const canvas = document.getElementById('graph-canvas');
-  const empty  = document.getElementById('graph-empty');
-  canvas.style.display = 'block';
-  empty.style.display = 'none';
-
-  const dpr  = window.devicePixelRatio || 1;
-  const rect = canvas.parentElement.getBoundingClientRect();
-  canvas.width  = rect.width  * dpr;
-  canvas.height = rect.height * dpr;
-  canvas.style.width  = rect.width  + 'px';
-  canvas.style.height = rect.height + 'px';
-
-  const ctx = canvas.getContext('2d');
-  ctx.scale(dpr, dpr);
-  const W = rect.width, H = rect.height;
-  const PAD = { t:8, r:10, b:26, l:30 };
-  const gW = W - PAD.l - PAD.r;
-  const gH = H - PAD.t - PAD.b;
-
-  const scores = pts.map(p => p.wucht || p.score || 0);
-  const minS = Math.min(0, ...scores);
-  const maxS = Math.max(1, ...scores);
-  const yFor = s => PAD.t + (1 - (s - minS) / (maxS - minS)) * gH;
-  const xFor = (i) => PAD.l + (pts.length > 1 ? (i / (pts.length - 1)) * gW : gW/2);
-
-  ctx.clearRect(0, 0, W, H);
-
-  // Grid
-  ctx.strokeStyle = 'rgba(30,45,61,.6)';
-  ctx.lineWidth = 1;
-  for (let i = 0; i <= 3; i++) {
-    const y = PAD.t + (i/3)*gH;
-    ctx.beginPath(); ctx.moveTo(PAD.l, y); ctx.lineTo(W-PAD.r, y); ctx.stroke();
-  }
-
-  // Y labels
-  ctx.fillStyle = 'rgba(106,127,148,.6)';
-  ctx.font = '9px monospace'; ctx.textAlign = 'right';
-  for (let i = 0; i <= 3; i++) {
-    const val = Math.round(maxS - (i/3)*(maxS-minS));
-    ctx.fillText(val, PAD.l-3, PAD.t + (i/3)*gH + 3);
-  }
-
-  // Gradient fill
-  if (pts.length > 1) {
-    const grad = ctx.createLinearGradient(0, PAD.t, 0, PAD.t+gH);
-    grad.addColorStop(0, 'rgba(240,168,50,.28)');
-    grad.addColorStop(1, 'rgba(240,168,50,.02)');
-    ctx.beginPath();
-    ctx.moveTo(xFor(0), yFor(scores[0]));
-    pts.forEach((p,i) => { if(i>0) ctx.lineTo(xFor(i), yFor(scores[i])); });
-    ctx.lineTo(xFor(pts.length-1), PAD.t+gH);
-    ctx.lineTo(xFor(0), PAD.t+gH);
-    ctx.closePath();
-    ctx.fillStyle = grad; ctx.fill();
-  }
-
-  // Line
-  if (pts.length > 1) {
-    ctx.beginPath();
-    ctx.moveTo(xFor(0), yFor(scores[0]));
-    pts.forEach((p,i) => { if(i>0) ctx.lineTo(xFor(i), yFor(scores[i])); });
-    ctx.strokeStyle = '#f0a832'; ctx.lineWidth = 2; ctx.lineJoin = 'round'; ctx.stroke();
-  }
-
-  // Dots
-  pts.forEach((p,i) => {
-    ctx.beginPath();
-    ctx.arc(xFor(i), yFor(scores[i]), 3, 0, Math.PI*2);
-    ctx.fillStyle = (p.srcs||1) >= 2 ? '#3ddc84' : '#f0a832';
-    ctx.fill();
-    ctx.strokeStyle = '#0b0f14'; ctx.lineWidth = 1.5; ctx.stroke();
-  });
-
-  // X labels (window keys)
-  ctx.fillStyle = 'rgba(106,127,148,.55)'; ctx.textAlign = 'center';
-  ctx.font = '9px monospace';
-  pts.forEach((p,i) => {
-    if (i % Math.max(1, Math.floor(pts.length/5)) === 0 || i === pts.length-1) {
-      ctx.fillText(p.wk || '', xFor(i), H-6);
-    }
-  });
-}
-
-function showGraphEmpty() {
-  document.getElementById('graph-canvas').style.display = 'none';
-  document.getElementById('graph-empty').style.display = 'flex';
-  document.getElementById('graph-stats').style.display = 'none';
-}
-
-/* ── GATE ── */
-function renderGate(L) {
-  const q = L.quality_gate || {};
-  const th = q.thresholds || {};
-  const caps = q.single_source_caps || {};
-  const el = document.getElementById('gate-body');
-  el.innerHTML = `
-    <div class="gate-row"><span class="gate-name">HIGH ≥</span><span class="gate-val">${th.high??'—'}</span></div>
-    <div class="gate-row"><span class="gate-name">MEDIUM ≥</span><span class="gate-val">${th.medium??'—'}</span></div>
-    <div class="gate-row"><span class="gate-name">OBSERVE ≥</span><span class="gate-val">${th.observe??'—'}</span></div>
-    ${Object.entries(caps).map(([k,v])=>`<div class="gate-row"><span class="gate-name">${e(k)}</span><span class="gate-val">cap:${v}</span></div>`).join('')}
-  `;
-}
-
-/* ── PRINCIPLES ── */
-function renderPrinciples(L) {
-  const p = (L.coverage?.principles || L.score_debias?.principles || []);
-  const el = document.getElementById('principles-body');
-  el.innerHTML = p.map(t => `<div class="principle">${e(t)}</div>`).join('');
-}
-
-/* ── INTERACTIONS ── */
-document.getElementById('wtabs').addEventListener('click', ev => {
-  const btn = ev.target.closest('.wtab');
-  if (!btn) return;
-  document.querySelectorAll('.wtab').forEach(b=>b.classList.remove('active'));
-  btn.classList.add('active');
-  S.window = btn.dataset.w;
-  renderRadar();
-});
-
-document.getElementById('graph-range-tabs').addEventListener('click', ev => {
-  const btn = ev.target.closest('.rtab');
-  if (!btn) return;
-  document.querySelectorAll('.rtab').forEach(b=>b.classList.remove('active'));
-  btn.classList.add('active');
-  S.graphRange = btn.dataset.r;
-  if (S.activeTopic) drawGraph();
-});
-
-function setBucket(b) {
-  S.bucket = b;
-  S.activeFinding = null;
-  renderFindings();
-}
-
-let resizeTimer;
-window.addEventListener('resize', () => {
-  clearTimeout(resizeTimer);
-  resizeTimer = setTimeout(() => { if (S.activeTopic) drawGraph(); }, 200);
-});
-
-/* ── UTIL ── */
-function e(s) {
-  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-
-/* ── INIT ── */
-load();
-setInterval(load, REFRESH_MS);
+function renderGate(){const q=D.latest?.quality_gate||{},th=q.thresholds||{};$('gate').innerHTML=Object.entries({HIGH:th.high,MEDIUM:th.medium,OBSERVE:th.observe}).map(([k,v])=>`<div class=row><span>${k} ≥</span><b>${v??'—'}</b></div>`).join('')}
+function renderPrinciples(){const p=D.latest?.coverage?.principles||D.latest?.score_debias?.principles||[];$('principles').innerHTML=p.map(x=>`<div class=summary>${esc(x)}</div>`).join('')||'<span class=muted>keine Prinzipien</span>'}
+function watch(i){const t=D.latest?.under_observation?.topics?.[i]; if(!t)return; const arr=WINDOWS.flatMap(w=>t.window_hits?.[w]?.matched_topics||[]).sort((a,b)=>(b.trend_score||0)-(a.trend_score||0)); if(arr[0])showTrend(arr[0]);}
+function openTrend(i){showTrend(trendList()[i])}
+function openFinding(i){const f=findings()[i];$('signalName').textContent=f.title||'Finding';$('detail').innerHTML=`<b>${esc(f.title)}</b><p>${esc(f.summary||'')}</p>${f.url?`<p><a href="${esc(f.url)}" target=_blank rel=noopener>Quelle öffnen</a></p>`:''}`;draw([{x:'now',y:f.relevance_score||0}])}
+function showTrend(t){if(!t)return;$('signalName').textContent=t.topic_label||t.topic_key;const pts=[];const wins=D.trends?.windows||{};WINDOWS.forEach(w=>{const hit=(wins[w]?.ranked_topics||[]).find(x=>x.topic_key===t.topic_key);if(hit)pts.push({x:w,y:hit.trend_wucht??hit.trend_score??0})});if(!pts.length)pts.push({x:S.window,y:t.trend_wucht??t.trend_score??0});$('detail').innerHTML=`<b>${esc(t.topic_label)}</b><p class=muted>Status: ${esc(t.status||'new')} · Mentions: ${t.mention_count||1} · Quellen: ${t.source_count||1}</p>`;draw(pts)}
+function draw(pts){const c=$('chart'),r=c.getBoundingClientRect(),dpr=devicePixelRatio||1;c.width=r.width*dpr;c.height=190*dpr;const x=c.getContext('2d');x.scale(dpr,dpr);x.clearRect(0,0,r.width,190);const vals=pts.map(p=>p.y),max=Math.max(1,...vals),min=Math.min(0,...vals),pad=28,w=r.width-pad*2,h=140,y=v=>15+(1-(v-min)/(max-min))*h,xx=i=>pad+(pts.length>1?i/(pts.length-1)*w:w/2);x.strokeStyle='#1e2d3d';for(let i=0;i<4;i++){let yy=15+i*h/3;x.beginPath();x.moveTo(pad,yy);x.lineTo(r.width-pad,yy);x.stroke()}if(pts.length>1){x.beginPath();x.moveTo(xx(0),y(vals[0]));pts.forEach((p,i)=>i&&x.lineTo(xx(i),y(p.y)));x.strokeStyle='#f0a832';x.lineWidth=2;x.stroke()}pts.forEach((p,i)=>{x.beginPath();x.arc(xx(i),y(p.y),3,0,7);x.fillStyle='#3ddc84';x.fill();x.fillStyle='#6a7f94';x.font='10px Consolas';x.textAlign='center';x.fillText(p.x,xx(i),180)})}
+load();setInterval(load,300000);
 </script>
 </body>
 </html>
