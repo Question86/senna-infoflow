@@ -50,6 +50,7 @@ jobs:
           include_macro = event_name == "workflow_dispatch" or minute % 15 == 0
 
           overlay_paths = [
+              Path("config/official_direct_sources.yaml"),
               Path("config/hot_sources.yaml"),
               Path("config/strategic_sources.yaml"),
           ]
@@ -98,6 +99,10 @@ jobs:
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 12
         run: python scripts/run_monitor_hardened.py
+
+      - name: Filter stale findings
+        timeout-minutes: 1
+        run: python scripts/stale_filter_postprocess.py
 
       - name: Debias finding scores
         timeout-minutes: 1
