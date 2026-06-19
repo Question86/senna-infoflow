@@ -1,0 +1,71 @@
+# False-positive and quality-gate memory for senna-infoflow.
+#
+# This file is intentionally human-editable. It is the feed's Gegengedächtnis:
+# whenever the monitor learns that a class of matches was misleading, add it here
+# instead of letting the same elegant mistake repeat forever.
+
+schema_version: 1
+
+principles:
+  - "Scoring is not truth."
+  - "Candidate detection is not relevance."
+  - "Surviving sources are not a representative world picture."
+  - "Single-source proxy signals must stay visibly provisional."
+
+quality_gate:
+  thresholds:
+    high: 24
+    medium: 14
+    observe: 3
+  coverage_warning:
+    show_if_source_errors_gte: 1
+    show_if_source_errors_exceed_findings: true
+    critical_sensor_groups:
+      - social
+      - prediction_markets
+      - macro_finance
+      - public_health
+      - disaster_humanitarian
+      - security
+  single_source_caps:
+    single_platform_github: 10
+    market_odds_proxy: 10
+    vendor_self_feed: 9
+    raw_disaster_signal: 10
+
+false_positives:
+  - id: who_public_health_acronym
+    status: active
+    problem: "'WHO' matched as World Health Organization when the text says 'who will/who is/...'."
+    action:
+      remove_module: public_health_biosecurity
+      remove_keyword: WHO
+      score_penalty: 3
+
+  - id: github_keyword_leakage
+    status: active
+    problem: "'GitHub' counted as a relevance keyword on non-GitHub sources."
+    action:
+      remove_keyword: GitHub
+      score_penalty: 2
+
+  - id: green_disaster_alert_raw_only
+    status: active
+    problem: "Green official disaster alerts are real but should not rank as strategic news without severity/escalation."
+    action:
+      signal_class: raw_disaster_signal
+      cap_score: 10
+
+  - id: single_github_repo_raw_dev_signal
+    status: active
+    problem: "A single fresh GitHub repository is a dev-radar item, not broad news by itself."
+    action:
+      signal_class: raw_dev_signal
+      cap_score: 10
+
+  - id: prediction_market_proxy_raw_only
+    status: active
+    problem: "Odds pages measure market/betting attention, not political or strategic importance by themselves."
+    action:
+      signal_class: market_odds_proxy
+      cap_score: 10
