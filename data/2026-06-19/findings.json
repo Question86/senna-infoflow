@@ -1459,6 +1459,28 @@
     "id": "4a35178d32323d6dbf68"
   },
   {
+    "title": "Kilo-Org/kilocode",
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt The open source coding agent for building with AI in VS Code, JetBrains,…",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub Trending",
+      "Open Source"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2246c42569e51fd9deaa"
+  },
+  {
     "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
     "url": "https://www.is.fi/ulkomaat/art-2000012090584.html",
     "source": "GDELT Politics Unrest Elections RSS",
@@ -1973,6 +1995,27 @@
     "id": "30220e89e43d8c8fb66b"
   },
   {
+    "title": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+    "url": "http://news.china.com.cn/2026-06/19/content_118556675.shtml",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:15:00+00:00",
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "31b348db0ca8d22ff034"
+  },
+  {
     "title": "jonathan david",
     "url": "https://trends.google.com/trending/rss?geo=TH",
     "source": "Google Trends Thailand Hot Feed",
@@ -2034,6 +2077,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2a18aafb97eb09e0ecb6"
+  },
+  {
+    "title": "zai-org/GLM-5",
+    "url": "https://github.com/zai-org/GLM-5",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "GLM-5: From Vibe Coding to Agentic Engineering GLM-5.2 & GLM-5.1 & GLM-5 👋 Join our Wechat or Discord community. 📖 Check out the GLM-5.2 blog and GLM-5 Technical report . 📍 Use GLM-5.2 API services on Z.ai API Platform. 🔜 Try GLM-5.2 at z.ai . Introduction GLM-5.2 GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GLM-5.1 and, f…",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b544f7323e8d5a290166"
+  },
+  {
+    "title": "withastro/flue",
+    "url": "https://github.com/withastro/flue",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "The sandbox agent framework. Flue — The Agent Harness Framework Not another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness. // agents/triage.ts import { createAgent, type AgentRouteHandler } from '@flue/runtime'; import { local } from '@flue/runtime/node'; import triage from '../skills/triage/SKILL.md' with { type: 'skill' }; import verify from '../skills/verify/SK…",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub Trending"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d1cbcd2e5c3a34d88878"
   },
   {
     "title": "obra/superpowers",
@@ -2344,6 +2429,27 @@
     "id": "eb0fd52d3c3a998520c2"
   },
   {
+    "title": "東急「車内コンセントでモバイルバッテリー充電しないで」 注意喚起を更新",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news080.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:24:56+00:00",
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "東急電鉄は6月18日、車内でのモバイルバッテリー使用に関する注意喚起を更新し、車両内の電源コンセントを使ったモバイルバッテリーへの充電も控えるよう求めた。 東急は、一部の車両の有料座席指定サービス「Q SEAT」に電源コンセントを設置している。 同社は6月15日、「モバイルバッテリーによる充電中の発火が発生し...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2a5a9cdb4f50ed469ba1"
+  },
+  {
     "title": "【Martin Fowler氏 来日】ソフトウェア設計の世界的権威が登壇 、「アーキテクチャConference 2026」スポンサー募集を開始",
     "url": "https://prtimes.jp/main/html/rd/p/000000246.000045379.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -2363,6 +2469,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "46ab08fb32d9f7cfc049"
+  },
+  {
+    "title": "開車硬要插隊進好市多 新竹碩士男撞傷義交 - 新竹縣",
+    "url": "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5477206",
+    "source": "GDELT Initial Disruption Resonance RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-19T01:15:00+00:00",
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "開車硬要插隊進好市多 新竹碩士男撞傷義交 - 新竹縣",
+    "matched_keywords": [
+      "GDELT",
+      "resonance"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0b94bb7e211b1c8c0a0e"
   },
   {
     "title": "Prakiraan Cuaca Kota Semarang Hari Ini Jumat 19 Juni 2026 : Cerah",
@@ -2806,6 +2933,27 @@
     "id": "6c010164cf5cc040aeaf"
   },
   {
+    "title": "yifanfeng97/Hyper-Extract",
+    "url": "https://github.com/yifanfeng97/Hyper-Extract",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. Smart Knowledge Extraction CLI Transform documents into structured knowledge with one command. 📖 English Version · 中文版 \"Stop reading. Start understanding.\" \"告别文档焦虑，让信息一目了然\" Hyper-Extract is an intelligent, LLM-powered knowledge extraction and evolution framework. It radically simp…",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub Trending"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "793888e99fb1d4a91e7d"
+  },
+  {
     "title": "yairm210/Unciv",
     "url": "https://github.com/yairm210/Unciv",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -2846,6 +2994,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e1a6b18088f3b11c4968"
+  },
+  {
+    "title": "makeplane/plane",
+    "url": "https://github.com/makeplane/plane",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. Modern project management for all teams Website • Forum • X • Documentation Meet Plane , an open-source project management tool to track issues, run ~sprints~ cycles, and manage product roadmaps without the chaos of managing the tool itself. 🧘‍♀️ Plane is evolving e…",
+    "matched_keywords": [
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Webentwicklung (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "100c69b06d9559e8e171"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. ASP.NET Core ASP.NET Core is an open-source and cross-platform framework for building modern cloud-based internet-connected applications, such as web apps, IoT apps, and mobile backends. ASP.NET Core apps run on .NET , a free, cross-platform, and open-source application runtime. It was architec…",
+    "matched_keywords": [
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Webentwicklung (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4a61fe58674e889ea9e2"
   },
   {
     "title": "Menteri ESDM Bahlil Singgung Penurunan Kualitas Batu Bara , Janji tak Ada Pemadaman Listrik",
@@ -3325,6 +3515,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "77fef285ffd14964a82c"
+  },
+  {
+    "title": "owainlewis/awesome-artificial-intelligence",
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-19T02:30:47+00:00",
+    "summary": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. Awesome Artificial Intelligence A curated collection of must-use, actively maintained resources for building and shipping AI systems. Focus: AI engineering (RAG, agents, evals, guardrails, deploy) plus the best books, guides, papers, and a carefully selected set of tools. 📚 Learn Deep, durable knowledge — still valuable five ye…",
+    "matched_keywords": [
+      "AI/KI",
+      "Content-Chance",
+      "GitHub Trending"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote awesome (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "daeea086eb8b046f856a"
   },
   {
     "title": "How network aggregators can thrive in a disconnected world",

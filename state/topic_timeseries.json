@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19T02:26:09Z",
+  "generated_at": "2026-06-19T02:33:15Z",
   "topics": {
     "title:introducing-lifescibench": {
       "topic_key": "title:introducing-lifescibench",
@@ -3046,9 +3046,9 @@
     },
     "title:unknown": {
       "topic_key": "title:unknown",
-      "topic_label": "リコーおよびコニカミノルタジャパン製プリンタドライバーにおける権限昇格の脆弱性",
-      "last_seen_at": "2026-06-19T01:58:32Z",
-      "last_trend_wucht": 28.0,
+      "topic_label": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 11.0,
       "samples": [
         {
           "sample_id": "2026-06-18T14-33-45Z:title:unknown",
@@ -3126,6 +3126,29 @@
             "http://www.shikoku-np.co.jp/national/main/20260619000180",
             "https://www.jomo-news.co.jp/articles/-/961447",
             "https://www.jiji.com/jc/article?k=2026061601173&g=cyr"
+          ]
+        },
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:unknown",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:unknown",
+          "topic_label": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+          "network_score": 7.0,
+          "mention_count": 3,
+          "source_count": 2,
+          "sources": [
+            "GDELT Initial Disruption Resonance RSS",
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "score_delta_5m": -5.0,
+          "trend_wucht": 11.0,
+          "status": "mature",
+          "urls": [
+            "http://news.china.com.cn/2026-06/19/content_118556675.shtml",
+            "https://www.itmedia.co.jp/news/articles/2606/19/news080.html",
+            "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5477206"
           ]
         }
       ]
@@ -12704,6 +12727,202 @@
           "status": "emerging",
           "urls": [
             "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie"
+          ]
+        }
+      ]
+    },
+    "title:kilo-org-kilocode": {
+      "topic_key": "title:kilo-org-kilocode",
+      "topic_label": "Kilo-Org/kilocode",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 12.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:kilo-org-kilocode",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:kilo-org-kilocode",
+          "topic_label": "Kilo-Org/kilocode",
+          "network_score": 10.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 10.0,
+          "trend_wucht": 12.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/Kilo-Org/kilocode"
+          ]
+        }
+      ]
+    },
+    "title:zai-org-glm-5": {
+      "topic_key": "title:zai-org-glm-5",
+      "topic_label": "zai-org/GLM-5",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:zai-org-glm-5",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:zai-org-glm-5",
+          "topic_label": "zai-org/GLM-5",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/zai-org/GLM-5"
+          ]
+        }
+      ]
+    },
+    "title:withastro-flue": {
+      "topic_key": "title:withastro-flue",
+      "topic_label": "withastro/flue",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 9.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:withastro-flue",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:withastro-flue",
+          "topic_label": "withastro/flue",
+          "network_score": 7.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 7.0,
+          "trend_wucht": 9.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/withastro/flue"
+          ]
+        }
+      ]
+    },
+    "title:yifanfeng97-hyper-extract": {
+      "topic_key": "title:yifanfeng97-hyper-extract",
+      "topic_label": "yifanfeng97/Hyper-Extract",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:yifanfeng97-hyper-extract",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:yifanfeng97-hyper-extract",
+          "topic_label": "yifanfeng97/Hyper-Extract",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/yifanfeng97/Hyper-Extract"
+          ]
+        }
+      ]
+    },
+    "title:makeplane-plane": {
+      "topic_key": "title:makeplane-plane",
+      "topic_label": "makeplane/plane",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:makeplane-plane",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:makeplane-plane",
+          "topic_label": "makeplane/plane",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/makeplane/plane"
+          ]
+        }
+      ]
+    },
+    "title:dotnet-aspnetcore": {
+      "topic_key": "title:dotnet-aspnetcore",
+      "topic_label": "dotnet/aspnetcore",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 7.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:dotnet-aspnetcore",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:dotnet-aspnetcore",
+          "topic_label": "dotnet/aspnetcore",
+          "network_score": 5.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 5.0,
+          "trend_wucht": 7.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/dotnet/aspnetcore"
+          ]
+        }
+      ]
+    },
+    "title:owainlewis-awesome-artificial-intelligence": {
+      "topic_key": "title:owainlewis-awesome-artificial-intelligence",
+      "topic_label": "owainlewis/awesome-artificial-intelligence",
+      "last_seen_at": "2026-06-19T02:33:15Z",
+      "last_trend_wucht": 6.0,
+      "samples": [
+        {
+          "sample_id": "2026-06-19T02-33-15Z:title:owainlewis-awesome-artificial-intelligence",
+          "sample_index": 5939454,
+          "timestamp_utc": "2026-06-19T02:33:15Z",
+          "run_id": "2026-06-19T02-33-15Z",
+          "topic_key": "title:owainlewis-awesome-artificial-intelligence",
+          "topic_label": "owainlewis/awesome-artificial-intelligence",
+          "network_score": 4.0,
+          "mention_count": 1,
+          "source_count": 1,
+          "sources": [
+            "GitHub Trending RSS All Languages Daily"
+          ],
+          "score_delta_5m": 4.0,
+          "trend_wucht": 6.0,
+          "status": "emerging",
+          "urls": [
+            "https://github.com/owainlewis/awesome-artificial-intelligence"
           ]
         }
       ]

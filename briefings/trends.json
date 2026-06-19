@@ -1,47 +1,170 @@
 {
   "schema_version": 1,
   "doc_type": "senna.trend_ranking",
-  "run_id": "2026-06-19T02-26-09Z",
-  "generated_at": "2026-06-19T02:26:09Z",
+  "run_id": "2026-06-19T02-33-15Z",
+  "generated_at": "2026-06-19T02:33:15Z",
   "ranked_topics": [
     {
-      "sample_id": "2026-06-19T02-26-09Z:title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
-      "sample_index": 5939453,
-      "timestamp_utc": "2026-06-19T02:26:09Z",
-      "run_id": "2026-06-19T02-26-09Z",
-      "topic_key": "title:snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
-      "topic_label": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
+      "sample_id": "2026-06-19T02-33-15Z:title:kilo-org-kilocode",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:kilo-org-kilocode",
+      "topic_label": "Kilo-Org/kilocode",
       "network_score": 10.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "GitHub Trending RSS All Languages Daily"
       ],
       "score_delta_5m": 10.0,
       "trend_wucht": 12.0,
       "status": "emerging",
       "urls": [
-        "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win"
+        "https://github.com/Kilo-Org/kilocode"
       ]
     },
     {
-      "sample_id": "2026-06-19T02-26-09Z:title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
-      "sample_index": 5939453,
-      "timestamp_utc": "2026-06-19T02:26:09Z",
-      "run_id": "2026-06-19T02-26-09Z",
-      "topic_key": "title:cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
-      "topic_label": "Cuba presenteert lijst maatregelen voor hervormen economie",
-      "network_score": 10.0,
+      "sample_id": "2026-06-19T02-33-15Z:title:unknown",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:unknown",
+      "topic_label": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+      "network_score": 7.0,
+      "mention_count": 3,
+      "source_count": 2,
+      "sources": [
+        "GDELT Initial Disruption Resonance RSS",
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "score_delta_5m": -5.0,
+      "trend_wucht": 11.0,
+      "status": "mature",
+      "urls": [
+        "http://news.china.com.cn/2026-06/19/content_118556675.shtml",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news080.html",
+        "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5477206"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-33-15Z:title:zai-org-glm-5",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:zai-org-glm-5",
+      "topic_label": "zai-org/GLM-5",
+      "network_score": 7.0,
       "mention_count": 1,
       "source_count": 1,
       "sources": [
-        "GDELT Politics Unrest Elections RSS"
+        "GitHub Trending RSS All Languages Daily"
       ],
-      "score_delta_5m": 10.0,
-      "trend_wucht": 12.0,
+      "score_delta_5m": 7.0,
+      "trend_wucht": 9.0,
       "status": "emerging",
       "urls": [
-        "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie"
+        "https://github.com/zai-org/GLM-5"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-33-15Z:title:withastro-flue",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:withastro-flue",
+      "topic_label": "withastro/flue",
+      "network_score": 7.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "score_delta_5m": 7.0,
+      "trend_wucht": 9.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/withastro/flue"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-33-15Z:title:yifanfeng97-hyper-extract",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:yifanfeng97-hyper-extract",
+      "topic_label": "yifanfeng97/Hyper-Extract",
+      "network_score": 5.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "score_delta_5m": 5.0,
+      "trend_wucht": 7.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/yifanfeng97/Hyper-Extract"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-33-15Z:title:makeplane-plane",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:makeplane-plane",
+      "topic_label": "makeplane/plane",
+      "network_score": 5.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "score_delta_5m": 5.0,
+      "trend_wucht": 7.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/makeplane/plane"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-33-15Z:title:dotnet-aspnetcore",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:dotnet-aspnetcore",
+      "topic_label": "dotnet/aspnetcore",
+      "network_score": 5.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "score_delta_5m": 5.0,
+      "trend_wucht": 7.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/dotnet/aspnetcore"
+      ]
+    },
+    {
+      "sample_id": "2026-06-19T02-33-15Z:title:owainlewis-awesome-artificial-intelligence",
+      "sample_index": 5939454,
+      "timestamp_utc": "2026-06-19T02:33:15Z",
+      "run_id": "2026-06-19T02-33-15Z",
+      "topic_key": "title:owainlewis-awesome-artificial-intelligence",
+      "topic_label": "owainlewis/awesome-artificial-intelligence",
+      "network_score": 4.0,
+      "mention_count": 1,
+      "source_count": 1,
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "score_delta_5m": 4.0,
+      "trend_wucht": 6.0,
+      "status": "emerging",
+      "urls": [
+        "https://github.com/owainlewis/awesome-artificial-intelligence"
       ]
     }
   ]

@@ -2,10 +2,10 @@
   "counts": {
     "high": 0,
     "medium": 0,
-    "new_relevant_findings": 2,
-    "observe": 2,
+    "new_relevant_findings": 10,
+    "observe": 10,
     "source_errors": 7,
-    "today_file_total": 126
+    "today_file_total": 136
   },
   "coverage": {
     "active_sensor_groups": {
@@ -17,10 +17,10 @@
       "social": 1
     },
     "counts": {
-      "findings": 2,
+      "findings": 10,
       "high": 0,
       "medium": 0,
-      "observe": 2,
+      "observe": 10,
       "source_errors": 7
     },
     "coverage_confidence": "low",
@@ -29,7 +29,7 @@
       "security": 1,
       "social": 1
     },
-    "generated_at": "2026-06-19T02:26:10Z",
+    "generated_at": "2026-06-19T02:33:16Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -39,7 +39,6 @@
     "scope": "configured_public_sources_only",
     "warnings": [
       "source_errors_present",
-      "source_errors_exceed_findings",
       "critical_sensor_group_failed:social",
       "critical_sensor_group_failed:security"
     ]
@@ -47,112 +46,232 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T02:23:48+00:00",
-      "id": "de25a326cbd4e3267b98",
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "2246c42569e51fd9deaa",
+      "market_context": [],
       "matched_keywords": [
-        "election",
-        "GDELT",
-        "unrest",
-        "Watchgraph:elections_unrest"
+        "AI Agents",
+        "GitHub Trending",
+        "Open Source"
       ],
-      "published_at": "2026-06-19T00:45:00+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+      "published_at": null,
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); GitHub Trending (+2.0)",
       "relevance_score": 10,
-      "risk_or_opportunity": "observation",
-      "source": "GDELT Politics Unrest Elections RSS",
-      "source_bias_class": "normal",
+      "risk_or_opportunity": "opportunity",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
       "source_type": "rss",
-      "summary": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
-      "title": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
-      "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "watchgraph_reasons": [
-        "elections_unrest: election"
-      ]
+      "summary": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt The open source coding agent for building with AI in VS Code, JetBrains,…",
+      "title": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T02:23:48+00:00",
-      "id": "c22376e5b2f8bb680625",
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "31b348db0ca8d22ff034",
+      "market_context": [],
       "matched_keywords": [
-        "election",
         "GDELT",
-        "unrest",
-        "Watchgraph:elections_unrest"
+        "resonance"
       ],
-      "published_at": "2026-06-19T00:45:00+00:00",
+      "published_at": "2026-06-19T01:15:00+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
-      "relevance_score": 10,
+      "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 7,
       "risk_or_opportunity": "observation",
-      "source": "GDELT Politics Unrest Elections RSS",
+      "source": "GDELT Initial Disruption Resonance RSS",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "Cuba presenteert lijst maatregelen voor hervormen economie",
-      "title": "Cuba presenteert lijst maatregelen voor hervormen economie",
-      "url": "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
-      "watchgraph_modules": [
-        "elections_unrest"
+      "summary": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+      "title": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+      "url": "http://news.china.com.cn/2026-06/19/content_118556675.shtml",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "b544f7323e8d5a290166",
+      "market_context": [],
+      "matched_keywords": [
+        "AI Agents",
+        "GitHub Trending"
       ],
-      "watchgraph_reasons": [
-        "elections_unrest: election"
-      ]
+      "published_at": null,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+      "relevance_score": 7,
+      "risk_or_opportunity": "observation",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
+      "source_type": "rss",
+      "summary": "GLM-5: From Vibe Coding to Agentic Engineering GLM-5.2 & GLM-5.1 & GLM-5 👋 Join our Wechat or Discord community. 📖 Check out the GLM-5.2 blog and GLM-5 Technical report . 📍 Use GLM-5.2 API services on Z.ai API Platform. 🔜 Try GLM-5.2 at z.ai . Introduction GLM-5.2 GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GLM-5.1 and, f…",
+      "title": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "d1cbcd2e5c3a34d88878",
+      "market_context": [],
+      "matched_keywords": [
+        "AI Agents",
+        "GitHub Trending"
+      ],
+      "published_at": null,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+      "relevance_score": 7,
+      "risk_or_opportunity": "observation",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
+      "source_type": "rss",
+      "summary": "The sandbox agent framework. Flue — The Agent Harness Framework Not another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness. // agents/triage.ts import { createAgent, type AgentRouteHandler } from '@flue/runtime'; import { local } from '@flue/runtime/node'; import triage from '../skills/triage/SKILL.md' with { type: 'skill' }; import verify from '../skills/verify/SK…",
+      "title": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "2a5a9cdb4f50ed469ba1",
+      "market_context": [],
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "published_at": "2026-06-19T01:24:56+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "risk_or_opportunity": "observation",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "東急電鉄は6月18日、車内でのモバイルバッテリー使用に関する注意喚起を更新し、車両内の電源コンセントを使ったモバイルバッテリーへの充電も控えるよう求めた。 東急は、一部の車両の有料座席指定サービス「Q SEAT」に電源コンセントを設置している。 同社は6月15日、「モバイルバッテリーによる充電中の発火が発生し...",
+      "title": "東急「車内コンセントでモバイルバッテリー充電しないで」 注意喚起を更新",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news080.html",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "0b94bb7e211b1c8c0a0e",
+      "market_context": [],
+      "matched_keywords": [
+        "GDELT",
+        "resonance"
+      ],
+      "published_at": "2026-06-19T01:15:00+00:00",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "risk_or_opportunity": "observation",
+      "source": "GDELT Initial Disruption Resonance RSS",
+      "source_bias_class": "normal",
+      "source_type": "rss",
+      "summary": "開車硬要插隊進好市多 新竹碩士男撞傷義交 - 新竹縣",
+      "title": "開車硬要插隊進好市多 新竹碩士男撞傷義交 - 新竹縣",
+      "url": "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5477206",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "793888e99fb1d4a91e7d",
+      "market_context": [],
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub Trending"
+      ],
+      "published_at": null,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "AI/KI (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 5,
+      "risk_or_opportunity": "observation",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
+      "source_type": "rss",
+      "summary": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. Smart Knowledge Extraction CLI Transform documents into structured knowledge with one command. 📖 English Version · 中文版 \"Stop reading. Start understanding.\" \"告别文档焦虑，让信息一目了然\" Hyper-Extract is an intelligent, LLM-powered knowledge extraction and evolution framework. It radically simp…",
+      "title": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "100c69b06d9559e8e171",
+      "market_context": [],
+      "matched_keywords": [
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "published_at": null,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Webentwicklung (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 5,
+      "risk_or_opportunity": "observation",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
+      "source_type": "rss",
+      "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. Modern project management for all teams Website • Forum • X • Documentation Meet Plane , an open-source project management tool to track issues, run ~sprints~ cycles, and manage product roadmaps without the chaos of managing the tool itself. 🧘‍♀️ Plane is evolving e…",
+      "title": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "4a61fe58674e889ea9e2",
+      "market_context": [],
+      "matched_keywords": [
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "published_at": null,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Webentwicklung (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 5,
+      "risk_or_opportunity": "observation",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
+      "source_type": "rss",
+      "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. ASP.NET Core ASP.NET Core is an open-source and cross-platform framework for building modern cloud-based internet-connected applications, such as web apps, IoT apps, and mobile backends. ASP.NET Core apps run on .NET , a free, cross-platform, and open-source application runtime. It was architec…",
+      "title": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
+    },
+    {
+      "fetched_at": "2026-06-19T02:30:47+00:00",
+      "id": "daeea086eb8b046f856a",
+      "market_context": [],
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "GitHub Trending"
+      ],
+      "published_at": null,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote awesome (x0.45)",
+      "relevance_score": 4,
+      "risk_or_opportunity": "observation",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_bias_class": "github",
+      "source_type": "rss",
+      "summary": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. Awesome Artificial Intelligence A curated collection of must-use, actively maintained resources for building and shipping AI systems. Focus: AI engineering (RAG, agents, evals, guardrails, deploy) plus the best books, guides, papers, and a carefully selected set of tools. 📚 Learn Deep, durable knowledge — still valuable five ye…",
+      "title": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T02:26:09+00:00",
+  "generated_at": "2026-06-19T02:33:15+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T02:26:10Z",
+    "generated_at": "2026-06-19T02:33:16Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -182,106 +301,226 @@
     "medium": [],
     "observe": [
       {
-        "fetched_at": "2026-06-19T02:23:48+00:00",
-        "id": "de25a326cbd4e3267b98",
-        "market_context": [
-          "LMT",
-          "RTX",
-          "NOC",
-          "GD",
-          "RHM.DE",
-          "BA",
-          "META",
-          "GOOGL",
-          "MSFT",
-          "RDDT",
-          "SNAP",
-          "PINS",
-          "SPY",
-          "QQQ",
-          "DAX",
-          "EWU",
-          "INDA",
-          "EWJ",
-          "EWY",
-          "EWA",
-          "EWC",
-          "EWZ"
-        ],
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "2246c42569e51fd9deaa",
+        "market_context": [],
         "matched_keywords": [
-          "election",
-          "GDELT",
-          "unrest",
-          "Watchgraph:elections_unrest"
+          "AI Agents",
+          "GitHub Trending",
+          "Open Source"
         ],
-        "published_at": "2026-06-19T00:45:00+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+        "published_at": null,
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); GitHub Trending (+2.0)",
         "relevance_score": 10,
-        "risk_or_opportunity": "observation",
-        "source": "GDELT Politics Unrest Elections RSS",
-        "source_bias_class": "normal",
+        "risk_or_opportunity": "opportunity",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
         "source_type": "rss",
-        "summary": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
-        "title": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
-        "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
-        "watchgraph_modules": [
-          "elections_unrest"
-        ],
-        "watchgraph_reasons": [
-          "elections_unrest: election"
-        ]
+        "summary": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt The open source coding agent for building with AI in VS Code, JetBrains,…",
+        "title": "Kilo-Org/kilocode",
+        "url": "https://github.com/Kilo-Org/kilocode",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T02:23:48+00:00",
-        "id": "c22376e5b2f8bb680625",
-        "market_context": [
-          "LMT",
-          "RTX",
-          "NOC",
-          "GD",
-          "RHM.DE",
-          "BA",
-          "META",
-          "GOOGL",
-          "MSFT",
-          "RDDT",
-          "SNAP",
-          "PINS",
-          "SPY",
-          "QQQ",
-          "DAX",
-          "EWU",
-          "INDA",
-          "EWJ",
-          "EWY",
-          "EWA",
-          "EWC",
-          "EWZ"
-        ],
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "31b348db0ca8d22ff034",
+        "market_context": [],
         "matched_keywords": [
-          "election",
           "GDELT",
-          "unrest",
-          "Watchgraph:elections_unrest"
+          "resonance"
         ],
-        "published_at": "2026-06-19T00:45:00+00:00",
+        "published_at": "2026-06-19T01:15:00+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "election (+2.0); unrest (+2.0); GDELT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
-        "relevance_score": 10,
+        "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "relevance_score": 7,
         "risk_or_opportunity": "observation",
-        "source": "GDELT Politics Unrest Elections RSS",
+        "source": "GDELT Initial Disruption Resonance RSS",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "Cuba presenteert lijst maatregelen voor hervormen economie",
-        "title": "Cuba presenteert lijst maatregelen voor hervormen economie",
-        "url": "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie",
-        "watchgraph_modules": [
-          "elections_unrest"
+        "summary": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+        "title": "北京启动全市防汛四级应急响应 已发布多重蓝色预警",
+        "url": "http://news.china.com.cn/2026-06/19/content_118556675.shtml",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "b544f7323e8d5a290166",
+        "market_context": [],
+        "matched_keywords": [
+          "AI Agents",
+          "GitHub Trending"
         ],
-        "watchgraph_reasons": [
-          "elections_unrest: election"
-        ]
+        "published_at": null,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+        "relevance_score": 7,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "GLM-5: From Vibe Coding to Agentic Engineering GLM-5.2 & GLM-5.1 & GLM-5 👋 Join our Wechat or Discord community. 📖 Check out the GLM-5.2 blog and GLM-5 Technical report . 📍 Use GLM-5.2 API services on Z.ai API Platform. 🔜 Try GLM-5.2 at z.ai . Introduction GLM-5.2 GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GLM-5.1 and, f…",
+        "title": "zai-org/GLM-5",
+        "url": "https://github.com/zai-org/GLM-5",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "d1cbcd2e5c3a34d88878",
+        "market_context": [],
+        "matched_keywords": [
+          "AI Agents",
+          "GitHub Trending"
+        ],
+        "published_at": null,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "AI Agents (+5.0); GitHub Trending (+2.0)",
+        "relevance_score": 7,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "The sandbox agent framework. Flue — The Agent Harness Framework Not another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness. // agents/triage.ts import { createAgent, type AgentRouteHandler } from '@flue/runtime'; import { local } from '@flue/runtime/node'; import triage from '../skills/triage/SKILL.md' with { type: 'skill' }; import verify from '../skills/verify/SK…",
+        "title": "withastro/flue",
+        "url": "https://github.com/withastro/flue",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "2a5a9cdb4f50ed469ba1",
+        "market_context": [],
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "published_at": "2026-06-19T01:24:56+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "東急電鉄は6月18日、車内でのモバイルバッテリー使用に関する注意喚起を更新し、車両内の電源コンセントを使ったモバイルバッテリーへの充電も控えるよう求めた。 東急は、一部の車両の有料座席指定サービス「Q SEAT」に電源コンセントを設置している。 同社は6月15日、「モバイルバッテリーによる充電中の発火が発生し...",
+        "title": "東急「車内コンセントでモバイルバッテリー充電しないで」 注意喚起を更新",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news080.html",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "0b94bb7e211b1c8c0a0e",
+        "market_context": [],
+        "matched_keywords": [
+          "GDELT",
+          "resonance"
+        ],
+        "published_at": "2026-06-19T01:15:00+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "resonance (+2.0); GDELT (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "GDELT Initial Disruption Resonance RSS",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "開車硬要插隊進好市多 新竹碩士男撞傷義交 - 新竹縣",
+        "title": "開車硬要插隊進好市多 新竹碩士男撞傷義交 - 新竹縣",
+        "url": "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5477206",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "793888e99fb1d4a91e7d",
+        "market_context": [],
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub Trending"
+        ],
+        "published_at": null,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "AI/KI (+3.0); GitHub Trending (+2.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. Smart Knowledge Extraction CLI Transform documents into structured knowledge with one command. 📖 English Version · 中文版 \"Stop reading. Start understanding.\" \"告别文档焦虑，让信息一目了然\" Hyper-Extract is an intelligent, LLM-powered knowledge extraction and evolution framework. It radically simp…",
+        "title": "yifanfeng97/Hyper-Extract",
+        "url": "https://github.com/yifanfeng97/Hyper-Extract",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "100c69b06d9559e8e171",
+        "market_context": [],
+        "matched_keywords": [
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "published_at": null,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Webentwicklung (+3.0); GitHub Trending (+2.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. Modern project management for all teams Website • Forum • X • Documentation Meet Plane , an open-source project management tool to track issues, run ~sprints~ cycles, and manage product roadmaps without the chaos of managing the tool itself. 🧘‍♀️ Plane is evolving e…",
+        "title": "makeplane/plane",
+        "url": "https://github.com/makeplane/plane",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "4a61fe58674e889ea9e2",
+        "market_context": [],
+        "matched_keywords": [
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "published_at": null,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "Webentwicklung (+3.0); GitHub Trending (+2.0)",
+        "relevance_score": 5,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. ASP.NET Core ASP.NET Core is an open-source and cross-platform framework for building modern cloud-based internet-connected applications, such as web apps, IoT apps, and mobile backends. ASP.NET Core apps run on .NET , a free, cross-platform, and open-source application runtime. It was architec…",
+        "title": "dotnet/aspnetcore",
+        "url": "https://github.com/dotnet/aspnetcore",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
+      },
+      {
+        "fetched_at": "2026-06-19T02:30:47+00:00",
+        "id": "daeea086eb8b046f856a",
+        "market_context": [],
+        "matched_keywords": [
+          "AI/KI",
+          "Content-Chance",
+          "GitHub Trending"
+        ],
+        "published_at": null,
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote awesome (x0.45)",
+        "relevance_score": 4,
+        "risk_or_opportunity": "observation",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_bias_class": "github",
+        "source_type": "rss",
+        "summary": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. Awesome Artificial Intelligence A curated collection of must-use, actively maintained resources for building and shipping AI systems. Focus: AI engineering (RAG, agents, evals, guardrails, deploy) plus the best books, guides, papers, and a carefully selected set of tools. 📚 Learn Deep, durable knowledge — still valuable five ye…",
+        "title": "owainlewis/awesome-artificial-intelligence",
+        "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": []
       }
     ]
   },
@@ -323,24 +562,43 @@
       "source_type": "rss"
     },
     {
-      "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28wildfire+OR+%22forest+fire%22+OR+flood+OR+drought+OR+blackout+OR+%22port+closure%22+OR+%22supply+chain%22+OR+%22rail+strike%22+OR+%22pipeline+outage%22%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
-      "source_id": "gdelt_initial_disruption_rss",
-      "source_name": "GDELT Initial Disruption Resonance RSS",
+      "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28election+OR+protest+OR+strike+OR+coup+OR+parliament+OR+%22government+collapse%22+OR+sanctions+OR+unrest%29&mode=ArtList&format=rss&timespan=6h&maxrecords=50&sort=HybridRel",
+      "source_id": "gdelt_politics_unrest_elections_rss",
+      "source_name": "GDELT Politics Unrest Elections RSS",
       "source_type": "rss"
     }
   ],
   "under_observation": {
     "count": 5,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T02:26:10Z",
+    "generated_at": "2026-06-19T02:33:16Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 1,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 0,
-        "current_feed_signal_examples": [],
+        "current_feed_signal_count": 8,
+        "current_feed_signal_examples": [
+          {
+            "score": 10,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "Kilo-Org/kilocode",
+            "url": "https://github.com/Kilo-Org/kilocode"
+          },
+          {
+            "score": 7,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "zai-org/GLM-5",
+            "url": "https://github.com/zai-org/GLM-5"
+          },
+          {
+            "score": 7,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "withastro/flue",
+            "url": "https://github.com/withastro/flue"
+          }
+        ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
         "id": "apac_japan_x_stormfront",
         "region": "Japan, APAC",
@@ -354,19 +612,13 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
+        "current_feed_signal_count": 1,
         "current_feed_signal_examples": [
           {
-            "score": 10,
-            "source": "GDELT Politics Unrest Elections RSS",
-            "title": "SNP concedes Aberdeen South with Scottish Conservatives set to win",
-            "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win"
-          },
-          {
-            "score": 10,
-            "source": "GDELT Politics Unrest Elections RSS",
-            "title": "Cuba presenteert lijst maatregelen voor hervormen economie",
-            "url": "https://www.dagelijksestandaard.nl/nieuws/cuba-presenteert-lijst-maatregelen-voor-hervormen-economie"
+            "score": 5,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "dotnet/aspnetcore",
+            "url": "https://github.com/dotnet/aspnetcore"
           }
         ],
         "do_not": "Keine Wahlbetrugsnarrative ohne belastbare Belege verstärken.",
@@ -382,8 +634,27 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 0,
-        "current_feed_signal_examples": [],
+        "current_feed_signal_count": 4,
+        "current_feed_signal_examples": [
+          {
+            "score": 10,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "Kilo-Org/kilocode",
+            "url": "https://github.com/Kilo-Org/kilocode"
+          },
+          {
+            "score": 7,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "zai-org/GLM-5",
+            "url": "https://github.com/zai-org/GLM-5"
+          },
+          {
+            "score": 5,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "makeplane/plane",
+            "url": "https://github.com/makeplane/plane"
+          }
+        ],
         "do_not": "APAC nicht als China-Beifang behandeln.",
         "id": "apac_tech_social_trend_mesh",
         "region": "Japan, Korea, Taiwan, Thailand, Philippines, Vietnam, Singapore, Indonesia, India",
@@ -412,8 +683,27 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 0,
-        "current_feed_signal_examples": [],
+        "current_feed_signal_count": 4,
+        "current_feed_signal_examples": [
+          {
+            "score": 10,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "Kilo-Org/kilocode",
+            "url": "https://github.com/Kilo-Org/kilocode"
+          },
+          {
+            "score": 7,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "zai-org/GLM-5",
+            "url": "https://github.com/zai-org/GLM-5"
+          },
+          {
+            "score": 7,
+            "source": "GitHub Trending RSS All Languages Daily",
+            "title": "withastro/flue",
+            "url": "https://github.com/withastro/flue"
+          }
+        ],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
         "id": "mindanao_post_quake_recovery_hotspots",
         "region": "Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines",
