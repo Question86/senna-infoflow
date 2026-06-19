@@ -4266,6 +4266,42 @@
     "id": "8aecbb8459ea327d7f66"
   },
   {
+    "title": "M 4.7 - Fiji region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-19T15:46:10.040+00:00",
+    "fetched_at": "2026-06-19T15:56:43+00:00",
+    "summary": "Time 2026-06-19 15:28:55 UTC 2026-06-19 15:28:55 UTC at epicenter Location 21.357°S 178.308°W Depth 467.98 km (290.79 mi)",
+    "matched_keywords": [
+      "earthquake",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0b5f3164511971d78637"
+  },
+  {
     "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Russia 19/06/2026 07:48 UTC, Few people affected in 100km.",
     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547404",
     "source": "GDACS All Events Last 24h",
@@ -4795,6 +4831,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f6d5670827d187d6f5cb"
+  },
+  {
+    "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2118416.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T08:14:27+00:00",
+    "fetched_at": "2026-06-19T15:56:43+00:00",
+    "summary": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bb187db2bd796e2109e1"
   },
   {
     "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",

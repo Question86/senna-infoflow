@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-19T14:52:13+00:00",
+  "generated_at": "2026-06-19T15:58:19+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 3,
-    "clusters": 3,
+    "findings": 2,
+    "clusters": 2,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 1,
+    "hot": 0,
+    "early_signals": 0,
     "dominance_penalized": 1
   },
   "clusters": [
     {
-      "key": "title:premiere-davinci",
-      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+      "key": "title:gmktec-ps4-evo-evo-oculink",
+      "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -20,87 +20,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/19/news119.html"
-      ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.5,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 22.1,
-      "ranking_score": 26.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T14:52:13+00:00"
-    },
-    {
-      "key": "earthquake:updates | reliefweb:unknown",
-      "title": "Updates | ReliefWeb",
-      "sources": [
-        "ReliefWeb Mindanao Recovery Watch"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
-      ],
-      "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 23.7,
-      "ranking_score": 19.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-19T11:28:55+00:00"
-    },
-    {
-      "key": "domain:pic.x.com",
-      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2711202"
+        "https://pc.watch.impress.co.jp/docs/news/2118416.html"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -126,12 +46,53 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T14:52:13+00:00"
+      "first_seen_at": "2026-06-19T15:58:19+00:00"
+    },
+    {
+      "key": "earthquake:m 4.7 - fiji region:4.7",
+      "title": "M 4.7 - Fiji region",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 7.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 7.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-19T15:58:19+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-06-19T14:52:13Z",
+    "generated_at": "2026-06-19T15:58:19Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

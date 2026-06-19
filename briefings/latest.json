@@ -1,11 +1,11 @@
 {
   "counts": {
     "high": 0,
-    "medium": 2,
-    "new_relevant_findings": 3,
-    "observe": 1,
+    "medium": 0,
+    "new_relevant_findings": 2,
+    "observe": 2,
     "source_errors": 0,
-    "today_file_total": 238
+    "today_file_total": 240
   },
   "coverage": {
     "active_sensor_groups": {
@@ -17,15 +17,15 @@
       "social": 1
     },
     "counts": {
-      "findings": 3,
+      "findings": 2,
       "high": 0,
-      "medium": 2,
-      "observe": 1,
+      "medium": 0,
+      "observe": 2,
       "source_errors": 0
     },
     "coverage_confidence": "normal",
     "failed_sensor_groups": {},
-    "generated_at": "2026-06-19T14:52:13Z",
+    "generated_at": "2026-06-19T15:58:19Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -38,8 +38,8 @@
   "date": "2026-06-19",
   "findings": [
     {
-      "fetched_at": "2026-06-19T14:50:36+00:00",
-      "id": "cabc775efe9e23cfcac3",
+      "fetched_at": "2026-06-19T15:56:43+00:00",
+      "id": "0b5f3164511971d78637",
       "market_context": [
         "MUV2.DE",
         "SREN.SW",
@@ -54,25 +54,19 @@
       ],
       "matched_keywords": [
         "earthquake",
-        "General Santos",
-        "Glan",
-        "Mindanao",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "published_at": "2026-06-19T14:50:59+00:00",
+      "published_at": "2026-06-19T15:46:10.040+00:00",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "relevance_score": 18,
+      "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 6,
       "risk_or_opportunity": "risk",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_bias_class": "disaster",
+      "source_type": "rss",
+      "summary": "Time 2026-06-19 15:28:55 UTC 2026-06-19 15:28:55 UTC at epicenter Location 21.357°S 178.308°W Depth 467.98 km (290.79 mi)",
+      "title": "M 4.7 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
@@ -81,62 +75,14 @@
       ]
     },
     {
-      "fetched_at": "2026-06-19T14:50:36+00:00",
-      "id": "846c848fbc9793146b97",
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "published_at": "2026-06-19T09:34:59+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "relevance_score": 17,
-      "risk_or_opportunity": "observation",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "外部ツールとAIをつなぐ規格「MCP」（Model Context Protocol）に対応し、Claude Codeに加え「Cursor」「Codex」といったAIエージェントサービスから、プロジェクトの画面を直接読み取って動画を編集できる。動画・音声・画像・テキストのマルチトラック編集をはじめ、トリミングや分割、速度・不透明度の調整、変形に対...",
-      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, Codex"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T14:50:36+00:00",
-      "id": "ac824561526b8c465fae",
+      "fetched_at": "2026-06-19T15:56:43+00:00",
+      "id": "bb187db2bd796e2109e1",
       "market_context": [],
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "published_at": "2026-06-19T10:58:06+00:00",
+      "published_at": "2026-06-19T08:14:27+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "relevance_score": 5,
@@ -144,17 +90,17 @@
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "市川 晋 【海老名の果樹農家】 @farm_ichikawa JAさがみにはいつもお世話になってるから敢えて言う。 生成AIを使ったポスターで宣伝しても何も伝わってこないんだよ。 PC上でカタカタしただけで作った販促物より、直接畑に出向いてヘタクソでも撮る一枚の方が何百倍も見る人に届くと思うぞ。 pic.x.com/uWFWPfg66P 2026-...",
-      "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-      "url": "https://togetter.com/li/2711202",
+      "summary": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+      "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2118416.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T14:52:13+00:00",
+  "generated_at": "2026-06-19T15:58:18+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T14:52:13Z",
+    "generated_at": "2026-06-19T15:58:19Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -181,10 +127,11 @@
   },
   "sections": {
     "high": [],
-    "medium": [
+    "medium": [],
+    "observe": [
       {
-        "fetched_at": "2026-06-19T14:50:36+00:00",
-        "id": "cabc775efe9e23cfcac3",
+        "fetched_at": "2026-06-19T15:56:43+00:00",
+        "id": "0b5f3164511971d78637",
         "market_context": [
           "MUV2.DE",
           "SREN.SW",
@@ -199,25 +146,19 @@
         ],
         "matched_keywords": [
           "earthquake",
-          "General Santos",
-          "Glan",
-          "Mindanao",
-          "recovery",
-          "relief",
-          "Sarangani",
           "Watchgraph:earthquakes_tsunami"
         ],
-        "published_at": "2026-06-19T14:50:59+00:00",
+        "published_at": "2026-06-19T15:46:10.040+00:00",
         "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "relevance_score": 18,
+        "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "relevance_score": 6,
         "risk_or_opportunity": "risk",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_bias_class": "disaster",
+        "source_type": "rss",
+        "summary": "Time 2026-06-19 15:28:55 UTC 2026-06-19 15:28:55 UTC at epicenter Location 21.357°S 178.308°W Depth 467.98 km (290.79 mi)",
+        "title": "M 4.7 - Fiji region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4",
         "watchgraph_modules": [
           "earthquakes_tsunami"
         ],
@@ -226,64 +167,14 @@
         ]
       },
       {
-        "fetched_at": "2026-06-19T14:50:36+00:00",
-        "id": "846c848fbc9793146b97",
-        "market_context": [
-          "NVDA",
-          "AMD",
-          "TSM",
-          "ASML",
-          "AVGO",
-          "MU",
-          "005930.KS",
-          "000660.KS",
-          "8035.T",
-          "MSFT",
-          "GTLB",
-          "FROG",
-          "TEAM",
-          "META",
-          "GOOGL",
-          "RDDT",
-          "SNAP",
-          "PINS"
-        ],
-        "matched_keywords": [
-          "AI/KI",
-          "Hatena",
-          "hotentry",
-          "OpenAI",
-          "Watchgraph:ai_agents_workflow"
-        ],
-        "published_at": "2026-06-19T09:34:59+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-        "relevance_score": 17,
-        "risk_or_opportunity": "observation",
-        "source": "Hatena Bookmark Hotentry IT",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "外部ツールとAIをつなぐ規格「MCP」（Model Context Protocol）に対応し、Claude Codeに加え「Cursor」「Codex」といったAIエージェントサービスから、プロジェクトの画面を直接読み取って動画を編集できる。動画・音声・画像・テキストのマルチトラック編集をはじめ、トリミングや分割、速度・不透明度の調整、変形に対...",
-        "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
-        "watchgraph_modules": [
-          "ai_agents_workflow"
-        ],
-        "watchgraph_reasons": [
-          "ai_agents_workflow: MCP, Codex"
-        ]
-      }
-    ],
-    "observe": [
-      {
-        "fetched_at": "2026-06-19T14:50:36+00:00",
-        "id": "ac824561526b8c465fae",
+        "fetched_at": "2026-06-19T15:56:43+00:00",
+        "id": "bb187db2bd796e2109e1",
         "market_context": [],
         "matched_keywords": [
           "Hatena",
           "hotentry"
         ],
-        "published_at": "2026-06-19T10:58:06+00:00",
+        "published_at": "2026-06-19T08:14:27+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
         "relevance_score": 5,
@@ -291,9 +182,9 @@
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "市川 晋 【海老名の果樹農家】 @farm_ichikawa JAさがみにはいつもお世話になってるから敢えて言う。 生成AIを使ったポスターで宣伝しても何も伝わってこないんだよ。 PC上でカタカタしただけで作った販促物より、直接畑に出向いてヘタクソでも撮る一枚の方が何百倍も見る人に届くと思うぞ。 pic.x.com/uWFWPfg66P 2026-...",
-        "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-        "url": "https://togetter.com/li/2711202",
+        "summary": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+        "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2118416.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -303,32 +194,26 @@
   "under_observation": {
     "count": 6,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T14:52:13Z",
+    "generated_at": "2026-06-19T15:58:19Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 2,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 3,
+        "current_feed_signal_count": 2,
         "current_feed_signal_examples": [
           {
-            "score": 18,
-            "source": "ReliefWeb Mindanao Recovery Watch",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
-          },
-          {
-            "score": 17,
-            "source": "Hatena Bookmark Hotentry IT",
-            "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-            "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html"
+            "score": 6,
+            "source": "USGS M4.5+ Earthquakes Past Hour",
+            "title": "M 4.7 - Fiji region",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4"
           },
           {
             "score": 5,
             "source": "Hatena Bookmark Hotentry IT",
-            "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-            "url": "https://togetter.com/li/2711202"
+            "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+            "url": "https://pc.watch.impress.co.jp/docs/news/2118416.html"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -343,7 +228,7 @@
         "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.",
         "window_hits": {
           "168h": {
-            "hit_count": 195,
+            "hit_count": 199,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -393,42 +278,33 @@
             ]
           },
           "1h": {
-            "hit_count": 5,
+            "hit_count": 4,
             "matched_topics": [
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:premiere-davinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 30.03
+                "topic_key": "title:gmktec-ps4-evo-evo-oculink",
+                "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+                "trend_score": 12.53
               },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.12
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 11.43
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "hatena"
+                  "earthquake"
                 ],
-                "topic_key": "domain:pic.x.com",
-                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-                "trend_score": 12.53
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:ai-premieredavinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
                 "trend_score": 3.93
               },
               {
@@ -436,14 +312,14 @@
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:jaaiai",
-                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "topic_key": "title:gmktecps4pcevo-x329evo-x2oculink",
+                "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
                 "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 154,
+            "hit_count": 157,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -494,42 +370,33 @@
             ]
           },
           "30m": {
-            "hit_count": 5,
+            "hit_count": 4,
             "matched_topics": [
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:premiere-davinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 30.86
+                "topic_key": "title:gmktec-ps4-evo-evo-oculink",
+                "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+                "trend_score": 13.36
               },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.95
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 12.26
               },
               {
-                "bucket": "other",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "hatena"
+                  "earthquake"
                 ],
-                "topic_key": "domain:pic.x.com",
-                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-                "trend_score": 13.36
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:ai-premieredavinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
                 "trend_score": 4.77
               },
               {
@@ -537,33 +404,15 @@
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:jaaiai",
-                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "topic_key": "title:gmktecps4pcevo-x329evo-x2oculink",
+                "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
                 "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 64,
+            "hit_count": 20,
             "matched_topics": [
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.twcert.org",
-                "topic_label": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
-                "trend_score": 51.1
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "cve:CVE-2025-55182",
-                "topic_label": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
-                "trend_score": 42.15
-              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -583,18 +432,36 @@
                 "trend_score": 29.3
               },
               {
-                "bucket": "security",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "security"
+                  "earthquake"
                 ],
-                "topic_key": "title:ics-security-conference-2026",
-                "topic_label": "ICS Security Conference 2026",
-                "trend_score": 27.09
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.49
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
+                "trend_score": 23.49
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:github-copilot",
+                "topic_label": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
+                "trend_score": 12.9
               }
             ]
           },
           "72h": {
-            "hit_count": 195,
+            "hit_count": 199,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -644,7 +511,7 @@
             ]
           },
           "8h": {
-            "hit_count": 83,
+            "hit_count": 77,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -694,51 +561,42 @@
             ]
           },
           "now": {
-            "hit_count": 5,
+            "hit_count": 4,
             "matched_topics": [
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 20.8
+              },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:premiere-davinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 55.0
+                "topic_key": "title:gmktec-ps4-evo-evo-oculink",
+                "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+                "trend_score": 20.0
               },
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.9
+                "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 5.0
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "domain:pic.x.com",
-                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-                "trend_score": 20.0
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:ai-premieredavinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 4.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "hatena"
-                ],
-                "topic_key": "title:jaaiai",
-                "topic_label": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
+                "topic_key": "title:gmktecps4pcevo-x329evo-x2oculink",
+                "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
                 "trend_score": 2.0
               }
             ]
@@ -836,15 +694,6 @@
                 "matched_terms": [
                   "election"
                 ],
-                "topic_key": "title:election-betting-odds-by-maxim-lott-and-john-stossel",
-                "topic_label": "Election Betting Odds by Maxim Lott and John Stossel",
-                "trend_score": 19.32
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election"
-                ],
                 "topic_key": "title:china-backs-myanmar-full-participation-in-asean-un",
                 "topic_label": "China backs Myanmar full participation in Asean , UN",
                 "trend_score": 16.73
@@ -867,6 +716,15 @@
                 "topic_key": "title:s-nchez-convoca-protesto-em-respeito-ao-voto-diante-derrota-parcial",
                 "topic_label": "Sánchez convoca protesto em respeito ao voto diante derrota parcial",
                 "trend_score": 16.73
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "election"
+                ],
+                "topic_key": "title:ukraine-hits-moscow-oil-refinery-in-drone-strike-disrupting-commercial-flights",
+                "topic_label": "Ukraine hits Moscow oil refinery in drone strike , disrupting commercial flights",
+                "trend_score": 15.42
               }
             ]
           },
@@ -1010,18 +868,8 @@
             ]
           },
           "1h": {
-            "hit_count": 1,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "devtools"
-                ],
-                "topic_key": "title:ai-premieredavinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 3.93
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
             "hit_count": 140,
@@ -1076,40 +924,12 @@
             ]
           },
           "30m": {
-            "hit_count": 1,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "devtools"
-                ],
-                "topic_key": "title:ai-premieredavinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 4.77
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "4h": {
-            "hit_count": 76,
+            "hit_count": 11,
             "matched_topics": [
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.twcert.org",
-                "topic_label": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
-                "trend_score": 51.1
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "cve:CVE-2025-55182",
-                "topic_label": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
-                "trend_score": 42.15
-              },
               {
                 "bucket": "market_product",
                 "matched_terms": [
@@ -1130,13 +950,31 @@
                 "trend_score": 29.3
               },
               {
-                "bucket": "security",
+                "bucket": "market_product",
                 "matched_terms": [
-                  "security"
+                  "startup"
                 ],
-                "topic_key": "title:ics-security-conference-2026",
-                "topic_label": "ICS Security Conference 2026",
-                "trend_score": 27.09
+                "topic_key": "title:bioark-growth-strategy-plants-seeds-greener-agricultural-future",
+                "topic_label": "BioArk’s growth strategy plants seeds for a greener agricultural future",
+                "trend_score": 13.9
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "tech-"
+                ],
+                "topic_key": "domain:restofworld.org",
+                "topic_label": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
+                "trend_score": 9.9
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "devtools"
+                ],
+                "topic_key": "title:ai-premieredavinci",
+                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+                "trend_score": 3.31
               }
             ]
           },
@@ -1193,7 +1031,7 @@
             ]
           },
           "8h": {
-            "hit_count": 84,
+            "hit_count": 80,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1244,18 +1082,8 @@
             ]
           },
           "now": {
-            "hit_count": 1,
-            "matched_topics": [
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "devtools"
-                ],
-                "topic_key": "title:ai-premieredavinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 4.0
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           }
         }
       },
@@ -1383,26 +1211,8 @@
             "matched_topics": []
           },
           "4h": {
-            "hit_count": 48,
+            "hit_count": 4,
             "matched_topics": [
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.twcert.org",
-                "topic_label": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
-                "trend_score": 51.1
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "cve:CVE-2025-55182",
-                "topic_label": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
-                "trend_score": 42.15
-              },
               {
                 "bucket": "agentic_devtools",
                 "matched_terms": [
@@ -1413,22 +1223,31 @@
                 "trend_score": 29.3
               },
               {
-                "bucket": "security",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:ics-security-conference-2026",
-                "topic_label": "ICS Security Conference 2026",
-                "trend_score": 27.09
+                "topic_key": "title:every-ai-agent-is-an-identity.-most-organizations-don-t-treat-them-that-way",
+                "topic_label": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+                "trend_score": 3.31
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "security"
                 ],
-                "topic_key": "title:cisa:-splunk-enterprise-flaw-actively-exploited-patch-by-sunday",
-                "topic_label": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-                "trend_score": 26.9
+                "topic_key": "title:microsoft:-june-2026-windows-updates-break-recycle-bin-prompts",
+                "topic_label": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+                "trend_score": 3.31
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "title:webinar:-how-attackers-bypass-mfa-and-how-defenders-can-respond",
+                "topic_label": "Webinar: How attackers bypass MFA and how defenders can respond",
+                "trend_score": 3.31
               }
             ]
           },
@@ -1483,7 +1302,7 @@
             ]
           },
           "8h": {
-            "hit_count": 58,
+            "hit_count": 56,
             "matched_topics": [
               {
                 "bucket": "security",
@@ -1543,10 +1362,10 @@
         "current_feed_signal_count": 1,
         "current_feed_signal_examples": [
           {
-            "score": 18,
-            "source": "ReliefWeb Mindanao Recovery Watch",
-            "title": "Updates | ReliefWeb",
-            "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+            "score": 6,
+            "source": "USGS M4.5+ Earthquakes Past Hour",
+            "title": "M 4.7 - Fiji region",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4"
           }
         ],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
@@ -1561,7 +1380,7 @@
         "why": "Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben.",
         "window_hits": {
           "168h": {
-            "hit_count": 80,
+            "hit_count": 82,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
@@ -1615,23 +1434,30 @@
             ]
           },
           "1h": {
-            "hit_count": 1,
+            "hit_count": 2,
             "matched_topics": [
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "sarangani",
-                  "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.12
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 11.43
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 42,
+            "hit_count": 43,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
@@ -1685,23 +1511,30 @@
             ]
           },
           "30m": {
-            "hit_count": 1,
+            "hit_count": 2,
             "matched_topics": [
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "sarangani",
-                  "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.95
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 12.26
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 4,
+            "hit_count": 6,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
@@ -1719,9 +1552,9 @@
                   "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.26
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.49
               },
               {
                 "bucket": "disaster_recovery",
@@ -1730,9 +1563,18 @@
                   "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
-                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "topic_key": "earthquake:updates-reliefweb:unknown",
+                "topic_label": "Updates | ReliefWeb",
                 "trend_score": 23.49
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 10.8
               },
               {
                 "bucket": "other",
@@ -1746,7 +1588,7 @@
             ]
           },
           "72h": {
-            "hit_count": 80,
+            "hit_count": 82,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
@@ -1800,7 +1642,7 @@
             ]
           },
           "8h": {
-            "hit_count": 18,
+            "hit_count": 15,
             "matched_topics": [
               {
                 "bucket": "agentic_devtools",
@@ -1836,10 +1678,10 @@
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "earthquake"
+                  "port"
                 ],
-                "topic_key": "earthquake:m-6.6-136-km-e-of-petropavlovsk-kamchatsky-russia:6.6",
-                "topic_label": "M 6.6 - 136 km E of Petropavlovsk-Kamchatsky, Russia",
+                "topic_key": "title:drought-is-on-going-in-china-indonesia-cambodia-laos-malaysia-philippines-thailand-vietnam",
+                "topic_label": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
                 "trend_score": 12.8
               },
               {
@@ -1847,25 +1689,32 @@
                 "matched_terms": [
                   "port"
                 ],
-                "topic_key": "title:drought-is-on-going-in-china-indonesia-cambodia-laos-malaysia-philippines-thailand-vietnam",
-                "topic_label": "Drought is on going in China, Indonesia, Cambodia, Laos, Malaysia, Philippines, Thailand, Vietnam",
-                "trend_score": 12.8
+                "topic_key": "title:drought-is-on-going-in-australia",
+                "topic_label": "Drought is on going in Australia",
+                "trend_score": 10.8
               }
             ]
           },
           "now": {
-            "hit_count": 1,
+            "hit_count": 2,
             "matched_topics": [
               {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "sarangani",
-                  "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.9
+                "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 20.8
+              },
+              {
+                "bucket": "disaster_recovery",
+                "matched_terms": [
+                  "earthquake"
+                ],
+                "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+                "topic_label": "M 4.7 - Fiji region",
+                "trend_score": 5.0
               }
             ]
           }

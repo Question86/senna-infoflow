@@ -1,6 +1,6 @@
 {
   "cadence_minutes": 5,
-  "generated_at": "2026-06-19T14:52:13Z",
+  "generated_at": "2026-06-19T15:58:18Z",
   "retention_samples_per_topic": 2500,
   "schema_version": 3,
   "topics": {
@@ -1152,6 +1152,44 @@
       "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
       "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
     },
+    "earthquake:m 4.7 - fiji region:4.7": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T15:58:18Z",
+      "last_trend_wucht": 20.8,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 1,
+          "network_score": 7.9,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T15-58-18Z",
+          "sample_id": "2026-06-19T15-58-18Z:earthquake:m 4.7 - fiji region:4.7",
+          "sample_index": 5939615,
+          "score_delta_5m": 7.9,
+          "source_classes": [
+            "emergency_official",
+            "tier1_official"
+          ],
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T15:58:18Z",
+          "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+          "topic_label": "M 4.7 - Fiji region",
+          "trend_wucht": 20.8,
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:m 4.7 - fiji region:4.7",
+      "topic_label": "M 4.7 - Fiji region"
+    },
     "earthquake:m-4.6-33-km-e-of-bocon-venezuela:4.6": {
       "last_seen_at": "2026-06-18T02:20:10Z",
       "last_trend_wucht": 9.0,
@@ -1207,6 +1245,41 @@
       ],
       "topic_key": "earthquake:m-4.6-50-km-ese-of-palu-indonesia:4.6",
       "topic_label": "M 4.6 - 50 km ESE of Palu, Indonesia"
+    },
+    "earthquake:m-4.7-fiji-region:4.7": {
+      "bucket": "disaster_recovery",
+      "last_seen_at": "2026-06-19T15:58:18Z",
+      "last_trend_wucht": 5.0,
+      "samples": [
+        {
+          "bucket": "disaster_recovery",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+          "run_id": "2026-06-19T15-58-18Z",
+          "sample_id": "2026-06-19T15-58-18Z:earthquake:m-4.7-fiji-region:4.7",
+          "sample_index": 5939615,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "USGS M4.5+ Earthquakes Past Hour"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T15:58:18Z",
+          "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+          "topic_label": "M 4.7 - Fiji region",
+          "trend_wucht": 5.0,
+          "urls": [
+            "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sul4"
+          ]
+        }
+      ],
+      "topic_key": "earthquake:m-4.7-fiji-region:4.7",
+      "topic_label": "M 4.7 - Fiji region"
     },
     "earthquake:m-4.9-169-km-e-of-petropavlovsk-kamchatsky-russia:4.9": {
       "last_seen_at": "2026-06-19T07:39:37Z",
@@ -8174,6 +8247,78 @@
       ],
       "topic_key": "title:github-copilot2",
       "topic_label": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／"
+    },
+    "title:gmktec-ps4-evo-evo-oculink": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T15:58:18Z",
+      "last_trend_wucht": 20.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 1,
+          "network_score": 9.0,
+          "origin_counts": {
+            "network_cluster": 1
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T15-58-18Z",
+          "sample_id": "2026-06-19T15-58-18Z:title:gmktec-ps4-evo-evo-oculink",
+          "sample_index": 5939615,
+          "score_delta_5m": 9.0,
+          "source_classes": [
+            "tier3_specialist"
+          ],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "emerging",
+          "timestamp_utc": "2026-06-19T15:58:18Z",
+          "topic_key": "title:gmktec-ps4-evo-evo-oculink",
+          "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+          "trend_wucht": 20.0,
+          "urls": [
+            "https://pc.watch.impress.co.jp/docs/news/2118416.html"
+          ]
+        }
+      ],
+      "topic_key": "title:gmktec-ps4-evo-evo-oculink",
+      "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載"
+    },
+    "title:gmktecps4pcevo-x329evo-x2oculink": {
+      "bucket": "other",
+      "last_seen_at": "2026-06-19T15:58:18Z",
+      "last_trend_wucht": 2.0,
+      "samples": [
+        {
+          "bucket": "other",
+          "mention_count": 2,
+          "network_score": 0.0,
+          "origin_counts": {
+            "latest_finding": 2
+          },
+          "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+          "run_id": "2026-06-19T15-58-18Z",
+          "sample_id": "2026-06-19T15-58-18Z:title:gmktecps4pcevo-x329evo-x2oculink",
+          "sample_index": 5939615,
+          "score_delta_5m": 0.0,
+          "source_classes": [],
+          "source_count": 1,
+          "sources": [
+            "Hatena Bookmark Hotentry IT"
+          ],
+          "status": "mature",
+          "timestamp_utc": "2026-06-19T15:58:18Z",
+          "topic_key": "title:gmktecps4pcevo-x329evo-x2oculink",
+          "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+          "trend_wucht": 2.0,
+          "urls": [
+            "https://pc.watch.impress.co.jp/docs/news/2118416.html"
+          ]
+        }
+      ],
+      "topic_key": "title:gmktecps4pcevo-x329evo-x2oculink",
+      "topic_label": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載"
     },
     "title:google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization": {
       "last_seen_at": "2026-06-17T21:31:36Z",
