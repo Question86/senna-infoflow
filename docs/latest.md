@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-20T20:41:06+00:00_
+_Generiert: 2026-06-20T21:11:36+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -51,14 +51,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.8); Hatena (+2.0); recent (+1.0)
   - Kurz: 捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜 2023年窓口体験調査窓口に来た住民が、名前を55回書く。 北海道芽室町の窓口で、私たちが窓口体験調査をして見えてきた現実です。一つの係でやりとりする申請書は、たいてい1〜3枚。けれど...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **伝わる発信のつくりかた** — Score 5, observation — [Quelle](https://yoshiko-pg.github.io/talks/zennfes-2026/)
+- **時雨堂のスキル** — Score 6, observation — [Quelle](https://voluntas.ghost.io/shiguredo-skill-20206-06/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-20T07:28:29+00:00`, fetched `2026-06-20T11:05:09+00:00`
-  - Treffer: GitHub, Hatena
+  - Zeit: published `2026-06-20T16:08:23+00:00`, fetched `2026-06-20T21:11:16+00:00`
+  - Treffer: AI/KI, Hatena
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 2026/06/19のZennfesでの発表「伝わる発信のつくりかた」のスライドです。
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); recent (+1.0)
+  - Kurz: 流れが速いのでこれは 2026 年 6 月時点での時雨堂で採用しているスキルだけで、これで固定しているとかではないです。 さすがにこの記事を読む人で SKILL.md を知らない人は居ないと思うのですが、簡単にいうと LLM に食わせるまとまった文章の事です。 つまり「レビューして」とだけ書くのではなく「こんな感じでレビ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

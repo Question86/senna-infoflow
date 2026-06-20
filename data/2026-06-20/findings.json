@@ -135,6 +135,27 @@
     "id": "fd0a2c18f3079431cf12"
   },
   {
+    "title": "時雨堂のスキル",
+    "url": "https://voluntas.ghost.io/shiguredo-skill-20206-06/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-20T16:08:23+00:00",
+    "fetched_at": "2026-06-20T21:11:16+00:00",
+    "summary": "流れが速いのでこれは 2026 年 6 月時点での時雨堂で採用しているスキルだけで、これで固定しているとかではないです。 さすがにこの記事を読む人で SKILL.md を知らない人は居ないと思うのですが、簡単にいうと LLM に食わせるまとまった文章の事です。 つまり「レビューして」とだけ書くのではなく「こんな感じでレビ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "08a1323973fa3c7cc72d"
+  },
+  {
     "title": "伝わる発信のつくりかた",
     "url": "https://yoshiko-pg.github.io/talks/zennfes-2026/",
     "source": "Hatena Bookmark Hotentry IT",
