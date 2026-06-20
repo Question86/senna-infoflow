@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-06-20T03:33:07.703962+00:00_
+_Generiert: 2026-06-20T03:37:01.927781+00:00_
 
 ## Emergency Feed Mode
 
