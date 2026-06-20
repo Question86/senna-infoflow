@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T12:24:41+00:00",
-  "run_id": "2026-06-20T12:24:41+00:00",
+  "generated_at": "2026-06-20T13:02:21+00:00",
+  "run_id": "2026-06-20T13:02:21+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -791,49 +791,7 @@
       "id": "828c0613a70fcebb1ed0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜｜memuro-DX-oss",
-      "url": "https://note.com/memuro_dx_oss/n/nf982351d30ef",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-18T16:10:03+00:00",
-      "fetched_at": "2026-06-20T12:24:22+00:00",
-      "summary": "捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜 2023年窓口体験調査窓口に来た住民が、名前を55回書く。 北海道芽室町の窓口で、私たちが窓口体験調査をして見えてきた現実です。一つの係でやりとりする申請書は、たいてい1〜3枚。けれど...",
-      "matched_keywords": [
-        "Hatena",
-        "Open Source"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Open Source (+3.8); Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd0a2c18f3079431cf12"
-    },
-    {
-      "title": "Claude Codeをどのように キャッチアップしているか",
-      "url": "https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T08:51:15+00:00",
-      "fetched_at": "2026-06-20T12:24:22+00:00",
-      "summary": "Zennfes: https://zenn.dev/events/zennfes-spring-2026",
-      "matched_keywords": [
-        "Hatena"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6447bae08e6781eddeb5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
