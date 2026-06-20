@@ -132,19 +132,17 @@ jobs:
 
           # Emergency structured-only fast loop, 2026-06-20:
           # sources.yaml may already contain baked webpage_check entries from prior overlay merges.
-          # Disable them generically for the 5-minute feed; later move them into a slow lane with
+          # Remove them from the active fast-loop config entirely; some monitor paths may not
+          # honor enabled=false consistently. Later move webpage checks into a slow lane with
           # per-source timeout/rate controls.
           if os.getenv("SENNA_FAST_LOOP_STRUCTURED_ONLY", "1") == "1":
-              disabled_webpage_checks = 0
-              for source in sources_by_id.values():
+              removed_webpage_checks = 0
+              for sid, source in list(sources_by_id.items()):
                   if str(source.get("type") or "") == "webpage_check":
-                      if source.get("enabled", True):
-                          disabled_webpage_checks += 1
-                      source["enabled"] = False
-                      old = str(source.get("notes", "") or "")
-                      note = "Disabled in emergency structured-only fast loop; move to slow lane/per-source timeout."
-                      source["notes"] = (old + " " + note).strip()
-              print(f"Emergency structured-only fast loop disabled {disabled_webpage_checks} webpage_check source(s).")
+                      sources_by_id.pop(sid, None)
+                      removed_webpage_checks += 1
+              order = [sid for sid in order if sid in sources_by_id]
+              print(f"Emergency structured-only fast loop removed {removed_webpage_checks} webpage_check source(s).")
 
           final_ids = [sid for sid in order if sid in sources_by_id]
           base["sources"] = [sources_by_id[sid] for sid in final_ids]
