@@ -1,6 +1,6 @@
 # Senna Pipeline Health
 
-_Generated: 2026-06-20T03:23:48.905474+00:00_
+_Generated: 2026-06-20T03:33:07.703962+00:00_
 
 Status: `emergency`
 
@@ -8,7 +8,8 @@ Status: `emergency`
 
 - Hardened monitor bypassed after repeated timeout.
 - Minimal RSS writer active.
-- findings: `30`
+- Frontend-compatible `sections/counts` schema active.
+- findings: `35`
 - source errors: `1`
 
 ---
