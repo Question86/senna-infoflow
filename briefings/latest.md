@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-20T11:49:34+00:00_
+_Generiert: 2026-06-20T12:24:41+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+16 neue relevante Treffer. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); recent (+1.0)
   - Kurz: 独立行政法人国立病院機構北海道医療センターは6月8日、同センターの記録媒体の一部が適切に処理されないまま外部流通していたと発表した。 同センターでは、電子カルテの更新に伴い、旧来使用していた端末の処分を外部の廃棄処理業者に委託しており、端末に内蔵されていたハードディスクについては破砕処分するよう委託...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜｜memuro-DX-oss** — Score 7, observation — [Quelle](https://note.com/memuro_dx_oss/n/nf982351d30ef)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-18T16:10:03+00:00`, fetched `2026-06-20T12:24:22+00:00`
+  - Treffer: Hatena, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); Hatena (+2.0); recent (+1.0)
+  - Kurz: 捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜 2023年窓口体験調査窓口に来た住民が、名前を55回書く。 北海道芽室町の窓口で、私たちが窓口体験調査をして見えてきた現実です。一つの係でやりとりする申請書は、たいてい1〜3枚。けれど...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **伝わる発信のつくりかた** — Score 5, observation — [Quelle](https://yoshiko-pg.github.io/talks/zennfes-2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-20T07:28:29+00:00`, fetched `2026-06-20T11:05:09+00:00`
@@ -50,15 +59,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 2026/06/19のZennfesでの発表「伝わる発信のつくりかた」のスライドです。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ターミナルでMarkdownをリッチに見られるleafが良さげかも | kawarimidoll.com** — Score 5, observation — [Quelle](https://kawarimidoll.com/posts/202606192/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T14:55:51+00:00`, fetched `2026-06-20T06:33:32+00:00`
-  - Treffer: GitHub, Hatena
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 機能 TUIながらGUIライクな体験を売りにしているMarkdownビューア。 GitHub形式のアラート表記、40以上の言語のシンタックスハイライト、カラム揃えに対応した罫線つきテーブル表示といったレンダリングの拡張を備え、Latex/MermaidもUnicode記号等を用いて描画できます。 目次サイドバー、Fuzzy Finderなどの機能も同梱...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
