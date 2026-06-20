@@ -155,6 +155,26 @@
     "id": "14b67b9d8bf1cf7f6601"
   },
   {
+    "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita",
+    "url": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T22:41:58+00:00",
+    "fetched_at": "2026-06-20T07:56:08+00:00",
+    "summary": "はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあAIに描かせれ...",
+    "matched_keywords": [
+      "Hatena"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3bf6906335e3c3767559"
+  },
+  {
     "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
     "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
     "source": "Hatena Bookmark Hotentry IT",
