@@ -79,6 +79,17 @@ Diese Lane ist für Themen, die regelmäßig im Blick bleiben sollen, auch wenn 
   Update-Regel: Hochziehen bei STRC <95, <90 oder <85; bei Dividendenerhöhung; bei offizieller Strategy-Meldung zu STRC/Preferred/ATM; bei Strategy-Bitcoin-Verkauf; bei glaubwürdiger Mehrquellen-Resonanz. X-only bleibt Frührauch, nicht Beweis.
   Nicht tun: Keine Tradingempfehlung. Keine anonyme X-These als Tatsache behandeln. Kein „Strategy muss Bitcoin verkaufen“ behaupten, solange es nicht durch Filing, offizielle Meldung oder belastbare Mehrquellenlage gestützt ist.
 
+- [observe] id: physical_autoresearch_agentic_runtime
+  Titel: ENPIRE / Physical Autoresearch und agentische Runtime-Verbesserung
+  Status: active
+  Region: Global, Robotics, AI Research, Developer Tools
+  Quelle: Rechercheauftrag User Yps, 2026-06-20; NVIDIA/CMU/UC Berkeley ENPIRE Primärquellen; Hatena/Gigazine APAC-Frühsignal vom 2026-06-19/20
+  Warum: ENPIRE ist kein einzelnes Robotik-Gadget, sondern ein Architektur-Signal: Coding-Agenten verbessern Policies in realen physischen Feedback-Loops, wenn Umgebung, Reset, Verification, Rollout, Logging, Budget und Safety sauber verkabelt sind. Relevanz für AXI0M liegt in agentischen Runtime-Pipelines, nicht in Roboterromantik.
+  Beobachten: ENPIRE-Projektseite, arXiv/Paper-Updates, mögliches GitHub-Repo, NVIDIA Research/GEAR/GR00T/Physical AI, LeCAR/CMU/UC Berkeley, AutoResearch, physical feedback loops, policy self-improvement, AutoEnvBench, autonomous reset, autonomous verification, Mean Robot Utilization, Mean Token Utilization, pass@k/pass@8, code-as-policy, VLA-Posttraining, Robotik-Flotten, Sim-to-Real-Gaps, AgentOps/Safety/Audit für reale Aktionssysteme.
+  Trigger: ENPIRE, agentic robot, robot policy self-improvement, Physical Autoresearch, AutoResearch, physical feedback loop, autonomous reset, autonomous verification, AutoEnvBench, Mean Robot Utilization, Mean Token Utilization, pass@8, policy improvement, robot fleet, code-as-policy, VLA, GR00T, NVIDIA robotics, Claude Code, Codex, Kimi Code, robotics agent, real-world rollout, safety interlock, audit trail, rollback, verification harness
+  Update-Regel: Hochziehen bei neuem ENPIRE-Code/Repo, Paper-Version, NVIDIA-Demo, unabhängiger Replikation, Übertragung auf industrielle/medizinische/labornahe Systeme, Sicherheitsvorfall, regulatorischem Bezug oder starker Mehrquellen-Resonanz. Hatena/Gigazine bleibt Frühsignal; Primärquelle oder belastbare Gegenquelle entscheidet.
+  Nicht tun: Nicht als „Roboter verbessern sich allgemein selbst“ verkaufen. Keine Haushaltsroboter-/AGI-Fantasie daraus bauen. Keine produktive physische Autonomie ohne Verification, Reset, Budget, Safety-Interlock und Audit als sinnvoll darstellen.
+
 ## Eingehende Hinweise
 
 <!-- Beispiele:
