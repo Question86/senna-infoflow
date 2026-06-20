@@ -5,139 +5,92 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Senna Infoflow</title>
 <style>
-:root{--bg:#0b0f14;--p:#111820;--p2:#161f2a;--b:#1e2d3d;--t:#c8d8e8;--m:#6a7f94;--a:#f0a832;--c:#38bcd4;--g:#3ddc84;--r:#e05c5c;--mono:Consolas,Menlo,monospace;--ui:Inter,Segoe UI,system-ui,sans-serif}
+:root{--bg:#0b0f14;--p:#111820;--b:#1e2d3d;--t:#c8d8e8;--m:#6a7f94;--a:#f0a832;--c:#38bcd4;--g:#3ddc84;--r:#e05c5c;--mono:Consolas,Menlo,monospace;--ui:Inter,Segoe UI,system-ui,sans-serif}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:13px/1.45 var(--ui)}a{color:var(--c);text-decoration:none}a:hover{text-decoration:underline}
 header{position:sticky;top:0;z-index:2;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:10px 14px;background:var(--p);border-bottom:1px solid var(--b)}
 h1{font:700 14px var(--mono);letter-spacing:.08em;color:var(--a);margin:0}h1 span{color:var(--m);font-weight:400}.meta{margin-left:auto;display:flex;gap:10px;flex-wrap:wrap;color:var(--m);font:11px var(--mono)}
 .badge{border:1px solid var(--b);border-radius:4px;padding:2px 7px}.ok{color:var(--g);border-color:#1a5c38}.bad{color:var(--r);border-color:#6a2020}.warn{color:var(--a);border-color:#7a5215}
-.wrap{display:grid;grid-template-columns:260px 1fr 310px;gap:10px;padding:10px}.panel{background:var(--p);border:1px solid var(--b);border-radius:10px;overflow:hidden}.ph{padding:9px 12px;border-bottom:1px solid var(--b);font:700 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--m);display:flex;justify-content:space-between}.pb{padding:10px 12px}.stack{display:flex;flex-direction:column;gap:10px}
-.tabs{display:flex;gap:4px;flex-wrap:wrap}.tab{cursor:pointer;border:1px solid var(--b);background:#0f151d;color:var(--m);border-radius:4px;padding:3px 8px;font:700 10px var(--mono)}.tab.active{color:var(--a);border-color:#7a5215;background:#23190b}
-.row{display:flex;justify-content:space-between;gap:10px;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}.row:last-child{border-bottom:0}.num{font:700 18px var(--mono)}.high{color:var(--r)}.med{color:var(--a)}.obs{color:var(--c)}
-.card{padding:10px 12px;border-bottom:1px solid var(--b);cursor:pointer}.card:hover{background:var(--p2)}.card:last-child{border-bottom:0}.score{font:700 13px var(--mono);width:32px;text-align:right}.title{font-weight:600;color:#e8f2ff}.summary{color:var(--m);font-size:12px;margin-top:4px}.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.tag{font:10px var(--mono);border:1px solid var(--b);color:var(--m);border-radius:3px;padding:1px 5px}.grid2{display:grid;grid-template-columns:42px 1fr;gap:8px}
-.topic{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:8px 12px;border-bottom:1px solid var(--b);cursor:pointer}.topic:hover{background:var(--p2)}.topic b{font-weight:600}.topic small{display:block;color:var(--m);font:10px var(--mono)}.wucht{font:700 16px var(--mono);color:var(--a);text-align:right}.delta{font:10px var(--mono);text-align:right}.up{color:var(--g)}.dn{color:var(--r)}.flat{color:var(--m)}
-#error{display:none;margin:10px;padding:10px;border:1px solid #6a2020;border-radius:8px;background:rgba(224,92,92,.08);color:var(--r);white-space:pre-wrap;font:11px var(--mono)}
-#detail{min-height:180px;color:var(--m)}canvas{width:100%;height:190px;display:block}.muted{color:var(--m)}code{font-family:var(--mono);color:var(--a)}
-@media(max-width:1000px){.wrap{grid-template-columns:1fr}.meta{margin-left:0}}
+.wrap{display:grid;grid-template-columns:260px 1fr;gap:10px;padding:10px}.panel{background:var(--p);border:1px solid var(--b);border-radius:10px;overflow:hidden}.ph{padding:9px 12px;border-bottom:1px solid var(--b);font:700 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--m);display:flex;justify-content:space-between}.pb{padding:10px 12px}
+.row{display:flex;justify-content:space-between;gap:10px;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}.row:last-child{border-bottom:0}.num{font:700 18px var(--mono)}
+.card{padding:10px 12px;border-bottom:1px solid var(--b)}.card:last-child{border-bottom:0}.title{font-weight:700;color:#e8f2ff}.summary{color:var(--m);font-size:12px;margin-top:4px}.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.tag{font:10px var(--mono);border:1px solid var(--b);color:var(--m);border-radius:3px;padding:1px 5px}
+#err{display:none;margin:10px;padding:10px;border:1px solid #6a2020;border-radius:8px;background:rgba(224,92,92,.08);color:var(--r);white-space:pre-wrap;font:11px var(--mono)}
+.notice{padding:10px 12px;color:var(--a);border-bottom:1px solid var(--b);background:rgba(240,168,50,.06)}
+@media(max-width:900px){.wrap{grid-template-columns:1fr}.meta{margin-left:0}}
 </style>
 </head>
 <body>
 <header>
   <h1>SENNA <span>INFOFLOW</span></h1>
-  <div class="tabs" id="tabs"></div>
-  <div class="meta"><span id="ts">—</span><span id="conf" class="badge">—</span><span id="run">Run —</span></div>
+  <div class="meta"><span id="ts">—</span><span id="conf" class="badge">—</span><span id="mode" class="badge">—</span></div>
 </header>
-<div id="error"></div>
+<div id="err"></div>
 <div class="wrap">
-  <aside class="stack">
-    <section class="panel"><div class="ph">Lagebild <span id="total">—</span></div><div class="pb" id="counts"></div></section>
-    <section class="panel"><div class="ph">Sensoren</div><div class="pb" id="sensors"></div></section>
-    <section class="panel"><div class="ph">Beobachtung</div><div id="watch"></div></section>
+  <aside class="panel">
+    <div class="ph">Lagebild <span id="total">—</span></div>
+    <div class="pb" id="counts"></div>
   </aside>
-  <main class="stack">
-    <section class="panel"><div class="ph">Signal <span id="signalName">kein Signal</span></div><div class="pb"><canvas id="chart"></canvas><div id="detail">Klicke auf ein Finding oder einen Trend.</div></div></section>
-    <section class="panel"><div class="ph">Findings <span id="findingCount">—</span></div><div id="findings"></div></section>
+  <main class="panel">
+    <div class="ph">Findings <span id="findingCount">—</span></div>
+    <div id="notice" class="notice" style="display:none"></div>
+    <div id="findings"></div>
   </main>
-  <aside class="stack">
-    <section class="panel"><div class="ph">Trend-Radar <span id="winLabel">now</span></div><div id="radar"></div></section>
-    <section class="panel"><div class="ph">Quality Gate</div><div class="pb" id="gate"></div></section>
-    <section class="panel"><div class="ph">Prinzipien</div><div class="pb" id="principles"></div></section>
-  </aside>
 </div>
 <script>
-const LATEST_URL='https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/latest.json';
-const TRENDS_URL='https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/trends.json';
-const WINDOWS=['now','30m','1h','4h','8h','24h','72h','168h'];
-let D={latest:null,trends:null}, S={window:'now'};
+const SOURCES=['latest.json','./latest.json','https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/latest.json'];
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-async function get(url){const r=await fetch(url+'?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw new Error(r.status+' '+r.statusText+' '+url);return r.json()}
-async function load(){
-  $('error').style.display='none';
-  try{D.latest=await get(LATEST_URL)}catch(e){fail('latest.json konnte nicht geladen werden',e);return}
-  try{D.trends=await get(TRENDS_URL)}catch(e){console.warn(e);D.trends=null}
-  render();
+async function getJson(){
+  let last;
+  for(const base of SOURCES){
+    try{
+      const r=await fetch(base+'?t='+Date.now(),{cache:'no-store'});
+      if(!r.ok) throw new Error(r.status+' '+r.statusText+' '+base);
+      return await r.json();
+    }catch(e){last=e}
+  }
+  throw last||new Error('Keine Feedquelle erreichbar');
 }
-function fail(msg,e){$('error').style.display='block';$('error').textContent=msg+'\n'+(e?.message||e)+'\n\nDie index.html lädt absichtlich direkt aus main/briefings/:\n'+LATEST_URL+'\n'+TRENDS_URL}
-function render(){
-  const L=D.latest,c=L.counts||{},cov=L.coverage||{};
+function allFindings(L){
+  const s=L.sections||{};
+  const arr=[...(s.high||[]),...(s.medium||[]),...(s.observe||[])];
+  return arr.length?arr:(L.findings||[]);
+}
+function render(L){
+  const c=L.counts||{};
+  const cov=L.coverage||{};
+  const fs=allFindings(L);
   $('ts').textContent=L.generated_at?new Date(L.generated_at).toLocaleString('de-DE'):'—';
-  $('conf').textContent=cov.coverage_confidence||'—'; $('conf').className='badge '+((cov.coverage_confidence||'').toLowerCase()==='low'?'bad':'ok');
-  $('run').textContent=L.run_id?'Run '+String(L.run_id).replace('T','/').slice(0,16):'Run —';
-  $('total').textContent=c.today_file_total??0;
-  $('counts').innerHTML=[['High',c.high,'high'],['Medium',c.medium,'med'],['Observe',c.observe,'obs'],['Relevant',c.new_relevant_findings,''],['Errors',c.source_errors,(c.source_errors||0)>0?'high':'muted']].map(([k,v,cl])=>`<div class=row><span>${k}</span><b class="num ${cl}">${v??0}</b></div>`).join('');
-  const sg=cov.active_sensor_groups||{}; $('sensors').innerHTML=Object.entries(sg).sort((a,b)=>b[1]-a[1]).map(([k,v])=>`<div class=row><span>${esc(k)}</span><b>${v}</b></div>`).join('')||'<span class=muted>keine Daten</span>';
-  renderWatch(); renderFindings(); renderRadar(); renderGate(); renderPrinciples(); renderTabs();
+  $('conf').textContent=cov.coverage_confidence||L.coverage_confidence||'unknown';
+  $('conf').className='badge '+(((cov.coverage_confidence||'').toLowerCase()==='low')?'warn':'ok');
+  $('mode').textContent=L.mode||L.status||'feed';
+  $('total').textContent=c.today_file_total??fs.length??0;
+  $('findingCount').textContent=fs.length;
+  $('counts').innerHTML=[
+    ['High',c.high??0,'bad'],
+    ['Medium',c.medium??0,'warn'],
+    ['Observe',c.observe??fs.length??0,'ok'],
+    ['Relevant',c.new_relevant_findings??fs.length??0,''],
+    ['Errors',c.source_errors??(L.source_errors||[]).length??0,'bad']
+  ].map(([k,v,cl])=>`<div class=row><span>${k}</span><b class="num ${cl}">${v}</b></div>`).join('');
+  if(L.status==='emergency'||L.mode?.includes('emergency')){
+    $('notice').style.display='block';
+    $('notice').textContent='Emergency Mode: sichtbare Feed-Kadenz wiederhergestellt; Abdeckung begrenzt, Hardened-Monitor bleibt in Reparatur.';
+  }
+  $('findings').innerHTML=fs.map(f=>`
+    <article class=card>
+      <div class=title>${f.url?`<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title)}</a>`:esc(f.title)}</div>
+      <div class=summary>${esc(f.summary||f.why_it_matters||'')}</div>
+      <div class=tags>
+        <span class=tag>${esc(f.priority||'observe')}</span>
+        <span class=tag>score ${esc(f.relevance_score??'')}</span>
+        <span class=tag>${esc(f.bucket||f.source_type||'other')}</span>
+        <span class=tag>${esc(f.source||'')}</span>
+        <span class=tag>${esc(f.published_at||'unknown')}</span>
+      </div>
+    </article>`).join('') || '<div class=card><span class=summary>Keine Findings. Das ist ein technischer Warnzustand, keine Entwarnung.</span></div>';
 }
-function renderTabs(){$('tabs').innerHTML=WINDOWS.map(w=>`<button class="tab ${S.window===w?'active':''}" onclick="S.window='${w}';renderRadar();renderTabs()">${w}</button>`).join('')}
-function renderWatch(){
-  const topics=D.latest?.under_observation?.topics||[];
-  $('watch').innerHTML=topics.map((t,i)=>{const wh=t.window_hits||{};const wins=WINDOWS.map(w=>`${w}:${wh[w]?.hit_count||0}`).join(' · ');return `<div class=card onclick='watch(${i})'><div class=title>${esc(t.title)}</div><div class=summary>${wins}</div><div class=tags><button type=button class=tab onclick='copyResearch("watch",${i},event)'>recherchier mir das</button></div></div>`}).join('')||'<div class=card><span class=muted>keine Beobachtungslanes</span></div>';
-}
-function findings(){
- const s=D.latest?.sections||{};return [...(s.high||[]).map(x=>({...x,p:'high'})),...(s.medium||[]).map(x=>({...x,p:'medium'})),...(s.observe||[]).map(x=>({...x,p:'observe'}))];
-}
-function renderFindings(){
- const fs=findings();$('findingCount').textContent=fs.length;
- $('findings').innerHTML=fs.map((f,i)=>`<div class=card onclick='openFinding(${i})'><div class=grid2><b class="score ${f.p==='high'?'high':f.p==='medium'?'med':'obs'}">${f.relevance_score??''}</b><div><div class=title>${f.url?`<a href="${esc(f.url)}" target=_blank rel=noopener>${esc(f.title)}</a>`:esc(f.title)}</div><div class=summary>${esc(f.summary||'')}</div><div class=tags><span class=tag>${esc(f.bucket||f.source_type||'other')}</span><span class=tag>${esc(f.source||'')}</span><span class=tag>${esc(f.risk_or_opportunity||'')}</span><button type=button class=tab onclick='copyResearch("finding",${i},event)'>recherchier mir das</button></div></div></div></div>`).join('')||'<div class=card><span class=muted>keine Findings</span></div>';
-}
-function trendList(){
- if(D.trends?.windows?.[S.window]?.ranked_topics)return D.trends.windows[S.window].ranked_topics;
- if(D.trends?.ranked_topics)return D.trends.ranked_topics;
- return (D.latest?.under_observation?.topics||[]).flatMap(t=>Object.values(t.window_hits||{}).flatMap(w=>w.matched_topics||[])).sort((a,b)=>(b.trend_score||0)-(a.trend_score||0));
-}
-function renderRadar(){
- const ts=trendList();$('winLabel').textContent=S.window;
- $('radar').innerHTML=ts.slice(0,30).map((t,i)=>{const w=t.trend_wucht??t.trend_score??0,d=t.score_delta_5m??t.acceleration??0,dc=d>0?'up':d<0?'dn':'flat';return `<div class=topic onclick='openTrend(${i})'><div><b>${esc(t.topic_label)}</b><small>${esc((t.sources||[])[0]||'')} · ×${t.mention_count||1} · src:${t.source_count||1}</small><div class=tags><button type=button class=tab onclick='copyResearch("trend",${i},event)'>recherchier mir das</button></div></div><div><div class=wucht>${Number(w).toFixed(0)}</div><div class="delta ${dc}">${d>0?'↑':d<0?'↓':'→'}${Math.abs(d).toFixed(1)}</div></div></div>`}).join('')||'<div class=card><span class=muted>keine Trenddaten</span></div>';
-}
-function renderGate(){const q=D.latest?.quality_gate||{},th=q.thresholds||{};$('gate').innerHTML=Object.entries({HIGH:th.high,MEDIUM:th.medium,OBSERVE:th.observe}).map(([k,v])=>`<div class=row><span>${k} ≥</span><b>${v??'—'}</b></div>`).join('')}
-function renderPrinciples(){const p=D.latest?.coverage?.principles||D.latest?.score_debias?.principles||[];$('principles').innerHTML=p.map(x=>`<div class=summary>${esc(x)}</div>`).join('')||'<span class=muted>keine Prinzipien</span>'}
-function cleanText(x){return String(x??'').replace(/\s+/g,' ').trim()}
-function researchPrompt(kind,x){
- const title=cleanText(x?.title||x?.topic_label||x?.topic_key||'unbenanntes Thema');
- const source=cleanText(x?.source||(x?.sources||[]).join(', ')||'');
- const url=cleanText(x?.url||'');
- const summary=cleanText(x?.summary||x?.status||'');
- const score=cleanText(x?.relevance_score??x?.trend_wucht??x?.trend_score??'');
- return [
-  'Senna, recherchiere mir dieses Thema vertieft.',
-  '',
-  'Nutze den Senna-Infoflow-Treffer als Ausgangspunkt, aber prüfe danach direkte öffentliche Primärquellen, Gegenquellen und Aktualität. Keine News älter als 14 Tage als aktuelle Lage verwenden.',
-  '',
-  `Typ: ${kind}`,
-  `Thema: ${title}`,
-  source?`Quelle(n): ${source}`:'',
-  url?`URL: ${url}`:'',
-  summary?`Kurzlage: ${summary}`:'',
-  score?`Score/Wucht: ${score}`:'',
-  '',
-  'Bitte liefere:',
-  '1. Was ist wirklich bekannt?',
-  '2. Was ist wahrscheinlich, aber nicht gesichert?',
-  '3. Welche direkten Quellen bestätigen oder widersprechen?',
-  '4. Risiko, Chance oder nur Beobachtung?',
-  '5. Relevanz für Yps/AXI0M.',
-  '6. Empfohlene nächste Handlung.'
- ].filter(Boolean).join('\\n');
-}
-async function copyResearch(kind,i,e){
- if(e)e.stopPropagation();
- const x=kind==='finding'?findings()[i]:kind==='trend'?trendList()[i]:D.latest?.under_observation?.topics?.[i];
- if(!x)return;
- const text=researchPrompt(kind,x);
- try{
-  await navigator.clipboard.writeText(text);
-  $('detail').innerHTML=`<b>Recherche-Prompt kopiert.</b><p class=muted>${esc(cleanText(x.title||x.topic_label||x.topic_key))}</p>`;
- }catch(err){
-  window.prompt('Prompt kopieren:',text);
- }
-}
-
-function watch(i){const t=D.latest?.under_observation?.topics?.[i]; if(!t)return; const arr=WINDOWS.flatMap(w=>t.window_hits?.[w]?.matched_topics||[]).sort((a,b)=>(b.trend_score||0)-(a.trend_score||0)); if(arr[0])showTrend(arr[0]);}
-function openTrend(i){showTrend(trendList()[i])}
-function openFinding(i){const f=findings()[i];$('signalName').textContent=f.title||'Finding';$('detail').innerHTML=`<b>${esc(f.title)}</b><p>${esc(f.summary||'')}</p>${f.url?`<p><a href="${esc(f.url)}" target=_blank rel=noopener>Quelle öffnen</a></p>`:''}`;draw([{x:'now',y:f.relevance_score||0}])}
-function showTrend(t){if(!t)return;$('signalName').textContent=t.topic_label||t.topic_key;const pts=[];const wins=D.trends?.windows||{};WINDOWS.forEach(w=>{const hit=(wins[w]?.ranked_topics||[]).find(x=>x.topic_key===t.topic_key);if(hit)pts.push({x:w,y:hit.trend_wucht??hit.trend_score??0})});if(!pts.length)pts.push({x:S.window,y:t.trend_wucht??t.trend_score??0});$('detail').innerHTML=`<b>${esc(t.topic_label)}</b><p class=muted>Status: ${esc(t.status||'new')} · Mentions: ${t.mention_count||1} · Quellen: ${t.source_count||1}</p>`;draw(pts)}
-function draw(pts){const c=$('chart'),r=c.getBoundingClientRect(),dpr=devicePixelRatio||1;c.width=r.width*dpr;c.height=190*dpr;const x=c.getContext('2d');x.scale(dpr,dpr);x.clearRect(0,0,r.width,190);const vals=pts.map(p=>p.y),max=Math.max(1,...vals),min=Math.min(0,...vals),pad=28,w=r.width-pad*2,h=140,y=v=>15+(1-(v-min)/(max-min))*h,xx=i=>pad+(pts.length>1?i/(pts.length-1)*w:w/2);x.strokeStyle='#1e2d3d';for(let i=0;i<4;i++){let yy=15+i*h/3;x.beginPath();x.moveTo(pad,yy);x.lineTo(r.width-pad,yy);x.stroke()}if(pts.length>1){x.beginPath();x.moveTo(xx(0),y(vals[0]));pts.forEach((p,i)=>i&&x.lineTo(xx(i),y(p.y)));x.strokeStyle='#f0a832';x.lineWidth=2;x.stroke()}pts.forEach((p,i)=>{x.beginPath();x.arc(xx(i),y(p.y),3,0,7);x.fillStyle='#3ddc84';x.fill();x.fillStyle='#6a7f94';x.font='10px Consolas';x.textAlign='center';x.fillText(p.x,xx(i),180)})}
-load();setInterval(load,300000);
+getJson().then(render).catch(e=>{$('err').style.display='block';$('err').textContent='Feed konnte nicht geladen werden:\\n'+(e.message||e);});
+setInterval(()=>getJson().then(render).catch(()=>{}),300000);
 </script>
 </body>
 </html>
