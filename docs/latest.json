@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T10:12:24+00:00",
-  "run_id": "2026-06-20T10:12:24+00:00",
+  "generated_at": "2026-06-20T10:15:23+00:00",
+  "run_id": "2026-06-20T10:15:23+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -667,48 +667,7 @@
       "id": "828c0613a70fcebb1ed0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "技術記事、 専門家としてのプログラマ、 言語化",
-      "url": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T04:52:30+00:00",
-      "fetched_at": "2026-06-20T10:12:04+00:00",
-      "summary": "技術記事やテクニカルライティングとは何なのか #zennfes の発表資料",
-      "matched_keywords": [
-        "Hatena"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cfaa16abc1875cffafd6"
-    },
-    {
-      "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-19T13:03:00+00:00",
-      "fetched_at": "2026-06-20T10:12:04+00:00",
-      "summary": "6月19日、楽天モバイルは自社の対象プラン契約者向けに、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」の提供を順次開始すると発表した。対象となるのは、「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン（データタイプ）」の他、法人向け「音声＋データプラン」「データ専用プラン」などの契約者だ。...",
-      "matched_keywords": [
-        "Hatena"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5013cf653d089ec1ba6b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
