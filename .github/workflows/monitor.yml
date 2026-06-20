@@ -9,291 +9,92 @@ permissions:
   contents: write
 
 concurrency:
-  group: senna-infoflow-emergency-feed-${{ github.run_id }}
-  cancel-in-progress: false
+  group: senna-infoflow-monitor
+  cancel-in-progress: true
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 9
     steps:
       - uses: actions/checkout@v5
 
       - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+          cache: "pip"
 
-      - name: Write emergency RSS briefing
-        timeout-minutes: 3
+      - name: Install dependencies
+        timeout-minutes: 2
         run: |
-          python - <<'PY'
-          import email.utils
-          import json
-          import re
-          import time
-          import urllib.request
-          import xml.etree.ElementTree as ET
-          from datetime import datetime, timezone
-          from html import unescape
-          from pathlib import Path
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-          USER_AGENT = "senna-infoflow-emergency/1.1"
-          NOW = datetime.now(timezone.utc)
-          TS = NOW.isoformat()
+      - name: Run hardened monitor canary
+        id: hardened
+        timeout-minutes: 4
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
+          MAX_ITEMS_PER_SOURCE: 5
+        run: |
+          echo "Running normal hardened monitor as canary. Visible dashboard is still protected by emergency writer."
+          python scripts/run_monitor_hardened.py
 
-          sources = [
-              ("openai_news_rss", "OpenAI News RSS", "https://openai.com/news/rss.xml", ["OpenAI","ChatGPT","AI","agents","automation","safety","privacy"], "agentic_ai"),
-              ("github_blog_atom", "GitHub Blog", "https://github.blog/feed/", ["GitHub","Copilot","CodeQL","Dependabot","security","automation","AI"], "agentic_devtools"),
-              ("github_changelog_atom", "GitHub Changelog", "https://github.blog/changelog/feed/", ["GitHub","Copilot","Actions","security","AI","MCP"], "agentic_devtools"),
-              ("hatena_hotentry_it", "Hatena Hotentry IT", "https://b.hatena.ne.jp/hotentry/it.rss", ["Japan","developer","AI","security","GitHub","MCP","Codex","agent"], "apac_signal"),
-              ("e27_asia_startups_feed", "e27 Asia Startup and Tech", "https://e27.co/feed/", ["Southeast Asia","startup","founder","AI","funding","Singapore","Indonesia","Vietnam","Thailand","Philippines"], "apac_signal"),
-              ("jpcert_english_alerts", "JPCERT English Alerts", "https://www.jpcert.or.jp/english/rss/jpcert-en.rdf", ["JPCERT","Japan","security","CVE","vulnerability","incident","advisory","malware","ransomware"], "security"),
-              ("twcert_security_news", "TWCERT Security News", "https://www.twcert.org.tw/tw/rss-104-1.xml", ["TWCERT","Taiwan","security","CVE","vulnerability","incident","phishing","ransomware","patch"], "security"),
-              ("heise_security_atom", "heise Security Alerts", "https://www.heise.de/security/rss/alert-news-atom.xml", ["security","CVE","vulnerability","Datenschutz","Open Source","Supply Chain Security"], "security"),
-              ("ap_top_news_rss", "AP Top News", "https://apnews.com/index.rss", ["world","politics","economy","conflict","disaster","technology"], "global_news"),
-          ]
-
-          def strip_html(text):
-              text = unescape(text or "")
-              text = re.sub(r"<[^>]+>", " ", text)
-              text = re.sub(r"\s+", " ", text).strip()
-              return text
-
-          def local_name(tag):
-              return tag.split("}", 1)[-1]
-
-          def child_text(el, names):
-              for child in list(el):
-                  if local_name(child.tag) in names and child.text:
-                      return child.text.strip()
-              found = None
-              for name in names:
-                  found = el.find(name)
-                  if found is not None and found.text:
-                      return found.text.strip()
-              return ""
-
-          def child_link(el):
-              txt = child_text(el, ["link"])
-              if txt:
-                  return txt.strip()
-              for child in list(el):
-                  if local_name(child.tag) == "link":
-                      href = child.attrib.get("href")
-                      if href:
-                          return href
-              return ""
-
-          def parse_date(s):
-              if not s:
-                  return None
-              try:
-                  return email.utils.parsedate_to_datetime(s).astimezone(timezone.utc).isoformat()
-              except Exception:
-                  try:
-                      return datetime.fromisoformat(s.replace("Z","+00:00")).astimezone(timezone.utc).isoformat()
-                  except Exception:
-                      return None
-
-          def classify_priority(entry):
-              text = f"{entry.get('title','')} {entry.get('summary','')}".lower()
-              high_terms = ["critical", "kritisch", "actively exploited", "rce", "remote code", "zero-day", "0-day", "breach", "leak", "outage", "ransomware", "cve-"]
-              medium_terms = ["security", "vulnerability", "patch", "copilot", "agent", "mcp", "ai", "openai", "github", "jpcert", "twcert"]
-              if any(t in text for t in high_terms):
-                  return "medium", 12
-              if any(t in text for t in medium_terms):
-                  return "observe", 7
-              return "observe", 5
-
-          def fetch_source(source_id, name, url, keywords, bucket):
-              req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-              with urllib.request.urlopen(req, timeout=12) as resp:
-                  data = resp.read(800000)
-              root = ET.fromstring(data)
-              items = root.findall(".//item")
-              if not items:
-                  items = [el for el in root.iter() if local_name(el.tag) == "entry"]
-              entries = []
-              for item in items[:6]:
-                  title = strip_html(child_text(item, ["title"]))[:220]
-                  link = child_link(item)
-                  summary = strip_html(child_text(item, ["description", "summary", "content"]))[:420]
-                  published = parse_date(child_text(item, ["pubDate", "published", "updated", "date"]))
-                  if not title:
-                      continue
-                  entry = {
-                      "source_id": source_id,
-                      "source": name,
-                      "source_type": "rss",
-                      "bucket": bucket,
-                      "title": title,
-                      "url": link,
-                      "summary": summary,
-                      "published_at": published,
-                      "observed_at": TS,
-                      "risk_or_opportunity": "Beobachtung",
-                      "why_it_matters": summary or "Minimaler Notfeed-Treffer; nach Normalisierung gegenprüfen.",
-                      "recommendation": "Bei Relevanz direkt gegen Primärquelle prüfen; Emergency Mode ist bewusst dünn.",
-                      "keywords": keywords,
-                  }
-                  priority, score = classify_priority(entry)
-                  entry["priority"] = priority
-                  entry["relevance_score"] = score
-                  entries.append(entry)
-              return entries
-
-          findings = []
-          errors = []
-          for sid, name, url, keywords, bucket in sources:
-              try:
-                  findings.extend(fetch_source(sid, name, url, keywords, bucket))
-              except Exception as e:
-                  errors.append({"source_id": sid, "source": name, "url": url, "error": repr(e), "observed_at": TS})
-              time.sleep(0.2)
-
-          seen = set()
-          deduped = []
-          for f in findings:
-              key = (f.get("title","").lower(), f.get("url",""))
-              if key in seen:
-                  continue
-              seen.add(key)
-              deduped.append(f)
-          findings = deduped[:35]
-
-          sections = {"high": [], "medium": [], "observe": []}
-          for f in findings:
-              sections.get(f["priority"], sections["observe"]).append(f)
-
-          counts = {
-              "today_file_total": len(findings),
-              "high": len(sections["high"]),
-              "medium": len(sections["medium"]),
-              "observe": len(sections["observe"]),
-              "new_relevant_findings": len(findings),
-              "source_errors": len(errors),
-          }
-          active_groups = {}
-          for f in findings:
-              active_groups[f.get("bucket") or f.get("source_type") or "other"] = active_groups.get(f.get("bucket") or f.get("source_type") or "other", 0) + 1
-
-          latest = {
-              "generated_at": TS,
-              "run_id": TS,
-              "status": "emergency",
-              "mode": "emergency_minimal_rss_writer",
-              "coverage": {
-                  "coverage_confidence": "low",
-                  "active_sensor_groups": active_groups,
-                  "principles": [
-                      "Emergency Mode: Feed-Kadenz vor Vollabdeckung.",
-                      "Keine Weltlage aus Minimalfeed ableiten.",
-                      "Direkte Primärquellen bei relevanten Treffern gegenprüfen.",
-                      "Hardened-Monitor bleibt blockiert, bis Slow-Lane und Timeouts repariert sind."
-                  ],
-              },
-              "counts": counts,
-              "sections": sections,
-              "findings": findings,
-              "source_errors": errors,
-              "quality_gate": {
-                  "thresholds": {"high": 18, "medium": 14, "observe": 3},
-                  "mode": "bypassed_emergency_writer",
-                  "note": "Normal quality gate bypassed to restore visible feed updates."
-              },
-              "under_observation": {
-                  "topics": [
-                      {
-                          "id": "feed_recovery_emergency_mode",
-                          "title": "Feed Recovery Emergency Mode",
-                          "status": "active",
-                          "window_hits": {},
-                          "notes": "Normaler Hardened-Monitor blockiert; Emergency-RSS-Writer hält sichtbare Updates am Leben."
-                      }
-                  ]
-              }
-          }
-
-          Path("briefings").mkdir(exist_ok=True)
-          Path("state").mkdir(exist_ok=True)
-          Path("reports").mkdir(exist_ok=True)
-          Path("data").mkdir(exist_ok=True)
-          Path("docs").mkdir(exist_ok=True)
-
-          Path("briefings/latest.json").write_text(json.dumps(latest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          Path("docs/latest.json").write_text(json.dumps(latest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-
-          md = []
-          md.append("# Senna Briefing\n")
-          md.append(f"_Generiert: {TS}_\n")
-          md.append("## Emergency Feed Mode\n")
-          md.append("Der normale Hardened-Monitor wurde nach wiederholten Timeouts temporär umgangen. Dieser Lauf schreibt ein **frontend-kompatibles** Minimal-RSS-Briefing, damit der sichtbare Feed wieder aktualisiert.\n")
-          md.append(f"- Coverage confidence: `low`\n- Findings: `{len(findings)}`\n- Source errors: `{len(errors)}`\n")
-          md.append("## Kurzlage\n")
-          md.append(f"{len(findings)} Treffer aus minimalem Kernfeed. Keine Score-Behauptung über Weltlage; nur Notversorgung bis zur Slow-Lane-Reparatur.\n")
-          for label in ["high", "medium", "observe"]:
-              md.append(f"## {label.upper()}\n")
-              items = sections[label]
-              if not items:
-                  md.append("- Keine.\n")
-              for f in items:
-                  md.append(f"- **{f['title']}** — {f['source']} — Score {f['relevance_score']}")
-                  if f.get("url"):
-                      md.append(f"  - Quelle: {f['url']}")
-                  md.append(f"  - Zeit: `{f.get('published_at') or 'unknown'}`")
-                  if f.get("summary"):
-                      md.append(f"  - Kurz: {f['summary']}")
-          md.append("\n## Source Errors\n")
-          if errors:
-              for e in errors:
-                  md.append(f"- `{e['source_id']}` — {e['error']}")
-          else:
-              md.append("- Keine.")
-          md.append("\n---\nEND OF DOCUMENT\n")
-          Path("briefings/latest.md").write_text("\n".join(md), encoding="utf-8")
-
-          health = {
-              "generated_at": TS,
-              "status": "emergency",
-              "mode": "emergency_minimal_rss_writer",
-              "frontend_schema": "sections/counts compatible",
-              "findings": len(findings),
-              "source_errors": errors,
-          }
-          Path("briefings/health.json").write_text(json.dumps(health, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          Path("docs/health.json").write_text(json.dumps(health, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          Path("briefings/health.md").write_text(
-              "\n".join([
-                  "# Senna Pipeline Health", "",
-                  f"_Generated: {TS}_", "",
-                  "Status: `emergency`", "",
-                  "## Emergency Mode", "",
-                  "- Hardened monitor bypassed after repeated timeout.",
-                  "- Minimal RSS writer active.",
-                  "- Frontend-compatible `sections/counts` schema active.",
-                  f"- findings: `{len(findings)}`",
-                  f"- source errors: `{len(errors)}`",
-                  "",
-                  "---",
-                  "END OF DOCUMENT",
-                  "",
-              ]),
-              encoding="utf-8"
-          )
-          print(f"Emergency frontend-compatible briefing written with {len(findings)} findings and {len(errors)} source errors.")
-          PY
-
-      - name: Commit generated emergency briefing
+      - name: Archive hardened canary output
+        if: always()
         timeout-minutes: 1
         run: |
-          git config user.name "senna-infoflow[bot]"
+          mkdir -p reports/canary
+          python - <<'PY'
+          import json, os, shutil
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          status = {
+              "generated_at": datetime.now(timezone.utc).isoformat(),
+              "workflow": "monitor.yml",
+              "mode": "hardened_monitor_canary",
+              "step_outcome": os.environ.get("HARDENED_OUTCOME", "unknown"),
+              "step_conclusion": os.environ.get("HARDENED_CONCLUSION", "unknown"),
+              "latest_json_present": Path("briefings/latest.json").exists(),
+          }
+          if Path("briefings/latest.json").exists():
+              shutil.copyfile("briefings/latest.json", "reports/canary/hardened_latest.json")
+              try:
+                  data = json.loads(Path("briefings/latest.json").read_text(encoding="utf-8"))
+                  {test = data.get("sections")}
+                 status["counts"] = data.get("counts", {})
+                  status["source_errors"] = len(data.get("source_errors", []))
+                  status["schema_ok"] = isinstance(data.get("sections"), dict) and isinstance(data.get("counts"), dict)
+              except Exception as exc:
+                 status["schema_ok"] = False
+                 status["parse_error"] = repr(exc)
+          if Path("briefings/latest.md").exists():
+              shutil.copyfile("briefings/latest.md", "reports/canary/hardened_latest.md")
+          Path("reports/canary/status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(json.dumps(status, ensure_ascii=False))
+          PY
+        env:
+          HARDENED_OUTCOME: ${{ steps.hardened.outcome }}
+          HARDENED_CONCLUSION: ${{ steps.hardened.conclusion }}
+
+      - name: Write visible emergency RSS briefing
+        timeout-minutes: 3
+        run: python scripts/emergency_rss_writer.py
+
+      - name: Commit generated briefing and canary reports
+        timeout-minutes: 1
+        run: |
+          git config user.name "senna-inflow[bot]"
           git config user.email "senna-infoflow[bot]@users.noreply.github.com"
 
-          git add briefings/ docs/ state/ reports/ data/
+          git add briefings/ docs/ reports/ state/ data/ config/sources.yaml inbox/manual_notes.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update Senna emergency briefing"
+            git commit -m "chore: update Senna briefing"
             git push
           fi
