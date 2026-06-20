@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T11:05:30+00:00",
-  "run_id": "2026-06-20T11:05:30+00:00",
+  "generated_at": "2026-06-20T11:49:34+00:00",
+  "run_id": "2026-06-20T11:49:34+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -709,29 +709,7 @@
       "id": "828c0613a70fcebb1ed0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "伝わる発信のつくりかた",
-      "url": "https://yoshiko-pg.github.io/talks/zennfes-2026/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T07:28:29+00:00",
-      "fetched_at": "2026-06-20T11:05:09+00:00",
-      "summary": "2026/06/19のZennfesでの発表「伝わる発信のつくりかた」のスライドです。",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c9bf98ab4c97ebd4156d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
