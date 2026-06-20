@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-06-20T03:37:01.927781+00:00_
+_Generiert: 2026-06-20T04:03:57.544211+00:00_
 
 ## Emergency Feed Mode
 
-Der normale Hardened-Monitor wurde nach wiederholten Timeouts temporär umgangen. Dieser Lauf schreibt ein **frontend-kompatibles** Minimal-RSS-Briefing, damit der sichtbare Feed wieder aktualisiert.
+Der normale Hardened-Monitor läuft als Canary nebenher. Diese sichtbare Ausgabe bleibt absichtlich stabil und frontend-kompatibel, bis der normale Pfad wieder zuverlässig ist.
 
 - Coverage confidence: `low`
-- Findings: `35`
-- Source errors: `1`
+- Findings: `24`
+- Source errors: `2`
 
 ## Kurzlage
 
-35 Treffer aus minimalem Kernfeed. Keine Score-Behauptung über Weltlage; nur Notversorgung bis zur Slow-Lane-Reparatur.
+24 Treffer aus minimalem Kernfeed. Keine Score-Behauptung über Weltlage; nur Notversorgung bis zur Slow-Lane-Reparatur.
 
 ## HIGH
 
@@ -56,32 +56,9 @@ Der normale Hardened-Monitor wurde nach wiederholten Timeouts temporär umgangen
   - Quelle: https://www.heise.de/news/Angriffe-auf-FortiSandbox-Schwachstellen-11335667.html
   - Zeit: `2026-06-17T11:49:00+00:00`
   - Kurz: Schwachstellen in FortiSandbox sind derzeit Ziel von Angriffen im Internet. Patches zum Absichern stehen seit April bereit.
+
 ## OBSERVE
 
-- **New usage analytics and updated spend controls for enterprises** — OpenAI News RSS — Score 7
-  - Quelle: https://openai.com/index/chatgpt-enterprise-spend-controls
-  - Zeit: `2026-06-18T17:00:00+00:00`
-  - Kurz: OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
-- **Improving health intelligence in ChatGPT** — OpenAI News RSS — Score 5
-  - Quelle: https://openai.com/index/improving-health-intelligence-in-chatgpt
-  - Zeit: `2026-06-18T11:00:00+00:00`
-  - Kurz: Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
-- **Using AI to help physicians diagnose rare genetic diseases affecting children** — OpenAI News RSS — Score 7
-  - Quelle: https://openai.com/index/diagnose-rare-childhood-diseases
-  - Zeit: `2026-06-18T08:00:00+00:00`
-  - Kurz: Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
-- **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry** — OpenAI News RSS — Score 7
-  - Quelle: https://openai.com/index/ai-chemist-improves-reaction
-  - Zeit: `2026-06-17T10:00:00+00:00`
-  - Kurz: OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
-- **Introducing LifeSciBench** — OpenAI News RSS — Score 7
-  - Quelle: https://openai.com/index/introducing-life-sci-bench
-  - Zeit: `2026-06-17T00:00:00+00:00`
-  - Kurz: Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
-- **Predicting model behavior before release by simulating deployment** — OpenAI News RSS — Score 7
-  - Quelle: https://openai.com/index/deployment-simulation
-  - Zeit: `2026-06-16T00:00:00+00:00`
-  - Kurz: OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
 - **How we built an internal data analytics agent** — GitHub Blog — Score 7
   - Quelle: https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/
   - Zeit: `2026-06-19T16:00:00+00:00`
@@ -130,30 +107,6 @@ Der normale Hardened-Monitor wurde nach wiederholten Timeouts temporär umgangen
   - Quelle: https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches
   - Zeit: `2026-06-18T16:24:05+00:00`
   - Kurz: Searching for pull requests using author: now shows pull requests opened by Copilot cloud agent on the user’s behalf. For example, searching with author:@me on github.com/pulls will return your own… The post Copilot-authored pull requests now included in author searches appeared first on The GitHub Blog .
-- **BioArk’s growth strategy plants seeds for a greener agricultural future** — e27 Asia Startup and Tech — Score 5
-  - Quelle: https://e27.co/bioark-feature-20250514/
-  - Zeit: `2026-06-19T11:50:48+00:00`
-  - Kurz: Farming practices across Asia face mounting pressure to increase output while reducing environmental damage. For BioArk, a Singapore-based agritech company, this challenge is a starting point for rethinking how fertilisers are made, applied, and integrated into existing systems without demanding costly changes from farmers. Rather than focusing on history or legacy methods, BioArk’s team develops […] The post BioArk’
-- **Momentum without maturity: Southeast Asia’s AI reality** — e27 Asia Startup and Tech — Score 7
-  - Quelle: https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/
-  - Zeit: `2026-06-19T11:49:27+00:00`
-  - Kurz: The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six economies — Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam — and found the region is nudging […] The post Momentum without
-- **NewGen doubles down on K25.ai as Asia-focused AI livestreaming platform eyes commercial launch** — e27 Asia Startup and Tech — Score 7
-  - Quelle: https://e27.co/newgen-doubles-down-on-k25-ai-as-asia-focused-ai-livestreaming-platform-eyes-commercial-launch-20260619/
-  - Zeit: `2026-06-19T11:41:09+00:00`
-  - Kurz: K25.ai, an APAC-focused startup attempting to fuse live streaming, creator monetisation, and prediction markets, has closed a US$10 million pre‑Series A round at a US$100 million valuation. With this deal, Nasdaq-listed NewGenIVF Group completed a US$4 million tranche that brings its aggregate commitment in the AI firm to US$10 million. Once closing conditions are satisfied, […] The post NewGen doubles down on K25.ai
-- **fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan** — e27 Asia Startup and Tech — Score 7
-  - Quelle: https://e27.co/fileai-funding-20260619/
-  - Zeit: `2026-06-19T07:04:44+00:00`
-  - Kurz: Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan’s JR East Group, marking a significant step in the company’s expansion into the Japanese market. The investment comes alongside a deployment partnership in which fileAI’s governed AI platform will be rolled out across JR East […] The post fileAI secures strategic investment fr
-- **Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem** — e27 Asia Startup and Tech — Score 7
-  - Quelle: https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/
-  - Zeit: `2026-06-19T06:11:11+00:00`
-  - Kurz: Manus’s reported buyback encapsulates a new reality: AI deals are no longer just commercial transactions but geopolitical chess moves with clear implications for Southeast Asia. If Chinese investors repurchase Manus at the roughly US$2 billion price Meta paid, the outcome will reflect Beijing’s intent to retain control over advanced AI assets developed with Chinese capital, […] The post Ecosystem Roundup: Manus buyba
-- **The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk management at scale** — e27 Asia Startup and Tech — Score 7
-  - Quelle: https://e27.co/the-83000-experiment-indonesia-is-running-aseans-largest-test-of-risk-management-at-scale-20260619/
-  - Zeit: `2026-06-19T03:50:22+00:00`
-  - Kurz: Two weeks ago, I sat across from the new chairman of a cooperative in West Java. He had been appointed three months earlier under Indonesia’s Koperasi Merah Putih programme. He asked me, sincerely and without embarrassment, how he was supposed to know which risks his cooperative was actually carrying — and whether he had to […] The post The 83,000 experiment: Indonesia is running ASEAN’s largest test of risk manageme
 - **「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標** — TWCERT Security News — Score 5
   - Quelle: https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html
   - Zeit: `2026-05-29T02:05:00+00:00`
@@ -162,10 +115,14 @@ Der normale Hardened-Monitor wurde nach wiederholten Timeouts temporär umgangen
   - Quelle: https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html
   - Zeit: `2026-04-30T06:08:00+00:00`
   - Kurz: 勒索軟體即服務（RaaS）組織「The Gentlemen」 自 2025 年中旬崛起後，近期透過整合 SystemBC 代理惡意軟體，使其攻擊規模於 2026 年第一季大幅擴張。該組織採取高度成熟的雙重勒索策略，不僅加密受害者的系統檔案，亦同步進行大規模關鍵商業資料外洩，以此作為威脅支付贖金的籌碼。近期，資安研究人員在事件回應調查中發現，The Gentlemen在入侵流程中大量部署「SystemBC」代理惡意軟體，經分析其C2伺服器資料後，揭露受害者數量已逾 1,570 名，主要分佈於美國、英國及德國，感染特徵證實該攻擊具備高度針對性，精準鎖定企業與組織環境，而非一般個人使用者。 「SystemBC」是一款經常被利用於人為操作入侵流程中的代理惡意軟體。一旦於受害環境完成部署，該軟體即建立 SOCKS5 網路隧道，並透過自訂 RC4 加密協定連線至 C2 伺服器。此種加密代理通道不僅賦予攻擊者隱蔽通訊與橫向移動的能力，更整合了
+- **Android 17 hat direkt Sicherheitspatches mit an Bord** — heise Security Alerts — Score 7
+  - Quelle: https://www.heise.de/news/Android-17-hat-direkt-Sicherheitspatches-mit-an-Bord-11335345.html
+  - Zeit: `2026-06-17T08:57:00+00:00`
+  - Kurz: Googles Entwickler haben in der Launchversion von Android 17 diverse Sicherheitslücken geschlossen.
 
 ## Source Errors
-
-- `ap_top_news_rss` — <HTTPError 401: 'Unauthorized'>
+- `openai_news_rss` — ParseError('unclosed CDATA section: line 7725, column 34')
+- `e27_asia_startups_feed` — ParseError('unclosed token: line 3121, column 3')
 
 ---
 END OF DOCUMENT

@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-20T03:37:01.927781+00:00",
+  "generated_at": "2026-06-20T04:03:57.544211+00:00",
   "status": "emergency",
   "mode": "emergency_minimal_rss_writer",
   "frontend_schema": "sections/counts compatible",
-  "findings": 35,
+  "findings": 24,
   "source_errors": [
     {
-      "source_id": "ap_top_news_rss",
-      "source": "AP Top News",
-      "url": "https://apnews.com/index.rss",
-      "error": "<HTTPError 401: 'Unauthorized'>",
-      "observed_at": "2026-06-20T03:37:01.927781+00:00"
+      "source_id": "openai_news_rss",
+      "source": "OpenAI News RSS",
+      "url": "https://openai.com/news/rss.xml",
+      "error": "ParseError('unclosed CDATA section: line 7725, column 34')",
+      "observed_at": "2026-06-20T04:03:57.544211+00:00"
+    },
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source": "e27 Asia Startup and Tech",
+      "url": "https://e27.co/feed/",
+      "error": "ParseError('unclosed token: line 3121, column 3')",
+      "observed_at": "2026-06-20T04:03:57.544211+00:00"
     }
-  ]
+  ],
+  "normal_canary": "see reports/canary/status.json if present"
 }
