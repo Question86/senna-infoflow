@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T22:14:31+00:00",
-  "run_id": "2026-06-20T22:14:31+00:00",
+  "generated_at": "2026-06-20T22:44:51+00:00",
+  "run_id": "2026-06-20T22:44:51+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -963,53 +963,7 @@
       "id": "828c0613a70fcebb1ed0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
-      "url": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T14:55:45+00:00",
-      "fetched_at": "2026-06-20T22:14:11+00:00",
-      "summary": "この記事は、今まで Claude Code 1本でやってきていたエンジニアが、Opus 4.7 の体験が悪く、Codex に浮気してみて気づいたことのまとめである。 実際に触った感想は多くの人がまとめているが、その振る舞いが起こる理由について考察している人はあまり見かけなかった。 そのため本記事では、 Claude Code と Codex の公...",
-      "matched_keywords": [
-        "Hatena",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "f4d461805267246207e0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
