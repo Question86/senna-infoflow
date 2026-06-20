@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-20T21:44:23+00:00_
+_Generiert: 2026-06-20T22:14:31+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+19 neue relevante Treffer. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); developer (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでのみ利用できる。 Record & Replay -Codex | OpenAI Developers Show Codex a workflow once. Reuse it as a skill....
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Code と Codex を使い比べて見えた設計思想の違い** — Score 14, observation — [Quelle](https://zenn.dev/tark_ann/articles/e8b09c6db73bfb)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-20T14:55:45+00:00`, fetched `2026-06-20T22:14:11+00:00`
+  - Treffer: Hatena, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: この記事は、今まで Claude Code 1本でやってきていたエンジニアが、Opus 4.7 の体験が悪く、Codex に浮気してみて気づいたことのまとめである。 実際に触った感想は多くの人がまとめているが、その振る舞いが起こる理由について考察している人はあまり見かけなかった。 そのため本記事では、 Claude Code と Codex の公...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
