@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-20T04:01:47.954732+00:00",
+  "generated_at": "2026-06-20T04:04:27.380056+00:00",
   "workflow": "monitor.yml",
   "mode": "hardened_monitor_canary_post_visible_commit",
-  "step_outcome": "skipped",
-  "step_conclusion": "skipped",
+  "step_outcome": "success",
+  "step_conclusion": "success",
   "latest_json_present": true,
   "counts": {
-    "today_file_total": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 6,
     "high": 0,
-    "medium": 9,
-    "observe": 26,
-    "new_relevant_findings": 35,
+    "medium": 0,
+    "observe": 1,
     "source_errors": 1
   },
   "source_errors": 1,
