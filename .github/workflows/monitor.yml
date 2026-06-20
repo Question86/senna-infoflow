@@ -49,6 +49,10 @@ jobs:
           echo "Hardened monitor failed or timed out. Writing emergency RSS fallback."
           python scripts/emergency_rss_writer.py
 
+      - name: Restore full dashboard UI from protected commit
+        run: |
+          git checkout bd43c72da89e17b5e1f44d3ad19fca1284047db7 -- docs/index.html
+
       - name: Commit generated briefing
         timeout-minutes: 1
         run: |
