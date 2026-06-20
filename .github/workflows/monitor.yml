@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: senna-infoflow-monitor
-  cancel-in-progress: true
+  group: senna-infoflow-monitor-recovery-${{ github.run_id }}
+  cancel-in-progress: false
 
 jobs:
   monitor:
