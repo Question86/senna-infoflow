@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: senna-infoflow-monitor-recovery-${{ github.run_id }}
+  group: senna-infoflow-monitor-emergency-${{ github.run_id }}
   cancel-in-progress: false
 
 jobs:
@@ -30,135 +30,129 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Merge source overlays
+      - name: Write emergency minimal source config
         timeout-minutes: 1
         run: |
           python - <<'PY'
-          import json, os
+          import json
           from datetime import datetime, timezone
           from pathlib import Path
-          import yaml
 
-          def load_yaml(path):
-              p = Path(path)
-              if not p.exists():
-                  return {}
-              return yaml.safe_load(p.read_text(encoding="utf-8")) or {}
-
-          base_path = Path("config/sources.yaml")
-          base = load_yaml(base_path)
-          base_sources = [
-              s for s in (base.get("sources") or [])
-              if isinstance(s, dict) and s.get("id")
+          sources = [
+            {
+              "id": "openai_news_rss",
+              "name": "OpenAI News RSS",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://openai.com/news/rss.xml",
+              "keywords": ["OpenAI", "ChatGPT", "AI agents", "automation", "safety", "privacy"]
+            },
+            {
+              "id": "github_blog_atom",
+              "name": "GitHub Blog Atom",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://github.blog/feed/",
+              "keywords": ["GitHub", "GitHub Actions", "Copilot", "CodeQL", "Dependabot", "security", "automation", "AI"]
+            },
+            {
+              "id": "github_changelog_atom",
+              "name": "GitHub Changelog Atom",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://github.blog/changelog/feed/",
+              "keywords": ["GitHub", "Copilot", "CodeQL", "Actions", "security", "automation", "AI"]
+            },
+            {
+              "id": "hatena_hotentry_it",
+              "name": "Hatena Bookmark Hotentry IT",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 6,
+              "url": "https://b.hatena.ne.jp/hotentry/it.rss",
+              "keywords": ["Japan", "Hatena", "technology", "developer", "AI", "security", "GitHub", "MCP", "Codex", "agent"]
+            },
+            {
+              "id": "e27_asia_startups_feed",
+              "name": "e27 Asia Startup and Tech Feed",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://e27.co/feed/",
+              "keywords": ["Southeast Asia", "startup", "founder", "AI", "funding", "Singapore", "Indonesia", "Vietnam", "Thailand", "Philippines"]
+            },
+            {
+              "id": "jpcert_english_alerts",
+              "name": "JPCERT/CC English Alerts",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://www.jpcert.or.jp/english/rss/jpcert-en.rdf",
+              "keywords": ["JPCERT", "Japan", "security", "CVE", "vulnerability", "incident", "advisory", "malware", "ransomware"]
+            },
+            {
+              "id": "twcert_security_news",
+              "name": "TWCERT/CC Security News RSS",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://www.twcert.org.tw/tw/rss-104-1.xml",
+              "keywords": ["TWCERT", "Taiwan", "security", "CVE", "vulnerability", "incident", "phishing", "ransomware", "patch"]
+            },
+            {
+              "id": "heise_security_atom",
+              "name": "heise Security Alerts",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://www.heise.de/security/rss/alert-news-atom.xml",
+              "keywords": ["security", "CVE", "vulnerability", "Datenschutz", "Open Source", "Supply Chain Security"]
+            },
+            {
+              "id": "ap_top_news_rss",
+              "name": "Associated Press Top News RSS",
+              "type": "rss",
+              "enabled": True,
+              "max_items": 5,
+              "url": "https://apnews.com/index.rss",
+              "keywords": ["world", "politics", "economy", "conflict", "disaster", "technology"]
+            },
+            {
+              "id": "manual_notes",
+              "name": "Manual Notes Inbox",
+              "type": "manual_note",
+              "enabled": True,
+              "path": "inbox/manual_notes.md",
+              "keywords": ["AXI0M", "User Yps", "Product idea", "Content chance", "Datenschutz", "Automatisierung"]
+            }
           ]
 
-          controls = load_yaml("config/source_controls.yaml")
-          remove_ids = {str(x) for x in controls.get("remove_source_ids", [])}
-          disable_ids = {str(x) for x in controls.get("disable_source_ids", [])}
-          downgrades = controls.get("downgrade_source_ids", {}) or {}
-
-          sources_by_id = {}
-          order = []
-
-          def upsert(source, prefer_front=False):
-              sid = str(source.get("id") or "")
-              if not sid or sid in remove_ids:
-                  return False
-              existed = sid in sources_by_id
-              sources_by_id[sid] = source
-              if not existed:
-                  if prefer_front:
-                      order.insert(0, sid)
-                  else:
-                      order.append(sid)
-              return existed
-
-          for source in base_sources:
-              upsert(source)
-
-          event_name = os.getenv("GITHUB_EVENT_NAME", "")
-          minute = datetime.now(timezone.utc).minute
-          include_macro = event_name == "workflow_dispatch" or minute % 15 == 0
-
-          # Emergency feed-health rule, 2026-06-20:
-          # The broad official_direct_sources overlay caused repeated hardened-monitor
-          # timeouts in the 5-minute feed loop. Keep the core/hot/strategic/macro
-          # lanes running first. Re-enable direct overlay only after it has per-source
-          # timeout/rate controls or a separate slower workflow.
-          overlay_paths = [
-              ("config/hot_sources.yaml", False),
-              ("config/strategic_sources.yaml", False),
-          ]
-          if include_macro:
-              overlay_paths.append(("config/macro_sources.yaml", False))
-          else:
-              print("Macro overlay skipped for this 5-minute run; it runs every 15 minutes or on manual dispatch.")
-
-          merged_count = 0
-          replaced_count = 0
-          for overlay_path, prefer_front in overlay_paths:
-              overlay = load_yaml(overlay_path)
-              sources = [
-                  s for s in (overlay.get("sources") or [])
-                  if isinstance(s, dict) and s.get("id")
-              ]
-              accepted = 0
-              replaced = 0
-              for source in sources:
-                  if upsert(source, prefer_front=prefer_front):
-                      replaced += 1
-                  accepted += 1
-              merged_count += accepted
-              replaced_count += replaced
-              print(f"Merged {accepted} source(s) from {overlay_path}; replaced {replaced}.")
-
-          for sid in list(sources_by_id):
-              if sid in remove_ids:
-                  sources_by_id.pop(sid, None)
-          order = [sid for sid in order if sid in sources_by_id and sid not in remove_ids]
-
-          for sid in disable_ids:
-              if sid in sources_by_id:
-                  sources_by_id[sid]["enabled"] = False
-
-          for sid, patch in downgrades.items():
-              if sid in sources_by_id and isinstance(patch, dict):
-                  for key, value in patch.items():
-                      if key == "notes_append":
-                          old = str(sources_by_id[sid].get("notes", "") or "")
-                          sources_by_id[sid]["notes"] = (old + " " + str(value)).strip()
-                      else:
-                          sources_by_id[sid][key] = value
-
-          # Emergency structured-only fast loop, 2026-06-20:
-          # sources.yaml may already contain baked webpage_check entries from prior overlay merges.
-          # Remove them from the active fast-loop config entirely; some monitor paths may not
-          # honor enabled=false consistently. Later move webpage checks into a slow lane with
-          # per-source timeout/rate controls.
-          if os.getenv("SENNA_FAST_LOOP_STRUCTURED_ONLY", "1") == "1":
-              removed_webpage_checks = 0
-              for sid, source in list(sources_by_id.items()):
-                  if str(source.get("type") or "") == "webpage_check":
-                      sources_by_id.pop(sid, None)
-                      removed_webpage_checks += 1
-              order = [sid for sid in order if sid in sources_by_id]
-              print(f"Emergency structured-only fast loop removed {removed_webpage_checks} webpage_check source(s).")
-
-          final_ids = [sid for sid in order if sid in sources_by_id]
-          base["sources"] = [sources_by_id[sid] for sid in final_ids]
-          base.setdefault("meta", {})
-          base["meta"]["source_merge_policy"] = {
-              "direct_sources_overlay_skipped": True,
-              "direct_sources_overlay_reason": "Emergency feed-health guard after repeated hardened-monitor timeouts.",
-              "media_after_direct_sources": True,
-              "removed_ids_count": len(remove_ids),
-              "disabled_ids_count": len(disable_ids),
-              "merged_overlay_sources": merged_count,
-              "replaced_overlay_sources": replaced_count,
-              "last_overlay_merge_utc": datetime.now(timezone.utc).isoformat(),
+          cfg = {
+            "meta": {
+              "project": "senna-infoflow",
+              "owner_alias": "User Yps",
+              "company": "AXI0M",
+              "website": "https://axi0m.de/blog.html",
+              "scope_notice": "Emergency minimal fast-feed mode. Broad webpage_check and heavy overlays are bypassed until source-level timeouts/slow lane exist.",
+              "emergency_mode": {
+                "enabled": True,
+                "reason": "Repeated hardened monitor timeouts after broad direct-source expansion.",
+                "generated_utc": datetime.now(timezone.utc).isoformat(),
+                "policy": "Keep structured RSS/manual core alive first; reintroduce sources by tier after feed writes again."
+              }
+            },
+            "defaults": {
+              "enabled": True,
+              "max_items": 5
+            },
+            "sources": sources
           }
-          base_path.write_text(json.dumps(base, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          print(f"Reset merged config with {len(base['sources'])} source definitions.")
+          Path("config").mkdir(exist_ok=True)
+          Path("config/sources.yaml").write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(f"Emergency source config written with {len(sources)} sources.")
           PY
 
       - name: Write active source manifest
@@ -174,7 +168,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
-          MAX_ITEMS_PER_SOURCE: 12
+          MAX_ITEMS_PER_SOURCE: 5
         run: python scripts/run_monitor_hardened.py
 
       - name: Filter stale findings
