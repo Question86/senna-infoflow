@@ -11,8 +11,7 @@ from datetime import datetime, timezone
 from html import unescape
 from pathlib import Path
 
-USER_AGENT = "senna-infoflow-emergency/1.2"
-
+USER_AGENT = "senna-infoflow-emergency/1.3"
 
 SOURCES = [
     ("openai_news_rss", "OpenAI News RSS", "https://openai.com/news/rss.xml", ["OpenAI", "ChatGPT", "AI", "agents", "automation", "safety", "privacy"], "agentic_ai"),
@@ -29,8 +28,7 @@ SOURCES = [
 def strip_html(text: str | None) -> str:
     text = unescape(text or "")
     text = re.sub(r"<[^>]+>", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def local_name(tag: str) -> str:
@@ -48,7 +46,6 @@ def child_text(el: ET.Element, names: list[str]) -> str:
     return ""
 
 
-
 def child_link(el: ET.Element) -> str:
     txt = child_text(el, ["link"])
     if txt:
@@ -59,7 +56,6 @@ def child_link(el: ET.Element) -> str:
             if href:
                 return href
     return ""
-
 
 
 def parse_date(value: str | None) -> str | None:
@@ -114,7 +110,7 @@ def fetch_source(source_id: str, name: str, url: str, keywords: list[str], bucke
             "observed_at": ts,
             "risk_or_opportunity": "Beobachtung",
             "why_it_matters": summary or "Minimaler Notfeed-Treffer; nach Normalisierung gegenprüfen.",
-            "recommendation": "Bei Relevanz direkt gegen Prinärquelle prüfen; Emergency Mode ist bewusst dünn.",
+            "recommendation": "Bei Relevanz direkt gegen Primärquelle prüfen; Emergency Mode ist bewusst dünn.",
             "keywords": keywords,
         }
         priority, score = classify_priority(entry)
@@ -127,24 +123,16 @@ def fetch_source(source_id: str, name: str, url: str, keywords: list[str], bucke
 def render_markdown(latest: dict) -> str:
     sections = latest["sections"]
     lines: list[str] = [
-        "# Senna Briefing",
-        "",
-        f"_Generiert: {latest['generated_at']}_",
-        "",
-        "## Emergency Feed Mode",
-        "",
-        "Der normale Hardened-Monitor läuft als Canary nebenher. Diese sichtbare Ausgabe bleibt absichtlich stabil und frontend-kompatibel, bis der normale Pfad wieder zuverlässig ist.",
-        "",
+        "# Senna Briefing", "",
+        f"_Generiert: {latest['generated_at']}_", "",
+        "## Emergency Feed Mode", "",
+        "Der normale Hardened-Monitor läuft als Canary nebenher. Diese sichtbare Ausgabe bleibt absichtlich stabil und frontend-kompatibel, bis der normale Pfad wieder zuverlässig ist.", "",
         f"- Coverage confidence: `{latest['coverage']['coverage_confidence']}`",
         f"- Findings: `{latest['counts']['new_relevant_findings']}`",
-        f"- Source errors: `{latest['counts']['source_errors']}`",
-        "",
-        "## Kurzlage",
-        "",
-        f"{latest['counts']['new_relevant_findings']} Treffer aus minimalem Kernfeed. Keine Score-Behauptung über Weltlage; nur Notversorgung bis zur Slow-Lane-Reparatur.",
-        "",
+        f"- Source errors: `{latest['counts']['source_errors']}`", "",
+        "## Kurzlage", "",
+        f"{latest['counts']['new_relevant_findings']} Treffer aus minimalem Kernfeed. Keine Score-Behauptung über Weltlage; nur Notversorgung bis zur Slow-Lane-Reparatur.", "",
     ]
-
     for label in ["high", "medium", "observe"]:
         lines.extend([f"## {label.upper()}", ""])
         items = sections.get(label) or []
@@ -154,11 +142,10 @@ def render_markdown(latest: dict) -> str:
             lines.append(f"- **{f['title']}** — {f['source']} — Score {f['relevance_score']}")
             if f.get("url"):
                 lines.append(f"  - Quelle: {f['url']}")
-            lines.append(f"  - Zeit: `{f.get('published_at') or 'unknown'}` ")
+            lines.append(f"  - Zeit: `{f.get('published_at') or 'unknown'}`")
             if f.get("summary"):
                 lines.append(f"  - Kurz: {f['summary']}")
         lines.append("")
-
     lines.append("## Source Errors")
     if latest.get("source_errors"):
         for e in latest["source_errors"]:
@@ -184,7 +171,7 @@ def main() -> int:
     seen: set[tuple[str, str]] = set()
     deduped: list[dict] = []
     for f in findings:
-        key = (str(f.get("title", "")).lower(), str(f.get("url", ""))
+        key = (str(f.get("title", "")).lower(), str(f.get("url", "")))
         if key in seen:
             continue
         seen.add(key)
@@ -243,7 +230,7 @@ def main() -> int:
                 },
                 {
                     "id": "physical_autoresearch_agentic_runtime",
-                    "title": "ENPIRE / Physical Autoresearch und agentische Runtime-Verbesserung ",
+                    "title": "ENPIRE / Physical Autoresearch und agentische Runtime-Verbesserung",
                     "status": "active",
                     "window_hits": {},
                     "notes": "Beobachtet Physical-Autoresearch, Verification/Reset/Budget/Audit-Harness und agentische Runtime-Pipelines.",
