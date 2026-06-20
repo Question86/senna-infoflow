@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T04:56:26+00:00",
-  "run_id": "2026-06-20T04:56:26+00:00",
+  "generated_at": "2026-06-20T06:33:52+00:00",
+  "run_id": "2026-06-20T06:33:52+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,110 +18,60 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 8,
+    "today_file_total": 9,
     "high": 0,
-    "medium": 1,
-    "observe": 0,
+    "medium": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [
+    "medium": [],
+    "observe": [
       {
-        "title": "macOS版Codexアプリにワークフローの“録画・再生”機能が登場 | gihyo.jp",
-        "url": "https://gihyo.jp/article/2026/06/codex-record-and-replay",
+        "title": "ターミナルでMarkdownをリッチに見られるleafが良さげかも | kawarimidoll.com",
+        "url": "https://kawarimidoll.com/posts/202606192/",
         "source": "Hatena Bookmark Hotentry IT",
         "source_type": "rss",
-        "published_at": "2026-06-19T06:48:59+00:00",
-        "fetched_at": "2026-06-20T04:56:06+00:00",
-        "summary": "OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでのみ利用できる。 Record & Replay -Codex | OpenAI Developers Show Codex a workflow once. Reuse it as a skill....",
+        "published_at": "2026-06-19T14:55:51+00:00",
+        "fetched_at": "2026-06-20T06:33:32+00:00",
+        "summary": "機能 TUIながらGUIライクな体験を売りにしているMarkdownビューア。 GitHub形式のアラート表記、40以上の言語のシンタックスハイライト、カラム揃えに対応した罫線つきテーブル表示といったレンダリングの拡張を備え、Latex/MermaidもUnicode記号等を用いて描画できます。 目次サイドバー、Fuzzy Finderなどの機能も同梱...",
         "matched_keywords": [
-          "developer",
-          "Hatena",
-          "OpenAI",
-          "Watchgraph:ai_agents_workflow"
+          "GitHub",
+          "Hatena"
         ],
-        "relevance_score": 16,
-        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); developer (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); GitHub (+2.0); recent (+1.0)",
         "risk_or_opportunity": "observation",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "watchgraph_modules": [
-          "ai_agents_workflow"
-        ],
-        "watchgraph_reasons": [
-          "ai_agents_workflow: Codex"
-        ],
-        "market_context": [
-          "NVDA",
-          "AMD",
-          "TSM",
-          "ASML",
-          "AVGO",
-          "MU",
-          "005930.KS",
-          "000660.KS",
-          "8035.T",
-          "MSFT",
-          "GTLB",
-          "FROG",
-          "TEAM",
-          "META",
-          "GOOGL",
-          "RDDT",
-          "SNAP",
-          "PINS"
-        ],
-        "id": "ea55661bc677d4b48454"
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12b112f2d5472477a8c3"
       }
-    ],
-    "observe": []
+    ]
   },
   "findings": [
     {
-      "title": "macOS版Codexアプリにワークフローの“録画・再生”機能が登場 | gihyo.jp",
-      "url": "https://gihyo.jp/article/2026/06/codex-record-and-replay",
+      "title": "ターミナルでMarkdownをリッチに見られるleafが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202606192/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-19T06:48:59+00:00",
-      "fetched_at": "2026-06-20T04:56:06+00:00",
-      "summary": "OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでのみ利用できる。 Record & Replay -Codex | OpenAI Developers Show Codex a workflow once. Reuse it as a skill....",
+      "published_at": "2026-06-19T14:55:51+00:00",
+      "fetched_at": "2026-06-20T06:33:32+00:00",
+      "summary": "機能 TUIながらGUIライクな体験を売りにしているMarkdownビューア。 GitHub形式のアラート表記、40以上の言語のシンタックスハイライト、カラム揃えに対応した罫線つきテーブル表示といったレンダリングの拡張を備え、Latex/MermaidもUnicode記号等を用いて描画できます。 目次サイドバー、Fuzzy Finderなどの機能も同梱...",
       "matched_keywords": [
-        "developer",
-        "Hatena",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "GitHub",
+        "Hatena"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); developer (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "ea55661bc677d4b48454"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12b112f2d5472477a8c3"
     }
   ],
   "source_errors": [],
