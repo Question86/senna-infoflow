@@ -30,16 +30,35 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run hardened monitor canary
+      - name: Write visible emergency RSS briefing first
+        timeout-minutes: 3
+        run: python scripts/emergency_rss_writer.py
+
+      - name: Commit visible briefing first
+        timeout-minutes: 1
+        run: |
+          git config user.name "senna-infoflow[bot]"
+          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
+
+          git add briefings/ docs/ state/ data/ inbox/manual_notes.md
+
+          if git diff --cached --quiet; then
+            echo "No visible briefing changes to commit."
+          else
+            git commit -m "chore: update Senna visible briefing"
+            git push
+          fi
+
+      - name: Run hardened monitor canary after visible commit
         id: hardened
-        timeout-minutes: 4
+        timeout-minutes: 2
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 5
         run: |
-          echo "Running normal hardened monitor as canary. Visible dashboard is still protected by emergency writer."
+          echo "Running normal hardened monitor as post-commit canary. Visible dashboard has already been updated."
           python scripts/run_monitor_hardened.py
 
       - name: Archive hardened canary output
@@ -61,7 +80,7 @@ jobs:
           status = {
               "generated_at": datetime.now(timezone.utc).isoformat(),
               "workflow": "monitor.yml",
-              "mode": "hardened_monitor_canary",
+              "mode": "hardened_monitor_canary_post_visible_commit",
               "step_outcome": os.environ.get("HARDENED_OUTCOME", "unknown"),
               "step_conclusion": os.environ.get("HARDENED_CONCLUSION", "unknown"),
               "latest_json_present": Path("briefings/latest.json").exists(),
@@ -85,21 +104,19 @@ jobs:
           print(json.dumps(status, ensure_ascii=False))
           PY
 
-      - name: Write visible emergency RSS briefing
-        timeout-minutes: 3
-        run: python scripts/emergency_rss_writer.py
-
-      - name: Commit generated briefing and canary reports
+      - name: Commit canary reports
+        if: always()
         timeout-minutes: 1
+        continue-on-error: true
         run: |
-          git config user.name "senna-inflow[bot]"
+          git config user.name "senna-infoflow[bot]"
           git config user.email "senna-infoflow[bot]@users.noreply.github.com"
 
-          git add briefings/ docs/ reports/ state/ data/ config/sources.yaml inbox/manual_notes.md
+          git add reports/canary/ briefings/http_fetch_metrics.json state/http_fetch_metrics.json logs/ || true
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No canary changes to commit."
           else
-            git commit -m "chore: update Senna briefing"
+            git commit -m "chore: update Senna canary report"
             git push
           fi
