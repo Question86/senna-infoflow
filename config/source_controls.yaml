@@ -1,5 +1,5 @@
 {
-  "_comment": "Noise and broken-source controls. Remove means do not include in active merged config. Prefer direct official feed/source of record over media-framed or homepage-noise. Emergency guard added 2026-06-20: slow broad official-direct webpage sensors disabled after monitor timeout; keep RSS/direct structured feeds active.",
+  "_comment": "Emergency feed-health controls. 2026-06-20: fast 5-minute feed must prefer structured RSS/GitHub/HN. Broad webpage_check sources are disabled until per-source timeout/rate controls or a separate slow-lane workflow exists.",
   "remove_source_ids": [
     "iea_news_energy_web",
     "opec_press_releases_web",
@@ -33,56 +33,47 @@
     "interpol_notices_web",
     "white_house_news_web",
     "white_house_presidential_actions_web",
+    "polizei_bayern_presse_direct",
     "reliefweb_rss_reference",
-    "msf_rss_reference"
+    "msf_rss_reference",
+    "reliefweb_mindanao_recovery_watch",
+    "eia_weekly_petroleum_status_web",
+    "eia_today_in_energy_web",
+    "deepstatemap_ukraine_web",
+    "reliefweb_ukraine_updates",
+    "nasa_firms_active_fire_web",
+    "who_disease_outbreak_news_web",
+    "fda_press_announcements_web",
+    "fda_drugs_whats_new_web",
+    "ema_news_web",
+    "nih_news_releases_web",
+    "usda_wasde_web",
+    "usda_nass_news_web",
+    "fao_newsroom_web",
+    "reliefweb_food_security_updates",
+    "wmo_news_web",
+    "axi0m_blog",
+    "axi0m_home"
   ],
   "downgrade_source_ids": {
-    "eia_weekly_petroleum_status_web": {
-      "max_items": 1,
-      "notes_append": "Kept as official reference but homepage extraction is noisy; replace with EIA API/table adapter."
-    },
-    "eia_today_in_energy_web": {
-      "max_items": 1,
-      "notes_append": "Kept low-volume until RSS/API adapter is pinned."
-    },
-    "fda_press_announcements_web": {
-      "max_items": 1,
-      "notes_append": "Official but webpage extraction can be noisy."
-    },
-    "fda_drugs_whats_new_web": {
-      "max_items": 1,
-      "notes_append": "Official but webpage extraction can be noisy."
-    },
-    "usda_wasde_web": {
-      "max_items": 1,
-      "notes_append": "Official but should become specific report/PDF adapter."
-    },
-    "usda_nass_news_web": {
-      "max_items": 1,
-      "notes_append": "Official but should become RSS/API if available."
-    },
-    "fao_newsroom_web": {
-      "max_items": 1,
-      "notes_append": "Official but broad homepage; keep low-volume."
-    },
     "ap_top_news_rss": {
       "max_items": 8,
-      "notes_append": "Backbone context; capped after direct-source expansion to keep 5-minute monitor reliable."
+      "notes_append": "Backbone context; capped during emergency feed recovery."
     },
     "presseportal_polizei_rss": {
       "max_items": 12,
-      "notes_append": "High-volume first-responder feed; cap retained so it cannot crowd out global sensors."
+      "notes_append": "High-volume first-responder feed; capped during emergency feed recovery."
     }
   },
   "policy": {
     "direct_source_first": true,
     "media_after_direct_sources": true,
-    "policy_fire_courts_health_label": "direct_event_or_process_claim_not_final_truth",
-    "emergency_timeout_guard": "If scheduled monitor fails by timeout, disable broad webpage_check direct sensors first; do not kill structured RSS lanes.",
+    "fast_loop_mode": "structured_only_until_webpage_slow_lane_exists",
+    "emergency_timeout_guard": "If hardened monitor times out, disable webpage_check sources in fast loop first; keep structured RSS lanes alive.",
     "do_not": [
+      "Do not treat feed silence as world silence.",
+      "Do not re-enable broad webpage_check sources in the 5-minute loop without per-source timeout and source budgets.",
       "Do not treat police press releases as court-proven facts.",
-      "Do not treat court schedules as outcomes.",
-      "Do not treat media rewrites as stronger than original official/first-responder feeds.",
       "Do not scrape restricted APIs or bypass access controls."
     ]
   }
