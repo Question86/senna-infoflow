@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T07:56:28+00:00",
-  "run_id": "2026-06-20T07:56:28+00:00",
+  "generated_at": "2026-06-20T09:10:40+00:00",
+  "run_id": "2026-06-20T09:10:40+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
+    "today_file_total": 11,
     "high": 0,
     "medium": 0,
     "observe": 1,
@@ -29,47 +29,49 @@
     "medium": [],
     "observe": [
       {
-        "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita",
-        "url": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+        "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+        "url": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
         "source": "Hatena Bookmark Hotentry IT",
         "source_type": "rss",
-        "published_at": "2026-06-19T22:41:58+00:00",
-        "fetched_at": "2026-06-20T07:56:08+00:00",
-        "summary": "はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあAIに描かせれ...",
+        "published_at": "2026-06-19T14:51:16+00:00",
+        "fetched_at": "2026-06-20T09:10:21+00:00",
+        "summary": "ベストプラクティスは、エージェントを縛るためではなく、速さの方向を正しく保つ ためのものだ。 1. 検証可能な要求（Verifiable Requirements） 原則: 「いい感じ」「適当に」は要求ではない。完了は コマンドか観測可能な状態 で定義する。 エージェント時代: 自然言語の依頼は実装に変換されやすいが、完了条件 は変...",
         "matched_keywords": [
+          "agent",
           "Hatena"
         ],
-        "relevance_score": 3,
-        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); agent (+2.0); recent (+1.0)",
         "risk_or_opportunity": "observation",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
         "watchgraph_modules": [],
         "watchgraph_reasons": [],
         "market_context": [],
-        "id": "3bf6906335e3c3767559"
+        "id": "fdd6fa05c9bf18192ee1"
       }
     ]
   },
   "findings": [
     {
-      "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita",
-      "url": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+      "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+      "url": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-19T22:41:58+00:00",
-      "fetched_at": "2026-06-20T07:56:08+00:00",
-      "summary": "はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあAIに描かせれ...",
+      "published_at": "2026-06-19T14:51:16+00:00",
+      "fetched_at": "2026-06-20T09:10:21+00:00",
+      "summary": "ベストプラクティスは、エージェントを縛るためではなく、速さの方向を正しく保つ ためのものだ。 1. 検証可能な要求（Verifiable Requirements） 原則: 「いい感じ」「適当に」は要求ではない。完了は コマンドか観測可能な状態 で定義する。 エージェント時代: 自然言語の依頼は実装に変換されやすいが、完了条件 は変...",
       "matched_keywords": [
+        "agent",
         "Hatena"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); agent (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3bf6906335e3c3767559"
+      "id": "fdd6fa05c9bf18192ee1"
     }
   ],
   "source_errors": [],
