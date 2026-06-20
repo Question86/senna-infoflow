@@ -5,92 +5,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Senna Infoflow</title>
 <style>
-:root{--bg:#0b0f14;--p:#111820;--b:#1e2d3d;--t:#c8d8e8;--m:#6a7f94;--a:#f0a832;--c:#38bcd4;--g:#3ddc84;--r:#e05c5c;--mono:Consolas,Menlo,monospace;--ui:Inter,Segoe UI,system-ui,sans-serif}
+:root{--bg:#0b0f14;--p:#111820;--p2:#161f2a;--b:#1e2d3d;--t:#c8d8e8;--m:#6a7f94;--a:#f0a832;--c:#38bcd4;--g:#3ddc84;--r:#e05c5c;--mono:Consolas,Menlo,monospace;--ui:Inter,Segoe UI,system-ui,sans-serif}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:13px/1.45 var(--ui)}a{color:var(--c);text-decoration:none}a:hover{text-decoration:underline}
 header{position:sticky;top:0;z-index:2;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:10px 14px;background:var(--p);border-bottom:1px solid var(--b)}
 h1{font:700 14px var(--mono);letter-spacing:.08em;color:var(--a);margin:0}h1 span{color:var(--m);font-weight:400}.meta{margin-left:auto;display:flex;gap:10px;flex-wrap:wrap;color:var(--m);font:11px var(--mono)}
 .badge{border:1px solid var(--b);border-radius:4px;padding:2px 7px}.ok{color:var(--g);border-color:#1a5c38}.bad{color:var(--r);border-color:#6a2020}.warn{color:var(--a);border-color:#7a5215}
-.wrap{display:grid;grid-template-columns:260px 1fr;gap:10px;padding:10px}.panel{background:var(--p);border:1px solid var(--b);border-radius:10px;overflow:hidden}.ph{padding:9px 12px;border-bottom:1px solid var(--b);font:700 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--m);display:flex;justify-content:space-between}.pb{padding:10px 12px}
-.row{display:flex;justify-content:space-between;gap:10px;padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}.row:last-child{border-bottom:0}.num{font:700 18px var(--mono)}
-.card{padding:10px 12px;border-bottom:1px solid var(--b)}.card:last-child{border-bottom:0}.title{font-weight:700;color:#e8f2ff}.summary{color:var(--m);font-size:12px;margin-top:4px}.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.tag{font:10px var(--mono);border:1px solid var(--b);color:var(--m);border-radius:3px;padding:1px 5px}
-#err{display:none;margin:10px;padding:10px;border:1px solid #6a2020;border-radius:8px;background:rgba(224,92,92,.08);color:var(--r);white-space:pre-wrap;font:11px var(--mono)}
-.notice{padding:10px 12px;color:var(--a);border-bottom:1px solid var(--b);background:rgba(240,168,50,.06)}
-@media(max-width:900px){.wrap{grid-template-columns:1fr}.meta{margin-left:0}}
-</style>
-</head>
-<body>
-<header>
-  <h1>SENNA <span>INFOFLOW</span></h1>
-  <div class="meta"><span id="ts">—</span><span id="conf" class="badge">—</span><span id="mode" class="badge">—</span></div>
-</header>
-<div id="err"></div>
-<div class="wrap">
-  <aside class="panel">
-    <div class="ph">Lagebild <span id="total">—</span></div>
-    <div class="pb" id="counts"></div>
-  </aside>
-  <main class="panel">
-    <div class="ph">Findings <span id="findingCount">—</span></div>
-    <div id="notice" class="notice" style="display:none"></div>
-    <div id="findings"></div>
-  </main>
-</div>
-<script>
-const SOURCES=['latest.json','./latest.json','https://raw.githubusercontent.com/Question86/senna-infoflow/main/briefings/latest.json'];
-const $=id=>document.getElementById(id);
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-async function getJson(){
-  let last;
-  for(const base of SOURCES){
-    try{
-      const r=await fetch(base+'?t='+Date.now(),{cache:'no-store'});
-      if(!r.ok) throw new Error(r.status+' '+r.statusText+' '+base);
-      return await r.json();
-    }catch(e){last=e}
-  }
-  throw last||new Error('Keine Feedquelle erreichbar');
-}
-function allFindings(L){
-  const s=L.sections||{};
-  const arr=[...(s.high||[]),...(s.medium||[]),...(s.observe||[])];
-  return arr.length?arr:(L.findings||[]);
-}
-function render(L){
-  const c=L.counts||{};
-  const cov=L.coverage||{};
-  const fs=allFindings(L);
-  $('ts').textContent=L.generated_at?new Date(L.generated_at).toLocaleString('de-DE'):'—';
-  $('conf').textContent=cov.coverage_confidence||L.coverage_confidence||'unknown';
-  $('conf').className='badge '+(((cov.coverage_confidence||'').toLowerCase()==='low')?'warn':'ok');
-  $('mode').textContent=L.mode||L.status||'feed';
-  $('total').textContent=c.today_file_total??fs.length??0;
-  $('findingCount').textContent=fs.length;
-  $('counts').innerHTML=[
-    ['High',c.high??0,'bad'],
-    ['Medium',c.medium??0,'warn'],
-    ['Observe',c.observe??fs.length??0,'ok'],
-    ['Relevant',c.new_relevant_findings??fs.length??0,''],
-    ['Errors',c.source_errors??(L.source_errors||[]).length??0,'bad']
-  ].map(([k,v,cl])=>`<div class=row><span>${k}</span><b class="num ${cl}">${v}</b></div>`).join('');
-  if(L.status==='emergency'||L.mode?.includes('emergency')){
-    $('notice').style.display='block';
-    $('notice').textContent='Emergency Mode: sichtbare Feed-Kadenz wiederhergestellt; Abdeckung begrenzt, Hardened-Monitor bleibt in Reparatur.';
-  }
-  $('findings').innerHTML=fs.map(f=>`
-    <article class=card>
-      <div class=title>${f.url?`<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title)}</a>`:esc(f.title)}</div>
-      <div class=summary>${esc(f.summary||f.why_it_matters||'')}</div>
-      <div class=tags>
-        <span class=tag>${esc(f.priority||'observe')}</span>
-        <span class=tag>score ${esc(f.relevance_score??'')}</span>
-        <span class=tag>${esc(f.bucket||f.source_type||'other')}</span>
-        <span class=tag>${esc(f.source||'')}</span>
-        <span class=tag>${esc(f.published_at||'unknown')}</span>
-      </div>
-    </article>`).join('') || '<div class=card><span class=summary>Keine Findings. Das ist ein technischer Warnzustand, keine Entwarnung.</span></div>';
-}
-getJson().then(render).catch(e=>{$('err').style.display='block';$('err').textContent='Feed konnte nicht geladen werden:\\n'+(e.message||e);});
-setInterval(()=>getJson().then(render).catch(()=>{}),300000);
-</script>
-</body>
-</html>
+.wrap{display:grid;grid-template-columns:260px 1fr 310px;gap:10px;padding:10px}.panel{background:var(--p);border:1px solid var(--b);border-radius:10px;overflow:hidden}.ph{padding:9px 12px;border-bottom:1px solid var(--b);font:700 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--m);display:flex;justify-content:space-between=.pb{padding:10px 12px}
