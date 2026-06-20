@@ -11,20 +11,14 @@
     "macro_policy": "every 15 minutes or manual dispatch"
   },
   "counts": {
-    "active_sources": 94,
+    "active_sources": 10,
     "by_type": {
-      "github_search": 5,
-      "hackernews": 3,
       "manual_note": 1,
-      "rss": 64,
-      "webpage_check": 21
+      "rss": 9
     },
     "by_lane": {
-      "base": 67,
-      "hot": 6,
-      "macro_policy": 11,
-      "platform_dev": 8,
-      "vendor_security": 2
+      "base": 8,
+      "platform_dev": 2
     }
   },
   "sources": [
@@ -33,297 +27,27 @@
       "name": "Associated Press Top News RSS",
       "type": "rss",
       "lane": "base",
-      "source_class": "wire_service_backbone",
+      "source_class": null,
       "host": "apnews.com",
-      "max_items": 20
-    },
-    {
-      "id": "axi0m_blog",
-      "name": "AXI0M Blog",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": null,
-      "host": "axi0m.de",
-      "max_items": null
-    },
-    {
-      "id": "axi0m_home",
-      "name": "AXI0M Website",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": null,
-      "host": "axi0m.de",
-      "max_items": null
-    },
-    {
-      "id": "bleepingcomputer_security",
-      "name": "BleepingComputer Security",
-      "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "www.bleepingcomputer.com",
-      "max_items": 15
-    },
-    {
-      "id": "bmg_pressemitteilungen_rss",
-      "name": "BMG Presse RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_health_ministry",
-      "host": "www.bundesgesundheitsministerium.de",
-      "max_items": 10
-    },
-    {
-      "id": "bundesarbeitsgericht_presse_rss",
-      "name": "Bundesarbeitsgericht Presse RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_court",
-      "host": "www.bundesarbeitsgericht.de",
-      "max_items": 10
-    },
-    {
-      "id": "bverwg_presse_rss",
-      "name": "Bundesverwaltungsgericht Presse RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_court",
-      "host": "www.bverwg.de",
-      "max_items": 10
-    },
-    {
-      "id": "bverwg_termine_rss",
-      "name": "Bundesverwaltungsgericht Termine RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_court",
-      "host": "www.bverwg.de",
-      "max_items": 10
-    },
-    {
-      "id": "carbon_brief_feed",
-      "name": "Carbon Brief Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "global_climate_policy",
-      "host": "www.carbonbrief.org",
-      "max_items": 8
-    },
-    {
-      "id": "cdc_eid_expedited_rss",
-      "name": "CDC Emerging Infectious Diseases Expedited Articles",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "infectious_disease_research",
-      "host": "wwwnc.cdc.gov",
-      "max_items": 8
-    },
-    {
-      "id": "cdc_travel_health_notices_rss",
-      "name": "CDC Travel Health Notices RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "global_health_travel_outbreaks",
-      "host": "wwwnc.cdc.gov",
-      "max_items": 12
-    },
-    {
-      "id": "cisa_all_advisories",
-      "name": "CISA Cybersecurity Advisories",
-      "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "www.cisa.gov",
-      "max_items": 15
-    },
-    {
-      "id": "crisisgroup_global_feed",
-      "name": "International Crisis Group Global Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "conflict_foreign_policy",
-      "host": "www.crisisgroup.org",
-      "max_items": 10
-    },
-    {
-      "id": "curia_eu_press_rss_de_en",
-      "name": "CJEU CURIA Press RSS DE EN",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_court_eu",
-      "host": "curia.europa.eu",
-      "max_items": 10
-    },
-    {
-      "id": "deepstatemap_ukraine_web",
-      "name": "DeepStateMap Ukraine War Map",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "russia_ukraine_conflict_map",
-      "host": "deepstatemap.live",
-      "max_items": 1
+      "max_items": 5
     },
     {
       "id": "e27_asia_startups_feed",
       "name": "e27 Asia Startup and Tech Feed",
       "type": "rss",
       "lane": "base",
-      "source_class": "asia_tech_media",
+      "source_class": null,
       "host": "e27.co",
-      "max_items": 10
-    },
-    {
-      "id": "ecdc_cdtr_rss",
-      "name": "ECDC CDTR RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_health_authority_eu",
-      "host": "www.ecdc.europa.eu",
-      "max_items": 12
-    },
-    {
-      "id": "ecfr_feed",
-      "name": "European Council on Foreign Relations Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "global_foreign_policy",
-      "host": "ecfr.eu",
-      "max_items": 10
-    },
-    {
-      "id": "eia_today_in_energy_web",
-      "name": "EIA Today in Energy",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "energy_oil_macro",
-      "host": "www.eia.gov",
-      "max_items": 1
-    },
-    {
-      "id": "eia_weekly_petroleum_status_web",
-      "name": "EIA Weekly Petroleum Status Report",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "energy_oil_production",
-      "host": "www.eia.gov",
-      "max_items": 1
-    },
-    {
-      "id": "ema_news_web",
-      "name": "EMA News",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "medical_approvals_research",
-      "host": "www.ema.europa.eu",
-      "max_items": 1
-    },
-    {
-      "id": "fao_newsroom_web",
-      "name": "FAO Newsroom",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "agriculture_food_security",
-      "host": "www.fao.org",
-      "max_items": 1
-    },
-    {
-      "id": "fda_drugs_whats_new_web",
-      "name": "FDA What's New Related to Drugs",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "medical_approvals_drugs",
-      "host": "www.fda.gov",
-      "max_items": 1
-    },
-    {
-      "id": "fda_press_announcements_web",
-      "name": "FDA Press Announcements",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "medical_approvals_research",
-      "host": "www.fda.gov",
-      "max_items": 1
-    },
-    {
-      "id": "ffw_muenchen_news_feed",
-      "name": "Freiwillige Feuerwehr Muenchen News Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_first_responder_local",
-      "host": "www.ffw-muenchen.de",
-      "max_items": 15
-    },
-    {
-      "id": "global_forest_watch_blog",
-      "name": "Global Forest Watch Blog",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "rainforest_south_america",
-      "host": "www.globalforestwatch.org",
-      "max_items": 8
-    },
-    {
-      "id": "google_trends_japan_hot",
-      "name": "Google Trends Japan Hot Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "regional_trend_radar",
-      "host": "trends.google.co.jp",
-      "max_items": 12
-    },
-    {
-      "id": "google_trends_korea_hot",
-      "name": "Google Trends South Korea Hot Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "regional_trend_radar",
-      "host": "trends.google.co.kr",
-      "max_items": 10
-    },
-    {
-      "id": "google_trends_philippines_hot",
-      "name": "Google Trends Philippines Hot Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "regional_trend_radar",
-      "host": "trends.google.com.ph",
-      "max_items": 10
-    },
-    {
-      "id": "google_trends_taiwan_hot",
-      "name": "Google Trends Taiwan Hot Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "regional_trend_radar",
-      "host": "trends.google.com.tw",
-      "max_items": 10
-    },
-    {
-      "id": "google_trends_thailand_hot",
-      "name": "Google Trends Thailand Hot Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "regional_trend_radar",
-      "host": "trends.google.co.th",
-      "max_items": 10
-    },
-    {
-      "id": "google_trends_vietnam_hot",
-      "name": "Google Trends Vietnam Hot Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "regional_trend_radar",
-      "host": "trends.google.com.vn",
-      "max_items": 10
+      "max_items": 5
     },
     {
       "id": "hatena_hotentry_it",
       "name": "Hatena Bookmark Hotentry IT",
       "type": "rss",
       "lane": "base",
-      "source_class": "japan_social_link_radar",
+      "source_class": null,
       "host": "b.hatena.ne.jp",
-      "max_items": 15
+      "max_items": 6
     },
     {
       "id": "heise_security_atom",
@@ -332,70 +56,16 @@
       "lane": "base",
       "source_class": null,
       "host": "www.heise.de",
-      "max_items": 15
-    },
-    {
-      "id": "hn_ai_security",
-      "name": "Hacker News AI/Security Search",
-      "type": "hackernews",
-      "lane": "base",
-      "source_class": null,
-      "host": "",
-      "max_items": 15
-    },
-    {
-      "id": "hn_local_first_ai",
-      "name": "Hacker News Local-first AI Search",
-      "type": "hackernews",
-      "lane": "base",
-      "source_class": null,
-      "host": "",
-      "max_items": 10
-    },
-    {
-      "id": "hn_release_security_burst",
-      "name": "Hacker News Release/Security Burst",
-      "type": "hackernews",
-      "lane": "base",
-      "source_class": "platform_social",
-      "host": "",
-      "max_items": 20
-    },
-    {
-      "id": "japan_digital_agency_news",
-      "name": "Japan Digital Agency News RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "apac_public_institution",
-      "host": "www.digital.go.jp",
-      "max_items": 10
+      "max_items": 5
     },
     {
       "id": "jpcert_english_alerts",
       "name": "JPCERT/CC English Alerts",
       "type": "rss",
       "lane": "base",
-      "source_class": "security_advisory",
+      "source_class": null,
       "host": "www.jpcert.or.jp",
-      "max_items": 10
-    },
-    {
-      "id": "jpcert_english_blog",
-      "name": "JPCERT/CC English Blog Atom",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "security_advisory",
-      "host": "blogs.jpcert.or.jp",
-      "max_items": 10
-    },
-    {
-      "id": "jvn_vulnerability_notes",
-      "name": "JVN Japan Vulnerability Notes",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "security_advisory",
-      "host": "jvn.jp",
-      "max_items": 10
+      "max_items": 5
     },
     {
       "id": "manual_notes",
@@ -407,382 +77,22 @@
       "max_items": null
     },
     {
-      "id": "mongabay_latin_america_rainforest_feed",
-      "name": "Mongabay Latin America Rainforest Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "rainforest_south_america",
-      "host": "news.mongabay.com",
-      "max_items": 10
-    },
-    {
-      "id": "msf_rss_reference",
-      "name": "MSF RSS Reference",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "ngo_medical_humanitarian",
-      "host": "www.msf.org",
-      "max_items": 2
-    },
-    {
-      "id": "nasa_firms_active_fire_web",
-      "name": "NASA FIRMS Active Fire Watch",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "rainforest_fire_early_warning",
-      "host": "firms.modaps.eosdis.nasa.gov",
-      "max_items": 1
-    },
-    {
-      "id": "nhc_atlantic_cyclones",
-      "name": "NOAA NHC Atlantic Tropical Cyclones",
-      "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "www.nhc.noaa.gov",
-      "max_items": 10
-    },
-    {
-      "id": "nhc_central_pacific_cyclones",
-      "name": "NOAA NHC Central Pacific Tropical Cyclones",
-      "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "www.nhc.noaa.gov",
-      "max_items": 10
-    },
-    {
-      "id": "nhc_eastern_pacific_cyclones",
-      "name": "NOAA NHC Eastern Pacific Tropical Cyclones",
-      "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "www.nhc.noaa.gov",
-      "max_items": 10
-    },
-    {
-      "id": "nih_news_releases_web",
-      "name": "NIH News Releases",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "medical_research_breakthroughs",
-      "host": "www.nih.gov",
-      "max_items": 1
-    },
-    {
       "id": "openai_news_rss",
       "name": "OpenAI News RSS",
       "type": "rss",
       "lane": "base",
       "source_class": null,
       "host": "openai.com",
-      "max_items": 15
-    },
-    {
-      "id": "polizei_bayern_presse_direct",
-      "name": "Bayerische Polizei Pressemeldungen",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "official_police_direct",
-      "host": "www.polizei.bayern.de",
-      "max_items": 2
-    },
-    {
-      "id": "presseportal_feuerwehr_muenchen_rss",
-      "name": "Presseportal Feuerwehr Muenchen RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_first_responder",
-      "host": "www.presseportal.de",
-      "max_items": 15
-    },
-    {
-      "id": "presseportal_polizei_rss",
-      "name": "Presseportal Police RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_first_responder_aggregator",
-      "host": "www.presseportal.de",
-      "max_items": 20
-    },
-    {
-      "id": "reliefweb_food_security_updates",
-      "name": "ReliefWeb Food Security Updates",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "agriculture_food_security",
-      "host": "reliefweb.int",
-      "max_items": 1
-    },
-    {
-      "id": "reliefweb_mindanao_recovery_watch",
-      "name": "ReliefWeb Mindanao Recovery Watch",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "humanitarian_recovery_watch",
-      "host": "reliefweb.int",
-      "max_items": 1
-    },
-    {
-      "id": "reliefweb_rss_reference",
-      "name": "ReliefWeb RSS Reference",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "humanitarian_official_aggregator",
-      "host": "reliefweb.int",
-      "max_items": 2
-    },
-    {
-      "id": "reliefweb_ukraine_updates",
-      "name": "ReliefWeb Ukraine Updates",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "russia_ukraine_humanitarian",
-      "host": "reliefweb.int",
-      "max_items": 1
-    },
-    {
-      "id": "restofworld_feed",
-      "name": "Rest of World Global Tech Feed",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "global_south_tech_media",
-      "host": "restofworld.org",
-      "max_items": 10
-    },
-    {
-      "id": "state_department_rss",
-      "name": "U.S. Department of State RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "global_foreign_policy",
-      "host": "www.state.gov",
-      "max_items": 10
+      "max_items": 5
     },
     {
       "id": "twcert_security_news",
       "name": "TWCERT/CC Security News RSS",
       "type": "rss",
       "lane": "base",
-      "source_class": "security_advisory",
+      "source_class": null,
       "host": "www.twcert.org.tw",
-      "max_items": 10
-    },
-    {
-      "id": "twcert_tvn_vulnerability_notes",
-      "name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "security_advisory",
-      "host": "www.twcert.org.tw",
-      "max_items": 10
-    },
-    {
-      "id": "usda_nass_news_web",
-      "name": "USDA NASS News Releases",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "agriculture_us_crop_data",
-      "host": "www.nass.usda.gov",
-      "max_items": 1
-    },
-    {
-      "id": "usda_wasde_web",
-      "name": "USDA WASDE Report",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "agriculture_global_grains",
-      "host": "www.usda.gov",
-      "max_items": 1
-    },
-    {
-      "id": "who_afro_rss",
-      "name": "WHO Africa RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "tropical_disease_outbreaks",
-      "host": "www.afro.who.int",
-      "max_items": 10
-    },
-    {
-      "id": "who_disease_outbreak_news_web",
-      "name": "WHO Disease Outbreak News",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "global_health_outbreaks",
-      "host": "www.who.int",
-      "max_items": 1
-    },
-    {
-      "id": "wmo_news_web",
-      "name": "World Meteorological Organization News",
-      "type": "webpage_check",
-      "lane": "base",
-      "source_class": "global_climate",
-      "host": "wmo.int",
-      "max_items": 1
-    },
-    {
-      "id": "zoll_pressemitteilungen_rss",
-      "name": "Zoll Pressemitteilungen RSS",
-      "type": "rss",
-      "lane": "base",
-      "source_class": "official_federal_enforcement",
-      "host": "www.zoll.de",
-      "max_items": 12
-    },
-    {
-      "id": "gdacs_all_events_24h",
-      "name": "GDACS All Events Last 24h",
-      "type": "rss",
-      "lane": "hot",
-      "source_class": null,
-      "host": "www.gdacs.org",
-      "max_items": 10
-    },
-    {
-      "id": "gdacs_all_events_week",
-      "name": "GDACS All Events Last Week",
-      "type": "rss",
-      "lane": "hot",
-      "source_class": null,
-      "host": "www.gdacs.org",
-      "max_items": 10
-    },
-    {
-      "id": "gdacs_orange_red_earthquakes",
-      "name": "GDACS Orange/Red Earthquakes",
-      "type": "rss",
-      "lane": "hot",
-      "source_class": null,
-      "host": "www.gdacs.org",
-      "max_items": 10
-    },
-    {
-      "id": "gdacs_tropical_cyclones_week",
-      "name": "GDACS Tropical Cyclones Last Week",
-      "type": "rss",
-      "lane": "hot",
-      "source_class": null,
-      "host": "www.gdacs.org",
-      "max_items": 10
-    },
-    {
-      "id": "usgs_m45_earthquakes_hour",
-      "name": "USGS M4.5+ Earthquakes Past Hour",
-      "type": "rss",
-      "lane": "hot",
-      "source_class": "geoscience_institute",
-      "host": "earthquake.usgs.gov",
-      "max_items": 20
-    },
-    {
-      "id": "usgs_significant_earthquakes",
-      "name": "USGS Significant Earthquakes",
-      "type": "rss",
-      "lane": "hot",
-      "source_class": null,
-      "host": "earthquake.usgs.gov",
-      "max_items": 10
-    },
-    {
-      "id": "bis_central_bank_speeches",
-      "name": "BIS Central Bankers Speeches",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank_network",
-      "host": "www.bis.org",
-      "max_items": 15
-    },
-    {
-      "id": "bis_press_releases",
-      "name": "BIS Press Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank_network",
-      "host": "www.bis.org",
-      "max_items": 15
-    },
-    {
-      "id": "bis_statistics",
-      "name": "BIS Statistical Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank_network",
-      "host": "www.bis.org",
-      "max_items": 15
-    },
-    {
-      "id": "ecb_open_market_operations",
-      "name": "ECB Open Market Operations and Communication",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 10
-    },
-    {
-      "id": "ecb_press_policy",
-      "name": "ECB Press Releases Speeches Interviews",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 15
-    },
-    {
-      "id": "ecb_statistical_press",
-      "name": "ECB Statistical Press Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 15
-    },
-    {
-      "id": "ecb_yield_curve",
-      "name": "ECB Euro Area Yield Curve",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.ecb.europa.eu",
-      "max_items": 10
-    },
-    {
-      "id": "fed_monetary_policy_press",
-      "name": "Federal Reserve Monetary Policy Press Releases",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 15
-    },
-    {
-      "id": "fed_policy_rates",
-      "name": "Federal Reserve Policy Rates Feed",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 10
-    },
-    {
-      "id": "fed_selected_interest_rates_h15",
-      "name": "Federal Reserve Selected Interest Rates H.15",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 10
-    },
-    {
-      "id": "fed_speeches_testimony",
-      "name": "Federal Reserve Speeches and Testimony",
-      "type": "rss",
-      "lane": "macro_policy",
-      "source_class": "central_bank",
-      "host": "www.federalreserve.gov",
-      "max_items": 15
+      "max_items": 5
     },
     {
       "id": "github_blog_atom",
@@ -791,7 +101,7 @@
       "lane": "platform_dev",
       "source_class": null,
       "host": "github.blog",
-      "max_items": 15
+      "max_items": 5
     },
     {
       "id": "github_changelog_atom",
@@ -800,79 +110,7 @@
       "lane": "platform_dev",
       "source_class": null,
       "host": "github.blog",
-      "max_items": 15
-    },
-    {
-      "id": "github_search_agent_security",
-      "name": "GitHub Search: Agent Security",
-      "type": "github_search",
-      "lane": "platform_dev",
-      "source_class": null,
-      "host": "",
-      "max_items": 10
-    },
-    {
-      "id": "github_search_ai_security",
-      "name": "GitHub Search: AI Security Automation",
-      "type": "github_search",
-      "lane": "platform_dev",
-      "source_class": null,
-      "host": "",
-      "max_items": 10
-    },
-    {
-      "id": "github_search_axi0m",
-      "name": "GitHub Search: AXI0M Mentions",
-      "type": "github_search",
-      "lane": "platform_dev",
-      "source_class": null,
-      "host": "",
-      "max_items": 20
-    },
-    {
-      "id": "github_search_japan_twitter_trend_rss_tools",
-      "name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
-      "type": "github_search",
-      "lane": "platform_dev",
-      "source_class": "open_source_platform",
-      "host": "",
-      "max_items": 8
-    },
-    {
-      "id": "github_search_senna_infoflow",
-      "name": "GitHub Search: senna-infoflow Mentions",
-      "type": "github_search",
-      "lane": "platform_dev",
-      "source_class": null,
-      "host": "",
-      "max_items": 20
-    },
-    {
-      "id": "github_trending_all_daily",
-      "name": "GitHub Trending RSS All Languages Daily",
-      "type": "rss",
-      "lane": "platform_dev",
-      "source_class": "open_source_platform",
-      "host": "mshibanami.github.io",
-      "max_items": 15
-    },
-    {
-      "id": "portswigger_research",
-      "name": "PortSwigger Research",
-      "type": "rss",
-      "lane": "vendor_security",
-      "source_class": null,
-      "host": "portswigger.net",
-      "max_items": 10
-    },
-    {
-      "id": "snyk_security_blog",
-      "name": "Snyk Security Blog",
-      "type": "rss",
-      "lane": "vendor_security",
-      "source_class": null,
-      "host": "snyk.io",
-      "max_items": 10
+      "max_items": 5
     }
   ]
 }

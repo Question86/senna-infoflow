@@ -1,88 +1,36 @@
 {
-  "generated_at": "2026-06-19T21:55:12+00:00",
-  "today_file_total": 335,
+  "generated_at": "2026-06-20T02:49:51+00:00",
+  "today_file_total": 5,
   "current_clusters": [
     {
-      "key": "domain:www.presseportal.de",
-      "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
+      "key": "domain:gigazine.net",
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "sources": [
-        "Presseportal Police RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.presseportal.de/blaulicht/pm/110977/6298232",
-        "https://www.presseportal.de/blaulicht/pm/134581/6298241",
-        "https://www.presseportal.de/blaulicht/pm/108747/6298236",
-        "https://www.presseportal.de/blaulicht/pm/108747/6298235",
-        "https://www.presseportal.de/blaulicht/pm/108747/6298234",
-        "https://www.presseportal.de/blaulicht/pm/6013/6298233"
+        "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "https://gigazine.net/news/20260619-apple-intel-chip-build/"
       ],
-      "finding_count": 11,
-      "max_score": 10,
-      "credibility_total": 11.55,
+      "finding_count": 2,
+      "max_score": 19,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 9,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 60.1,
+      "network_score": 29.2,
       "hot": true,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "domain:firms.modaps.eosdis.nasa.gov",
-      "title": "NASA | LANCE | FIRMS",
-      "sources": [
-        "NASA FIRMS Active Fire Watch"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://firms.modaps.eosdis.nasa.gov/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "wildfire_heat_drought"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:chile:4.0",
-      "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-      "sources": [
-        "GDACS All Events Last 24h"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:gmktec-ryzen-max-395-evo",
-      "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
+      "key": "title:watch-apple-intel",
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -90,47 +38,22 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html"
+        "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 3,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.1,
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.1 - south sandwich islands region:5.1",
-      "title": "M 5.1 - South Sandwich Islands region",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:microsoft-mai-code-flash-code-github-copilot",
-      "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
+      "key": "title:curl-mythos-8000",
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -138,22 +61,22 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2118402.html"
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html"
       ],
       "finding_count": 1,
-      "max_score": 6,
+      "max_score": 3,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 11.1,
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
-      "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
+      "key": "domain:toyokeizai.net",
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -161,84 +84,15 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2118403.html"
+        "https://toyokeizai.net/articles/-/948348?display=b"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 3,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:outlook",
-      "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2118405.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:wmo.int",
-      "title": "News Portal",
-      "sources": [
-        "World Meteorological Organization News"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wmo.int/news"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.fda.gov",
-      "title": "Press Announcements | FDA",
-      "sources": [
-        "FDA Press Announcements"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.1,
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

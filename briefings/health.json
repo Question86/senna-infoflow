@@ -1,16 +1,16 @@
 {
   "counts": {
     "critical": 0,
-    "source_errors_appended": 3,
+    "source_errors_appended": 1,
     "under_observation_topics": 6,
     "warnings": 1
   },
   "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-19T21:55:13Z",
+  "generated_at": "2026-06-20T02:49:51Z",
   "issues": [
     {
       "code": "source_errors_present",
-      "message": "3 source error(s) in latest run.",
+      "message": "1 source error(s) in latest run.",
       "severity": "warning"
     }
   ],
@@ -18,9 +18,9 @@
   "seen_state": {
     "max_items": 50000,
     "retention_days": 90,
-    "seen_kept": 1167,
+    "seen_kept": 1172,
     "seen_malformed_removed": 0,
-    "seen_original": 1167,
+    "seen_original": 1172,
     "seen_removed_expired": 0,
     "seen_removed_overflow": 0
   },

@@ -2,35 +2,31 @@
   "counts": {
     "high": 0,
     "max_news_age_days": 14,
-    "medium": 0,
-    "new_relevant_findings": 20,
-    "observe": 20,
-    "source_errors": 3,
+    "medium": 1,
+    "new_relevant_findings": 5,
+    "observe": 4,
+    "source_errors": 1,
     "stale_removed": 0,
-    "today_file_total": 335
+    "today_file_total": 5
   },
   "coverage": {
     "active_sensor_groups": {
-      "disaster_humanitarian": 10,
-      "github": 5,
-      "macro_finance": 8,
-      "other": 53,
-      "public_health": 7,
-      "security": 10,
-      "social": 1
+      "github": 2,
+      "other": 6,
+      "security": 2
     },
     "counts": {
-      "findings": 20,
+      "findings": 5,
       "high": 0,
-      "medium": 0,
-      "observe": 20,
-      "source_errors": 3
+      "medium": 1,
+      "observe": 4,
+      "source_errors": 1
     },
     "coverage_confidence": "limited",
     "failed_sensor_groups": {
-      "other": 3
+      "other": 1
     },
-    "generated_at": "2026-06-19T21:55:12Z",
+    "generated_at": "2026-06-20T02:49:51Z",
     "principles": [
       "Scoring is not truth.",
       "Surviving sources are not a representative world picture.",
@@ -42,513 +38,145 @@
       "source_errors_present"
     ]
   },
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "findings": [
     {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "3b73a34a0be9ea0757b4",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "id": "dfd8b31d7a09388279a3",
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "ADM",
-        "BG",
-        "DE",
-        "NTR",
-        "CF",
-        "MOS",
-        "wheat",
-        "corn",
-        "soy"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
       "matched_keywords": [
-        "active fire",
-        "MODIS",
-        "NASA FIRMS",
-        "VIIRS",
-        "Watchgraph:wildfire_heat_drought"
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "published_at": "2026-06-17T14:24:34+00:00",
+      "published_at": "2026-06-19T03:30:48+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "NASA FIRMS (+2.0); active fire (+2.0); VIIRS (+2.0); MODIS (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
-      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 19,
       "risk_or_opportunity": "observation",
-      "source": "NASA FIRMS Active Fire Watch",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
-      "title": "NASA | LANCE | FIRMS",
-      "url": "https://firms.modaps.eosdis.nasa.gov/",
+      "source_type": "rss",
+      "summary": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます...",
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "watchgraph_modules": [
-        "wildfire_heat_drought"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "wildfire_heat_drought: active fire"
+        "ai_agents_workflow: Codex"
       ]
     },
     {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "ea0862d344a9f1b1075a",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "id": "073320acbe2b74f42bb3",
       "market_context": [],
       "matched_keywords": [
-        "Blaulicht",
-        "police",
-        "Polizei",
-        "Unfall"
+        "Hatena"
       ],
-      "published_at": "2026-06-19T20:22:28+00:00",
+      "published_at": "2026-06-19T15:55:51+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
-      "relevance_score": 10,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
-      "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-      "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "7c8f5da27282d41fe725",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "Brand",
-        "police"
-      ],
-      "published_at": "2026-06-19T21:18:48+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
-      "title": "FW Stockach: Küchenbrand",
-      "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "5c1f5b479e50f2250fdc",
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "matched_keywords": [
-        "earthquake",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "published_at": "2026-06-19T20:44:50+00:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "risk",
-      "signal_class": "raw_disaster_signal",
-      "source": "GDACS All Events Last 24h",
-      "source_bias_class": "disaster",
-      "source_type": "rss",
-      "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
-      "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-      "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "292f69ce4d05a438c6ea",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "Brand",
-        "police"
-      ],
-      "published_at": "2026-06-19T20:34:09+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
-      "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
-      "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "4da0a8c2dee19a2e6c1d",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "police",
-        "Unfall"
-      ],
-      "published_at": "2026-06-19T20:33:22+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
-      "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
-      "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "2e20aebfe53ab155c933",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "police",
-        "Unfall"
-      ],
-      "published_at": "2026-06-19T20:30:01+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
-      "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
-      "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "9b106898ad9ef98692fb",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "Brand",
-        "police"
-      ],
-      "published_at": "2026-06-19T20:25:43+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
-      "relevance_score": 8,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
-      "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
-      "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "9af1714a8d31b7f2d030",
-      "market_context": [],
-      "matched_keywords": [
-        "AI",
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-18T22:10:31+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
-      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "relevance_score": 3,
       "risk_or_opportunity": "observation",
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
-      "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+      "summary": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "02cd81298b8e6712a69d",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "id": "1867db0db2ade08a9da8",
       "market_context": [],
       "matched_keywords": [
-        "Blaulicht",
-        "Einsatz",
-        "police"
+        "Hatena"
       ],
-      "published_at": "2026-06-19T21:08:36+00:00",
+      "published_at": "2026-06-19T04:34:59+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
-      "relevance_score": 7,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
-      "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
-      "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "80711460477a656ae4f5",
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "matched_keywords": [
-        "earthquake",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "published_at": "2026-06-19T21:26:11.040+00:00",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "relevance_score": 6,
-      "risk_or_opportunity": "risk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_bias_class": "disaster",
-      "source_type": "rss",
-      "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
-      "title": "M 5.1 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ]
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "f7e9dc040efb89d7e7c2",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-19T07:31:54+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
-      "relevance_score": 6,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "relevance_score": 3,
       "risk_or_opportunity": "observation",
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-      "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
+      "summary": "ドナルド・トランプ大統領は、AppleがIntelと協力し、アメリカでチップを設計、製造することで合意したと主張しました。AppleとIntelはトランプ大統領の発言について公式にコメントしていませんが、Intel株は大きく上昇しました。 Trump says Apple to partner with Intel on US chip design, production | Reuters http...",
+      "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
+      "url": "https://gigazine.net/news/20260619-apple-intel-chip-build/",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "51e7e79336cfc5930945",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "id": "b5b9ad56fc11c698bdbd",
       "market_context": [],
       "matched_keywords": [
-        "climate",
-        "WMO"
+        "Hatena"
       ],
-      "published_at": "2026-06-19T21:53:55+00:00",
+      "published_at": "2026-06-19T04:13:19+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "WMO (+2.0); climate (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "World Meteorological Organization News",
-      "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
-      "title": "News Portal",
-      "url": "https://wmo.int/news",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "68632edb87a2c1ecdebe",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "police"
-      ],
-      "published_at": "2026-06-19T21:10:13+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
-      "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
-      "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "b88dbe94c97b41f2215a",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "police"
-      ],
-      "published_at": "2026-06-19T21:05:16+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
-      "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
-      "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "87ce34532060f49b0e5f",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "police"
-      ],
-      "published_at": "2026-06-19T20:58:27+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
-      "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
-      "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "d1d8ac84e48c9ae3fef3",
-      "market_context": [],
-      "matched_keywords": [
-        "Blaulicht",
-        "police"
-      ],
-      "published_at": "2026-06-19T19:54:52+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-      "relevance_score": 5,
-      "risk_or_opportunity": "observation",
-      "source": "Presseportal Police RSS",
-      "source_bias_class": "normal",
-      "source_type": "rss",
-      "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
-      "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
-      "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "9567d6d361208fcf0d6e",
-      "market_context": [],
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "published_at": "2026-06-19T08:40:23+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "relevance_score": 3,
       "risk_or_opportunity": "observation",
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-      "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
+      "summary": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？：「パニックになるほど危険ではない」 「curl」プロジェクトの開発者であるダニエル・ステンバーグ氏は、AnthropicのAIモデル「Mythos」による脆弱性分析レポートを受領し、その結果を共有した。 「curl」プロジェクトの開発...",
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     },
     {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "cc56a9915a8774ebe473",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "id": "828c0613a70fcebb1ed0",
       "market_context": [],
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Hatena"
       ],
-      "published_at": "2026-06-19T07:54:51+00:00",
+      "published_at": "2026-06-19T03:21:29+00:00",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "relevance_score": 3,
       "risk_or_opportunity": "observation",
       "source": "Hatena Bookmark Hotentry IT",
       "source_bias_class": "normal",
       "source_type": "rss",
-      "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-      "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": []
-    },
-    {
-      "fetched_at": "2026-06-19T21:51:09+00:00",
-      "id": "f8862e0e343110c8f596",
-      "market_context": [],
-      "matched_keywords": [
-        "FDA"
-      ],
-      "published_at": "2026-06-19T21:22:44+00:00",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "relevance_reason": "FDA (+2.5); recent (+1.0)",
-      "relevance_score": 4,
-      "risk_or_opportunity": "observation",
-      "source": "FDA Press Announcements",
-      "source_bias_class": "normal",
-      "source_type": "webpage_check",
-      "summary": "Press Announcements",
-      "title": "Press Announcements | FDA",
-      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "summary": "コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...",
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "watchgraph_modules": [],
       "watchgraph_reasons": []
     }
   ],
-  "generated_at": "2026-06-19T21:55:12+00:00",
+  "generated_at": "2026-06-20T02:49:51+00:00",
   "quality_gate": {
     "audit_path": "briefings/quality_audit.json",
-    "generated_at": "2026-06-19T21:55:12Z",
+    "generated_at": "2026-06-20T02:49:51Z",
     "schema_version": 1,
     "single_source_caps": {
       "market_odds_proxy": 10,
@@ -575,505 +203,138 @@
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "id": "dfd8b31d7a09388279a3",
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "Hatena",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "published_at": "2026-06-19T03:30:48+00:00",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "relevance_score": 19,
+        "risk_or_opportunity": "observation",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_bias_class": "normal",
+        "source_type": "rss",
+        "summary": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます...",
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ]
+      }
+    ],
     "observe": [
       {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "3b73a34a0be9ea0757b4",
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "ADM",
-          "BG",
-          "DE",
-          "NTR",
-          "CF",
-          "MOS",
-          "wheat",
-          "corn",
-          "soy"
-        ],
-        "matched_keywords": [
-          "active fire",
-          "MODIS",
-          "NASA FIRMS",
-          "VIIRS",
-          "Watchgraph:wildfire_heat_drought"
-        ],
-        "published_at": "2026-06-17T14:24:34+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "NASA FIRMS (+2.0); active fire (+2.0); VIIRS (+2.0); MODIS (+2.0); watchgraph modules wildfire_heat_drought (+3.0)",
-        "relevance_score": 11,
-        "risk_or_opportunity": "observation",
-        "source": "NASA FIRMS Active Fire Watch",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "Global fire map and data. NASA | LANCE | Fire Information for Resource Management System provides near real-time active fire data from MODIS and VIIRS to meet the needs of firefighters, scientists and users interested in monitoring fires. Fire data is available for download or can be viewed through a map interface. Users can subscribe to email alerts bases on their area of interest.",
-        "title": "NASA | LANCE | FIRMS",
-        "url": "https://firms.modaps.eosdis.nasa.gov/",
-        "watchgraph_modules": [
-          "wildfire_heat_drought"
-        ],
-        "watchgraph_reasons": [
-          "wildfire_heat_drought: active fire"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "ea0862d344a9f1b1075a",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "id": "073320acbe2b74f42bb3",
         "market_context": [],
         "matched_keywords": [
-          "Blaulicht",
-          "police",
-          "Polizei",
-          "Unfall"
+          "Hatena"
         ],
-        "published_at": "2026-06-19T20:22:28+00:00",
+        "published_at": "2026-06-19T15:55:51+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Polizei (+2.0); police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
-        "relevance_score": 10,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Stuttgart-Sillenbuch (ots) - Die Polizei sucht Zeugen zu einem Unfall, der sich am Freitag (19.06.2026) an der Rankestraße vor dem Freibad Sillenbuch ereignet hat. Eine 44-jährige Fahrerin eines VW Polo war gegen 14.20 Uhr in Richtung ...",
-        "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-        "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "7c8f5da27282d41fe725",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "Brand",
-          "police"
-        ],
-        "published_at": "2026-06-19T21:18:48+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Stockach (ots) - Die Feuerwehr Stockach, Abteilung Kernstadt, wurde am 18.06.2026 um 16:30 Uhr mit dem Stichwort B3 Gebäudebrand in die Goethestraße alarmiert. In einem Restaurant kam es zu einem Brandereignis im Küchenbereich. Die Abteilung ...",
-        "title": "FW Stockach: Küchenbrand",
-        "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "5c1f5b479e50f2250fdc",
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "matched_keywords": [
-          "earthquake",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "published_at": "2026-06-19T20:44:50+00:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "earthquake (+2.5); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "risk",
-        "signal_class": "raw_disaster_signal",
-        "source": "GDACS All Events Last 24h",
-        "source_bias_class": "disaster",
-        "source_type": "rss",
-        "summary": "On 6/19/2026 8:10:11 PM, an earthquake occurred in Chile potentially affecting 50 thousand in 100km. The earthquake had Magnitude 4.7M, Depth:115.513km.",
-        "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "292f69ce4d05a438c6ea",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "Brand",
-          "police"
-        ],
-        "published_at": "2026-06-19T20:34:09+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Neubrandenburg (ots) - Am 19.06.2026 gegen 19:30 Uhr wurde über den Notruf der Rettungsleitstelle des Landkreises Mecklenburgische Seenplatte der Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg gemeldet. Umgehend wurden ...",
-        "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
-        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "4da0a8c2dee19a2e6c1d",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "police",
-          "Unfall"
-        ],
-        "published_at": "2026-06-19T20:33:22+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Stralsund (ots) - Am 19.06.2026 gegen 15:15 Uhr kam es auf der L21 zwischen den Ortschaften Dierhagen und Klockenhagen zu einem Verkehrsunfall mit Personenschaden. Der aus Richtung Dierhagen kommende 66-jährige deutsche Fahrzeugführer eines PKW ...",
-        "title": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
-        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298235",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "2e20aebfe53ab155c933",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "police",
-          "Unfall"
-        ],
-        "published_at": "2026-06-19T20:30:01+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Unfall (+2.5); recent (+1.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Wolgast (ots) - Am 19.06.2026 gegen 14:25 Uhr kam es auf der B111 zwischen den Ortschaften Pritzier und Wolgast zu einem Verkehrsunfall an dem drei PKW beteiligt waren. Dabei kam der 63-jährige deutsche Fahrzeugführer eines PKW Nissan in einer ...",
-        "title": "POL-NB: Verkehrsunfall mit drei beteiligten Fahrzeugen auf der B111 bei Wolgast",
-        "url": "https://www.presseportal.de/blaulicht/pm/108747/6298234",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "9b106898ad9ef98692fb",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "Brand",
-          "police"
-        ],
-        "published_at": "2026-06-19T20:25:43+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Brand (+2.5); recent (+1.0)",
-        "relevance_score": 8,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Herrieden (ots) - Am Freitagabend (19.06.2026) geriet eine Sattelzugmaschine mit Sattelauflieger auf der A6 bei Herrieden in Brand. Im Zuge der Lösch- und Bergungsarbeiten musste die Autobahn in beide Fahrtrichtungen voll gesperrt werden. Die ...",
-        "title": "POL-MFR: (578) Brand einer Sattelzugmaschine auf der A6 - Vollsperrung",
-        "url": "https://www.presseportal.de/blaulicht/pm/6013/6298233",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "9af1714a8d31b7f2d030",
-        "market_context": [],
-        "matched_keywords": [
-          "AI",
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-18T22:10:31+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); AI (+2.5); recent (+1.0)",
-        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "relevance_score": 3,
         "risk_or_opportunity": "observation",
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "GMKtecは6月18日、AIワークステーションをうたうミニPC「EVO-X3」を発表した。22日から予約を受け付け、29日にグローバルで発売する。 EVO-X3は、家庭用ゲーム機（PS4）と同等のコンパクトなボディーを採用しながら、プロセッサにはAMDの「Ryzen AI Max+ 395」（16コア32スレッド、最大5.1GHz）を採用した。RDNA 3.5アー...",
-        "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
-        "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html",
+        "summary": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+        "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+        "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "02cd81298b8e6712a69d",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "id": "1867db0db2ade08a9da8",
         "market_context": [],
         "matched_keywords": [
-          "Blaulicht",
-          "Einsatz",
-          "police"
+          "Hatena"
         ],
-        "published_at": "2026-06-19T21:08:36+00:00",
+        "published_at": "2026-06-19T04:34:59+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); Einsatz (+2.0); recent (+1.0)",
-        "relevance_score": 7,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Bergheim (ots) - Bergheim - Nach einem Unwetter ab 18.20 Uhr wurde für die Feuerwehr Bergheim im Verlauf Stadtalarm ausgelöst. Alle Einheiten befanden sich im Einsatz. Auf der Feuer- und Rettungswache in Bergheim wurde die kommunale ...",
-        "title": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
-        "url": "https://www.presseportal.de/blaulicht/pm/168361/6298239",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "80711460477a656ae4f5",
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "matched_keywords": [
-          "earthquake",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "published_at": "2026-06-19T21:26:11.040+00:00",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "relevance_reason": "earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-        "relevance_score": 6,
-        "risk_or_opportunity": "risk",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "source_bias_class": "disaster",
-        "source_type": "rss",
-        "summary": "Time 2026-06-19 21:08:29 UTC 2026-06-19 21:08:29 UTC at epicenter Location 59.345°S 26.592°W Depth 150.33 km (93.41 mi)",
-        "title": "M 5.1 - South Sandwich Islands region",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ]
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "f7e9dc040efb89d7e7c2",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-19T07:31:54+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); debias: removed false GitHub keyword match on non-GitHub source",
-        "relevance_score": 6,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "relevance_score": 3,
         "risk_or_opportunity": "observation",
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-        "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2118402.html",
+        "summary": "ドナルド・トランプ大統領は、AppleがIntelと協力し、アメリカでチップを設計、製造することで合意したと主張しました。AppleとIntelはトランプ大統領の発言について公式にコメントしていませんが、Intel株は大きく上昇しました。 Trump says Apple to partner with Intel on US chip design, production | Reuters http...",
+        "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
+        "url": "https://gigazine.net/news/20260619-apple-intel-chip-build/",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "51e7e79336cfc5930945",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "id": "b5b9ad56fc11c698bdbd",
         "market_context": [],
         "matched_keywords": [
-          "climate",
-          "WMO"
+          "Hatena"
         ],
-        "published_at": "2026-06-19T21:53:55+00:00",
+        "published_at": "2026-06-19T04:13:19+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "WMO (+2.0); climate (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "World Meteorological Organization News",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "News Portal Skip to main content Weather Climate Water Select your language English عربي 中文 Français Русский Español عربي 中文 English Français Русский Español Search Menu Close menu About Overview Our Mandate History of IMO and WMO The Secretariat Internal Oversight Office Finance and Accountability Office of the Legal Counsel Regional Coordination Office Liaison Offices WMO Building WMO Commons Governance Members Re…",
-        "title": "News Portal",
-        "url": "https://wmo.int/news",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "68632edb87a2c1ecdebe",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "police"
-        ],
-        "published_at": "2026-06-19T21:10:13+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Northeim (ots) - MORINGEN (mil) - Im Stadtgebiet Moringen, Landkreis Northeim, fand am 19. Juni 2026 ein Kreisparteitag des AfD-Kreisverbandes Northeim statt. Im Umfeld der Veranstaltung wurden durch mehrere zivilgesellschaftliche Bündnisse ...",
-        "title": "POL-NOM: Umfangreiches Versammlungsgeschehens anlässlich des AfD-Kreisparteitages",
-        "url": "https://www.presseportal.de/blaulicht/pm/57929/6298240",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "b88dbe94c97b41f2215a",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "police"
-        ],
-        "published_at": "2026-06-19T21:05:16+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Pulheim (ots) - Am Freitagabend (19.06.) kam es über dem Pulheimer Stadtgebiet zu einem Hitzegewitter mit kräftigem Regen und Sturmböen. Die sich daraus ergebenden Einsätze beschäftigten die Feuerwehr gut zweieinhalb Stunden. Um 18:39 Uhr ...",
-        "title": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
-        "url": "https://www.presseportal.de/blaulicht/pm/156611/6298238",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "87ce34532060f49b0e5f",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "police"
-        ],
-        "published_at": "2026-06-19T20:58:27+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Reichenau (ots) - Am Abend des 19.06.2026 wurde die Freiwillige Feuerwehr zu einer technischen Hilfeleistung alarmiert. Nach dem Durchzug eines Gewitters wurde gemeldet, dass sich ein Ast auf einer Fahrbahn im Bereich einer Abbiegespur befand. Vor ...",
-        "title": "FW Reichenau: Ast auf Fahrbahn nach Gewitter - 19.06.2026",
-        "url": "https://www.presseportal.de/blaulicht/pm/163367/6298237",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "d1d8ac84e48c9ae3fef3",
-        "market_context": [],
-        "matched_keywords": [
-          "Blaulicht",
-          "police"
-        ],
-        "published_at": "2026-06-19T19:54:52+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "police (+2.0); Blaulicht (+2.0); recent (+1.0)",
-        "relevance_score": 5,
-        "risk_or_opportunity": "observation",
-        "source": "Presseportal Police RSS",
-        "source_bias_class": "normal",
-        "source_type": "rss",
-        "summary": "Koblenz (ots) - Ein Hafenmitarbeiter meldete, dass ein 40 Fuß Überseecontainer vom Wind ins Hafenbecken des Rheinhafens Koblenz-Wallersheim, geweht worden ist. Ersten Ermittlungen zur Folge, war der leere Container mit mehreren weiteren leeren ...",
-        "title": "PP-ELT: 40 Fuß Überseecontainer durch Windböe ins Hafenbecken geweht worden",
-        "url": "https://www.presseportal.de/blaulicht/pm/117719/6298231",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "9567d6d361208fcf0d6e",
-        "market_context": [],
-        "matched_keywords": [
-          "Hatena",
-          "hotentry"
-        ],
-        "published_at": "2026-06-19T08:40:23+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "relevance_score": 3,
         "risk_or_opportunity": "observation",
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-        "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html",
+        "summary": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？：「パニックになるほど危険ではない」 「curl」プロジェクトの開発者であるダニエル・ステンバーグ氏は、AnthropicのAIモデル「Mythos」による脆弱性分析レポートを受領し、その結果を共有した。 「curl」プロジェクトの開発...",
+        "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       },
       {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "cc56a9915a8774ebe473",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "id": "828c0613a70fcebb1ed0",
         "market_context": [],
         "matched_keywords": [
-          "Hatena",
-          "hotentry"
+          "Hatena"
         ],
-        "published_at": "2026-06-19T07:54:51+00:00",
+        "published_at": "2026-06-19T03:21:29+00:00",
         "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "relevance_score": 3,
         "risk_or_opportunity": "observation",
         "source": "Hatena Bookmark Hotentry IT",
         "source_bias_class": "normal",
         "source_type": "rss",
-        "summary": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-        "title": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2118405.html",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": []
-      },
-      {
-        "fetched_at": "2026-06-19T21:51:09+00:00",
-        "id": "f8862e0e343110c8f596",
-        "market_context": [],
-        "matched_keywords": [
-          "FDA"
-        ],
-        "published_at": "2026-06-19T21:22:44+00:00",
-        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-        "relevance_reason": "FDA (+2.5); recent (+1.0)",
-        "relevance_score": 4,
-        "risk_or_opportunity": "observation",
-        "source": "FDA Press Announcements",
-        "source_bias_class": "normal",
-        "source_type": "webpage_check",
-        "summary": "Press Announcements",
-        "title": "Press Announcements | FDA",
-        "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+        "summary": "コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...",
+        "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+        "url": "https://toyokeizai.net/articles/-/948348?display=b",
         "watchgraph_modules": [],
         "watchgraph_reasons": []
       }
@@ -1085,49 +346,37 @@
       "source_id": "ap_top_news_rss",
       "source_name": "Associated Press Top News RSS",
       "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.bverwg.de/rss/verhandlungstermine.rss",
-      "source_id": "bverwg_termine_rss",
-      "source_name": "Bundesverwaltungsgericht Termine RSS",
-      "source_type": "rss"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.msf.org/rss",
-      "source_id": "msf_rss_reference",
-      "source_name": "MSF RSS Reference",
-      "source_type": "webpage_check"
     }
   ],
   "under_observation": {
     "count": 6,
     "doc_type": "senna.under_observation_lane",
-    "generated_at": "2026-06-19T21:55:13Z",
+    "generated_at": "2026-06-20T02:49:51Z",
     "purpose": "persistent routine watch topics independent of current feed attention",
     "schema_version": 2,
     "source": "inbox/manual_notes.md",
     "topics": [
       {
         "cadence": "routine",
-        "current_feed_signal_count": 6,
+        "current_feed_signal_count": 5,
         "current_feed_signal_examples": [
           {
-            "score": 8,
-            "source": "GDACS All Events Last 24h",
-            "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
-          },
-          {
-            "score": 8,
+            "score": 19,
             "source": "Hatena Bookmark Hotentry IT",
-            "title": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
-            "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news128.html"
+            "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+            "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/"
           },
           {
-            "score": 6,
-            "source": "USGS M4.5+ Earthquakes Past Hour",
-            "title": "M 5.1 - South Sandwich Islands region",
-            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suqu"
+            "score": 3,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+            "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html"
+          },
+          {
+            "score": 3,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
+            "url": "https://gigazine.net/news/20260619-apple-intel-chip-build/"
           }
         ],
         "do_not": "Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.",
@@ -1142,7 +391,7 @@
         "why": "Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.",
         "window_hits": {
           "168h": {
-            "hit_count": 237,
+            "hit_count": 246,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1181,68 +430,68 @@
                 "trend_score": 36.7
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:premiere-davinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 29.2
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.78
               }
             ]
           },
           "1h": {
-            "hit_count": 11,
+            "hit_count": 9,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:gmktec-ryzen-max-395-evo",
-                "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
-                "trend_score": 15.53
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 30.61
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
-                "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-                "trend_score": 13.53
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 13.43
+                "topic_key": "title:watch-apple-intel",
+                "topic_label": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+                "trend_score": 10.53
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:outlook",
-                "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-                "trend_score": 13.22
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 10.53
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
-                "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-                "trend_score": 12.53
+                "topic_key": "domain:toyokeizai.net",
+                "topic_label": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+                "trend_score": 10.53
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 3.93
               }
             ]
           },
           "24h": {
-            "hit_count": 176,
+            "hit_count": 141,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1272,6 +521,15 @@
                 "trend_score": 41.98
               },
               {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.81
+              },
+              {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
@@ -1279,121 +537,111 @@
                 "topic_key": "title:premiere-davinci",
                 "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
                 "trend_score": 29.23
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "trend",
-                  "hatena"
-                ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 27.12
               }
             ]
           },
           "30m": {
-            "hit_count": 11,
+            "hit_count": 9,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:gmktec-ryzen-max-395-evo",
-                "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
-                "trend_score": 16.36
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 31.45
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
-                "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-                "trend_score": 14.36
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 14.26
+                "topic_key": "title:watch-apple-intel",
+                "topic_label": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+                "trend_score": 11.36
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:outlook",
-                "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-                "trend_score": 14.05
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 11.36
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:open-vsx-visual-studio-code-microsoft-eclipse-foundation",
-                "topic_label": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-                "trend_score": 13.36
+                "topic_key": "domain:toyokeizai.net",
+                "topic_label": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+                "trend_score": 11.36
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 4.77
               }
             ]
           },
           "4h": {
-            "hit_count": 29,
+            "hit_count": 9,
             "matched_topics": [
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 62.03
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.26
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 18.71
-              },
-              {
-                "bucket": "apac_signal",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "domain:www.nikkei.com",
-                "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
-                "trend_score": 15.9
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.99
               },
               {
-                "bucket": "security",
+                "bucket": "other",
                 "matched_terms": [
-                  "security"
+                  "hatena"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 14.9
+                "topic_key": "title:watch-apple-intel",
+                "topic_label": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+                "trend_score": 9.9
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 9.9
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "domain:toyokeizai.net",
+                "topic_label": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+                "trend_score": 9.9
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 3.31
               }
             ]
           },
           "72h": {
-            "hit_count": 237,
+            "hit_count": 246,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1432,18 +680,18 @@
                 "trend_score": 36.7
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:premiere-davinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 29.2
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.79
               }
             ]
           },
           "8h": {
-            "hit_count": 48,
+            "hit_count": 36,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1452,16 +700,16 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 66.9
+                "trend_score": 51.67
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:premiere-davinci",
-                "topic_label": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-                "trend_score": 29.3
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.88
               },
               {
                 "bucket": "disaster_recovery",
@@ -1470,16 +718,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.52
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 19.31
+                "trend_score": 23.39
               },
               {
                 "bucket": "disaster_recovery",
@@ -1489,56 +728,65 @@
                 "topic_key": "earthquake:japan:4.0",
                 "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
                 "trend_score": 18.6
+              },
+              {
+                "bucket": "apac_signal",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "domain:www.nikkei.com",
+                "topic_label": "戦略17分野、フィジカルAIに10.5兆円 官民投資の全容が判明 - 日本経済新聞",
+                "trend_score": 15.8
               }
             ]
           },
           "now": {
-            "hit_count": 11,
+            "hit_count": 9,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:gmktec-ryzen-max-395-evo",
-                "topic_label": "GMKtec、Ryzen AI Max+ 395搭載のミニPC「EVO-X3」発表",
-                "trend_score": 26.0
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 24.8
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 57.36
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:microsoft-mai-code-flash-code-github-copilot",
-                "topic_label": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
-                "trend_score": 22.0
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
-                "topic_label": "M 5.1 - South Sandwich Islands region",
-                "trend_score": 20.8
+                "topic_key": "title:watch-apple-intel",
+                "topic_label": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+                "trend_score": 16.0
               },
               {
                 "bucket": "other",
                 "matched_terms": [
                   "hatena"
                 ],
-                "topic_key": "title:outlook",
-                "topic_label": "クラシック版「Outlook」アプリに新たな問題 ～宛先候補を［×］で消せたり、消せなかったり／内部の複雑な仕様と機能の廃止、ロールバックなどが絡み合う",
-                "trend_score": 20.0
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 16.0
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "domain:toyokeizai.net",
+                "topic_label": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+                "trend_score": 16.0
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "hatena"
+                ],
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 4.0
               }
             ]
           }
@@ -1546,27 +794,8 @@
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 11,
-        "current_feed_signal_examples": [
-          {
-            "score": 10,
-            "source": "Presseportal Police RSS",
-            "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-            "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232"
-          },
-          {
-            "score": 8,
-            "source": "Presseportal Police RSS",
-            "title": "FW Stockach: Küchenbrand",
-            "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241"
-          },
-          {
-            "score": 8,
-            "source": "Presseportal Police RSS",
-            "title": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
-            "url": "https://www.presseportal.de/blaulicht/pm/108747/6298236"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "Kein Wahlbetrugsnarrativ ohne belastbare Belege verstärken.",
         "id": "south_korea_election_infrastructure_stress",
         "region": "South Korea, APAC",
@@ -1632,58 +861,11 @@
             ]
           },
           "1h": {
-            "hit_count": 12,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 24.82
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 3.93
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:fw-stockach:-kuchenbrand",
-                "topic_label": "FW Stockach: Küchenbrand",
-                "trend_score": 3.93
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
-                "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
-                "trend_score": 3.93
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police",
-                  "verletzte"
-                ],
-                "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
-                "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
-                "trend_score": 3.93
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
-            "hit_count": 68,
+            "hit_count": 32,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -1706,104 +888,20 @@
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "korea",
-                  "election"
-                ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 27.12
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election"
-                ],
-                "topic_key": "title:china-backs-myanmar-full-participation-in-asean-un",
-                "topic_label": "China backs Myanmar full participation in Asean , UN",
-                "trend_score": 16.73
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election"
-                ],
-                "topic_key": "title:myanmar-airstrike-kills-seven-civilians-:-witnesses",
-                "topic_label": "Myanmar airstrike kills seven civilians : witnesses",
-                "trend_score": 16.73
-              }
-            ]
-          },
-          "30m": {
-            "hit_count": 12,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 25.65
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 4.77
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:fw-stockach:-kuchenbrand",
-                "topic_label": "FW Stockach: Küchenbrand",
-                "trend_score": 4.77
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
-                "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
-                "trend_score": 4.77
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police",
-                  "verletzte"
-                ],
-                "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
-                "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
-                "trend_score": 4.77
-              }
-            ]
-          },
-          "4h": {
-            "hit_count": 29,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 32.24
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
                   "police"
                 ],
                 "topic_key": "title:bpoli-lud:-herrenloser-koffer-am-bahnhof-gorlitz-bundespolizei-sperrt-bahnsteig",
                 "topic_label": "BPOLI LUD: Herrenloser Koffer am Bahnhof Görlitz - Bundespolizei sperrt Bahnsteig",
-                "trend_score": 3.31
+                "trend_score": 3.13
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
+                "topic_key": "title:fw-bergheim:-uber-100-unwettereinsatze-am-freitagabend-in-bergheim",
+                "topic_label": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+                "trend_score": 3.13
               },
               {
                 "bucket": "other",
@@ -1812,27 +910,17 @@
                 ],
                 "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
                 "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum",
-                "trend_score": 3.31
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
-                "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
-                "trend_score": 3.31
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-bo:-vermisster-herner-52-tot-aufgefunden",
-                "topic_label": "POL-BO: Vermisster Herner (52) tot aufgefunden",
-                "trend_score": 3.31
+                "trend_score": 3.13
               }
             ]
+          },
+          "30m": {
+            "hit_count": 0,
+            "matched_topics": []
+          },
+          "4h": {
+            "hit_count": 0,
+            "matched_topics": []
           },
           "72h": {
             "hit_count": 89,
@@ -1888,17 +976,8 @@
             ]
           },
           "8h": {
-            "hit_count": 32,
+            "hit_count": 29,
             "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "election"
-                ],
-                "topic_key": "domain:news.mongabay.com",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 39.61
-              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -1922,6 +1001,15 @@
                 "matched_terms": [
                   "police"
                 ],
+                "topic_key": "title:fw-bergheim:-uber-100-unwettereinsatze-am-freitagabend-in-bergheim",
+                "topic_label": "FW Bergheim: Über 100 Unwettereinsätze am Freitagabend in Bergheim",
+                "trend_score": 3.2
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "police"
+                ],
                 "topic_key": "title:fw-en:-fehlalarm-im-fachmarktzentrum",
                 "topic_label": "FW-EN: Fehlalarm im Fachmarktzentrum",
                 "trend_score": 3.2
@@ -1931,62 +1019,15 @@
                 "matched_terms": [
                   "police"
                 ],
-                "topic_key": "title:fw-schermbeck:-vier-einsatze-fur-den-loschzug-schermbeck",
-                "topic_label": "FW-Schermbeck: Vier Einsätze für den Löschzug Schermbeck",
+                "topic_key": "title:fw-pulheim:-hitzegewitter-bringt-sturmboen-nach-pulheim",
+                "topic_label": "FW Pulheim: Hitzegewitter bringt Sturmböen nach Pulheim",
                 "trend_score": 3.2
               }
             ]
           },
           "now": {
-            "hit_count": 12,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 32.5
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-s:-kind-bei-unfall-schwer-verletzt-zeugen-gesucht",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 2.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:fw-stockach:-kuchenbrand",
-                "topic_label": "FW Stockach: Küchenbrand",
-                "trend_score": 2.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police"
-                ],
-                "topic_key": "title:pol-nb:-brand-einer-wohnung-in-der-burgholzstrae-in-17034-neubrandenburg",
-                "topic_label": "POL-NB: Brand einer Wohnung in der Burgholzstraße in 17034 Neubrandenburg",
-                "trend_score": 2.0
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "police",
-                  "verletzte"
-                ],
-                "topic_key": "title:pol-nb:-verkehrsunfall-mit-schwerverletzten-personen-auf-der-l21-bei-dierhagen",
-                "topic_label": "POL-NB: Verkehrsunfall mit schwerverletzten Personen auf der L21 bei Dierhagen",
-                "trend_score": 2.0
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           }
         }
       },
@@ -2006,7 +1047,7 @@
         "why": "Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät.",
         "window_hits": {
           "168h": {
-            "hit_count": 182,
+            "hit_count": 184,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2057,11 +1098,30 @@
             ]
           },
           "1h": {
-            "hit_count": 0,
-            "matched_topics": []
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "devtools"
+                ],
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 30.61
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "devtools"
+                ],
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 3.93
+              }
+            ]
           },
           "24h": {
-            "hit_count": 141,
+            "hit_count": 110,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2100,73 +1160,64 @@
                 "trend_score": 32.23
               },
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "korea",
-                  "japan"
+                  "devtools"
                 ],
-                "topic_key": "title:unknown",
-                "topic_label": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-                "trend_score": 27.12
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.81
               }
             ]
           },
           "30m": {
-            "hit_count": 0,
-            "matched_topics": []
-          },
-          "4h": {
-            "hit_count": 11,
+            "hit_count": 2,
             "matched_topics": [
               {
-                "bucket": "other",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security"
+                  "devtools"
                 ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 62.03
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 31.45
               },
               {
-                "bucket": "disaster_recovery",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "japan"
+                  "devtools"
                 ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 18.71
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 4.77
+              }
+            ]
+          },
+          "4h": {
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "devtools"
+                ],
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.99
               },
               {
-                "bucket": "security",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security"
+                  "devtools"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 14.9
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "japan"
-                ],
-                "topic_key": "earthquake:japan:4.9",
-                "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
-                "trend_score": 12.8
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "philippines"
-                ],
-                "topic_key": "earthquake:philippines:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
-                "trend_score": 12.8
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 3.31
               }
             ]
           },
           "72h": {
-            "hit_count": 182,
+            "hit_count": 184,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2217,7 +1268,7 @@
             ]
           },
           "8h": {
-            "hit_count": 21,
+            "hit_count": 13,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2226,16 +1277,16 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 66.9
+                "trend_score": 51.67
               },
               {
-                "bucket": "security",
+                "bucket": "agentic_devtools",
                 "matched_terms": [
-                  "security"
+                  "devtools"
                 ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 19.31
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 29.88
               },
               {
                 "bucket": "disaster_recovery",
@@ -2247,50 +1298,54 @@
                 "trend_score": 18.6
               },
               {
-                "bucket": "agentic_devtools",
+                "bucket": "security",
                 "matched_terms": [
-                  "security",
-                  "devtools"
+                  "security"
                 ],
-                "topic_key": "github_repo:ju571nk/sigil",
-                "topic_label": "Ju571nK/sigil",
-                "trend_score": 16.2
+                "topic_key": "domain:www.bleepingcomputer.com",
+                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+                "trend_score": 14.8
               },
               {
-                "bucket": "single_platform_devtools",
+                "bucket": "disaster_recovery",
                 "matched_terms": [
-                  "platform",
-                  "devtools"
+                  "japan"
                 ],
-                "topic_key": "title:credits-consumed-per-user-now-copilot-usage-metrics",
-                "topic_label": "AI credits consumed per user now in the Copilot usage metrics API",
-                "trend_score": 14.8
+                "topic_key": "earthquake:japan:4.9",
+                "topic_label": "M 4.9 - 127 km SSE of Itoman, Japan",
+                "trend_score": 12.7
               }
             ]
           },
           "now": {
-            "hit_count": 0,
-            "matched_topics": []
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "devtools"
+                ],
+                "topic_key": "domain:gigazine.net",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 57.36
+              },
+              {
+                "bucket": "agentic_devtools",
+                "matched_terms": [
+                  "devtools"
+                ],
+                "topic_key": "title:claude-codeaienpirenvidia",
+                "topic_label": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+                "trend_score": 4.0
+              }
+            ]
           }
         }
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 2,
-        "current_feed_signal_examples": [
-          {
-            "score": 11,
-            "source": "NASA FIRMS Active Fire Watch",
-            "title": "NASA | LANCE | FIRMS",
-            "url": "https://firms.modaps.eosdis.nasa.gov/"
-          },
-          {
-            "score": 8,
-            "source": "GDACS All Events Last 24h",
-            "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.",
         "id": "global_south_coverage_gap",
         "region": "Africa, South America, LATAM",
@@ -2353,30 +1408,11 @@
             ]
           },
           "1h": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 13.43
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 3.93
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
-            "hit_count": 81,
+            "hit_count": 73,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2426,77 +1462,12 @@
             ]
           },
           "30m": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 14.26
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 4.77
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "4h": {
-            "hit_count": 8,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:reliefweb.int",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 62.03
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "colombia"
-                ],
-                "topic_key": "domain:news.mongabay.com",
-                "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 24.4
-              },
-              {
-                "bucket": "security",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "domain:www.bleepingcomputer.com",
-                "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 14.9
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 12.8
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "title:updates-reliefweb",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 6.61
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "72h": {
             "hit_count": 108,
@@ -2549,7 +1520,7 @@
             ]
           },
           "8h": {
-            "hit_count": 16,
+            "hit_count": 8,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2558,7 +1529,7 @@
                 ],
                 "topic_key": "domain:reliefweb.int",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 66.9
+                "trend_score": 51.67
               },
               {
                 "bucket": "other",
@@ -2567,7 +1538,7 @@
                 ],
                 "topic_key": "domain:news.mongabay.com",
                 "topic_label": "Death and exile: A war plagues Indigenous Jiw and Nukak in the Colombian Amazon",
-                "trend_score": 39.61
+                "trend_score": 24.3
               },
               {
                 "bucket": "security",
@@ -2576,16 +1547,7 @@
                 ],
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-                "trend_score": 19.31
-              },
-              {
-                "bucket": "agentic_devtools",
-                "matched_terms": [
-                  "security"
-                ],
-                "topic_key": "github_repo:ju571nk/sigil",
-                "topic_label": "Ju571nK/sigil",
-                "trend_score": 16.2
+                "trend_score": 14.8
               },
               {
                 "bucket": "disaster_recovery",
@@ -2595,57 +1557,28 @@
                 "topic_key": "earthquake:chile:4.0",
                 "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
                 "trend_score": 12.7
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "security"
+                ],
+                "topic_key": "title:updates-reliefweb",
+                "topic_label": "Updates | ReliefWeb",
+                "trend_score": 5.71
               }
             ]
           },
           "now": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 24.8
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "chile"
-                ],
-                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 5.0
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           }
         }
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 14,
-        "current_feed_signal_examples": [
-          {
-            "score": 10,
-            "source": "Presseportal Police RSS",
-            "title": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-            "url": "https://www.presseportal.de/blaulicht/pm/110977/6298232"
-          },
-          {
-            "score": 8,
-            "source": "Presseportal Police RSS",
-            "title": "FW Stockach: Küchenbrand",
-            "url": "https://www.presseportal.de/blaulicht/pm/134581/6298241"
-          },
-          {
-            "score": 8,
-            "source": "GDACS All Events Last 24h",
-            "title": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547519"
-          }
-        ],
+        "current_feed_signal_count": 0,
+        "current_feed_signal_examples": [],
         "do_not": "Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.",
         "id": "mindanao_post_quake_recovery_hotspots",
         "region": "Mindanao, Sarangani, General Santos City, Glan, Malapatan, Maasim, Davao Occidental, South Cotabato, SOCSCSKSARGEN, Philippines",
@@ -2710,58 +1643,11 @@
             ]
           },
           "1h": {
-            "hit_count": 18,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 24.82
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 13.43
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
-                "topic_label": "M 5.1 - South Sandwich Islands region",
-                "trend_score": 11.43
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:wmo.int",
-                "topic_label": "News Portal",
-                "trend_score": 10.03
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:news-portal",
-                "topic_label": "News Portal",
-                "trend_score": 3.93
-              }
-            ]
+            "hit_count": 0,
+            "matched_topics": []
           },
           "24h": {
-            "hit_count": 93,
+            "hit_count": 80,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2771,15 +1657,6 @@
                 "topic_key": "domain:www.presseportal.de",
                 "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
                 "trend_score": 31.72
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:detecting-duplicate-issues-public-preview-and-issue-fields-mcp-support-for-github-issues",
-                "topic_label": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-                "trend_score": 28.73
               },
               {
                 "bucket": "other",
@@ -2809,71 +1686,6 @@
                 "topic_key": "domain:www.bleepingcomputer.com",
                 "topic_label": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
                 "trend_score": 24.43
-              }
-            ]
-          },
-          "30m": {
-            "hit_count": 18,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 25.65
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 14.26
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
-                "topic_label": "M 5.1 - South Sandwich Islands region",
-                "trend_score": 12.26
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:wmo.int",
-                "topic_label": "News Portal",
-                "trend_score": 10.86
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "title:news-portal",
-                "topic_label": "News Portal",
-                "trend_score": 4.77
-              }
-            ]
-          },
-          "4h": {
-            "hit_count": 55,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 32.24
               },
               {
                 "bucket": "disaster_recovery",
@@ -2882,39 +1694,19 @@
                   "glan",
                   "earthquake"
                 ],
-                "topic_key": "earthquake:updates-reliefweb:unknown",
-                "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.26
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:japan:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
-                "trend_score": 18.71
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:wmo.int",
-                "topic_label": "News Portal",
-                "trend_score": 16.94
-              },
-              {
-                "bucket": "market_product",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.usda.gov",
-                "topic_label": "WASDE Report | USDA",
-                "trend_score": 16.82
+                "topic_key": "earthquake:https:-reliefweb.int-updates-search-mindanao-20earthquake-20sara:unknown",
+                "topic_label": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+                "trend_score": 23.32
               }
             ]
+          },
+          "30m": {
+            "hit_count": 0,
+            "matched_topics": []
+          },
+          "4h": {
+            "hit_count": 0,
+            "matched_topics": []
           },
           "72h": {
             "hit_count": 142,
@@ -2969,7 +1761,7 @@
             ]
           },
           "8h": {
-            "hit_count": 63,
+            "hit_count": 55,
             "matched_topics": [
               {
                 "bucket": "other",
@@ -2981,15 +1773,6 @@
                 "trend_score": 31.92
               },
               {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.eia.gov",
-                "topic_label": "Weekly Petroleum Status Report - U.S. Energy Information Administration (EIA)",
-                "trend_score": 27.2
-              },
-              {
                 "bucket": "disaster_recovery",
                 "matched_terms": [
                   "sarangani",
@@ -2998,16 +1781,7 @@
                 ],
                 "topic_key": "earthquake:updates-reliefweb:unknown",
                 "topic_label": "Updates | ReliefWeb",
-                "trend_score": 24.52
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:wmo.int",
-                "topic_label": "News Portal",
-                "trend_score": 19.31
+                "trend_score": 23.39
               },
               {
                 "bucket": "disaster_recovery",
@@ -3018,39 +1792,6 @@
                 "topic_key": "earthquake:japan:4.0",
                 "topic_label": "Green earthquake (Magnitude 4.9M, Depth:8.453km) in Ryukyu Islands, Japan 19/06/2026 19:36 UTC, No people affected in 100km.",
                 "trend_score": 18.6
-              }
-            ]
-          },
-          "now": {
-            "hit_count": 18,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "port"
-                ],
-                "topic_key": "domain:www.presseportal.de",
-                "topic_label": "POL-S: Kind bei Unfall schwer verletzt - Zeugen gesucht",
-                "trend_score": 32.5
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake",
-                  "port"
-                ],
-                "topic_key": "earthquake:chile:4.0",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 24.8
-              },
-              {
-                "bucket": "disaster_recovery",
-                "matched_terms": [
-                  "earthquake"
-                ],
-                "topic_key": "earthquake:m 5.1 - south sandwich islands region:5.1",
-                "topic_label": "M 5.1 - South Sandwich Islands region",
-                "trend_score": 20.8
               },
               {
                 "bucket": "other",
@@ -3059,26 +1800,36 @@
                 ],
                 "topic_key": "domain:wmo.int",
                 "topic_label": "News Portal",
-                "trend_score": 8.5
+                "trend_score": 16.2
               },
               {
-                "bucket": "disaster_recovery",
+                "bucket": "market_product",
                 "matched_terms": [
-                  "earthquake",
                   "port"
                 ],
-                "topic_key": "earthquake:green-earthquake-magnitude-4.7m-depth:115.513km-in-chile-19-06-2:4",
-                "topic_label": "Green earthquake (Magnitude 4.7M, Depth:115.513km) in Chile 19/06/2026 20:10 UTC, 50 thousand in 100km.",
-                "trend_score": 5.0
+                "topic_key": "domain:www.usda.gov",
+                "topic_label": "WASDE Report | USDA",
+                "trend_score": 13.2
               }
             ]
+          },
+          "now": {
+            "hit_count": 0,
+            "matched_topics": []
           }
         }
       },
       {
         "cadence": "routine",
-        "current_feed_signal_count": 0,
-        "current_feed_signal_examples": [],
+        "current_feed_signal_count": 1,
+        "current_feed_signal_examples": [
+          {
+            "score": 3,
+            "source": "Hatena Bookmark Hotentry IT",
+            "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+            "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html"
+          }
+        ],
         "do_not": "Keine Tradingempfehlung. Keine anonyme X-These als Tatsache behandeln. Kein „Strategy muss Bitcoin verkaufen“ behaupten, solange es nicht durch Filing, offizielle Meldung oder belastbare Mehrquellenlage gestützt ist.",
         "id": "strategy_strc_capital_structure_stress",
         "region": "USA, Crypto Markets, Public Equities",
@@ -3091,7 +1842,7 @@
         "why": "STRC ist kein normaler Bitcoin-Preisindikator, sondern ein Stressmesser in Strategys Finanzierungsschicht. Wenn STRC deutlich unter dem $100-Par-Ziel handelt, signalisiert der Markt, dass die variable Dividende nicht reicht. Das kann Strategy beim Preferred-ATM, bei Bitcoin-Käufen, bei MSTR-Verwässerung und im Extrem bei Bitcoin-Verkäufen unter Druck setzen.",
         "window_hits": {
           "168h": {
-            "hit_count": 15,
+            "hit_count": 17,
             "matched_topics": [
               {
                 "bucket": "apac_signal",
@@ -3141,11 +1892,30 @@
             ]
           },
           "1h": {
-            "hit_count": 0,
-            "matched_topics": []
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 10.53
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curlmythos178000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 3.93
+              }
+            ]
           },
           "24h": {
-            "hit_count": 9,
+            "hit_count": 7,
             "matched_topics": [
               {
                 "bucket": "apac_signal",
@@ -3168,47 +1938,20 @@
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "nav"
+                  "atm"
                 ],
-                "topic_key": "title:the-great-ai-divide:-navigating-u.s.-and-chinese-dominance",
-                "topic_label": "The Great AI Divide: Navigating U.S. and Chinese dominance",
-                "trend_score": 8.73
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 9.73
               },
               {
-                "bucket": "other",
+                "bucket": "market_product",
                 "matched_terms": [
-                  "nav"
+                  "dividend"
                 ],
-                "topic_key": "title:navato-fire-in-sparks-now-100-contained",
-                "topic_label": "Navato Fire in Sparks now 100 % contained",
-                "trend_score": 7.73
-              },
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "yield"
-                ],
-                "topic_key": "title:average-30-year-u-.-s-.-mortgage-rate-falls-to-6-.-47-tracking-lower-bond-yields-as-iran-war-win",
-                "topic_label": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
-                "trend_score": 7.13
-              }
-            ]
-          },
-          "30m": {
-            "hit_count": 0,
-            "matched_topics": []
-          },
-          "4h": {
-            "hit_count": 2,
-            "matched_topics": [
-              {
-                "bucket": "other",
-                "matched_terms": [
-                  "nav"
-                ],
-                "topic_key": "domain:www.ecdc.europa.eu",
-                "topic_label": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
-                "trend_score": 18.81
+                "topic_key": "title:after-ukraine:-the-peace-dividend-africa-does-not-want",
+                "topic_label": "After Ukraine: The peace dividend Africa does not want",
+                "trend_score": 3.13
               },
               {
                 "bucket": "other",
@@ -3217,12 +1960,58 @@
                 ],
                 "topic_key": "title:mers-cov-worldwide-overview",
                 "topic_label": "MERS-CoV worldwide overview",
+                "trend_score": 3.13
+              }
+            ]
+          },
+          "30m": {
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 11.36
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curlmythos178000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 4.77
+              }
+            ]
+          },
+          "4h": {
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 9.9
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curlmythos178000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
                 "trend_score": 3.31
               }
             ]
           },
           "72h": {
-            "hit_count": 15,
+            "hit_count": 17,
             "matched_topics": [
               {
                 "bucket": "apac_signal",
@@ -3272,17 +2061,8 @@
             ]
           },
           "8h": {
-            "hit_count": 5,
+            "hit_count": 4,
             "matched_topics": [
-              {
-                "bucket": "apac_signal",
-                "matched_terms": [
-                  "dividend"
-                ],
-                "topic_key": "domain:ecfr.eu",
-                "topic_label": "The art of the swarm: Systemic rivalry with China on European terms",
-                "trend_score": 36.5
-              },
               {
                 "bucket": "other",
                 "matched_terms": [
@@ -3293,13 +2073,13 @@
                 "trend_score": 18.7
               },
               {
-                "bucket": "market_product",
+                "bucket": "other",
                 "matched_terms": [
-                  "dividend"
+                  "atm"
                 ],
-                "topic_key": "title:after-ukraine:-the-peace-dividend-africa-does-not-want",
-                "topic_label": "After Ukraine: The peace dividend Africa does not want",
-                "trend_score": 3.2
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 9.8
               },
               {
                 "bucket": "other",
@@ -3313,17 +2093,36 @@
               {
                 "bucket": "other",
                 "matched_terms": [
-                  "stretch"
+                  "atm"
                 ],
-                "topic_key": "title:saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary",
-                "topic_label": "Saudi parrotfish festival stretches scientific & traditional ecological knowledge (commentary)",
+                "topic_key": "title:curlmythos178000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
                 "trend_score": 3.2
               }
             ]
           },
           "now": {
-            "hit_count": 0,
-            "matched_topics": []
+            "hit_count": 2,
+            "matched_topics": [
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curl-mythos-8000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 16.0
+              },
+              {
+                "bucket": "other",
+                "matched_terms": [
+                  "atm"
+                ],
+                "topic_key": "title:curlmythos178000",
+                "topic_label": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+                "trend_score": 2.0
+              }
+            ]
           }
         }
       }
