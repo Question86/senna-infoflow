@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T09:10:40+00:00",
-  "run_id": "2026-06-20T09:10:40+00:00",
+  "generated_at": "2026-06-20T10:12:24+00:00",
+  "run_id": "2026-06-20T10:12:24+00:00",
   "date": "2026-06-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,26 +8,164 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
+      "Dashboard zeigt Tageslage aus data/YYYY-MM-DD/findings.json, nicht nur Run-Delta.",
       "Emergency RSS writer ist Fallback, nicht Lagebild.",
       "Einzelne Quellenfehler begrenzen Coverage, brechen aber nicht den Feed."
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 11,
+    "new_relevant_findings": 2,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 0,
-    "observe": 1,
+    "medium": 2,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T03:30:48+00:00",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "summary": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "Hatena",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "dfd8b31d7a09388279a3"
+      },
+      {
+        "title": "macOS版Codexアプリにワークフローの“録画・再生”機能が登場 | gihyo.jp",
+        "url": "https://gihyo.jp/article/2026/06/codex-record-and-replay",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T06:48:59+00:00",
+        "fetched_at": "2026-06-20T04:56:06+00:00",
+        "summary": "OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでのみ利用できる。 Record & Replay -Codex | OpenAI Developers Show Codex a workflow once. Reuse it as a skill....",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); developer (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "ea55661bc677d4b48454"
+      }
+    ],
     "observe": [
+      {
+        "title": "廃棄処理業者に破砕処分を委託したハードディスクが外部に流出 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/06/19/55534.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-18T23:48:03+00:00",
+        "fetched_at": "2026-06-20T04:23:51+00:00",
+        "summary": "独立行政法人国立病院機構北海道医療センターは6月8日、同センターの記録媒体の一部が適切に処理されないまま外部流通していたと発表した。 同センターでは、電子カルテの更新に伴い、旧来使用していた端末の処分を外部の廃棄処理業者に委託しており、端末に内蔵されていたハードディスクについては破砕処分するよう委託...",
+        "matched_keywords": [
+          "Hatena",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+7.5); Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a33d76dd182d6439d67"
+      },
+      {
+        "title": "ターミナルでMarkdownをリッチに見られるleafが良さげかも | kawarimidoll.com",
+        "url": "https://kawarimidoll.com/posts/202606192/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T14:55:51+00:00",
+        "fetched_at": "2026-06-20T06:33:32+00:00",
+        "summary": "機能 TUIながらGUIライクな体験を売りにしているMarkdownビューア。 GitHub形式のアラート表記、40以上の言語のシンタックスハイライト、カラム揃えに対応した罫線つきテーブル表示といったレンダリングの拡張を備え、Latex/MermaidもUnicode記号等を用いて描画できます。 目次サイドバー、Fuzzy Finderなどの機能も同梱...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12b112f2d5472477a8c3"
+      },
       {
         "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
         "url": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
@@ -48,10 +186,305 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fdd6fa05c9bf18192ee1"
+      },
+      {
+        "title": "技術記事、 専門家としてのプログラマ、 言語化",
+        "url": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-20T04:52:30+00:00",
+        "fetched_at": "2026-06-20T10:12:04+00:00",
+        "summary": "技術記事やテクニカルライティングとは何なのか #zennfes の発表資料",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cfaa16abc1875cffafd6"
+      },
+      {
+        "title": "小説の書評を書いたnote記事に、作者自身が「本をまったく読まずに書いた感想だということだけはわかりました」と言及…AI作成の記事ではないかと疑いが強まる",
+        "url": "https://togetter.com/li/2711395",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-20T02:01:50+00:00",
+        "fetched_at": "2026-06-20T04:23:51+00:00",
+        "summary": "仁科裕貴@『こちらはただの「落とし物係」です！』好評発売中！ @yukinishi110 本をまったく読まずに書いた感想だということだけはわかりました。 「舞台となるのは、遊園地の片隅にある一風変わった落とし物係」って……。 いや表紙くらい見て？ 警察署でしょ、どう見ても。 サブタイトルにも警察って書いてあるよね……？ ...",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "14b67b9d8bf1cf7f6601"
+      },
+      {
+        "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita",
+        "url": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T22:41:58+00:00",
+        "fetched_at": "2026-06-20T07:56:08+00:00",
+        "summary": "はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあAIに描かせれ...",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bf6906335e3c3767559"
+      },
+      {
+        "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+        "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T15:55:51+00:00",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "summary": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "073320acbe2b74f42bb3"
+      },
+      {
+        "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
+        "url": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T13:03:00+00:00",
+        "fetched_at": "2026-06-20T10:12:04+00:00",
+        "summary": "6月19日、楽天モバイルは自社の対象プラン契約者向けに、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」の提供を順次開始すると発表した。対象となるのは、「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン（データタイプ）」の他、法人向け「音声＋データプラン」「データ専用プラン」などの契約者だ。...",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5013cf653d089ec1ba6b"
+      },
+      {
+        "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
+        "url": "https://gigazine.net/news/20260619-apple-intel-chip-build/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T04:34:59+00:00",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "summary": "ドナルド・トランプ大統領は、AppleがIntelと協力し、アメリカでチップを設計、製造することで合意したと主張しました。AppleとIntelはトランプ大統領の発言について公式にコメントしていませんが、Intel株は大きく上昇しました。 Trump says Apple to partner with Intel on US chip design, production | Reuters http...",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1867db0db2ade08a9da8"
+      },
+      {
+        "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T04:13:19+00:00",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "summary": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？：「パニックになるほど危険ではない」 「curl」プロジェクトの開発者であるダニエル・ステンバーグ氏は、AnthropicのAIモデル「Mythos」による脆弱性分析レポートを受領し、その結果を共有した。 「curl」プロジェクトの開発...",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b5b9ad56fc11c698bdbd"
+      },
+      {
+        "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+        "url": "https://toyokeizai.net/articles/-/948348?display=b",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-19T03:21:29+00:00",
+        "fetched_at": "2026-06-20T02:49:29+00:00",
+        "summary": "コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...",
+        "matched_keywords": [
+          "Hatena"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "828c0613a70fcebb1ed0"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T03:30:48+00:00",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "summary": "NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "dfd8b31d7a09388279a3"
+    },
+    {
+      "title": "macOS版Codexアプリにワークフローの“録画・再生”機能が登場 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/06/codex-record-and-replay",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T06:48:59+00:00",
+      "fetched_at": "2026-06-20T04:56:06+00:00",
+      "summary": "OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでのみ利用できる。 Record & Replay -Codex | OpenAI Developers Show Codex a workflow once. Reuse it as a skill....",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); developer (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "ea55661bc677d4b48454"
+    },
+    {
+      "title": "廃棄処理業者に破砕処分を委託したハードディスクが外部に流出 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/06/19/55534.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-18T23:48:03+00:00",
+      "fetched_at": "2026-06-20T04:23:51+00:00",
+      "summary": "独立行政法人国立病院機構北海道医療センターは6月8日、同センターの記録媒体の一部が適切に処理されないまま外部流通していたと発表した。 同センターでは、電子カルテの更新に伴い、旧来使用していた端末の処分を外部の廃棄処理業者に委託しており、端末に内蔵されていたハードディスクについては破砕処分するよう委託...",
+      "matched_keywords": [
+        "Hatena",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a33d76dd182d6439d67"
+    },
+    {
+      "title": "ターミナルでMarkdownをリッチに見られるleafが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202606192/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T14:55:51+00:00",
+      "fetched_at": "2026-06-20T06:33:32+00:00",
+      "summary": "機能 TUIながらGUIライクな体験を売りにしているMarkdownビューア。 GitHub形式のアラート表記、40以上の言語のシンタックスハイライト、カラム揃えに対応した罫線つきテーブル表示といったレンダリングの拡張を備え、Latex/MermaidもUnicode記号等を用いて描画できます。 目次サイドバー、Fuzzy Finderなどの機能も同梱...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12b112f2d5472477a8c3"
+    },
     {
       "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
       "url": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
@@ -72,6 +505,208 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fdd6fa05c9bf18192ee1"
+    },
+    {
+      "title": "技術記事、 専門家としてのプログラマ、 言語化",
+      "url": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-20T04:52:30+00:00",
+      "fetched_at": "2026-06-20T10:12:04+00:00",
+      "summary": "技術記事やテクニカルライティングとは何なのか #zennfes の発表資料",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfaa16abc1875cffafd6"
+    },
+    {
+      "title": "小説の書評を書いたnote記事に、作者自身が「本をまったく読まずに書いた感想だということだけはわかりました」と言及…AI作成の記事ではないかと疑いが強まる",
+      "url": "https://togetter.com/li/2711395",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-20T02:01:50+00:00",
+      "fetched_at": "2026-06-20T04:23:51+00:00",
+      "summary": "仁科裕貴@『こちらはただの「落とし物係」です！』好評発売中！ @yukinishi110 本をまったく読まずに書いた感想だということだけはわかりました。 「舞台となるのは、遊園地の片隅にある一風変わった落とし物係」って……。 いや表紙くらい見て？ 警察署でしょ、どう見ても。 サブタイトルにも警察って書いてあるよね……？ ...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "14b67b9d8bf1cf7f6601"
+    },
+    {
+      "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita",
+      "url": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T22:41:58+00:00",
+      "fetched_at": "2026-06-20T07:56:08+00:00",
+      "summary": "はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあAIに描かせれ...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bf6906335e3c3767559"
+    },
+    {
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T15:55:51+00:00",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "summary": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "073320acbe2b74f42bb3"
+    },
+    {
+      "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T13:03:00+00:00",
+      "fetched_at": "2026-06-20T10:12:04+00:00",
+      "summary": "6月19日、楽天モバイルは自社の対象プラン契約者向けに、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」の提供を順次開始すると発表した。対象となるのは、「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン（データタイプ）」の他、法人向け「音声＋データプラン」「データ専用プラン」などの契約者だ。...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5013cf653d089ec1ba6b"
+    },
+    {
+      "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
+      "url": "https://gigazine.net/news/20260619-apple-intel-chip-build/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T04:34:59+00:00",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "summary": "ドナルド・トランプ大統領は、AppleがIntelと協力し、アメリカでチップを設計、製造することで合意したと主張しました。AppleとIntelはトランプ大統領の発言について公式にコメントしていませんが、Intel株は大きく上昇しました。 Trump says Apple to partner with Intel on US chip design, production | Reuters http...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1867db0db2ade08a9da8"
+    },
+    {
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T04:13:19+00:00",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "summary": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？：「パニックになるほど危険ではない」 「curl」プロジェクトの開発者であるダニエル・ステンバーグ氏は、AnthropicのAIモデル「Mythos」による脆弱性分析レポートを受領し、その結果を共有した。 「curl」プロジェクトの開発...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b5b9ad56fc11c698bdbd"
+    },
+    {
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T03:21:29+00:00",
+      "fetched_at": "2026-06-20T02:49:29+00:00",
+      "summary": "コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "828c0613a70fcebb1ed0"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "技術記事、 専門家としてのプログラマ、 言語化",
+      "url": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-20T04:52:30+00:00",
+      "fetched_at": "2026-06-20T10:12:04+00:00",
+      "summary": "技術記事やテクニカルライティングとは何なのか #zennfes の発表資料",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfaa16abc1875cffafd6"
+    },
+    {
+      "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-19T13:03:00+00:00",
+      "fetched_at": "2026-06-20T10:12:04+00:00",
+      "summary": "6月19日、楽天モバイルは自社の対象プラン契約者向けに、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」の提供を順次開始すると発表した。対象となるのは、「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン（データタイプ）」の他、法人向け「音声＋データプラン」「データ専用プラン」などの契約者だ。...",
+      "matched_keywords": [
+        "Hatena"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5013cf653d089ec1ba6b"
     }
   ],
   "source_errors": [],
@@ -82,6 +717,6 @@
       "observe": 3
     },
     "mode": "hardened_monitor",
-    "note": "Normal scoring and source isolation active."
+    "note": "Normal scoring active. Visible dashboard renders current-day pool; new_findings is the run delta."
   }
 }

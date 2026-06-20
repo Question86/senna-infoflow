@@ -156,6 +156,26 @@
     "id": "fdd6fa05c9bf18192ee1"
   },
   {
+    "title": "技術記事、 専門家としてのプログラマ、 言語化",
+    "url": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-20T04:52:30+00:00",
+    "fetched_at": "2026-06-20T10:12:04+00:00",
+    "summary": "技術記事やテクニカルライティングとは何なのか #zennfes の発表資料",
+    "matched_keywords": [
+      "Hatena"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cfaa16abc1875cffafd6"
+  },
+  {
     "title": "小説の書評を書いたnote記事に、作者自身が「本をまったく読まずに書いた感想だということだけはわかりました」と言及…AI作成の記事ではないかと疑いが強まる",
     "url": "https://togetter.com/li/2711395",
     "source": "Hatena Bookmark Hotentry IT",
@@ -214,6 +234,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "073320acbe2b74f42bb3"
+  },
+  {
+    "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T13:03:00+00:00",
+    "fetched_at": "2026-06-20T10:12:04+00:00",
+    "summary": "6月19日、楽天モバイルは自社の対象プラン契約者向けに、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」の提供を順次開始すると発表した。対象となるのは、「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン（データタイプ）」の他、法人向け「音声＋データプラン」「データ専用プラン」などの契約者だ。...",
+    "matched_keywords": [
+      "Hatena"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "Hatena (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5013cf653d089ec1ba6b"
   },
   {
     "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
