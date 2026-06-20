@@ -8,6 +8,8 @@ from typing import Any
 import requests
 import monitor
 
+DOCS_DIR = monitor.ROOT / "docs"
+
 METRICS={"schema_version":1,"doc_type":"senna.http_fetch_metrics","started_at":datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00","Z"),"requests":0,"retries":0,"failures":0,"retry_statuses":{},"retry_exceptions":{}}
 
 def utc(): return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00","Z")
@@ -27,9 +29,9 @@ def bump(bucket,key): METRICS[bucket][str(key)]=int(METRICS[bucket].get(str(key)
 
 def request_get(session,url,timeout,headers=None,max_bytes=None):
     h=http_rules()
-    attempts=max(1,int(h.get("retry_attempts",3)))
-    backoff=max(0.0,float(h.get("retry_backoff_seconds",1.5)))
-    jitter=max(0.0,float(h.get("retry_jitter_seconds",0.35)))
+    attempts=max(1,int(h.get("retry_attempts",2)))
+    backoff=max(0.0,float(h.get("retry_backoff_seconds",0.75)))
+    jitter=max(0.0,float(h.get("retry_jitter_seconds",0.25)))
     retry_status={int(x) for x in h.get("retry_statuses",[429,500,502,503,504])}
     last=None
     for attempt in range(attempts):
@@ -65,13 +67,86 @@ def request_get(session,url,timeout,headers=None,max_bytes=None):
     if last: raise last
     raise RuntimeError(f"fetch failed without exception: {url}")
 
+def write_health(latest:dict[str,Any], errors:list[Any], status:str, coverage_confidence:str):
+    ts = latest.get("generated_at") or monitor.now_iso()
+    error_payload = [asdict(e) for e in errors]
+    health = {
+        "generated_at": ts,
+        "status": status,
+        "mode": "hardened_monitor",
+        "frontend_schema": "sections/counts compatible",
+        "coverage_confidence": coverage_confidence,
+        "counts": latest.get("counts", {}),
+        "source_errors": error_payload,
+        "http_fetch_metrics": "briefings/http_fetch_metrics.json",
+    }
+    atomic_json(monitor.BRIEFINGS_DIR/"health.json", health)
+    atomic_json(DOCS_DIR/"health.json", health)
+    md = [
+        "# Senna Pipeline Health",
+        "",
+        f"_Generated: {ts}_",
+        "",
+        f"Status: `{status}`",
+        "",
+        "## Hardened Monitor",
+        "",
+        "- Normaler Monitor schreibt sichtbaren Feed.",
+        "- Emergency RSS writer ist nur noch Fallback, nicht Hauptleitung.",
+        f"- coverage confidence: `{coverage_confidence}`",
+        f"- findings: `{(latest.get('counts') or {}).get('new_relevant_findings', 0)}`",
+        f"- source errors: `{len(error_payload)}`",
+        "",
+        "---",
+        "END OF DOCUMENT",
+        "",
+    ]
+    atomic_text(monitor.BRIEFINGS_DIR/"health.md","\n".join(md))
+    atomic_text(DOCS_DIR/"health.md","\n".join(md))
+
 def write_outputs(new_findings,errors,rules):
-    monitor.BRIEFINGS_DIR.mkdir(parents=True,exist_ok=True); monitor.DATA_DIR.mkdir(parents=True,exist_ok=True)
+    monitor.BRIEFINGS_DIR.mkdir(parents=True,exist_ok=True); monitor.DATA_DIR.mkdir(parents=True,exist_ok=True); DOCS_DIR.mkdir(parents=True,exist_ok=True)
     merged=monitor.merge_todays_findings(new_findings)
-    atomic_text(monitor.BRIEFINGS_DIR/"latest.md",monitor.render_briefing_md(new_findings,errors,rules))
+    latest_md=monitor.render_briefing_md(new_findings,errors,rules)
+    atomic_text(monitor.BRIEFINGS_DIR/"latest.md",latest_md)
+    atomic_text(DOCS_DIR/"latest.md",latest_md)
     high,medium,observe=monitor.priority_sections(new_findings,rules)
-    latest={"generated_at":monitor.now_iso(),"date":monitor.today_str(),"scope":"configured_public_sources_only","counts":{"new_relevant_findings":len(new_findings),"today_file_total":len(merged),"high":len(high),"medium":len(medium),"observe":len(observe),"source_errors":len(errors)},"sections":{"high":[asdict(f) for f in high],"medium":[asdict(f) for f in medium],"observe":[asdict(f) for f in observe]},"findings":[asdict(f) for f in sorted(new_findings,key=lambda f:f.relevance_score,reverse=True)],"source_errors":[asdict(e) for e in errors]}
+    status="normal" if not errors else "warning"
+    coverage_confidence="normal" if not errors else "limited"
+    scoring=rules.get("scoring") or {}
+    latest={
+        "generated_at":monitor.now_iso(),
+        "run_id":monitor.now_iso(),
+        "date":monitor.today_str(),
+        "status":status,
+        "mode":"hardened_monitor",
+        "scope":"configured_public_sources_only",
+        "coverage":{
+            "coverage_confidence":coverage_confidence,
+            "active_sensor_groups":{"configured_public_sources_only":len(new_findings)},
+            "principles":[
+                "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
+                "Emergency RSS writer ist Fallback, nicht Lagebild.",
+                "Einzelne Quellenfehler begrenzen Coverage, brechen aber nicht den Feed."
+            ],
+        },
+        "counts":{"new_relevant_findings":len(new_findings),"today_file_total":len(merged),"high":len(high),"medium":len(medium),"observe":len(observe),"source_errors":len(errors)},
+        "sections":{"high":[asdict(f) for f in high],"medium":[asdict(f) for f in medium],"observe":[asdict(f) for f in observe]},
+        "findings":[asdict(f) for f in sorted(new_findings,key=lambda f:f.relevance_score,reverse=True)],
+        "source_errors":[asdict(e) for e in errors],
+        "quality_gate":{
+            "thresholds":{
+                "high":int(scoring.get("high_threshold",18)),
+                "medium":int(scoring.get("medium_threshold",8)),
+                "observe":int(scoring.get("observe_threshold",1)),
+            },
+            "mode":"hardened_monitor",
+            "note":"Normal scoring and source isolation active.",
+        },
+    }
     atomic_json(monitor.BRIEFINGS_DIR/"latest.json",latest)
+    atomic_json(DOCS_DIR/"latest.json",latest)
+    write_health(latest, errors, status, coverage_confidence)
 
 def write_metrics():
     payload=dict(METRICS); payload["finished_at"]=utc()
