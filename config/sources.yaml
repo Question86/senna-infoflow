@@ -4,12 +4,12 @@
     "owner_alias": "User Yps",
     "company": "AXI0M",
     "website": "https://axi0m.de/blog.html",
-    "scope_notice": "Emergency minimal fast-feed mode. Broad webpage_check and heavy overlays are bypassed until source-level timeouts/slow lane exist.",
+    "scope_notice": "Hardened fast-feed mainline. Broad webpage_check and heavy overlays remain slow-lane candidates until source-level budgets are stable.",
     "emergency_mode": {
-      "enabled": true,
-      "reason": "Repeated hardened monitor timeouts after broad direct-source expansion.",
-      "generated_utc": "2026-06-20T02:49:28.763358+00:00",
-      "policy": "Keep structured RSS/manual core alive first; reintroduce sources by tier after feed writes again."
+      "enabled": false,
+      "reason": "Emergency writer retained only as workflow fallback; normal hardened monitor is visible main feed again.",
+      "updated_utc": "2026-06-20T04:24:00+00:00",
+      "policy": "Structured RSS/manual core first; broken sources disabled until replaced."
     }
   },
   "defaults": {
@@ -85,7 +85,8 @@
         "GitHub",
         "MCP",
         "Codex",
-        "agent"
+        "agent",
+        "ENPIRE"
       ]
     },
     {
@@ -166,7 +167,7 @@
       "id": "ap_top_news_rss",
       "name": "Associated Press Top News RSS",
       "type": "rss",
-      "enabled": true,
+      "enabled": false,
       "max_items": 5,
       "url": "https://apnews.com/index.rss",
       "keywords": [
@@ -176,7 +177,8 @@
         "conflict",
         "disaster",
         "technology"
-      ]
+      ],
+      "disabled_reason": "HTTP 401 Unauthorized on 2026-06-20; replace with accessible global-news source before re-enabling."
     },
     {
       "id": "manual_notes",
