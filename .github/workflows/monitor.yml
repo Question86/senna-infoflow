@@ -15,7 +15,7 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 9
+    timeout-minutes: 7
     steps:
       - uses: actions/checkout@v5
 
@@ -30,93 +30,40 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Write visible emergency RSS briefing first
-        timeout-minutes: 3
-        run: python scripts/emergency_rss_writer.py
-
-      - name: Commit visible briefing first
-        timeout-minutes: 1
-        run: |
-          git config user.name "senna-infoflow[bot]"
-          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
-
-          git add briefings/ docs/ state/ data/ inbox/manual_notes.md
-
-          if git diff --cached --quiet; then
-            echo "No visible briefing changes to commit."
-          else
-            git commit -m "chore: update Senna visible briefing"
-            git push
-          fi
-
-      - name: Run hardened monitor canary after visible commit
+      - name: Run hardened monitor as visible main feed
         id: hardened
-        timeout-minutes: 2
+        timeout-minutes: 3
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 5
         run: |
-          echo "Running normal hardened monitor as post-commit canary. Visible dashboard has already been updated."
+          echo "Running normal hardened monitor as visible feed mainline."
           python scripts/run_monitor_hardened.py
 
-      - name: Archive hardened canary output
-        if: always()
-        timeout-minutes: 1
-        continue-on-error: true
-        env:
-          HARDENED_OUTCOME: ${{ steps.hardened.outcome }}
-          HARDENED_CONCLUSION: ${{ steps.hardened.conclusion }}
+      - name: Write emergency RSS fallback only if hardened fails
+        if: steps.hardened.outcome != 'success'
+        timeout-minutes: 3
         run: |
-          mkdir -p reports/canary
-          python - <<'PY'
-          import json
-          import os
-          import shutil
-          from datetime import datetime, timezone
-          from pathlib import Path
+          echo "Hardened monitor failed or timed out. Writing emergency RSS fallback."
+          python scripts/emergency_rss_writer.py
 
-          status = {
-              "generated_at": datetime.now(timezone.utc).isoformat(),
-              "workflow": "monitor.yml",
-              "mode": "hardened_monitor_canary_post_visible_commit",
-              "step_outcome": os.environ.get("HARDENED_OUTCOME", "unknown"),
-              "step_conclusion": os.environ.get("HARDENED_CONCLUSION", "unknown"),
-              "latest_json_present": Path("briefings/latest.json").exists(),
-          }
-
-          try:
-              if Path("briefings/latest.json").exists():
-                  shutil.copyfile("briefings/latest.json", "reports/canary/hardened_latest.json")
-                  data = json.loads(Path("briefings/latest.json").read_text(encoding="utf-8"))
-                  status["counts"] = data.get("counts", {})
-                  status["source_errors"] = len(data.get("source_errors", []))
-                  status["schema_ok"] = isinstance(data.get("sections"), dict) and isinstance(data.get("counts"), dict)
-
-              if Path("briefings/latest.md").exists():
-                  shutil.copyfile("briefings/latest.md", "reports/canary/hardened_latest.md")
-          except Exception as exc:
-              status["schema_ok"] = False
-              status["archive_error"] = repr(exc)
-
-          Path("reports/canary/status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-          print(json.dumps(status, ensure_ascii=False))
-          PY
-
-      - name: Commit canary reports
-        if: always()
+      - name: Commit generated briefing
         timeout-minutes: 1
-        continue-on-error: true
         run: |
           git config user.name "senna-infoflow[bot]"
           git config user.email "senna-infoflow[bot]@users.noreply.github.com"
 
-          git add reports/canary/ briefings/http_fetch_metrics.json state/http_fetch_metrics.json logs/ || true
+          git add briefings/ docs/ state/ data/ reports/ logs/ inbox/manual_notes.md
 
           if git diff --cached --quiet; then
-            echo "No canary changes to commit."
+            echo "No generated feed changes to commit."
           else
-            git commit -m "chore: update Senna canary report"
+            if [ "${{ steps.hardened.outcome }}" = "success" ]; then
+              git commit -m "chore: update Senna hardened briefing"
+            else
+              git commit -m "chore: update Senna emergency fallback briefing"
+            fi
             git push
           fi
