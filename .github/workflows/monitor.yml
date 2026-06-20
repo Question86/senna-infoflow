@@ -15,7 +15,7 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 9
     steps:
       - uses: actions/checkout@v5
 
@@ -80,8 +80,12 @@ jobs:
           minute = datetime.now(timezone.utc).minute
           include_macro = event_name == "workflow_dispatch" or minute % 15 == 0
 
+          # Emergency feed-health rule, 2026-06-20:
+          # The broad official_direct_sources overlay caused repeated hardened-monitor
+          # timeouts in the 5-minute feed loop. Keep the core/hot/strategic/macro
+          # lanes running first. Re-enable direct overlay only after it has per-source
+          # timeout/rate controls or a separate slower workflow.
           overlay_paths = [
-              ("config/official_direct_sources.yaml", True),
               ("config/hot_sources.yaml", False),
               ("config/strategic_sources.yaml", False),
           ]
@@ -126,19 +130,12 @@ jobs:
                       else:
                           sources_by_id[sid][key] = value
 
-          direct_overlay = load_yaml("config/official_direct_sources.yaml")
-          direct_ids = [
-              str(s.get("id"))
-              for s in (direct_overlay.get("sources") or [])
-              if isinstance(s, dict) and s.get("id") and str(s.get("id")) in sources_by_id
-          ]
-          direct_set = set(direct_ids)
-          final_ids = direct_ids + [sid for sid in order if sid in sources_by_id and sid not in direct_set]
-
+          final_ids = [sid for sid in order if sid in sources_by_id]
           base["sources"] = [sources_by_id[sid] for sid in final_ids]
           base.setdefault("meta", {})
           base["meta"]["source_merge_policy"] = {
-              "direct_sources_first": True,
+              "direct_sources_overlay_skipped": True,
+              "direct_sources_overlay_reason": "Emergency feed-health guard after repeated hardened-monitor timeouts.",
               "media_after_direct_sources": True,
               "removed_ids_count": len(remove_ids),
               "disabled_ids_count": len(disable_ids),
@@ -198,7 +195,7 @@ jobs:
         timeout-minutes: 1
         run: |
           git config user.name "senna-infoflow[bot]"
-          git config user.email "senna-inflow[bot]@users.noreply.github.com"
+          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
 
           git add data/ briefings/ reports/ state/ config/sources.yaml
 
