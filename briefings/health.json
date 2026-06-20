@@ -1,29 +1,14 @@
 {
-  "counts": {
-    "critical": 0,
-    "source_errors_appended": 1,
-    "under_observation_topics": 6,
-    "warnings": 1
-  },
-  "doc_type": "senna.pipeline_health",
-  "generated_at": "2026-06-20T02:49:51Z",
-  "issues": [
+  "generated_at": "2026-06-20T02:51:14.813023+00:00",
+  "status": "emergency",
+  "mode": "emergency_minimal_rss_writer",
+  "findings": 30,
+  "source_errors": [
     {
-      "code": "source_errors_present",
-      "message": "1 source error(s) in latest run.",
-      "severity": "warning"
+      "source_id": "ap_top_news_rss",
+      "source": "AP Top News",
+      "url": "https://apnews.com/index.rss",
+      "error": "<HTTPError 401: 'Unauthorized'>"
     }
-  ],
-  "schema_version": 2,
-  "seen_state": {
-    "max_items": 50000,
-    "retention_days": 90,
-    "seen_kept": 1172,
-    "seen_malformed_removed": 0,
-    "seen_original": 1172,
-    "seen_removed_expired": 0,
-    "seen_removed_overflow": 0
-  },
-  "status": "warning",
-  "under_observation_source": "inbox/manual_notes.md"
+  ]
 }

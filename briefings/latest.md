@@ -1,108 +1,145 @@
-<!-- SENNA_QUALITY_GATE_START -->
-## Coverage Warning
-
-**Dieses Briefing ist kein repräsentatives Weltbild.** Es zeigt überlebende Signale aus konfigurierten öffentlichen Quellen.
-
-- Coverage confidence: `limited`
-- Findings after quality gate: `5`
-- Source errors: `1`
-- Priority after gate: high `0`, medium `1`, observe `4`
-- Failed sensor groups: `other`=1
-
-> Score ist nicht Wahrheit. Er ist eine strukturierte Vermutung über ein unvollständiges Sensorfeld.
-
-<!-- SENNA_QUALITY_GATE_END -->
 # Senna Briefing
 
-_Generiert: 2026-06-20T02:49:51+00:00_
+_Generiert: 2026-06-20T02:51:14.813023+00:00_
+
+## Emergency Feed Mode
+
+Der normale Hardened-Monitor wurde nach wiederholten Timeouts temporär umgangen. Dieser Lauf nutzt einen minimalen strukturierten RSS-Kern, damit der Nachrichtenfeed wieder atmet.
+
+- Coverage confidence: `limited`
+- Findings: `30`
+- Source errors: `1`
 
 ## Kurzlage
 
-5 neue relevante Treffer nach 14-Tage-Frischefilter. Stärkstes Signal: „Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される“ aus Hatena Bookmark Hotentry IT.
-
-_Frischefilter: keine News älter als 14 Tage._
-
-## Priorität Hoch
-
-Keine neuen Hochprioritäts-Treffer.
-
-## Priorität Mittel
-
-- **Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される** — Score 19, observation — [Quelle](https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T03:30:48+00:00`, fetched `2026-06-20T02:49:29+00:00`
-  - Kurz: NVIDIAがAIエージェントの自律能力をロボットに導入するハーネスフレームワーク「ENPIRE」を発表しました。ENPIREはカーネギーメロン大学やカリフォルニア大学バークレー校の研究者と共同開発されたフレームワークで、Claude CodeやCodexなどのAIエージェントを用いてロボットのタスク遂行能力を強化することができます...
+30 Treffer aus minimalem Kernfeed. Keine Score-Behauptung über Weltlage; nur Notversorgung bis zur sauberen Slow-Lane-Reparatur.
 
 ## Nur beobachten
 
-- **【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表** — Score 3, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T15:55:51+00:00`, fetched `2026-06-20T02:49:29+00:00`
-  - Kurz: 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
-- **「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言** — Score 3, observation — [Quelle](https://gigazine.net/news/20260619-apple-intel-chip-build/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T04:34:59+00:00`, fetched `2026-06-20T02:49:29+00:00`
-  - Kurz: ドナルド・トランプ大統領は、AppleがIntelと協力し、アメリカでチップを設計、製造することで合意したと主張しました。AppleとIntelはトランプ大統領の発言について公式にコメントしていませんが、Intel株は大きく上昇しました。 Trump says Apple to partner with Intel on US chip design, production | Reuters http...
-- **curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？** — Score 3, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T04:13:19+00:00`, fetched `2026-06-20T02:49:29+00:00`
-  - Kurz: curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？：「パニックになるほど危険ではない」 「curl」プロジェクトの開発者であるダニエル・ステンバーグ氏は、AnthropicのAIモデル「Mythos」による脆弱性分析レポートを受領し、その結果を共有した。 「curl」プロジェクトの開発...
-- **電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題** — Score 3, observation — [Quelle](https://toyokeizai.net/articles/-/948348?display=b)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T03:21:29+00:00`, fetched `2026-06-20T02:49:29+00:00`
-  - Kurz: コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...
+- **New usage analytics and updated spend controls for enterprises** — OpenAI News RSS — Score 5, observation
+  - Quelle: https://openai.com/index/chatgpt-enterprise-spend-controls
+  - Zeit: `2026-06-18T17:00:00+00:00`
+  - Kurz: OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
+- **Improving health intelligence in ChatGPT** — OpenAI News RSS — Score 5, observation
+  - Quelle: https://openai.com/index/improving-health-intelligence-in-chatgpt
+  - Zeit: `2026-06-18T11:00:00+00:00`
+  - Kurz: Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
+- **Using AI to help physicians diagnose rare genetic diseases affecting children** — OpenAI News RSS — Score 5, observation
+  - Quelle: https://openai.com/index/diagnose-rare-childhood-diseases
+  - Zeit: `2026-06-18T08:00:00+00:00`
+  - Kurz: Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
+- **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry** — OpenAI News RSS — Score 5, observation
+  - Quelle: https://openai.com/index/ai-chemist-improves-reaction
+  - Zeit: `2026-06-17T10:00:00+00:00`
+  - Kurz: OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
+- **Introducing LifeSciBench** — OpenAI News RSS — Score 5, observation
+  - Quelle: https://openai.com/index/introducing-life-sci-bench
+  - Zeit: `2026-06-17T00:00:00+00:00`
+  - Kurz: Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
+- **How we built an internal data analytics agent** — GitHub Blog — Score 5, observation
+  - Quelle: https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/
+  - Zeit: `2026-06-19T16:00:00+00:00`
+  - Kurz: Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .
+- **How pull request limits are cutting down the noise** — GitHub Blog — Score 5, observation
+  - Quelle: https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/
+  - Zeit: `2026-06-18T16:00:00+00:00`
+  - Kurz: Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .
+- **Getting more from each token: How Copilot improves context handling and model routing** — GitHub Blog — Score 5, observation
+  - Quelle: https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/
+  - Zeit: `2026-06-17T19:41:46+00:00`
+  - Kurz: How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .
+- **What are git worktrees, and why should I use them?** — GitHub Blog — Score 5, observation
+  - Quelle: https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/
+  - Zeit: `2026-06-16T20:58:54+00:00`
+  - Kurz: Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog .
+- **GitHub Copilot CLI for Beginners: Overview of common slash commands** — GitHub Blog — Score 5, observation
+  - Quelle: https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/
+  - Zeit: `2026-06-15T20:15:31+00:00`
+  - Kurz: GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .
+- **AI credits consumed per user now in the Copilot usage metrics API** — GitHub Changelog — Score 5, observation
+  - Quelle: https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api
+  - Zeit: `2026-06-19T16:23:29+00:00`
+  - Kurz: The Copilot usage metrics API now reports how many AI credits each user consumed per day, derived from the same AI credits consumption data used in the usage-based billing API.… The post AI credits consumed per user now in the Copilot usage metrics API appeared first on The GitHub Blog .
+- **Upcoming deprecation of Opus 4.6 (fast)** — GitHub Changelog — Score 5, observation
+  - Quelle: https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast
+  - Zeit: `2026-06-18T23:58:34+00:00`
+  - Kurz: We will deprecate Opus 4.6 (fast) across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on June 29th, 2026: Model Deprecation date… The post Upcoming deprecation of Opus 4.6 (fast) appeared first on The GitHub Blog .
+- **MAI-Code-1-Flash available on more Copilot surfaces** — GitHub Changelog — Score 5, observation
+  - Quelle: https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces
+  - Zeit: `2026-06-18T20:11:24+00:00`
+  - Kurz: MAI‑Code‑1‑Flash, Microsoft’s purpose‑built small coding model, is now available across additional GitHub Copilot surfaces. MAI‑Code‑1‑Flash can now be used in: Copilot CLI GitHub Copilot app Copilot Chat on GitHub Visual… The post MAI-Code-1-Flash available on more Copilot surfaces appeared first on The GitHub Blog .
+- **Copilot code review: AGENTS.md support and UI improvements** — GitHub Changelog — Score 5, observation
+  - Quelle: https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements
+  - Zeit: `2026-06-18T19:11:51+00:00`
+  - Kurz: Copilot code review now supports repository-level AGENTS.md files, and it’s easier to request a review from Copilot on draft pull requests with the Request button. These changes are all generally… The post Copilot code review: AGENTS.md support and UI improvements appeared first on The GitHub Blog .
+- **Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues** — GitHub Changelog — Score 5, observation
+  - Quelle: https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues
+  - Zeit: `2026-06-18T18:04:33+00:00`
+  - Kurz: Duplicate issues are one of the biggest time sinks for maintainers: triaging the same bug filed multiple ways, closing duplicates, and linking back to the original. For large repositories, this… The post Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues appeared first on The GitHub Blog .
+- **BioArk’s growth strategy plants seeds for a greener agricultural future** — e27 Asia Startup and Tech — Score 5, observation
+  - Quelle: https://e27.co/bioark-feature-20250514/
+  - Zeit: `2026-06-19T11:50:48+00:00`
+  - Kurz: Farming practices across Asia face mounting pressure to increase output while reducing environmental damage. For BioArk, a Singapore-based agritech company, this challenge is a starting point for rethinking how fertilisers are made, applied, and integrated into existing systems without demanding costly changes from farmers. Rather than focusing on history or
+- **Momentum without maturity: Southeast Asia’s AI reality** — e27 Asia Startup and Tech — Score 5, observation
+  - Quelle: https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/
+  - Zeit: `2026-06-19T11:49:27+00:00`
+  - Kurz: The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six economies — Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam — a
+- **NewGen doubles down on K25.ai as Asia-focused AI livestreaming platform eyes commercial launch** — e27 Asia Startup and Tech — Score 5, observation
+  - Quelle: https://e27.co/newgen-doubles-down-on-k25-ai-as-asia-focused-ai-livestreaming-platform-eyes-commercial-launch-20260619/
+  - Zeit: `2026-06-19T11:41:09+00:00`
+  - Kurz: K25.ai, an APAC-focused startup attempting to fuse live streaming, creator monetisation, and prediction markets, has closed a US$10 million pre‑Series A round at a US$100 million valuation. With this deal, Nasdaq-listed NewGenIVF Group completed a US$4 million tranche that brings its aggregate commitment in the AI firm to US$10 million. Once closing conditio
+- **fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan** — e27 Asia Startup and Tech — Score 5, observation
+  - Quelle: https://e27.co/fileai-funding-20260619/
+  - Zeit: `2026-06-19T07:04:44+00:00`
+  - Kurz: Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan’s JR East Group, marking a significant step in the company’s expansion into the Japanese market. The investment comes alongside a deployment partnership in which fileAI’s governed AI platform will be rolled out across
+- **Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem** — e27 Asia Startup and Tech — Score 5, observation
+  - Quelle: https://e27.co/ecosystem-roundup-manus-buyback-is-a-geopolitical-wake-up-call-for-seas-ai-ecosystem-20260619/
+  - Zeit: `2026-06-19T06:11:11+00:00`
+  - Kurz: Manus’s reported buyback encapsulates a new reality: AI deals are no longer just commercial transactions but geopolitical chess moves with clear implications for Southeast Asia. If Chinese investors repurchase Manus at the roughly US$2 billion price Meta paid, the outcome will reflect Beijing’s intent to retain control over advanced AI assets developed with 
+- **駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊** — TWCERT Security News — Score 5, observation
+  - Quelle: https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html
+  - Zeit: `2026-05-29T02:31:00+00:00`
+  - Kurz: Cisco近日發布重大安全性公告，揭露並修復旗下Catalyst SD-WAN網路架構中一項高嚴重性的身分驗證繞過漏洞(CVE-2026-20182，CVSS：10.0)。該漏洞將允許未經身分驗證的遠端攻擊者，透過發送特製請求直接繞過身分驗證機制，進而取得內部高權限帳號管理帳號(non-root)。攻擊者一旦掌握此權限，便可透過存取「NETCONF」服務，藉此任意竄改 SD-WAN 的網路配置、建立惡意網路節點並深入攻擊企業與組織內部網路。目前美國網路安全與基礎設施安全局(CISA)已將此漏洞納入已知漏洞目錄(KEV)；同時亦有情資顯示，駭客組織 UAT-8616 正積極利用此漏洞發動攻擊，呼籲相關用戶務必提高警覺，並儘速採取對應的防禦與修補措施。 本次受影響的產品範圍相當廣泛，無論企業是採用本地端建置(On-
+- **歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰** — TWCERT Security News — Score 5, observation
+  - Quelle: https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html
+  - Zeit: `2026-05-29T02:18:00+00:00`
+  - Kurz: 《網路韌性法案》（Cyber Resilience Act, CRA）執行時程已正式進入倒數階段，最具衝擊力的第 14 條「漏洞通報義務」將於2026年9月11日 正式強制執行。屆時，所有進入歐盟市場的具備數位功能產品，若得知存在「活躍漏洞利用（Actively Exploited Vulnerability）」，製造商必須在24小時內發布早期預警。這項嚴格的法規不僅是歐盟境內的法律義務，更對全球電子製造供應鏈帶來巨大的連鎖反應，迫使廠商必須全面升級產品開發與漏洞應變機制。 根據法案最終公告條款，製造商在獲悉漏洞後將面臨極具挑戰性的時間壓力，企業必須在發現漏洞的24小時內，透過歐盟「單一通報平台 (SRP)」向當地電腦安全事件應變團隊 (CSIRT) 及歐盟網路安全局 (ENISA) 發出早期預警，並於72 小
+- **「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標** — TWCERT Security News — Score 5, observation
+  - Quelle: https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html
+  - Zeit: `2026-05-29T02:05:00+00:00`
+  - Kurz: 近期微軟資安研究團隊與資安廠商觀察指出，攻擊者正大量利用名為「EvilTokens」的新興網路釣魚服務平台（PhaaS），結合人工智慧與自動化工具，針對企業與組織發動「裝置碼(Device Code)」釣魚攻擊。駭客透過社交工程手段，誘騙使用者於官方合法頁面完成授權程序，藉此成功繞過多因子驗證(MFA)並接管帳號，進而竊取內部敏感資料。資安專家特別指出，由於微軟Azure與Google兩大雲端平台在OAuth 2.0裝置碼機制的權限實作上存在差異，微軟環境面臨更為嚴重威脅。 國家資通安全研究院日前亦發布資安提醒指出，攻擊者正濫用「裝置碼」登入機制發動釣魚攻擊。「裝置碼」登入機制原本是為了智慧電視、物聯網（IoT）等不便輸入帳號密碼的設備所設計的驗證流程。然而，此項便利功能現已成為駭客濫用的目標。 圖1：裝置程式
+- **勒索軟體組織「The Gentlemen」結合SystemBC惡意軟體擴大攻擊版圖** — TWCERT Security News — Score 5, observation
+  - Quelle: https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html
+  - Zeit: `2026-04-30T06:08:00+00:00`
+  - Kurz: 勒索軟體即服務（RaaS）組織「The Gentlemen」 自 2025 年中旬崛起後，近期透過整合 SystemBC 代理惡意軟體，使其攻擊規模於 2026 年第一季大幅擴張。該組織採取高度成熟的雙重勒索策略，不僅加密受害者的系統檔案，亦同步進行大規模關鍵商業資料外洩，以此作為威脅支付贖金的籌碼。近期，資安研究人員在事件回應調查中發現，The Gentlemen在入侵流程中大量部署「SystemBC」代理惡意軟體，經分析其C2伺服器資料後，揭露受害者數量已逾 1,570 名，主要分佈於美國、英國及德國，感染特徵證實該攻擊具備高度針對性，精準鎖定企業與組織環境，而非一般個人使用者。 「SystemBC」是一款經常被利用於人為操作入侵流程中的代理惡意軟體。一旦於受害環境完成部署，該軟體即建立 SOCKS5 網路
+- **UAT-10608大規模自動化竊密行動：鎖定React2Shell漏洞入侵逾700台Next.js伺服器** — TWCERT Security News — Score 5, observation
+  - Quelle: https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html
+  - Zeit: `2026-04-30T06:05:00+00:00`
+  - Kurz: 思科旗下資安威脅情報與研究團隊 Cisco Talos 近日揭露，一個被追蹤為「UAT-10608」的威脅叢集，正針對暴露於網路的Next.js應用程式發動大規模自動化憑證竊取行動。該組織利用去年底備受關注的 React2Shell 漏洞（CVE-2025-55182），結合名為「NEXUS Listener」的自動化資料蒐集框架，在短時間內入侵全球至少766台主機，影響範圍橫跨多個地區與雲端服務供應商。 React2Shell（CVE-2025-55182）為一項高風險 RCE 漏洞，允許未經驗證的遠端攻擊者，在缺乏適當輸入驗證和處理的應用程式環境中執行任意程式碼，影響 React 與 Next.js 等主流前端框架。報告指出，UAT-10608 的攻擊具高度系統化特徵，先透過 Shodan、Censys 或
+- **Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte** — heise Security Alerts — Score 5, observation
+  - Quelle: https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html
+  - Zeit: `unknown`
+  - Kurz: Es sind wichtige Sicherheitsupdates für unter anderem Cisco Identity Services Engine (ISE) erschienen. Netzwerkadmins sollten zeitnah tätig werden.
+- **F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken** — heise Security Alerts — Score 5, observation
+  - Quelle: https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html
+  - Zeit: `unknown`
+  - Kurz: Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.
+- **PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an** — heise Security Alerts — Score 5, observation
+  - Quelle: https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html
+  - Zeit: `unknown`
+  - Kurz: Ein Anruf des BSI um 2:30 holte kürzlich Windchill-Kunden aus dem Schlaf. Jetzt wird klar, wieso. Doch welche Rolle spielte das BKA dieses Mal?
+- **Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke** — heise Security Alerts — Score 5, observation
+  - Quelle: https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html
+  - Zeit: `unknown`
+  - Kurz: Splunk warnt, dass bösartige Akteure eine kritische Codeschmuggel-Lücke in Splunk Enterprise angreifen. Updates stehen bereit.
+- **FortiSandbox: Angriffe auf kritische Schwachstellen beobachtet** — heise Security Alerts — Score 5, observation
+  - Quelle: https://www.heise.de/news/Angriffe-auf-FortiSandbox-Schwachstellen-11335667.html
+  - Zeit: `unknown`
+  - Kurz: Schwachstellen in FortiSandbox sind derzeit Ziel von Angriffen im Internet. Patches zum Absichern stehen seit April bereit.
 
-## Unter Beobachtung
+## Source Errors
 
-Diese Lane ist absichtlich feed-unabhängig. Sie hält Themen sichtbar, auch wenn die Presse gerade woanders hinglotzt.
+- `ap_top_news_rss` — <HTTPError 401: 'Unauthorized'>
 
-_Aktualisiert: 2026-06-20T02:49:51Z_
-
-- **Japan X/Twitter Tech- und Event-Sturmfront** — `apac_japan_x_stormfront` / `active` / `routine`
-  - Warum: Japan-X/Twitter kann Tech-, Popkultur-, Plattform- und Eventtrends früher zeigen als klassische Presse oder westliche Feeds.
-  - Beobachten: Japanische Social-Velocity-Proxies, Hatena Hotentry IT, Google Trends Japan, GitHub-Suchen nach X/Twitter-Trend-RSS-/Aggregator-Tools, spätere stabile lawful X/RSS-Brücke.
-  - Trigger: Japan, Tokyo, 日本, 急上昇, Twitter, X, trend, viral, Hatena, AI, security, outage, launch, anime, game, earthquake, social velocity
-  - Update-Regel: Auch ohne neue Treffer mindestens im Routinebriefing anzeigen; bei bestätigter X/RSS-Brücke aktivieren.
-  - Nicht tun: Keine fragile oder unrechtmäßige X-Scraping-Abhängigkeit als tragende Quelle behandeln.
-  - Aktueller Feed-Signalabgleich: `5` Treffer
-  - Fenster-Signalabgleich: `30m:9 / 1h:9 / 4h:9 / 8h:36 / 24h:141 / 72h:246 / 168h:246`
-- **Südkorea Wahl-Infrastruktur und Protestvertrauen** — `south_korea_election_infrastructure_stress` / `active` / `routine`
-  - Warum: Wahlverwaltungsfehler können sich in Infrastrukturvertrauenskrisen verwandeln; junge Protestkohorten und mögliche Zwangsräumung erhöhen Eskalationsrisiko.
-  - Beobachten: NEC-Untersuchung, Polizeiräumung, Verletzte, offizielle Parlaments-/Behördenentscheidungen, Seoul-Protestzahlen, Desinformation/Cyber-/Leak-Bezug.
-  - Trigger: South Korea, Seoul, Korea, election, ballot, NEC, protest, polling station, vote counting, forced dispersal, police, democracy, infrastructure trust
-  - Update-Regel: Bei Reuters/AP/Yonhap/NEC-Bestätigung oder Räumungssignal hochziehen; sonst beobachtet lassen.
-  - Nicht tun: Kein Wahlbetrugsnarrativ ohne belastbare Belege verstärken.
-  - Aktueller Feed-Signalabgleich: `0` Treffer
-  - Fenster-Signalabgleich: `30m:0 / 1h:0 / 4h:0 / 8h:29 / 24h:32 / 72h:89 / 168h:89`
-- **APAC Tech-/Social-Motoren außerhalb China** — `apac_tech_social_trend_mesh` / `active` / `routine`
-  - Warum: Thailand, Taiwan, Philippinen, Vietnam, Korea und Japan sind eigenständige Trendmotoren; westliche Feeds sehen sie oft zu spät.
-  - Beobachten: Regionale Trends, Tech-/Startup-Bewegung, Plattform-Ausfälle, KI-/Devtools, Halbleiter, Security, politische Plattformdynamik.
-  - Trigger: Taiwan, TSMC, Thailand, Philippines, Vietnam, Korea, Japan, Singapore, Indonesia, India, startup, AI, platform, outage, security, developer tools
-  - Update-Regel: In Routineupdates als Coverage-Achse behalten; bei Mehrquellen-Signal in OBSERVE/MEDIUM hochziehen.
-  - Nicht tun: APAC nicht als China-Beifang behandeln.
-  - Aktueller Feed-Signalabgleich: `0` Treffer
-  - Fenster-Signalabgleich: `30m:2 / 1h:2 / 4h:2 / 8h:13 / 24h:110 / 72h:184 / 168h:184`
-- **Global-South-Signalabdeckung Afrika und Südamerika** — `global_south_coverage_gap` / `active` / `routine`
-  - Warum: Afrika und Südamerika sind bei Tech-, Infrastruktur-, Klima-, Energie-, Zahlungs- und Plattformthemen nicht zu unterschätzen; westliche Feeds blenden sie oft aus.
-  - Beobachten: Tech-Ökosysteme, digitale Zahlungssysteme, Energie-/Netzausfälle, Klima-/Katastrophensignale, Plattformpolitik, Security, regionale Regulierung.
-  - Trigger: Africa, Nigeria, Kenya, South Africa, Brazil, Argentina, Chile, Colombia, LATAM, fintech, mobile money, power outage, flood, drought, platform policy, cybersecurity
-  - Update-Regel: Quellenabdeckung schrittweise ausbauen; Feed-Stille hier niemals als Weltstille werten.
-  - Nicht tun: Afrika/Südamerika nicht nur über Katastrophenfeeds wahrnehmen.
-  - Aktueller Feed-Signalabgleich: `0` Treffer
-  - Fenster-Signalabgleich: `30m:0 / 1h:0 / 4h:0 / 8h:8 / 24h:73 / 72h:108 / 168h:108`
-- **Mindanao nach dem Beben — Nachbeben, Wiederaufbau und regionale Stresspunkte** — `mindanao_post_quake_recovery_hotspots` / `active` / `routine`
-  - Warum: Das Mindanao-Beben ist kein einzelnes Katastrophenereignis mehr, sondern ein dynamischer Entwicklungscluster: Nachbeben, Wiederaufbau, Versorgung, Preisregulierung, Immobilien, Versicherungen, Fischerei, Tourismus, Häfen/Logistik, Krankenhäuser und lokale Governance können sich über Wochen verschieben.
-  - Beobachten: Nachbeben und PHIVOLCS-Lage, Glan und Sarangani-Landrutsche, General Santos City als Hafen-/Handels-/Versorgungsknoten, Krankenhäuser und Outdoor-Patientenversorgung, Trinkwasser/Sanitärversorgung, Lebensmittel/Baumaterial/Transportpreise, 60-Tage-Preisstopps und Marktumgehung, Versicherungs-/Schadensregulierung, Immobilienpreise/Mieten/Umsiedlung, Fischerei und Küstenökosysteme, Tourismus-Stornierungen, Schulen, Straßen/Brücken, Strom/Telekom, Häfen und maritime Infrastruktur, Wiederaufbauverträge, Korruptions-/Hilfsverteilungsrisiken, Landwirtschaft/Regenzeit/Monsoon, Küstenhebung/Tsunami-Folgen, mentale Gesundheit, Sicherheitslage und lokale Spannungen ohne Spekulation.
-  - Trigger: Mindanao, Sarangani, Glan, Malapatan, Maasim, General Santos, GenSan, Davao Occidental, South Cotabato, SOCSCSKSARGEN, earthquake, aftershock, PHIVOLCS, tsunami, landslide, coastal uplift, hospital, water, sanitation, price freeze, insurance, real estate, rent, rebuilding, reconstruction, fisheries, fishery, tourism, port, airport, logistics, GSC, schools, bridge, road, power outage, telecom, aid distribution, monsoon
-  - Update-Regel: In Routineupdates mindestens als Unter-Beobachtung-Thema führen; hochziehen bei M5+ Nachbeben, neuen Todes-/Verletztenzahlen, Preis-/Versorgungsengpässen, Hafen-/Flughafen-/Krankenhausausfällen, Versicherungs-/Immobilienmeldungen, Wiederaufbauvertragsskandal, Krankheitsausbruch, Regenzeit-Folgeschäden oder starker lokaler Protest-/Aid-Distribution-Dynamik.
-  - Nicht tun: Nicht als einmalige Katastrophenmeldung abhaken; keine Armuts-/Chaos-Klischees über Mindanao; keine unbestätigten Gerüchte über Plünderung, Korruption oder Sicherheit verstärken; keine Immobilien-/Versicherungsclaims als Tatsache behandeln, bevor lokale oder belastbare Quellen sie stützen.
-  - Aktueller Feed-Signalabgleich: `0` Treffer
-  - Fenster-Signalabgleich: `30m:0 / 1h:0 / 4h:0 / 8h:55 / 24h:80 / 72h:142 / 168h:142`
-- **Strategy/STRC Kapitalstruktur-Stress und Bitcoin-Treasury-Feedbackloop** — `strategy_strc_capital_structure_stress` / `active` / `routine`
-  - Warum: STRC ist kein normaler Bitcoin-Preisindikator, sondern ein Stressmesser in Strategys Finanzierungsschicht. Wenn STRC deutlich unter dem $100-Par-Ziel handelt, signalisiert der Markt, dass die variable Dividende nicht reicht. Das kann Strategy beim Preferred-ATM, bei Bitcoin-Käufen, bei MSTR-Verwässerung und im Extrem bei Bitcoin-Verkäufen unter Druck setzen.
-  - Beobachten: STRC-Kurs relativ zu $100/$95/$90/$85, offizieller Strategy-STRC-Dividendensatz, STRC-VWAP, Effective Yield, MSTR-Kurs und mNAV/BTC-per-share-Narrativ, ATM-Emissionen, Bitcoin-Käufe/-Verkäufe durch Strategy, Cash-Reserve-Runway, STRC/STRF/STRK/STRD Stack, Konkurrenzprodukte wie SATA, Berichterstattung von CoinDesk, FT, Investors.com/IBD, The Block, Blocktrainer, Yahoo Finance, Nasdaq.
-  - Trigger: Strategy, MicroStrategy, MSTR, STRC, Stretch, STRF, STRK, STRD, preferred stock, perpetual preferred, par value, $100 par, dividend, 11.5%, 12%, yield, effective yield, VWAP, Bitcoin sale, sell Bitcoin, BTC treasury, Bitcoin treasury company, Saylor, ATM, dilution, cash reserve, dividend coverage, mNAV, NAV, treasury company, SATA, Strive
-  - Update-Regel: Hochziehen bei STRC <95, <90 oder <85; bei Dividendenerhöhung; bei offizieller Strategy-Meldung zu STRC/Preferred/ATM; bei Strategy-Bitcoin-Verkauf; bei glaubwürdiger Mehrquellen-Resonanz. X-only bleibt Frührauch, nicht Beweis.
-  - Nicht tun: Keine Tradingempfehlung. Keine anonyme X-These als Tatsache behandeln. Kein „Strategy muss Bitcoin verkaufen“ behaupten, solange es nicht durch Filing, offizielle Meldung oder belastbare Mehrquellenlage gestützt ist.
-  - Aktueller Feed-Signalabgleich: `1` Treffer
-  - Fenster-Signalabgleich: `30m:2 / 1h:2 / 4h:2 / 8h:4 / 24h:7 / 72h:17 / 168h:17`
+---
+END OF DOCUMENT
