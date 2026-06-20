@@ -45,10 +45,16 @@ jobs:
       - name: Archive hardened canary output
         if: always()
         timeout-minutes: 1
+        continue-on-error: true
+        env:
+          HARDENED_OUTCOME: ${{ steps.hardened.outcome }}
+          HARDENED_CONCLUSION: ${{ steps.hardened.conclusion }}
         run: |
           mkdir -p reports/canary
           python - <<'PY'
-          import json, os, shutil
+          import json
+          import os
+          import shutil
           from datetime import datetime, timezone
           from pathlib import Path
 
@@ -60,25 +66,24 @@ jobs:
               "step_conclusion": os.environ.get("HARDENED_CONCLUSION", "unknown"),
               "latest_json_present": Path("briefings/latest.json").exists(),
           }
-          if Path("briefings/latest.json").exists():
-              shutil.copyfile("briefings/latest.json", "reports/canary/hardened_latest.json")
-              try:
+
+          try:
+              if Path("briefings/latest.json").exists():
+                  shutil.copyfile("briefings/latest.json", "reports/canary/hardened_latest.json")
                   data = json.loads(Path("briefings/latest.json").read_text(encoding="utf-8"))
-                  {test = data.get("sections")}
-                 status["counts"] = data.get("counts", {})
+                  status["counts"] = data.get("counts", {})
                   status["source_errors"] = len(data.get("source_errors", []))
                   status["schema_ok"] = isinstance(data.get("sections"), dict) and isinstance(data.get("counts"), dict)
-              except Exception as exc:
-                 status["schema_ok"] = False
-                 status["parse_error"] = repr(exc)
-          if Path("briefings/latest.md").exists():
-              shutil.copyfile("briefings/latest.md", "reports/canary/hardened_latest.md")
+
+              if Path("briefings/latest.md").exists():
+                  shutil.copyfile("briefings/latest.md", "reports/canary/hardened_latest.md")
+          except Exception as exc:
+              status["schema_ok"] = False
+              status["archive_error"] = repr(exc)
+
           Path("reports/canary/status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
           print(json.dumps(status, ensure_ascii=False))
           PY
-        env:
-          HARDENED_OUTCOME: ${{ steps.hardened.outcome }}
-          HARDENED_CONCLUSION: ${{ steps.hardened.conclusion }}
 
       - name: Write visible emergency RSS briefing
         timeout-minutes: 3
