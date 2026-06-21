@@ -1,53 +1,123 @@
 {
-  "schema_version": 1,
-  "scope": "configured public sources after runtime overlay merge",
+  "schema_version": 2,
+  "generated_at": "2026-06-21T13:23:38+00:00",
+  "scope": "actual runtime sources after base + hot + macro overlay merge",
   "source_files": [
     "config/sources.yaml",
     "config/hot_sources.yaml",
     "config/macro_sources.yaml"
   ],
-  "cadence": {
-    "hot": "every 5 minutes",
-    "macro_policy": "every 15 minutes or manual dispatch"
+  "runtime_policy": {
+    "visible_feed": "broad runtime merge",
+    "runtime_max_items_cap": 6,
+    "disabled_sources_are_excluded": true,
+    "notes": [
+      "This manifest is generated from the Action workspace before the monitor runs.",
+      "It is the truth source for what the current run is allowed to fetch.",
+      "docs/index.html is not modified by this script."
+    ]
   },
   "counts": {
-    "active_sources": 10,
+    "configured_sources": 44,
+    "active_sources": 36,
     "by_type": {
+      "github_search": 1,
+      "hackernews": 1,
       "manual_note": 1,
-      "rss": 9
+      "rss": 32,
+      "webpage_check": 1
     },
     "by_lane": {
-      "base": 8,
-      "platform_dev": 2
+      "base": 5,
+      "hot": 20,
+      "macro_policy": 11
+    },
+    "by_class": {
+      "-": 5,
+      "apac_public_institution": 1,
+      "asia_tech_media": 1,
+      "central_bank": 8,
+      "central_bank_network": 3,
+      "geoscience_institute": 1,
+      "global_south_tech_media": 1,
+      "humanitarian_recovery_watch": 1,
+      "japan_social_link_radar": 1,
+      "open_source_platform": 2,
+      "platform_social": 1,
+      "regional_trend_radar": 6,
+      "security_advisory": 5
     }
   },
   "sources": [
     {
-      "id": "ap_top_news_rss",
-      "name": "Associated Press Top News RSS",
+      "id": "openai_news_rss",
+      "name": "OpenAI News RSS",
       "type": "rss",
       "lane": "base",
       "source_class": null,
-      "host": "apnews.com",
-      "max_items": 5
+      "host": "openai.com",
+      "max_items": 5,
+      "runtime_source_file": "config/sources.yaml"
     },
     {
-      "id": "e27_asia_startups_feed",
-      "name": "e27 Asia Startup and Tech Feed",
+      "id": "github_blog_atom",
+      "name": "GitHub Blog Atom",
       "type": "rss",
       "lane": "base",
       "source_class": null,
-      "host": "e27.co",
-      "max_items": 5
+      "host": "github.blog",
+      "max_items": 5,
+      "runtime_source_file": "config/sources.yaml"
+    },
+    {
+      "id": "github_changelog_atom",
+      "name": "GitHub Changelog Atom",
+      "type": "rss",
+      "lane": "base",
+      "source_class": null,
+      "host": "github.blog",
+      "max_items": 5,
+      "runtime_source_file": "config/sources.yaml"
     },
     {
       "id": "hatena_hotentry_it",
       "name": "Hatena Bookmark Hotentry IT",
       "type": "rss",
-      "lane": "base",
-      "source_class": null,
+      "lane": "hot",
+      "source_class": "japan_social_link_radar",
       "host": "b.hatena.ne.jp",
-      "max_items": 6
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "e27_asia_startups_feed",
+      "name": "e27 Asia Startup and Tech Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "asia_tech_media",
+      "host": "e27.co",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "jpcert_english_alerts",
+      "name": "JPCERT/CC English Alerts",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "security_advisory",
+      "host": "www.jpcert.or.jp",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "twcert_security_news",
+      "name": "TWCERT/CC Security News RSS",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "security_advisory",
+      "host": "www.twcert.org.tw",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
     },
     {
       "id": "heise_security_atom",
@@ -56,16 +126,8 @@
       "lane": "base",
       "source_class": null,
       "host": "www.heise.de",
-      "max_items": 5
-    },
-    {
-      "id": "jpcert_english_alerts",
-      "name": "JPCERT/CC English Alerts",
-      "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "www.jpcert.or.jp",
-      "max_items": 5
+      "max_items": 5,
+      "runtime_source_file": "config/sources.yaml"
     },
     {
       "id": "manual_notes",
@@ -74,43 +136,278 @@
       "lane": "base",
       "source_class": null,
       "host": "",
-      "max_items": null
+      "max_items": null,
+      "runtime_source_file": "config/sources.yaml"
     },
     {
-      "id": "openai_news_rss",
-      "name": "OpenAI News RSS",
+      "id": "google_trends_japan_hot",
+      "name": "Google Trends Japan Hot Feed",
       "type": "rss",
-      "lane": "base",
-      "source_class": null,
-      "host": "openai.com",
-      "max_items": 5
+      "lane": "hot",
+      "source_class": "regional_trend_radar",
+      "host": "trends.google.co.jp",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
     },
     {
-      "id": "twcert_security_news",
-      "name": "TWCERT/CC Security News RSS",
+      "id": "japan_digital_agency_news",
+      "name": "Japan Digital Agency News RSS",
       "type": "rss",
-      "lane": "base",
-      "source_class": null,
+      "lane": "hot",
+      "source_class": "apac_public_institution",
+      "host": "www.digital.go.jp",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "google_trends_korea_hot",
+      "name": "Google Trends South Korea Hot Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "regional_trend_radar",
+      "host": "trends.google.co.kr",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "google_trends_taiwan_hot",
+      "name": "Google Trends Taiwan Hot Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "regional_trend_radar",
+      "host": "trends.google.com.tw",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "google_trends_thailand_hot",
+      "name": "Google Trends Thailand Hot Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "regional_trend_radar",
+      "host": "trends.google.co.th",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "google_trends_philippines_hot",
+      "name": "Google Trends Philippines Hot Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "regional_trend_radar",
+      "host": "trends.google.com.ph",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "google_trends_vietnam_hot",
+      "name": "Google Trends Vietnam Hot Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "regional_trend_radar",
+      "host": "trends.google.com.vn",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "restofworld_feed",
+      "name": "Rest of World Global Tech Feed",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "global_south_tech_media",
+      "host": "restofworld.org",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "reliefweb_mindanao_recovery_watch",
+      "name": "ReliefWeb Mindanao Recovery Watch",
+      "type": "webpage_check",
+      "lane": "hot",
+      "source_class": "humanitarian_recovery_watch",
+      "host": "reliefweb.int",
+      "max_items": 1,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "jpcert_english_blog",
+      "name": "JPCERT/CC English Blog Atom",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "security_advisory",
+      "host": "blogs.jpcert.or.jp",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "jvn_vulnerability_notes",
+      "name": "JVN Japan Vulnerability Notes",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "security_advisory",
+      "host": "jvn.jp",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "twcert_tvn_vulnerability_notes",
+      "name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "type": "rss",
+      "lane": "hot",
+      "source_class": "security_advisory",
       "host": "www.twcert.org.tw",
-      "max_items": 5
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
     },
     {
-      "id": "github_blog_atom",
-      "name": "GitHub Blog Atom",
+      "id": "github_trending_all_daily",
+      "name": "GitHub Trending RSS All Languages Daily",
       "type": "rss",
-      "lane": "platform_dev",
-      "source_class": null,
-      "host": "github.blog",
-      "max_items": 5
+      "lane": "hot",
+      "source_class": "open_source_platform",
+      "host": "mshibanami.github.io",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
     },
     {
-      "id": "github_changelog_atom",
-      "name": "GitHub Changelog Atom",
+      "id": "github_search_japan_twitter_trend_rss_tools",
+      "name": "GitHub Search: Japan Twitter/X Trend RSS Tooling",
+      "type": "github_search",
+      "lane": "hot",
+      "source_class": "open_source_platform",
+      "host": "",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "usgs_m45_earthquakes_hour",
+      "name": "USGS M4.5+ Earthquakes Past Hour",
       "type": "rss",
-      "lane": "platform_dev",
-      "source_class": null,
-      "host": "github.blog",
-      "max_items": 5
+      "lane": "hot",
+      "source_class": "geoscience_institute",
+      "host": "earthquake.usgs.gov",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "hn_release_security_burst",
+      "name": "Hacker News Release/Security Burst",
+      "type": "hackernews",
+      "lane": "hot",
+      "source_class": "platform_social",
+      "host": "",
+      "max_items": 6,
+      "runtime_source_file": "config/hot_sources.yaml"
+    },
+    {
+      "id": "fed_monetary_policy_press",
+      "name": "Federal Reserve Monetary Policy Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "fed_speeches_testimony",
+      "name": "Federal Reserve Speeches and Testimony",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "fed_policy_rates",
+      "name": "Federal Reserve Policy Rates Feed",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "fed_selected_interest_rates_h15",
+      "name": "Federal Reserve Selected Interest Rates H.15",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.federalreserve.gov",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "ecb_press_policy",
+      "name": "ECB Press Releases Speeches Interviews",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "ecb_statistical_press",
+      "name": "ECB Statistical Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "ecb_open_market_operations",
+      "name": "ECB Open Market Operations and Communication",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "ecb_yield_curve",
+      "name": "ECB Euro Area Yield Curve",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank",
+      "host": "www.ecb.europa.eu",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "bis_press_releases",
+      "name": "BIS Press Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "bis_central_bank_speeches",
+      "name": "BIS Central Bankers Speeches",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
+    },
+    {
+      "id": "bis_statistics",
+      "name": "BIS Statistical Releases",
+      "type": "rss",
+      "lane": "macro_policy",
+      "source_class": "central_bank_network",
+      "host": "www.bis.org",
+      "max_items": 6,
+      "runtime_source_file": "config/macro_sources.yaml"
     }
   ]
 }

@@ -1,5 +1,177 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-21T13:24:18+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "earthquake",
+      "General Santos",
+      "Glan",
+      "Mindanao",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "618a55ef5f15676cb95e"
+  },
+  {
+    "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
+    "url": "https://azukiazusa.dev/blog/workflow-to-reusable-skill/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T06:21:16+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "Codex の Record & Replay は macOS 上でのユーザーの操作を実演することで再利用可能なスキルに変換する機能です。例えば経費精算の提出や勤怠アプリへの打刻や工数入力、定期的なレポートの作成などをスキルとして記録し、煩雑な定型業務を AI に任せることが期待できます。この記事では、Record & Replay を実際に試...",
+    "matched_keywords": [
+      "AI",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "683c959407eb27f83889"
+  },
+  {
+    "title": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Providers · Agent Guide Follow The Build Turn your AI coding assistant into a full video production stud…",
+    "matched_keywords": [
+      "AI Agents",
+      "Content-Chance",
+      "GitHub Trending"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+5.0); Content-Chance (+5.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e33eb7f53a35be657001"
+  },
+  {
+    "title": "Jetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in",
+    "url": "https://www.heise.de/news/Jetzt-patchen-Angriffe-auf-Wordpress-Websites-mit-Gravity-SMTP-Plug-in-11339529.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-21T09:43:00.000+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "Angreifer verschaffen sich auf Wordpress-Websites mit Gravity-SMTP-Plug-in Zugriff auf eigentlich geschützte Daten.",
+    "matched_keywords": [
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "93dedb972ac30bc7df02"
+  },
+  {
+    "title": "Sicherheitslücken gefährden Verbindungen über libssh2",
+    "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-21T12:06:00.000+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "Unter anderem eine kritische Lücke bedrohtIT-Infrastrukturen mit libssh2. Patches sind da, aber offensichtlich bislang nicht flächendeckend implementiert.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a13cce89158bbf1de3a"
+  },
+  {
+    "title": "Bamboo, Confluence & Co.: Atlassian schließt 100 Sicherheitslücken",
+    "url": "https://www.heise.de/news/Bamboo-Confluence-Co-Atlassian-schliesst-100-Sicherheitsluecken-11336541.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-21T08:51:00.000+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "Angreifer können Softwareprodukte von Atlassian attackieren und im schlimmsten Fall Schadcode auf Computer schieben und ausführen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d0ff3a069b61ee8ff31"
+  },
+  {
     "title": "AIで内製した自治体システムの、これからの課題｜memuro-DX-oss",
     "url": "https://note.com/memuro_dx_oss/n/nb0d5871aa78c",
     "source": "Hatena Bookmark Hotentry IT",
@@ -19,6 +191,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e5be4304c5124bcff163"
+  },
+  {
+    "title": "AI駆動開発を通して感じた、 AI時代のデザイナーの役割変化",
+    "url": "https://speakerdeck.com/whisaiyo/whidevelopers-linklight20260618",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-19T12:28:22+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "AI駆動開発のワークショップを体験して感じた、AIによる影響、 デザイナーの役割変化について共有いたします。",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0f5607133b468120464a"
+  },
+  {
+    "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
+    "url": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-20T14:31:55+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "以前、以下の記事を書きました。 今回はその補足のような話です。 ただし、この記事だけ読んでも分かるように書きます。 開発環境やCI/CDでは、外部通信を見られることが重要です。 どのプロセスが動き、どのファイルに触り、どこへ通信したのか。特に、package install中に普段とは違う通信が発生したり、credentialに...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c9cd6c0243327baca6ec"
   },
   {
     "title": "ノルウェー、小学校でAI禁止 学力低下懸念、中学生以上も制限",
@@ -42,6 +257,27 @@
     "id": "8ca1589f23508a7e589e"
   },
   {
+    "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",
+    "url": "https://zenn.dev/tokium_dev/articles/202c16adec91d0",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-20T03:15:55+00:00",
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "毎年恒例の Apple の開発者向けイベント WWDC26 で、Linux コンテナを動かすツール container が 1.0 になり、その目玉として軽量な Linux 環境 container machine がしれっと発表されました。 container は Apple Silicon の Mac で macOS 26 で動作します。 Docker Desktop のような追加の仮想化ソフトを入れなくても...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4315edfb8f5ccadad158"
+  },
+  {
     "title": "32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？",
     "url": "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -61,6 +297,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "67a94557b96eb665cf29"
+  },
+  {
+    "title": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-21T13:23:39+00:00",
+    "summary": "macOS video editor built for AI Palmier Pro The video editor built for AI. Requires macOS 26 (Tahoe) on Apple Silicon Palmier Pro is an open source video editor for Mac. You and your agent can generate and edit videos together inside the timeline. Swift-native video editor We built Palmier Pro from scratch with Swift. The north star is Premiere Pro, with our take on integrating AI into the workflow. Built-in Generat…",
+    "matched_keywords": [
+      "GitHub Trending",
+      "Open Source"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Open Source (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "452299249ff27355d1f5"
   },
   {
     "title": "Googleマップで閉業になった中華店に来たら、看板出てたので店主に声をかけて着席…しかし店主はずっとライターカチカチし続けるだけ→近所の人から告げられた事実がこれ",
