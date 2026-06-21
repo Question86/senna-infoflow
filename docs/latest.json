@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T15:50:24+00:00",
-  "run_id": "2026-06-21T15:50:24+00:00",
+  "generated_at": "2026-06-21T16:26:40+00:00",
+  "run_id": "2026-06-21T16:26:40+00:00",
   "date": "2026-06-21",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 20
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 2,
     "observe": 18,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-21T13:25:40+00:00",
-        "fetched_at": "2026-06-21T13:25:27+00:00",
+        "published_at": "2026-06-21T16:26:29+00:00",
+        "fetched_at": "2026-06-21T16:26:16+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "earthquake",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "207bb24ce4273390a03a"
+        "id": "aa1fecd85a6c1f4066be"
       },
       {
         "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
@@ -503,8 +503,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-21T13:25:40+00:00",
-      "fetched_at": "2026-06-21T13:25:27+00:00",
+      "published_at": "2026-06-21T16:26:29+00:00",
+      "fetched_at": "2026-06-21T16:26:16+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "earthquake",
@@ -538,7 +538,7 @@
         "HD",
         "LOW"
       ],
-      "id": "207bb24ce4273390a03a"
+      "id": "aa1fecd85a6c1f4066be"
     },
     {
       "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
@@ -965,35 +965,49 @@
   ],
   "new_findings": [
     {
-      "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
-      "url": "https://golden-lucky.hatenablog.com/entry/2026/06/21/205551",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-21T13:32:10+00:00",
-      "fetched_at": "2026-06-21T15:49:56+00:00",
-      "summary": "欧米ではすっかりpdfTeXに移行してPDFを直接生成するワークフローになっているのに、なぜ日本語ではPDFを出力できない(u)pTeXがいまだに生き残っているのか。 簡単に言うと、TeXと事実上互換性があるpdfTeXが発明されたときに、日本語圏のデファクトだったpTeXのことが一切考慮されなかったからである。 このような事情...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-21T16:26:29+00:00",
+      "fetched_at": "2026-06-21T16:26:16+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "earthquake",
+        "General Santos",
+        "Glan",
+        "Mindanao",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c7ed7151988173f78ca9"
+      "relevance_score": 18,
+      "relevance_reason": "Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "aa1fecd85a6c1f4066be"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
