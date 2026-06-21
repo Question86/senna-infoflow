@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T18:56:48+00:00_
+_Generiert: 2026-06-21T19:03:16+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
+158 neue relevante Treffer. Stärkstes Signal: „歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰“ aus TWCERT/CC Security News RSS (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,15 +12,105 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 18, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+- **歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰** — Score 23, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-05-29T02:18:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: Security, TWCERT, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: 《網路韌性法案》（Cyber Resilience Act, CRA）執行時程已正式進入倒數階段，最具衝擊力的第 14 條「漏洞通報義務」將於2026年9月11日 正式強制執行。屆時，所有進入歐盟市場的具備數位功能產品，若得知存在「活躍漏洞利用（Actively Exploited Vulnerability）」，製造商必須在24小時內發布早期預警。這項嚴格的法規不僅是歐盟境內的法律義務，更對全球電子製造供應鏈帶來巨大的連鎖反應，迫使廠商必須全面升級產品開發與漏洞應變機制。 根據法案最終公告條款，製造商在獲悉漏洞後將面臨極具挑戰性的時間壓力，企業必須在發現漏洞的24小時內，透過歐盟「單一通報平台 (SRP)」向當地電腦安全事件應變團隊 (CSIRT) 及歐盟網路安全局 (ENISA) 發出早期預警，並於72 小時內補齊詳細的漏洞災損評估。此外，在具備可用的矯正或緩解措施後 14 天內，製造商還需提交最終報告，若屬於重大資安事件…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan** — Score 22, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-21T16:26:29+00:00`, fetched `2026-06-21T16:26:16+00:00`
-  - Treffer: earthquake, General Santos, Glan, Mindanao, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Zeit: published `unbekannt`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Mindanao (+2.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); earthquake (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.8); Sarangani (+2.5); Glan (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Keine Zusammenfassung verfügbar.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan** — Score 19, opportunity — [Quelle](https://e27.co/fileai-funding-20260619/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-19T07:04:44+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Watchgraph:capitals_power_centers, Webentwicklung
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.8); funding (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan’s JR East Group, marking a significant step in the company’s expansion into the Japanese market. The investment comes alongside a deployment partnership in which fileAI’s governed AI platform will be rolled out across JR East […] The post fileAI secures strategic investment f…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **BIS residential property price statistics, Q4 2025** — Score 19, risk — [Quelle](https://www.bis.org/statistics/pp_residential_2605.htm)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-05-28T08:59:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: Macro/Policy, Public Health, statistics, Watchgraph:public_health_biosecurity
+  - Watchgraph: public_health_biosecurity
+  - Markt-/Kontextkorb: PFE, MRNA, BNTX, GSK, AZN, TMO, DHR
+  - Warum relevant: Macro/Policy (+6.2); Public Health (+5.0); statistics (+2.5); watchgraph region australia: Australia (+2.0); watchgraph modules public_health_biosecurity (+3.0)
+  - Kurz: Real global house prices fell by 0.6% year on year (yoy) at the end of 2025. Real prices were almost stable in advanced economies (0.4% yoy), while they continued to decrease in emerging market economies (&#8211;1.4% yoy), especially in Asia. Since the outbreak of the Covid-19 pandemic, real global house prices have increased by almost 3%. Among major jurisdictions, Türkiye, Australia and Mexico recorded the stronge…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub Copilot CLI for Beginners: Overview of common slash commands** — Score 18, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-15T20:15:31+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: AI Agents, AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5)
+  - Kurz: GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Can open-source beat OpenAI?** — Score 18, observation — [Quelle](https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-06-15T10:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: AI/KI, Markets/Capital Structure, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Markets/Capital Structure (+6.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Former Hugging Face executive Tiezhen Wang explains how China's open-source strategy is reshaping the AI race.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Latest (06 January 2017) euro area government bond yield curves** — Score 18, observation — [Quelle](http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_latest.zip?)
+  - Quelle: ECB Euro Area Yield Curve / `rss`
+  - Zeit: published `2017-01-09T11:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: euro area, Macro/Policy, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); Markets/Capital Structure (+7.5); euro area (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: The latest data (from 06 January 2017) for the euro area yield curves are available! Download the latest spot, instantaneous forward and par yield curves based on the AAA-rated euro-denominated bonds issued by euro area central governments as well as the curves covering all euro area central government bonds. The maturity spectrum covers three months up to 30 years.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Historical euro area government bond yield curve** — Score 18, observation — [Quelle](http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_historical.zip?)
+  - Quelle: ECB Euro Area Yield Curve / `rss`
+  - Zeit: published `2017-01-09T11:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: euro area, Macro/Policy, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); Markets/Capital Structure (+7.5); euro area (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: The historical euro area government bond yield curve contains the spot rate, instantaneous forward and par yield curves for both AAA-rated euro-denominated bonds issued by euro area central governments and all euro area central government bonds. The maturity spectrum covers three months up to 30 years. Data are available from 29 December 2006 to 06 January 2017.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **calesthio/OpenMontage** — Score 18, observation — [Quelle](https://github.com/calesthio/OpenMontage)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
+  - Kurz: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Providers · Agent Guide Follow The Build Turn your AI coding assistant into a full video production stud…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **KrCERT/CC發布「Operation SearchStrike」報告：駭客以SEO毒化Github散布惡意軟體** — Score 17, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-10887-c63c0-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-04-30T05:57:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: Macro/Policy, Security, TWCERT, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Security (+6.0); Macro/Policy (+6.2); TWCERT (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: 韓國電腦網路危機處理暨協調中心（KrCERT/CC）的威脅狩獵分析團隊近期發布名為「Operation SearchStrike」報告。該報告指出，攻擊者正利用搜尋引擎最佳化中毒(SEO Poisoning） 技術，在搜尋引擎中推廣偽冒GitHub 儲存庫，藉此散布惡意軟體。此攻擊主要鎖定具備企業內部高權限的技術人員，旨在以此作為跳板，進而發動全組織規模的橫向移動與滲透攻擊。 這波攻擊主要是透過 SEO Poisoning技術操弄搜尋排名，把內含惡意MSI安裝檔的假冒 GitHub 儲存庫推至搜尋結果首頁，常見偽冒程式像是 Tftpd64、WinDbg、PsExec、Postman、USMT 這類網管與維運人員常用的工具，進行供應鏈層級的冒充攻擊，如圖1所示。一旦受害者誤下載並執行，系統會在背景植入以 Node.js 開發的惡意程式，並利用 Ethereum 智慧合約作為命令與控制(C2)通訊管道。由於採用去中心化機制，可降低…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **DeusData/codebase-memory-mcp** — Score 17, observation — [Quelle](https://github.com/DeusData/codebase-memory-mcp)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minut…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた** — Score 16, observation — [Quelle](https://azukiazusa.dev/blog/workflow-to-reusable-skill/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-21T06:21:16+00:00`, fetched `2026-06-21T13:23:39+00:00`
@@ -30,103 +120,176 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); AI (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Codex の Record & Replay は macOS 上でのユーザーの操作を実演することで再利用可能なスキルに変換する機能です。例えば経費精算の提出や勤怠アプリへの打刻や工数入力、定期的なレポートの作成などをスキルとして記録し、煩雑な定型業務を AI に任せることが期待できます。この記事では、Record & Replay を実際に試...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90347806/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-19T11:00:00+09:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年06月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CISA ICS Advisory / ICS Medical Advisory（2026年06月16日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU95977590/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-17T09:00:00+09:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年06月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Spotify’s post-English AI future** — Score 16, observation — [Quelle](https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-06-16T10:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: Africa, AI/KI, Asia, Latin America, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Markets/Capital Structure (+6.0); Asia (+2.0); Africa (+2.0); Latin America (+2.0)
+  - Kurz: More than half of Spotify listening is now in non-English languages as the company expands across Africa, Asia, and Latin America with local artists, pricing, and payment systems.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **calesthio/OpenMontage** — Score 12, observation — [Quelle](https://github.com/calesthio/OpenMontage)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: AI Agents, Content-Chance, GitHub Trending
+- **三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU97140216/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-19T12:30:00+09:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Content-Chance (+5.0); GitHub Trending (+2.0)
-  - Kurz: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Providers · Agent Guide Follow The Build Turn your AI coding assistant into a full video production stud…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in** — Score 11, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angriffe-auf-Wordpress-Websites-mit-Gravity-SMTP-Plug-in-11339529.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-21T09:43:00.000+00:00`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
-  - Kurz: Angreifer verschaffen sich auf Wordpress-Websites mit Gravity-SMTP-Plug-in Zugriff auf eigentlich geschützte Daten.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 48 km S of Qapqal, China** — Score 8, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-21T18:11:50.040+00:00`, fetched `2026-06-21T18:18:55+00:00`
-  - Treffer: earthquake, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: earthquake (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-21 17:58:45 UTC 2026-06-21 17:58:45 UTC at epicenter Location 43.362°N 81.087°E Depth 10.00 km (6.21 mi)
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPには、サービス運用妨害（DoS）状態が発生する可能性のある脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Steering Claude Code: skills, hooks, subagents and more | Claude** — Score 8, observation — [Quelle](https://claude.com/ja/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-21T08:49:28+00:00`, fetched `2026-06-21T15:06:08+00:00`
-  - Treffer: agent, Hatena, hotentry
+- **Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU93024090/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-19T11:00:15+09:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: Claude is built to work the way you work, and in Claude Code you can customize it. There are seven methods for instructing Claude's behavior: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt. Each method controls: When an instruction loads into cont...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ゼロをイチにする仕事の終わり、ソフトウェアエンジニアという仕事の終わり - smasato.log** — Score 7, observation — [Quelle](https://blog.smasato.net/entry/2026/06/21/181605)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-21T12:19:04+00:00`, fetched `2026-06-21T17:04:40+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: ソフトウェアエンジニアの仕事のうち、ゼロをイチにする業務の割合はかなり多かったはずです。初期のAIは、GitHub Copilotの行補完のように、その「ゼロをイチにする」ための作業を支援するツールでした。書きかけたコードを完成させるためのツールであり、コードをゼロから書くことを手伝ってくれるものだったと思いま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitslücken gefährden Verbindungen über libssh2** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-21T12:06:00.000+00:00`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Unter anderem eine kritische Lücke bedrohtIT-Infrastrukturen mit libssh2. Patches sind da, aber offensichtlich bislang nicht flächendeckend implementiert.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bamboo, Confluence & Co.: Atlassian schließt 100 Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Bamboo-Confluence-Co-Atlassian-schliesst-100-Sicherheitsluecken-11336541.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-21T08:51:00.000+00:00`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer können Softwareprodukte von Atlassian attackieren und im schlimmsten Fall Schadcode auf Computer schieben und ausführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIで内製した自治体システムの、これからの課題｜memuro-DX-oss** — Score 7, observation — [Quelle](https://note.com/memuro_dx_oss/n/nb0d5871aa78c)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-20T04:12:22+00:00`, fetched `2026-06-21T02:31:27+00:00`
-  - Treffer: Hatena, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.8); Hatena (+2.0); recent (+1.0)
-  - Kurz: 北海道の小さな町が、AIで窓口業務システムを作りました。今も窓口の現場で稼働しています。 ——課題は、その先にあります。 記事1では、捨てるつもりで作った試作がどうやって本番になったのか、その物語を書きました。記事2では、最初の一歩である番号発券システム「MADO-queue」の中身を、技術的に詳しくお話ししまし...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 86 km ENE of Fangale’ounga, Tonga** — Score 6, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-21T17:53:16.040+00:00`, fetched `2026-06-21T18:18:55+00:00`
-  - Treffer: earthquake, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-21 17:29:43 UTC 2026-06-21 17:29:43 UTC at epicenter Location 19.546°S 173.525°W Depth 10.00 km (6.21 mi)
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **palmier-io/palmier-pro** — Score 5, opportunity — [Quelle](https://github.com/palmier-io/palmier-pro)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: GitHub Trending, Open Source
+- **SignalRGBカーネルドライバにおける不適切なアクセス制御およびIOCTLの脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU95564871/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-18T10:15:00+09:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); GitHub Trending (+2.0)
-  - Kurz: macOS video editor built for AI Palmier Pro The video editor built for AI. Requires macOS 26 (Tahoe) on Apple Silicon Palmier Pro is an open source video editor for Mac. You and your agent can generate and edit videos together inside the timeline. Swift-native video editor We built Palmier Pro from scratch with Swift. The north star is Premiere Pro, with our take on integrating AI into the workflow. Built-in Generat…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One** — Score 13, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260014.html)
+  - Quelle: JPCERT/CC English Alerts / `rss`
+  - Zeit: published `2026-05-22T14:14+09:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: APAC Trend Radar, JPCERT, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.8); JPCERT (+2.0)
+  - Kurz: Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Waller, Policy Risks Have Changed** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-05-22T14:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: banking, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); banking (+2.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At The Centre for Central Banking Guest Lecture, Frankfurt School of Finance and Management, Frankfurt, Germany
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-December 2025** — Score 13, observation — [Quelle](https://www.bis.org/statistics/rppb2604.htm)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-04-30T07:28:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: banking, credit, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); credit (+2.0); banking (+2.5)
+  - Kurz: Cross-border bank credit grew by 11% year-on-year, the highest annual growth rate since Q1 2008. Bank credit to emerging market and developing economies (EMDEs) expanded by $42 billion in Q4 2025, which brought its annual growth rate up to 7%. The BIS global liquidity indicators show that foreign currency credit in US dollars and euros continued to grow robustly, both globally and in EMDEs.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Federal Reserve Board seeks DDP users for online survey** — Score 13, observation — [Quelle](http://www.federalreserve.gov/feeds/PRATES.html#3507)
+  - Quelle: Federal Reserve Policy Rates Feed / `rss`
+  - Zeit: published `2024-06-20T10:00:00-04:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: Macro/Policy, policy rates, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); Macro/Policy (+6.2); policy rates (+2.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: The Federal Reserve Board is conducting an online survey to collect data on online usage and consumption preferences of users of the Board's Data Download Program (DDP) website.Visit our website to take the survey: https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_a2UMGs63ePVhzOm
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Federal Reserve Board seeks DDP users for online survey** — Score 13, observation — [Quelle](http://www.federalreserve.gov/feeds/H15.html#3507)
+  - Quelle: Federal Reserve Selected Interest Rates H.15 / `rss`
+  - Zeit: published `2024-06-20T10:00:00-04:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: H.15, Macro/Policy, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); Macro/Policy (+6.2); H.15 (+2.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: The Federal Reserve Board is conducting an online survey to collect data on online usage and consumption preferences of users of the Board's Data Download Program (DDP) website.Visit our website to take the survey: https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_a2UMGs63ePVhzOm
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-19T14:40:24+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260054 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260053 (OT,liquidity providing):34.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-19T14:40:24+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: 20260053 (OT,liquidity providing):34.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **20260052 (MRO,liquidity providing):15726.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-19T14:40:24+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: 20260052 (MRO,liquidity providing):15726.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **BioArk’s growth strategy plants seeds for a greener agricultural future** — Score 12, observation — [Quelle](https://e27.co/bioark-feature-20250514/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-19T11:50:48+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Farming practices across Asia face mounting pressure to increase output while reducing environmental damage. For BioArk, a Singapore-based agritech company, this challenge is a starting point for rethinking how fertilisers are made, applied, and integrated into existing systems without demanding costly changes from farmers. Rather than focusing on history or legacy methods, BioArk’s team develops […] The post BioArk…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Euro area monthly balance of payments: April 2026** — Score 12, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260618~e4d92a6f16.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-06-18T08:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: balance of payments, euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area monthly balance of payments: April 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **What are git worktrees, and why should I use them?** — Score 12, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-16T20:58:54+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.0); Copilot (+2.0)
+  - Kurz: Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Euro area bank interest rate statistics: April 2026** — Score 12, observation — [Quelle](https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-06-05T08:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
+  - Treffer: euro area, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area bank interest rate statistics: April 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
