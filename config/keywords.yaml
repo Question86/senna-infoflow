@@ -104,6 +104,8 @@
     {
       "term": "AI/KI",
       "aliases": [
+        "AI",
+        "KI",
         "artificial intelligence",
         "künstliche Intelligenz",
         "generative AI",
@@ -128,7 +130,11 @@
         "tool calling",
         "MCP server",
         "autonomous agent",
-        "computer use"
+        "computer use",
+        "Claude Code",
+        "subagents",
+        "hooks",
+        "skills"
       ],
       "weight": 5,
       "categories": [
@@ -168,7 +174,10 @@
         "phishing",
         "ransomware",
         "malware",
-        "breach"
+        "breach",
+        "zero-day",
+        "RCE",
+        "critical vulnerability"
       ],
       "weight": 6,
       "categories": [
@@ -222,7 +231,11 @@
         "deployment",
         "hosting",
         "website",
-        "web app"
+        "web app",
+        "WordPress",
+        "Atlassian",
+        "Confluence",
+        "libssh2"
       ],
       "weight": 3,
       "categories": [
@@ -252,12 +265,182 @@
         "automation",
         "workflow automation",
         "Zapier",
-        "n8n"
+        "n8n",
+        "Record & Replay",
+        "Loop Engineering",
+        "loop engineering"
       ],
       "weight": 4,
       "categories": [
         "automation",
         "productivity"
+      ]
+    },
+    {
+      "term": "Macro/Policy",
+      "aliases": [
+        "Federal Reserve",
+        "Fed",
+        "FOMC",
+        "Powell",
+        "ECB",
+        "European Central Bank",
+        "Lagarde",
+        "BIS",
+        "Bank for International Settlements",
+        "central bank",
+        "monetary policy",
+        "interest rates",
+        "rate cut",
+        "rate hike",
+        "inflation",
+        "yield curve",
+        "bond yields",
+        "Treasury yield",
+        "financial stability",
+        "sanctions",
+        "tariff",
+        "election",
+        "protest",
+        "strike",
+        "unrest",
+        "GDP",
+        "OECD",
+        "market move"
+      ],
+      "weight": 5,
+      "categories": [
+        "macro",
+        "policy",
+        "markets",
+        "risk"
+      ]
+    },
+    {
+      "term": "Climate/Disaster Infrastructure",
+      "aliases": [
+        "El Niño",
+        "El Nino",
+        "El Ninjo",
+        "ENSO",
+        "La Niña",
+        "La Nina",
+        "NOAA",
+        "WMO",
+        "BoM ENSO",
+        "drought",
+        "heatwave",
+        "wildfire",
+        "bushfire",
+        "flood",
+        "storm",
+        "typhoon",
+        "cyclone",
+        "earthquake",
+        "tsunami",
+        "USGS",
+        "ReliefWeb",
+        "hydropower",
+        "water stress",
+        "food prices",
+        "crop failure",
+        "coral bleaching",
+        "monsoon"
+      ],
+      "weight": 5,
+      "categories": [
+        "climate",
+        "disaster",
+        "infrastructure",
+        "public_risk"
+      ]
+    },
+    {
+      "term": "APAC Trend Radar",
+      "aliases": [
+        "Google Trends",
+        "trending",
+        "trend",
+        "viral",
+        "Japan",
+        "Tokyo",
+        "日本",
+        "South Korea",
+        "Seoul",
+        "Korea",
+        "Taiwan",
+        "TSMC",
+        "Thailand",
+        "Philippines",
+        "Mindanao",
+        "Vietnam",
+        "Singapore",
+        "Indonesia",
+        "Digital Agency",
+        "outage",
+        "platform",
+        "semiconductor",
+        "startup"
+      ],
+      "weight": 3,
+      "categories": [
+        "apac",
+        "trend",
+        "platform",
+        "early_signal"
+      ]
+    },
+    {
+      "term": "Public Health",
+      "aliases": [
+        "CDC",
+        "WHO",
+        "WPRO",
+        "PAHO",
+        "ECDC",
+        "dengue",
+        "Dengue",
+        "outbreak",
+        "Travel Health Notice",
+        "epidemiological",
+        "hospitalization",
+        "public health",
+        "avian flu",
+        "H5N1",
+        "measles",
+        "pandemic"
+      ],
+      "weight": 5,
+      "categories": [
+        "public_health",
+        "risk"
+      ]
+    },
+    {
+      "term": "Markets/Capital Structure",
+      "aliases": [
+        "MSTR",
+        "MicroStrategy",
+        "Strategy",
+        "STRC",
+        "STRF",
+        "STRK",
+        "preferred stock",
+        "perpetual preferred",
+        "dividend",
+        "yield",
+        "VWAP",
+        "mNAV",
+        "Bitcoin treasury",
+        "BTC treasury",
+        "ATM issuance",
+        "dilution"
+      ],
+      "weight": 6,
+      "categories": [
+        "markets",
+        "crypto",
+        "capital_structure"
       ]
     },
     {
