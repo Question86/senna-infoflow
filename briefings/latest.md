@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T17:46:04+00:00_
+_Generiert: 2026-06-21T18:19:24+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Angreifer verschaffen sich auf Wordpress-Websites mit Gravity-SMTP-Plug-in Zugriff auf eigentlich geschützte Daten.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 48 km S of Qapqal, China** — Score 8, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-21T18:11:50.040+00:00`, fetched `2026-06-21T18:18:55+00:00`
+  - Treffer: earthquake, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: earthquake (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-21 17:58:45 UTC 2026-06-21 17:58:45 UTC at epicenter Location 43.362°N 81.087°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Steering Claude Code: skills, hooks, subagents and more | Claude** — Score 8, observation — [Quelle](https://claude.com/ja/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-21T08:49:28+00:00`, fetched `2026-06-21T15:06:08+00:00`
@@ -96,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.8); Hatena (+2.0); recent (+1.0)
   - Kurz: 北海道の小さな町が、AIで窓口業務システムを作りました。今も窓口の現場で稼働しています。 ——課題は、その先にあります。 記事1では、捨てるつもりで作った試作がどうやって本番になったのか、その物語を書きました。記事2では、最初の一歩である番号発券システム「MADO-queue」の中身を、技術的に詳しくお話ししまし...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 86 km ENE of Fangale’ounga, Tonga** — Score 6, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-21T17:53:16.040+00:00`, fetched `2026-06-21T18:18:55+00:00`
+  - Treffer: earthquake, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: earthquake (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-21 17:29:43 UTC 2026-06-21 17:29:43 UTC at epicenter Location 19.546°S 173.525°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **palmier-io/palmier-pro** — Score 5, opportunity — [Quelle](https://github.com/palmier-io/palmier-pro)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-21T13:23:39+00:00`
