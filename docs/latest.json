@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T07:22:22+00:00",
-  "run_id": "2026-06-21T07:22:22+00:00",
+  "generated_at": "2026-06-21T08:49:02+00:00",
+  "run_id": "2026-06-21T08:49:02+00:00",
   "date": "2026-06-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 0,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e5be4304c5124bcff163"
+      },
+      {
+        "title": "ノルウェー、小学校でAI禁止 学力低下懸念、中学生以上も制限",
+        "url": "https://www.47news.jp/14500110.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-20T14:20:31+00:00",
+        "fetched_at": "2026-06-21T08:48:43+00:00",
+        "summary": "【ロンドン共同】ノルウェーのストーレ首相は19日、小学校で児童が生成人工知能（AI）を使うことを原則禁止する方針を明らかにした。学力の低下を防ぐための措置としており、中学生以上についても教育の場でAIを使用することを制限。ノルウェーは教育のデジタル化が世界で最も進んだ国の一つとされている。 ロイター通信...",
+        "matched_keywords": [
+          "AI",
+          "Hatena"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); AI (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8ca1589f23508a7e589e"
       },
       {
         "title": "32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？",
@@ -177,6 +198,27 @@
       "id": "e5be4304c5124bcff163"
     },
     {
+      "title": "ノルウェー、小学校でAI禁止 学力低下懸念、中学生以上も制限",
+      "url": "https://www.47news.jp/14500110.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-20T14:20:31+00:00",
+      "fetched_at": "2026-06-21T08:48:43+00:00",
+      "summary": "【ロンドン共同】ノルウェーのストーレ首相は19日、小学校で児童が生成人工知能（AI）を使うことを原則禁止する方針を明らかにした。学力の低下を防ぐための措置としており、中学生以上についても教育の場でAIを使用することを制限。ノルウェーは教育のデジタル化が世界で最も進んだ国の一つとされている。 ロイター通信...",
+      "matched_keywords": [
+        "AI",
+        "Hatena"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); AI (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8ca1589f23508a7e589e"
+    },
+    {
       "title": "32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？",
       "url": "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -278,7 +320,29 @@
       "id": "c62ae138ceaa5e417c7d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ノルウェー、小学校でAI禁止 学力低下懸念、中学生以上も制限",
+      "url": "https://www.47news.jp/14500110.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-20T14:20:31+00:00",
+      "fetched_at": "2026-06-21T08:48:43+00:00",
+      "summary": "【ロンドン共同】ノルウェーのストーレ首相は19日、小学校で児童が生成人工知能（AI）を使うことを原則禁止する方針を明らかにした。学力の低下を防ぐための措置としており、中学生以上についても教育の場でAIを使用することを制限。ノルウェーは教育のデジタル化が世界で最も進んだ国の一つとされている。 ロイター通信...",
+      "matched_keywords": [
+        "AI",
+        "Hatena"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); AI (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8ca1589f23508a7e589e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
