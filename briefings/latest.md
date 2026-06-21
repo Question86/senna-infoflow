@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T22:35:35+00:00_
+_Generiert: 2026-06-21T23:04:45+00:00_
 
 ## Kurzlage
 
-162 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+164 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-21T20:16:18+00:00`, fetched `2026-06-21T20:16:03+00:00`
+  - Zeit: published `2026-06-21T23:04:33+00:00`, fetched `2026-06-21T23:04:18+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: 《網路韌性法案》（Cyber Resilience Act, CRA）執行時程已正式進入倒數階段，最具衝擊力的第 14 條「漏洞通報義務」將於2026年9月11日 正式強制執行。屆時，所有進入歐盟市場的具備數位功能產品，若得知存在「活躍漏洞利用（Actively Exploited Vulnerability）」，製造商必須在24小時內發布早期預警。這項嚴格的法規不僅是歐盟境內的法律義務，更對全球電子製造供應鏈帶來巨大的連鎖反應，迫使廠商必須全面升級產品開發與漏洞應變機制。 根據法案最終公告條款，製造商在獲悉漏洞後將面臨極具挑戰性的時間壓力，企業必須在發現漏洞的24小時內，透過歐盟「單一通報平台 (SRP)」向當地電腦安全事件應變團隊 (CSIRT) 及歐盟網路安全局 (ENISA) 發出早期預警，並於72 小時內補齊詳細的漏洞災損評估。此外，在具備可用的矯正或緩解措施後 14 天內，製造商還需提交最終報告，若屬於重大資安事件…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Samsung Electronics brings ChatGPT and Codex to employees** — Score 20, observation — [Quelle](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-21T23:00:00+00:00`, fetched `2026-06-21T23:04:18+00:00`
+  - Treffer: AI/KI, OpenAI, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan** — Score 19, opportunity — [Quelle](https://e27.co/fileai-funding-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-19T07:04:44+00:00`, fetched `2026-06-21T19:02:49+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月16日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Spotify’s post-English AI future** — Score 16, observation — [Quelle](https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-06-16T10:00:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
-  - Treffer: Africa, AI/KI, Asia, Latin America, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Markets/Capital Structure (+6.0); Asia (+2.0); Africa (+2.0); Latin America (+2.0)
-  - Kurz: More than half of Spotify listening is now in non-English languages as the company expands across Africa, Asia, and Latin America with local artists, pricing, and payment systems.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -289,8 +289,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 

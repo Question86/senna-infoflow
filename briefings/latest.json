@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T22:35:35+00:00",
-  "run_id": "2026-06-21T22:35:35+00:00",
+  "generated_at": "2026-06-21T23:04:45+00:00",
+  "run_id": "2026-06-21T23:04:45+00:00",
   "date": "2026-06-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 162
+      "configured_public_sources_only": 164
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 162,
-    "displayed_findings": 162,
+    "new_relevant_findings": 3,
+    "today_file_total": 164,
+    "displayed_findings": 164,
     "high": 0,
-    "medium": 29,
-    "observe": 133,
+    "medium": 30,
+    "observe": 134,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-21T20:16:18+00:00",
-        "fetched_at": "2026-06-21T20:16:03+00:00",
+        "published_at": "2026-06-21T23:04:33+00:00",
+        "fetched_at": "2026-06-21T23:04:18+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e3b579604338805439e7"
+        "id": "26dddb5c867126731881"
       },
       {
         "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
@@ -104,6 +104,52 @@
           "S"
         ],
         "id": "7e231db339493730183a"
+      },
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-06-21T23:00:00+00:00",
+        "fetched_at": "2026-06-21T23:04:18+00:00",
+        "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow",
+          "Webentwicklung"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "4c064d624f455bb36d5c"
       },
       {
         "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
@@ -3177,6 +3223,27 @@
         "id": "c7ed7151988173f78ca9"
       },
       {
+        "title": "JavaScriptを事前コンパイルする。不可能と言われた挑戦に挑む開発者。｜直也テック",
+        "url": "https://note.com/naoya_tech/n/n99f05affec01",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-21T12:42:21+00:00",
+        "fetched_at": "2026-06-21T23:04:18+00:00",
+        "summary": "今回はポッドキャスト「devtools.fm」に出演したOliver Medhurst氏の回をご紹介します。彼はPorffor（ポーファー）というプロジェクトの作者です。Porfforは「JavaScriptをWebAssemblyへと事前にコンパイルする（Ahead of Time Compiler、AOTコンパイラ）」という、多くの人が「不可能だ」と考えてきた仕組みに挑む研究...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "81cb91a3f35f6c850f3a"
+      },
+      {
         "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
         "url": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
         "source": "Hatena Bookmark Hotentry IT",
@@ -3776,8 +3843,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-21T20:16:18+00:00",
-      "fetched_at": "2026-06-21T20:16:03+00:00",
+      "published_at": "2026-06-21T23:04:33+00:00",
+      "fetched_at": "2026-06-21T23:04:18+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3811,7 +3878,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e3b579604338805439e7"
+      "id": "26dddb5c867126731881"
     },
     {
       "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
@@ -3846,6 +3913,52 @@
         "S"
       ],
       "id": "7e231db339493730183a"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-06-21T23:00:00+00:00",
+      "fetched_at": "2026-06-21T23:04:18+00:00",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "4c064d624f455bb36d5c"
     },
     {
       "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
@@ -6917,6 +7030,27 @@
       "id": "c7ed7151988173f78ca9"
     },
     {
+      "title": "JavaScriptを事前コンパイルする。不可能と言われた挑戦に挑む開発者。｜直也テック",
+      "url": "https://note.com/naoya_tech/n/n99f05affec01",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-21T12:42:21+00:00",
+      "fetched_at": "2026-06-21T23:04:18+00:00",
+      "summary": "今回はポッドキャスト「devtools.fm」に出演したOliver Medhurst氏の回をご紹介します。彼はPorffor（ポーファー）というプロジェクトの作者です。Porfforは「JavaScriptをWebAssemblyへと事前にコンパイルする（Ahead of Time Compiler、AOTコンパイラ）」という、多くの人が「不可能だ」と考えてきた仕組みに挑む研究...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81cb91a3f35f6c850f3a"
+    },
+    {
       "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
       "url": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
       "source": "Hatena Bookmark Hotentry IT",
@@ -7509,7 +7643,117 @@
       "id": "a253ddf6bd1a4addf465"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-21T23:04:33+00:00",
+      "fetched_at": "2026-06-21T23:04:18+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "26dddb5c867126731881"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-06-21T23:00:00+00:00",
+      "fetched_at": "2026-06-21T23:04:18+00:00",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "4c064d624f455bb36d5c"
+    },
+    {
+      "title": "JavaScriptを事前コンパイルする。不可能と言われた挑戦に挑む開発者。｜直也テック",
+      "url": "https://note.com/naoya_tech/n/n99f05affec01",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-21T12:42:21+00:00",
+      "fetched_at": "2026-06-21T23:04:18+00:00",
+      "summary": "今回はポッドキャスト「devtools.fm」に出演したOliver Medhurst氏の回をご紹介します。彼はPorffor（ポーファー）というプロジェクトの作者です。Porfforは「JavaScriptをWebAssemblyへと事前にコンパイルする（Ahead of Time Compiler、AOTコンパイラ）」という、多くの人が「不可能だ」と考えてきた仕組みに挑む研究...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81cb91a3f35f6c850f3a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
