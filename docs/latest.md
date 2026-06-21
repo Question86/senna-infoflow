@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T01:33:45+00:00_
+_Generiert: 2026-06-21T02:31:47+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
+5 neue relevante Treffer. Stärkstes Signal: „AIで内製した自治体システムの、これからの課題｜memuro-DX-oss“ aus Hatena Bookmark Hotentry IT (Score 7, observation).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **AIで内製した自治体システムの、これからの課題｜memuro-DX-oss** — Score 7, observation — [Quelle](https://note.com/memuro_dx_oss/n/nb0d5871aa78c)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-20T04:12:22+00:00`, fetched `2026-06-21T02:31:27+00:00`
+  - Treffer: Hatena, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); Hatena (+2.0); recent (+1.0)
+  - Kurz: 北海道の小さな町が、AIで窓口業務システムを作りました。今も窓口の現場で稼働しています。 ——課題は、その先にあります。 記事1では、捨てるつもりで作った試作がどうやって本番になったのか、その物語を書きました。記事2では、最初の一歩である番号発券システム「MADO-queue」の中身を、技術的に詳しくお話ししまし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？** — Score 5, observation — [Quelle](https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-19T22:11:31+00:00`, fetched `2026-06-21T01:33:26+00:00`
@@ -33,15 +42,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); recent (+1.0)
   - Kurz: 真人＠階段巡りツイッター @kaidanmeguri グーグルマップで閉業になった中華店に確認にきたら看板出てて店主に声をかけて着席。しかし店主がずっとライターをカチカチし続けてるだけで進まない。どうしたものかと思ってると近所の人が俺に「もう閉めたんだけど店主はまだやってるつもりなんですよ」と教えてくれた。おお...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI以後の受託システム開発はどうなっていくのか（2026年6月版）** — Score 3, observation — [Quelle](https://zenn.dev/terurou/articles/eb9e7a4ca7b364)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-20T09:53:32+00:00`, fetched `2026-06-21T01:33:26+00:00`
-  - Treffer: Hatena
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); recent (+1.0)
-  - Kurz: 筆者について どういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。 零細システム開発会社（デンキヤギ）の社長 自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい 受託の内訳は事業会社とのアジャイル・準委任契約がほとんどで、請負契約はごく小規模...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
