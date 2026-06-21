@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T05:47:21+00:00",
-  "run_id": "2026-06-21T05:47:21+00:00",
+  "generated_at": "2026-06-21T07:22:22+00:00",
+  "run_id": "2026-06-21T07:22:22+00:00",
   "date": "2026-06-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -278,28 +278,7 @@
       "id": "c62ae138ceaa5e417c7d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体 | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/314708-xkc/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T21:38:52+00:00",
-      "fetched_at": "2026-06-21T05:47:01+00:00",
-      "summary": "2026年3月5日の記事を編集して再掲載しています。 夏場に多い電力不足も困ったものですよね。作った電力をどうにか貯めておければいいのに。 でっかいバッテリーを作る？家庭に配備する？色々考えられそうですが、実は、世界最大の蓄電システムは山と水を使う「揚水（ようすい）発電」なんです。 その歴史は1907年のスイ...",
-      "matched_keywords": [
-        "Hatena"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "146266d2978d5b95334c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
