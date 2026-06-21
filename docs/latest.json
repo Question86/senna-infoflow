@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T21:24:38+00:00",
-  "run_id": "2026-06-21T21:24:38+00:00",
+  "generated_at": "2026-06-21T21:58:41+00:00",
+  "run_id": "2026-06-21T21:58:41+00:00",
   "date": "2026-06-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 160
+      "configured_public_sources_only": 162
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 160,
-    "displayed_findings": 160,
+    "new_relevant_findings": 2,
+    "today_file_total": 162,
+    "displayed_findings": 162,
     "high": 0,
-    "medium": 28,
-    "observe": 132,
+    "medium": 29,
+    "observe": 133,
     "source_errors": 0
   },
   "sections": {
@@ -559,6 +559,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cf6fd96994c824a844f4"
+      },
+      {
+        "title": "M 4.5 - 120 km ENE of Masohi, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1e",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-21T21:42:22.040+00:00",
+        "fetched_at": "2026-06-21T21:58:15+00:00",
+        "summary": "Time 2026-06-21 21:26:28 UTC 2026-06-21 21:26:28 UTC at epicenter Location 2.980°S 130.003°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "18c4dd41bf70534477ac"
       },
       {
         "title": "Cook, The Opportunities and Risks AI Presents for the Economy and Financial System",
@@ -2529,6 +2566,28 @@
         "id": "01b4866851548b594cc4"
       },
       {
+        "title": "🧾Geminiを使ってレシート整理を自動化する仕組み",
+        "url": "https://ipadworkers.substack.com/p/receipt-automation-with-gas",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-16T21:08:59+00:00",
+        "fetched_at": "2026-06-21T21:58:15+00:00",
+        "summary": "🧾レシート整理を自動化する仕組み☔こんにちは、はるなです。 今日は『レシート整理を自動化した話』について紹介します。 我が家はレシートをScanSnap iX2500でスキャンして、Googleドライブに保存する運用にしています。スキャンされたレシート画像を見ながら、Goodnotesのデジタルプランナーに家計簿をつけるのがい...",
+        "matched_keywords": [
+          "Automatisierung",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3654ecdf2965f8c4c087"
+      },
+      {
         "title": "Basel Committee publishes report on information and communication technology risk management",
         "url": "https://www.bis.org/press/p260602.htm",
         "source": "BIS Press Releases",
@@ -4242,6 +4301,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cf6fd96994c824a844f4"
+    },
+    {
+      "title": "M 4.5 - 120 km ENE of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1e",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-21T21:42:22.040+00:00",
+      "fetched_at": "2026-06-21T21:58:15+00:00",
+      "summary": "Time 2026-06-21 21:26:28 UTC 2026-06-21 21:26:28 UTC at epicenter Location 2.980°S 130.003°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "18c4dd41bf70534477ac"
     },
     {
       "title": "Cook, The Opportunities and Risks AI Presents for the Economy and Financial System",
@@ -6210,6 +6306,28 @@
       "id": "01b4866851548b594cc4"
     },
     {
+      "title": "🧾Geminiを使ってレシート整理を自動化する仕組み",
+      "url": "https://ipadworkers.substack.com/p/receipt-automation-with-gas",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-16T21:08:59+00:00",
+      "fetched_at": "2026-06-21T21:58:15+00:00",
+      "summary": "🧾レシート整理を自動化する仕組み☔こんにちは、はるなです。 今日は『レシート整理を自動化した話』について紹介します。 我が家はレシートをScanSnap iX2500でスキャンして、Googleドライブに保存する運用にしています。スキャンされたレシート画像を見ながら、Goodnotesのデジタルプランナーに家計簿をつけるのがい...",
+      "matched_keywords": [
+        "Automatisierung",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3654ecdf2965f8c4c087"
+    },
+    {
       "title": "Basel Committee publishes report on information and communication technology risk management",
       "url": "https://www.bis.org/press/p260602.htm",
       "source": "BIS Press Releases",
@@ -7391,7 +7509,67 @@
       "id": "a253ddf6bd1a4addf465"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.5 - 120 km ENE of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1e",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-21T21:42:22.040+00:00",
+      "fetched_at": "2026-06-21T21:58:15+00:00",
+      "summary": "Time 2026-06-21 21:26:28 UTC 2026-06-21 21:26:28 UTC at epicenter Location 2.980°S 130.003°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "18c4dd41bf70534477ac"
+    },
+    {
+      "title": "🧾Geminiを使ってレシート整理を自動化する仕組み",
+      "url": "https://ipadworkers.substack.com/p/receipt-automation-with-gas",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-16T21:08:59+00:00",
+      "fetched_at": "2026-06-21T21:58:15+00:00",
+      "summary": "🧾レシート整理を自動化する仕組み☔こんにちは、はるなです。 今日は『レシート整理を自動化した話』について紹介します。 我が家はレシートをScanSnap iX2500でスキャンして、Googleドライブに保存する運用にしています。スキャンされたレシート画像を見ながら、Goodnotesのデジタルプランナーに家計簿をつけるのがい...",
+      "matched_keywords": [
+        "Automatisierung",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3654ecdf2965f8c4c087"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
