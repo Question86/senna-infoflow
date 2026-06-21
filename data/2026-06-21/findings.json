@@ -2047,6 +2047,42 @@
     "id": "bae391c945d928f0a2f3"
   },
   {
+    "title": "M 5.0 - Drake Passage",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-21T20:24:15.040+00:00",
+    "fetched_at": "2026-06-21T20:50:53+00:00",
+    "summary": "Time 2026-06-21 20:05:26 UTC 2026-06-21 20:05:26 UTC at epicenter Location 60.107°S 62.420°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "ab513794701ba8045503"
+  },
+  {
     "title": "入門から実践 -「🔁 ループエンジニアリング」 - Qiita",
     "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
     "source": "Hatena Bookmark Hotentry IT",
@@ -3436,6 +3472,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9f06ae672ae180b6e54d"
+  },
+  {
+    "title": "レコードにCD、カセットプレーヤー風DAP、注目のレトロ製品を振り返る",
+    "url": "https://av.watch.impress.co.jp/docs/topic/2109623.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-18T23:09:58+00:00",
+    "fetched_at": "2026-06-21T20:50:53+00:00",
+    "summary": "レコードにCD、カセットプレーヤー風DAP、注目のレトロ製品を振り返る",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9e87f7c13ac90e262d50"
   },
   {
     "title": "MAI-Code-1-Flash available on more Copilot surfaces",
