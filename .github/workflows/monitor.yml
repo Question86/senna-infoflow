@@ -32,6 +32,35 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Ensure ENSO 2026 watch topic
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          p = Path("inbox/manual_notes.md")
+          text = p.read_text(encoding="utf-8")
+          topic_id = "enso_el_nino_2026_global_climate_stress"
+          if topic_id not in text:
+              block = '''
+- [observe] id: enso_el_nino_2026_global_climate_stress
+  Titel: ENSO / El Niño 2026 — globale Klima-, Ernte-, Energie- und Infrastruktur-Stressachse
+  Status: active
+  Region: Global, Tropical Pacific, Australia, Indonesia, South Asia, Horn of Africa, Americas, Pacific Islands
+  Quelle: Gesprächsnotiz User Yps, 2026-06-21; WMO El Niño/La Niña Update vom 2026-06-02; NOAA CPC ENSO Status/Predictions vom 2026-06-15
+  Warum: El Niño 2026 ist kein einzelnes Wetterereignis, sondern ein globaler Risikomultiplikator: Temperaturrekorde, Dürre, Starkregen, Monsunabweichungen, Feuerwetter, Korallenbleiche, Agrarpreise, Wasserstress, Energiebedarf, Versicherungen, Migration und Lieferketten können über Monate gekoppelt reagieren. Für AXI0M ist es eine Klima-/Infrastruktur-/Public-Risk-Lane, nicht Wetterrauschen.
+  Beobachten: NOAA CPC ENSO Diagnostics Discussion, WMO El Niño/La Niña Update, Australian BoM ENSO Tracker, ECMWF/IRI seasonal outlooks, sea surface temperature anomalies, Niño 3.4/RONI, Southern Oscillation Index, trade winds, subsurface Pacific heat content, Indian Ocean Dipole, monsoon outlooks, heatwaves, drought/flood anomalies, wildfire risk, coral bleaching, crop stress, food price signals, hydropower/water levels, insurance losses, humanitarian early warnings.
+  Trigger: El Niño, El Nino, El Ninjo, ENSO, La Niña, La Nina, Niño 3.4, Nino 3.4, RONI, ONI, Southern Oscillation Index, SOI, trade winds, tropical Pacific, sea surface temperature, SST anomaly, WMO El Niño, NOAA CPC ENSO, BoM ENSO, IRI ENSO, ECMWF seasonal, Indian Ocean Dipole, monsoon, drought, heatwave, wildfire, bushfire, coral bleaching, crop failure, food prices, hydropower, water stress, flood, Horn of Africa, Australia drought, Indonesia drought, South Asia monsoon, Pacific Islands, Americas rainfall
+  Update-Regel: Hochziehen bei NOAA/WMO/BoM Advisory- oder Watch-Änderung, Niño-3.4/RONI >= +0.5 über mehrere Monate, Prognose auf stark/sehr stark, bestätigter Dürre-/Monsun-/Feuer-/Ernte-/Energie-/Wasserstress in mehreren Regionen, Food-Price- oder Versicherungsresonanz, oder direktem Bezug zu Yps/AXI0M-Reisen, Kunden, Infrastruktur, Hosting, Lieferketten oder Content-Chancen. Als MEDIUM führen, wenn aktuelle offizielle ENSO-Lage plus mindestens eine regionale Primärquelle innerhalb von 14 Tagen zusammenfallen.
+  Nicht tun: Nicht jedes lokale Wetterereignis El Niño zuschreiben. Keine "Super-El-Niño"/Godzilla-Rhetorik als offizielle Klassifikation behandeln. Keine Klimapanik und keine Klimaverharmlosung. ENSO ist Multiplikator, nicht alleinige Ursache.
+'''
+              marker = "\n## Eingehende Hinweise"
+              if marker in text:
+                  text = text.replace(marker, "\n" + block + marker, 1)
+              else:
+                  text = text.rstrip() + "\n\n" + block
+              p.write_text(text, encoding="utf-8")
+          PY
+
       - name: Run hardened monitor as visible main feed
         id: hardened
         timeout-minutes: 3
