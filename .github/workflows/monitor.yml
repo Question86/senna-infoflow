@@ -35,6 +35,20 @@ jobs:
       - name: Prepare broad runtime source graph
         run: |
           python scripts/prepare_runtime_sources.py
+          python - <<'PY'
+          from pathlib import Path
+          import yaml
+
+          p = Path("config/rules.yaml")
+          rules = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+          http = rules.setdefault("http", {})
+          http["timeout_seconds"] = 8
+          http["polite_delay_seconds"] = 0.25
+          http["retry_attempts"] = 1
+          http["max_bytes_per_webpage"] = 750000
+          p.write_text(yaml.safe_dump(rules, allow_unicode=True, sort_keys=False), encoding="utf-8")
+          print("Runtime HTTP budget:", http)
+          PY
 
       - name: Run hardened monitor as visible main feed
         id: hardened
