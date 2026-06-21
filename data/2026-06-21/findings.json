@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-21T20:16:18+00:00",
+    "fetched_at": "2026-06-21T20:16:03+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e3b579604338805439e7"
+  },
+  {
     "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
     "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html",
     "source": "TWCERT/CC Security News RSS",
@@ -32,47 +74,6 @@
       "S"
     ],
     "id": "7e231db339493730183a"
-  },
-  {
-    "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "source": "ReliefWeb Mindanao Recovery Watch",
-    "source_type": "webpage_check",
-    "published_at": null,
-    "fetched_at": "2026-06-21T19:02:49+00:00",
-    "summary": "",
-    "matched_keywords": [
-      "APAC Trend Radar",
-      "Climate/Disaster Infrastructure",
-      "Glan",
-      "recovery",
-      "relief",
-      "Sarangani",
-      "Watchgraph:earthquakes_tsunami"
-    ],
-    "relevance_score": 22,
-    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.8); Sarangani (+2.5); Glan (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "earthquakes_tsunami"
-    ],
-    "watchgraph_reasons": [
-      "earthquakes_tsunami: earthquake"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "CAT",
-      "VMC",
-      "MLM",
-      "HOLN.SW",
-      "HD",
-      "LOW"
-    ],
-    "id": "ca144e94de3081ff6362"
   },
   {
     "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",

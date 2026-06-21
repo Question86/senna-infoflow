@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T19:38:27+00:00_
+_Generiert: 2026-06-21T20:16:30+00:00_
 
 ## Kurzlage
 
-158 neue relevante Treffer. Stärkstes Signal: „歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰“ aus TWCERT/CC Security News RSS (Score 23, risk).
+158 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-06-21T20:16:18+00:00`, fetched `2026-06-21T20:16:03+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰** — Score 23, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-05-29T02:18:00+00:00`, fetched `2026-06-21T19:02:49+00:00`
@@ -20,15 +29,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: Security (+6.0); TWCERT (+2.0); watchgraph high-signal actively exploited (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: 《網路韌性法案》（Cyber Resilience Act, CRA）執行時程已正式進入倒數階段，最具衝擊力的第 14 條「漏洞通報義務」將於2026年9月11日 正式強制執行。屆時，所有進入歐盟市場的具備數位功能產品，若得知存在「活躍漏洞利用（Actively Exploited Vulnerability）」，製造商必須在24小時內發布早期預警。這項嚴格的法規不僅是歐盟境內的法律義務，更對全球電子製造供應鏈帶來巨大的連鎖反應，迫使廠商必須全面升級產品開發與漏洞應變機制。 根據法案最終公告條款，製造商在獲悉漏洞後將面臨極具挑戰性的時間壓力，企業必須在發現漏洞的24小時內，透過歐盟「單一通報平台 (SRP)」向當地電腦安全事件應變團隊 (CSIRT) 及歐盟網路安全局 (ENISA) 發出早期預警，並於72 小時內補齊詳細的漏洞災損評估。此外，在具備可用的矯正或緩解措施後 14 天內，製造商還需提交最終報告，若屬於重大資安事件…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan** — Score 22, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `unbekannt`, fetched `2026-06-21T19:02:49+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.8); Sarangani (+2.5); Glan (+2.5); relief (+2.5); recovery (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Keine Zusammenfassung verfügbar.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan** — Score 19, opportunity — [Quelle](https://e27.co/fileai-funding-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
