@@ -237,6 +237,27 @@
     "id": "0f5607133b468120464a"
   },
   {
+    "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
+    "url": "https://golden-lucky.hatenablog.com/entry/2026/06/21/205551",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T13:32:10+00:00",
+    "fetched_at": "2026-06-21T15:49:56+00:00",
+    "summary": "欧米ではすっかりpdfTeXに移行してPDFを直接生成するワークフローになっているのに、なぜ日本語ではPDFを出力できない(u)pTeXがいまだに生き残っているのか。 簡単に言うと、TeXと事実上互換性があるpdfTeXが発明されたときに、日本語圏のデファクトだったpTeXのことが一切考慮されなかったからである。 このような事情...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c7ed7151988173f78ca9"
+  },
+  {
     "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
     "url": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-21T15:06:37+00:00",
-  "run_id": "2026-06-21T15:06:37+00:00",
+  "generated_at": "2026-06-21T15:50:24+00:00",
+  "run_id": "2026-06-21T15:50:24+00:00",
   "date": "2026-06-21",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 2,
-    "observe": 17,
-    "source_errors": 0
+    "observe": 18,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -267,6 +267,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0f5607133b468120464a"
+      },
+      {
+        "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
+        "url": "https://golden-lucky.hatenablog.com/entry/2026/06/21/205551",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-21T13:32:10+00:00",
+        "fetched_at": "2026-06-21T15:49:56+00:00",
+        "summary": "欧米ではすっかりpdfTeXに移行してPDFを直接生成するワークフローになっているのに、なぜ日本語ではPDFを出力できない(u)pTeXがいまだに生き残っているのか。 簡単に言うと、TeXと事実上互換性があるpdfTeXが発明されたときに、日本語圏のデファクトだったpTeXのことが一切考慮されなかったからである。 このような事情...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7ed7151988173f78ca9"
       },
       {
         "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
@@ -715,6 +736,27 @@
       "id": "0f5607133b468120464a"
     },
     {
+      "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
+      "url": "https://golden-lucky.hatenablog.com/entry/2026/06/21/205551",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-21T13:32:10+00:00",
+      "fetched_at": "2026-06-21T15:49:56+00:00",
+      "summary": "欧米ではすっかりpdfTeXに移行してPDFを直接生成するワークフローになっているのに、なぜ日本語ではPDFを出力できない(u)pTeXがいまだに生き残っているのか。 簡単に言うと、TeXと事実上互換性があるpdfTeXが発明されたときに、日本語圏のデファクトだったpTeXのことが一切考慮されなかったからである。 このような事情...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7ed7151988173f78ca9"
+    },
+    {
       "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
       "url": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
       "source": "Hatena Bookmark Hotentry IT",
@@ -923,35 +965,13 @@
   ],
   "new_findings": [
     {
-      "title": "Steering Claude Code: skills, hooks, subagents and more | Claude",
-      "url": "https://claude.com/ja/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+      "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
+      "url": "https://golden-lucky.hatenablog.com/entry/2026/06/21/205551",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-21T08:49:28+00:00",
-      "fetched_at": "2026-06-21T15:06:08+00:00",
-      "summary": "Claude is built to work the way you work, and in Claude Code you can customize it. There are seven methods for instructing Claude's behavior: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt. Each method controls: When an instruction loads into cont...",
-      "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7d7ef29ed682c543da1c"
-    },
-    {
-      "title": "入門から実践 -「🔁 ループエンジニアリング」 - Qiita",
-      "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T11:25:48+00:00",
-      "fetched_at": "2026-06-21T15:06:08+00:00",
-      "summary": "前書き 最近 X やブログで 「Loop Engineering（ループエンジニアリング）」 という言葉をやたら見るようになりました。 「もう Claude に指示は出していない、私の仕事はループを書くことだ」 みたいな、ちょっと面白い言い回しで流れてくるアレです 最初は「また新しい “XX エンジニアリング” か……」と斜めに構えてい...",
+      "published_at": "2026-06-21T13:32:10+00:00",
+      "fetched_at": "2026-06-21T15:49:56+00:00",
+      "summary": "欧米ではすっかりpdfTeXに移行してPDFを直接生成するワークフローになっているのに、なぜ日本語ではPDFを出力できない(u)pTeXがいまだに生き残っているのか。 簡単に言うと、TeXと事実上互換性があるpdfTeXが発明されたときに、日本語圏のデファクトだったpTeXのことが一切考慮されなかったからである。 このような事情...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -963,10 +983,17 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "85e6c3dd539b28aa85d3"
+      "id": "c7ed7151988173f78ca9"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
