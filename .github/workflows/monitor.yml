@@ -50,6 +50,16 @@ jobs:
           print("Runtime HTTP budget:", http)
           PY
 
+      - name: Resurface current relevant feed once if requested
+        run: |
+          if [ -f state/resurface_seen_once ]; then
+            echo '{"version":1,"items":{}}' > state/seen.json
+            rm state/resurface_seen_once
+            echo "Resurfaced current feed by clearing seen state once."
+          else
+            echo "No one-shot resurface marker present."
+          fi
+
       - name: Run hardened monitor as visible main feed
         id: hardened
         timeout-minutes: 5
