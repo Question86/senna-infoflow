@@ -1388,6 +1388,43 @@
     "id": "69ac8770d9cb14e05caf"
   },
   {
+    "title": "M 4.9 - 217 km ESE of Severo-Kuril’sk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1l",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-21T23:25:49.342+00:00",
+    "fetched_at": "2026-06-21T23:41:48+00:00",
+    "summary": "ShakeMap - II Time 2026-06-21 23:04:25 UTC 2026-06-21 23:04:25 UTC at epicenter Location 49.950°N 158.969°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7efc00aa432b7d88733a"
+  },
+  {
     "title": "Sicherheitslücken gefährden Verbindungen über libssh2",
     "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html",
     "source": "heise Security Alerts",
@@ -2128,6 +2165,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bae391c945d928f0a2f3"
+  },
+  {
+    "title": "M 5.0 - Kermadec Islands, New Zealand",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-21T23:26:55.040+00:00",
+    "fetched_at": "2026-06-21T23:41:48+00:00",
+    "summary": "Time 2026-06-21 23:14:39 UTC 2026-06-21 23:14:39 UTC at epicenter Location 30.545°S 178.525°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b4aee4717886d62cf033"
   },
   {
     "title": "M 5.0 - Drake Passage",
@@ -3168,6 +3241,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2be541bac085e71222f8"
+  },
+  {
+    "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
+    "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T13:44:03+00:00",
+    "fetched_at": "2026-06-21T23:41:48+00:00",
+    "summary": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開 Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e04602b66d1ce4188dc8"
   },
   {
     "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
