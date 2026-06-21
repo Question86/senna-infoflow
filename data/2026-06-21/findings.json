@@ -132,6 +132,28 @@
     "id": "93dedb972ac30bc7df02"
   },
   {
+    "title": "Steering Claude Code: skills, hooks, subagents and more | Claude",
+    "url": "https://claude.com/ja/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T08:49:28+00:00",
+    "fetched_at": "2026-06-21T15:06:08+00:00",
+    "summary": "Claude is built to work the way you work, and in Claude Code you can customize it. There are seven methods for instructing Claude's behavior: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt. Each method controls: When an instruction loads into cont...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d7ef29ed682c543da1c"
+  },
+  {
     "title": "Sicherheitslücken gefährden Verbindungen über libssh2",
     "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html",
     "source": "heise Security Alerts",
@@ -255,6 +277,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8ca1589f23508a7e589e"
+  },
+  {
+    "title": "入門から実践 -「🔁 ループエンジニアリング」 - Qiita",
+    "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-20T11:25:48+00:00",
+    "fetched_at": "2026-06-21T15:06:08+00:00",
+    "summary": "前書き 最近 X やブログで 「Loop Engineering（ループエンジニアリング）」 という言葉をやたら見るようになりました。 「もう Claude に指示は出していない、私の仕事はループを書くことだ」 みたいな、ちょっと面白い言い回しで流れてくるアレです 最初は「また新しい “XX エンジニアリング” か……」と斜めに構えてい...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "85e6c3dd539b28aa85d3"
   },
   {
     "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",

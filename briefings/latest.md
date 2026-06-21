@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T14:16:27+00:00_
+_Generiert: 2026-06-21T15:06:37+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Angreifer verschaffen sich auf Wordpress-Websites mit Gravity-SMTP-Plug-in Zugriff auf eigentlich geschützte Daten.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Steering Claude Code: skills, hooks, subagents and more | Claude** — Score 8, observation — [Quelle](https://claude.com/ja/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-21T08:49:28+00:00`, fetched `2026-06-21T15:06:08+00:00`
+  - Treffer: agent, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: Claude is built to work the way you work, and in Claude Code you can customize it. There are seven methods for instructing Claude's behavior: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt. Each method controls: When an instruction loads into cont...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken gefährden Verbindungen über libssh2** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-21T12:06:00.000+00:00`, fetched `2026-06-21T13:23:39+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0)
   - Kurz: AI駆動開発のワークショップを体験して感じた、AIによる影響、 デザイナーの役割変化について共有いたします。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DNSとSNIが見えにくくなる時代に、外部通信をどう見るか** — Score 5, risk — [Quelle](https://zenn.dev/catatsuy/articles/566f5e37076e53)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-20T14:31:55+00:00`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 以前、以下の記事を書きました。 今回はその補足のような話です。 ただし、この記事だけ読んでも分かるように書きます。 開発環境やCI/CDでは、外部通信を見られることが重要です。 どのプロセスが動き、どのファイルに触り、どこへ通信したのか。特に、package install中に普段とは違う通信が発生したり、credentialに...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **palmier-io/palmier-pro** — Score 5, opportunity — [Quelle](https://github.com/palmier-io/palmier-pro)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-21T13:23:39+00:00`
