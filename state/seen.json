@@ -72,7 +72,7 @@
     },
     "01bc99c036a3e5408078": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-21T02:31:38+00:00",
+      "last_seen_at": "2026-06-21T03:57:22+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260018.html"
@@ -149,7 +149,7 @@
     },
     "03dbd462da21f5d5a2b1": {
       "first_seen_at": "2026-06-17T19:49:43+00:00",
-      "last_seen_at": "2026-06-21T02:31:29+00:00",
+      "last_seen_at": "2026-06-21T03:56:55+00:00",
       "source": "GitHub Blog Atom",
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
       "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
@@ -191,7 +191,7 @@
     },
     "05674d7a532b28e531ac": {
       "first_seen_at": "2026-06-19T16:55:38+00:00",
-      "last_seen_at": "2026-06-21T02:31:31+00:00",
+      "last_seen_at": "2026-06-21T03:56:57+00:00",
       "source": "GitHub Changelog Atom",
       "title": "AI credits consumed per user now in the Copilot usage metrics API",
       "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api"
@@ -359,7 +359,7 @@
     },
     "0a50512323e6af4b74e9": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-21T02:31:29+00:00",
+      "last_seen_at": "2026-06-21T03:56:55+00:00",
       "source": "GitHub Blog Atom",
       "title": "What are git worktrees, and why should I use them?",
       "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/"
@@ -555,7 +555,7 @@
     },
     "0d47adc47b52efa2c682": {
       "first_seen_at": "2026-06-19T11:00:32+00:00",
-      "last_seen_at": "2026-06-21T02:31:44+00:00",
+      "last_seen_at": "2026-06-21T03:57:27+00:00",
       "source": "heise Security Alerts",
       "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
       "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html"
@@ -604,7 +604,7 @@
     },
     "0e509be207b2cd064227": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-21T02:31:38+00:00",
+      "last_seen_at": "2026-06-21T03:57:22+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260017.html"
@@ -926,7 +926,7 @@
     },
     "18bd15c93b3f84130071": {
       "first_seen_at": "2026-06-18T18:22:35+00:00",
-      "last_seen_at": "2026-06-21T02:31:28+00:00",
+      "last_seen_at": "2026-06-21T03:56:54+00:00",
       "source": "OpenAI News RSS",
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
@@ -1885,7 +1885,7 @@
     },
     "35c83bed700b53972fc1": {
       "first_seen_at": "2026-06-18T22:33:56+00:00",
-      "last_seen_at": "2026-06-21T02:31:31+00:00",
+      "last_seen_at": "2026-06-21T03:56:57+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
       "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues"
@@ -2046,7 +2046,7 @@
     },
     "3add54470456f8409e46": {
       "first_seen_at": "2026-06-18T22:33:56+00:00",
-      "last_seen_at": "2026-06-21T02:31:31+00:00",
+      "last_seen_at": "2026-06-21T03:56:57+00:00",
       "source": "GitHub Changelog Atom",
       "title": "MAI-Code-1-Flash available on more Copilot surfaces",
       "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces"
@@ -2340,7 +2340,7 @@
     },
     "43fb5c158e0855facb7b": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-21T02:31:38+00:00",
+      "last_seen_at": "2026-06-21T03:57:22+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260011.html"
@@ -2781,7 +2781,7 @@
     },
     "538956db0ca8ccd57191": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-21T02:31:42+00:00",
+      "last_seen_at": "2026-06-21T03:57:25+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
       "url": "https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html"
@@ -2991,7 +2991,7 @@
     },
     "5a0e2a965ce484d34d64": {
       "first_seen_at": "2026-06-18T20:05:01+00:00",
-      "last_seen_at": "2026-06-21T02:31:31+00:00",
+      "last_seen_at": "2026-06-21T03:56:57+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Copilot code review: AGENTS.md support and UI improvements",
       "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements"
@@ -3068,7 +3068,7 @@
     },
     "5c65c09192af449f0725": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-21T02:31:38+00:00",
+      "last_seen_at": "2026-06-21T03:57:22+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260012.html"
@@ -3222,7 +3222,7 @@
     },
     "6248b5ea8b6455e7824f": {
       "first_seen_at": "2026-06-19T07:39:08+00:00",
-      "last_seen_at": "2026-06-21T02:31:44+00:00",
+      "last_seen_at": "2026-06-21T03:57:27+00:00",
       "source": "heise Security Alerts",
       "title": "Splunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
       "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
@@ -3439,7 +3439,7 @@
     },
     "69b3525061736b3e822e": {
       "first_seen_at": "2026-06-17T18:46:50+00:00",
-      "last_seen_at": "2026-06-21T02:31:28+00:00",
+      "last_seen_at": "2026-06-21T03:56:54+00:00",
       "source": "OpenAI News RSS",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction"
@@ -3817,7 +3817,7 @@
     },
     "746fb32a147e7aed9665": {
       "first_seen_at": "2026-06-17T12:45:02+00:00",
-      "last_seen_at": "2026-06-21T02:31:44+00:00",
+      "last_seen_at": "2026-06-21T03:57:27+00:00",
       "source": "heise Security Alerts",
       "title": "FortiSandbox: Angriffe auf kritische Schwachstellen beobachtet",
       "url": "https://www.heise.de/news/Angriffe-auf-FortiSandbox-Schwachstellen-11335667.html"
@@ -4160,7 +4160,7 @@
     },
     "7e231db339493730183a": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-21T02:31:42+00:00",
+      "last_seen_at": "2026-06-21T03:57:25+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
       "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html"
@@ -4377,7 +4377,7 @@
     },
     "8409fa1e87bf9d40cc8d": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-21T02:31:42+00:00",
+      "last_seen_at": "2026-06-21T03:57:25+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標",
       "url": "https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html"
@@ -4461,7 +4461,7 @@
     },
     "86d15e7b783260c0589b": {
       "first_seen_at": "2026-06-18T16:20:56+00:00",
-      "last_seen_at": "2026-06-21T02:31:29+00:00",
+      "last_seen_at": "2026-06-21T03:56:55+00:00",
       "source": "GitHub Blog Atom",
       "title": "How pull request limits are cutting down the noise",
       "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
@@ -4566,7 +4566,7 @@
     },
     "8a2f47e89b9037a37226": {
       "first_seen_at": "2026-06-19T09:21:53+00:00",
-      "last_seen_at": "2026-06-21T02:31:44+00:00",
+      "last_seen_at": "2026-06-21T03:57:27+00:00",
       "source": "heise Security Alerts",
       "title": "PTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
       "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html"
@@ -5021,7 +5021,7 @@
     },
     "9889d700bb84f5be4d26": {
       "first_seen_at": "2026-06-17T20:44:12+00:00",
-      "last_seen_at": "2026-06-21T02:31:28+00:00",
+      "last_seen_at": "2026-06-21T03:56:54+00:00",
       "source": "OpenAI News RSS",
       "title": "Introducing LifeSciBench",
       "url": "https://openai.com/index/introducing-life-sci-bench"
@@ -5182,7 +5182,7 @@
     },
     "9c043c450f622fad712c": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-21T02:31:42+00:00",
+      "last_seen_at": "2026-06-21T03:57:25+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "UAT-10608大規模自動化竊密行動：鎖定React2Shell漏洞入侵逾700台Next.js伺服器",
       "url": "https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html"
@@ -5203,7 +5203,7 @@
     },
     "9c7c077c0d7195589702": {
       "first_seen_at": "2026-06-19T11:00:32+00:00",
-      "last_seen_at": "2026-06-21T02:31:44+00:00",
+      "last_seen_at": "2026-06-21T03:57:27+00:00",
       "source": "heise Security Alerts",
       "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
       "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html"
@@ -5294,7 +5294,7 @@
     },
     "9f06ae672ae180b6e54d": {
       "first_seen_at": "2026-06-19T00:27:11+00:00",
-      "last_seen_at": "2026-06-21T02:31:31+00:00",
+      "last_seen_at": "2026-06-21T03:56:57+00:00",
       "source": "GitHub Changelog Atom",
       "title": "Upcoming deprecation of Opus 4.6 (fast)",
       "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast"
@@ -5728,7 +5728,7 @@
     },
     "af5b202b0b9c99f20d3a": {
       "first_seen_at": "2026-06-19T11:27:30+00:00",
-      "last_seen_at": "2026-06-21T02:31:38+00:00",
+      "last_seen_at": "2026-06-21T03:57:22+00:00",
       "source": "JPCERT/CC English Alerts",
       "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260014.html"
@@ -6379,7 +6379,7 @@
     },
     "c807694be3137fd5d12d": {
       "first_seen_at": "2026-06-19T11:27:38+00:00",
-      "last_seen_at": "2026-06-21T02:31:42+00:00",
+      "last_seen_at": "2026-06-21T03:57:25+00:00",
       "source": "TWCERT/CC Security News RSS",
       "title": "勒索軟體組織「The Gentlemen」結合SystemBC惡意軟體擴大攻擊版圖",
       "url": "https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html"
@@ -6393,7 +6393,7 @@
     },
     "c9152c8ae99440360a51": {
       "first_seen_at": "2026-06-19T16:55:36+00:00",
-      "last_seen_at": "2026-06-21T02:31:29+00:00",
+      "last_seen_at": "2026-06-21T03:56:55+00:00",
       "source": "GitHub Blog Atom",
       "title": "How we built an internal data analytics agent",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
@@ -6827,7 +6827,7 @@
     },
     "d651ac00405018749494": {
       "first_seen_at": "2026-06-17T12:44:59+00:00",
-      "last_seen_at": "2026-06-21T02:31:29+00:00",
+      "last_seen_at": "2026-06-21T03:56:55+00:00",
       "source": "GitHub Blog Atom",
       "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/"
@@ -7198,7 +7198,7 @@
     },
     "e1be8c69ef4ea48ce652": {
       "first_seen_at": "2026-06-18T19:15:25+00:00",
-      "last_seen_at": "2026-06-21T02:31:28+00:00",
+      "last_seen_at": "2026-06-21T03:56:54+00:00",
       "source": "OpenAI News RSS",
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
@@ -7702,7 +7702,7 @@
     },
     "f04c160172fd68982967": {
       "first_seen_at": "2026-06-18T16:20:54+00:00",
-      "last_seen_at": "2026-06-21T02:31:28+00:00",
+      "last_seen_at": "2026-06-21T03:56:54+00:00",
       "source": "OpenAI News RSS",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
@@ -8290,14 +8290,14 @@
     },
     "08a1323973fa3c7cc72d": {
       "first_seen_at": "2026-06-20T21:11:22+00:00",
-      "last_seen_at": "2026-06-21T02:31:33+00:00",
+      "last_seen_at": "2026-06-21T03:56:59+00:00",
       "title": "時雨堂のスキル",
       "url": "https://voluntas.ghost.io/shiguredo-skill-20206-06/",
       "source": "Hatena Bookmark Hotentry IT"
     },
     "f4d461805267246207e0": {
       "first_seen_at": "2026-06-20T22:14:16+00:00",
-      "last_seen_at": "2026-06-21T02:31:33+00:00",
+      "last_seen_at": "2026-06-21T03:56:59+00:00",
       "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
       "url": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
       "source": "Hatena Bookmark Hotentry IT"
@@ -8311,28 +8311,28 @@
     },
     "d23486cd05f04e98e338": {
       "first_seen_at": "2026-06-21T01:33:31+00:00",
-      "last_seen_at": "2026-06-21T02:31:33+00:00",
+      "last_seen_at": "2026-06-21T03:56:59+00:00",
       "title": "Googleマップで閉業になった中華店に来たら、看板出てたので店主に声をかけて着席…しかし店主はずっとライターカチカチし続けるだけ→近所の人から告げられた事実がこれ",
       "url": "https://togetter.com/li/2711775",
       "source": "Hatena Bookmark Hotentry IT"
     },
     "67a94557b96eb665cf29": {
       "first_seen_at": "2026-06-21T01:33:31+00:00",
-      "last_seen_at": "2026-06-21T02:31:33+00:00",
+      "last_seen_at": "2026-06-21T03:56:59+00:00",
       "title": "32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？",
       "url": "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/",
       "source": "Hatena Bookmark Hotentry IT"
     },
     "e5be4304c5124bcff163": {
       "first_seen_at": "2026-06-21T02:31:33+00:00",
-      "last_seen_at": "2026-06-21T02:31:33+00:00",
+      "last_seen_at": "2026-06-21T03:56:59+00:00",
       "title": "AIで内製した自治体システムの、これからの課題｜memuro-DX-oss",
       "url": "https://note.com/memuro_dx_oss/n/nb0d5871aa78c",
       "source": "Hatena Bookmark Hotentry IT"
     },
     "4d158cc43eb033671ba8": {
       "first_seen_at": "2026-06-21T02:31:33+00:00",
-      "last_seen_at": "2026-06-21T02:31:33+00:00",
+      "last_seen_at": "2026-06-21T03:56:59+00:00",
       "title": "設計するとは、何を諦めるかを決めること - 理念と共に、最も困難で狂気の選択を考え続けて諦めない",
       "url": "https://bootjp.me/2026/06/20/%E8%A8%AD%E8%A8%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%AF%E3%80%81%E4%BD%95%E3%82%92%E8%AB%A6%E3%82%81%E3%82%8B%E3%81%8B%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8",
       "source": "Hatena Bookmark Hotentry IT"

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T02:31:47+00:00_
+_Generiert: 2026-06-21T03:57:30+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „AIで内製した自治体システムの、これからの課題｜memuro-DX-oss“ aus Hatena Bookmark Hotentry IT (Score 7, observation).
+5 neue relevante Treffer. Stärkstes Signal: „AIで内製した自治体システムの、これからの課題｜memuro-DX-oss“ aus Hatena Bookmark Hotentry IT (Score 7, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -51,3 +51,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/

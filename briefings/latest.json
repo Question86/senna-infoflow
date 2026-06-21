@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T02:31:47+00:00",
-  "run_id": "2026-06-21T02:31:47+00:00",
+  "generated_at": "2026-06-21T03:57:30+00:00",
+  "run_id": "2026-06-21T03:57:30+00:00",
   "date": "2026-06-21",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 5
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
     "medium": 0,
     "observe": 5,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -238,50 +238,15 @@
       "id": "c62ae138ceaa5e417c7d"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "AIで内製した自治体システムの、これからの課題｜memuro-DX-oss",
-      "url": "https://note.com/memuro_dx_oss/n/nb0d5871aa78c",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-20T04:12:22+00:00",
-      "fetched_at": "2026-06-21T02:31:27+00:00",
-      "summary": "北海道の小さな町が、AIで窓口業務システムを作りました。今も窓口の現場で稼働しています。 ——課題は、その先にあります。 記事1では、捨てるつもりで作った試作がどうやって本番になったのか、その物語を書きました。記事2では、最初の一歩である番号発券システム「MADO-queue」の中身を、技術的に詳しくお話ししまし...",
-      "matched_keywords": [
-        "Hatena",
-        "Open Source"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Open Source (+3.8); Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e5be4304c5124bcff163"
-    },
-    {
-      "title": "設計するとは、何を諦めるかを決めること - 理念と共に、最も困難で狂気の選択を考え続けて諦めない",
-      "url": "https://bootjp.me/2026/06/20/%E8%A8%AD%E8%A8%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%AF%E3%80%81%E4%BD%95%E3%82%92%E8%AB%A6%E3%82%81%E3%82%8B%E3%81%8B%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-20T10:18:04+00:00",
-      "fetched_at": "2026-06-21T02:31:27+00:00",
-      "summary": "先日、Twitter(X)で、設計書に「ボタンを押下したときに処理する」と書かれていたため、実装者がボタンを押し込んだ瞬間に処理を実行する実装を行い、非常に大変な思いをした、という趣旨の話を見た。 ここでは個別の投稿の是非には触れず、この話をきっかけに、私が設計について考えていることを書く。 私は、実装方法...",
-      "matched_keywords": [
-        "Hatena"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "Hatena (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d158cc43eb033671ba8"
+      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
