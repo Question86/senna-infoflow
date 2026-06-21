@@ -154,6 +154,28 @@
     "id": "7d7ef29ed682c543da1c"
   },
   {
+    "title": "ゼロをイチにする仕事の終わり、ソフトウェアエンジニアという仕事の終わり - smasato.log",
+    "url": "https://blog.smasato.net/entry/2026/06/21/181605",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T12:19:04+00:00",
+    "fetched_at": "2026-06-21T17:04:40+00:00",
+    "summary": "ソフトウェアエンジニアの仕事のうち、ゼロをイチにする業務の割合はかなり多かったはずです。初期のAIは、GitHub Copilotの行補完のように、その「ゼロをイチにする」ための作業を支援するツールでした。書きかけたコードを完成させるためのツールであり、コードをゼロから書くことを手伝ってくれるものだったと思いま...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7af7e0476f4db8fe039b"
+  },
+  {
     "title": "Sicherheitslücken gefährden Verbindungen über libssh2",
     "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html",
     "source": "heise Security Alerts",

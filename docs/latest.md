@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-21T16:26:40+00:00_
+_Generiert: 2026-06-21T17:05:06+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: Claude is built to work the way you work, and in Claude Code you can customize it. There are seven methods for instructing Claude's behavior: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt. Each method controls: When an instruction loads into cont...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ゼロをイチにする仕事の終わり、ソフトウェアエンジニアという仕事の終わり - smasato.log** — Score 7, observation — [Quelle](https://blog.smasato.net/entry/2026/06/21/181605)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-21T12:19:04+00:00`, fetched `2026-06-21T17:04:40+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: ソフトウェアエンジニアの仕事のうち、ゼロをイチにする業務の割合はかなり多かったはずです。初期のAIは、GitHub Copilotの行補完のように、その「ゼロをイチにする」ための作業を支援するツールでした。書きかけたコードを完成させるためのツールであり、コードをゼロから書くことを手伝ってくれるものだったと思いま...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken gefährden Verbindungen über libssh2** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-21T12:06:00.000+00:00`, fetched `2026-06-21T13:23:39+00:00`
@@ -86,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.8); Hatena (+2.0); recent (+1.0)
   - Kurz: 北海道の小さな町が、AIで窓口業務システムを作りました。今も窓口の現場で稼働しています。 ——課題は、その先にあります。 記事1では、捨てるつもりで作った試作がどうやって本番になったのか、その物語を書きました。記事2では、最初の一歩である番号発券システム「MADO-queue」の中身を、技術的に詳しくお話ししまし...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI駆動開発を通して感じた、 AI時代のデザイナーの役割変化** — Score 6, observation — [Quelle](https://speakerdeck.com/whisaiyo/whidevelopers-linklight20260618)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-19T12:28:22+00:00`, fetched `2026-06-21T13:23:39+00:00`
-  - Treffer: developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0)
-  - Kurz: AI駆動開発のワークショップを体験して感じた、AIによる影響、 デザイナーの役割変化について共有いたします。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **palmier-io/palmier-pro** — Score 5, opportunity — [Quelle](https://github.com/palmier-io/palmier-pro)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
