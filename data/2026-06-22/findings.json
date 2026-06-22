@@ -830,6 +830,28 @@
     "id": "f7a5c61521dd73015dbf"
   },
   {
+    "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+    "url": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T14:17:11+00:00",
+    "fetched_at": "2026-06-22T22:06:11+00:00",
+    "summary": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Temporary Cloudflare Accounts を使用して実際に Cloudflare Workers にデプロイする方法を試してみます。 現在の開発のワークフローで...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d623247565b9c9f7a4f0"
+  },
+  {
     "title": "Emmanuel Moulin: From innovation to monetary sovereignty - striking the right note",
     "url": "https://www.bis.org/review/r260622j.htm",
     "source": "BIS Central Bankers Speeches",

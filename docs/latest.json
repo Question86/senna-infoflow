@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T21:18:27+00:00",
-  "run_id": "2026-06-22T21:18:27+00:00",
+  "generated_at": "2026-06-22T22:06:37+00:00",
+  "run_id": "2026-06-22T22:06:37+00:00",
   "date": "2026-06-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 1,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
     "medium": 7,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -860,6 +860,28 @@
           "LOW"
         ],
         "id": "f7a5c61521dd73015dbf"
+      },
+      {
+        "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+        "url": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-22T14:17:11+00:00",
+        "fetched_at": "2026-06-22T22:06:11+00:00",
+        "summary": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Temporary Cloudflare Accounts を使用して実際に Cloudflare Workers にデプロイする方法を試してみます。 現在の開発のワークフローで...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d623247565b9c9f7a4f0"
       },
       {
         "title": "Emmanuel Moulin: From innovation to monetary sovereignty - striking the right note",
@@ -2172,6 +2194,28 @@
       "id": "f7a5c61521dd73015dbf"
     },
     {
+      "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+      "url": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T14:17:11+00:00",
+      "fetched_at": "2026-06-22T22:06:11+00:00",
+      "summary": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Temporary Cloudflare Accounts を使用して実際に Cloudflare Workers にデプロイする方法を試してみます。 現在の開発のワークフローで...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d623247565b9c9f7a4f0"
+    },
+    {
       "title": "Emmanuel Moulin: From innovation to monetary sovereignty - striking the right note",
       "url": "https://www.bis.org/review/r260622j.htm",
       "source": "BIS Central Bankers Speeches",
@@ -2651,61 +2695,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 276 km SSW of ‘Ohonua, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7h1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-22T21:00:30.040+00:00",
-      "fetched_at": "2026-06-22T21:17:56+00:00",
-      "summary": "Time 2026-06-22 20:41:16 UTC 2026-06-22 20:41:16 UTC at epicenter Location 23.758°S 175.648°W Depth 35.00 km (21.75 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "bbeb859cebe477006098"
-    },
-    {
-      "title": "新試験制度のサンプル問題について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
-      "url": "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260622.html",
+      "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+      "url": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-22T07:20:58+00:00",
-      "fetched_at": "2026-06-22T21:17:56+00:00",
-      "summary": "2027年度から開始を予定する新試験制度における各試験区分のサンプル問題を掲載しています。 公開準備が整ったものから順次このページに掲載し、2026年度夏頃を目途に一通り公表する予定です。 サンプル問題 各試験区分における、新たな出題分野、出題形式のサンプル問題を掲載します。 なお、本サンプル問題は、新たな...",
+      "published_at": "2026-06-22T14:17:11+00:00",
+      "fetched_at": "2026-06-22T22:06:11+00:00",
+      "summary": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Temporary Cloudflare Accounts を使用して実際に Cloudflare Workers にデプロイする方法を試してみます。 現在の開発のワークフローで...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a3f7dfd2b73420c88a03"
+      "id": "d623247565b9c9f7a4f0"
     }
   ],
   "source_errors": [],
