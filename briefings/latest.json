@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T19:05:19+00:00",
-  "run_id": "2026-06-22T19:05:19+00:00",
+  "generated_at": "2026-06-22T20:14:14+00:00",
+  "run_id": "2026-06-22T20:14:14+00:00",
   "date": "2026-06-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
     "medium": 7,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-22T12:35:36+00:00",
-        "fetched_at": "2026-06-22T12:35:19+00:00",
+        "published_at": "2026-06-22T20:14:03+00:00",
+        "fetched_at": "2026-06-22T20:13:48+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "4d22b1dcaca2b272f817"
+        "id": "c4e19932a40f97b28700"
       },
       {
         "title": "OpenAIも注目、非エンジニア農家がCodexで進める「農業のDX」。ハウス自動化から翻訳LINE Botまで | Business Insider Japan",
@@ -714,6 +714,42 @@
         "id": "0c675a3aea3dc420b8ec"
       },
       {
+        "title": "M 5.1 - Kermadec Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-22T20:04:18.040+00:00",
+        "fetched_at": "2026-06-22T20:13:48+00:00",
+        "summary": "Time 2026-06-22 19:46:11 UTC 2026-06-22 19:46:11 UTC at epicenter Location 31.933°S 178.286°W Depth 28.23 km (17.54 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8c1e81cae4f3f1ad8b05"
+      },
+      {
         "title": "Joachim Nagel: New forms of money and the transmission of monetary policy",
         "url": "https://www.bis.org/review/r260622h.htm",
         "source": "BIS Central Bankers Speeches",
@@ -1253,8 +1289,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-22T12:35:36+00:00",
-      "fetched_at": "2026-06-22T12:35:19+00:00",
+      "published_at": "2026-06-22T20:14:03+00:00",
+      "fetched_at": "2026-06-22T20:13:48+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1288,7 +1324,7 @@
         "HD",
         "LOW"
       ],
-      "id": "4d22b1dcaca2b272f817"
+      "id": "c4e19932a40f97b28700"
     },
     {
       "title": "OpenAIも注目、非エンジニア農家がCodexで進める「農業のDX」。ハウス自動化から翻訳LINE Botまで | Business Insider Japan",
@@ -1931,6 +1967,42 @@
       "id": "0c675a3aea3dc420b8ec"
     },
     {
+      "title": "M 5.1 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-22T20:04:18.040+00:00",
+      "fetched_at": "2026-06-22T20:13:48+00:00",
+      "summary": "Time 2026-06-22 19:46:11 UTC 2026-06-22 19:46:11 UTC at epicenter Location 31.933°S 178.286°W Depth 28.23 km (17.54 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8c1e81cae4f3f1ad8b05"
+    },
+    {
       "title": "Joachim Nagel: New forms of money and the transmission of monetary policy",
       "url": "https://www.bis.org/review/r260622h.htm",
       "source": "BIS Central Bankers Speeches",
@@ -2465,63 +2537,25 @@
   ],
   "new_findings": [
     {
-      "title": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-22T00:00:00+00:00",
-      "fetched_at": "2026-06-22T19:04:49+00:00",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-22T20:14:03+00:00",
+      "fetched_at": "2026-06-22T20:13:48+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "40fa87f80c818ee7354f"
-    },
-    {
-      "title": "M 4.9 - Mid-Indian Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-22T18:52:31.040+00:00",
-      "fetched_at": "2026-06-22T19:04:49+00:00",
-      "summary": "Time 2026-06-22 18:32:46 UTC 2026-06-22 18:32:46 UTC at epicenter Location 33.247°S 77.995°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2542,7 +2576,43 @@
         "HD",
         "LOW"
       ],
-      "id": "5b34b161674b3eb263bf"
+      "id": "c4e19932a40f97b28700"
+    },
+    {
+      "title": "M 5.1 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-22T20:04:18.040+00:00",
+      "fetched_at": "2026-06-22T20:13:48+00:00",
+      "summary": "Time 2026-06-22 19:46:11 UTC 2026-06-22 19:46:11 UTC at epicenter Location 31.933°S 178.286°W Depth 28.23 km (17.54 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8c1e81cae4f3f1ad8b05"
     }
   ],
   "source_errors": [],

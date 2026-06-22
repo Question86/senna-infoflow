@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T19:05:19+00:00_
+_Generiert: 2026-06-22T20:14:14+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-22T12:35:36+00:00`, fetched `2026-06-22T12:35:19+00:00`
+  - Zeit: published `2026-06-22T20:14:03+00:00`, fetched `2026-06-22T20:13:48+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: Sakana Fugu — Multi-agent System as A Model
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-22T20:04:18.040+00:00`, fetched `2026-06-22T20:13:48+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-22 19:46:11 UTC 2026-06-22 19:46:11 UTC at epicenter Location 31.933°S 178.286°W Depth 28.23 km (17.54 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Joachim Nagel: New forms of money and the transmission of monetary policy** — Score 9, opportunity — [Quelle](https://www.bis.org/review/r260622h.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-06-22T12:45:00+00:00`, fetched `2026-06-22T14:34:29+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-22 09:43:52 UTC 2026-06-22 09:43:52 UTC at epicenter Location 44.212°N 148.563°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AIのモデル崩壊と多様性 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ** — Score 8, observation — [Quelle](https://joisino.hatenablog.com/entry/collapse)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-22T10:28:44+00:00`, fetched `2026-06-22T14:34:29+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: モデル崩壊 (model collapse) とは、AI が出力したテキストや画像がインターネットにアップロードされ、それらが AI の訓練データに混入し、そのデータで訓練された AI が出力したものがアップロードされる、というサイクルを繰り返すことで AI の性能が崩壊することです。最も有名な研究は Nature に採択された AI mode...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
