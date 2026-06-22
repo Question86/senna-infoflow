@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T08:26:08+00:00_
+_Generiert: 2026-06-22T10:27:46+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -78,15 +78,42 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Southeast Asia’s AI scene is sprinting ahead, and Thailand is quietly becoming its laboratory. From generative spatial design and energy‑saving AIoT to sovereign Thai language models and an “AI nose” that tastes food, a new wave of startups is turning local problems into global products. This list rounds up 15 homegrown companies that typify the […] The post 15 Thai AI companies betting on products, not hype appeare…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From support inbox to signal feed: Inside the AI workflow that won at Echelon Singapore 2026** — Score 10, observation — [Quelle](https://e27.co/from-support-inbox-to-signal-feed-inside-the-ai-workflow-that-won-at-echelon-singapore-2026-20260622/)
+- **鼎新數智｜EasyFlow .NET - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-10980-0e640-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-06-22T07:17:00+00:00`, fetched `2026-06-22T10:27:18+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 鼎新數智｜EasyFlow .NET - 存在2個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **What nine AI workflow submissions reveal about Echelon Singapore’s builder pipeline** — Score 10, observation — [Quelle](https://e27.co/what-nine-ai-workflow-submissions-reveal-about-echelon-singapores-builder-pipeline-20260622/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-22T06:58:14+00:00`, fetched `2026-06-22T08:25:42+00:00`
+  - Zeit: published `2026-06-22T09:26:27+00:00`, fetched `2026-06-22T10:27:18+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: A customer support inbox usually looks like a backlog: questions to answer, complaints to resolve, and product details to clarify before the next message arrives. For Aaryan Kandiah, it looked like something else: a live stream of business signals. That shift helped him win the AI Workflow Competition at Echelon Singapore 2026 with SignalDesk. A recent Nanyang Technological University graduate […] The post From supp…
+  - Kurz: The useful test of an AI competition is whether it can repeatedly turn broad interest into specific, inspectable builder output. That is the most important signal from the AI Workflow Competition at Echelon Singapore 2026. Nine other entries reviewed by e27 showed builders working through the harder middle ground of AI adoption: messy inputs, scattered knowledge, human […] The post What nine AI workflow submissions…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sakana Fugu — Multi-agent System as A Model** — Score 10, observation — [Quelle](https://sakana.ai/fugu/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-22T02:48:55+00:00`, fetched `2026-06-22T10:27:18+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: Sakana Fugu — Multi-agent System as A Model
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 125 km SSE of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6a)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-22T10:05:25.040+00:00`, fetched `2026-06-22T10:27:18+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-22 09:43:52 UTC 2026-06-22 09:43:52 UTC at epicenter Location 44.212°N 148.563°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ZhuLinsen/daily_stock_analysis** — Score 8, observation — [Quelle](https://github.com/ZhuLinsen/daily_stock_analysis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-22T02:30:50+00:00`
@@ -132,14 +159,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年6月22日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2118830.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-22T04:06:49+00:00`, fetched `2026-06-22T08:25:42+00:00`
-  - Treffer: Hatena, hotentry
+- **Chinese universities are cutting language majors to make way for AI** — Score 5, observation — [Quelle](https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-06-22T10:00:52+00:00`, fetched `2026-06-22T10:27:18+00:00`
+  - Treffer: AI/KI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】
+  - Warum relevant: AI/KI (+3.8); recent (+1.0)
+  - Kurz: Universities are dropping programs in translation and foreign languages while adding degrees in embodied intelligence, AI, and robotics.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

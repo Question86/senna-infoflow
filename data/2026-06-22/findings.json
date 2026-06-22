@@ -251,6 +251,49 @@
     "id": "865a5a6f1e259f4a2450"
   },
   {
+    "title": "鼎新數智｜EasyFlow .NET - 存在2個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-10980-0e640-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T07:17:00+00:00",
+    "fetched_at": "2026-06-22T10:27:18+00:00",
+    "summary": "鼎新數智｜EasyFlow .NET - 存在2個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4289fd997728ddb8b7a8"
+  },
+  {
+    "title": "What nine AI workflow submissions reveal about Echelon Singapore’s builder pipeline",
+    "url": "https://e27.co/what-nine-ai-workflow-submissions-reveal-about-echelon-singapores-builder-pipeline-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T09:26:27+00:00",
+    "fetched_at": "2026-06-22T10:27:18+00:00",
+    "summary": "The useful test of an AI competition is whether it can repeatedly turn broad interest into specific, inspectable builder output. That is the most important signal from the AI Workflow Competition at Echelon Singapore 2026. Nine other entries reviewed by e27 showed builders working through the harder middle ground of AI adoption: messy inputs, scattered knowledge, human […] The post What nine AI workflow submissions…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "99df2f75f011f4608292"
+  },
+  {
     "title": "From support inbox to signal feed: Inside the AI workflow that won at Echelon Singapore 2026",
     "url": "https://e27.co/from-support-inbox-to-signal-feed-inside-the-ai-workflow-that-won-at-echelon-singapore-2026-20260622/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -272,6 +315,29 @@
     "id": "b66b8d13195b7c899a4a"
   },
   {
+    "title": "Sakana Fugu — Multi-agent System as A Model",
+    "url": "https://sakana.ai/fugu/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T02:48:55+00:00",
+    "fetched_at": "2026-06-22T10:27:18+00:00",
+    "summary": "Sakana Fugu — Multi-agent System as A Model",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d9162803a30dc8e90412"
+  },
+  {
     "title": "The AI divide in the Philippines began long before AI",
     "url": "https://e27.co/the-ai-divide-in-the-philippines-began-long-before-ai-20260615/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -291,6 +357,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0c675a3aea3dc420b8ec"
+  },
+  {
+    "title": "M 4.6 - 125 km SSE of Kuril’sk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6a",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-22T10:05:25.040+00:00",
+    "fetched_at": "2026-06-22T10:27:18+00:00",
+    "summary": "Time 2026-06-22 09:43:52 UTC 2026-06-22 09:43:52 UTC at epicenter Location 44.212°N 148.563°E Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f7a5c61521dd73015dbf"
   },
   {
     "title": "The next startup opportunities are forming around control, not efficiency",
@@ -458,6 +560,26 @@
     "id": "383918453578d8e62623"
   },
   {
+    "title": "Chinese universities are cutting language majors to make way for AI",
+    "url": "https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T10:00:52+00:00",
+    "fetched_at": "2026-06-22T10:27:18+00:00",
+    "summary": "Universities are dropping programs in translation and foreign languages while adding degrees in embodied intelligence, AI, and robotics.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8fc54ea435a4e93e7aa4"
+  },
+  {
     "title": "東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】",
     "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2118830.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -477,6 +599,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9512c02673e7488ea0b5"
+  },
+  {
+    "title": "みずほ、「朱肉を用いた押印」廃止",
+    "url": "https://www.watch.impress.co.jp/docs/news/2118927.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T03:59:31+00:00",
+    "fetched_at": "2026-06-22T10:27:18+00:00",
+    "summary": "みずほ、「朱肉を用いた押印」廃止",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa2d53b01f04f9dae2f3"
   },
   {
     "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
