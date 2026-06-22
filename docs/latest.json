@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T22:06:37+00:00",
-  "run_id": "2026-06-22T22:06:37+00:00",
+  "generated_at": "2026-06-22T22:49:18+00:00",
+  "run_id": "2026-06-22T22:49:18+00:00",
   "date": "2026-06-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
     "medium": 7,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1297,6 +1297,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3cf124e0afaa1c3b9057"
+      },
+      {
+        "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-22T01:44:43+00:00",
+        "fetched_at": "2026-06-22T22:48:50+00:00",
+        "summary": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "40797b222a6561e82abb"
       },
       {
         "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
@@ -2631,6 +2652,27 @@
       "id": "3cf124e0afaa1c3b9057"
     },
     {
+      "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T01:44:43+00:00",
+      "fetched_at": "2026-06-22T22:48:50+00:00",
+      "summary": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "40797b222a6561e82abb"
+    },
+    {
       "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
       "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2695,26 +2737,25 @@
   ],
   "new_findings": [
     {
-      "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
-      "url": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
+      "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-22T14:17:11+00:00",
-      "fetched_at": "2026-06-22T22:06:11+00:00",
-      "summary": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Temporary Cloudflare Accounts を使用して実際に Cloudflare Workers にデプロイする方法を試してみます。 現在の開発のワークフローで...",
+      "published_at": "2026-06-22T01:44:43+00:00",
+      "fetched_at": "2026-06-22T22:48:50+00:00",
+      "summary": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d623247565b9c9f7a4f0"
+      "id": "40797b222a6561e82abb"
     }
   ],
   "source_errors": [],
