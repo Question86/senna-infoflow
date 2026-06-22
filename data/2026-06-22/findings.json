@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-22T00:12:52+00:00",
-    "fetched_at": "2026-06-22T00:12:37+00:00",
+    "published_at": "2026-06-22T03:57:20+00:00",
+    "fetched_at": "2026-06-22T03:57:06+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "fa3c66ec00375911ab38"
+    "id": "58d2a92fec191069d26f"
   },
   {
     "title": "chopratejas/headroom",
@@ -147,6 +147,27 @@
     "id": "0c675a3aea3dc420b8ec"
   },
   {
+    "title": "The next startup opportunities are forming around control, not efficiency",
+    "url": "https://e27.co/the-next-startup-opportunities-are-forming-around-control-not-efficiency-20260620/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T02:35:51+00:00",
+    "fetched_at": "2026-06-22T03:57:06+00:00",
+    "summary": "The best startup opportunities often show up where large systems are under stress. In May 2026, several signals pointed in the same direction. Quantum moved closer to industrial policy. AI infrastructure showed more physical bottlenecks. Frontier AI access became more controlled. Critical minerals remained exposed to geopolitical pressure. Carbon markets and food inputs also started […] The post The next startup opp…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c0e086d288e261c150f"
+  },
+  {
     "title": "ZhuLinsen/daily_stock_analysis",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -167,6 +188,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d40d87613f1acc62c97f"
+  },
+  {
+    "title": "あなたの字に異変？ 200万字を7万字へ、行政の「文字」統一が始まった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061800001/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T23:04:24+00:00",
+    "fetched_at": "2026-06-22T03:57:06+00:00",
+    "summary": "自治体がそれぞれ独自に作成した約200万文字の外字が、標準化により約7万文字へと整理が進む。一方、氏名が「●」に置き換わる問題や外字は消えていない。今回の特集では、行政事務標準文字に続く文字を巡る100年に及ぶ歴史と、国際標準化への課題と展望を追う。第1回は、外字が事務処理の障害となった東日本大震災を転機...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8bc2cff93b10406935fd"
   },
   {
     "title": "From lab to factory floor: ChemT nets US$4M to make cell therapies easier to manufacture",
