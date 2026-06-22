@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T03:57:32+00:00_
+_Generiert: 2026-06-22T06:03:20+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. ██╗ ██╗███████╗ █████╗ ██████╗ ██████╗ ██████╗ ██████╗ ███╗ ███╗ ██║ ██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║ ███████║█████╗ ███████║██║ ██║██████╔╝██║ ██║██║ ██║██╔████╔██║ ██╔══██║██╔══╝ ██╔══██║██║ ██║██╔══██╗██║ ██║██║ ██║██║╚██╔╝██║ ██║ ██║███████╗█…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 68 km WNW of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-22T05:45:21.040+00:00`, fetched `2026-06-22T06:02:55+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-22 05:28:15 UTC 2026-06-22 05:28:15 UTC at epicenter Location 1.873°N 127.415°E Depth 124.93 km (77.63 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 53 km NNE of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-22T02:20:08.040+00:00`, fetched `2026-06-22T02:30:50+00:00`
@@ -42,6 +51,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Bitcoin at US$63,386: The geopolitical storm Wall Street missed** — Score 13, observation — [Quelle](https://e27.co/bitcoin-at-us63386-the-geopolitical-storm-wall-street-missed-20260622/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-22T04:02:05+00:00`, fetched `2026-06-22T06:02:55+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Bitcoin currently trades at US$63,386.87 after experiencing a 1.24 per cent decline over the past 24 hours. This downward movement mirrors a broader one per cent contraction in total cryptocurrency market capitalisation. These short-term price fluctuations are predictable reactions to external macroeconomic shocks rather than systemic failures. The current sell-off lacks any crypto-specific negative catalyst. […] Th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AI臭い文章を生成させない」ルール集。LLMに“質の高い技術文書”を書かせるスキルを技術書出版社表が公開（生成AIクローズアップ） | テクノエッジ TechnoEdge** — Score 13, observation — [Quelle](https://www.techno-edge.net/article/2026/06/22/5209.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-22T01:05:24+00:00`, fetched `2026-06-22T06:02:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、LLM（大規模言語モデル）に日本語の技術文書を書かせたり推敲させたりするためのAI向けの日本語文章規範スキル「japanese-tech-wr...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **15 Thai AI companies betting on products, not hype** — Score 12, observation — [Quelle](https://e27.co/15-thai-ai-companies-betting-on-products-not-hype-20260622/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-22T04:22:52+00:00`, fetched `2026-06-22T06:02:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
+  - Kurz: Southeast Asia’s AI scene is sprinting ahead, and Thailand is quietly becoming its laboratory. From generative spatial design and energy‑saving AIoT to sovereign Thai language models and an “AI nose” that tastes food, a new wave of startups is turning local problems into global products. This list rounds up 15 homegrown companies that typify the […] The post 15 Thai AI companies betting on products, not hype appeare…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI divide in the Philippines began long before AI** — Score 10, observation — [Quelle](https://e27.co/the-ai-divide-in-the-philippines-began-long-before-ai-20260615/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-22T01:30:01+00:00`, fetched `2026-06-22T01:32:05+00:00`
@@ -50,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: Picture a ten-year-old in a public elementary school somewhere in the Philippines. Her classroom holds more children than it was built for. She has sat through four years of lessons. And if she is typical of her cohort, she cannot read a short, age-appropriate paragraph and tell you what it means. That is not a […] The post The AI divide in the Philippines began long before AI appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The next startup opportunities are forming around control, not efficiency** — Score 8, observation — [Quelle](https://e27.co/the-next-startup-opportunities-are-forming-around-control-not-efficiency-20260620/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-22T02:35:51+00:00`, fetched `2026-06-22T03:57:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: The best startup opportunities often show up where large systems are under stress. In May 2026, several signals pointed in the same direction. Quantum moved closer to industrial policy. AI infrastructure showed more physical bottlenecks. Frontier AI access became more controlled. Critical minerals remained exposed to geopolitical pressure. Carbon markets and food inputs also started […] The post The next startup opp…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ZhuLinsen/daily_stock_analysis** — Score 8, observation — [Quelle](https://github.com/ZhuLinsen/daily_stock_analysis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -78,14 +105,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 自治体がそれぞれ独自に作成した約200万文字の外字が、標準化により約7万文字へと整理が進む。一方、氏名が「●」に置き換わる問題や外字は消えていない。今回の特集では、行政事務標準文字に続く文字を巡る100年に及ぶ歴史と、国際標準化への課題と展望を追う。第1回は、外字が事務処理の障害となった東日本大震災を転機...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From lab to factory floor: ChemT nets US$4M to make cell therapies easier to manufacture** — Score 6, observation — [Quelle](https://e27.co/chemt-nets-us4m-to-make-cell-therapies-easier-to-manufacture-20260622/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-22T01:52:45+00:00`, fetched `2026-06-22T02:30:50+00:00`
+- **公共調達の適正化に係る情報について令和8年4月分を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/proper-public-procurement)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-22T06:00:00+00:00`, fetched `2026-06-22T06:02:55+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: ChemT Biotechnology, a US‑Singapore startup that claims it has built an “intelligence layer” for bio-manufacturing, has raised a total of US$5 million in 18 months, including a US$4 million seed round led by Wavemaker Ventures and co‑investment partner SEEDS. The company, which combines machine learning models with wet‑lab validation, argues its tools can shorten development […] The post From lab to factory floor: C…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 公共調達の適正化に係る情報について令和8年4月分を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-22T06:00:00+00:00`, fetched `2026-06-22T06:02:55+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年6月22日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260622-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -104,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK** — Score 5, observation — [Quelle](https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-21T14:51:07+00:00`, fetched `2026-06-22T00:12:37+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ゲームやAI処理ではGPUのメモリである「VRAM」を酷使します。VRAMに異常が発生しているとGPUの性能を十分に引き出せずにゲームプレイ中にフリーズが発生したりAI処理を正常に実行できなくなったりします。「memtest_vulkan」は自分の使っているGPUのVRAMが故障していないかチェックできる無料ツールで、インストール不要...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

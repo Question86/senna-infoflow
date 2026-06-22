@@ -89,6 +89,43 @@
     "id": "5137f484b71fd5580549"
   },
   {
+    "title": "M 4.9 - 68 km WNW of Tobelo, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3q",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-22T05:45:21.040+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "Time 2026-06-22 05:28:15 UTC 2026-06-22 05:28:15 UTC at epicenter Location 1.873°N 127.415°E Depth 124.93 km (77.63 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3d4188eb9ae5caf9cec9"
+  },
+  {
     "title": "M 4.6 - 53 km NNE of Tobelo, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1z",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -124,6 +161,94 @@
       "LOW"
     ],
     "id": "05c1d04e24ca246be9bb"
+  },
+  {
+    "title": "Bitcoin at US$63,386: The geopolitical storm Wall Street missed",
+    "url": "https://e27.co/bitcoin-at-us63386-the-geopolitical-storm-wall-street-missed-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T04:02:05+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "Bitcoin currently trades at US$63,386.87 after experiencing a 1.24 per cent decline over the past 24 hours. This downward movement mirrors a broader one per cent contraction in total cryptocurrency market capitalisation. These short-term price fluctuations are predictable reactions to external macroeconomic shocks rather than systemic failures. The current sell-off lacks any crypto-specific negative catalyst. […] Th…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "8709ab9babad47dfc4f6"
+  },
+  {
+    "title": "「AI臭い文章を生成させない」ルール集。LLMに“質の高い技術文書”を書かせるスキルを技術書出版社表が公開（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/06/22/5209.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T01:05:24+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、LLM（大規模言語モデル）に日本語の技術文書を書かせたり推敲させたりするためのAI向けの日本語文章規範スキル「japanese-tech-wr...",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d91c7ca7740d38da901f"
+  },
+  {
+    "title": "15 Thai AI companies betting on products, not hype",
+    "url": "https://e27.co/15-thai-ai-companies-betting-on-products-not-hype-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T04:22:52+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "Southeast Asia’s AI scene is sprinting ahead, and Thailand is quietly becoming its laboratory. From generative spatial design and energy‑saving AIoT to sovereign Thai language models and an “AI nose” that tastes food, a new wave of startups is turning local problems into global products. This list rounds up 15 homegrown companies that typify the […] The post 15 Thai AI companies betting on products, not hype appeare…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "865a5a6f1e259f4a2450"
   },
   {
     "title": "The AI divide in the Philippines began long before AI",
@@ -209,6 +334,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8bc2cff93b10406935fd"
+  },
+  {
+    "title": "公共調達の適正化に係る情報について令和8年4月分を更新しました",
+    "url": "https://www.digital.go.jp/procurement/proper-public-procurement",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T06:00:00+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "公共調達の適正化に係る情報について令和8年4月分を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a43a493d7d25fc493052"
+  },
+  {
+    "title": "企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました",
+    "url": "https://www.digital.go.jp/procurement",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T06:00:00+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "企画競争：国機関等（地方公共団体も含む）に係る公共サービスメッシュ機関間情報連携サービスへの円滑な移行のための方針検討を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b06261003b3d7cc1251d"
   },
   {
     "title": "From lab to factory floor: ChemT nets US$4M to make cell therapies easier to manufacture",
@@ -312,5 +477,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e1ee0211b49ba4b59a24"
+  },
+  {
+    "title": "After a bank cyberattack, the real risk is restoring the wrong version of the truth",
+    "url": "https://e27.co/after-a-bank-cyberattack-the-real-risk-is-restoring-the-wrong-version-of-the-truth-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T04:09:42+00:00",
+    "fetched_at": "2026-06-22T06:02:55+00:00",
+    "summary": "Banks often treat cyber recovery and regulatory reporting as separate workstreams. One team restores services. Another drafts the incident report. That split may look tidy, but in practice, it creates risk. Both activities deal with the same problem. Facts are incomplete, pressure is immediate, and decisions must be made before anyone fully understands what has […] The post After a bank cyberattack, the real risk is…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "829e43671551a82f8dbf"
   }
 ]
