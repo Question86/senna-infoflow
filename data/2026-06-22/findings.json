@@ -256,6 +256,30 @@
     "id": "05c1d04e24ca246be9bb"
   },
   {
+    "title": "エージェントスキルを評価する仕組みを作ってみる | フューチャー技術ブログ",
+    "url": "https://future-architect.github.io/articles/20260622a/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T13:09:09+00:00",
+    "fetched_at": "2026-06-22T23:53:43+00:00",
+    "summary": "コーディングエージェントの様々なツール横断で使えるハーネスといえば、skillsという雰囲気になってきました。AGENTS.mdやMCPもありますが、作りやすさや小回りが効く点、プロジェクトやチーム単位で気軽に改善していける点など、人気になるのはうなづけます。もちろん、MCPが全てにおいて劣っているというわけではない...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "be441ed85c1e10abf28d"
+  },
+  {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI News RSS",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T23:23:28+00:00_
+_Generiert: 2026-06-22T23:54:21+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-22 01:36:03 UTC 2026-06-22 01:36:03 UTC at epicenter Location 2.141°N 128.254°E Depth 179.83 km (111.74 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **エージェントスキルを評価する仕組みを作ってみる | フューチャー技術ブログ** — Score 14, observation — [Quelle](https://future-architect.github.io/articles/20260622a/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-22T13:09:09+00:00`, fetched `2026-06-22T23:53:43+00:00`
+  - Treffer: agent, AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: コーディングエージェントの様々なツール横断で使えるハーネスといえば、skillsという雰囲気になってきました。AGENTS.mdやMCPもありますが、作りやすさや小回りが効く点、プロジェクトやチーム単位で気軽に改善していける点など、人気になるのはうなづけます。もちろん、MCPが全てにおいて劣っているというわけではない...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Patch the Planet: a Daybreak initiative to support open source maintainers** — Score 14, opportunity — [Quelle](https://openai.com/index/patch-the-planet)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-06-22T10:00:00+00:00`, fetched `2026-06-22T17:53:28+00:00`
@@ -223,3 +232,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7efe60a83810>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

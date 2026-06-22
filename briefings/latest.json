@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-22T23:23:28+00:00",
-  "run_id": "2026-06-22T23:23:28+00:00",
+  "generated_at": "2026-06-22T23:54:21+00:00",
+  "run_id": "2026-06-22T23:54:21+00:00",
   "date": "2026-06-22",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 1,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 7,
+    "medium": 8,
     "observe": 45,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -284,6 +284,30 @@
           "LOW"
         ],
         "id": "05c1d04e24ca246be9bb"
+      },
+      {
+        "title": "エージェントスキルを評価する仕組みを作ってみる | フューチャー技術ブログ",
+        "url": "https://future-architect.github.io/articles/20260622a/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-22T13:09:09+00:00",
+        "fetched_at": "2026-06-22T23:53:43+00:00",
+        "summary": "コーディングエージェントの様々なツール横断で使えるハーネスといえば、skillsという雰囲気になってきました。AGENTS.mdやMCPもありますが、作りやすさや小回りが効く点、プロジェクトやチーム単位で気軽に改善していける点など、人気になるのはうなづけます。もちろん、MCPが全てにおいて劣っているというわけではない...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be441ed85c1e10abf28d"
       },
       {
         "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -1662,6 +1686,30 @@
       "id": "05c1d04e24ca246be9bb"
     },
     {
+      "title": "エージェントスキルを評価する仕組みを作ってみる | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20260622a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T13:09:09+00:00",
+      "fetched_at": "2026-06-22T23:53:43+00:00",
+      "summary": "コーディングエージェントの様々なツール横断で使えるハーネスといえば、skillsという雰囲気になってきました。AGENTS.mdやMCPもありますが、作りやすさや小回りが効く点、プロジェクトやチーム単位で気軽に改善していける点など、人気になるのはうなづけます。もちろん、MCPが全てにおいて劣っているというわけではない...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be441ed85c1e10abf28d"
+    },
+    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI News RSS",
@@ -2779,70 +2827,38 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-22T23:23:14+00:00",
-      "fetched_at": "2026-06-22T23:22:58+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "edaa945685b5a724ffff"
-    },
-    {
-      "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
-      "url": "https://zenn.dev/xin9le/articles/1340941f739745",
+      "title": "エージェントスキルを評価する仕組みを作ってみる | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20260622a/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-22T12:23:51+00:00",
-      "fetched_at": "2026-06-22T23:22:58+00:00",
-      "summary": "背景 先日 超dotnet new に参加した際、@mayuki 先生から「安全に自宅 Web サーバー建てるなら Cloudflare Tunnel が便利」と教えてもらいました。 我が家には Tailscale VPN サーバー用の Raspberry Pi があるし、それを Web サーバーとしても活用するのはアリだなーと思ってやってみました。mayuki 先生は Coolify も...",
+      "published_at": "2026-06-22T13:09:09+00:00",
+      "fetched_at": "2026-06-22T23:53:43+00:00",
+      "summary": "コーディングエージェントの様々なツール横断で使えるハーネスといえば、skillsという雰囲気になってきました。AGENTS.mdやMCPもありますが、作りやすさや小回りが効く点、プロジェクトやチーム単位で気軽に改善していける点など、人気になるのはうなづけます。もちろん、MCPが全てにおいて劣っているというわけではない...",
       "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ec048fdf3acd76bd838d"
+      "id": "be441ed85c1e10abf28d"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7efe60a83810>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
