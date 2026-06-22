@@ -90,6 +90,51 @@
     "id": "f66b531353b507fa10bb"
   },
   {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T10:00:00+00:00",
+    "fetched_at": "2026-06-22T17:53:28+00:00",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "matched_keywords": [
+      "OpenAI",
+      "Security",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "3aad61bc1de2e8592d29"
+  },
+  {
     "title": "chopratejas/headroom",
     "url": "https://github.com/chopratejas/headroom",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -209,6 +254,28 @@
       "LOW"
     ],
     "id": "05c1d04e24ca246be9bb"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T10:00:00+00:00",
+    "fetched_at": "2026-06-22T17:53:28+00:00",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "matched_keywords": [
+      "AI/KI",
+      "Open Source",
+      "OpenAI"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Open Source (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8129c1fe9ac2c35d3447"
   },
   {
     "title": "Chia Der Jiun: Reform and cooperation in global financial governance",
@@ -696,6 +763,27 @@
     "id": "d40d87613f1acc62c97f"
   },
   {
+    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+    "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-22T17:20:31+00:00",
+    "fetched_at": "2026-06-22T17:53:28+00:00",
+    "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "34283ef90f32f519000c"
+  },
+  {
     "title": "Gabriel Makhlouf: Monetary policy and the economic outlook",
     "url": "https://www.bis.org/review/r260622f.htm",
     "source": "BIS Central Bankers Speeches",
@@ -878,6 +966,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "383918453578d8e62623"
+  },
+  {
+    "title": "New features and Claude as agent provider preview in JetBrains IDEs",
+    "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-22T15:34:00+00:00",
+    "fetched_at": "2026-06-22T17:53:28+00:00",
+    "summary": "This update adds support for organization and enterprise agents from GitHub, lets you queue and steer messages in Copilot CLI sessions, introduces a new agent debug logs summary view, and… The post New features and Claude as agent provider preview in JetBrains IDEs appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d000f67ca7944ae6a2ff"
   },
   {
     "title": "Chinese universities are cutting language majors to make way for AI",
