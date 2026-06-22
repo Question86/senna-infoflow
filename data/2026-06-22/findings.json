@@ -42,6 +42,89 @@
     "id": "fa3c66ec00375911ab38"
   },
   {
+    "title": "The AI divide in the Philippines began long before AI",
+    "url": "https://e27.co/the-ai-divide-in-the-philippines-began-long-before-ai-20260615/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T01:30:01+00:00",
+    "fetched_at": "2026-06-22T01:32:05+00:00",
+    "summary": "Picture a ten-year-old in a public elementary school somewhere in the Philippines. Her classroom holds more children than it was built for. She has sat through four years of lessons. And if she is typical of her cohort, she cannot read a short, age-appropriate paragraph and tell you what it means. That is not a […] The post The AI divide in the Philippines began long before AI appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c675a3aea3dc420b8ec"
+  },
+  {
+    "title": "Funded: The VC liked you, that’s not the same as yes",
+    "url": "https://e27.co/funded-the-vc-liked-you-thats-not-the-same-as-yes-20260619/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T01:00:56+00:00",
+    "fetched_at": "2026-06-22T01:32:05+00:00",
+    "summary": "I’ve sat on both sides of that table. The founder walks out thinking it went well. The VC was engaged, asked good questions, and said, “Really interesting space.” Nobody said no. The founder goes home and starts thinking about term sheets. The VC closes their laptop and moves to the next meeting. They’re not being […] The post Funded: The VC liked you, that’s not the same as yes appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "57b707ddd424df9291fa"
+  },
+  {
+    "title": "松本大臣記者会見（令和8年6月22日）動画を掲載しました",
+    "url": "https://www.digital.go.jp/speech/minister-260622-01",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T00:46:04+00:00",
+    "fetched_at": "2026-06-22T01:32:05+00:00",
+    "summary": "松本大臣記者会見（令和8年6月22日）動画を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "383918453578d8e62623"
+  },
+  {
+    "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T22:45:35+00:00",
+    "fetched_at": "2026-06-22T01:32:05+00:00",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "070021313b9dc4c784ff"
+  },
+  {
     "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK",
     "url": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
     "source": "Hatena Bookmark Hotentry IT",
