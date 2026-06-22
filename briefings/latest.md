@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T06:03:20+00:00_
+_Generiert: 2026-06-22T08:26:08+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-22T03:57:20+00:00`, fetched `2026-06-22T03:57:06+00:00`
+  - Zeit: published `2026-06-22T08:25:57+00:00`, fetched `2026-06-22T08:25:42+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Southeast Asia’s AI scene is sprinting ahead, and Thailand is quietly becoming its laboratory. From generative spatial design and energy‑saving AIoT to sovereign Thai language models and an “AI nose” that tastes food, a new wave of startups is turning local problems into global products. This list rounds up 15 homegrown companies that typify the […] The post 15 Thai AI companies betting on products, not hype appeare…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The AI divide in the Philippines began long before AI** — Score 10, observation — [Quelle](https://e27.co/the-ai-divide-in-the-philippines-began-long-before-ai-20260615/)
+- **From support inbox to signal feed: Inside the AI workflow that won at Echelon Singapore 2026** — Score 10, observation — [Quelle](https://e27.co/from-support-inbox-to-signal-feed-inside-the-ai-workflow-that-won-at-echelon-singapore-2026-20260622/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-22T01:30:01+00:00`, fetched `2026-06-22T01:32:05+00:00`
+  - Zeit: published `2026-06-22T06:58:14+00:00`, fetched `2026-06-22T08:25:42+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: Picture a ten-year-old in a public elementary school somewhere in the Philippines. Her classroom holds more children than it was built for. She has sat through four years of lessons. And if she is typical of her cohort, she cannot read a short, age-appropriate paragraph and tell you what it means. That is not a […] The post The AI divide in the Philippines began long before AI appeared first on e27 .
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: A customer support inbox usually looks like a backlog: questions to answer, complaints to resolve, and product details to clarify before the next message arrives. For Aaryan Kandiah, it looked like something else: a live stream of business signals. That shift helped him win the AI Workflow Competition at Echelon Singapore 2026 with SignalDesk. A recent Nanyang Technological University graduate […] The post From supp…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ZhuLinsen/daily_stock_analysis** — Score 8, observation — [Quelle](https://github.com/ZhuLinsen/daily_stock_analysis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -132,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年6月22日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/22/news041.html)
+- **東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2118830.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-21T22:45:35+00:00`, fetched `2026-06-22T01:32:05+00:00`
+  - Zeit: published `2026-06-22T04:06:49+00:00`, fetched `2026-06-22T08:25:42+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
+  - Kurz: 東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

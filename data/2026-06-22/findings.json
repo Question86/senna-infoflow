@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-22T03:57:20+00:00",
-    "fetched_at": "2026-06-22T03:57:06+00:00",
+    "published_at": "2026-06-22T08:25:57+00:00",
+    "fetched_at": "2026-06-22T08:25:42+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "58d2a92fec191069d26f"
+    "id": "64b51829fda1d76be33a"
   },
   {
     "title": "chopratejas/headroom",
@@ -251,6 +251,27 @@
     "id": "865a5a6f1e259f4a2450"
   },
   {
+    "title": "From support inbox to signal feed: Inside the AI workflow that won at Echelon Singapore 2026",
+    "url": "https://e27.co/from-support-inbox-to-signal-feed-inside-the-ai-workflow-that-won-at-echelon-singapore-2026-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-22T06:58:14+00:00",
+    "fetched_at": "2026-06-22T08:25:42+00:00",
+    "summary": "A customer support inbox usually looks like a backlog: questions to answer, complaints to resolve, and product details to clarify before the next message arrives. For Aaryan Kandiah, it looked like something else: a live stream of business signals. That shift helped him win the AI Workflow Competition at Echelon Singapore 2026 with SignalDesk. A recent Nanyang Technological University graduate […] The post From supp…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b66b8d13195b7c899a4a"
+  },
+  {
     "title": "The AI divide in the Philippines began long before AI",
     "url": "https://e27.co/the-ai-divide-in-the-philippines-began-long-before-ai-20260615/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -435,6 +456,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "383918453578d8e62623"
+  },
+  {
+    "title": "東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2118830.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T04:06:49+00:00",
+    "fetched_at": "2026-06-22T08:25:42+00:00",
+    "summary": "東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9512c02673e7488ea0b5"
   },
   {
     "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
