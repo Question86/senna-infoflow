@@ -682,6 +682,42 @@
     "id": "0c675a3aea3dc420b8ec"
   },
   {
+    "title": "M 4.8 - 276 km SSW of ‘Ohonua, Tonga",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7h1",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-22T21:00:30.040+00:00",
+    "fetched_at": "2026-06-22T21:17:56+00:00",
+    "summary": "Time 2026-06-22 20:41:16 UTC 2026-06-22 20:41:16 UTC at epicenter Location 23.758°S 175.648°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "bbeb859cebe477006098"
+  },
+  {
     "title": "M 5.1 - Kermadec Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1123,6 +1159,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8fc54ea435a4e93e7aa4"
+  },
+  {
+    "title": "新試験制度のサンプル問題について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
+    "url": "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260622.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-22T07:20:58+00:00",
+    "fetched_at": "2026-06-22T21:17:56+00:00",
+    "summary": "2027年度から開始を予定する新試験制度における各試験区分のサンプル問題を掲載しています。 公開準備が整ったものから順次このページに掲載し、2026年度夏頃を目途に一通り公表する予定です。 サンプル問題 各試験区分における、新たな出題分野、出題形式のサンプル問題を掲載します。 なお、本サンプル問題は、新たな...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a3f7dfd2b73420c88a03"
   },
   {
     "title": "東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】",
