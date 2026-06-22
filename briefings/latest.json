@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T14:34:57+00:00",
-  "run_id": "2026-06-22T14:34:57+00:00",
+  "generated_at": "2026-06-22T16:14:58+00:00",
+  "run_id": "2026-06-22T16:14:58+00:00",
   "date": "2026-06-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 5,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -746,6 +746,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "08ac2db8043b6d5106c3"
+      },
+      {
+        "title": "見やすい手順書を書くノウハウ集 - カミナシ エンジニアブログ",
+        "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/22/120000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-22T03:31:57+00:00",
+        "fetched_at": "2026-06-22T16:14:31+00:00",
+        "summary": "コーポレートエンジニアの@sion_cojpです。 コーポレートエンジニアをやってると、コード化できないものも多く、その場合は手順書を残す必要があります。 手順書は 「作業者が、上からなぞって実施していけば誰でも同じ作業になる」ために、見やすく書くノウハウをこの記事では紹介します。 1. 全体の文字数・1文の文字...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9023f628fea01e341454"
       },
       {
         "title": "あなたの字に異変？ 200万字を7万字へ、行政の「文字」統一が始まった",
@@ -1754,6 +1776,28 @@
       "id": "08ac2db8043b6d5106c3"
     },
     {
+      "title": "見やすい手順書を書くノウハウ集 - カミナシ エンジニアブログ",
+      "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/22/120000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T03:31:57+00:00",
+      "fetched_at": "2026-06-22T16:14:31+00:00",
+      "summary": "コーポレートエンジニアの@sion_cojpです。 コーポレートエンジニアをやってると、コード化できないものも多く、その場合は手順書を残す必要があります。 手順書は 「作業者が、上からなぞって実施していけば誰でも同じ作業になる」ために、見やすく書くノウハウをこの記事では紹介します。 1. 全体の文字数・1文の文字...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9023f628fea01e341454"
+    },
+    {
       "title": "あなたの字に異変？ 200万字を7万字へ、行政の「文字」統一が始まった",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061800001/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2043,259 +2087,26 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAIも注目、非エンジニア農家がCodexで進める「農業のDX」。ハウス自動化から翻訳LINE Botまで | Business Insider Japan",
-      "url": "https://www.businessinsider.jp/article/2606-openai-codex-farm-automation/",
+      "title": "見やすい手順書を書くノウハウ集 - カミナシ エンジニアブログ",
+      "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/22/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-22T08:47:02+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "従来までは現地に足を運び、温度計を見ながら手動で窓を開け閉めするしかなかった。だが、ハウスが複数棟あると、スタッフが歩き回って手動で対応する負担は大きい。 グループLINEに「温度」と入力したところ、センサーが設置されているビニールハウスの室温が表示された。撮影：小林優多郎冨安さんはスマート温度計「Sw...",
+      "published_at": "2026-06-22T03:31:57+00:00",
+      "fetched_at": "2026-06-22T16:14:31+00:00",
+      "summary": "コーポレートエンジニアの@sion_cojpです。 コーポレートエンジニアをやってると、コード化できないものも多く、その場合は手順書を残す必要があります。 手順書は 「作業者が、上からなぞって実施していけば誰でも同じ作業になる」ために、見やすく書くノウハウをこの記事では紹介します。 1. 全体の文字数・1文の文字...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Automatisierung",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+7.5); Automatisierung (+4.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "f66b531353b507fa10bb"
-    },
-    {
-      "title": "Chia Der Jiun: Reform and cooperation in global financial governance",
-      "url": "https://www.bis.org/review/r260622e.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-06-22T12:13:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Opening remarks by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Lujiazui Forum Plenary Session II \"Reform and cooperation in global financial governance\", Shanghai, 17 June 2026.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Shanghai (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba5d634b95773ee98c80"
-    },
-    {
-      "title": "Waller, Welcoming Remarks on the International Role of the U.S. Dollar",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-06-22T13:00:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C.",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b1b606c78b804208e15f"
-    },
-    {
-      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-06-22T13:00:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: parliament"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "4cc6685d5975716073ef"
-    },
-    {
-      "title": "Joachim Nagel: New forms of money and the transmission of monetary policy",
-      "url": "https://www.bis.org/review/r260622h.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-06-22T12:45:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Welcome remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the International Conference on Payments and Securities Settlement, hosted by the Deutsche Bundesbank and the Bank of Canada, Eltville am Rhein, 18 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Bank of Canada (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "095a06b9bd5e330e4136"
-    },
-    {
-      "title": "Christine Lagarde: Money in transition",
-      "url": "https://www.bis.org/review/r260622g.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-06-22T12:33:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Opening speech by Ms Christine Lagarde, President of the European Central Bank, at the ECB conference on \"Money in transition: digitalisation and innovation in payments\", Frankfurt am Main, 15 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed00e4d7e76c525830ad"
-    },
-    {
-      "title": "Emmanuel Moulin: From innovation to monetary sovereignty - striking the right note",
-      "url": "https://www.bis.org/review/r260622j.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-06-22T13:05:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at VivaTech, Paris, 19 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "69943fd864e17c898f6e"
-    },
-    {
-      "title": "AIのモデル崩壊と多様性 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-      "url": "https://joisino.hatenablog.com/entry/collapse",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-22T10:28:44+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "モデル崩壊 (model collapse) とは、AI が出力したテキストや画像がインターネットにアップロードされ、それらが AI の訓練データに混入し、そのデータで訓練された AI が出力したものがアップロードされる、というサイクルを繰り返すことで AI の性能が崩壊することです。最も有名な研究は Nature に採択された AI mode...",
-      "matched_keywords": [
-        "AI/KI",
+        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7f44bb61dfdc7f762832"
-    },
-    {
-      "title": "Gabriel Makhlouf: Monetary policy and the economic outlook",
-      "url": "https://www.bis.org/review/r260622f.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-06-22T12:27:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the European Chamber of Ireland, Dublin, 16 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
       "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "08ac2db8043b6d5106c3"
-    },
-    {
-      "title": "Ida Wolden Bache: Policy rate kept unchanged at this meeting",
-      "url": "https://www.bis.org/review/r260622i.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-06-22T12:59:00+00:00",
-      "fetched_at": "2026-06-22T14:34:29+00:00",
-      "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 18 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d784be18bab6e31d65f"
+      "id": "9023f628fea01e341454"
     }
   ],
   "source_errors": [],
