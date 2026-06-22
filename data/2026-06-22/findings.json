@@ -494,6 +494,86 @@
     "id": "865a5a6f1e259f4a2450"
   },
   {
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-22T00:00:00+00:00",
+    "fetched_at": "2026-06-22T19:04:49+00:00",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "matched_keywords": [
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "40fa87f80c818ee7354f"
+  },
+  {
+    "title": "M 4.9 - Mid-Indian Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-22T18:52:31.040+00:00",
+    "fetched_at": "2026-06-22T19:04:49+00:00",
+    "summary": "Time 2026-06-22 18:32:46 UTC 2026-06-22 18:32:46 UTC at epicenter Location 33.247°S 77.995°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5b34b161674b3eb263bf"
+  },
+  {
     "title": "鼎新數智｜EasyFlow .NET - 存在2個漏洞",
     "url": "https://www.twcert.org.tw/tw/cp-132-10980-0e640-1.html",
     "source": "TWCERT/CC TVN Vulnerability Notes RSS",

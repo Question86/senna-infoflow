@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T17:53:54+00:00_
+_Generiert: 2026-06-22T19:05:19+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Southeast Asia’s AI scene is sprinting ahead, and Thailand is quietly becoming its laboratory. From generative spatial design and energy‑saving AIoT to sovereign Thai language models and an “AI nose” that tastes food, a new wave of startups is turning local problems into global products. This list rounds up 15 homegrown companies that typify the […] The post 15 Thai AI companies betting on products, not hype appeare…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Codex-maxxing for long-running work** — Score 12, observation — [Quelle](https://openai.com/index/codex-maxxing-long-running-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-22T00:00:00+00:00`, fetched `2026-06-22T19:04:49+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-22T18:52:31.040+00:00`, fetched `2026-06-22T19:04:49+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-22 18:32:46 UTC 2026-06-22 18:32:46 UTC at epicenter Location 33.247°S 77.995°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **鼎新數智｜EasyFlow .NET - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-10980-0e640-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-06-22T07:17:00+00:00`, fetched `2026-06-22T10:27:18+00:00`
@@ -195,24 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: モデル崩壊 (model collapse) とは、AI が出力したテキストや画像がインターネットにアップロードされ、それらが AI の訓練データに混入し、そのデータで訓練された AI が出力したものがアップロードされる、というサイクルを繰り返すことで AI の性能が崩壊することです。最も有名な研究は Nature に採択された AI mode...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ZhuLinsen/daily_stock_analysis** — Score 8, observation — [Quelle](https://github.com/ZhuLinsen/daily_stock_analysis)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-22T02:30:50+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. 📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 | English | 繁體中文 💖 赞助商 (Sponsors) 🖥️ 产品预览 ✨ 功能特性 能力 覆盖内容…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From pledge to practice: Building a more inclusive open source ecosystem** — Score 7, opportunity — [Quelle](https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-22T17:20:31+00:00`, fetched `2026-06-22T17:53:28+00:00`
-  - Treffer: GitHub, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.8); GitHub (+2.0); recent (+1.0)
-  - Kurz: Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
