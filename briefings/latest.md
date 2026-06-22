@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-22T10:27:46+00:00_
+_Generiert: 2026-06-22T12:35:48+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-22T08:25:57+00:00`, fetched `2026-06-22T08:25:42+00:00`
+  - Zeit: published `2026-06-22T12:35:36+00:00`, fetched `2026-06-22T12:35:19+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The art of AI integration: Growing your business with chatbots and human expertise** — Score 13, observation — [Quelle](https://e27.co/the-art-of-ai-integration-growing-your-business-with-chatbots-and-human-expertise-20240509/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-22T11:00:51+00:00`, fetched `2026-06-22T12:35:19+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Singapore is working towards becoming a leader in artificial intelligence (AI), ranking among the top ten countries for AI startups and investments according to sources like Visual Capitalist and Techopedia. The rise of AI, particularly through AI chatbots, is making a big impact in Singapore and the world at large. These technologies are not just […] The post The art of AI integration: Growing your business with ch…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bitcoin at US$63,386: The geopolitical storm Wall Street missed** — Score 13, observation — [Quelle](https://e27.co/bitcoin-at-us63386-the-geopolitical-storm-wall-street-missed-20260622/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-22T04:02:05+00:00`, fetched `2026-06-22T06:02:55+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 鼎新數智｜EasyFlow .NET - 存在2個漏洞
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **What nine AI workflow submissions reveal about Echelon Singapore’s builder pipeline** — Score 10, observation — [Quelle](https://e27.co/what-nine-ai-workflow-submissions-reveal-about-echelon-singapores-builder-pipeline-20260622/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-22T09:26:27+00:00`, fetched `2026-06-22T10:27:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: The useful test of an AI competition is whether it can repeatedly turn broad interest into specific, inspectable builder output. That is the most important signal from the AI Workflow Competition at Echelon Singapore 2026. Nine other entries reviewed by e27 showed builders working through the harder middle ground of AI adoption: messy inputs, scattered knowledge, human […] The post What nine AI workflow submissions…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sakana Fugu — Multi-agent System as A Model** — Score 10, observation — [Quelle](https://sakana.ai/fugu/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-22T02:48:55+00:00`, fetched `2026-06-22T10:27:18+00:00`
