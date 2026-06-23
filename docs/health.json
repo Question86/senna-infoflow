@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-06-23T19:05:14+00:00",
-  "status": "warning",
+  "generated_at": "2026-06-23T19:49:39+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 56,
     "displayed_findings": 56,
     "high": 0,
     "medium": 18,
     "observe": 38,
-    "source_errors": 1
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "heise_security_atom",
-      "source_name": "heise Security Alerts",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.heise.de', port=443): Max retries exceeded with url: /security/rss/alert-news-atom.xml (Caused by NewConnectionError(\"HTTPSConnection(host='www.heise.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

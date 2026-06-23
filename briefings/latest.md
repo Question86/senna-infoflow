@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T19:05:14+00:00_
+_Generiert: 2026-06-23T19:49:39+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+56 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -287,7 +287,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `heise_security_atom` (rss): HTTPSConnectionPool(host='www.heise.de', port=443): Max retries exceeded with url: /security/rss/alert-news-atom.xml (Caused by NewConnectionError("HTTPSConnection(host='www.heise.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
