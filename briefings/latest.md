@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T07:57:53+00:00_
+_Generiert: 2026-06-23T09:22:22+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan** — Score 12, observation — [Quelle](https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T08:08:48+00:00`, fetched `2026-06-23T09:21:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: H3 Zoom, a Singapore‑based deeptech startup building AI‑driven inspection and asset‑intelligence software, has closed an oversubscribed Series A round of US$3.6 million. The financing was led by JRE Ventures, the corporate venture arm of Japan’s East Japan Railway Company, with participation from SGInnovate, M7 Holdings, Moringa Ventures, and Lotus One Investment, besides an AngelCentral member […] The post From faç…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました** — Score 12, observation — [Quelle](https://www.digital.go.jp/news/038b936a-c9f5-468a-8914-eccdd5011125)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-23T05:59:55+00:00`, fetched `2026-06-23T06:35:23+00:00`
@@ -122,6 +131,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism** — Score 10, observation — [Quelle](https://e27.co/tribe-academy-ai-bilingualism-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T07:59:45+00:00`, fetched `2026-06-23T09:21:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore has set an ambitious target: 100,000 “AI-bilingual” workers by 2029. The goal signals a broader reckoning with how AI is reshaping the professional workforce — not merely as a productivity tool, but as a capability that demands a new kind of literacy. Yet as training programmes multiply and certification frameworks take shape, a harder […] The post Tribe Academy’s Felicia Tan: Why good prompt engineering a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How Omio is building the future of conversational travel** — Score 10, observation — [Quelle](https://openai.com/index/omio)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-23T00:00:00+00:00`, fetched `2026-06-23T09:21:55+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 174 km E of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -132,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-23 07:11:14 UTC 2026-06-23 07:11:14 UTC at epicenter Location 16.177°S 172.180°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Philip R. Lane: Introductory remarks** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-23T00:00:00+00:00`, fetched `2026-06-23T09:21:55+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Philip R. Lane: Introductory remarks
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました** — Score 7, observation — [Quelle](https://www.digital.go.jp/policies/electronic_invoice/global-activities)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
@@ -159,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
   - Kurz: There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news114.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-23T07:29:51+00:00`, fetched `2026-06-23T09:21:55+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: KDDIは6月23日、ISP事業者向けに提供しているメールシステムが不正アクセスを受けたと発表した。これにより、提供先のISP事業者が手掛けるメールサービスの情報が最大1422万件漏えいした可能性があるという。 対象サービスはSTNetの「ピカラ光サービス」、「ピカラモバイルサービス」「お仕事ピカラサービス」に関するメ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news087.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-23T03:02:58+00:00`, fetched `2026-06-23T06:35:23+00:00`
@@ -177,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **WBSという至高ツールで、このAI時代をサバイブする** — Score 5, observation — [Quelle](https://zenn.dev/piguolabo/articles/99b5b30a028f80)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-22T04:16:12+00:00`, fetched `2026-06-23T00:38:02+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: なぜ私はWBSを「至高」と呼ぶのか たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。 WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。 価値があるのは、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **jamiepine/voicebox** — Score 5, opportunity — [Quelle](https://github.com/jamiepine/voicebox)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-23T02:24:26+00:00`
@@ -203,24 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere Stirling PDF - The Open-Source PDF Platform Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. Key Capabilities Everywhere you work -…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why tracking Bitcoin ETFs matters** — Score 4, observation — [Quelle](https://e27.co/why-tracking-bitcoin-etfs-matters-20260615/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T02:30:57+00:00`, fetched `2026-06-23T03:46:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: For over a decade, Bitcoin operated in a state of splendid isolation. It was a market driven by ideological retail cohorts, erratic whales, and native crypto exchanges operating largely outside the perimeter of traditional financial clearing systems. The introduction of spot Bitcoin Exchange-Traded Funds (ETFs) fundamentally altered this architecture, building a permanent bridge between Wall […] The post Why trackin…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy** — Score 4, observation — [Quelle](https://e27.co/you-are-not-your-goals-the-eisenhower-matrix-and-maslows-hierarchy-20260615/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T02:00:44+00:00`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Goals are the mechanism by which we assert our agency. They are how we declare that one future state is preferable to another. At the end of my last article, we arrived at an uncomfortable question: Would life be meaningless without goals? If we stripped away the reading targets, the fitness metrics, the career milestones, […] The post You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
