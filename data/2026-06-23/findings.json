@@ -671,6 +671,42 @@
     "id": "d8cd04de0e249cb01fc7"
   },
   {
+    "title": "M 5.2 - 265 km SSE of Dunhuang, China",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-23T15:48:53.040+00:00",
+    "fetched_at": "2026-06-23T15:52:21+00:00",
+    "summary": "Time 2026-06-23 15:29:02 UTC 2026-06-23 15:29:02 UTC at epicenter Location 37.821°N 95.298°E Depth 8.10 km (5.03 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5687d4d491bf4774df11"
+  },
+  {
     "title": "Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism",
     "url": "https://e27.co/tribe-academy-ai-bilingualism-20260623/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -969,6 +1005,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "23d3aac11729f0d4f35b"
+  },
+  {
+    "title": "“地上のあなた” 余命10か月の女性とAIの最期の対話記録 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/na-k10015155721000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T10:41:29+00:00",
+    "fetched_at": "2026-06-23T15:52:21+00:00",
+    "summary": "「地上のあなた 泣き言を言うつもりはなかったけど、起き上がれない。 自分の終わりは覚悟しているけどやろうと思っていることができないことが辛い。 涙が止まらない」 末期のがん患者の女性が語りかけている…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8cd45d05bf808761200c"
   },
   {
     "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
