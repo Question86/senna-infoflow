@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T12:45:46+00:00",
-  "run_id": "2026-06-23T12:45:46+00:00",
+  "generated_at": "2026-06-23T13:45:55+00:00",
+  "run_id": "2026-06-23T13:45:55+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,59 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 3,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
     "medium": 17,
-    "observe": 22,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-23T13:45:44+00:00",
+        "fetched_at": "2026-06-23T13:45:30+00:00",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "General Santos",
+          "Glan",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "299200fc78b2041dae1a"
+      },
       {
         "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
         "url": "https://e27.co/ecosystem-roundup-the-agentic-commerce-trust-gap-no-one-wants-to-fix-20260623/",
@@ -122,48 +164,6 @@
           "PINS"
         ],
         "id": "2de0c3faf98a8e773c34"
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "source_type": "webpage_check",
-        "published_at": "2026-06-23T01:26:24+00:00",
-        "fetched_at": "2026-06-23T02:24:26+00:00",
-        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-        "matched_keywords": [
-          "APAC Trend Radar",
-          "Climate/Disaster Infrastructure",
-          "General Santos",
-          "Glan",
-          "recovery",
-          "relief",
-          "Sarangani",
-          "Watchgraph:earthquakes_tsunami"
-        ],
-        "relevance_score": 23,
-        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [
-          "earthquakes_tsunami"
-        ],
-        "watchgraph_reasons": [
-          "earthquakes_tsunami: earthquake"
-        ],
-        "market_context": [
-          "MUV2.DE",
-          "SREN.SW",
-          "RNR",
-          "WRB",
-          "CAT",
-          "VMC",
-          "MLM",
-          "HOLN.SW",
-          "HD",
-          "LOW"
-        ],
-        "id": "243246db48b4d6f2e654"
       },
       {
         "title": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -780,6 +780,48 @@
         "id": "dcc517d318101b4a78d5"
       },
       {
+        "title": "Tokenised assets have moved on-chain. The liquidity has not followed",
+        "url": "https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-23T13:00:17+00:00",
+        "fetched_at": "2026-06-23T13:45:30+00:00",
+        "summary": "A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "ef51ad246dbd0c619c96"
+      },
+      {
         "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
         "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1114,10 +1156,73 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "af69a159d524c6e59464"
+      },
+      {
+        "title": "世界一流エンジニアがAI後に共通してやっている一つの事｜牛尾 剛",
+        "url": "https://note.com/simplearchitect/n/n25ffaadb6cf2",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-21T01:33:36+00:00",
+        "fetched_at": "2026-06-23T13:45:30+00:00",
+        "summary": "昨日編集の山本さんに、「世界一流のエンジニアの人がAI後にどのようにやってるか知りたいです」と言われたので、いろいろ思い出して考えてみて、「ああああああああ、一つあるやん！」って気づいたのでブログを書きます。 私は、アメリカのシアトルで超大手のクラウド開発チームでエンジニアとして働いています。サーバ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c23d57f43981bc5cecf7"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-23T13:45:44+00:00",
+      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "299200fc78b2041dae1a"
+    },
     {
       "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
       "url": "https://e27.co/ecosystem-roundup-the-agentic-commerce-trust-gap-no-one-wants-to-fix-20260623/",
@@ -1211,48 +1316,6 @@
         "PINS"
       ],
       "id": "2de0c3faf98a8e773c34"
-    },
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-23T01:26:24+00:00",
-      "fetched_at": "2026-06-23T02:24:26+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "243246db48b4d6f2e654"
     },
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -1867,6 +1930,48 @@
       "id": "dcc517d318101b4a78d5"
     },
     {
+      "title": "Tokenised assets have moved on-chain. The liquidity has not followed",
+      "url": "https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T13:00:17+00:00",
+      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "summary": "A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "ef51ad246dbd0c619c96"
+    },
+    {
       "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
       "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2201,24 +2306,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "af69a159d524c6e59464"
+    },
+    {
+      "title": "世界一流エンジニアがAI後に共通してやっている一つの事｜牛尾 剛",
+      "url": "https://note.com/simplearchitect/n/n25ffaadb6cf2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-21T01:33:36+00:00",
+      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "summary": "昨日編集の山本さんに、「世界一流のエンジニアの人がAI後にどのようにやってるか知りたいです」と言われたので、いろいろ思い出して考えてみて、「ああああああああ、一つあるやん！」って気づいたのでブログを書きます。 私は、アメリカのシアトルで超大手のクラウド開発チームでエンジニアとして働いています。サーバ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c23d57f43981bc5cecf7"
     }
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 114 km NE of Tobelo, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ks",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-23T12:32:51.040+00:00",
-      "fetched_at": "2026-06-23T12:45:20+00:00",
-      "summary": "Time 2026-06-23 12:13:24 UTC 2026-06-23 12:13:24 UTC at epicenter Location 2.542°N 128.641°E Depth 241.10 km (149.81 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-23T13:45:44+00:00",
+      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2239,7 +2370,70 @@
         "HD",
         "LOW"
       ],
-      "id": "c68b42216836e375cd47"
+      "id": "299200fc78b2041dae1a"
+    },
+    {
+      "title": "Tokenised assets have moved on-chain. The liquidity has not followed",
+      "url": "https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T13:00:17+00:00",
+      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "summary": "A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "ef51ad246dbd0c619c96"
+    },
+    {
+      "title": "世界一流エンジニアがAI後に共通してやっている一つの事｜牛尾 剛",
+      "url": "https://note.com/simplearchitect/n/n25ffaadb6cf2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-21T01:33:36+00:00",
+      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "summary": "昨日編集の山本さんに、「世界一流のエンジニアの人がAI後にどのようにやってるか知りたいです」と言われたので、いろいろ思い出して考えてみて、「ああああああああ、一つあるやん！」って気づいたのでブログを書きます。 私は、アメリカのシアトルで超大手のクラウド開発チームでエンジニアとして働いています。サーバ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c23d57f43981bc5cecf7"
     }
   ],
   "source_errors": [],

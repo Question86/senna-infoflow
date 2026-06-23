@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T12:45:46+00:00_
+_Generiert: 2026-06-23T13:45:55+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+41 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-06-23T13:45:44+00:00`, fetched `2026-06-23T13:45:30+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Ecosystem Roundup: The agentic commerce trust gap no one wants to fix** — Score 23, opportunity — [Quelle](https://e27.co/ecosystem-roundup-the-agentic-commerce-trust-gap-no-one-wants-to-fix-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T06:29:49+00:00`, fetched `2026-06-23T06:35:23+00:00`
@@ -30,15 +39,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The infrastructure race for agentic commerce has a well-documented cast of characters. OpenAI, Stripe, Google, and Visa are all competing to build the rails that allow AI agents to spend money autonomously. However, what almost nobody is building is the layer that decides whether those agents should, and whether the data driving those decisions can […] The post Agentic commerce’s dirty secret: the data powering AI p…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-23T01:26:24+00:00`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **mukul975/Anthropic-Cybersecurity-Skills** — Score 23, mixed — [Quelle](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-23T02:24:26+00:00`
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Philip R. Lane: Introductory remarks
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Tokenised assets have moved on-chain. The liquidity has not followed** — Score 7, observation — [Quelle](https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T13:00:17+00:00`, fetched `2026-06-23T13:45:30+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定** — Score 7, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news109.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-23T07:31:14+00:00`, fetched `2026-06-23T11:46:06+00:00`
@@ -222,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **You don’t need more funding for social impact, you need a common language** — Score 6, opportunity — [Quelle](https://e27.co/you-dont-need-more-funding-for-social-impact-you-need-a-common-language-20260619/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T02:05:33+00:00`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: APAC Trend Radar, funding
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
-  - Kurz: There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/na-k10015157301000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-23T08:19:27+00:00`, fetched `2026-06-23T10:40:11+00:00`
@@ -270,8 +270,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
