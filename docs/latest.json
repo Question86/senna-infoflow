@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T03:46:31+00:00",
-  "run_id": "2026-06-23T03:46:31+00:00",
+  "generated_at": "2026-06-23T05:14:12+00:00",
+  "run_id": "2026-06-23T05:14:12+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,64 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 3,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 10,
+    "medium": 13,
     "observe": 7,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Agentic commerce’s dirty secret: the data powering AI purchases is often wrong",
+        "url": "https://e27.co/agentic-commerces-dirty-secret-the-data-powering-ai-purchases-is-often-wrong-20260623/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-23T05:02:01+00:00",
+        "fetched_at": "2026-06-23T05:13:47+00:00",
+        "summary": "The infrastructure race for agentic commerce has a well-documented cast of characters. OpenAI, Stripe, Google, and Visa are all competing to build the rails that allow AI agents to spend money autonomously. However, what almost nobody is building is the layer that decides whether those agents should, and whether the data driving those decisions can […] The post Agentic commerce’s dirty secret: the data powering AI p…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "2de0c3faf98a8e773c34"
+      },
       {
         "title": "Updates | ReliefWeb",
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -258,6 +305,43 @@
         "id": "3de1b0e24f12095e1e7b"
       },
       {
+        "title": "M 4.9 - 171 km WNW of Tobelo, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-23T05:09:46.040+00:00",
+        "fetched_at": "2026-06-23T05:13:47+00:00",
+        "summary": "Time 2026-06-23 04:53:36 UTC 2026-06-23 04:53:36 UTC at epicenter Location 2.482°N 126.666°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "dc46a8f0a1d951c834e0"
+      },
+      {
         "title": "When execution is free, the brief becomes the product",
         "url": "https://e27.co/when-execution-is-free-the-brief-becomes-the-product-20260623/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -315,6 +399,28 @@
           "LOW"
         ],
         "id": "4c520b42f82917f04aac"
+      },
+      {
+        "title": "横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU96872547/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-06-23T13:00:00+09:00",
+        "fetched_at": "2026-06-23T05:13:47+00:00",
+        "summary": "横河電機製FAST/TOOLSおよびCI Serverには、重要情報の平文送信の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00b2ad2a8ae13576682f"
       },
       {
         "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
@@ -535,6 +641,53 @@
     ]
   },
   "findings": [
+    {
+      "title": "Agentic commerce’s dirty secret: the data powering AI purchases is often wrong",
+      "url": "https://e27.co/agentic-commerces-dirty-secret-the-data-powering-ai-purchases-is-often-wrong-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T05:02:01+00:00",
+      "fetched_at": "2026-06-23T05:13:47+00:00",
+      "summary": "The infrastructure race for agentic commerce has a well-documented cast of characters. OpenAI, Stripe, Google, and Visa are all competing to build the rails that allow AI agents to spend money autonomously. However, what almost nobody is building is the layer that decides whether those agents should, and whether the data driving those decisions can […] The post Agentic commerce’s dirty secret: the data powering AI p…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2de0c3faf98a8e773c34"
+    },
     {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -764,6 +917,43 @@
       "id": "3de1b0e24f12095e1e7b"
     },
     {
+      "title": "M 4.9 - 171 km WNW of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-23T05:09:46.040+00:00",
+      "fetched_at": "2026-06-23T05:13:47+00:00",
+      "summary": "Time 2026-06-23 04:53:36 UTC 2026-06-23 04:53:36 UTC at epicenter Location 2.482°N 126.666°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "dc46a8f0a1d951c834e0"
+    },
+    {
       "title": "When execution is free, the brief becomes the product",
       "url": "https://e27.co/when-execution-is-free-the-brief-becomes-the-product-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -821,6 +1011,28 @@
         "LOW"
       ],
       "id": "4c520b42f82917f04aac"
+    },
+    {
+      "title": "横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96872547/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-23T13:00:00+09:00",
+      "fetched_at": "2026-06-23T05:13:47+00:00",
+      "summary": "横河電機製FAST/TOOLSおよびCI Serverには、重要情報の平文送信の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00b2ad2a8ae13576682f"
     },
     {
       "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
@@ -1039,114 +1251,110 @@
   ],
   "new_findings": [
     {
-      "title": "The great rotation: How AI stocks are stealing billions from crypto",
-      "url": "https://e27.co/the-great-rotation-how-ai-stocks-are-stealing-billions-from-crypto-20260623/",
+      "title": "Agentic commerce’s dirty secret: the data powering AI purchases is often wrong",
+      "url": "https://e27.co/agentic-commerces-dirty-secret-the-data-powering-ai-purchases-is-often-wrong-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-23T03:34:41+00:00",
-      "fetched_at": "2026-06-23T03:46:06+00:00",
-      "summary": "Financial markets constantly test the conviction of participants who refuse to accept mainstream narratives. The global financial infrastructure currently experiences a massive rotation of capital. Traditional equity markets retreat from record highs while digital assets absorb shifting liquidity. We witness a complex interplay between geopolitical relief, central bank policies, and institutional risk appetite. Inve…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Macro/Policy",
-        "Public Health",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 21,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "2c62a80f2752e66c9b52"
-    },
-    {
-      "title": "Why Cyber Risk Ownership Is Southeast Asia’s Biggest Leadership Blind Spot",
-      "url": "https://e27.co/why-cyber-risk-ownership-is-southeast-asias-biggest-leadership-blind-spot-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-23T03:12:11+00:00",
-      "fetched_at": "2026-06-23T03:46:06+00:00",
-      "summary": "“Recognition without ownership is the problem,” says Adrian Harris, Regional Managing Director of Cybersense Solutions. “Most boards now name cybersecurity risk as a concern. But naming it is not sufficient. We need to know who’s accountable for it, who’s owning it.” It’s a distinction that should be straightforward. It isn’t. At a closed-door leadership session […] The post Why Cyber Risk Ownership Is Southeast Asi…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health",
-        "Security",
-        "Southeast Asia"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "84c1f81a4bc17ca89554"
-    },
-    {
-      "title": "When execution is free, the brief becomes the product",
-      "url": "https://e27.co/when-execution-is-free-the-brief-becomes-the-product-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-23T03:21:14+00:00",
-      "fetched_at": "2026-06-23T03:46:06+00:00",
-      "summary": "Salesforce just moved agentic marketing from pilot to pipeline. The uncomfortable part isn’t the technology — it’s what it does to how marketing strategy is valued, priced, and staffed. For most of the past decade, the marketing team was the bottleneck. Good ideas outran the organisation’s capacity to ship them; campaigns waited on production queues, […] The post When execution is free, the brief becomes the product…",
+      "published_at": "2026-06-23T05:02:01+00:00",
+      "fetched_at": "2026-06-23T05:13:47+00:00",
+      "summary": "The infrastructure race for agentic commerce has a well-documented cast of characters. OpenAI, Stripe, Google, and Visa are all competing to build the rails that allow AI agents to spend money autonomously. However, what almost nobody is building is the layer that decides whether those agents should, and whether the data driving those decisions can […] The post Agentic commerce’s dirty secret: the data powering AI p…",
       "matched_keywords": [
         "AI Agents",
+        "AI/KI",
         "APAC Trend Radar",
-        "Markets/Capital Structure"
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2fb12b953e7c1c326ad5"
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2de0c3faf98a8e773c34"
     },
     {
-      "title": "Why tracking Bitcoin ETFs matters",
-      "url": "https://e27.co/why-tracking-bitcoin-etfs-matters-20260615/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.9 - 171 km WNW of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-23T02:30:57+00:00",
-      "fetched_at": "2026-06-23T03:46:06+00:00",
-      "summary": "For over a decade, Bitcoin operated in a state of splendid isolation. It was a market driven by ideological retail cohorts, erratic whales, and native crypto exchanges operating largely outside the perimeter of traditional financial clearing systems. The introduction of spot Bitcoin Exchange-Traded Funds (ETFs) fundamentally altered this architecture, building a permanent bridge between Wall […] The post Why trackin…",
+      "published_at": "2026-06-23T05:09:46.040+00:00",
+      "fetched_at": "2026-06-23T05:13:47+00:00",
+      "summary": "Time 2026-06-23 04:53:36 UTC 2026-06-23 04:53:36 UTC at epicenter Location 2.482°N 126.666°E Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "dc46a8f0a1d951c834e0"
+    },
+    {
+      "title": "横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96872547/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-23T13:00:00+09:00",
+      "fetched_at": "2026-06-23T05:13:47+00:00",
+      "summary": "横河電機製FAST/TOOLSおよびCI Serverには、重要情報の平文送信の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4b3384efe8870260053e"
+      "id": "00b2ad2a8ae13576682f"
     }
   ],
   "source_errors": [],
