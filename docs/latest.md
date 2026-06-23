@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T02:24:53+00:00_
+_Generiert: 2026-06-23T03:46:31+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 produc…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **The great rotation: How AI stocks are stealing billions from crypto** — Score 21, observation — [Quelle](https://e27.co/the-great-rotation-how-ai-stocks-are-stealing-billions-from-crypto-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T03:34:41+00:00`, fetched `2026-06-23T03:46:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy, Public Health, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Financial markets constantly test the conviction of participants who refuse to accept mainstream narratives. The global financial infrastructure currently experiences a massive rotation of capital. Traditional equity markets retreat from record highs while digital assets absorb shifting liquidity. We witness a complex interplay between geopolitical relief, central bank policies, and institutional risk appetite. Inve…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Cyber Risk Ownership Is Southeast Asia’s Biggest Leadership Blind Spot** — Score 18, observation — [Quelle](https://e27.co/why-cyber-risk-ownership-is-southeast-asias-biggest-leadership-blind-spot-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T03:12:11+00:00`, fetched `2026-06-23T03:46:06+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Security, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: “Recognition without ownership is the problem,” says Adrian Harris, Regional Managing Director of Cybersense Solutions. “Most boards now name cybersecurity risk as a concern. But naming it is not sufficient. We need to know who’s accountable for it, who’s owning it.” It’s a distinction that should be straightforward. It isn’t. At a closed-door leadership session […] The post Why Cyber Risk Ownership Is Southeast Asi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore’s AI opportunity is no longer about adoption, it’s about discipline** — Score 18, observation — [Quelle](https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T02:20:11+00:00`, fetched `2026-06-23T02:24:26+00:00`
@@ -122,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere Stirling PDF - The Open-Source PDF Platform Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. Key Capabilities Everywhere you work -…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why tracking Bitcoin ETFs matters** — Score 4, observation — [Quelle](https://e27.co/why-tracking-bitcoin-etfs-matters-20260615/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T02:30:57+00:00`, fetched `2026-06-23T03:46:06+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For over a decade, Bitcoin operated in a state of splendid isolation. It was a market driven by ideological retail cohorts, erratic whales, and native crypto exchanges operating largely outside the perimeter of traditional financial clearing systems. The introduction of spot Bitcoin Exchange-Traded Funds (ETFs) fundamentally altered this architecture, building a permanent bridge between Wall […] The post Why trackin…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy** — Score 4, observation — [Quelle](https://e27.co/you-are-not-your-goals-the-eisenhower-matrix-and-maslows-hierarchy-20260615/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

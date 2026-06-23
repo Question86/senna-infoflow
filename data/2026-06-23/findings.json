@@ -92,6 +92,74 @@
     "id": "d9ca6a9e36e0d48eee07"
   },
   {
+    "title": "The great rotation: How AI stocks are stealing billions from crypto",
+    "url": "https://e27.co/the-great-rotation-how-ai-stocks-are-stealing-billions-from-crypto-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-23T03:34:41+00:00",
+    "fetched_at": "2026-06-23T03:46:06+00:00",
+    "summary": "Financial markets constantly test the conviction of participants who refuse to accept mainstream narratives. The global financial infrastructure currently experiences a massive rotation of capital. Traditional equity markets retreat from record highs while digital assets absorb shifting liquidity. We witness a complex interplay between geopolitical relief, central bank policies, and institutional risk appetite. Inve…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Macro/Policy",
+      "Public Health",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 21,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "2c62a80f2752e66c9b52"
+  },
+  {
+    "title": "Why Cyber Risk Ownership Is Southeast Asia’s Biggest Leadership Blind Spot",
+    "url": "https://e27.co/why-cyber-risk-ownership-is-southeast-asias-biggest-leadership-blind-spot-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-23T03:12:11+00:00",
+    "fetched_at": "2026-06-23T03:46:06+00:00",
+    "summary": "“Recognition without ownership is the problem,” says Adrian Harris, Regional Managing Director of Cybersense Solutions. “Most boards now name cybersecurity risk as a concern. But naming it is not sufficient. We need to know who’s accountable for it, who’s owning it.” It’s a distinction that should be straightforward. It isn’t. At a closed-door leadership session […] The post Why Cyber Risk Ownership Is Southeast Asi…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Public Health",
+      "Security",
+      "Southeast Asia"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "84c1f81a4bc17ca89554"
+  },
+  {
     "title": "Singapore’s AI opportunity is no longer about adoption, it’s about discipline",
     "url": "https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -158,6 +226,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3de1b0e24f12095e1e7b"
+  },
+  {
+    "title": "When execution is free, the brief becomes the product",
+    "url": "https://e27.co/when-execution-is-free-the-brief-becomes-the-product-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-23T03:21:14+00:00",
+    "fetched_at": "2026-06-23T03:46:06+00:00",
+    "summary": "Salesforce just moved agentic marketing from pilot to pipeline. The uncomfortable part isn’t the technology — it’s what it does to how marketing strategy is valued, priced, and staffed. For most of the past decade, the marketing team was the bottleneck. Good ideas outran the organisation’s capacity to ship them; campaigns waited on production queues, […] The post When execution is free, the brief becomes the product…",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "Markets/Capital Structure"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2fb12b953e7c1c326ad5"
   },
   {
     "title": "M 5.1 - 186 km N of Fais, Micronesia",
@@ -369,6 +459,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "40e65d57b8ad6403769f"
+  },
+  {
+    "title": "Why tracking Bitcoin ETFs matters",
+    "url": "https://e27.co/why-tracking-bitcoin-etfs-matters-20260615/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-23T02:30:57+00:00",
+    "fetched_at": "2026-06-23T03:46:06+00:00",
+    "summary": "For over a decade, Bitcoin operated in a state of splendid isolation. It was a market driven by ideological retail cohorts, erratic whales, and native crypto exchanges operating largely outside the perimeter of traditional financial clearing systems. The introduction of spot Bitcoin Exchange-Traded Funds (ETFs) fundamentally altered this architecture, building a permanent bridge between Wall […] The post Why trackin…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b3384efe8870260053e"
   },
   {
     "title": "You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy",
