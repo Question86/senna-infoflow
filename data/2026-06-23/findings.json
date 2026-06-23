@@ -630,6 +630,29 @@
     "id": "f6e76d16643fd71313a8"
   },
   {
+    "title": "「馬鹿とハサミは使いようだ…」あえて能力の低いAIにマニュアルを実行させ、「賢いAIなら補完してしまう暗黙知をポンコツAIにあぶり出させる」アイデアが目からウロコ",
+    "url": "https://togetter.com/li/2712705",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T11:01:16+00:00",
+    "fetched_at": "2026-06-23T19:04:41+00:00",
+    "summary": "管四 @guansi 最近发现了一个特别有意思的用法。我把 GPT 和 DeepSeek V4 Pro 当高级工程师用，负责写 SOP、写 CI/CD 流程、设计方案。然后把这些东西一股脑丢给 Hermes Agent 里的 Minimax M3 去执行。 正常情况下，ChatGPT 一个小时能搞定，DeepSeek 两个小时也差不多了。M3 2026-06-22 13:56:13 管四 @guansi 最近发...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a161944fcf32435de1b3"
+  },
+  {
     "title": "I automated my job (and it made me a better leader)",
     "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
     "source": "GitHub Blog Atom",
@@ -770,6 +793,28 @@
       "LOW"
     ],
     "id": "5687d4d491bf4774df11"
+  },
+  {
+    "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T15:48:00+00:00",
+    "fetched_at": "2026-06-23T19:04:41+00:00",
+    "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.8); Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36bb09504cf4e248e2b0"
   },
   {
     "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita",
@@ -1135,6 +1180,27 @@
     "id": "23d3aac11729f0d4f35b"
   },
   {
+    "title": "NotebookLMの限界を突破する代替ツール「Open Notebook」が自由すぎた | ライフハッカー・ジャパン",
+    "url": "https://www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:38:29+00:00",
+    "fetched_at": "2026-06-23T19:04:41+00:00",
+    "summary": "Open Notebookが、NotebookLM自体よりもさらに興味深い理由は、その背後にあるコンセプトです。自分が用意した資料だけを厳密な情報源として機能するLLM（大規模言語モデル）は、想像以上に強力なアイデアでした。 NotebookLMは最初、Googleの研究者グループがRAG（検索拡張生成）の可能性を探るための実験としてスター...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "275b7339f83602c9cf55"
+  },
+  {
     "title": "“地上のあなた” 余命10か月の女性とAIの最期の対話記録 | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/na-k10015155721000",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1408,5 +1474,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c23d57f43981bc5cecf7"
+  },
+  {
+    "title": "Fetch Code Quality findings via REST API",
+    "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T18:38:41+00:00",
+    "fetched_at": "2026-06-23T19:04:41+00:00",
+    "summary": "Repository-level REST APIs for Code Quality findings are now available in public preview, bringing API support closer to the functionality already available in the GitHub UI. Two new read-only endpoints… The post Fetch Code Quality findings via REST API appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "18bd94a6365a14c844c9"
   }
 ]

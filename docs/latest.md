@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T18:15:50+00:00_
+_Generiert: 2026-06-23T19:05:14+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+56 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)
   - Kurz: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「馬鹿とハサミは使いようだ…」あえて能力の低いAIにマニュアルを実行させ、「賢いAIなら補完してしまう暗黙知をポンコツAIにあぶり出させる」アイデアが目からウロコ** — Score 13, observation — [Quelle](https://togetter.com/li/2712705)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-23T11:01:16+00:00`, fetched `2026-06-23T19:04:41+00:00`
+  - Treffer: agent, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 管四 @guansi 最近发现了一个特别有意思的用法。我把 GPT 和 DeepSeek V4 Pro 当高级工程师用，负责写 SOP、写 CI/CD 流程、设计方案。然后把这些东西一股脑丢给 Hermes Agent 里的 Minimax M3 去执行。 正常情况下，ChatGPT 一个小时能搞定，DeepSeek 两个小时也差不多了。M3 2026-06-22 13:56:13 管四 @guansi 最近发...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **I automated my job (and it made me a better leader)** — Score 12, opportunity — [Quelle](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-06-23T16:00:00+00:00`, fetched `2026-06-23T16:45:43+00:00`
@@ -204,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-23 15:29:02 UTC 2026-06-23 15:29:02 UTC at epicenter Location 37.821°N 95.298°E Depth 8.10 km (5.03 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source** — Score 11, opportunity — [Quelle](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-23T15:48:00+00:00`, fetched `2026-06-23T19:04:41+00:00`
+  - Treffer: AI/KI, GitHub, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Open Source (+3.8); GitHub (+2.5); recent (+1.0)
+  - Kurz: We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita** — Score 11, observation — [Quelle](https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-21T22:21:26+00:00`, fetched `2026-06-23T18:15:22+00:00`
@@ -258,24 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Philip R. Lane: Introductory remarks** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-23T00:00:00+00:00`, fetched `2026-06-23T09:21:55+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Philip R. Lane: Introductory remarks
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Tokenised assets have moved on-chain. The liquidity has not followed** — Score 7, observation — [Quelle](https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T13:00:17+00:00`, fetched `2026-06-23T13:45:30+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -287,3 +287,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `heise_security_atom` (rss): HTTPSConnectionPool(host='www.heise.de', port=443): Max retries exceeded with url: /security/rss/alert-news-atom.xml (Caused by NewConnectionError("HTTPSConnection(host='www.heise.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
