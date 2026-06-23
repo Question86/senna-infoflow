@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T06:35:51+00:00_
+_Generiert: 2026-06-23T07:57:53+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+28 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 174 km E of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-23T07:30:01.040+00:00`, fetched `2026-06-23T07:57:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-23 07:11:14 UTC 2026-06-23 07:11:14 UTC at epicenter Location 16.177°S 172.180°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました** — Score 7, observation — [Quelle](https://www.digital.go.jp/policies/electronic_invoice/global-activities)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
