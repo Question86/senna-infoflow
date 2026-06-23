@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T09:22:22+00:00",
-  "run_id": "2026-06-23T09:22:22+00:00",
+  "generated_at": "2026-06-23T10:40:36+00:00",
+  "run_id": "2026-06-23T10:40:36+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 2,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
-    "medium": 15,
-    "observe": 18,
+    "medium": 16,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -373,6 +373,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3de1b0e24f12095e1e7b"
+      },
+      {
+        "title": "The AI-powered World Cup runs on thousands of data workers",
+        "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-23T10:00:00+00:00",
+        "fetched_at": "2026-06-23T10:40:11+00:00",
+        "summary": "Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Watchgraph:sports_sf_tech_events"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "sports_sf_tech_events"
+        ],
+        "watchgraph_reasons": [
+          "sports_sf_tech_events: World Cup"
+        ],
+        "market_context": [
+          "DIS",
+          "CMCSA",
+          "ABNB",
+          "BKNG",
+          "DAL",
+          "UAL",
+          "TKO",
+          "FWONK",
+          "AAL",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "35e4c5bd3b3695332b32"
       },
       {
         "title": "M 4.9 - 171 km WNW of Tobelo, Indonesia",
@@ -758,6 +800,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6003088d5d2d9289f423"
+      },
+      {
+        "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-23T08:19:27+00:00",
+        "fetched_at": "2026-06-23T10:40:11+00:00",
+        "summary": "KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1437cf92d8599160d8ad"
       },
       {
         "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
@@ -1299,6 +1362,48 @@
       "id": "3de1b0e24f12095e1e7b"
     },
     {
+      "title": "The AI-powered World Cup runs on thousands of data workers",
+      "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T10:00:00+00:00",
+      "fetched_at": "2026-06-23T10:40:11+00:00",
+      "summary": "Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:sports_sf_tech_events"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
+      ],
+      "watchgraph_reasons": [
+        "sports_sf_tech_events: World Cup"
+      ],
+      "market_context": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL",
+        "TKO",
+        "FWONK",
+        "AAL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "35e4c5bd3b3695332b32"
+    },
+    {
       "title": "M 4.9 - 171 km WNW of Tobelo, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1682,6 +1787,27 @@
       "id": "6003088d5d2d9289f423"
     },
     {
+      "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T08:19:27+00:00",
+      "fetched_at": "2026-06-23T10:40:11+00:00",
+      "summary": "KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1437cf92d8599160d8ad"
+    },
+    {
       "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
       "url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1875,96 +2001,55 @@
   ],
   "new_findings": [
     {
-      "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
-      "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "The AI-powered World Cup runs on thousands of data workers",
+      "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-23T08:08:48+00:00",
-      "fetched_at": "2026-06-23T09:21:55+00:00",
-      "summary": "H3 Zoom, a Singapore‑based deeptech startup building AI‑driven inspection and asset‑intelligence software, has closed an oversubscribed Series A round of US$3.6 million. The financing was led by JRE Ventures, the corporate venture arm of Japan’s East Japan Railway Company, with participation from SGInnovate, M7 Holdings, Moringa Ventures, and Lotus One Investment, besides an AngelCentral member […] The post From faç…",
+      "published_at": "2026-06-23T10:00:00+00:00",
+      "fetched_at": "2026-06-23T10:40:11+00:00",
+      "summary": "Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Watchgraph:sports_sf_tech_events"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8e7cb618156c8591228e"
-    },
-    {
-      "title": "Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism",
-      "url": "https://e27.co/tribe-academy-ai-bilingualism-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-23T07:59:45+00:00",
-      "fetched_at": "2026-06-23T09:21:55+00:00",
-      "summary": "Singapore has set an ambitious target: 100,000 “AI-bilingual” workers by 2029. The goal signals a broader reckoning with how AI is reshaping the professional workforce — not merely as a productivity tool, but as a capability that demands a new kind of literacy. Yet as training programmes multiply and certification frameworks take shape, a harder […] The post Tribe Academy’s Felicia Tan: Why good prompt engineering a…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e4a485842297a818bfa7"
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-23T00:00:00+00:00",
-      "fetched_at": "2026-06-23T09:21:55+00:00",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
+      "watchgraph_reasons": [
+        "sports_sf_tech_events: World Cup"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e82be4789c7e565b5a5"
-    },
-    {
-      "title": "Philip R. Lane: Introductory remarks",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-06-23T00:00:00+00:00",
-      "fetched_at": "2026-06-23T09:21:55+00:00",
-      "summary": "Philip R. Lane: Introductory remarks",
-      "matched_keywords": [
-        "Macro/Policy"
+      "market_context": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL",
+        "TKO",
+        "FWONK",
+        "AAL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dcc517d318101b4a78d5"
+      "id": "35e4c5bd3b3695332b32"
     },
     {
-      "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
+      "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-23T07:29:51+00:00",
-      "fetched_at": "2026-06-23T09:21:55+00:00",
-      "summary": "KDDIは6月23日、ISP事業者向けに提供しているメールシステムが不正アクセスを受けたと発表した。これにより、提供先のISP事業者が手掛けるメールサービスの情報が最大1422万件漏えいした可能性があるという。 対象サービスはSTNetの「ピカラ光サービス」、「ピカラモバイルサービス」「お仕事ピカラサービス」に関するメ...",
+      "published_at": "2026-06-23T08:19:27+00:00",
+      "fetched_at": "2026-06-23T10:40:11+00:00",
+      "summary": "KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1976,7 +2061,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0aedd32958e952622380"
+      "id": "1437cf92d8599160d8ad"
     }
   ],
   "source_errors": [],

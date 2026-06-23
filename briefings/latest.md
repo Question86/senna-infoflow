@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T09:22:22+00:00_
+_Generiert: 2026-06-23T10:40:36+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The AI-powered World Cup runs on thousands of data workers** — Score 15, observation — [Quelle](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-06-23T10:00:00+00:00`, fetched `2026-06-23T10:40:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:sports_sf_tech_events
+  - Watchgraph: sports_sf_tech_events
+  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
+  - Kurz: Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 171 km WNW of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
   - Kurz: There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/na-k10015157301000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-23T08:19:27+00:00`, fetched `2026-06-23T10:40:11+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news114.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-23T07:29:51+00:00`, fetched `2026-06-23T09:21:55+00:00`
@@ -212,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 東京女子大学の篠崎晃一元教授（2026年3月に定年退職）と篠崎ゼミの学生が制作・公開し、アップデートを続けてきたサービス。2025年4月に三省堂のサイトに移行・リニューアルした。 今回話題になっているのは、出身地（3～4歳から13～14歳に生活していた地域）の県内のエリアまで当てる「EXTRA」版。 都道府県だけでなく...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2119031.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-22T22:50:30+00:00`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **jamiepine/voicebox** — Score 5, opportunity — [Quelle](https://github.com/jamiepine/voicebox)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

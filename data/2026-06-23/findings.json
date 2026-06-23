@@ -345,6 +345,48 @@
     "id": "3de1b0e24f12095e1e7b"
   },
   {
+    "title": "The AI-powered World Cup runs on thousands of data workers",
+    "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-23T10:00:00+00:00",
+    "fetched_at": "2026-06-23T10:40:11+00:00",
+    "summary": "Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: World Cup"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "35e4c5bd3b3695332b32"
+  },
+  {
     "title": "M 4.9 - 171 km WNW of Tobelo, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -726,6 +768,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6003088d5d2d9289f423"
+  },
+  {
+    "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:19:27+00:00",
+    "fetched_at": "2026-06-23T10:40:11+00:00",
+    "summary": "KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1437cf92d8599160d8ad"
   },
   {
     "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
