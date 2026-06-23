@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-23T20:40:04+00:00",
-    "fetched_at": "2026-06-23T20:39:49+00:00",
+    "published_at": "2026-06-23T21:10:30+00:00",
+    "fetched_at": "2026-06-23T21:18:59+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e47224b11ea9eaf62ab6"
+    "id": "1cab634e8211d274e0e3"
   },
   {
     "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -1076,6 +1076,28 @@
       "EWZ"
     ],
     "id": "ef51ad246dbd0c619c96"
+  },
+  {
+    "title": "The Coming Loop",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T11:05:01+00:00",
+    "fetched_at": "2026-06-23T21:18:59+00:00",
+    "summary": "I don’t prompt Claude anymore. I have loops running that prompt Claude and figuring out what to do. My job is to write loops. — Boris Cherny Over the last months I have watched more and more people build something on top of coding agents that feels meaningfully different from just using a coding ...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f235c1dbc61af9e6258"
   },
   {
     "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
