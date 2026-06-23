@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T01:26:36+00:00",
-  "run_id": "2026-06-23T01:26:36+00:00",
+  "generated_at": "2026-06-23T02:24:53+00:00",
+  "run_id": "2026-06-23T02:24:53+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 9,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 4,
-    "observe": 1,
+    "medium": 7,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-22T23:54:00+00:00",
-        "fetched_at": "2026-06-23T01:26:09+00:00",
+        "published_at": "2026-06-23T01:26:24+00:00",
+        "fetched_at": "2026-06-23T02:24:26+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,102 @@
           "HD",
           "LOW"
         ],
-        "id": "4c66115050322dc38f48"
+        "id": "243246db48b4d6f2e654"
+      },
+      {
+        "title": "mukul975/Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 produc…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Reputationsrisiko",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents, Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "d9ca6a9e36e0d48eee07"
+      },
+      {
+        "title": "Singapore’s AI opportunity is no longer about adoption, it’s about discipline",
+        "url": "https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-23T02:20:11+00:00",
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "Singapore’s startup ecosystem has entered a more demanding phase. For the past decade, Southeast Asia has been defined by digital adoption: more users, more platforms, more capital, and more ambitious founders. That story is still alive. The latest Google, Temasek, and Bain e-Conomy SEA 2025 report estimates that ASEAN’s digital economy will surpass US$300 billion in GMV, […] The post Singapore’s AI opportunity is n…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "a3292387031bb3192626"
       },
       {
         "title": "Japanese visual symbols",
@@ -93,6 +188,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3de1b0e24f12095e1e7b"
+      },
+      {
+        "title": "M 5.1 - 186 km N of Fais, Micronesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-23T02:13:11.040+00:00",
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "Time 2026-06-23 01:56:49 UTC 2026-06-23 01:56:49 UTC at epicenter Location 11.449°N 140.609°E Depth 43.71 km (27.16 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "GitHub Actions",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4c520b42f82917f04aac"
       },
       {
         "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
@@ -141,6 +273,48 @@
     ],
     "observe": [
       {
+        "title": "You don’t need more funding for social impact, you need a common language",
+        "url": "https://e27.co/you-dont-need-more-funding-for-social-impact-you-need-a-common-language-20260619/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-23T02:05:33+00:00",
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6003088d5d2d9289f423"
+      },
+      {
+        "title": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2119031.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-22T22:50:30+00:00",
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b18456ee50dc8d7babf7"
+      },
+      {
         "title": "WBSという至高ツールで、このAI時代をサバイブする",
         "url": "https://zenn.dev/piguolabo/articles/99b5b30a028f80",
         "source": "Hatena Bookmark Hotentry IT",
@@ -160,6 +334,93 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb5c34fed22eeab0eabb"
+      },
+      {
+        "title": "jamiepine/voicebox",
+        "url": "https://github.com/jamiepine/voicebox",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "The open-source AI voice studio. Clone, dictate, create. Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Features • API • Troubleshooting Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first A…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo, clone (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: local-first"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "2e83a5f0c9ed550b14dc"
+      },
+      {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere Stirling PDF - The Open-Source PDF Platform Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. Key Capabilities Everywhere you work -…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "40e65d57b8ad6403769f"
+      },
+      {
+        "title": "You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy",
+        "url": "https://e27.co/you-are-not-your-goals-the-eisenhower-matrix-and-maslows-hierarchy-20260615/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-23T02:00:44+00:00",
+        "fetched_at": "2026-06-23T02:24:26+00:00",
+        "summary": "Goals are the mechanism by which we assert our agency. They are how we declare that one future state is preferable to another. At the end of my last article, we arrived at an uncomfortable question: Would life be meaningless without goals? If we stripped away the reading targets, the fitness metrics, the career milestones, […] The post You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy appeared fir…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af69a159d524c6e59464"
       }
     ]
   },
@@ -169,8 +430,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-22T23:54:00+00:00",
-      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "published_at": "2026-06-23T01:26:24+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -204,7 +465,102 @@
         "HD",
         "LOW"
       ],
-      "id": "4c66115050322dc38f48"
+      "id": "243246db48b4d6f2e654"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 produc…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Reputationsrisiko",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents, Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "d9ca6a9e36e0d48eee07"
+    },
+    {
+      "title": "Singapore’s AI opportunity is no longer about adoption, it’s about discipline",
+      "url": "https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:20:11+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "Singapore’s startup ecosystem has entered a more demanding phase. For the past decade, Southeast Asia has been defined by digital adoption: more users, more platforms, more capital, and more ambitious founders. That story is still alive. The latest Google, Temasek, and Bain e-Conomy SEA 2025 report estimates that ASEAN’s digital economy will surpass US$300 billion in GMV, […] The post Singapore’s AI opportunity is n…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "a3292387031bb3192626"
     },
     {
       "title": "Japanese visual symbols",
@@ -228,6 +584,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3de1b0e24f12095e1e7b"
+    },
+    {
+      "title": "M 5.1 - 186 km N of Fais, Micronesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:13:11.040+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "Time 2026-06-23 01:56:49 UTC 2026-06-23 01:56:49 UTC at epicenter Location 11.449°N 140.609°E Depth 43.71 km (27.16 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "GitHub Actions",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c520b42f82917f04aac"
     },
     {
       "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
@@ -272,6 +665,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fa8b5ba92294d3d3da2c"
+    },
+    {
+      "title": "You don’t need more funding for social impact, you need a common language",
+      "url": "https://e27.co/you-dont-need-more-funding-for-social-impact-you-need-a-common-language-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:05:33+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6003088d5d2d9289f423"
+    },
+    {
+      "title": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2119031.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T22:50:30+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b18456ee50dc8d7babf7"
     },
     {
       "title": "WBSという至高ツールで、このAI時代をサバイブする",
@@ -293,6 +728,93 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "eb5c34fed22eeab0eabb"
+    },
+    {
+      "title": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "The open-source AI voice studio. Clone, dictate, create. Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Features • API • Troubleshooting Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first A…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo, clone (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: local-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2e83a5f0c9ed550b14dc"
+    },
+    {
+      "title": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere Stirling PDF - The Open-Source PDF Platform Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. Key Capabilities Everywhere you work -…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "40e65d57b8ad6403769f"
+    },
+    {
+      "title": "You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy",
+      "url": "https://e27.co/you-are-not-your-goals-the-eisenhower-matrix-and-maslows-hierarchy-20260615/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:00:44+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "Goals are the mechanism by which we assert our agency. They are how we declare that one future state is preferable to another. At the end of my last article, we arrived at an uncomfortable question: Would life be meaningless without goals? If we stripped away the reading targets, the fitness metrics, the career milestones, […] The post You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy appeared fir…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af69a159d524c6e59464"
     }
   ],
   "new_findings": [
@@ -301,8 +823,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-22T23:54:00+00:00",
-      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "published_at": "2026-06-23T01:26:24+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -336,74 +858,268 @@
         "HD",
         "LOW"
       ],
-      "id": "4c66115050322dc38f48"
+      "id": "243246db48b4d6f2e654"
     },
     {
-      "title": "Japanese visual symbols",
-      "url": "https://arun.is/blog/japan-symbols/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-06-22T05:26:23+00:00",
-      "fetched_at": "2026-06-23T01:26:09+00:00",
-      "summary": "In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 produc…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Reputationsrisiko",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents, Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "d9ca6a9e36e0d48eee07"
+    },
+    {
+      "title": "Singapore’s AI opportunity is no longer about adoption, it’s about discipline",
+      "url": "https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:20:11+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "Singapore’s startup ecosystem has entered a more demanding phase. For the past decade, Southeast Asia has been defined by digital adoption: more users, more platforms, more capital, and more ambitious founders. That story is still alive. The latest Google, Temasek, and Bain e-Conomy SEA 2025 report estimates that ASEAN’s digital economy will surpass US$300 billion in GMV, […] The post Singapore’s AI opportunity is n…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "a3292387031bb3192626"
+    },
+    {
+      "title": "M 5.1 - 186 km N of Fais, Micronesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:13:11.040+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "Time 2026-06-23 01:56:49 UTC 2026-06-23 01:56:49 UTC at epicenter Location 11.449°N 140.609°E Depth 43.71 km (27.16 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "GitHub Actions",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c520b42f82917f04aac"
+    },
+    {
+      "title": "You don’t need more funding for social impact, you need a common language",
+      "url": "https://e27.co/you-dont-need-more-funding-for-social-impact-you-need-a-common-language-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-23T02:05:33+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Content-Chance",
+        "funding"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6003088d5d2d9289f423"
+    },
+    {
+      "title": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2119031.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T22:50:30+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
+      "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3de1b0e24f12095e1e7b"
+      "id": "b18456ee50dc8d7babf7"
     },
     {
-      "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98582044/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-06-23T10:15:15+09:00",
-      "fetched_at": "2026-06-23T01:26:09+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "The open-source AI voice studio. Clone, dictate, create. Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Features • API • Troubleshooting Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first A…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo, clone (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: local-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2e83a5f0c9ed550b14dc"
+    },
+    {
+      "title": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere Stirling PDF - The Open-Source PDF Platform Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. Key Capabilities Everywhere you work -…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "GitHub Trending"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "12ef40449a8b17e610b6"
+      "id": "40e65d57b8ad6403769f"
     },
     {
-      "title": "Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90386605/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy",
+      "url": "https://e27.co/you-are-not-your-goals-the-eisenhower-matrix-and-maslows-hierarchy-20260615/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-23T10:15:00+09:00",
-      "fetched_at": "2026-06-23T01:26:09+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "published_at": "2026-06-23T02:00:44+00:00",
+      "fetched_at": "2026-06-23T02:24:26+00:00",
+      "summary": "Goals are the mechanism by which we assert our agency. They are how we declare that one future state is preferable to another. At the end of my last article, we arrived at an uncomfortable question: Would life be meaningless without goals? If we stripped away the reading targets, the fitness metrics, the career milestones, […] The post You are not your goals: The Eisenhower Matrix and Maslow’s Hierarchy appeared fir…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fa8b5ba92294d3d3da2c"
+      "id": "af69a159d524c6e59464"
     }
   ],
   "source_errors": [],
