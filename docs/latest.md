@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T17:29:22+00:00_
+_Generiert: 2026-06-23T18:15:50+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-23T16:46:02+00:00`, fetched `2026-06-23T16:45:43+00:00`
+  - Zeit: published `2026-06-23T17:18:45+00:00`, fetched `2026-06-23T18:15:22+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-23 15:29:02 UTC 2026-06-23 15:29:02 UTC at epicenter Location 37.821°N 95.298°E Depth 8.10 km (5.03 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita** — Score 11, observation — [Quelle](https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-21T22:21:26+00:00`, fetched `2026-06-23T18:15:22+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 設計書を書くたびに「フォーマットがバラバラになる」「前回と書き方が違う」と感じていませんか？要件定義書、基本設計書、詳細設計書、DB設計書……それぞれ求められる粒度や観点が違うのに、毎回ゼロから指示を書き直すのは正直しんどい作業です。この記事では、Claude Codeで設計書作成専用のサブエージェントを作る方...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism** — Score 10, observation — [Quelle](https://e27.co/tribe-academy-ai-bilingualism-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T07:59:45+00:00`, fetched `2026-06-23T09:21:55+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定** — Score 7, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news109.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T07:31:14+00:00`, fetched `2026-06-23T11:46:06+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -287,7 +287,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f210e9c0c50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

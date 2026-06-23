@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-23T16:46:02+00:00",
-    "fetched_at": "2026-06-23T16:45:43+00:00",
+    "published_at": "2026-06-23T17:18:45+00:00",
+    "fetched_at": "2026-06-23T18:15:22+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "63961750d50daed02caf"
+    "id": "b0eef94ce5254c040bce"
   },
   {
     "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -770,6 +770,28 @@
       "LOW"
     ],
     "id": "5687d4d491bf4774df11"
+  },
+  {
+    "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita",
+    "url": "https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-21T22:21:26+00:00",
+    "fetched_at": "2026-06-23T18:15:22+00:00",
+    "summary": "設計書を書くたびに「フォーマットがバラバラになる」「前回と書き方が違う」と感じていませんか？要件定義書、基本設計書、詳細設計書、DB設計書……それぞれ求められる粒度や観点が違うのに、毎回ゼロから指示を書き直すのは正直しんどい作業です。この記事では、Claude Codeで設計書作成専用のサブエージェントを作る方...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "677333cf2b0c27fdaf5d"
   },
   {
     "title": "Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism",
