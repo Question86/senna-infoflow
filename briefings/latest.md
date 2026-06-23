@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T21:55:18+00:00_
+_Generiert: 2026-06-23T22:25:33+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -267,14 +267,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 126 km S of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb)
+- **M 4.5 - 269 km SSE of Alo, Wallis and Futuna** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7qk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-23T14:17:25.040+00:00`, fetched `2026-06-23T14:48:23+00:00`
+  - Zeit: published `2026-06-23T22:09:45.040+00:00`, fetched `2026-06-23T22:25:08+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-23 13:58:36 UTC 2026-06-23 13:58:36 UTC at epicenter Location 20.672°S 169.110°E Depth 30.17 km (18.75 mi)
+  - Kurz: Time 2026-06-23 21:53:18 UTC 2026-06-23 21:53:18 UTC at epicenter Location 16.588°S 177.219°W Depth 408.89 km (254.07 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen

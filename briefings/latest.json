@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T21:55:18+00:00",
-  "run_id": "2026-06-23T21:55:18+00:00",
+  "generated_at": "2026-06-23T22:25:33+00:00",
+  "run_id": "2026-06-23T22:25:33+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 60
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 18,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -954,6 +954,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7e82be4789c7e565b5a5"
+      },
+      {
+        "title": "M 4.5 - 269 km SSE of Alo, Wallis and Futuna",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7qk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-23T22:09:45.040+00:00",
+        "fetched_at": "2026-06-23T22:25:08+00:00",
+        "summary": "Time 2026-06-23 21:53:18 UTC 2026-06-23 21:53:18 UTC at epicenter Location 16.588°S 177.219°W Depth 408.89 km (254.07 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "031a0e79151a3521bad2"
       },
       {
         "title": "M 5.3 - 126 km S of Isangel, Vanuatu",
@@ -2541,6 +2577,42 @@
       "id": "7e82be4789c7e565b5a5"
     },
     {
+      "title": "M 4.5 - 269 km SSE of Alo, Wallis and Futuna",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7qk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-23T22:09:45.040+00:00",
+      "fetched_at": "2026-06-23T22:25:08+00:00",
+      "summary": "Time 2026-06-23 21:53:18 UTC 2026-06-23 21:53:18 UTC at epicenter Location 16.588°S 177.219°W Depth 408.89 km (254.07 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "031a0e79151a3521bad2"
+    },
+    {
       "title": "M 5.3 - 126 km S of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3201,25 +3273,40 @@
   ],
   "new_findings": [
     {
-      "title": "標準CSSは美しくなった、もはやTailwindは不要",
-      "url": "https://zenn.dev/higakijin/articles/06276828c81546",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - 269 km SSE of Alo, Wallis and Futuna",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7qk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-23T01:38:33+00:00",
-      "fetched_at": "2026-06-23T21:54:53+00:00",
-      "summary": "最近、標準のCSSがかなり進化していることに気づきました。 他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。 数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。 多くのプロジェクトでは、sassやscssなどを導入して、CSSを拡張したり、あるいはBoots...",
+      "published_at": "2026-06-23T22:09:45.040+00:00",
+      "fetched_at": "2026-06-23T22:25:08+00:00",
+      "summary": "Time 2026-06-23 21:53:18 UTC 2026-06-23 21:53:18 UTC at epicenter Location 16.588°S 177.219°W Depth 408.89 km (254.07 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb0d9e5d08afb6ccff79"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "031a0e79151a3521bad2"
     }
   ],
   "source_errors": [],
