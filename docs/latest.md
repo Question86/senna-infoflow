@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T16:46:14+00:00_
+_Generiert: 2026-06-23T17:29:22+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-23 01:56:49 UTC 2026-06-23 01:56:49 UTC at epicenter Location 11.449°N 140.609°E Depth 43.71 km (27.16 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Automatic Dependabot access to GitHub-hosted registries** — Score 14, opportunity — [Quelle](https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-23T16:46:05+00:00`, fetched `2026-06-23T17:28:49+00:00`
+  - Treffer: Actions, CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.0); recent (+1.0)
+  - Kurz: Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,… The post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96872547/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-06-23T13:00:00+09:00`, fetched `2026-06-23T05:13:47+00:00`
@@ -231,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-23 07:11:14 UTC 2026-06-23 07:11:14 UTC at epicenter Location 16.177°S 172.180°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery** — Score 8, observation — [Quelle](https://openai.com/index/gpt-5-immunology-mystery)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-23T17:00:00+00:00`, fetched `2026-06-23T17:28:49+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philip R. Lane: Introductory remarks** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-23T00:00:00+00:00`, fetched `2026-06-23T09:21:55+00:00`
@@ -258,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました** — Score 7, observation — [Quelle](https://www.digital.go.jp/policies/electronic_invoice/global-activities)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -278,3 +287,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f210e9c0c50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

@@ -520,6 +520,28 @@
     "id": "4c520b42f82917f04aac"
   },
   {
+    "title": "Automatic Dependabot access to GitHub-hosted registries",
+    "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:46:05+00:00",
+    "fetched_at": "2026-06-23T17:28:49+00:00",
+    "summary": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,… The post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ad4d44a333719838ff0"
+  },
+  {
     "title": "横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU96872547/",
     "source": "JVN Japan Vulnerability Notes",
@@ -864,6 +886,26 @@
     "id": "87f35cec4c60cb41a802"
   },
   {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:00:00+00:00",
+    "fetched_at": "2026-06-23T17:28:49+00:00",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "92679571f6f27dcc0479"
+  },
+  {
     "title": "Philip R. Lane: Introductory remarks",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -966,6 +1008,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7c691081f70c1b668b48"
+  },
+  {
+    "title": "Copilot CLI: New terminal interface is generally available",
+    "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:35:45+00:00",
+    "fetched_at": "2026-06-23T17:28:49+00:00",
+    "summary": "The redesigned terminal interface for GitHub Copilot CLI that we previewed at Microsoft Build 2026 is now generally available. You get a tabbed layout for working with GitHub directly from… The post Copilot CLI: New terminal interface is generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb141378e7e18607d308"
   },
   {
     "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
