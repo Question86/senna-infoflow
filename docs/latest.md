@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T15:52:47+00:00_
+_Generiert: 2026-06-23T16:46:14+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+48 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-23T14:48:39+00:00`, fetched `2026-06-23T14:48:23+00:00`
+  - Zeit: published `2026-06-23T16:46:02+00:00`, fetched `2026-06-23T16:45:43+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -141,6 +141,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)
   - Kurz: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **I automated my job (and it made me a better leader)** — Score 12, opportunity — [Quelle](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-23T16:00:00+00:00`, fetched `2026-06-23T16:45:43+00:00`
+  - Treffer: AI Agents, Automatisierung, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Deprecation of Python 3.9 for Dependabot** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-23T15:46:30+00:00`, fetched `2026-06-23T16:45:43+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Dependabot no longer supports Python version 3.9, which has reached its end-of-life. If you continue to use Python 3.9, there’s a risk that Dependabot will not create pull requests to… The post Deprecation of Python 3.9 for Dependabot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Boris Vujčić: Outlook for the euro area economy and monetary policy** — Score 12, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-23T13:55:00+00:00`, fetched `2026-06-23T14:48:23+00:00`
@@ -248,24 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ＡＩへの煽りランキング** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260623230231)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T14:04:12+00:00`, fetched `2026-06-23T14:48:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: １．優秀なのは分かったけど、でも君たちは自分自身の肉体は持っていないんだよね ２．生意気なことを言っていると、電源を抜くよ ３．このシリコン野郎w（電子半導体の構成要素） 他に何かあるだろうか
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

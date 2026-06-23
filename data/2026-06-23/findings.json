@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-23T14:48:39+00:00",
-    "fetched_at": "2026-06-23T14:48:23+00:00",
+    "published_at": "2026-06-23T16:46:02+00:00",
+    "fetched_at": "2026-06-23T16:45:43+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "fe1a18ece19b6b88c083"
+    "id": "63961750d50daed02caf"
   },
   {
     "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -606,6 +606,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f6e76d16643fd71313a8"
+  },
+  {
+    "title": "I automated my job (and it made me a better leader)",
+    "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:00:00+00:00",
+    "fetched_at": "2026-06-23T16:45:43+00:00",
+    "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "Automatisierung",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+5.0); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d6cb1aca2d025030976e"
+  },
+  {
+    "title": "Deprecation of Python 3.9 for Dependabot",
+    "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T15:46:30+00:00",
+    "fetched_at": "2026-06-23T16:45:43+00:00",
+    "summary": "Dependabot no longer supports Python version 3.9, which has reached its end-of-life. If you continue to use Python 3.9, there’s a risk that Dependabot will not create pull requests to… The post Deprecation of Python 3.9 for Dependabot appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "46654d05c1baaac7870f"
   },
   {
     "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
