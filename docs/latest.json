@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T10:40:36+00:00",
-  "run_id": "2026-06-23T10:40:36+00:00",
+  "generated_at": "2026-06-23T11:46:32+00:00",
+  "run_id": "2026-06-23T11:46:32+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 3,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 16,
-    "observe": 19,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -581,6 +581,28 @@
     ],
     "observe": [
       {
+        "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+        "url": "https://www.bis.org/press/p260623.htm",
+        "source": "BIS Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-06-23T12:12:00+00:00",
+        "fetched_at": "2026-06-23T11:46:06+00:00",
+        "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...",
+        "matched_keywords": [
+          "Content-Chance",
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f6e76d16643fd71313a8"
+      },
+      {
         "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
         "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -721,6 +743,28 @@
         "id": "dcc517d318101b4a78d5"
       },
       {
+        "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-23T07:31:14+00:00",
+        "fetched_at": "2026-06-23T11:46:06+00:00",
+        "summary": "マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1ad9259e862285300068"
+      },
+      {
         "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
         "url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
         "source": "Japan Digital Agency News RSS",
@@ -842,6 +886,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0aedd32958e952622380"
+      },
+      {
+        "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る - Qiita",
+        "url": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-23T03:04:23+00:00",
+        "fetched_at": "2026-06-23T11:46:06+00:00",
+        "summary": "VRChatで顔トラッキングを使うとCPUの1コアが99%占有されてゲームが14fpsに落ちた。「カーネルレベルの問題だ」と確信して、割り込みアフィニティ、MSI-X、バイナリパッチ、コールドブート、USBポート総入れ替え……Windowsカーネルの深淵を6時間さまよった。見つけた答えは「USBハブを抜く」だった。 高度な技術的調査が...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fb16007152ce8536597b"
       },
       {
         "title": "「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題",
@@ -1566,6 +1631,28 @@
       "id": "fa8b5ba92294d3d3da2c"
     },
     {
+      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+      "url": "https://www.bis.org/press/p260623.htm",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-06-23T12:12:00+00:00",
+      "fetched_at": "2026-06-23T11:46:06+00:00",
+      "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...",
+      "matched_keywords": [
+        "Content-Chance",
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6e76d16643fd71313a8"
+    },
+    {
       "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
       "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1706,6 +1793,28 @@
       "id": "dcc517d318101b4a78d5"
     },
     {
+      "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T07:31:14+00:00",
+      "fetched_at": "2026-06-23T11:46:06+00:00",
+      "summary": "マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ad9259e862285300068"
+    },
+    {
       "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
       "url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
       "source": "Japan Digital Agency News RSS",
@@ -1827,6 +1936,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0aedd32958e952622380"
+    },
+    {
+      "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る - Qiita",
+      "url": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T03:04:23+00:00",
+      "fetched_at": "2026-06-23T11:46:06+00:00",
+      "summary": "VRChatで顔トラッキングを使うとCPUの1コアが99%占有されてゲームが14fpsに落ちた。「カーネルレベルの問題だ」と確信して、割り込みアフィニティ、MSI-X、バイナリパッチ、コールドブート、USBポート総入れ替え……Windowsカーネルの深淵を6時間さまよった。見つけた答えは「USBハブを抜く」だった。 高度な技術的調査が...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb16007152ce8536597b"
     },
     {
       "title": "「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題",
@@ -2001,55 +2131,57 @@
   ],
   "new_findings": [
     {
-      "title": "The AI-powered World Cup runs on thousands of data workers",
-      "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+      "url": "https://www.bis.org/press/p260623.htm",
+      "source": "BIS Press Releases",
       "source_type": "rss",
-      "published_at": "2026-06-23T10:00:00+00:00",
-      "fetched_at": "2026-06-23T10:40:11+00:00",
-      "summary": "Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.",
+      "published_at": "2026-06-23T12:12:00+00:00",
+      "fetched_at": "2026-06-23T11:46:06+00:00",
+      "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Watchgraph:sports_sf_tech_events"
+        "Content-Chance",
+        "macro",
+        "Macro/Policy"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "sports_sf_tech_events"
-      ],
-      "watchgraph_reasons": [
-        "sports_sf_tech_events: World Cup"
-      ],
-      "market_context": [
-        "DIS",
-        "CMCSA",
-        "ABNB",
-        "BKNG",
-        "DAL",
-        "UAL",
-        "TKO",
-        "FWONK",
-        "AAL",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "35e4c5bd3b3695332b32"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6e76d16643fd71313a8"
     },
     {
-      "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+      "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-23T08:19:27+00:00",
-      "fetched_at": "2026-06-23T10:40:11+00:00",
-      "summary": "KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…",
+      "published_at": "2026-06-23T07:31:14+00:00",
+      "fetched_at": "2026-06-23T11:46:06+00:00",
+      "summary": "マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ad9259e862285300068"
+    },
+    {
+      "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る - Qiita",
+      "url": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T03:04:23+00:00",
+      "fetched_at": "2026-06-23T11:46:06+00:00",
+      "summary": "VRChatで顔トラッキングを使うとCPUの1コアが99%占有されてゲームが14fpsに落ちた。「カーネルレベルの問題だ」と確信して、割り込みアフィニティ、MSI-X、バイナリパッチ、コールドブート、USBポート総入れ替え……Windowsカーネルの深淵を6時間さまよった。見つけた答えは「USBハブを抜く」だった。 高度な技術的調査が...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2061,7 +2193,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1437cf92d8599160d8ad"
+      "id": "fb16007152ce8536597b"
     }
   ],
   "source_errors": [],

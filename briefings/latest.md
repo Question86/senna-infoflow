@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T10:40:36+00:00_
+_Generiert: 2026-06-23T11:46:32+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+38 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS** — Score 13, observation — [Quelle](https://www.bis.org/press/p260623.htm)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-06-23T12:12:00+00:00`, fetched `2026-06-23T11:46:06+00:00`
+  - Treffer: Content-Chance, macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)
+  - Kurz: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan** — Score 12, observation — [Quelle](https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T08:08:48+00:00`, fetched `2026-06-23T09:21:55+00:00`
@@ -177,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Philip R. Lane: Introductory remarks
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定** — Score 7, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news109.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-23T07:31:14+00:00`, fetched `2026-06-23T11:46:06+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万2901人分に...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました** — Score 7, observation — [Quelle](https://www.digital.go.jp/policies/electronic_invoice/global-activities)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
@@ -221,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: KDDIは6月23日、ISP事業者向けに提供しているメールシステムが不正アクセスを受けたと発表した。これにより、提供先のISP事業者が手掛けるメールサービスの情報が最大1422万件漏えいした可能性があるという。 対象サービスはSTNetの「ピカラ光サービス」、「ピカラモバイルサービス」「お仕事ピカラサービス」に関するメ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news087.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T03:02:58+00:00`, fetched `2026-06-23T06:35:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 東京女子大学の篠崎晃一元教授（2026年3月に定年退職）と篠崎ゼミの学生が制作・公開し、アップデートを続けてきたサービス。2025年4月に三省堂のサイトに移行・リニューアルした。 今回話題になっているのは、出身地（3～4歳から13～14歳に生活していた地域）の県内のエリアまで当てる「EXTRA」版。 都道府県だけでなく...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **jamiepine/voicebox** — Score 5, opportunity — [Quelle](https://github.com/jamiepine/voicebox)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
