@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T23:31:12+00:00",
-  "run_id": "2026-06-23T23:31:12+00:00",
+  "generated_at": "2026-06-23T23:56:56+00:00",
+  "run_id": "2026-06-23T23:56:56+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 2,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 0,
     "medium": 18,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-23T22:30:50+00:00",
-        "fetched_at": "2026-06-23T22:30:36+00:00",
+        "published_at": "2026-06-23T23:56:43+00:00",
+        "fetched_at": "2026-06-23T23:56:28+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "152a91b3476e3adbb794"
+        "id": "02d4804de00f2d6eb9c6"
       },
       {
         "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -1314,6 +1314,27 @@
         "id": "6003088d5d2d9289f423"
       },
       {
+        "title": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-23T22:24:38+00:00",
+        "fetched_at": "2026-06-23T23:56:28+00:00",
+        "summary": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f3909afb77c1f717056"
+      },
+      {
         "title": "ＡＩへの煽りランキング",
         "url": "https://anond.hatelabo.jp/20260623230231",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1679,8 +1700,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-23T22:30:50+00:00",
-      "fetched_at": "2026-06-23T22:30:36+00:00",
+      "published_at": "2026-06-23T23:56:43+00:00",
+      "fetched_at": "2026-06-23T23:56:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1714,7 +1735,7 @@
         "HD",
         "LOW"
       ],
-      "id": "152a91b3476e3adbb794"
+      "id": "02d4804de00f2d6eb9c6"
     },
     {
       "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -2957,6 +2978,27 @@
       "id": "6003088d5d2d9289f423"
     },
     {
+      "title": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T22:24:38+00:00",
+      "fetched_at": "2026-06-23T23:56:28+00:00",
+      "summary": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f3909afb77c1f717056"
+    },
+    {
       "title": "ＡＩへの煽りランキング",
       "url": "https://anond.hatelabo.jp/20260623230231",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3317,26 +3359,67 @@
   ],
   "new_findings": [
     {
-      "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト - Qiita",
-      "url": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-23T23:56:43+00:00",
+      "fetched_at": "2026-06-23T23:56:28+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "02d4804de00f2d6eb9c6"
+    },
+    {
+      "title": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-23T08:00:45+00:00",
-      "fetched_at": "2026-06-23T23:30:47+00:00",
-      "summary": "はじめに この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。 settings.json の permissions 設計、PreToolUse hook による危険コマンドの遮...",
+      "published_at": "2026-06-23T22:24:38+00:00",
+      "fetched_at": "2026-06-23T23:56:28+00:00",
+      "summary": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
       "matched_keywords": [
-        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "44d1b8e9fe85e9e6d73b"
+      "id": "7f3909afb77c1f717056"
     }
   ],
   "source_errors": [],

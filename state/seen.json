@@ -38,14 +38,14 @@
     },
     "c9152c8ae99440360a51": {
       "first_seen_at": "2026-06-21T19:02:50+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "How we built an internal data analytics agent",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
       "source": "GitHub Blog Atom"
     },
     "86d15e7b783260c0589b": {
       "first_seen_at": "2026-06-21T19:02:50+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "How pull request limits are cutting down the noise",
       "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
       "source": "GitHub Blog Atom"
@@ -192,127 +192,127 @@
     },
     "01bc99c036a3e5408078": {
       "first_seen_at": "2026-06-21T19:02:53+00:00",
-      "last_seen_at": "2026-06-23T23:30:52+00:00",
+      "last_seen_at": "2026-06-23T23:56:34+00:00",
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260018.html",
       "source": "JPCERT/CC English Alerts"
     },
     "0e509be207b2cd064227": {
       "first_seen_at": "2026-06-21T19:02:53+00:00",
-      "last_seen_at": "2026-06-23T23:30:52+00:00",
+      "last_seen_at": "2026-06-23T23:56:34+00:00",
       "title": "Security Alert: Microsoft Releases June 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260017.html",
       "source": "JPCERT/CC English Alerts"
     },
     "af5b202b0b9c99f20d3a": {
       "first_seen_at": "2026-06-21T19:02:53+00:00",
-      "last_seen_at": "2026-06-23T23:30:52+00:00",
+      "last_seen_at": "2026-06-23T23:56:34+00:00",
       "title": "Security Alert: [Updated] Alert Regarding Multiple Vulnerabilities in Trend Micro Products Including TrendAI Apex One",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260014.html",
       "source": "JPCERT/CC English Alerts"
     },
     "5c65c09192af449f0725": {
       "first_seen_at": "2026-06-21T19:02:53+00:00",
-      "last_seen_at": "2026-06-23T23:30:52+00:00",
+      "last_seen_at": "2026-06-23T23:56:34+00:00",
       "title": "Security Alert: Microsoft Releases May 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260012.html",
       "source": "JPCERT/CC English Alerts"
     },
     "43fb5c158e0855facb7b": {
       "first_seen_at": "2026-06-21T19:02:53+00:00",
-      "last_seen_at": "2026-06-23T23:30:52+00:00",
+      "last_seen_at": "2026-06-23T23:56:34+00:00",
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-44)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260011.html",
       "source": "JPCERT/CC English Alerts"
     },
     "70511d065d04c422240d": {
       "first_seen_at": "2026-06-21T19:02:53+00:00",
-      "last_seen_at": "2026-06-23T23:30:52+00:00",
+      "last_seen_at": "2026-06-23T23:56:34+00:00",
       "title": "Security Alert: Microsoft Releases April 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260010.html",
       "source": "JPCERT/CC English Alerts"
     },
     "538956db0ca8ccd57191": {
       "first_seen_at": "2026-06-21T19:02:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:54+00:00",
+      "last_seen_at": "2026-06-23T23:56:36+00:00",
       "title": "駭客組織 UAT-8616 鎖定 Cisco Catalyst SD-WAN 滿分漏洞發動攻擊",
       "url": "https://www.twcert.org.tw/tw/cp-104-10935-8e0c9-1.html",
       "source": "TWCERT/CC Security News RSS"
     },
     "7e231db339493730183a": {
       "first_seen_at": "2026-06-21T19:02:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:54+00:00",
+      "last_seen_at": "2026-06-23T23:56:36+00:00",
       "title": "歐盟 CRA 進入強制合規階段！全球聯網製造商迎戰 SBOM 管理新挑戰",
       "url": "https://www.twcert.org.tw/tw/cp-104-10934-3e66a-1.html",
       "source": "TWCERT/CC Security News RSS"
     },
     "8409fa1e87bf9d40cc8d": {
       "first_seen_at": "2026-06-21T19:02:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:54+00:00",
+      "last_seen_at": "2026-06-23T23:56:36+00:00",
       "title": "「裝置碼」釣魚攻擊成新興威脅，企業與組織成主要目標",
       "url": "https://www.twcert.org.tw/tw/cp-104-10933-e5921-1.html",
       "source": "TWCERT/CC Security News RSS"
     },
     "c807694be3137fd5d12d": {
       "first_seen_at": "2026-06-21T19:02:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:54+00:00",
+      "last_seen_at": "2026-06-23T23:56:36+00:00",
       "title": "勒索軟體組織「The Gentlemen」結合SystemBC惡意軟體擴大攻擊版圖",
       "url": "https://www.twcert.org.tw/tw/cp-104-10889-f86c4-1.html",
       "source": "TWCERT/CC Security News RSS"
     },
     "9c043c450f622fad712c": {
       "first_seen_at": "2026-06-21T19:02:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:54+00:00",
+      "last_seen_at": "2026-06-23T23:56:36+00:00",
       "title": "UAT-10608大規模自動化竊密行動：鎖定React2Shell漏洞入侵逾700台Next.js伺服器",
       "url": "https://www.twcert.org.tw/tw/cp-104-10888-09077-1.html",
       "source": "TWCERT/CC Security News RSS"
     },
     "13199b0412058df99b77": {
       "first_seen_at": "2026-06-21T19:02:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:54+00:00",
+      "last_seen_at": "2026-06-23T23:56:36+00:00",
       "title": "KrCERT/CC發布「Operation SearchStrike」報告：駭客以SEO毒化Github散布惡意軟體",
       "url": "https://www.twcert.org.tw/tw/cp-104-10887-c63c0-1.html",
       "source": "TWCERT/CC Security News RSS"
     },
     "8a13cce89158bbf1de3a": {
       "first_seen_at": "2026-06-21T19:02:56+00:00",
-      "last_seen_at": "2026-06-23T23:30:55+00:00",
+      "last_seen_at": "2026-06-23T23:56:37+00:00",
       "title": "Sicherheitslücken gefährden Verbindungen über libssh2",
       "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html",
       "source": "heise Security Alerts"
     },
     "93dedb972ac30bc7df02": {
       "first_seen_at": "2026-06-21T19:02:56+00:00",
-      "last_seen_at": "2026-06-23T23:30:55+00:00",
+      "last_seen_at": "2026-06-23T23:56:37+00:00",
       "title": "Jetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angriffe-auf-Wordpress-Websites-mit-Gravity-SMTP-Plug-in-11339529.html",
       "source": "heise Security Alerts"
     },
     "2d0ff3a069b61ee8ff31": {
       "first_seen_at": "2026-06-21T19:02:56+00:00",
-      "last_seen_at": "2026-06-23T23:30:55+00:00",
+      "last_seen_at": "2026-06-23T23:56:37+00:00",
       "title": "Bamboo, Confluence & Co.: Atlassian schließt 100 Sicherheitslücken",
       "url": "https://www.heise.de/news/Bamboo-Confluence-Co-Atlassian-schliesst-100-Sicherheitsluecken-11336541.html",
       "source": "heise Security Alerts"
     },
     "9c7c077c0d7195589702": {
       "first_seen_at": "2026-06-21T19:02:56+00:00",
-      "last_seen_at": "2026-06-23T23:30:55+00:00",
+      "last_seen_at": "2026-06-23T23:56:37+00:00",
       "title": "Cisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
       "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
       "source": "heise Security Alerts"
     },
     "0d47adc47b52efa2c682": {
       "first_seen_at": "2026-06-21T19:02:56+00:00",
-      "last_seen_at": "2026-06-23T23:30:55+00:00",
+      "last_seen_at": "2026-06-23T23:56:37+00:00",
       "title": "F5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
       "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html",
       "source": "heise Security Alerts"
     },
     "8fc18592e8a0e89a9748": {
       "first_seen_at": "2026-06-21T19:02:58+00:00",
-      "last_seen_at": "2026-06-23T23:30:55+00:00",
-      "title": "バロンドール",
+      "last_seen_at": "2026-06-23T23:56:37+00:00",
+      "title": "nba ドラフト",
       "url": "https://trends.google.com/trending/rss?geo=JP",
       "source": "Google Trends Japan Hot Feed"
     },
@@ -360,63 +360,63 @@
     },
     "c7b0459f8ee27a7c8220": {
       "first_seen_at": "2026-06-21T19:02:59+00:00",
-      "last_seen_at": "2026-06-23T23:30:57+00:00",
-      "title": "애덤 올러",
+      "last_seen_at": "2026-06-23T23:56:39+00:00",
+      "title": "현대백화점 울산점",
       "url": "https://trends.google.com/trending/rss?geo=KR",
       "source": "Google Trends South Korea Hot Feed"
     },
     "30220e89e43d8c8fb66b": {
       "first_seen_at": "2026-06-21T19:03:00+00:00",
-      "last_seen_at": "2026-06-23T23:30:58+00:00",
-      "title": "玻璃纖維",
+      "last_seen_at": "2026-06-23T23:56:39+00:00",
+      "title": "傅娟",
       "url": "https://trends.google.com/trending/rss?geo=TW",
       "source": "Google Trends Taiwan Hot Feed"
     },
     "eb5ad90580f743982f38": {
       "first_seen_at": "2026-06-21T19:03:01+00:00",
-      "last_seen_at": "2026-06-23T23:30:59+00:00",
-      "title": "ปานามา พบ โครเอเชีย",
+      "last_seen_at": "2026-06-23T23:56:40+00:00",
+      "title": "ตารางแข่งทีมฟุตบอลโลก",
       "url": "https://trends.google.com/trending/rss?geo=TH",
       "source": "Google Trends Thailand Hot Feed"
     },
     "0a90975f15401e94a0a5": {
       "first_seen_at": "2026-06-21T19:03:01+00:00",
-      "last_seen_at": "2026-06-23T23:30:59+00:00",
+      "last_seen_at": "2026-06-23T23:56:41+00:00",
       "title": "speed",
       "url": "https://trends.google.com/trending/rss?geo=PH",
       "source": "Google Trends Philippines Hot Feed"
     },
     "5a749a73f190cb543b11": {
       "first_seen_at": "2026-06-21T19:03:02+00:00",
-      "last_seen_at": "2026-06-23T23:31:00+00:00",
-      "title": "tỉ số wc",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
+      "title": "lịch thi đấu world cup",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "source": "Google Trends Vietnam Hot Feed"
     },
     "11fad926be469e380fa0": {
       "first_seen_at": "2026-06-21T19:03:03+00:00",
-      "last_seen_at": "2026-06-23T23:31:01+00:00",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
       "title": "GoPro and Roomba were U.S. pioneers. Chinese rivals now dominate",
       "url": "https://restofworld.org/2026/chinese-consumer-tech-brands/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed"
     },
     "2be541bac085e71222f8": {
       "first_seen_at": "2026-06-21T19:03:03+00:00",
-      "last_seen_at": "2026-06-23T23:31:01+00:00",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
       "title": "Chile turned to China for an undersea cable. The U.S. said no",
       "url": "https://restofworld.org/2026/chile-china-america-google-cable/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed"
     },
     "ca02181f59618721f6aa": {
       "first_seen_at": "2026-06-21T19:03:03+00:00",
-      "last_seen_at": "2026-06-23T23:31:01+00:00",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
       "title": "When Americans choose Chinese AI",
       "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed"
     },
     "7e8bd5509cf752fdfcba": {
       "first_seen_at": "2026-06-21T19:03:03+00:00",
-      "last_seen_at": "2026-06-23T23:31:01+00:00",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
       "title": "Spotify’s post-English AI future",
       "url": "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed"
@@ -444,63 +444,63 @@
     },
     "6da64fe549065a895f38": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:02+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "TSUBAME Report Overflow (Oct-Dec 2025)",
       "url": "https://blogs.jpcert.or.jp/en/2026/05/tsubame_overflow_2025-10-12.html",
       "source": "JPCERT/CC English Blog Atom"
     },
     "ff2a6b8d063b7b1d9f67": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:02+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "ICS Security Conference 2026",
       "url": "https://blogs.jpcert.or.jp/en/2026/04/ics-conference2026.html",
       "source": "JPCERT/CC English Blog Atom"
     },
     "9f4db499c820ea10b856": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:02+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "TSUBAME Report Overflow (Jul-Sep 2025)",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/tsubame_overflow_2025-07-09.html",
       "source": "JPCERT/CC English Blog Atom"
     },
     "accd48d9866312e585d9": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:02+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "CSIRTs Around the World – Azerbaijan",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/csirts-around-the-world-azerbaijan.html",
       "source": "JPCERT/CC English Blog Atom"
     },
     "9dd5c847308392533a4c": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:02+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "Study of Binaries Created with Rust through Reverse Engineering",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/rust_research_en.html",
       "source": "JPCERT/CC English Blog Atom"
     },
     "0e1edcdad57222fc71a7": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:02+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "JSAC2026 -Workshop/Lightning Talk Session/Panel Discussion-",
       "url": "https://blogs.jpcert.or.jp/en/2026/03/jsac2026-ws-lt-pd.html",
       "source": "JPCERT/CC English Blog Atom"
     },
     "ca3d1739e9ea288196a9": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:03+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "三菱電機製MELSEC iQ-FシリーズのFX5-EIPおよびFX5-ENET/IPにおける脆弱性",
       "url": "https://jvn.jp/vu/JVNVU97140216/",
       "source": "JVN Japan Vulnerability Notes"
     },
     "4867136ab2b4a24b0865": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:03+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "Vendor-signed UEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93024090/",
       "source": "JVN Japan Vulnerability Notes"
     },
     "c948d41722cb7e0c1e51": {
       "first_seen_at": "2026-06-21T19:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:31:03+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月18日）",
       "url": "https://jvn.jp/vu/JVNVU90347806/",
       "source": "JVN Japan Vulnerability Notes"
@@ -528,35 +528,35 @@
     },
     "ff52ab4db12ae9ac8a7c": {
       "first_seen_at": "2026-06-21T19:03:06+00:00",
-      "last_seen_at": "2026-06-23T23:31:04+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "IEI 威強電工業電腦｜iRM-IEI Remote Management - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10971-ac61f-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS"
     },
     "093990adf6411da2bb14": {
       "first_seen_at": "2026-06-21T19:03:06+00:00",
-      "last_seen_at": "2026-06-23T23:31:04+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "IEI 威強電工業電腦｜iVEC-IEI Virtualization Edge Computer - 存在4個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10969-4c4e2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS"
     },
     "b729b1ba053c3d86355a": {
       "first_seen_at": "2026-06-21T19:03:06+00:00",
-      "last_seen_at": "2026-06-23T23:31:04+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "Hepta Platforms｜Heptabase - Exposed Dangerous",
       "url": "https://www.twcert.org.tw/tw/cp-132-10968-6be4c-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS"
     },
     "f26b2c0b9adf734fc303": {
       "first_seen_at": "2026-06-21T19:03:06+00:00",
-      "last_seen_at": "2026-06-23T23:31:04+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "基點資訊｜CelloOS - Improper Access Control",
       "url": "https://www.twcert.org.tw/tw/cp-132-10966-3258e-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS"
     },
     "8027d1fadb4af2caa8f9": {
       "first_seen_at": "2026-06-21T19:03:06+00:00",
-      "last_seen_at": "2026-06-23T23:31:04+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "沛盛資訊｜OMICARD EDM - Insecure Direct Object Reference",
       "url": "https://www.twcert.org.tw/tw/cp-132-10947-027a7-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS"
@@ -570,21 +570,21 @@
     },
     "452299249ff27355d1f5": {
       "first_seen_at": "2026-06-21T19:03:07+00:00",
-      "last_seen_at": "2026-06-23T23:31:05+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "source": "GitHub Trending RSS All Languages Daily"
     },
     "cf6fd96994c824a844f4": {
       "first_seen_at": "2026-06-21T19:03:07+00:00",
-      "last_seen_at": "2026-06-23T23:31:05+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "source": "GitHub Trending RSS All Languages Daily"
     },
     "e33eb7f53a35be657001": {
       "first_seen_at": "2026-06-21T19:03:07+00:00",
-      "last_seen_at": "2026-06-23T23:31:05+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "source": "GitHub Trending RSS All Languages Daily"
@@ -612,77 +612,77 @@
     },
     "815ca8bfdd898030d499": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases"
     },
     "6c77679810bb778c0407": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
       "source": "Federal Reserve Monetary Policy Press Releases"
     },
     "333469e138152cd6691b": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases"
     },
     "e2f3afb9581caa9a64ad": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases"
     },
     "8465071b2185cb64db18": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases"
     },
     "361dc72ee7a9c57fa6ad": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases"
     },
     "36bd74accdd35f7d776e": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Barr, Deregulating in a Financial Boom: What Could Go Wrong?",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
       "source": "Federal Reserve Speeches and Testimony"
     },
     "2aab60a7d5818370039c": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Powell, Acceptance Remarks",
       "url": "https://www.federalreserve.gov/newsevents/speech/powell20260531a.htm",
       "source": "Federal Reserve Speeches and Testimony"
     },
     "1c73e60f47bf4928d8bb": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Bowman, A Framework for Practical Monetary Policy Decision Making",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm",
       "source": "Federal Reserve Speeches and Testimony"
     },
     "bfd49106c173eaafe660": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Jefferson, Global Economic Developments and the U.S. Economy",
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm",
       "source": "Federal Reserve Speeches and Testimony"
     },
     "90196630ad029e30d68a": {
       "first_seen_at": "2026-06-21T19:03:09+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Cook, The Opportunities and Risks AI Presents for the Economy and Financial System",
       "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
       "source": "Federal Reserve Speeches and Testimony"
@@ -696,105 +696,105 @@
     },
     "fe330178d5470bde33f4": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3813",
       "source": "Federal Reserve Policy Rates Feed"
     },
     "6a925c99f15bca188b48": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3793",
       "source": "Federal Reserve Policy Rates Feed"
     },
     "7d78d2f04c5844a90f1e": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Data Download Program and Federal Reserve Economic Data Partnership",
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3700",
       "source": "Federal Reserve Policy Rates Feed"
     },
     "bb52e0599122121ef729": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Federal Reserve Board seeks DDP users for online survey",
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3507",
       "source": "Federal Reserve Policy Rates Feed"
     },
     "0310fd1c250ca2f3a350": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Data Download Program and Federal Reserve Economic Data Partnership",
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3443",
       "source": "Federal Reserve Policy Rates Feed"
     },
     "bae391c945d928f0a2f3": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Federal Reserve Board to make formatting changes to DDP XML files",
       "url": "http://www.federalreserve.gov/feeds/PRATES.html#3217",
       "source": "Federal Reserve Policy Rates Feed"
     },
     "937ef0d0a5e265c7b062": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
       "url": "http://www.federalreserve.gov/feeds/H15.html#3813",
       "source": "Federal Reserve Selected Interest Rates H.15"
     },
     "1a1ca774e22d952c22cc": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
       "url": "http://www.federalreserve.gov/feeds/H15.html#3793",
       "source": "Federal Reserve Selected Interest Rates H.15"
     },
     "72a5201039b32ac6dcb2": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Data Download Program and Federal Reserve Economic Data Partnership",
       "url": "http://www.federalreserve.gov/feeds/H15.html#3700",
       "source": "Federal Reserve Selected Interest Rates H.15"
     },
     "610c27c56c6bfbf7323c": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Federal Reserve Board seeks DDP users for online survey",
       "url": "http://www.federalreserve.gov/feeds/H15.html#3507",
       "source": "Federal Reserve Selected Interest Rates H.15"
     },
     "0cbedf1915836e2c5b08": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Data Download Program and Federal Reserve Economic Data Partnership",
       "url": "http://www.federalreserve.gov/feeds/H15.html#3441",
       "source": "Federal Reserve Selected Interest Rates H.15"
     },
     "475e4792debb7c9f96b8": {
       "first_seen_at": "2026-06-21T19:03:10+00:00",
-      "last_seen_at": "2026-06-23T23:31:08+00:00",
+      "last_seen_at": "2026-06-23T23:56:50+00:00",
       "title": "Correction to Treasury rates for Wednesday, September 13, 2023",
       "url": "http://www.federalreserve.gov/feeds/H15.html#3320",
       "source": "Federal Reserve Selected Interest Rates H.15"
     },
     "97068fdf9900f0308981": {
       "first_seen_at": "2026-06-21T19:03:11+00:00",
-      "last_seen_at": "2026-06-23T23:31:09+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Frank Elderson: Fireside chat",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
       "source": "ECB Press Releases Speeches Interviews"
     },
     "396fcfa862b5f804326e": {
       "first_seen_at": "2026-06-21T19:03:11+00:00",
-      "last_seen_at": "2026-06-23T23:31:09+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619~53145e5a0b.en.html",
       "source": "ECB Press Releases Speeches Interviews"
     },
     "48a6974b9440f628e8b5": {
       "first_seen_at": "2026-06-21T19:03:11+00:00",
-      "last_seen_at": "2026-06-23T23:31:09+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "ECB publishes consolidated banking data for end-December 2025",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html",
       "source": "ECB Press Releases Speeches Interviews"
@@ -822,140 +822,140 @@
     },
     "1cd0c6335a981e79e6d3": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Euro area monthly balance of payments: April 2026",
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260618~e4d92a6f16.en.html",
       "source": "ECB Statistical Press Releases"
     },
     "8067ce94e1e90958df20": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Euro area bank interest rate statistics: April 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html",
       "source": "ECB Statistical Press Releases"
     },
     "c71583645464b1262cca": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Monetary developments in the euro area: April 2026",
       "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html",
       "source": "ECB Statistical Press Releases"
     },
     "fd29d3e7a320d14b43be": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Meeting of 29-30 April 2026",
       "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260528~a93230dc4b.en.html",
       "source": "ECB Statistical Press Releases"
     },
     "83f6259c0606046dd26a": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Euro area monthly balance of payments: March 2026",
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260521~bfe72faad3.en.html",
       "source": "ECB Statistical Press Releases"
     },
     "69ac8770d9cb14e05caf": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Euro area bank interest rate statistics: March 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2605~8bd04df5cc.en.html",
       "source": "ECB Statistical Press Releases"
     },
     "a25c7d6d192b2d079f0a": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "20260054 (MRO,liquidity providing):18182.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html",
       "source": "ECB Open Market Operations and Communication"
     },
     "66e124a6391b48e8e0db": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "20260053 (OT,liquidity providing):34.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html",
       "source": "ECB Open Market Operations and Communication"
     },
     "bd3d633bf16c120ad4a8": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "20260052 (MRO,liquidity providing):15726.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html",
       "source": "ECB Open Market Operations and Communication"
     },
     "5c93fa98baaa6da9061f": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "20260051 (OT,liquidity providing):48.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260051.en.html",
       "source": "ECB Open Market Operations and Communication"
     },
     "50371a9a8d5e6571ca52": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "20260050 (MRO,liquidity providing):12909.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260050.en.html",
       "source": "ECB Open Market Operations and Communication"
     },
     "219725d79f56684c6f6c": {
       "first_seen_at": "2026-06-21T19:03:12+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "20260049 (OT,liquidity providing):28.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260049.en.html",
       "source": "ECB Open Market Operations and Communication"
     },
     "7e3e1bc9ce20e901a6f7": {
       "first_seen_at": "2026-06-21T19:03:13+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "Interactive web page",
       "url": "http://www.ecb.europa.eu/stats/money/yc/html/index.en.html",
       "source": "ECB Euro Area Yield Curve"
     },
     "0558a607c4b72dd08a18": {
       "first_seen_at": "2026-06-21T19:03:13+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "Latest (06 January 2017) euro area government bond yield curves",
       "url": "http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_latest.zip?",
       "source": "ECB Euro Area Yield Curve"
     },
     "edf7e240f528f2ea2428": {
       "first_seen_at": "2026-06-21T19:03:13+00:00",
-      "last_seen_at": "2026-06-23T23:31:10+00:00",
+      "last_seen_at": "2026-06-23T23:56:52+00:00",
       "title": "Historical euro area government bond yield curve",
       "url": "http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_historical.zip?",
       "source": "ECB Euro Area Yield Curve"
     },
     "a512d9f1cfae70b65528": {
       "first_seen_at": "2026-06-21T19:03:15+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Basel Committee publishes report on information and communication technology risk management",
       "url": "https://www.bis.org/press/p260602.htm",
       "source": "BIS Press Releases"
     },
     "5eac89fdc08b7d848295": {
       "first_seen_at": "2026-06-21T19:03:15+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Project Agorá shows how tokenisation can improve wholesale cross-border payments; work will advance to real-value testing",
       "url": "https://www.bis.org/press/p260527.htm",
       "source": "BIS Press Releases"
     },
     "55f26e7f971d6e9448bc": {
       "first_seen_at": "2026-06-21T19:03:15+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
       "url": "https://www.bis.org/press/p260520.htm",
       "source": "BIS Press Releases"
     },
     "da04f5d9769cd46a3bd1": {
       "first_seen_at": "2026-06-21T19:03:15+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Central bank Governors appointed to lead BIS Board and key groups",
       "url": "https://www.bis.org/press/p260512.htm",
       "source": "BIS Press Releases"
     },
     "f614029309f8a316c5cd": {
       "first_seen_at": "2026-06-21T19:03:15+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "CPMI-IOSCO publishes for consultation updated guidance and public disclosures to support the implementation of initial margin proposals",
       "url": "https://www.bis.org/press/p260506.htm",
       "source": "BIS Press Releases"
@@ -1011,42 +1011,42 @@
     },
     "9ce43b77a7053ef07c32": {
       "first_seen_at": "2026-06-21T19:03:16+00:00",
-      "last_seen_at": "2026-06-23T23:31:12+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "BIS residential property price statistics, Q4 2025",
       "url": "https://www.bis.org/statistics/pp_residential_2605.htm",
       "source": "BIS Statistical Releases"
     },
     "2c0d0f0b826ff69b6b8e": {
       "first_seen_at": "2026-06-21T19:03:16+00:00",
-      "last_seen_at": "2026-06-23T23:31:12+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "BIS global liquidity indicators at end-December 2025",
       "url": "https://www.bis.org/statistics/gli2604.htm",
       "source": "BIS Statistical Releases"
     },
     "4fe20982ac3d37bb99ff": {
       "first_seen_at": "2026-06-21T19:03:16+00:00",
-      "last_seen_at": "2026-06-23T23:31:12+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-December 2025",
       "url": "https://www.bis.org/statistics/rppb2604.htm",
       "source": "BIS Statistical Releases"
     },
     "d01086e6258cdf7a21df": {
       "first_seen_at": "2026-06-21T19:03:16+00:00",
-      "last_seen_at": "2026-06-23T23:31:12+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Tap a card, pay by phone, but cash still holds its own",
       "url": "https://www.bis.org/statistics/payment_stats/commentary2604.htm",
       "source": "BIS Statistical Releases"
     },
     "6b8e6f0256e1ae8a3deb": {
       "first_seen_at": "2026-06-21T19:03:16+00:00",
-      "last_seen_at": "2026-06-23T23:31:12+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "BIS residential property price statistics, Q3 2025",
       "url": "https://www.bis.org/statistics/pp_residential_2602.htm",
       "source": "BIS Statistical Releases"
     },
     "09b28109b3b54548a17c": {
       "first_seen_at": "2026-06-21T19:03:16+00:00",
-      "last_seen_at": "2026-06-23T23:31:12+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "BIS global liquidity indicators at end-September 2025",
       "url": "https://www.bis.org/statistics/gli2601.htm",
       "source": "BIS Statistical Releases"
@@ -1165,7 +1165,7 @@
     },
     "383918453578d8e62623": {
       "first_seen_at": "2026-06-22T01:32:15+00:00",
-      "last_seen_at": "2026-06-23T23:30:56+00:00",
+      "last_seen_at": "2026-06-23T23:56:38+00:00",
       "title": "松本大臣記者会見（令和8年6月22日）要旨を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260622-01",
       "source": "Japan Digital Agency News RSS"
@@ -1249,7 +1249,7 @@
     },
     "b06261003b3d7cc1251d": {
       "first_seen_at": "2026-06-22T06:03:05+00:00",
-      "last_seen_at": "2026-06-23T23:30:56+00:00",
+      "last_seen_at": "2026-06-23T23:56:38+00:00",
       "title": "企画競争：病院情報システム等の刷新に向けた標準仕様策定業務を掲載しました",
       "url": "https://www.digital.go.jp/procurement",
       "source": "Japan Digital Agency News RSS"
@@ -1312,14 +1312,14 @@
     },
     "8fc54ea435a4e93e7aa4": {
       "first_seen_at": "2026-06-22T10:27:33+00:00",
-      "last_seen_at": "2026-06-23T23:31:01+00:00",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
       "title": "Chinese universities are cutting language majors to make way for AI",
       "url": "https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed"
     },
     "4289fd997728ddb8b7a8": {
       "first_seen_at": "2026-06-22T10:27:38+00:00",
-      "last_seen_at": "2026-06-23T23:31:04+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "鼎新數智｜EasyFlow .NET - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-10980-0e640-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS"
@@ -1368,56 +1368,56 @@
     },
     "b1b606c78b804208e15f": {
       "first_seen_at": "2026-06-22T14:34:52+00:00",
-      "last_seen_at": "2026-06-23T23:31:07+00:00",
+      "last_seen_at": "2026-06-23T23:56:49+00:00",
       "title": "Waller, Welcoming Remarks on the International Role of the U.S. Dollar",
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
       "source": "Federal Reserve Speeches and Testimony"
     },
     "4cc6685d5975716073ef": {
       "first_seen_at": "2026-06-22T14:34:54+00:00",
-      "last_seen_at": "2026-06-23T23:31:09+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
       "source": "ECB Press Releases Speeches Interviews"
     },
     "69943fd864e17c898f6e": {
       "first_seen_at": "2026-06-22T14:34:56+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Emmanuel Moulin: From innovation to monetary sovereignty - striking the right note",
       "url": "https://www.bis.org/review/r260622j.htm",
       "source": "BIS Central Bankers Speeches"
     },
     "6d784be18bab6e31d65f": {
       "first_seen_at": "2026-06-22T14:34:56+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Ida Wolden Bache: Policy rate kept unchanged at this meeting",
       "url": "https://www.bis.org/review/r260622i.htm",
       "source": "BIS Central Bankers Speeches"
     },
     "095a06b9bd5e330e4136": {
       "first_seen_at": "2026-06-22T14:34:56+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Joachim Nagel: New forms of money and the transmission of monetary policy",
       "url": "https://www.bis.org/review/r260622h.htm",
       "source": "BIS Central Bankers Speeches"
     },
     "ed00e4d7e76c525830ad": {
       "first_seen_at": "2026-06-22T14:34:56+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Christine Lagarde: Money in transition",
       "url": "https://www.bis.org/review/r260622g.htm",
       "source": "BIS Central Bankers Speeches"
     },
     "08ac2db8043b6d5106c3": {
       "first_seen_at": "2026-06-22T14:34:56+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Gabriel Makhlouf: Monetary policy and the economic outlook",
       "url": "https://www.bis.org/review/r260622f.htm",
       "source": "BIS Central Bankers Speeches"
     },
     "ba5d634b95773ee98c80": {
       "first_seen_at": "2026-06-22T14:34:56+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "Chia Der Jiun: Reform and cooperation in global financial governance",
       "url": "https://www.bis.org/review/r260622e.htm",
       "source": "BIS Central Bankers Speeches"
@@ -1431,21 +1431,21 @@
     },
     "8129c1fe9ac2c35d3447": {
       "first_seen_at": "2026-06-22T17:53:29+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:29+00:00",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI News RSS"
     },
     "3aad61bc1de2e8592d29": {
       "first_seen_at": "2026-06-22T17:53:29+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:29+00:00",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI News RSS"
     },
     "34283ef90f32f519000c": {
       "first_seen_at": "2026-06-22T17:53:29+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "From pledge to practice: Building a more inclusive open source ecosystem",
       "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
       "source": "GitHub Blog Atom"
@@ -1557,14 +1557,14 @@
     },
     "12ef40449a8b17e610b6": {
       "first_seen_at": "2026-06-23T01:26:26+00:00",
-      "last_seen_at": "2026-06-23T23:31:03+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU98582044/",
       "source": "JVN Japan Vulnerability Notes"
     },
     "fa8b5ba92294d3d3da2c": {
       "first_seen_at": "2026-06-23T01:26:26+00:00",
-      "last_seen_at": "2026-06-23T23:31:03+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90386605/",
       "source": "JVN Japan Vulnerability Notes"
@@ -1606,21 +1606,21 @@
     },
     "2e83a5f0c9ed550b14dc": {
       "first_seen_at": "2026-06-23T02:24:46+00:00",
-      "last_seen_at": "2026-06-23T23:31:05+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "source": "GitHub Trending RSS All Languages Daily"
     },
     "d9ca6a9e36e0d48eee07": {
       "first_seen_at": "2026-06-23T02:24:46+00:00",
-      "last_seen_at": "2026-06-23T23:31:05+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "source": "GitHub Trending RSS All Languages Daily"
     },
     "40e65d57b8ad6403769f": {
       "first_seen_at": "2026-06-23T02:24:46+00:00",
-      "last_seen_at": "2026-06-23T23:31:05+00:00",
+      "last_seen_at": "2026-06-23T23:56:47+00:00",
       "title": "Stirling-Tools/Stirling-PDF",
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "source": "GitHub Trending RSS All Languages Daily"
@@ -1662,14 +1662,14 @@
     },
     "2de0c3faf98a8e773c34": {
       "first_seen_at": "2026-06-23T05:13:51+00:00",
-      "last_seen_at": "2026-06-23T23:30:51+00:00",
+      "last_seen_at": "2026-06-23T23:56:33+00:00",
       "title": "Agentic commerce’s dirty secret: the data powering AI purchases is often wrong",
       "url": "https://e27.co/agentic-commerces-dirty-secret-the-data-powering-ai-purchases-is-often-wrong-20260623/",
       "source": "e27 Asia Startup and Tech Feed"
     },
     "00b2ad2a8ae13576682f": {
       "first_seen_at": "2026-06-23T05:14:04+00:00",
-      "last_seen_at": "2026-06-23T23:31:03+00:00",
+      "last_seen_at": "2026-06-23T23:56:45+00:00",
       "title": "横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96872547/",
       "source": "JVN Japan Vulnerability Notes"
@@ -1690,42 +1690,42 @@
     },
     "17c288f92d6d247b9f84": {
       "first_seen_at": "2026-06-23T06:35:28+00:00",
-      "last_seen_at": "2026-06-23T23:30:51+00:00",
+      "last_seen_at": "2026-06-23T23:56:33+00:00",
       "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
       "url": "https://e27.co/ecosystem-roundup-the-agentic-commerce-trust-gap-no-one-wants-to-fix-20260623/",
       "source": "e27 Asia Startup and Tech Feed"
     },
     "ef90a32a24f7b9ad8818": {
       "first_seen_at": "2026-06-23T06:35:28+00:00",
-      "last_seen_at": "2026-06-23T23:30:51+00:00",
+      "last_seen_at": "2026-06-23T23:56:33+00:00",
       "title": "5 Seoul startups made their Southeast Asia debut at Echelon Singapore 2026 under the SBA pavilion",
       "url": "https://e27.co/5-seoul-startups-made-their-southeast-asia-debut-at-echelon-singapore-2026-under-the-sba-pavilion-20260623/",
       "source": "e27 Asia Startup and Tech Feed"
     },
     "7c691081f70c1b668b48": {
       "first_seen_at": "2026-06-23T06:35:33+00:00",
-      "last_seen_at": "2026-06-23T23:30:56+00:00",
+      "last_seen_at": "2026-06-23T23:56:38+00:00",
       "title": "JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました",
       "url": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
       "source": "Japan Digital Agency News RSS"
     },
     "4d9cf18ebf3aa448f0e3": {
       "first_seen_at": "2026-06-23T06:35:33+00:00",
-      "last_seen_at": "2026-06-23T23:30:56+00:00",
+      "last_seen_at": "2026-06-23T23:56:38+00:00",
       "title": "公的個人認証サービス（JPKI）： 最新の利用者情報（4情報）提供サービスの資料を更新しました",
       "url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
       "source": "Japan Digital Agency News RSS"
     },
     "57d4797f2de74633ab3c": {
       "first_seen_at": "2026-06-23T06:35:33+00:00",
-      "last_seen_at": "2026-06-23T23:30:56+00:00",
+      "last_seen_at": "2026-06-23T23:56:38+00:00",
       "title": "高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization",
       "source": "Japan Digital Agency News RSS"
     },
     "d8cd04de0e249cb01fc7": {
       "first_seen_at": "2026-06-23T06:35:33+00:00",
-      "last_seen_at": "2026-06-23T23:30:56+00:00",
+      "last_seen_at": "2026-06-23T23:56:38+00:00",
       "title": "OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました",
       "url": "https://www.digital.go.jp/news/038b936a-c9f5-468a-8914-eccdd5011125",
       "source": "Japan Digital Agency News RSS"
@@ -1739,7 +1739,7 @@
     },
     "7e82be4789c7e565b5a5": {
       "first_seen_at": "2026-06-23T09:21:56+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:29+00:00",
       "title": "How Omio is building the future of conversational travel",
       "url": "https://openai.com/index/omio",
       "source": "OpenAI News RSS"
@@ -1753,21 +1753,21 @@
     },
     "8e7cb618156c8591228e": {
       "first_seen_at": "2026-06-23T09:22:00+00:00",
-      "last_seen_at": "2026-06-23T23:30:51+00:00",
+      "last_seen_at": "2026-06-23T23:56:33+00:00",
       "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
       "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
       "source": "e27 Asia Startup and Tech Feed"
     },
     "e4a485842297a818bfa7": {
       "first_seen_at": "2026-06-23T09:22:00+00:00",
-      "last_seen_at": "2026-06-23T23:30:51+00:00",
+      "last_seen_at": "2026-06-23T23:56:33+00:00",
       "title": "Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism",
       "url": "https://e27.co/tribe-academy-ai-bilingualism-20260623/",
       "source": "e27 Asia Startup and Tech Feed"
     },
     "dcc517d318101b4a78d5": {
       "first_seen_at": "2026-06-23T09:22:19+00:00",
-      "last_seen_at": "2026-06-23T23:31:09+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Philip R. Lane: Introductory remarks",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
       "source": "ECB Press Releases Speeches Interviews"
@@ -1781,7 +1781,7 @@
     },
     "35e4c5bd3b3695332b32": {
       "first_seen_at": "2026-06-23T10:40:25+00:00",
-      "last_seen_at": "2026-06-23T23:31:01+00:00",
+      "last_seen_at": "2026-06-23T23:56:42+00:00",
       "title": "The AI-powered World Cup runs on thousands of data workers",
       "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed"
@@ -1802,7 +1802,7 @@
     },
     "f6e76d16643fd71313a8": {
       "first_seen_at": "2026-06-23T11:46:31+00:00",
-      "last_seen_at": "2026-06-23T23:31:11+00:00",
+      "last_seen_at": "2026-06-23T23:56:55+00:00",
       "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
       "url": "https://www.bis.org/press/p260623.htm",
       "source": "BIS Press Releases"
@@ -1823,7 +1823,7 @@
     },
     "ef51ad246dbd0c619c96": {
       "first_seen_at": "2026-06-23T13:45:35+00:00",
-      "last_seen_at": "2026-06-23T23:30:51+00:00",
+      "last_seen_at": "2026-06-23T23:56:33+00:00",
       "title": "Tokenised assets have moved on-chain. The liquidity has not followed",
       "url": "https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/",
       "source": "e27 Asia Startup and Tech Feed"
@@ -1858,7 +1858,7 @@
     },
     "f16bc45d95f27db40356": {
       "first_seen_at": "2026-06-23T14:48:49+00:00",
-      "last_seen_at": "2026-06-23T23:31:09+00:00",
+      "last_seen_at": "2026-06-23T23:56:51+00:00",
       "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf",
       "source": "ECB Press Releases Speeches Interviews"
@@ -1879,14 +1879,14 @@
     },
     "d6cb1aca2d025030976e": {
       "first_seen_at": "2026-06-23T16:45:44+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "I automated my job (and it made me a better leader)",
       "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
       "source": "GitHub Blog Atom"
     },
     "46654d05c1baaac7870f": {
       "first_seen_at": "2026-06-23T16:45:44+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Deprecation of Python 3.9 for Dependabot",
       "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
       "source": "GitHub Changelog Atom"
@@ -1900,28 +1900,28 @@
     },
     "92679571f6f27dcc0479": {
       "first_seen_at": "2026-06-23T17:28:50+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:29+00:00",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "source": "OpenAI News RSS"
     },
     "3ad4d44a333719838ff0": {
       "first_seen_at": "2026-06-23T17:28:50+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Automatic Dependabot access to GitHub-hosted registries",
       "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
       "source": "GitHub Changelog Atom"
     },
     "eb141378e7e18607d308": {
       "first_seen_at": "2026-06-23T17:28:50+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Copilot CLI: New terminal interface is generally available",
       "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
       "source": "GitHub Changelog Atom"
     },
     "677333cf2b0c27fdaf5d": {
       "first_seen_at": "2026-06-23T18:15:25+00:00",
-      "last_seen_at": "2026-06-23T23:30:49+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita",
       "url": "https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa",
       "source": "Hatena Bookmark Hotentry IT"
@@ -1935,21 +1935,21 @@
     },
     "36bb09504cf4e248e2b0": {
       "first_seen_at": "2026-06-23T19:04:43+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
       "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
       "source": "GitHub Blog Atom"
     },
     "18bd94a6365a14c844c9": {
       "first_seen_at": "2026-06-23T19:04:43+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Fetch Code Quality findings via REST API",
       "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
       "source": "GitHub Changelog Atom"
     },
     "275b7339f83602c9cf55": {
       "first_seen_at": "2026-06-23T19:04:43+00:00",
-      "last_seen_at": "2026-06-23T23:30:49+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "NotebookLMの限界を突破する代替ツール「Open Notebook」が自由すぎた | ライフハッカー・ジャパン",
       "url": "https://www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/",
       "source": "Hatena Bookmark Hotentry IT"
@@ -1963,14 +1963,14 @@
     },
     "5a7ba075493dbd940518": {
       "first_seen_at": "2026-06-23T20:39:50+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:29+00:00",
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "source": "OpenAI News RSS"
     },
     "4f5ce474a20fd0ceb928": {
       "first_seen_at": "2026-06-23T20:39:51+00:00",
-      "last_seen_at": "2026-06-23T23:30:48+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Secret scanning adds extended metadata for Replicate secrets",
       "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
       "source": "GitHub Changelog Atom"
@@ -1984,7 +1984,7 @@
     },
     "4f235c1dbc61af9e6258": {
       "first_seen_at": "2026-06-23T21:19:01+00:00",
-      "last_seen_at": "2026-06-23T23:30:49+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "The Coming Loop",
       "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
       "source": "Hatena Bookmark Hotentry IT"
@@ -1998,7 +1998,7 @@
     },
     "bb0d9e5d08afb6ccff79": {
       "first_seen_at": "2026-06-23T21:54:55+00:00",
-      "last_seen_at": "2026-06-23T23:30:49+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "標準CSSは美しくなった、もはやTailwindは不要",
       "url": "https://zenn.dev/higakijin/articles/06276828c81546",
       "source": "Hatena Bookmark Hotentry IT"
@@ -2019,10 +2019,24 @@
     },
     "44d1b8e9fe85e9e6d73b": {
       "first_seen_at": "2026-06-23T23:30:49+00:00",
-      "last_seen_at": "2026-06-23T23:30:49+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
       "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト - Qiita",
       "url": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1",
       "source": "Hatena Bookmark Hotentry IT"
+    },
+    "7f3909afb77c1f717056": {
+      "first_seen_at": "2026-06-23T23:56:30+00:00",
+      "last_seen_at": "2026-06-23T23:56:30+00:00",
+      "title": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html",
+      "source": "Hatena Bookmark Hotentry IT"
+    },
+    "02d4804de00f2d6eb9c6": {
+      "first_seen_at": "2026-06-23T23:56:43+00:00",
+      "last_seen_at": "2026-06-23T23:56:43+00:00",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch"
     }
   }
 }
