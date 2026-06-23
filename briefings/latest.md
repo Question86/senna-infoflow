@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T13:45:55+00:00_
+_Generiert: 2026-06-23T14:48:52+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-23T13:45:44+00:00`, fetched `2026-06-23T13:45:30+00:00`
+  - Zeit: published `2026-06-23T14:48:39+00:00`, fetched `2026-06-23T14:48:23+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)
   - Kurz: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Boris Vujčić: Outlook for the euro area economy and monetary policy** — Score 12, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-23T13:55:00+00:00`, fetched `2026-06-23T14:48:23+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Boris Vujčić: Outlook for the euro area economy and monetary policy
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan** — Score 12, observation — [Quelle](https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T08:08:48+00:00`, fetched `2026-06-23T09:21:55+00:00`
@@ -177,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 126 km S of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-23T14:17:25.040+00:00`, fetched `2026-06-23T14:48:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-23 13:58:36 UTC 2026-06-23 13:58:36 UTC at epicenter Location 20.672°S 169.110°E Depth 30.17 km (18.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 174 km E of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-23T07:30:01.040+00:00`, fetched `2026-06-23T07:57:27+00:00`
@@ -231,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ＡＩへの煽りランキング** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260623230231)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-23T14:04:12+00:00`, fetched `2026-06-23T14:48:23+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: １．優秀なのは分かったけど、でも君たちは自分自身の肉体は持っていないんだよね ２．生意気なことを言っていると、電源を抜くよ ３．このシリコン野郎w（電子半導体の構成要素） 他に何かあるだろうか
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/na-k10015157301000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-23T08:19:27+00:00`, fetched `2026-06-23T10:40:11+00:00`
@@ -239,33 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: KDDIは、取引先の企業に提供しているメールシステムが外部からの不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件、外部に流出した可能性があると発表しました。 このシステムは…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news114.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T07:29:51+00:00`, fetched `2026-06-23T09:21:55+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: KDDIは6月23日、ISP事業者向けに提供しているメールシステムが不正アクセスを受けたと発表した。これにより、提供先のISP事業者が手掛けるメールサービスの情報が最大1422万件漏えいした可能性があるという。 対象サービスはSTNetの「ピカラ光サービス」、「ピカラモバイルサービス」「お仕事ピカラサービス」に関するメ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **jamiepine/voicebox** — Score 5, opportunity — [Quelle](https://github.com/jamiepine/voicebox)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo, clone (x0.45)
-  - Kurz: The open-source AI voice studio. Clone, dictate, create. Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Features • API • Troubleshooting Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first A…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Stirling-Tools/Stirling-PDF** — Score 5, observation — [Quelle](https://github.com/Stirling-Tools/Stirling-PDF)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere Stirling PDF - The Open-Source PDF Platform Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. Key Capabilities Everywhere you work -…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

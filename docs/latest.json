@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T13:45:55+00:00",
-  "run_id": "2026-06-23T13:45:55+00:00",
+  "generated_at": "2026-06-23T14:48:52+00:00",
+  "run_id": "2026-06-23T14:48:52+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 4,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 17,
-    "observe": 24,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-23T13:45:44+00:00",
-        "fetched_at": "2026-06-23T13:45:30+00:00",
+        "published_at": "2026-06-23T14:48:39+00:00",
+        "fetched_at": "2026-06-23T14:48:23+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "299200fc78b2041dae1a"
+        "id": "fe1a18ece19b6b88c083"
       },
       {
         "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -640,6 +640,27 @@
         "id": "f6e76d16643fd71313a8"
       },
       {
+        "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-06-23T13:55:00+00:00",
+        "fetched_at": "2026-06-23T14:48:23+00:00",
+        "summary": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+6.2); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f16bc45d95f27db40356"
+      },
+      {
         "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
         "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -722,6 +743,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7e82be4789c7e565b5a5"
+      },
+      {
+        "title": "M 5.3 - 126 km S of Isangel, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-23T14:17:25.040+00:00",
+        "fetched_at": "2026-06-23T14:48:23+00:00",
+        "summary": "Time 2026-06-23 13:58:36 UTC 2026-06-23 13:58:36 UTC at epicenter Location 20.672°S 169.110°E Depth 30.17 km (18.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b744bbe9bacc7d6a6054"
       },
       {
         "title": "M 5.0 - 174 km E of Hihifo, Tonga",
@@ -923,6 +980,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6003088d5d2d9289f423"
+      },
+      {
+        "title": "ＡＩへの煽りランキング",
+        "url": "https://anond.hatelabo.jp/20260623230231",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-23T14:04:12+00:00",
+        "fetched_at": "2026-06-23T14:48:23+00:00",
+        "summary": "１．優秀なのは分かったけど、でも君たちは自分自身の肉体は持っていないんだよね ２．生意気なことを言っていると、電源を抜くよ ３．このシリコン野郎w（電子半導体の構成要素） 他に何かあるだろうか",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23d3aac11729f0d4f35b"
       },
       {
         "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
@@ -1186,8 +1264,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-23T13:45:44+00:00",
-      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "published_at": "2026-06-23T14:48:39+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1221,7 +1299,7 @@
         "HD",
         "LOW"
       ],
-      "id": "299200fc78b2041dae1a"
+      "id": "fe1a18ece19b6b88c083"
     },
     {
       "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -1790,6 +1868,27 @@
       "id": "f6e76d16643fd71313a8"
     },
     {
+      "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-06-23T13:55:00+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
+      "summary": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+6.2); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f16bc45d95f27db40356"
+    },
+    {
       "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
       "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1872,6 +1971,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7e82be4789c7e565b5a5"
+    },
+    {
+      "title": "M 5.3 - 126 km S of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-23T14:17:25.040+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
+      "summary": "Time 2026-06-23 13:58:36 UTC 2026-06-23 13:58:36 UTC at epicenter Location 20.672°S 169.110°E Depth 30.17 km (18.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b744bbe9bacc7d6a6054"
     },
     {
       "title": "M 5.0 - 174 km E of Hihifo, Tonga",
@@ -2073,6 +2208,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6003088d5d2d9289f423"
+    },
+    {
+      "title": "ＡＩへの煽りランキング",
+      "url": "https://anond.hatelabo.jp/20260623230231",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T14:04:12+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
+      "summary": "１．優秀なのは分かったけど、でも君たちは自分自身の肉体は持っていないんだよね ２．生意気なことを言っていると、電源を抜くよ ３．このシリコン野郎w（電子半導体の構成要素） 他に何かあるだろうか",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23d3aac11729f0d4f35b"
     },
     {
       "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
@@ -2335,8 +2491,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-23T13:45:44+00:00",
-      "fetched_at": "2026-06-23T13:45:30+00:00",
+      "published_at": "2026-06-23T14:48:39+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2370,70 +2526,85 @@
         "HD",
         "LOW"
       ],
-      "id": "299200fc78b2041dae1a"
+      "id": "fe1a18ece19b6b88c083"
     },
     {
-      "title": "Tokenised assets have moved on-chain. The liquidity has not followed",
-      "url": "https://e27.co/tokenised-assets-have-moved-on-chain-the-liquidity-has-not-followed-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-06-23T13:00:17+00:00",
-      "fetched_at": "2026-06-23T13:45:30+00:00",
-      "summary": "A DWF Labs Research report estimates that more than US$31 billion of tokenised assets, excluding stablecoins, now sits on-chain, up 50 per cent this year. Growth has been led by US Treasuries and private credit, as asset managers digitise familiar products for blockchain-based distribution. The more revealing figure is how little of that capital is […] The post Tokenised assets have moved on-chain. The liquidity has…",
+      "published_at": "2026-06-23T13:55:00+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
+      "summary": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
+        "euro area",
+        "Macro/Policy"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "ef51ad246dbd0c619c96"
-    },
-    {
-      "title": "世界一流エンジニアがAI後に共通してやっている一つの事｜牛尾 剛",
-      "url": "https://note.com/simplearchitect/n/n25ffaadb6cf2",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-21T01:33:36+00:00",
-      "fetched_at": "2026-06-23T13:45:30+00:00",
-      "summary": "昨日編集の山本さんに、「世界一流のエンジニアの人がAI後にどのようにやってるか知りたいです」と言われたので、いろいろ思い出して考えてみて、「ああああああああ、一つあるやん！」って気づいたのでブログを書きます。 私は、アメリカのシアトルで超大手のクラウド開発チームでエンジニアとして働いています。サーバ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+6.2); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c23d57f43981bc5cecf7"
+      "id": "f16bc45d95f27db40356"
+    },
+    {
+      "title": "M 5.3 - 126 km S of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-23T14:17:25.040+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
+      "summary": "Time 2026-06-23 13:58:36 UTC 2026-06-23 13:58:36 UTC at epicenter Location 20.672°S 169.110°E Depth 30.17 km (18.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b744bbe9bacc7d6a6054"
+    },
+    {
+      "title": "ＡＩへの煽りランキング",
+      "url": "https://anond.hatelabo.jp/20260623230231",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T14:04:12+00:00",
+      "fetched_at": "2026-06-23T14:48:23+00:00",
+      "summary": "１．優秀なのは分かったけど、でも君たちは自分自身の肉体は持っていないんだよね ２．生意気なことを言っていると、電源を抜くよ ３．このシリコン野郎w（電子半導体の構成要素） 他に何かあるだろうか",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23d3aac11729f0d4f35b"
     }
   ],
   "source_errors": [],
