@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-23T17:18:45+00:00",
-    "fetched_at": "2026-06-23T18:15:22+00:00",
+    "published_at": "2026-06-23T20:40:04+00:00",
+    "fetched_at": "2026-06-23T20:39:49+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "b0eef94ce5254c040bce"
+    "id": "e47224b11ea9eaf62ab6"
   },
   {
     "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -608,6 +608,28 @@
     "id": "fa8b5ba92294d3d3da2c"
   },
   {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:00:00+00:00",
+    "fetched_at": "2026-06-23T20:39:49+00:00",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5a7ba075493dbd940518"
+  },
+  {
     "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
     "url": "https://www.bis.org/press/p260623.htm",
     "source": "BIS Press Releases",
@@ -651,6 +673,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a161944fcf32435de1b3"
+  },
+  {
+    "title": "Secret scanning adds extended metadata for Replicate secrets",
+    "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-23T19:50:00+00:00",
+    "fetched_at": "2026-06-23T20:39:49+00:00",
+    "summary": "Secret scanning now includes extended metadata for Replicate secrets, providing richer context for leaked credentials. Extended metadata support This pattern now includes extended metadata when detected, providing richer context about… The post Secret scanning adds extended metadata for Replicate secrets appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f5ce474a20fd0ceb928"
   },
   {
     "title": "I automated my job (and it made me a better leader)",

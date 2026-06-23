@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T19:49:39+00:00_
+_Generiert: 2026-06-23T20:40:15+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-23T17:18:45+00:00`, fetched `2026-06-23T18:15:22+00:00`
+  - Zeit: published `2026-06-23T20:40:04+00:00`, fetched `2026-06-23T20:39:49+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Helping build shared standards for advanced AI** — Score 13, observation — [Quelle](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-23T13:00:00+00:00`, fetched `2026-06-23T20:39:49+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)
+  - Kurz: OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS** — Score 13, observation — [Quelle](https://www.bis.org/press/p260623.htm)
   - Quelle: BIS Press Releases / `rss`
   - Zeit: published `2026-06-23T12:12:00+00:00`, fetched `2026-06-23T11:46:06+00:00`
@@ -159,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: 管四 @guansi 最近发现了一个特别有意思的用法。我把 GPT 和 DeepSeek V4 Pro 当高级工程师用，负责写 SOP、写 CI/CD 流程、设计方案。然后把这些东西一股脑丢给 Hermes Agent 里的 Minimax M3 去执行。 正常情况下，ChatGPT 一个小时能搞定，DeepSeek 两个小时也差不多了。M3 2026-06-22 13:56:13 管四 @guansi 最近发...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning adds extended metadata for Replicate secrets** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-23T19:50:00+00:00`, fetched `2026-06-23T20:39:49+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret scanning now includes extended metadata for Replicate secrets, providing richer context for leaked credentials. Extended metadata support This pattern now includes extended metadata when detected, providing richer context about… The post Secret scanning adds extended metadata for Replicate secrets appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **I automated my job (and it made me a better leader)** — Score 12, opportunity — [Quelle](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-06-23T16:00:00+00:00`, fetched `2026-06-23T16:45:43+00:00`
@@ -258,24 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-23 13:58:36 UTC 2026-06-23 13:58:36 UTC at epicenter Location 20.672°S 169.110°E Depth 30.17 km (18.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 174 km E of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-23T07:30:01.040+00:00`, fetched `2026-06-23T07:57:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-23 07:11:14 UTC 2026-06-23 07:11:14 UTC at epicenter Location 16.177°S 172.180°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery** — Score 8, observation — [Quelle](https://openai.com/index/gpt-5-immunology-mystery)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-23T17:00:00+00:00`, fetched `2026-06-23T17:28:49+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
