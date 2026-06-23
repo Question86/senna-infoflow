@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T05:14:12+00:00_
+_Generiert: 2026-06-23T06:35:51+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Agentic commerce’s dirty secret: the data powering AI purchases is often wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+27 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: The agentic commerce trust gap no one wants to fix“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Ecosystem Roundup: The agentic commerce trust gap no one wants to fix** — Score 23, opportunity — [Quelle](https://e27.co/ecosystem-roundup-the-agentic-commerce-trust-gap-no-one-wants-to-fix-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-23T06:29:49+00:00`, fetched `2026-06-23T06:35:23+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Everyone wants to build the pipes. OpenAI, Stripe, Google, Visa — the race to let AI agents spend money autonomously is well funded and well covered. What is conspicuously absent is the layer that asks a far more uncomfortable question: should the agent be spending that money at all, and can the data driving that […] The post Ecosystem Roundup: The agentic commerce trust gap no one wants to fix appeared first on e27…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Agentic commerce’s dirty secret: the data powering AI purchases is often wrong** — Score 23, opportunity — [Quelle](https://e27.co/agentic-commerces-dirty-secret-the-data-powering-ai-purchases-is-often-wrong-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T05:02:01+00:00`, fetched `2026-06-23T05:13:47+00:00`
@@ -39,23 +48,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 produc…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- **The great rotation: How AI stocks are stealing billions from crypto** — Score 21, observation — [Quelle](https://e27.co/the-great-rotation-how-ai-stocks-are-stealing-billions-from-crypto-20260623/)
+- **5 Seoul startups made their Southeast Asia debut at Echelon Singapore 2026 under the SBA pavilion** — Score 21, observation — [Quelle](https://e27.co/5-seoul-startups-made-their-southeast-asia-debut-at-echelon-singapore-2026-under-the-sba-pavilion-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T03:34:41+00:00`, fetched `2026-06-23T03:46:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy, Public Health, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Financial markets constantly test the conviction of participants who refuse to accept mainstream narratives. The global financial infrastructure currently experiences a massive rotation of capital. Traditional equity markets retreat from record highs while digital assets absorb shifting liquidity. We witness a complex interplay between geopolitical relief, central bank policies, and institutional risk appetite. Inve…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Cyber Risk Ownership Is Southeast Asia’s Biggest Leadership Blind Spot** — Score 18, observation — [Quelle](https://e27.co/why-cyber-risk-ownership-is-southeast-asias-biggest-leadership-blind-spot-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T03:12:11+00:00`, fetched `2026-06-23T03:46:06+00:00`
-  - Treffer: APAC Trend Radar, Public Health, Security, Southeast Asia
+  - Zeit: published `2026-06-23T06:00:26+00:00`, fetched `2026-06-23T06:35:23+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Reputationsrisiko, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: “Recognition without ownership is the problem,” says Adrian Harris, Regional Managing Director of Cybersense Solutions. “Most boards now name cybersecurity risk as a concern. But naming it is not sufficient. We need to know who’s accountable for it, who’s owning it.” It’s a distinction that should be straightforward. It isn’t. At a closed-door leadership session […] The post Why Cyber Risk Ownership Is Southeast Asi…
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Seoul’s startup ecosystem has spent the past decade building a reputation for technical depth, from enterprise AI to deep tech materials science. What has been harder to build is the second half of the story: a credible path for those companies to operate beyond Korea’s borders. Southeast Asia, with its fragmented but fast-growing digital economy, […] The post 5 Seoul startups made their Southeast Asia debut at Eche…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japanese visual symbols** — Score 16, observation — [Quelle](https://arun.is/blog/japan-symbols/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -114,6 +114,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました** — Score 12, observation — [Quelle](https://www.digital.go.jp/news/038b936a-c9f5-468a-8914-eccdd5011125)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-23T05:59:55+00:00`, fetched `2026-06-23T06:35:23+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました** — Score 7, observation — [Quelle](https://www.digital.go.jp/policies/electronic_invoice/global-activities)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: JP PINTの「グローバルの取組（Japan Peppol Team Meeting）」を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/high-school-entrance-examinations-digitalization)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-23T06:00:00+00:00`, fetched `2026-06-23T06:35:23+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 高等学校入学者選抜事務手続のデジタル化に関するダッシュボードを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **You don’t need more funding for social impact, you need a common language** — Score 6, opportunity — [Quelle](https://e27.co/you-dont-need-more-funding-for-social-impact-you-need-a-common-language-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-23T02:05:33+00:00`, fetched `2026-06-23T02:24:26+00:00`
@@ -123,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
   - Kurz: There is a familiar story in social innovation. A social enterprise approaches a corporate partner. The conversations are warm. An MOU is signed. Six months later, the collaboration has quietly stalled. No one was dishonest. No one was uncommitted. The partnership failed anyway — because the two organisations were never speaking the same language. This […] The post You don’t need more funding for social impact, you…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/23/news087.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-23T03:02:58+00:00`, fetched `2026-06-23T06:35:23+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 東京女子大学の篠崎晃一元教授（2026年3月に定年退職）と篠崎ゼミの学生が制作・公開し、アップデートを続けてきたサービス。2025年4月に三省堂のサイトに移行・リニューアルした。 今回話題になっているのは、出身地（3～4歳から13～14歳に生活していた地域）の県内のエリアまで当てる「EXTRA」版。 都道府県だけでなく...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2119031.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-22T22:50:30+00:00`, fetched `2026-06-23T02:24:26+00:00`
