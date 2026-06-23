@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T00:38:28+00:00",
-  "run_id": "2026-06-23T00:38:28+00:00",
+  "generated_at": "2026-06-23T01:26:36+00:00",
+  "run_id": "2026-06-23T01:26:36+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,127 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
+    "medium": 4,
     "observe": 1,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-22T23:54:00+00:00",
+        "fetched_at": "2026-06-23T01:26:09+00:00",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "General Santos",
+          "Glan",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4c66115050322dc38f48"
+      },
+      {
+        "title": "Japanese visual symbols",
+        "url": "https://arun.is/blog/japan-symbols/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-22T05:26:23+00:00",
+        "fetched_at": "2026-06-23T01:26:09+00:00",
+        "summary": "In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3de1b0e24f12095e1e7b"
+      },
+      {
+        "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU98582044/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-06-23T10:15:15+09:00",
+        "fetched_at": "2026-06-23T01:26:09+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12ef40449a8b17e610b6"
+      },
+      {
+        "title": "Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU90386605/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-06-23T10:15:00+09:00",
+        "fetched_at": "2026-06-23T01:26:09+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fa8b5ba92294d3d3da2c"
+      }
+    ],
     "observe": [
       {
         "title": "WBSという至高ツールで、このAI時代をサバイブする",
@@ -55,6 +165,115 @@
   },
   "findings": [
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-22T23:54:00+00:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c66115050322dc38f48"
+    },
+    {
+      "title": "Japanese visual symbols",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-22T05:26:23+00:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3de1b0e24f12095e1e7b"
+    },
+    {
+      "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98582044/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-23T10:15:15+09:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12ef40449a8b17e610b6"
+    },
+    {
+      "title": "Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90386605/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-23T10:15:00+09:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fa8b5ba92294d3d3da2c"
+    },
+    {
       "title": "WBSという至高ツールで、このAI時代をサバイブする",
       "url": "https://zenn.dev/piguolabo/articles/99b5b30a028f80",
       "source": "Hatena Bookmark Hotentry IT",
@@ -78,25 +297,113 @@
   ],
   "new_findings": [
     {
-      "title": "WBSという至高ツールで、このAI時代をサバイブする",
-      "url": "https://zenn.dev/piguolabo/articles/99b5b30a028f80",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-22T23:54:00+00:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c66115050322dc38f48"
+    },
+    {
+      "title": "Japanese visual symbols",
+      "url": "https://arun.is/blog/japan-symbols/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-22T04:16:12+00:00",
-      "fetched_at": "2026-06-23T00:38:02+00:00",
-      "summary": "なぜ私はWBSを「至高」と呼ぶのか たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。 WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。 価値があるのは、...",
+      "published_at": "2026-06-22T05:26:23+00:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...",
       "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eb5c34fed22eeab0eabb"
+      "id": "3de1b0e24f12095e1e7b"
+    },
+    {
+      "title": "FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98582044/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-23T10:15:15+09:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12ef40449a8b17e610b6"
+    },
+    {
+      "title": "Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90386605/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-23T10:15:00+09:00",
+      "fetched_at": "2026-06-23T01:26:09+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fa8b5ba92294d3d3da2c"
     }
   ],
   "source_errors": [],
