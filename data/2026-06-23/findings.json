@@ -1371,6 +1371,27 @@
     "id": "48558e8a94c56e655234"
   },
   {
+    "title": "標準CSSは美しくなった、もはやTailwindは不要",
+    "url": "https://zenn.dev/higakijin/articles/06276828c81546",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T01:38:33+00:00",
+    "fetched_at": "2026-06-23T21:54:53+00:00",
+    "summary": "最近、標準のCSSがかなり進化していることに気づきました。 他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。 数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。 多くのプロジェクトでは、sassやscssなどを導入して、CSSを拡張したり、あるいはBoots...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bb0d9e5d08afb6ccff79"
+  },
+  {
     "title": "正しい捨て方も分かる「リチウムイオン電池総合対策ポータルサイト」公開、総務省消防庁ら",
     "url": "https://internet.watch.impress.co.jp/docs/news/2119031.html",
     "source": "Hatena Bookmark Hotentry IT",
