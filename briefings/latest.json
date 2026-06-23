@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T22:25:33+00:00",
-  "run_id": "2026-06-23T22:25:33+00:00",
+  "generated_at": "2026-06-23T22:31:01+00:00",
+  "run_id": "2026-06-23T22:31:01+00:00",
   "date": "2026-06-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-23T21:10:30+00:00",
-        "fetched_at": "2026-06-23T21:18:59+00:00",
+        "published_at": "2026-06-23T22:30:50+00:00",
+        "fetched_at": "2026-06-23T22:30:36+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "1cab634e8211d274e0e3"
+        "id": "152a91b3476e3adbb794"
       },
       {
         "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -1657,8 +1657,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-23T21:10:30+00:00",
-      "fetched_at": "2026-06-23T21:18:59+00:00",
+      "published_at": "2026-06-23T22:30:50+00:00",
+      "fetched_at": "2026-06-23T22:30:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1692,7 +1692,7 @@
         "HD",
         "LOW"
       ],
-      "id": "1cab634e8211d274e0e3"
+      "id": "152a91b3476e3adbb794"
     },
     {
       "title": "Ecosystem Roundup: The agentic commerce trust gap no one wants to fix",
@@ -3273,19 +3273,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - 269 km SSE of Alo, Wallis and Futuna",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7qk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-23T22:09:45.040+00:00",
-      "fetched_at": "2026-06-23T22:25:08+00:00",
-      "summary": "Time 2026-06-23 21:53:18 UTC 2026-06-23 21:53:18 UTC at epicenter Location 16.588°S 177.219°W Depth 408.89 km (254.07 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-23T22:30:50+00:00",
+      "fetched_at": "2026-06-23T22:30:36+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -3306,7 +3312,7 @@
         "HD",
         "LOW"
       ],
-      "id": "031a0e79151a3521bad2"
+      "id": "152a91b3476e3adbb794"
     }
   ],
   "source_errors": [],
