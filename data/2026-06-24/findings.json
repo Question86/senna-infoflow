@@ -146,6 +146,50 @@
     "id": "7f6401ba89d4f42d9f92"
   },
   {
+    "title": "WhatsApp’s new CEO is the headline. India’s data is the story",
+    "url": "https://e27.co/whatsapps-new-ceo-is-the-headline-indias-data-is-the-story-20260624/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T11:15:02+00:00",
+    "fetched_at": "2026-06-24T12:07:40+00:00",
+    "summary": "When Meta announced that CRED founder and one of India’s most celebrated fintech entrepreneurs, Kunal Shah, would become the global CEO of WhatsApp, the Indian internet went predictably delirious. LinkedIn filled with tributes. Venture capitalists took victory laps. Across Southeast Asia, the story landed as another chapter in the South Asian diaspora’s march through Silicon […] The post WhatsApp’s new CEO is the he…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "e23d38ce978294943a44"
+  },
+  {
     "title": "Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html",
     "source": "ECB Open Market Operations and Communication",
@@ -463,6 +507,26 @@
     "id": "df1e71771133c099248a"
   },
   {
+    "title": "Zoho Corp. ManageEngine: Kritische SSO-Lücke ermöglicht Kontenübernahme",
+    "url": "https://www.heise.de/news/Zoho-Corp-ManageEngine-Kritische-SSO-Luecke-ermoeglicht-Kontenuebernahme-11342888.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-24T11:16:00.000+00:00",
+    "fetched_at": "2026-06-24T12:07:40+00:00",
+    "summary": "Angreifer können eine kritische Sicherheitslücke in mehreren Zoho Corp. ManageEngine-Produkten missbrauchen, um Konten zu übernehmen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f84bb7751f47428e8915"
+  },
+  {
     "title": "Can World ID solve the internet’s fake human problem?",
     "url": "https://e27.co/can-world-id-solve-the-internets-fake-human-problem-20260624/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -563,6 +627,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0d213c98a0857969e3ce"
+  },
+  {
+    "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news123.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T08:39:33+00:00",
+    "fetched_at": "2026-06-24T12:07:40+00:00",
+    "summary": "KDDIの子会社でISP事業を手掛けるビッグローブ（東京都千代田区）は6月23日、同社のメールサービス「BIGLOBEメール」で、利用者のメールアドレスやBIGLOBE ID、パスワードが外部に漏えいした可能性があるとして、会員に至急のパスワード変更を呼びかけた。しかしXなどのSNS上では、同日から翌24日にかけて「画面エラーで...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3865bb020d5e1b9095db"
+  },
+  {
+    "title": "マネーフォワード、約6．3万人分の情報流出（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c10f754de8015186eee5b36441b1a9657437fbca",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T07:17:29+00:00",
+    "fetched_at": "2026-06-24T12:07:40+00:00",
+    "summary": "マネーフォワード <3994> は23日、5月に公表した同社が使うソースコード管理サービスへの不正アクセスに関し、新たに6万2901人分の顧客や従業員などの個人情報が流出した可能性があると発表した。個人情報の不正利用などの被害は、現時点で確認されていないとしている。",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a08bd5e67200c164f4d9"
   },
   {
     "title": "『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T11:10:16+00:00_
+_Generiert: 2026-06-24T12:08:08+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **WhatsApp’s new CEO is the headline. India’s data is the story** — Score 13, observation — [Quelle](https://e27.co/whatsapps-new-ceo-is-the-headline-indias-data-is-the-story-20260624/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-24T11:15:02+00:00`, fetched `2026-06-24T12:07:40+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: When Meta announced that CRED founder and one of India’s most celebrated fintech entrepreneurs, Kunal Shah, would become the global CEO of WhatsApp, the Indian internet went predictably delirious. LinkedIn filled with tributes. Venture capitalists took victory laps. Across Southeast Asia, the story landed as another chapter in the South Asian diaspora’s march through Silicon […] The post WhatsApp’s new CEO is the he…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-06-24T08:15:20+00:00`, fetched `2026-06-24T07:35:00+00:00`
@@ -105,15 +114,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-24 10:36:34 UTC 2026-06-24 10:36:34 UTC at epicenter Location 29.829°S 71.215°W Depth 59.35 km (36.88 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Vietnam looks to Israel’s Yozma model for US$100M national venture fund** — Score 10, observation — [Quelle](https://e27.co/vietnam-looks-to-israels-yozma-model-for-us100m-national-venture-fund-20260624/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-24T06:29:54+00:00`, fetched `2026-06-24T07:35:00+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Vietnam is preparing to test a more interventionist model for building technology companies, with the Ministry of Science and Technology proposing a National Venture Capital Fund with initial capital of US$100 million for the 2026-2028 period. The proposal, discussed at a meeting of the government’s science, technology, and innovation committee on Tuesday, is designed to […] The post Vietnam looks to Israel’s Yozma…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **garrytan/gstack** — Score 10, observation — [Quelle](https://github.com/garrytan/gstack)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-24T03:17:19+00:00`
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Zoho Corp. ManageEngine: Kritische SSO-Lücke ermöglicht Kontenübernahme** — Score 7, observation — [Quelle](https://www.heise.de/news/Zoho-Corp-ManageEngine-Kritische-SSO-Luecke-ermoeglicht-Kontenuebernahme-11342888.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-24T11:16:00.000+00:00`, fetched `2026-06-24T12:07:40+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer können eine kritische Sicherheitslücke in mehreren Zoho Corp. ManageEngine-Produkten missbrauchen, um Konten zu übernehmen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Home Assistant: Update stopft Informationsleck** — Score 7, observation — [Quelle](https://www.heise.de/news/Home-Assistant-Update-stopft-Informationsleck-11342266.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-24T07:11:00.000+00:00`, fetched `2026-06-24T07:35:00+00:00`
@@ -185,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die jüngeren Home-Assistant-Updates stopfen unter anderem Informationslecks. Zudem gibt es das Home Assistant OS in neuer Version.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和7年度における環境配慮契約の締結実績の概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/green-contract)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-24T06:00:00+00:00`, fetched `2026-06-24T06:15:45+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和7年度における環境配慮契約の締結実績の概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
