@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-24T07:35:15+00:00",
+    "fetched_at": "2026-06-24T07:35:00+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "aa50cb1f8edce7ae7ecf"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
     "url": "https://jvn.jp/vu/JVNVU98428308/",
     "source": "JVN Japan Vulnerability Notes",
@@ -104,6 +146,28 @@
     "id": "7f6401ba89d4f42d9f92"
   },
   {
+    "title": "Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-06-24T08:15:20+00:00",
+    "fetched_at": "2026-06-24T07:35:00+00:00",
+    "summary": "Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f13d899e1a4bc80ec1b7"
+  },
+  {
     "title": "How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend",
     "url": "https://e27.co/how-to-build-a-brand-fast-100000-in-new-revenue-in-90-days-with-zero-ad-spend/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -171,6 +235,48 @@
     "id": "66b9c0d567fc8827915a"
   },
   {
+    "title": "Vietnam looks to Israel’s Yozma model for US$100M national venture fund",
+    "url": "https://e27.co/vietnam-looks-to-israels-yozma-model-for-us100m-national-venture-fund-20260624/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T06:29:54+00:00",
+    "fetched_at": "2026-06-24T07:35:00+00:00",
+    "summary": "Vietnam is preparing to test a more interventionist model for building technology companies, with the Ministry of Science and Technology proposing a National Venture Capital Fund with initial capital of US$100 million for the 2026-2028 period. The proposal, discussed at a meeting of the government’s science, technology, and innovation committee on Tuesday, is designed to […] The post Vietnam looks to Israel’s Yozma…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "c1013a888416cc5d3f6b"
+  },
+  {
     "title": "garrytan/gstack",
     "url": "https://github.com/garrytan/gstack",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -215,6 +321,28 @@
     "id": "374089a605a9008e0634"
   },
   {
+    "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
+    "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T01:00:13+00:00",
+    "fetched_at": "2026-06-24T07:35:00+00:00",
+    "summary": "アプリをインストールして困ることが、ショートカットキーが他のアプリと重複している場合です。いつもなら「Command + スペース」でスポットライトを呼び出せるのに、なぜか他のアプリが起動してしまったことはありませんか？ macOSで、ショートカットキーが重複している箇所を特定し、競合しているアプリやどのアプリ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Webentwicklung"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5c2a39d12bebb75ff9de"
+  },
+  {
     "title": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -235,6 +363,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "df1e71771133c099248a"
+  },
+  {
+    "title": "Home Assistant: Update stopft Informationsleck",
+    "url": "https://www.heise.de/news/Home-Assistant-Update-stopft-Informationsleck-11342266.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-24T07:11:00.000+00:00",
+    "fetched_at": "2026-06-24T07:35:00+00:00",
+    "summary": "Die jüngeren Home-Assistant-Updates stopfen unter anderem Informationslecks. Zudem gibt es das Home Assistant OS in neuer Version.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ce2241696784c744ec6"
   },
   {
     "title": "From silicon to satoshis: Tracing the contagion of the global market unwind",

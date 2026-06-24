@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T06:16:18+00:00_
+_Generiert: 2026-06-24T07:35:29+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-06-24T07:35:15+00:00`, fetched `2026-06-24T07:35:00+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU98428308/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-06-24T09:00:00+09:00`, fetched `2026-06-24T01:08:52+00:00`
@@ -51,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-24T08:15:20+00:00`, fetched `2026-06-24T07:35:00+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend** — Score 12, observation — [Quelle](https://e27.co/how-to-build-a-brand-fast-100000-in-new-revenue-in-90-days-with-zero-ad-spend/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-24T01:45:41+00:00`, fetched `2026-06-24T01:55:54+00:00`
@@ -78,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「iPhone 11」「iPhone XS」「iPhone XR」「iPhone SE」をまだ使っているユーザーに残念なお知らせだ。これらの「iPhone」に新たなセキュリティ脆弱性が見つかったが、Appleが提供する通常のアップデートではこの問題を修正できないという。 欧州を拠点とするサイバーセキュリティ企業Paradigm Shift Technologyは、現地...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vietnam looks to Israel’s Yozma model for US$100M national venture fund** — Score 10, observation — [Quelle](https://e27.co/vietnam-looks-to-israels-yozma-model-for-us100m-national-venture-fund-20260624/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-24T06:29:54+00:00`, fetched `2026-06-24T07:35:00+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Vietnam is preparing to test a more interventionist model for building technology companies, with the Ministry of Science and Technology proposing a National Venture Capital Fund with initial capital of US$100 million for the 2026-2028 period. The proposal, discussed at a meeting of the government’s science, technology, and innovation committee on Tuesday, is designed to […] The post Vietnam looks to Israel’s Yozma…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **garrytan/gstack** — Score 10, observation — [Quelle](https://github.com/garrytan/gstack)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-24T03:17:19+00:00`
@@ -96,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash** — Score 8, observation — [Quelle](https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-24T01:00:13+00:00`, fetched `2026-06-24T07:35:00+00:00`
+  - Treffer: Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: アプリをインストールして困ることが、ショートカットキーが他のアプリと重複している場合です。いつもなら「Command + スペース」でスポットライトを呼び出せるのに、なぜか他のアプリが起動してしまったことはありませんか？ macOSで、ショートカットキーが重複している箇所を特定し、競合しているアプリやどのアプリ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **koala73/worldmonitor** — Score 8, observation — [Quelle](https://github.com/koala73/worldmonitor)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-24T03:17:19+00:00`
@@ -105,14 +141,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From silicon to satoshis: Tracing the contagion of the global market unwind** — Score 7, observation — [Quelle](https://e27.co/from-silicon-to-satoshis-tracing-the-contagion-of-the-global-market-unwind-20260624/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-24T02:33:05+00:00`, fetched `2026-06-24T03:17:19+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **Home Assistant: Update stopft Informationsleck** — Score 7, observation — [Quelle](https://www.heise.de/news/Home-Assistant-Update-stopft-Informationsleck-11342266.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-24T07:11:00.000+00:00`, fetched `2026-06-24T07:35:00+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Global financial markets are currently undergoing a severe recalibration as the artificial intelligence trade unwinds. This paradigm shift is triggering a broad rotation out of high-flying momentum stocks and into defensive sectors. The contagion is evident across major Western indices. The S&P 500 retreated by 1.4 per cent to settle near 7,375, while the technology-focused […] The post From silicon to satoshis: Tra…
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die jüngeren Home-Assistant-Updates stopfen unter anderem Informationslecks. Zudem gibt es das Home Assistant OS in neuer Version.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和7年度における環境配慮契約の締結実績の概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/green-contract)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -140,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIが飲食店に自動音声電話をかけて予約を代行するサービス「オートリザーブ」をめぐり、無断掲載や鳴り止まない自動音声電話など飲食店とのトラブルが相次いでいる。運営会社は「法的に問題はない」としているが、専門家はサービスの課題を指摘する。 自動音声の予約電話に店主が悲鳴 店先にある張り紙に書かれていたの...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい** — Score 5, observation — [Quelle](https://togetter.com/li/2712884)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-24T00:50:18+00:00`, fetched `2026-06-24T03:17:19+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Melissa @DtebYQIMTm5Nt8F 部下と「それ（ヘッドセット）って私物ですか？」「私物ですよ〜」という会話を何度も繰り返したんだが、5回目にしてついに「業務で必要なのに自腹で買わなきゃいけないんですか？」という質問だったことが判明した。 意図の汲み取れないアホと思われただろうな〜。自腹だよ。 2026-06-23 18:5...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
