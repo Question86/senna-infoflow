@@ -235,6 +235,42 @@
     "id": "66b9c0d567fc8827915a"
   },
   {
+    "title": "M 4.5 - 8 km NNE of La Serena, Chile",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7tx",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-24T11:01:16.040+00:00",
+    "fetched_at": "2026-06-24T11:09:44+00:00",
+    "summary": "Time 2026-06-24 10:36:34 UTC 2026-06-24 10:36:34 UTC at epicenter Location 29.829°S 71.215°W Depth 59.35 km (36.88 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1c7d8e050885016e823f"
+  },
+  {
     "title": "Vietnam looks to Israel’s Yozma model for US$100M national venture fund",
     "url": "https://e27.co/vietnam-looks-to-israels-yozma-model-for-us100m-national-venture-fund-20260624/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -321,6 +357,26 @@
     "id": "374089a605a9008e0634"
   },
   {
+    "title": "ECB reports on progress towards euro adoption",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-24T10:00:00+00:00",
+    "fetched_at": "2026-06-24T11:09:44+00:00",
+    "summary": "ECB reports on progress towards euro adoption",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e2e8ad9cdd66b5b58c23"
+  },
+  {
     "title": "Iceland joins TIPS for instant payments",
     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -339,6 +395,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b0f16a41b72d90e8c797"
+  },
+  {
+    "title": "NVIDIAが「お風呂よりも高温の冷却液」で冷やす完全液冷システムを発表、電力消費量と水使用量を最大100％削減できるとアピール",
+    "url": "https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T04:38:56+00:00",
+    "fetched_at": "2026-06-24T11:09:44+00:00",
+    "summary": "NVIDIAが45℃の冷却液を循環させるAIサーバー向けの完全液体冷却方式を発表しました。Rubin世代のAIインフラではチップやネットワーク機器を含む全ての主要部品を閉ループ式の液体で冷却し、ファンを使わない設計を採用するとしています。 Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines |...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "84c2f73a221c4922a4ff"
   },
   {
     "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
@@ -589,5 +667,23 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "56b16aff2472df353a2c"
+  },
+  {
+    "title": "China and the West are taking opposite paths on EV battery recycling",
+    "url": "https://restofworld.org/2026/ev-battery-recycling-china-us/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T10:00:00+00:00",
+    "fetched_at": "2026-06-24T11:09:44+00:00",
+    "summary": "China has 85% of the world’s recycling capacity and a mandate to shred old packs. The U.S. has another plan: use them to save the power grid first.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "22a1c7e47a62984e7ce1"
   }
 ]

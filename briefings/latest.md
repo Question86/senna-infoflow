@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T09:58:20+00:00_
+_Generiert: 2026-06-24T11:10:16+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「iPhone 11」「iPhone XS」「iPhone XR」「iPhone SE」をまだ使っているユーザーに残念なお知らせだ。これらの「iPhone」に新たなセキュリティ脆弱性が見つかったが、Appleが提供する通常のアップデートではこの問題を修正できないという。 欧州を拠点とするサイバーセキュリティ企業Paradigm Shift Technologyは、現地...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 8 km NNE of La Serena, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7tx)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-24T11:01:16.040+00:00`, fetched `2026-06-24T11:09:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-24 10:36:34 UTC 2026-06-24 10:36:34 UTC at epicenter Location 29.829°S 71.215°W Depth 59.35 km (36.88 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Vietnam looks to Israel’s Yozma model for US$100M national venture fund** — Score 10, observation — [Quelle](https://e27.co/vietnam-looks-to-israels-yozma-model-for-us100m-national-venture-fund-20260624/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-24T06:29:54+00:00`, fetched `2026-06-24T07:35:00+00:00`
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB reports on progress towards euro adoption** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-24T10:00:00+00:00`, fetched `2026-06-24T11:09:44+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB reports on progress towards euro adoption
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Iceland joins TIPS for instant payments** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-24T08:00:00+00:00`, fetched `2026-06-24T08:42:05+00:00`
@@ -131,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Iceland joins TIPS for instant payments
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **NVIDIAが「お風呂よりも高温の冷却液」で冷やす完全液冷システムを発表、電力消費量と水使用量を最大100％削減できるとアピール** — Score 8, observation — [Quelle](https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-24T04:38:56+00:00`, fetched `2026-06-24T11:09:44+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: NVIDIAが45℃の冷却液を循環させるAIサーバー向けの完全液体冷却方式を発表しました。Rubin世代のAIインフラではチップやネットワーク機器を含む全ての主要部品を閉ループ式の液体で冷却し、ファンを使わない設計を採用するとしています。 Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines |...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash** — Score 8, observation — [Quelle](https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -167,24 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度における環境配慮契約の締結実績の概要を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年度 一般職（大卒程度）官庁訪問の予約を開始しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-24T06:00:00+00:00`, fetched `2026-06-24T06:15:45+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年度 一般職（大卒程度）官庁訪問の予約を開始しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。** — Score 5, observation — [Quelle](https://posfie.com/@mumimushunyu/p/fzcQPXY)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-24T04:12:23+00:00`, fetched `2026-06-24T09:57:53+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 沼田和也（王子北教会牧師） @numatakazuya NHK『クローズアップ現代』で、末期がんの86歳の女性が泣きながら、つまり心を深く開いて、AIに相談している様子に衝撃を受ける。AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。 2026-06-23 19:59:49
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
