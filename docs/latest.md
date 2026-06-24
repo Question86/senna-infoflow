@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T08:42:33+00:00_
+_Generiert: 2026-06-24T09:58:20+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -177,14 +177,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度 一般職（大卒程度）官庁訪問の予約を開始しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑 “勝手に”公式マーク表示も 専門家「AIうまく機能していない」｜FNNプライムオンライン** — Score 5, observation — [Quelle](https://www.fnn.jp/articles/-/1064623)
+- **『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。** — Score 5, observation — [Quelle](https://posfie.com/@mumimushunyu/p/fzcQPXY)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-24T01:44:09+00:00`, fetched `2026-06-24T06:15:45+00:00`
+  - Zeit: published `2026-06-24T04:12:23+00:00`, fetched `2026-06-24T09:57:53+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIが飲食店に自動音声電話をかけて予約を代行するサービス「オートリザーブ」をめぐり、無断掲載や鳴り止まない自動音声電話など飲食店とのトラブルが相次いでいる。運営会社は「法的に問題はない」としているが、専門家はサービスの課題を指摘する。 自動音声の予約電話に店主が悲鳴 店先にある張り紙に書かれていたの...
+  - Kurz: 沼田和也（王子北教会牧師） @numatakazuya NHK『クローズアップ現代』で、末期がんの86歳の女性が泣きながら、つまり心を深く開いて、AIに相談している様子に衝撃を受ける。AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。 2026-06-23 19:59:49
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
