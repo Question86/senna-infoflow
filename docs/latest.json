@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T13:04:15+00:00",
-  "run_id": "2026-06-24T13:04:15+00:00",
+  "generated_at": "2026-06-24T13:54:26+00:00",
+  "run_id": "2026-06-24T13:54:26+00:00",
   "date": "2026-06-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 2,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 6,
-    "observe": 34,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -501,6 +501,42 @@
         "id": "374089a605a9008e0634"
       },
       {
+        "title": "M 4.5 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-24T13:51:04.040+00:00",
+        "fetched_at": "2026-06-24T13:53:58+00:00",
+        "summary": "Time 2026-06-24 13:19:34 UTC 2026-06-24 13:19:34 UTC at epicenter Location 25.151°S 179.832°E Depth 512.68 km (318.57 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b6a2660cbc2867ad8bc7"
+      },
+      {
         "title": "M 4.9 - 1 km E of El Palmarcito, Mexico",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -577,6 +613,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ee34c305b2e7ad3388ec"
+      },
+      {
+        "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-24T12:13:32+00:00",
+        "fetched_at": "2026-06-24T13:53:58+00:00",
+        "summary": "富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとして...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8677b184c89e5ba9f468"
       },
       {
         "title": "Iceland joins TIPS for instant payments",
@@ -1485,6 +1543,42 @@
       "id": "374089a605a9008e0634"
     },
     {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-24T13:51:04.040+00:00",
+      "fetched_at": "2026-06-24T13:53:58+00:00",
+      "summary": "Time 2026-06-24 13:19:34 UTC 2026-06-24 13:19:34 UTC at epicenter Location 25.151°S 179.832°E Depth 512.68 km (318.57 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b6a2660cbc2867ad8bc7"
+    },
+    {
       "title": "M 4.9 - 1 km E of El Palmarcito, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1561,6 +1655,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ee34c305b2e7ad3388ec"
+    },
+    {
+      "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-24T12:13:32+00:00",
+      "fetched_at": "2026-06-24T13:53:58+00:00",
+      "summary": "富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとして...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8677b184c89e5ba9f468"
     },
     {
       "title": "Iceland joins TIPS for instant payments",
@@ -1999,123 +2115,13 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-24T13:04:04+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "906295003b0d77498d2d"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-24T06:00:00+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Watchgraph:chips_compute_datacenters"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "chips_compute_datacenters"
-      ],
-      "watchgraph_reasons": [
-        "chips_compute_datacenters: AI chip"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "86ad0d9c8f37900e806a"
-    },
-    {
-      "title": "The future is here: Seizing the first-mover advantage in AI entrepreneurship",
-      "url": "https://e27.co/the-future-is-here-seizing-the-first-mover-advantage-in-ai-entrepreneurship-20241231/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-24T12:40:35+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "The world is poised for a fourth industrial revolution driven by artificial intelligence (AI). According to PwC, by 2030, AI is projected to contribute US$15.7 trillion to global GDP, far surpassing the impact of the internet revolution. This figure reflects AI’s transformative potential across industries, fuelled by advancements in machine learning, robotics, and big data. […] The post The future is here: Seizing t…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eb281ce152311f6261c0"
-    },
-    {
-      "title": "M 4.9 - 1 km E of El Palmarcito, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf",
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-24T12:33:42.040+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "Time 2026-06-24 12:16:31 UTC 2026-06-24 12:16:31 UTC at epicenter Location 15.495°N 93.197°W Depth 93.49 km (58.09 mi)",
+      "published_at": "2026-06-24T13:51:04.040+00:00",
+      "fetched_at": "2026-06-24T13:53:58+00:00",
+      "summary": "Time 2026-06-24 13:19:34 UTC 2026-06-24 13:19:34 UTC at epicenter Location 25.151°S 179.832°E Depth 512.68 km (318.57 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -2142,91 +2148,29 @@
         "HD",
         "LOW"
       ],
-      "id": "faf70bd7bc5385f084d4"
+      "id": "b6a2660cbc2867ad8bc7"
     },
     {
-      "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
-      "url": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+      "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-23T12:01:21+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "こんにちは。エクスプラザの Unsu です。 最近 \"Loop Engineering\"という言葉をよく目にするようになりました。 また新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、 Addy Osmani の Loop Engineering という記事を読んでみました。 内容は、こんな感じでした。 Loop Engineering とは...",
-      "matched_keywords": [
-        "Automatisierung",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee34c305b2e7ad3388ec"
-    },
-    {
-      "title": "Ubiquiti UniFi OS-Sicherheitslücken werden angegriffen",
-      "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-06-24T12:13:00.000+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "Ende Mai wurden kritische Sicherheitslücken in Ubiquiti UniFi OS bekannt. Inzwischen haben Angreifer diese im Visier.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "499fcc5cdb8253bd1d7f"
-    },
-    {
-      "title": "『めっちゃカメレオン』開発者インタビュー！たった2人・約2か月で生んだ、世界的大ヒットの裏側 - ゲームウィズ",
-      "url": "https://gamewith.jp/gamedb/17059/articles/59486",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-24T07:15:05+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "※当記事のリンクはアフィリエイト広告を含みます。 真っ白な体に、ステージの壁や床から吸い取った色を自分で塗って擬態する──そんな“お絵描きかくれんぼ”が、いま世界中で大ブームを巻き起こしている。対戦型かくれんぼ『めっちゃカメレオン』だ。 売上は2026年6月22日時点で世界累計700万本を突破。 しかも本作を手が...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a6c20062ac9ceb1b7b96"
-    },
-    {
-      "title": "How AI makes investing and trading safer and more accessible",
-      "url": "https://e27.co/how-ai-makes-investing-and-trading-safer-and-more-accessible-20250102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-24T12:20:13+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
-      "summary": "AI adoption is growing, with 85 per cent of financial institutions integrating AI tools to enhance speed, efficiency, and data analysis. However, these systems are no longer exclusive to large institutions or seasoned traders. By making investing safer and more approachable, AI is helping to democratise access to wealth-building opportunities for a broader audience across […] The post How AI makes investing and trad…",
+      "published_at": "2026-06-24T12:13:32+00:00",
+      "fetched_at": "2026-06-24T13:53:58+00:00",
+      "summary": "富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとして...",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "390bb963bdd7298df2f4"
+      "id": "8677b184c89e5ba9f468"
     }
   ],
   "source_errors": [],

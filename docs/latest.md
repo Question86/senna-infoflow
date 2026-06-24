@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T13:04:15+00:00_
+_Generiert: 2026-06-24T13:54:26+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-24T13:51:04.040+00:00`, fetched `2026-06-24T13:53:58+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-24 13:19:34 UTC 2026-06-24 13:19:34 UTC at epicenter Location 25.151°S 179.832°E Depth 512.68 km (318.57 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 1 km E of El Palmarcito, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-24T12:33:42.040+00:00`, fetched `2026-06-24T13:03:50+00:00`
@@ -168,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。エクスプラザの Unsu です。 最近 "Loop Engineering"という言葉をよく目にするようになりました。 また新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、 Addy Osmani の Loop Engineering という記事を読んでみました。 内容は、こんな感じでした。 Loop Engineering とは...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発** — Score 8, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-24T12:13:32+00:00`, fetched `2026-06-24T13:53:58+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとして...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Iceland joins TIPS for instant payments** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-24T08:00:00+00:00`, fetched `2026-06-24T08:42:05+00:00`
@@ -177,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Iceland joins TIPS for instant payments
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NVIDIAが「お風呂よりも高温の冷却液」で冷やす完全液冷システムを発表、電力消費量と水使用量を最大100％削減できるとアピール** — Score 8, observation — [Quelle](https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-24T04:38:56+00:00`, fetched `2026-06-24T11:09:44+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: NVIDIAが45℃の冷却液を循環させるAIサーバー向けの完全液体冷却方式を発表しました。Rubin世代のAIインフラではチップやネットワーク機器を含む全ての主要部品を閉ループ式の液体で冷却し、ファンを使わない設計を採用するとしています。 Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines |...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **koala73/worldmonitor** — Score 8, observation — [Quelle](https://github.com/koala73/worldmonitor)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-24T03:17:19+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ubiquiti UniFi OS-Sicherheitslücken werden angegriffen** — Score 7, observation — [Quelle](https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-24T12:13:00.000+00:00`, fetched `2026-06-24T13:03:50+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Ende Mai wurden kritische Sicherheitslücken in Ubiquiti UniFi OS bekannt. Inzwischen haben Angreifer diese im Visier.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
