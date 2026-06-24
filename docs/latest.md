@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T16:39:20+00:00_
+_Generiert: 2026-06-24T17:25:41+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「iPhone 11」「iPhone XS」「iPhone XR」「iPhone SE」をまだ使っているユーザーに残念なお知らせだ。これらの「iPhone」に新たなセキュリティ脆弱性が見つかったが、Appleが提供する通常のアップデートではこの問題を修正できないという。 欧州を拠点とするサイバーセキュリティ企業Paradigm Shift Technologyは、現地...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 41 km NE of San Fernando, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7wm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-24T16:54:14.040+00:00`, fetched `2026-06-24T17:25:16+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-24 16:25:59 UTC 2026-06-24 16:25:59 UTC at epicenter Location 8.150°S 74.259°W Depth 167.92 km (104.34 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 8 km NNE of La Serena, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7tx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-24T11:01:16.040+00:00`, fetched `2026-06-24T11:09:44+00:00`
@@ -168,15 +177,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-24T13:51:04.040+00:00`, fetched `2026-06-24T13:53:58+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-24 13:19:34 UTC 2026-06-24 13:19:34 UTC at epicenter Location 25.151°S 179.832°E Depth 512.68 km (318.57 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB reports on progress towards euro adoption** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-24T10:00:00+00:00`, fetched `2026-06-24T11:09:44+00:00`
