@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-24T08:42:20+00:00",
-    "fetched_at": "2026-06-24T08:42:05+00:00",
+    "published_at": "2026-06-24T13:04:04+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "9b5be721df5f1d1f9ab4"
+    "id": "906295003b0d77498d2d"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -63,6 +63,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "23cf0c60979c8e8eda0c"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-24T06:00:00+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "Watchgraph:chips_compute_datacenters"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "chips_compute_datacenters"
+    ],
+    "watchgraph_reasons": [
+      "chips_compute_datacenters: AI chip"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "86ad0d9c8f37900e806a"
   },
   {
     "title": "M 4.9 - 64 km WNW of Catuday, Philippines",
@@ -144,6 +190,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7f6401ba89d4f42d9f92"
+  },
+  {
+    "title": "The future is here: Seizing the first-mover advantage in AI entrepreneurship",
+    "url": "https://e27.co/the-future-is-here-seizing-the-first-mover-advantage-in-ai-entrepreneurship-20241231/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T12:40:35+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "The world is poised for a fourth industrial revolution driven by artificial intelligence (AI). According to PwC, by 2030, AI is projected to contribute US$15.7 trillion to global GDP, far surpassing the impact of the internet revolution. This figure reflects AI’s transformative potential across industries, fuelled by advancements in machine learning, robotics, and big data. […] The post The future is here: Seizing t…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb281ce152311f6261c0"
   },
   {
     "title": "WhatsApp’s new CEO is the headline. India’s data is the story",
@@ -401,6 +469,42 @@
     "id": "374089a605a9008e0634"
   },
   {
+    "title": "M 4.9 - 1 km E of El Palmarcito, Mexico",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-24T12:33:42.040+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "Time 2026-06-24 12:16:31 UTC 2026-06-24 12:16:31 UTC at epicenter Location 15.495°N 93.197°W Depth 93.49 km (58.09 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "faf70bd7bc5385f084d4"
+  },
+  {
     "title": "ECB reports on progress towards euro adoption",
     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -419,6 +523,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e2e8ad9cdd66b5b58c23"
+  },
+  {
+    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+    "url": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:01:21+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "こんにちは。エクスプラザの Unsu です。 最近 \"Loop Engineering\"という言葉をよく目にするようになりました。 また新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、 Addy Osmani の Loop Engineering という記事を読んでみました。 内容は、こんな感じでした。 Loop Engineering とは...",
+    "matched_keywords": [
+      "Automatisierung",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee34c305b2e7ad3388ec"
   },
   {
     "title": "Iceland joins TIPS for instant payments",
@@ -505,6 +631,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "df1e71771133c099248a"
+  },
+  {
+    "title": "Ubiquiti UniFi OS-Sicherheitslücken werden angegriffen",
+    "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-24T12:13:00.000+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "Ende Mai wurden kritische Sicherheitslücken in Ubiquiti UniFi OS bekannt. Inzwischen haben Angreifer diese im Visier.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "499fcc5cdb8253bd1d7f"
   },
   {
     "title": "Zoho Corp. ManageEngine: Kritische SSO-Lücke ermöglicht Kontenübernahme",
@@ -671,6 +817,27 @@
     "id": "a08bd5e67200c164f4d9"
   },
   {
+    "title": "『めっちゃカメレオン』開発者インタビュー！たった2人・約2か月で生んだ、世界的大ヒットの裏側 - ゲームウィズ",
+    "url": "https://gamewith.jp/gamedb/17059/articles/59486",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T07:15:05+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "※当記事のリンクはアフィリエイト広告を含みます。 真っ白な体に、ステージの壁や床から吸い取った色を自分で塗って擬態する──そんな“お絵描きかくれんぼ”が、いま世界中で大ブームを巻き起こしている。対戦型かくれんぼ『めっちゃカメレオン』だ。 売上は2026年6月22日時点で世界累計700万本を突破。 しかも本作を手が...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a6c20062ac9ceb1b7b96"
+  },
+  {
     "title": "『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。",
     "url": "https://posfie.com/@mumimushunyu/p/fzcQPXY",
     "source": "Hatena Bookmark Hotentry IT",
@@ -773,6 +940,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "56b16aff2472df353a2c"
+  },
+  {
+    "title": "How AI makes investing and trading safer and more accessible",
+    "url": "https://e27.co/how-ai-makes-investing-and-trading-safer-and-more-accessible-20250102/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T12:20:13+00:00",
+    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "summary": "AI adoption is growing, with 85 per cent of financial institutions integrating AI tools to enhance speed, efficiency, and data analysis. However, these systems are no longer exclusive to large institutions or seasoned traders. By making investing safer and more approachable, AI is helping to democratise access to wealth-building opportunities for a broader audience across […] The post How AI makes investing and trad…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "390bb963bdd7298df2f4"
   },
   {
     "title": "China and the West are taking opposite paths on EV battery recycling",
