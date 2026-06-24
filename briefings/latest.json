@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T23:10:59+00:00",
-  "run_id": "2026-06-24T23:10:59+00:00",
+  "generated_at": "2026-06-24T23:41:44+00:00",
+  "run_id": "2026-06-24T23:41:44+00:00",
   "date": "2026-06-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 9,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-24T20:57:34+00:00",
-        "fetched_at": "2026-06-24T20:57:19+00:00",
+        "published_at": "2026-06-24T23:41:32+00:00",
+        "fetched_at": "2026-06-24T23:41:18+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3a5014d7e91486cbe7ba"
+        "id": "ac30dedb3924fafa9f35"
       },
       {
         "title": "M 6.9 - 35 km ENE of Kuji, Japan",
@@ -1129,6 +1129,28 @@
         "id": "df1e71771133c099248a"
       },
       {
+        "title": "Transformerと比較し、GPU当たり最大475倍の出力トークン数を持つ新アーキテクチャを開発",
+        "url": "https://global.fujitsu/ja-jp/technology/research/article/topics/202606-photon-architecture",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-24T13:16:16+00:00",
+        "fetched_at": "2026-06-24T23:41:18+00:00",
+        "summary": "当社は、大規模言語モデルの大幅なコスト削減を実現するアーキテクチャである「Parallel Hierarchical Operation for TOp-down Networks（以下、PHOTON）」（フォトン）を開発いたしました。PHOTONは現在、大規模言語モデルの主流の基盤アーキテクチャであるTransformerの最大475倍のマルチクエリー性能（注1）を発揮し...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "technology"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c754824fe8e5319d5945"
+      },
+      {
         "title": "Ubiquiti UniFi OS-Sicherheitslücken werden angegriffen",
         "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html",
         "source": "heise Security Alerts",
@@ -1588,8 +1610,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-24T20:57:34+00:00",
-      "fetched_at": "2026-06-24T20:57:19+00:00",
+      "published_at": "2026-06-24T23:41:32+00:00",
+      "fetched_at": "2026-06-24T23:41:18+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1623,7 +1645,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3a5014d7e91486cbe7ba"
+      "id": "ac30dedb3924fafa9f35"
     },
     {
       "title": "M 6.9 - 35 km ENE of Kuji, Japan",
@@ -2681,6 +2703,28 @@
       "id": "df1e71771133c099248a"
     },
     {
+      "title": "Transformerと比較し、GPU当たり最大475倍の出力トークン数を持つ新アーキテクチャを開発",
+      "url": "https://global.fujitsu/ja-jp/technology/research/article/topics/202606-photon-architecture",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-24T13:16:16+00:00",
+      "fetched_at": "2026-06-24T23:41:18+00:00",
+      "summary": "当社は、大規模言語モデルの大幅なコスト削減を実現するアーキテクチャである「Parallel Hierarchical Operation for TOp-down Networks（以下、PHOTON）」（フォトン）を開発いたしました。PHOTONは現在、大規模言語モデルの主流の基盤アーキテクチャであるTransformerの最大475倍のマルチクエリー性能（注1）を発揮し...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "technology"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c754824fe8e5319d5945"
+    },
+    {
       "title": "Ubiquiti UniFi OS-Sicherheitslücken werden angegriffen",
       "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html",
       "source": "heise Security Alerts",
@@ -3135,29 +3179,32 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.9 - 35 km ENE of Kuji, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-24T23:04:27.943+00:00",
-      "fetched_at": "2026-06-24T23:10:33+00:00",
-      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-06-24 22:30:15 UTC 2026-06-24 22:30:15 UTC at epicenter Location 40.346°N 142.132°E Depth 51.71 km (32.13 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-24T23:41:32+00:00",
+      "fetched_at": "2026-06-24T23:41:18+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -3171,28 +3218,29 @@
         "HD",
         "LOW"
       ],
-      "id": "93cbe4becdcbc9c7fb2b"
+      "id": "ac30dedb3924fafa9f35"
     },
     {
-      "title": "東宝系に問題が集中、ワーナーはゼロ！映画サイトのドメイン名問題、邦画ヒット作10年間332本の実態を調査 | Web担当者Forum",
-      "url": "https://webtan.impress.co.jp/e/2026/06/24/52777",
+      "title": "Transformerと比較し、GPU当たり最大475倍の出力トークン数を持つ新アーキテクチャを開発",
+      "url": "https://global.fujitsu/ja-jp/technology/research/article/topics/202606-photon-architecture",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-24T06:19:04+00:00",
-      "fetched_at": "2026-06-24T23:10:33+00:00",
-      "summary": "【27卒】就職人気企業ランキング、伊藤忠が2年連続首位！ 東宝が17位→2位、Skyが5位へ大躍進【みん就調べ】 6月5日 6:00",
+      "published_at": "2026-06-24T13:16:16+00:00",
+      "fetched_at": "2026-06-24T23:41:18+00:00",
+      "summary": "当社は、大規模言語モデルの大幅なコスト削減を実現するアーキテクチャである「Parallel Hierarchical Operation for TOp-down Networks（以下、PHOTON）」（フォトン）を開発いたしました。PHOTONは現在、大規模言語モデルの主流の基盤アーキテクチャであるTransformerの最大475倍のマルチクエリー性能（注1）を発揮し...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "technology"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5d7c345655e951cd004b"
+      "id": "c754824fe8e5319d5945"
     }
   ],
   "source_errors": [],
