@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T20:17:20+00:00_
+_Generiert: 2026-06-24T20:57:45+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-24T18:54:43+00:00`, fetched `2026-06-24T18:54:27+00:00`
+  - Zeit: published `2026-06-24T20:57:34+00:00`, fetched `2026-06-24T20:57:19+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-24 10:36:34 UTC 2026-06-24 10:36:34 UTC at epicenter Location 29.829°S 71.215°W Depth 59.35 km (36.88 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **自衛隊、機密システムに感染USB接続 中国系ウイルス1年気づかず - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOCD075JJ0X00C26A5000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-24T20:14:34+00:00`, fetched `2026-06-24T20:57:19+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 誰もがスマートフォンや人工知能（AI）などデジタル技術の恩恵を受ける時代では、安価で手軽な製品に国の安全や個人の安心を揺るがしかねないリスクが潜む。テック社会の「罠（わな）」を追っていくと、厳重な防御を誇るはずの自衛隊がその脅威にさらされていたことが分かった。日本経済新聞は陸上自衛隊の内部文書を入...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **garrytan/gstack** — Score 10, observation — [Quelle](https://github.com/garrytan/gstack)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-24T03:17:19+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB reports on progress towards euro adoption
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話** — Score 9, observation — [Quelle](https://zenn.dev/explaza/articles/d0aeb08fcd1888)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T12:01:21+00:00`, fetched `2026-06-24T13:03:50+00:00`
-  - Treffer: Automatisierung, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは。エクスプラザの Unsu です。 最近 "Loop Engineering"という言葉をよく目にするようになりました。 また新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、 Addy Osmani の Loop Engineering という記事を読んでみました。 内容は、こんな感じでした。 Loop Engineering とは...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **José Luis Escrivá: Competitiveness for growth** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260622k.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
