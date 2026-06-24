@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T18:10:37+00:00",
-  "run_id": "2026-06-24T18:10:37+00:00",
+  "generated_at": "2026-06-24T18:54:57+00:00",
+  "run_id": "2026-06-24T18:54:57+00:00",
   "date": "2026-06-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 2,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
     "medium": 7,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-24T13:04:04+00:00",
-        "fetched_at": "2026-06-24T13:03:50+00:00",
+        "published_at": "2026-06-24T18:54:43+00:00",
+        "fetched_at": "2026-06-24T18:54:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "906295003b0d77498d2d"
+        "id": "bd465368f403bef334a1"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -1155,6 +1155,27 @@
         "id": "ee0adda7da8066d96382"
       },
       {
+        "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
+        "url": "https://www.m3tech.blog/entry/2026/06/24/165633",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:49:15+00:00",
+        "fetched_at": "2026-06-24T18:54:27+00:00",
+        "summary": "【デジスマ ブログリレー 3日目】 デジスマチームの立花です。 突然ですが皆さんはどのエディタが好きでしょうか。 僕は Helix が好きでよく使っているのですが、 最近また好きなエディタが増えました。Zedです。 zed.dev 動作の軽快さに惹かれて使い始めたのですが、触っていくうちに「これは便利だな」と感じる機能が...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "99c5a3d6f5aa755171b5"
+      },
+      {
         "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
         "url": "https://www.itmedia.co.jp/news/articles/2606/24/news123.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1368,8 +1389,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-24T13:04:04+00:00",
-      "fetched_at": "2026-06-24T13:03:50+00:00",
+      "published_at": "2026-06-24T18:54:43+00:00",
+      "fetched_at": "2026-06-24T18:54:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1403,7 +1424,7 @@
         "HD",
         "LOW"
       ],
-      "id": "906295003b0d77498d2d"
+      "id": "bd465368f403bef334a1"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -2487,6 +2508,27 @@
       "id": "ee0adda7da8066d96382"
     },
     {
+      "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2026/06/24/165633",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:49:15+00:00",
+      "fetched_at": "2026-06-24T18:54:27+00:00",
+      "summary": "【デジスマ ブログリレー 3日目】 デジスマチームの立花です。 突然ですが皆さんはどのエディタが好きでしょうか。 僕は Helix が好きでよく使っているのですが、 最近また好きなエディタが増えました。Zedです。 zed.dev 動作の軽快さに惹かれて使い始めたのですが、触っていくうちに「これは便利だな」と感じる機能が...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99c5a3d6f5aa755171b5"
+    },
+    {
       "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
       "url": "https://www.itmedia.co.jp/news/articles/2606/24/news123.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2695,26 +2737,67 @@
   ],
   "new_findings": [
     {
-      "title": "Cook, Welcome Remarks",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260624a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-06-24T18:00:00+00:00",
-      "fetched_at": "2026-06-24T18:10:09+00:00",
-      "summary": "Speech At the State of Small Business Symposium hosted by the Federal Reserve Bank of Cleveland (via pre-recorded video)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-24T18:54:43+00:00",
+      "fetched_at": "2026-06-24T18:54:27+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "bd465368f403bef334a1"
+    },
+    {
+      "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2026/06/24/165633",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:49:15+00:00",
+      "fetched_at": "2026-06-24T18:54:27+00:00",
+      "summary": "【デジスマ ブログリレー 3日目】 デジスマチームの立花です。 突然ですが皆さんはどのエディタが好きでしょうか。 僕は Helix が好きでよく使っているのですが、 最近また好きなエディタが増えました。Zedです。 zed.dev 動作の軽快さに惹かれて使い始めたのですが、触っていくうちに「これは便利だな」と感じる機能が...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ee895313c519a554a1ee"
+      "id": "99c5a3d6f5aa755171b5"
     }
   ],
   "source_errors": [],

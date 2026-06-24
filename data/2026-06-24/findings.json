@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-24T13:04:04+00:00",
-    "fetched_at": "2026-06-24T13:03:50+00:00",
+    "published_at": "2026-06-24T18:54:43+00:00",
+    "fetched_at": "2026-06-24T18:54:27+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "906295003b0d77498d2d"
+    "id": "bd465368f403bef334a1"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -1121,6 +1121,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ee0adda7da8066d96382"
+  },
+  {
+    "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
+    "url": "https://www.m3tech.blog/entry/2026/06/24/165633",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T08:49:15+00:00",
+    "fetched_at": "2026-06-24T18:54:27+00:00",
+    "summary": "【デジスマ ブログリレー 3日目】 デジスマチームの立花です。 突然ですが皆さんはどのエディタが好きでしょうか。 僕は Helix が好きでよく使っているのですが、 最近また好きなエディタが増えました。Zedです。 zed.dev 動作の軽快さに惹かれて使い始めたのですが、触っていくうちに「これは便利だな」と感じる機能が...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "99c5a3d6f5aa755171b5"
   },
   {
     "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
