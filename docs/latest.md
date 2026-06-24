@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T01:09:21+00:00_
+_Generiert: 2026-06-24T01:56:23+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -21,9 +21,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 64 km WNW of Catuday, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-24T01:47:50.040+00:00`, fetched `2026-06-24T01:55:54+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-24 01:34:19 UTC 2026-06-24 01:34:19 UTC at epicenter Location 16.502°N 119.244°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend** — Score 12, observation — [Quelle](https://e27.co/how-to-build-a-brand-fast-100000-in-new-revenue-in-90-days-with-zero-ad-spend/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-24T01:45:41+00:00`, fetched `2026-06-24T01:55:54+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); founder (+2.0); recent (+1.0)
+  - Kurz: There is a belief among founders that brand building is slow. That it takes years of consistent effort before a brand means anything, and that in the meantime, you simply have to survive on product and sales. This belief is the single most common reason founders underinvest in brand. They think the payoff is too […] The post How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philippine AI is no longer a footnote. Here are the 15 startups proving it** — Score 12, observation — [Quelle](https://e27.co/philippine-ai-is-no-longer-a-footnote-here-are-the-15-startups-proving-it-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-24T01:00:09+00:00`, fetched `2026-06-24T01:08:52+00:00`
@@ -50,3 +68,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_philippines_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH
