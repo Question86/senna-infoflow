@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T13:54:26+00:00",
-  "run_id": "2026-06-24T13:54:26+00:00",
+  "generated_at": "2026-06-24T14:57:29+00:00",
+  "run_id": "2026-06-24T14:57:29+00:00",
   "date": "2026-06-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 5,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
     "medium": 6,
-    "observe": 36,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -637,6 +637,87 @@
         "id": "8677b184c89e5ba9f468"
       },
       {
+        "title": "José Luis Escrivá: Competitiveness for growth",
+        "url": "https://www.bis.org/review/r260622k.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-06-24T09:01:00+00:00",
+        "fetched_at": "2026-06-24T14:57:03+00:00",
+        "summary": "Opening address by Mr José Luis Escrivá, Governor of the Bank of Spain, at the \"Competitiveness for growth\" conference, organised by the Spanish Banking Association (AEB), the Spanish Confederation of Savings Banks (CECA) and the Spanish Association of Credit Cooperatives (UNACC), Madrid, 19 June 2026.",
+        "matched_keywords": [
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0cf330e240fd42672b8e"
+      },
+      {
+        "title": "Colm Kincaid: Harnessing opportunity - the role of financial intermediaries in Europe",
+        "url": "https://www.bis.org/review/r260622m.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:34:00+00:00",
+        "fetched_at": "2026-06-24T14:57:03+00:00",
+        "summary": "Speech by Mr Colm Kincaid, Deputy Governor of the Central Bank of Ireland, at BIPAR (European Federation of Insurance Intermediaries), Brussels, 19 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4dbb2a8ce1e16c2e2a06"
+      },
+      {
+        "title": "Madelena Mohamed: A LEAP for nature: advancing nature-related financial risk and opportunity assessment in Malaysia",
+        "url": "https://www.bis.org/review/r260622l.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:28:00+00:00",
+        "fetched_at": "2026-06-24T14:57:03+00:00",
+        "summary": "Keynote address by Ms Madelena Mohamed, Assistant Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the launch of the report \"A LEAP for nature: advancing nature-related financial risk and opportunity assessment in Malaysia\", Kuala Lumpur, 11 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a2499e3b3f4e49ef4cb7"
+      },
+      {
+        "title": "Pan Gongsheng: The evolution of financial structure and the modernization of financial markets in China",
+        "url": "https://www.bis.org/review/r260622q.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:03:00+00:00",
+        "fetched_at": "2026-06-24T14:57:03+00:00",
+        "summary": "Keynote speech by Mr Pan Gongsheng, Governor of the People's Bank of China, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1082d1c6cd886246b4ee"
+      },
+      {
         "title": "Iceland joins TIPS for instant payments",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -823,6 +904,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5b2bdcb52874f8747d7d"
+      },
+      {
+        "title": "Martin Schlegel, Antoine Martin, Petra Tschudin: Introductory remarks by the Governing Board, Swiss National Bank news conference",
+        "url": "https://www.bis.org/review/r260622r.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:07:00+00:00",
+        "fetched_at": "2026-06-24T14:57:03+00:00",
+        "summary": "Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Berne, 18 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "833be3d161d3c041494e"
       },
       {
         "title": "令和7年度における環境配慮契約の締結実績の概要を掲載しました",
@@ -1679,6 +1780,87 @@
       "id": "8677b184c89e5ba9f468"
     },
     {
+      "title": "José Luis Escrivá: Competitiveness for growth",
+      "url": "https://www.bis.org/review/r260622k.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T09:01:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Opening address by Mr José Luis Escrivá, Governor of the Bank of Spain, at the \"Competitiveness for growth\" conference, organised by the Spanish Banking Association (AEB), the Spanish Confederation of Savings Banks (CECA) and the Spanish Association of Credit Cooperatives (UNACC), Madrid, 19 June 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0cf330e240fd42672b8e"
+    },
+    {
+      "title": "Colm Kincaid: Harnessing opportunity - the role of financial intermediaries in Europe",
+      "url": "https://www.bis.org/review/r260622m.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:34:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Speech by Mr Colm Kincaid, Deputy Governor of the Central Bank of Ireland, at BIPAR (European Federation of Insurance Intermediaries), Brussels, 19 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4dbb2a8ce1e16c2e2a06"
+    },
+    {
+      "title": "Madelena Mohamed: A LEAP for nature: advancing nature-related financial risk and opportunity assessment in Malaysia",
+      "url": "https://www.bis.org/review/r260622l.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:28:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Keynote address by Ms Madelena Mohamed, Assistant Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the launch of the report \"A LEAP for nature: advancing nature-related financial risk and opportunity assessment in Malaysia\", Kuala Lumpur, 11 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a2499e3b3f4e49ef4cb7"
+    },
+    {
+      "title": "Pan Gongsheng: The evolution of financial structure and the modernization of financial markets in China",
+      "url": "https://www.bis.org/review/r260622q.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:03:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Keynote speech by Mr Pan Gongsheng, Governor of the People's Bank of China, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1082d1c6cd886246b4ee"
+    },
+    {
       "title": "Iceland joins TIPS for instant payments",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -1865,6 +2047,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5b2bdcb52874f8747d7d"
+    },
+    {
+      "title": "Martin Schlegel, Antoine Martin, Petra Tschudin: Introductory remarks by the Governing Board, Swiss National Bank news conference",
+      "url": "https://www.bis.org/review/r260622r.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:07:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Berne, 18 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "833be3d161d3c041494e"
     },
     {
       "title": "令和7年度における環境配慮契約の締結実績の概要を掲載しました",
@@ -2115,62 +2317,105 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "José Luis Escrivá: Competitiveness for growth",
+      "url": "https://www.bis.org/review/r260622k.htm",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-06-24T13:51:04.040+00:00",
-      "fetched_at": "2026-06-24T13:53:58+00:00",
-      "summary": "Time 2026-06-24 13:19:34 UTC 2026-06-24 13:19:34 UTC at epicenter Location 25.151°S 179.832°E Depth 512.68 km (318.57 mi)",
+      "published_at": "2026-06-24T09:01:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Opening address by Mr José Luis Escrivá, Governor of the Bank of Spain, at the \"Competitiveness for growth\" conference, organised by the Spanish Banking Association (AEB), the Spanish Confederation of Savings Banks (CECA) and the Spanish Association of Credit Cooperatives (UNACC), Madrid, 19 June 2026.",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "b6a2660cbc2867ad8bc7"
-    },
-    {
-      "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-24T12:13:32+00:00",
-      "fetched_at": "2026-06-24T13:53:58+00:00",
-      "summary": "富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとして...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "banking",
+        "Macro/Policy"
       ],
       "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0cf330e240fd42672b8e"
+    },
+    {
+      "title": "Colm Kincaid: Harnessing opportunity - the role of financial intermediaries in Europe",
+      "url": "https://www.bis.org/review/r260622m.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:34:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Speech by Mr Colm Kincaid, Deputy Governor of the Central Bank of Ireland, at BIPAR (European Federation of Insurance Intermediaries), Brussels, 19 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8677b184c89e5ba9f468"
+      "id": "4dbb2a8ce1e16c2e2a06"
+    },
+    {
+      "title": "Madelena Mohamed: A LEAP for nature: advancing nature-related financial risk and opportunity assessment in Malaysia",
+      "url": "https://www.bis.org/review/r260622l.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:28:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Keynote address by Ms Madelena Mohamed, Assistant Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the launch of the report \"A LEAP for nature: advancing nature-related financial risk and opportunity assessment in Malaysia\", Kuala Lumpur, 11 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a2499e3b3f4e49ef4cb7"
+    },
+    {
+      "title": "Pan Gongsheng: The evolution of financial structure and the modernization of financial markets in China",
+      "url": "https://www.bis.org/review/r260622q.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:03:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Keynote speech by Mr Pan Gongsheng, Governor of the People's Bank of China, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1082d1c6cd886246b4ee"
+    },
+    {
+      "title": "Martin Schlegel, Antoine Martin, Petra Tschudin: Introductory remarks by the Governing Board, Swiss National Bank news conference",
+      "url": "https://www.bis.org/review/r260622r.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:07:00+00:00",
+      "fetched_at": "2026-06-24T14:57:03+00:00",
+      "summary": "Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Berne, 18 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "833be3d161d3c041494e"
     }
   ],
   "source_errors": [],

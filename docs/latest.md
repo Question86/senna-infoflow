@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T13:54:26+00:00_
+_Generiert: 2026-06-24T14:57:29+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -186,23 +186,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとして...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Iceland joins TIPS for instant payments** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-24T08:00:00+00:00`, fetched `2026-06-24T08:42:05+00:00`
+- **José Luis Escrivá: Competitiveness for growth** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260622k.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-24T09:01:00+00:00`, fetched `2026-06-24T14:57:03+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0)
+  - Kurz: Opening address by Mr José Luis Escrivá, Governor of the Bank of Spain, at the "Competitiveness for growth" conference, organised by the Spanish Banking Association (AEB), the Spanish Confederation of Savings Banks (CECA) and the Spanish Association of Credit Cooperatives (UNACC), Madrid, 19 June 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Colm Kincaid: Harnessing opportunity - the role of financial intermediaries in Europe** — Score 8, observation — [Quelle](https://www.bis.org/review/r260622m.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-24T08:34:00+00:00`, fetched `2026-06-24T14:57:03+00:00`
   - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Iceland joins TIPS for instant payments
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **koala73/worldmonitor** — Score 8, observation — [Quelle](https://github.com/koala73/worldmonitor)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-24T03:17:19+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
+  - Kurz: Speech by Mr Colm Kincaid, Deputy Governor of the Central Bank of Ireland, at BIPAR (European Federation of Insurance Intermediaries), Brussels, 19 June 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
