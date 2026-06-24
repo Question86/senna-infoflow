@@ -1,0 +1,70 @@
+[
+  {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
+    "url": "https://jvn.jp/vu/JVNVU98428308/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-24T09:00:00+09:00",
+    "fetched_at": "2026-06-24T01:08:52+00:00",
+    "summary": "2026年06月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "23cf0c60979c8e8eda0c"
+  },
+  {
+    "title": "Philippine AI is no longer a footnote. Here are the 15 startups proving it",
+    "url": "https://e27.co/philippine-ai-is-no-longer-a-footnote-here-are-the-15-startups-proving-it-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T01:00:09+00:00",
+    "fetched_at": "2026-06-24T01:08:52+00:00",
+    "summary": "The Philippines is quietly building one of Southeast Asia’s most diverse AI startup ecosystems. While the country has long been recognised for its tech-enabled services sector, a new generation of homegrown companies is now moving up the value chain — building original AI products across logistics, healthcare, gaming, gig work, and customer experience. From Senti […] The post Philippine AI is no longer a footnote. H…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0bb9b803bad930e165fd"
+  },
+  {
+    "title": "旧型の「iPhone」や「iPad」に修正不能な脆弱性--対象機種は？",
+    "url": "https://japan.zdnet.com/article/35249250/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:38:01+00:00",
+    "fetched_at": "2026-06-24T01:08:52+00:00",
+    "summary": "「iPhone 11」「iPhone XS」「iPhone XR」「iPhone SE」をまだ使っているユーザーに残念なお知らせだ。これらの「iPhone」に新たなセキュリティ脆弱性が見つかったが、Appleが提供する通常のアップデートではこの問題を修正できないという。 欧州を拠点とするサイバーセキュリティ企業Paradigm Shift Technologyは、現地...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry",
+      "technology"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "66b9c0d567fc8827915a"
+  }
+]

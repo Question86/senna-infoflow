@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-23T23:56:56+00:00_
+_Generiert: 2026-06-24T01:09:21+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+3 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -12,277 +12,40 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-23T23:56:43+00:00`, fetched `2026-06-23T23:56:28+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Ecosystem Roundup: The agentic commerce trust gap no one wants to fix** — Score 23, opportunity — [Quelle](https://e27.co/ecosystem-roundup-the-agentic-commerce-trust-gap-no-one-wants-to-fix-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T06:29:49+00:00`, fetched `2026-06-23T06:35:23+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Everyone wants to build the pipes. OpenAI, Stripe, Google, Visa — the race to let AI agents spend money autonomously is well funded and well covered. What is conspicuously absent is the layer that asks a far more uncomfortable question: should the agent be spending that money at all, and can the data driving that […] The post Ecosystem Roundup: The agentic commerce trust gap no one wants to fix appeared first on e27…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Agentic commerce’s dirty secret: the data powering AI purchases is often wrong** — Score 23, opportunity — [Quelle](https://e27.co/agentic-commerces-dirty-secret-the-data-powering-ai-purchases-is-often-wrong-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T05:02:01+00:00`, fetched `2026-06-23T05:13:47+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: The infrastructure race for agentic commerce has a well-documented cast of characters. OpenAI, Stripe, Google, and Visa are all competing to build the rails that allow AI agents to spend money autonomously. However, what almost nobody is building is the layer that decides whether those agents should, and whether the data driving those decisions can […] The post Agentic commerce’s dirty secret: the data powering AI p…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **mukul975/Anthropic-Cybersecurity-Skills** — Score 23, mixed — [Quelle](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Reputationsrisiko, Security, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 produc…
-  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- **5 Seoul startups made their Southeast Asia debut at Echelon Singapore 2026 under the SBA pavilion** — Score 21, observation — [Quelle](https://e27.co/5-seoul-startups-made-their-southeast-asia-debut-at-echelon-singapore-2026-under-the-sba-pavilion-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T06:00:26+00:00`, fetched `2026-06-23T06:35:23+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Reputationsrisiko, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Seoul’s startup ecosystem has spent the past decade building a reputation for technical depth, from enterprise AI to deep tech materials science. What has been harder to build is the second half of the story: a credible path for those companies to operate beyond Korea’s borders. Southeast Asia, with its fragmented but fast-growing digital economy, […] The post 5 Seoul startups made their Southeast Asia debut at Eche…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Japanese visual symbols** — Score 16, observation — [Quelle](https://arun.is/blog/japan-symbols/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-22T05:26:23+00:00`, fetched `2026-06-23T01:26:09+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 114 km NE of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ks)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-23T12:32:51.040+00:00`, fetched `2026-06-23T12:45:20+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-23 12:13:24 UTC 2026-06-23 12:13:24 UTC at epicenter Location 2.542°N 128.641°E Depth 241.10 km (149.81 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The AI-powered World Cup runs on thousands of data workers** — Score 15, observation — [Quelle](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-06-23T10:00:00+00:00`, fetched `2026-06-23T10:40:11+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:sports_sf_tech_events
-  - Watchgraph: sports_sf_tech_events
-  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules sports_sf_tech_events (+3.0)
-  - Kurz: Human annotators in Brazil, Cambodia, and the Philippines are tracking every movement in the football tournament for teams, broadcasters, and the betting industry.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 171 km WNW of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7jl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-23T05:09:46.040+00:00`, fetched `2026-06-23T05:13:47+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-23 04:53:36 UTC 2026-06-23 04:53:36 UTC at epicenter Location 2.482°N 126.666°E Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 186 km N of Fais, Micronesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-23T02:13:11.040+00:00`, fetched `2026-06-23T02:24:26+00:00`
-  - Treffer: Climate/Disaster Infrastructure, GitHub Actions, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-23 01:56:49 UTC 2026-06-23 01:56:49 UTC at epicenter Location 11.449°N 140.609°E Depth 43.71 km (27.16 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Automatic Dependabot access to GitHub-hosted registries** — Score 14, opportunity — [Quelle](https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-23T16:46:05+00:00`, fetched `2026-06-23T17:28:49+00:00`
-  - Treffer: Actions, CodeQL/Dependabot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.0); recent (+1.0)
-  - Kurz: Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,… The post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **横河電機製FAST/TOOLSおよびCI Serverにおける重要情報の平文送信の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96872547/)
+- **CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU98428308/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-23T13:00:00+09:00`, fetched `2026-06-23T05:13:47+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+  - Zeit: published `2026-06-24T09:00:00+09:00`, fetched `2026-06-24T01:08:52+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 横河電機製FAST/TOOLSおよびCI Serverには、重要情報の平文送信の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **FastStone Image Viewerにおけるファイル解析に関する複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98582044/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-23T10:15:15+09:00`, fetched `2026-06-23T01:26:09+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Microsoft Windows Recovery EnvironmentにおけるUEFI/BIOSパスワード制限回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90386605/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-23T10:15:00+09:00`, fetched `2026-06-23T01:26:09+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年06月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
-- **Helping build shared standards for advanced AI** — Score 13, observation — [Quelle](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-23T13:00:00+00:00`, fetched `2026-06-23T20:39:49+00:00`
-  - Treffer: AI/KI, OpenAI, safety
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)
-  - Kurz: OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS** — Score 13, observation — [Quelle](https://www.bis.org/press/p260623.htm)
-  - Quelle: BIS Press Releases / `rss`
-  - Zeit: published `2026-06-23T12:12:00+00:00`, fetched `2026-06-23T11:46:06+00:00`
-  - Treffer: Content-Chance, macro, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)
-  - Kurz: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「馬鹿とハサミは使いようだ…」あえて能力の低いAIにマニュアルを実行させ、「賢いAIなら補完してしまう暗黙知をポンコツAIにあぶり出させる」アイデアが目からウロコ** — Score 13, observation — [Quelle](https://togetter.com/li/2712705)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T11:01:16+00:00`, fetched `2026-06-23T19:04:41+00:00`
-  - Treffer: agent, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
-  - Kurz: 管四 @guansi 最近发现了一个特别有意思的用法。我把 GPT 和 DeepSeek V4 Pro 当高级工程师用，负责写 SOP、写 CI/CD 流程、设计方案。然后把这些东西一股脑丢给 Hermes Agent 里的 Minimax M3 去执行。 正常情况下，ChatGPT 一个小时能搞定，DeepSeek 两个小时也差不多了。M3 2026-06-22 13:56:13 管四 @guansi 最近发...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Secret scanning adds extended metadata for Replicate secrets** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-23T19:50:00+00:00`, fetched `2026-06-23T20:39:49+00:00`
-  - Treffer: CodeQL/Dependabot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
-  - Kurz: Secret scanning now includes extended metadata for Replicate secrets, providing richer context for leaked credentials. Extended metadata support This pattern now includes extended metadata when detected, providing richer context about… The post Secret scanning adds extended metadata for Replicate secrets appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **I automated my job (and it made me a better leader)** — Score 12, opportunity — [Quelle](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-23T16:00:00+00:00`, fetched `2026-06-23T16:45:43+00:00`
-  - Treffer: AI Agents, Automatisierung, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Deprecation of Python 3.9 for Dependabot** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-23T15:46:30+00:00`, fetched `2026-06-23T16:45:43+00:00`
-  - Treffer: CodeQL/Dependabot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
-  - Kurz: Dependabot no longer supports Python version 3.9, which has reached its end-of-life. If you continue to use Python 3.9, there’s a risk that Dependabot will not create pull requests to… The post Deprecation of Python 3.9 for Dependabot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Boris Vujčić: Outlook for the euro area economy and monetary policy** — Score 12, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-23T13:55:00+00:00`, fetched `2026-06-23T14:48:23+00:00`
-  - Treffer: euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Outlook for the euro area economy and monetary policy
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan** — Score 12, observation — [Quelle](https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/)
+- **Philippine AI is no longer a footnote. Here are the 15 startups proving it** — Score 12, observation — [Quelle](https://e27.co/philippine-ai-is-no-longer-a-footnote-here-are-the-15-startups-proving-it-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T08:08:48+00:00`, fetched `2026-06-23T09:21:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-06-24T01:00:09+00:00`, fetched `2026-06-24T01:08:52+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: H3 Zoom, a Singapore‑based deeptech startup building AI‑driven inspection and asset‑intelligence software, has closed an oversubscribed Series A round of US$3.6 million. The financing was led by JRE Ventures, the corporate venture arm of Japan’s East Japan Railway Company, with participation from SGInnovate, M7 Holdings, Moringa Ventures, and Lotus One Investment, besides an AngelCentral member […] The post From faç…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: The Philippines is quietly building one of Southeast Asia’s most diverse AI startup ecosystems. While the country has long been recognised for its tech-enabled services sector, a new generation of homegrown companies is now moving up the value chain — building original AI products across logistics, healthcare, gaming, gig work, and customer experience. From Senti […] The post Philippine AI is no longer a footnote. H…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました** — Score 12, observation — [Quelle](https://www.digital.go.jp/news/038b936a-c9f5-468a-8914-eccdd5011125)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-23T05:59:55+00:00`, fetched `2026-06-23T06:35:23+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: OECD「デジタル政府レポート」の刊行記念イベントにおいて、松本デジタル大臣がビデオメッセージを発出しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 265 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-23T15:48:53.040+00:00`, fetched `2026-06-23T15:52:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-23 15:29:02 UTC 2026-06-23 15:29:02 UTC at epicenter Location 37.821°N 95.298°E Depth 8.10 km (5.03 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source** — Score 11, opportunity — [Quelle](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-23T15:48:00+00:00`, fetched `2026-06-23T19:04:41+00:00`
-  - Treffer: AI/KI, GitHub, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Open Source (+3.8); GitHub (+2.5); recent (+1.0)
-  - Kurz: We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト - Qiita** — Score 11, observation — [Quelle](https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1)
+- **旧型の「iPhone」や「iPad」に修正不能な脆弱性--対象機種は？** — Score 12, observation — [Quelle](https://japan.zdnet.com/article/35249250/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T08:00:45+00:00`, fetched `2026-06-23T23:30:47+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
+  - Zeit: published `2026-06-23T12:38:01+00:00`, fetched `2026-06-24T01:08:52+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry, technology
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。 settings.json の permissions 設計、PreToolUse hook による危険コマンドの遮...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita** — Score 11, observation — [Quelle](https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-21T22:21:26+00:00`, fetched `2026-06-23T18:15:22+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 設計書を書くたびに「フォーマットがバラバラになる」「前回と書き方が違う」と感じていませんか？要件定義書、基本設計書、詳細設計書、DB設計書……それぞれ求められる粒度や観点が違うのに、毎回ゼロから指示を書き直すのは正直しんどい作業です。この記事では、Claude Codeで設計書作成専用のサブエージェントを作る方...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism** — Score 10, observation — [Quelle](https://e27.co/tribe-academy-ai-bilingualism-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-23T07:59:45+00:00`, fetched `2026-06-23T09:21:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore has set an ambitious target: 100,000 “AI-bilingual” workers by 2029. The goal signals a broader reckoning with how AI is reshaping the professional workforce — not merely as a productivity tool, but as a capability that demands a new kind of literacy. Yet as training programmes multiply and certification frameworks take shape, a harder […] The post Tribe Academy’s Felicia Tan: Why good prompt engineering a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How Omio is building the future of conversational travel** — Score 10, observation — [Quelle](https://openai.com/index/omio)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-23T00:00:00+00:00`, fetched `2026-06-23T09:21:55+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
-  - Kurz: Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「iPhone 11」「iPhone XS」「iPhone XR」「iPhone SE」をまだ使っているユーザーに残念なお知らせだ。これらの「iPhone」に新たなセキュリティ脆弱性が見つかったが、Appleが提供する通常のアップデートではこの問題を修正できないという。 欧州を拠点とするサイバーセキュリティ企業Paradigm Shift Technologyは、現地...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
