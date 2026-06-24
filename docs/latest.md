@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T04:49:03+00:00_
+_Generiert: 2026-06-24T06:16:18+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -114,6 +114,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Global financial markets are currently undergoing a severe recalibration as the artificial intelligence trade unwinds. This paradigm shift is triggering a broad rotation out of high-flying momentum stocks and into defensive sectors. The contagion is evident across major Western indices. The S&P 500 retreated by 1.4 per cent to settle near 7,375, while the technology-focused […] The post From silicon to satoshis: Tra…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和7年度における環境配慮契約の締結実績の概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/green-contract)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-24T06:00:00+00:00`, fetched `2026-06-24T06:15:45+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和7年度における環境配慮契約の締結実績の概要を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年度 一般職（大卒程度）官庁訪問の予約を開始しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-24T06:00:00+00:00`, fetched `2026-06-24T06:15:45+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年度 一般職（大卒程度）官庁訪問の予約を開始しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑 “勝手に”公式マーク表示も 専門家「AIうまく機能していない」｜FNNプライムオンライン** — Score 5, observation — [Quelle](https://www.fnn.jp/articles/-/1064623)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-24T01:44:09+00:00`, fetched `2026-06-24T06:15:45+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AIが飲食店に自動音声電話をかけて予約を代行するサービス「オートリザーブ」をめぐり、無断掲載や鳴り止まない自動音声電話など飲食店とのトラブルが相次いでいる。運営会社は「法的に問題はない」としているが、専門家はサービスの課題を指摘する。 自動音声の予約電話に店主が悲鳴 店先にある張り紙に書かれていたの...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい** — Score 5, observation — [Quelle](https://togetter.com/li/2712884)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-24T00:50:18+00:00`, fetched `2026-06-24T03:17:19+00:00`
@@ -122,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Melissa @DtebYQIMTm5Nt8F 部下と「それ（ヘッドセット）って私物ですか？」「私物ですよ〜」という会話を何度も繰り返したんだが、5回目にしてついに「業務で必要なのに自腹で買わなきゃいけないんですか？」という質問だったことが判明した。 意図の汲み取れないアホと思われただろうな〜。自腹だよ。 2026-06-23 18:5...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **使い方次第でAIはもっと賢くなる！「Gemini」のポテンシャルを引き出す必須テクニック | ライフハッカー・ジャパン** — Score 5, observation — [Quelle](https://www.lifehacker.jp/article/2606-best-gemini-hacks/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-23T14:34:08+00:00`, fetched `2026-06-24T03:17:19+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Geminiの普及率の高さは、メールやドキュメント、さらには検索結果に至るまで、あらゆる場所に存在していることから実感していることでしょう。 AIをすでに利用している人も、あるいは何に役立つのかを探っている最中の人も、Geminiに触れるすべての人が知っておくべき、いくつかのコツとヒントがあります。 まずはじめ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
