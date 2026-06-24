@@ -79,6 +79,16 @@ jobs:
           echo "Hardened monitor failed or timed out. Writing emergency RSS fallback."
           python scripts/emergency_rss_writer.py
 
+      - name: Run global security and economy watchdog overlays
+        if: always()
+        timeout-minutes: 2
+        continue-on-error: true
+        env:
+          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
+        run: |
+          echo "Running always-on global security/economy watchdog overlay."
+          python scripts/global_watchdogs.py
+
       - name: Restore full dashboard UI from protected commit
         run: |
           git checkout bd43c72da89e17b5e1f44d3ad19fca1284047db7 -- docs/index.html
