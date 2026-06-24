@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T20:57:45+00:00_
+_Generiert: 2026-06-24T21:37:08+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月23日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 123 km NE of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7yv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-24T21:18:58.040+00:00`, fetched `2026-06-24T21:36:42+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-24 21:02:55 UTC 2026-06-24 21:02:55 UTC at epicenter Location 2.594°N 128.711°E Depth 258.87 km (160.85 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **OpenAI and Broadcom unveil LLM-optimized inference chip** — Score 15, observation — [Quelle](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)
   - Quelle: OpenAI News RSS / `rss`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Self-service credential revocation for incident response** — Score 9, risk — [Quelle](https://github.blog/changelog/2026-06-24-self-service-credential-revocation-for-incident-response)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-24T16:47:20+00:00`, fetched `2026-06-24T21:36:42+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: For a timely response to security incidents involving compromised accounts or stolen credentials, GitHub Enterprise owners can now use new “break-glass” capabilities to instantly revoke all credentials for a given… The post Self-service credential revocation for incident response appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB reports on progress towards euro adoption** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-24T10:00:00+00:00`, fetched `2026-06-24T11:09:44+00:00`
@@ -204,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB reports on progress towards euro adoption
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **José Luis Escrivá: Competitiveness for growth** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260622k.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-06-24T09:01:00+00:00`, fetched `2026-06-24T14:57:03+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0)
-  - Kurz: Opening address by Mr José Luis Escrivá, Governor of the Bank of Spain, at the "Competitiveness for growth" conference, organised by the Spanish Banking Association (AEB), the Spanish Confederation of Savings Banks (CECA) and the Spanish Association of Credit Cooperatives (UNACC), Madrid, 19 June 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

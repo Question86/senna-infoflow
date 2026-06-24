@@ -65,6 +65,43 @@
     "id": "23cf0c60979c8e8eda0c"
   },
   {
+    "title": "M 4.5 - 123 km NE of Tobelo, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7yv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-24T21:18:58.040+00:00",
+    "fetched_at": "2026-06-24T21:36:42+00:00",
+    "summary": "Time 2026-06-24 21:02:55 UTC 2026-06-24 21:02:55 UTC at epicenter Location 2.594°N 128.711°E Depth 258.87 km (160.85 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "de943044c500668aa383"
+  },
+  {
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "source": "OpenAI News RSS",
@@ -659,6 +696,27 @@
     "id": "374089a605a9008e0634"
   },
   {
+    "title": "Self-service credential revocation for incident response",
+    "url": "https://github.blog/changelog/2026-06-24-self-service-credential-revocation-for-incident-response",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-24T16:47:20+00:00",
+    "fetched_at": "2026-06-24T21:36:42+00:00",
+    "summary": "For a timely response to security incidents involving compromised accounts or stolen credentials, GitHub Enterprise owners can now use new “break-glass” capabilities to instantly revoke all credentials for a given… The post Self-service credential revocation for incident response appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Security (+6.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "43416517f36f7755150a"
+  },
+  {
     "title": "M 4.5 - south of the Fiji Islands",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7un",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1143,6 +1201,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ee0adda7da8066d96382"
+  },
+  {
+    "title": "「AIがSQLを書いてくれる」で終わらせない — 分析基盤の育て方",
+    "url": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T09:38:31+00:00",
+    "fetched_at": "2026-06-24T21:36:42+00:00",
+    "summary": "トリビューでCTOをしている小尾（@obiyuta）です。 弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。 今回は具体的な活用事例として、非エンジニアが自分で本番データを分析できるような分析基盤と、作って終わら...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cfc24c072e4c0888c2ec"
   },
   {
     "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
