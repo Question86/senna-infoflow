@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-24T01:56:23+00:00",
-  "run_id": "2026-06-24T01:56:23+00:00",
+  "generated_at": "2026-06-24T03:17:47+00:00",
+  "run_id": "2026-06-24T03:17:47+00:00",
   "date": "2026-06-24",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 9,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 2,
-    "observe": 3,
-    "source_errors": 1
+    "medium": 4,
+    "observe": 10,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -88,6 +88,50 @@
           "LOW"
         ],
         "id": "2c637a7d5f92521da56f"
+      },
+      {
+        "title": "Who am I in the age of AI? Identity, displacement, and awakening",
+        "url": "https://e27.co/who-am-i-in-the-age-of-ai-identity-displacement-and-awakening-20260617/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-24T02:30:30+00:00",
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "There’s a moment in the film Who Am I? where Jackie Chan’s character wakes up with amnesia—no name, no rank, and no recallable past. He’s still capable. Still acting. Still surviving. But the story that once made his actions feel like they belonged to him is gone. The film keeps circling a single question: Who am […] The post Who am I in the age of AI? Identity, displacement, and awakening appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c4f2cf620b673561df74"
+      },
+      {
+        "title": "AI literacy in Thailand is reaching office workers, not the 63% in informal employment",
+        "url": "https://e27.co/ai-literacy-in-thailand-is-reaching-office-workers-not-the-63-in-informal-employment-20260617/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-24T02:00:19+00:00",
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "Thailand is both an agricultural country and an industrial manufacturing base that produces a large number of engine components. Nevertheless, workers across many industrial sectors in Thailand are now at risk of being replaced by AI technology and automation, as AI is increasingly being integrated into the Internet of Things (IoT) and across manufacturing industries. […] The post AI literacy in Thailand is reaching…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Automatisierung"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f6401ba89d4f42d9f92"
       }
     ],
     "observe": [
@@ -157,6 +201,155 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66b9c0d567fc8827915a"
+      },
+      {
+        "title": "garrytan/gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy , No Priors podcast, March 2026 When I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twe…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23e6c901b92baa693cb3"
+      },
+      {
+        "title": "bytedance/deer-flow",
+        "url": "https://github.com/bytedance/deer-flow",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "374089a605a9008e0634"
+      },
+      {
+        "title": "koala73/worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "df1e71771133c099248a"
+      },
+      {
+        "title": "From silicon to satoshis: Tracing the contagion of the global market unwind",
+        "url": "https://e27.co/from-silicon-to-satoshis-tracing-the-contagion-of-the-global-market-unwind-20260624/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-24T02:33:05+00:00",
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "Global financial markets are currently undergoing a severe recalibration as the artificial intelligence trade unwinds. This paradigm shift is triggering a broad rotation out of high-flying momentum stocks and into defensive sectors. The contagion is evident across major Western indices. The S&P 500 retreated by 1.4 per cent to settle near 7,375, while the technology-focused […] The post From silicon to satoshis: Tra…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5b2bdcb52874f8747d7d"
+      },
+      {
+        "title": "部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい",
+        "url": "https://togetter.com/li/2712884",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-24T00:50:18+00:00",
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "Melissa @DtebYQIMTm5Nt8F 部下と「それ（ヘッドセット）って私物ですか？」「私物ですよ〜」という会話を何度も繰り返したんだが、5回目にしてついに「業務で必要なのに自腹で買わなきゃいけないんですか？」という質問だったことが判明した。 意図の汲み取れないアホと思われただろうな〜。自腹だよ。 2026-06-23 18:5...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e4acf49c685be863600a"
+      },
+      {
+        "title": "使い方次第でAIはもっと賢くなる！「Gemini」のポテンシャルを引き出す必須テクニック | ライフハッカー・ジャパン",
+        "url": "https://www.lifehacker.jp/article/2606-best-gemini-hacks/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-23T14:34:08+00:00",
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "Geminiの普及率の高さは、メールやドキュメント、さらには検索結果に至るまで、あらゆる場所に存在していることから実感していることでしょう。 AIをすでに利用している人も、あるいは何に役立つのかを探っている最中の人も、Geminiに触れるすべての人が知っておくべき、いくつかのコツとヒントがあります。 まずはじめ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f87e03a1d1992141453"
+      },
+      {
+        "title": "If you need a spreadsheet to decide whether to start a company, you probably shouldn’t start one",
+        "url": "https://e27.co/if-you-need-a-spreadsheet-to-decide-whether-to-start-a-company-you-probably-shouldnt-start-one-20260616/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-24T02:00:27+00:00",
+        "fetched_at": "2026-06-24T03:17:19+00:00",
+        "summary": "When I was 12, I walked around my uncle’s warehouse in the Netherlands. He’d started a jewellery import business and grown it into a big business. I stood there thinking: he started with nothing and built all of this, that’s what I want to do! I also noticed the Porsche. And the house. I wanted […] The post If you need a spreadsheet to decide whether to start a company, you probably shouldn’t start one appeared firs…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "56b16aff2472df353a2c"
       }
     ]
   },
@@ -220,6 +413,50 @@
         "LOW"
       ],
       "id": "2c637a7d5f92521da56f"
+    },
+    {
+      "title": "Who am I in the age of AI? Identity, displacement, and awakening",
+      "url": "https://e27.co/who-am-i-in-the-age-of-ai-identity-displacement-and-awakening-20260617/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:30:30+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "There’s a moment in the film Who Am I? where Jackie Chan’s character wakes up with amnesia—no name, no rank, and no recallable past. He’s still capable. Still acting. Still surviving. But the story that once made his actions feel like they belonged to him is gone. The film keeps circling a single question: Who am […] The post Who am I in the age of AI? Identity, displacement, and awakening appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4f2cf620b673561df74"
+    },
+    {
+      "title": "AI literacy in Thailand is reaching office workers, not the 63% in informal employment",
+      "url": "https://e27.co/ai-literacy-in-thailand-is-reaching-office-workers-not-the-63-in-informal-employment-20260617/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:00:19+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Thailand is both an agricultural country and an industrial manufacturing base that produces a large number of engine components. Nevertheless, workers across many industrial sectors in Thailand are now at risk of being replaced by AI technology and automation, as AI is increasingly being integrated into the Internet of Things (IoT) and across manufacturing industries. […] The post AI literacy in Thailand is reaching…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f6401ba89d4f42d9f92"
     },
     {
       "title": "How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend",
@@ -287,77 +524,353 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "66b9c0d567fc8827915a"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "M 4.9 - 64 km WNW of Catuday, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-24T01:47:50.040+00:00",
-      "fetched_at": "2026-06-24T01:55:54+00:00",
-      "summary": "Time 2026-06-24 01:34:19 UTC 2026-06-24 01:34:19 UTC at epicenter Location 16.502°N 119.244°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "2c637a7d5f92521da56f"
     },
     {
-      "title": "How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend",
-      "url": "https://e27.co/how-to-build-a-brand-fast-100000-in-new-revenue-in-90-days-with-zero-ad-spend/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-06-24T01:45:41+00:00",
-      "fetched_at": "2026-06-24T01:55:54+00:00",
-      "summary": "There is a belief among founders that brand building is slow. That it takes years of consistent effort before a brand means anything, and that in the meantime, you simply have to survive on product and sales. This belief is the single most common reason founders underinvest in brand. They think the payoff is too […] The post How to build a brand fast: US$100,000 in new revenue in 90 days, with zero ad spend appeared…",
+      "published_at": null,
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy , No Priors podcast, March 2026 When I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twe…",
       "matched_keywords": [
+        "AI Agents",
         "APAC Trend Radar",
-        "Content-Chance",
-        "founder"
+        "GitHub Trending"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); founder (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b940cb955a500e6ec28c"
-    }
-  ],
-  "source_errors": [
+      "id": "23e6c901b92baa693cb3"
+    },
     {
-      "source_id": "google_trends_philippines_hot",
-      "source_name": "Google Trends Philippines Hot Feed",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH"
+      "published_at": null,
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "374089a605a9008e0634"
+    },
+    {
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df1e71771133c099248a"
+    },
+    {
+      "title": "From silicon to satoshis: Tracing the contagion of the global market unwind",
+      "url": "https://e27.co/from-silicon-to-satoshis-tracing-the-contagion-of-the-global-market-unwind-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:33:05+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Global financial markets are currently undergoing a severe recalibration as the artificial intelligence trade unwinds. This paradigm shift is triggering a broad rotation out of high-flying momentum stocks and into defensive sectors. The contagion is evident across major Western indices. The S&P 500 retreated by 1.4 per cent to settle near 7,375, while the technology-focused […] The post From silicon to satoshis: Tra…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b2bdcb52874f8747d7d"
+    },
+    {
+      "title": "部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい",
+      "url": "https://togetter.com/li/2712884",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-24T00:50:18+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Melissa @DtebYQIMTm5Nt8F 部下と「それ（ヘッドセット）って私物ですか？」「私物ですよ〜」という会話を何度も繰り返したんだが、5回目にしてついに「業務で必要なのに自腹で買わなきゃいけないんですか？」という質問だったことが判明した。 意図の汲み取れないアホと思われただろうな〜。自腹だよ。 2026-06-23 18:5...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4acf49c685be863600a"
+    },
+    {
+      "title": "使い方次第でAIはもっと賢くなる！「Gemini」のポテンシャルを引き出す必須テクニック | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2606-best-gemini-hacks/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T14:34:08+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Geminiの普及率の高さは、メールやドキュメント、さらには検索結果に至るまで、あらゆる場所に存在していることから実感していることでしょう。 AIをすでに利用している人も、あるいは何に役立つのかを探っている最中の人も、Geminiに触れるすべての人が知っておくべき、いくつかのコツとヒントがあります。 まずはじめ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f87e03a1d1992141453"
+    },
+    {
+      "title": "If you need a spreadsheet to decide whether to start a company, you probably shouldn’t start one",
+      "url": "https://e27.co/if-you-need-a-spreadsheet-to-decide-whether-to-start-a-company-you-probably-shouldnt-start-one-20260616/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:00:27+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "When I was 12, I walked around my uncle’s warehouse in the Netherlands. He’d started a jewellery import business and grown it into a big business. I stood there thinking: he started with nothing and built all of this, that’s what I want to do! I also noticed the Porsche. And the house. I wanted […] The post If you need a spreadsheet to decide whether to start a company, you probably shouldn’t start one appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56b16aff2472df353a2c"
     }
   ],
+  "new_findings": [
+    {
+      "title": "Who am I in the age of AI? Identity, displacement, and awakening",
+      "url": "https://e27.co/who-am-i-in-the-age-of-ai-identity-displacement-and-awakening-20260617/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:30:30+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "There’s a moment in the film Who Am I? where Jackie Chan’s character wakes up with amnesia—no name, no rank, and no recallable past. He’s still capable. Still acting. Still surviving. But the story that once made his actions feel like they belonged to him is gone. The film keeps circling a single question: Who am […] The post Who am I in the age of AI? Identity, displacement, and awakening appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4f2cf620b673561df74"
+    },
+    {
+      "title": "AI literacy in Thailand is reaching office workers, not the 63% in informal employment",
+      "url": "https://e27.co/ai-literacy-in-thailand-is-reaching-office-workers-not-the-63-in-informal-employment-20260617/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:00:19+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Thailand is both an agricultural country and an industrial manufacturing base that produces a large number of engine components. Nevertheless, workers across many industrial sectors in Thailand are now at risk of being replaced by AI technology and automation, as AI is increasingly being integrated into the Internet of Things (IoT) and across manufacturing industries. […] The post AI literacy in Thailand is reaching…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f6401ba89d4f42d9f92"
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy , No Priors podcast, March 2026 When I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twe…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23e6c901b92baa693cb3"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "374089a605a9008e0634"
+    },
+    {
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated n…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df1e71771133c099248a"
+    },
+    {
+      "title": "From silicon to satoshis: Tracing the contagion of the global market unwind",
+      "url": "https://e27.co/from-silicon-to-satoshis-tracing-the-contagion-of-the-global-market-unwind-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:33:05+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Global financial markets are currently undergoing a severe recalibration as the artificial intelligence trade unwinds. This paradigm shift is triggering a broad rotation out of high-flying momentum stocks and into defensive sectors. The contagion is evident across major Western indices. The S&P 500 retreated by 1.4 per cent to settle near 7,375, while the technology-focused […] The post From silicon to satoshis: Tra…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b2bdcb52874f8747d7d"
+    },
+    {
+      "title": "部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい",
+      "url": "https://togetter.com/li/2712884",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-24T00:50:18+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Melissa @DtebYQIMTm5Nt8F 部下と「それ（ヘッドセット）って私物ですか？」「私物ですよ〜」という会話を何度も繰り返したんだが、5回目にしてついに「業務で必要なのに自腹で買わなきゃいけないんですか？」という質問だったことが判明した。 意図の汲み取れないアホと思われただろうな〜。自腹だよ。 2026-06-23 18:5...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4acf49c685be863600a"
+    },
+    {
+      "title": "使い方次第でAIはもっと賢くなる！「Gemini」のポテンシャルを引き出す必須テクニック | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2606-best-gemini-hacks/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-23T14:34:08+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "Geminiの普及率の高さは、メールやドキュメント、さらには検索結果に至るまで、あらゆる場所に存在していることから実感していることでしょう。 AIをすでに利用している人も、あるいは何に役立つのかを探っている最中の人も、Geminiに触れるすべての人が知っておくべき、いくつかのコツとヒントがあります。 まずはじめ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f87e03a1d1992141453"
+    },
+    {
+      "title": "If you need a spreadsheet to decide whether to start a company, you probably shouldn’t start one",
+      "url": "https://e27.co/if-you-need-a-spreadsheet-to-decide-whether-to-start-a-company-you-probably-shouldnt-start-one-20260616/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T02:00:27+00:00",
+      "fetched_at": "2026-06-24T03:17:19+00:00",
+      "summary": "When I was 12, I walked around my uncle’s warehouse in the Netherlands. He’d started a jewellery import business and grown it into a big business. I stood there thinking: he started with nothing and built all of this, that’s what I want to do! I also noticed the Porsche. And the house. I wanted […] The post If you need a spreadsheet to decide whether to start a company, you probably shouldn’t start one appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56b16aff2472df353a2c"
+    }
+  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
