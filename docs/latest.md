@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T07:35:29+00:00_
+_Generiert: 2026-06-24T08:42:33+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-24T07:35:15+00:00`, fetched `2026-06-24T07:35:00+00:00`
+  - Zeit: published `2026-06-24T08:42:20+00:00`, fetched `2026-06-24T08:42:05+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. 🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a millio…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Iceland joins TIPS for instant payments** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-24T08:00:00+00:00`, fetched `2026-06-24T08:42:05+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Iceland joins TIPS for instant payments
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash** — Score 8, observation — [Quelle](https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

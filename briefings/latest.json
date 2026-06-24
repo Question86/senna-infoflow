@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T07:35:29+00:00",
-  "run_id": "2026-06-24T07:35:29+00:00",
+  "generated_at": "2026-06-24T08:42:33+00:00",
+  "run_id": "2026-06-24T08:42:33+00:00",
   "date": "2026-06-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 3,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 5,
-    "observe": 17,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-24T07:35:15+00:00",
-        "fetched_at": "2026-06-24T07:35:00+00:00",
+        "published_at": "2026-06-24T08:42:20+00:00",
+        "fetched_at": "2026-06-24T08:42:05+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "aa50cb1f8edce7ae7ecf"
+        "id": "9b5be721df5f1d1f9ab4"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -353,6 +353,26 @@
         "id": "374089a605a9008e0634"
       },
       {
+        "title": "Iceland joins TIPS for instant payments",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:00:00+00:00",
+        "fetched_at": "2026-06-24T08:42:05+00:00",
+        "summary": "Iceland joins TIPS for instant payments",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0f16a41b72d90e8c797"
+      },
+      {
         "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
         "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -395,6 +415,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "df1e71771133c099248a"
+      },
+      {
+        "title": "Can World ID solve the internet’s fake human problem?",
+        "url": "https://e27.co/can-world-id-solve-the-internets-fake-human-problem-20260624/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-24T08:04:31+00:00",
+        "fetched_at": "2026-06-24T08:42:05+00:00",
+        "summary": "As AI blurs the boundary between human and machine online, a new platform is making the case that proving you are a real person should be as fundamental and private as having a password. World ID, developed by Tools for Humanity, is a digital identity credential designed to verify that a user is a unique […] The post Can World ID solve the internet’s fake human problem? appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bf15bde533d0caf1ffa"
       },
       {
         "title": "Home Assistant: Update stopft Informationsleck",
@@ -568,8 +609,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-24T07:35:15+00:00",
-      "fetched_at": "2026-06-24T07:35:00+00:00",
+      "published_at": "2026-06-24T08:42:20+00:00",
+      "fetched_at": "2026-06-24T08:42:05+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -603,7 +644,7 @@
         "HD",
         "LOW"
       ],
-      "id": "aa50cb1f8edce7ae7ecf"
+      "id": "9b5be721df5f1d1f9ab4"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -885,6 +926,26 @@
       "id": "374089a605a9008e0634"
     },
     {
+      "title": "Iceland joins TIPS for instant payments",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:00:00+00:00",
+      "fetched_at": "2026-06-24T08:42:05+00:00",
+      "summary": "Iceland joins TIPS for instant payments",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0f16a41b72d90e8c797"
+    },
+    {
       "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
       "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -927,6 +988,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "df1e71771133c099248a"
+    },
+    {
+      "title": "Can World ID solve the internet’s fake human problem?",
+      "url": "https://e27.co/can-world-id-solve-the-internets-fake-human-problem-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-24T08:04:31+00:00",
+      "fetched_at": "2026-06-24T08:42:05+00:00",
+      "summary": "As AI blurs the boundary between human and machine online, a new platform is making the case that proving you are a real person should be as fundamental and private as having a password. World ID, developed by Tools for Humanity, is a digital identity credential designed to verify that a user is a unique […] The post Can World ID solve the internet’s fake human problem? appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bf15bde533d0caf1ffa"
     },
     {
       "title": "Home Assistant: Update stopft Informationsleck",
@@ -1099,8 +1181,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-24T07:35:15+00:00",
-      "fetched_at": "2026-06-24T07:35:00+00:00",
+      "published_at": "2026-06-24T08:42:20+00:00",
+      "fetched_at": "2026-06-24T08:42:05+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1134,113 +1216,48 @@
         "HD",
         "LOW"
       ],
-      "id": "aa50cb1f8edce7ae7ecf"
+      "id": "9b5be721df5f1d1f9ab4"
     },
     {
-      "title": "Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html",
-      "source": "ECB Open Market Operations and Communication",
+      "title": "Iceland joins TIPS for instant payments",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-06-24T08:15:20+00:00",
-      "fetched_at": "2026-06-24T07:35:00+00:00",
-      "summary": "Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45",
+      "published_at": "2026-06-24T08:00:00+00:00",
+      "fetched_at": "2026-06-24T08:42:05+00:00",
+      "summary": "Iceland joins TIPS for instant payments",
       "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f13d899e1a4bc80ec1b7"
-    },
-    {
-      "title": "Vietnam looks to Israel’s Yozma model for US$100M national venture fund",
-      "url": "https://e27.co/vietnam-looks-to-israels-yozma-model-for-us100m-national-venture-fund-20260624/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-24T06:29:54+00:00",
-      "fetched_at": "2026-06-24T07:35:00+00:00",
-      "summary": "Vietnam is preparing to test a more interventionist model for building technology companies, with the Ministry of Science and Technology proposing a National Venture Capital Fund with initial capital of US$100 million for the 2026-2028 period. The proposal, discussed at a meeting of the government’s science, technology, and innovation committee on Tuesday, is designed to […] The post Vietnam looks to Israel’s Yozma…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "c1013a888416cc5d3f6b"
-    },
-    {
-      "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
-      "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-24T01:00:13+00:00",
-      "fetched_at": "2026-06-24T07:35:00+00:00",
-      "summary": "アプリをインストールして困ることが、ショートカットキーが他のアプリと重複している場合です。いつもなら「Command + スペース」でスポットライトを呼び出せるのに、なぜか他のアプリが起動してしまったことはありませんか？ macOSで、ショートカットキーが重複している箇所を特定し、競合しているアプリやどのアプリ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
+        "Macro/Policy"
       ],
       "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5c2a39d12bebb75ff9de"
+      "id": "b0f16a41b72d90e8c797"
     },
     {
-      "title": "Home Assistant: Update stopft Informationsleck",
-      "url": "https://www.heise.de/news/Home-Assistant-Update-stopft-Informationsleck-11342266.html",
-      "source": "heise Security Alerts",
+      "title": "Can World ID solve the internet’s fake human problem?",
+      "url": "https://e27.co/can-world-id-solve-the-internets-fake-human-problem-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-24T07:11:00.000+00:00",
-      "fetched_at": "2026-06-24T07:35:00+00:00",
-      "summary": "Die jüngeren Home-Assistant-Updates stopfen unter anderem Informationslecks. Zudem gibt es das Home Assistant OS in neuer Version.",
+      "published_at": "2026-06-24T08:04:31+00:00",
+      "fetched_at": "2026-06-24T08:42:05+00:00",
+      "summary": "As AI blurs the boundary between human and machine online, a new platform is making the case that proving you are a real person should be as fundamental and private as having a password. World ID, developed by Tools for Humanity, is a digital identity credential designed to verify that a user is a unique […] The post Can World ID solve the internet’s fake human problem? appeared first on e27 .",
       "matched_keywords": [
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
       "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0ce2241696784c744ec6"
+      "id": "6bf15bde533d0caf1ffa"
     }
   ],
   "source_errors": [],

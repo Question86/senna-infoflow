@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-24T07:35:15+00:00",
-    "fetched_at": "2026-06-24T07:35:00+00:00",
+    "published_at": "2026-06-24T08:42:20+00:00",
+    "fetched_at": "2026-06-24T08:42:05+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "aa50cb1f8edce7ae7ecf"
+    "id": "9b5be721df5f1d1f9ab4"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月23日）",
@@ -321,6 +321,26 @@
     "id": "374089a605a9008e0634"
   },
   {
+    "title": "Iceland joins TIPS for instant payments",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-24T08:00:00+00:00",
+    "fetched_at": "2026-06-24T08:42:05+00:00",
+    "summary": "Iceland joins TIPS for instant payments",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0f16a41b72d90e8c797"
+  },
+  {
     "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
     "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -363,6 +383,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "df1e71771133c099248a"
+  },
+  {
+    "title": "Can World ID solve the internet’s fake human problem?",
+    "url": "https://e27.co/can-world-id-solve-the-internets-fake-human-problem-20260624/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-24T08:04:31+00:00",
+    "fetched_at": "2026-06-24T08:42:05+00:00",
+    "summary": "As AI blurs the boundary between human and machine online, a new platform is making the case that proving you are a real person should be as fundamental and private as having a password. World ID, developed by Tools for Humanity, is a digital identity credential designed to verify that a user is a unique […] The post Can World ID solve the internet’s fake human problem? appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6bf15bde533d0caf1ffa"
   },
   {
     "title": "Home Assistant: Update stopft Informationsleck",
