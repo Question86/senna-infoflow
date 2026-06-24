@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T15:51:26+00:00_
+_Generiert: 2026-06-24T16:39:20+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-24 01:34:19 UTC 2026-06-24 01:34:19 UTC at epicenter Location 16.502°N 119.244°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Changes to model selection for Free and Student plans** — Score 14, risk — [Quelle](https://github.blog/changelog/2026-06-24-changes-to-model-selection-for-free-and-student-plans)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-24T16:28:36+00:00`, fetched `2026-06-24T16:38:54+00:00`
+  - Treffer: Copilot, GitHub, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: Copilot Free and Student plans will now use Copilot auto model selection as the default and only model selection experience. Auto dynamically selects the best model for each task, removing… The post Changes to model selection for Free and Student plans appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Who am I in the age of AI? Identity, displacement, and awakening** — Score 14, observation — [Quelle](https://e27.co/who-am-i-in-the-age-of-ai-identity-displacement-and-awakening-20260617/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

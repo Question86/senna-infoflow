@@ -148,6 +148,56 @@
     "id": "2c637a7d5f92521da56f"
   },
   {
+    "title": "Changes to model selection for Free and Student plans",
+    "url": "https://github.blog/changelog/2026-06-24-changes-to-model-selection-for-free-and-student-plans",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-24T16:28:36+00:00",
+    "fetched_at": "2026-06-24T16:38:54+00:00",
+    "summary": "Copilot Free and Student plans will now use Copilot auto model selection as the default and only model selection experience. Auto dynamically selects the best model for each task, removing… The post Changes to model selection for Free and Student plans appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "Macro/Policy",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "cc057c80f239baed7e22"
+  },
+  {
     "title": "Who am I in the age of AI? Identity, displacement, and awakening",
     "url": "https://e27.co/who-am-i-in-the-age-of-ai-identity-displacement-and-awakening-20260617/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -992,6 +1042,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0d213c98a0857969e3ce"
+  },
+  {
+    "title": "「コードレビューは人間がやるべき」 という、最後の幻想",
+    "url": "https://newspicks.com/news/16930133/body/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T12:25:00+00:00",
+    "fetched_at": "2026-06-24T16:38:54+00:00",
+    "summary": "観点が言葉になれば、砦は仕組みに変わる スピードが上がった現場で、何が詰まっているか 先日、登壇したパネルセッションで、会場に問いを投げました。「コードレビューがチームのボトルネックになっている方は、手を挙げてください」 と。正確な調査ではありません。ただ、会場の体感では、半分ほどの手が挙がりました...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee0adda7da8066d96382"
   },
   {
     "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
