@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-24T17:25:41+00:00_
+_Generiert: 2026-06-24T18:10:37+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: When Meta announced that CRED founder and one of India’s most celebrated fintech entrepreneurs, Kunal Shah, would become the global CEO of WhatsApp, the Indian internet went predictably delirious. LinkedIn filled with tributes. Venture capitalists took victory laps. Across Southeast Asia, the story landed as another chapter in the South Asian diaspora’s march through Silicon […] The post WhatsApp’s new CEO is the he…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Cook, Welcome Remarks** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/cook20260624a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-06-24T18:00:00+00:00`, fetched `2026-06-24T18:10:09+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the State of Small Business Symposium hosted by the Federal Reserve Bank of Cleveland (via pre-recorded video)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-06-24T08:15:20+00:00`, fetched `2026-06-24T07:35:00+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0)
   - Kurz: Opening address by Mr José Luis Escrivá, Governor of the Bank of Spain, at the "Competitiveness for growth" conference, organised by the Spanish Banking Association (AEB), the Spanish Confederation of Savings Banks (CECA) and the Spanish Association of Credit Cooperatives (UNACC), Madrid, 19 June 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Colm Kincaid: Harnessing opportunity - the role of financial intermediaries in Europe** — Score 8, observation — [Quelle](https://www.bis.org/review/r260622m.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-06-24T08:34:00+00:00`, fetched `2026-06-24T14:57:03+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
-  - Kurz: Speech by Mr Colm Kincaid, Deputy Governor of the Central Bank of Ireland, at BIPAR (European Federation of Insurance Intermediaries), Brussels, 19 June 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

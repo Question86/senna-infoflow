@@ -346,6 +346,28 @@
     "id": "e23d38ce978294943a44"
   },
   {
+    "title": "Cook, Welcome Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260624a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-06-24T18:00:00+00:00",
+    "fetched_at": "2026-06-24T18:10:09+00:00",
+    "summary": "Speech At the State of Small Business Symposium hosted by the Federal Reserve Bank of Cleveland (via pre-recorded video)",
+    "matched_keywords": [
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee895313c519a554a1ee"
+  },
+  {
     "title": "Announcing 20260055 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html",
     "source": "ECB Open Market Operations and Communication",
