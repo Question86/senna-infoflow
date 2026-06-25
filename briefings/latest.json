@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T01:20:21+00:00",
-  "run_id": "2026-06-25T01:20:21+00:00",
+  "generated_at": "2026-06-25T02:12:19+00:00",
+  "run_id": "2026-06-25T02:12:19+00:00",
   "date": "2026-06-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,106 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 7,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 1,
-    "observe": 1,
+    "medium": 4,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-25T02:12:05+00:00",
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "General Santos",
+          "Glan",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5f9157417c06905f0062"
+      },
+      {
+        "title": "Why AI agents will reshape customer journeys in Southeast Asia",
+        "url": "https://e27.co/why-ai-agents-will-reshape-customer-journeys-in-southeast-asia-20260619/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-25T02:10:31+00:00",
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "Southeast Asia has never followed a single digital playbook. A customer in Thailand may expect to interact with a brand through LINE. A shopper in Indonesia or Malaysia may prefer WhatsApp. In Vietnam, Zalo remains deeply embedded in daily communication. In the Philippines, Messenger continues to shape how people connect, discover, and transact. This makes […] The post Why AI agents will reshape customer journeys in…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "38cdf23e76eb43961695"
+      },
       {
         "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
         "url": "https://codezine.jp/article/detail/24575?p=4",
@@ -51,9 +140,121 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "282017c260da9e1f8a3d"
+      },
+      {
+        "title": "interviewstreet/hiring-agent",
+        "url": "https://github.com/interviewstreet/hiring-agent",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "AI agent to evaluate and score resumes. Hiring Agent Resume-to-Score pipeline that extracts structured data from PDFs, enriches with GitHub signals, and outputs a fair, explainable evaluation. Contents Overview Architecture Installation and Setup Prerequisites Quick setup with pip Ollama models Configuration How it works CLI usage Directory layout Provider details Contributing License Overview Hiring Agent parses a…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Open Source"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ad9d77bf13457d86e3b1"
       }
     ],
     "observe": [
+      {
+        "title": "revfactory/harness",
+        "url": "https://github.com/revfactory/harness",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say \"build a harness for this project\" (English) or \"하네스 구성해줘\" (한국어) or \"ハーネスを構成して\" (日本語), and the plugin turns your domain description into an agent team and the skills…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3210cbfe22f2cf00ff49"
+      },
+      {
+        "title": "People don’t want productivity hacks anymore, they want sustainable ways to live",
+        "url": "https://e27.co/people-dont-want-productivity-hacks-anymore-they-want-sustainable-ways-to-live-20260619/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-25T01:30:19+00:00",
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "656cb781da12e8ba5be9"
+      },
+      {
+        "title": "JCodesMore/ai-website-cloner-template",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and asset…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone, template (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3776a3b40446e2006971"
+      },
+      {
+        "title": "apple/container",
+        "url": "https://github.com/apple/container",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-06-25T02:11:48+00:00",
+        "summary": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c02d8cf139af5fea89d1"
+      },
       {
         "title": "Why storytelling is no longer a soft skill but analytical output",
         "url": "https://e27.co/why-storytelling-is-no-longer-a-soft-skill-but-analytical-output-20260624/",
@@ -78,6 +279,95 @@
   },
   "findings": [
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-25T02:12:05+00:00",
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5f9157417c06905f0062"
+    },
+    {
+      "title": "Why AI agents will reshape customer journeys in Southeast Asia",
+      "url": "https://e27.co/why-ai-agents-will-reshape-customer-journeys-in-southeast-asia-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-25T02:10:31+00:00",
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Southeast Asia has never followed a single digital playbook. A customer in Thailand may expect to interact with a brand through LINE. A shopper in Indonesia or Malaysia may prefer WhatsApp. In Vietnam, Zalo remains deeply embedded in daily communication. In the Philippines, Messenger continues to shape how people connect, discover, and transact. This makes […] The post Why AI agents will reshape customer journeys in…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "38cdf23e76eb43961695"
+    },
+    {
       "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
       "url": "https://codezine.jp/article/detail/24575?p=4",
       "source": "Hatena Bookmark Hotentry IT",
@@ -99,6 +389,118 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "282017c260da9e1f8a3d"
+    },
+    {
+      "title": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "AI agent to evaluate and score resumes. Hiring Agent Resume-to-Score pipeline that extracts structured data from PDFs, enriches with GitHub signals, and outputs a fair, explainable evaluation. Contents Overview Architecture Installation and Setup Prerequisites Quick setup with pip Ollama models Configuration How it works CLI usage Directory layout Provider details Contributing License Overview Hiring Agent parses a…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ad9d77bf13457d86e3b1"
+    },
+    {
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say \"build a harness for this project\" (English) or \"하네스 구성해줘\" (한국어) or \"ハーネスを構成して\" (日本語), and the plugin turns your domain description into an agent team and the skills…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3210cbfe22f2cf00ff49"
+    },
+    {
+      "title": "People don’t want productivity hacks anymore, they want sustainable ways to live",
+      "url": "https://e27.co/people-dont-want-productivity-hacks-anymore-they-want-sustainable-ways-to-live-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-25T01:30:19+00:00",
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "656cb781da12e8ba5be9"
+    },
+    {
+      "title": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and asset…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone, template (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3776a3b40446e2006971"
+    },
+    {
+      "title": "apple/container",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c02d8cf139af5fea89d1"
     },
     {
       "title": "Why storytelling is no longer a soft skill but analytical output",
@@ -123,24 +525,205 @@
   ],
   "new_findings": [
     {
-      "title": "Why storytelling is no longer a soft skill but analytical output",
-      "url": "https://e27.co/why-storytelling-is-no-longer-a-soft-skill-but-analytical-output-20260624/",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-25T02:12:05+00:00",
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5f9157417c06905f0062"
+    },
+    {
+      "title": "Why AI agents will reshape customer journeys in Southeast Asia",
+      "url": "https://e27.co/why-ai-agents-will-reshape-customer-journeys-in-southeast-asia-20260619/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-25T01:00:41+00:00",
-      "fetched_at": "2026-06-25T01:19:56+00:00",
-      "summary": "What does it take to tell a winning story? Through my experience working in public relations, insights management, and tech entrepreneurship, I’ve come to see that storytelling isn’t a soft skill. In 2026 and beyond, it’s analytical output. The big companies know this. Job listings mentioning “storytelling” as a skill or headlined with titles like […] The post Why storytelling is no longer a soft skill but analytica…",
+      "published_at": "2026-06-25T02:10:31+00:00",
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Southeast Asia has never followed a single digital playbook. A customer in Thailand may expect to interact with a brand through LINE. A shopper in Indonesia or Malaysia may prefer WhatsApp. In Vietnam, Zalo remains deeply embedded in daily communication. In the Philippines, Messenger continues to shape how people connect, discover, and transact. This makes […] The post Why AI agents will reshape customer journeys in…",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "38cdf23e76eb43961695"
+    },
+    {
+      "title": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "AI agent to evaluate and score resumes. Hiring Agent Resume-to-Score pipeline that extracts structured data from PDFs, enriches with GitHub signals, and outputs a fair, explainable evaluation. Contents Overview Architecture Installation and Setup Prerequisites Quick setup with pip Ollama models Configuration How it works CLI usage Directory layout Provider details Contributing License Overview Hiring Agent parses a…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "349e54284007d1927815"
+      "id": "ad9d77bf13457d86e3b1"
+    },
+    {
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say \"build a harness for this project\" (English) or \"하네스 구성해줘\" (한국어) or \"ハーネスを構成して\" (日本語), and the plugin turns your domain description into an agent team and the skills…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3210cbfe22f2cf00ff49"
+    },
+    {
+      "title": "People don’t want productivity hacks anymore, they want sustainable ways to live",
+      "url": "https://e27.co/people-dont-want-productivity-hacks-anymore-they-want-sustainable-ways-to-live-20260619/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-25T01:30:19+00:00",
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "656cb781da12e8ba5be9"
+    },
+    {
+      "title": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and asset…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone, template (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3776a3b40446e2006971"
+    },
+    {
+      "title": "apple/container",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-06-25T02:11:48+00:00",
+      "summary": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c02d8cf139af5fea89d1"
     }
   ],
   "source_errors": [],
