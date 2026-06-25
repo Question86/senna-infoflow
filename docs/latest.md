@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T00:12:37+00:00_
+_Generiert: 2026-06-25T01:20:21+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+2 neue relevante Treffer. Stärkstes Signal: „ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -24,7 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **Why storytelling is no longer a soft skill but analytical output** — Score 4, observation — [Quelle](https://e27.co/why-storytelling-is-no-longer-a-soft-skill-but-analytical-output-20260624/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-25T01:00:41+00:00`, fetched `2026-06-25T01:19:56+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: What does it take to tell a winning story? Through my experience working in public relations, insights management, and tech entrepreneurship, I’ve come to see that storytelling isn’t a soft skill. In 2026 and beyond, it’s analytical output. The big companies know this. Job listings mentioning “storytelling” as a skill or headlined with titles like […] The post Why storytelling is no longer a soft skill but analytica…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

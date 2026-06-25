@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T00:12:37+00:00",
-  "run_id": "2026-06-25T00:12:37+00:00",
+  "generated_at": "2026-06-25T01:20:21+00:00",
+  "run_id": "2026-06-25T01:20:21+00:00",
   "date": "2026-06-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 1,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
@@ -53,7 +53,28 @@
         "id": "282017c260da9e1f8a3d"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "Why storytelling is no longer a soft skill but analytical output",
+        "url": "https://e27.co/why-storytelling-is-no-longer-a-soft-skill-but-analytical-output-20260624/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-25T01:00:41+00:00",
+        "fetched_at": "2026-06-25T01:19:56+00:00",
+        "summary": "What does it take to tell a winning story? Through my experience working in public relations, insights management, and tech entrepreneurship, I’ve come to see that storytelling isn’t a soft skill. In 2026 and beyond, it’s analytical output. The big companies know this. Job listings mentioning “storytelling” as a skill or headlined with titles like […] The post Why storytelling is no longer a soft skill but analytica…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "349e54284007d1927815"
+      }
+    ]
   },
   "findings": [
     {
@@ -78,31 +99,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "282017c260da9e1f8a3d"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
-      "url": "https://codezine.jp/article/detail/24575?p=4",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Why storytelling is no longer a soft skill but analytical output",
+      "url": "https://e27.co/why-storytelling-is-no-longer-a-soft-skill-but-analytical-output-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-24T22:05:24+00:00",
-      "fetched_at": "2026-06-25T00:12:11+00:00",
-      "summary": "Transformer は何がすごかったのかを振り返る 今回のマンガでは、現代のAI（LLM）の基盤となった論文『Attention Is All You Need（必要なのは Attention だけ）』のエッセンスを学びました。ここで、重要なポイントを改めて整理しておきましょう。 1. なぜ「革命的」だったのか？ それまでのAIは、文章を端から順番に読...",
+      "published_at": "2026-06-25T01:00:41+00:00",
+      "fetched_at": "2026-06-25T01:19:56+00:00",
+      "summary": "What does it take to tell a winning story? Through my experience working in public relations, insights management, and tech entrepreneurship, I’ve come to see that storytelling isn’t a soft skill. In 2026 and beyond, it’s analytical output. The big companies know this. Job listings mentioning “storytelling” as a skill or headlined with titles like […] The post Why storytelling is no longer a soft skill but analytica…",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "282017c260da9e1f8a3d"
+      "id": "349e54284007d1927815"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Why storytelling is no longer a soft skill but analytical output",
+      "url": "https://e27.co/why-storytelling-is-no-longer-a-soft-skill-but-analytical-output-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-25T01:00:41+00:00",
+      "fetched_at": "2026-06-25T01:19:56+00:00",
+      "summary": "What does it take to tell a winning story? Through my experience working in public relations, insights management, and tech entrepreneurship, I’ve come to see that storytelling isn’t a soft skill. In 2026 and beyond, it’s analytical output. The big companies know this. Job listings mentioning “storytelling” as a skill or headlined with titles like […] The post Why storytelling is no longer a soft skill but analytica…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "349e54284007d1927815"
     }
   ],
   "source_errors": [],
