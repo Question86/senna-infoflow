@@ -376,6 +376,28 @@
     "id": "56724a674f16e3ea14bc"
   },
   {
+    "title": "Actions steps can now be run in parallel",
+    "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-25T16:46:09+00:00",
+    "fetched_at": "2026-06-25T19:08:24+00:00",
+    "summary": "GitHub Actions now supports running steps concurrently using background. Previously, all steps in a workflow ran in sequence, with each step starting only after the previous step completed. Previously, you… The post Actions steps can now be run in parallel appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub",
+      "GitHub Actions"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f5d583e3ff6fbc4297f3"
+  },
+  {
     "title": "revfactory/harness",
     "url": "https://github.com/revfactory/harness",
     "source": "GitHub Trending RSS All Languages Daily",
