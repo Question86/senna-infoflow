@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T19:08:50+00:00_
+_Generiert: 2026-06-25T19:54:01+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T15:48:43+00:00`, fetched `2026-06-25T15:48:27+00:00`
+  - Zeit: published `2026-06-25T19:53:49+00:00`, fetched `2026-06-25T19:53:33+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Isabel Schnabel: Interview with Die Zeit
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発** — Score 8, observation — [Quelle](https://gigazine.net/news/20260625-fujitsu-photon/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T03:09:39+00:00`, fetched `2026-06-25T19:53:33+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年6月24日、富士通が大規模言語モデル(LLM)の大幅なコスト削減を実現するアーキテクチャ「Parallel Hierarchical Operation for TOp-down Networks(PHOTON)」を発表しました。LLMの基盤アーキテクチャであるTransformerと比較して、GPUリソース当たりのスループットを最大475倍に改善します。 Transformerと比較し、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **JCodesMore/ai-website-cloner-template** — Score 8, observation — [Quelle](https://github.com/JCodesMore/ai-website-cloner-template)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 予算執行に係る「補助金等の交付決定に係る情報（令和7年度下半期分）」および「令和7年度の庁費及び職員旅費・タクシー代の支出状況」を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル改革共創プラットフォームへの参加登録方法について、システムメンテナンス情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/co-creation-platform/register)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル改革共創プラットフォームへの参加登録方法について、システムメンテナンス情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

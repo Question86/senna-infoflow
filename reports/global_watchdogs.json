@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:08:54+00:00",
+  "generated_at": "2026-06-25T19:54:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.5,
           "alert": "red",
-          "sig": 2431.0,
+          "sig": 2438.0,
           "tsunami": 0
         }
       },
@@ -30,6 +30,30 @@
           "alert": "red",
           "sig": 2000.0,
           "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-12569 PTC Windchill and FlexPLM",
+        "summary": "Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. PTC Windchill and FlexPLM Improper Input Validation Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-25",
+        "metrics": {
+          "cve": "CVE-2026-12569"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-20230 Cisco Unified Communications Manager",
+        "summary": "Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-25",
+        "metrics": {
+          "cve": "CVE-2026-20230"
         }
       },
       {
@@ -66,30 +90,6 @@
         "published_at": "2026-06-23",
         "metrics": {
           "cve": "CVE-2026-34909"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-34908 Ubiquiti UniFi OS",
-        "summary": "Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Access Control Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-06-23",
-        "metrics": {
-          "cve": "CVE-2026-34908"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-20253 Splunk Enterprise",
-        "summary": "Known exploited vulnerability. Added 2026-06-18. Due 2026-06-21. Splunk Enterprise Missing Authentication for Critical Function Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-06-18",
-        "metrics": {
-          "cve": "CVE-2026-20253"
         }
       },
       {

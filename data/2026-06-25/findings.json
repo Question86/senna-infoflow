@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T15:48:43+00:00",
-    "fetched_at": "2026-06-25T15:48:27+00:00",
+    "published_at": "2026-06-25T19:53:49+00:00",
+    "fetched_at": "2026-06-25T19:53:33+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "8222dfa0a972753335f7"
+    "id": "1441bbd86c88aca8e5c7"
   },
   {
     "title": "How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses",
@@ -555,6 +555,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d3a58e1c92252d34ed72"
+  },
+  {
+    "title": "富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発",
+    "url": "https://gigazine.net/news/20260625-fujitsu-photon/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T03:09:39+00:00",
+    "fetched_at": "2026-06-25T19:53:33+00:00",
+    "summary": "2026年6月24日、富士通が大規模言語モデル(LLM)の大幅なコスト削減を実現するアーキテクチャ「Parallel Hierarchical Operation for TOp-down Networks(PHOTON)」を発表しました。LLMの基盤アーキテクチャであるTransformerと比較して、GPUリソース当たりのスループットを最大475倍に改善します。 Transformerと比較し、...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2830850511992e3d3975"
   },
   {
     "title": "Is the AI industry profitable? Yes, just not where you’re looking",
@@ -1073,6 +1095,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "349e54284007d1927815"
+  },
+  {
+    "title": "Saved views for repository issues – Public Preview and adjustable row heights in projects",
+    "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-25T18:29:01+00:00",
+    "fetched_at": "2026-06-25T19:53:33+00:00",
+    "summary": "Saved views for repository issues Repository Issues pages now support saved views, making it easier for teams to create and share filtered views of their issues. With saved views, anyone… The post Saved views for repository issues – Public Preview and adjustable row heights in projects appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bc72b3298a42713702b2"
   },
   {
     "title": "Red Hat Enterprise Linux runner images are now in public preview",
