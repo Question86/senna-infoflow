@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T11:08:58+00:00",
-    "fetched_at": "2026-06-25T11:08:44+00:00",
+    "published_at": "2026-06-25T13:02:47+00:00",
+    "fetched_at": "2026-06-25T13:02:34+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,31 @@
       "HD",
       "LOW"
     ],
-    "id": "8cde8af18242bb6f530f"
+    "id": "12f82284503412eca43a"
+  },
+  {
+    "title": "How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses",
+    "url": "https://e27.co/how-southeast-asias-agritech-startups-are-turning-smallholder-farms-into-high-tech-powerhouses-20250824/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-25T12:30:36+00:00",
+    "fetched_at": "2026-06-25T13:02:34+00:00",
+    "summary": "By 2030, Southeast Asia’s population will grow by more than 80 million, demanding more food than ever while farmland and water resources are under strain. The region’s agricultural sector, long rooted in traditional methods, is at a turning point. Agritech—tools like IoT sensors, AI-powered crop monitoring, and blockchain-based supply chains—is no longer a “nice to […] The post How Southeast Asia’s agritech startups…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Southeast Asia",
+      "Supply Chain Security"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.0); Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "06737c6eb20c50d1e5b1"
   },
   {
     "title": "Why AI agents will reshape customer journeys in Southeast Asia",
@@ -736,6 +760,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "82e823315a1e8ac891ec"
+  },
+  {
+    "title": "Why impact-first marketing matters more than ever for Asia startups",
+    "url": "https://e27.co/why-impact-first-marketing-matters-more-than-ever-for-asia-startups-20250824/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-25T12:10:18+00:00",
+    "fetched_at": "2026-06-25T13:02:34+00:00",
+    "summary": "Across Asia and its neighbours, impact-first startups are tackling some of the region’s most pressing challenges, like helping farmers increase their income, bringing healthcare to remote areas, and making education more equitable. But in markets where trust in new technology can be low, digital literacy uneven, and access to infrastructure inconsistent, having a brilliant product […] The post Why impact-first marke…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4106dc4cf8c894785896"
   },
   {
     "title": "ソニー、aiboの国内販売を終了",

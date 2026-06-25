@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T12:04:29+00:00_
+_Generiert: 2026-06-25T13:02:59+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+38 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,12 +87,21 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T11:08:58+00:00`, fetched `2026-06-25T11:08:44+00:00`
+  - Zeit: published `2026-06-25T13:02:47+00:00`, fetched `2026-06-25T13:02:34+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses** — Score 23, risk — [Quelle](https://e27.co/how-southeast-asias-agritech-startups-are-turning-smallholder-farms-into-high-tech-powerhouses-20250824/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-25T12:30:36+00:00`, fetched `2026-06-25T13:02:34+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, Southeast Asia, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: By 2030, Southeast Asia’s population will grow by more than 80 million, demanding more food than ever while farmland and water resources are under strain. The region’s agricultural sector, long rooted in traditional methods, is at a turning point. Agritech—tools like IoT sensors, AI-powered crop monitoring, and blockchain-based supply chains—is no longer a “nice to […] The post How Southeast Asia’s agritech startups…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Why AI agents will reshape customer journeys in Southeast Asia** — Score 22, opportunity — [Quelle](https://e27.co/why-ai-agents-will-reshape-customer-journeys-in-southeast-asia-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
