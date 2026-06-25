@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T13:51:41+00:00",
-  "run_id": "2026-06-25T13:51:41+00:00",
+  "generated_at": "2026-06-25T14:52:56+00:00",
+  "run_id": "2026-06-25T14:52:56+00:00",
   "date": "2026-06-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 9,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -792,6 +792,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "82e823315a1e8ac891ec"
+      },
+      {
+        "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-25T13:22:06+00:00",
+        "fetched_at": "2026-06-25T14:52:29+00:00",
+        "summary": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af7535382e82f8215af6"
       },
       {
         "title": "Why impact-first marketing matters more than ever for Asia startups",
@@ -1763,6 +1784,27 @@
       "id": "82e823315a1e8ac891ec"
     },
     {
+      "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-25T13:22:06+00:00",
+      "fetched_at": "2026-06-25T14:52:29+00:00",
+      "summary": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af7535382e82f8215af6"
+    },
+    {
       "title": "Why impact-first marketing matters more than ever for Asia startups",
       "url": "https://e27.co/why-impact-first-marketing-matters-more-than-ever-for-asia-startups-20250824/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1967,7 +2009,29 @@
       "id": "b16fb151ac3058a5bdfd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-25T13:22:06+00:00",
+      "fetched_at": "2026-06-25T14:52:29+00:00",
+      "summary": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af7535382e82f8215af6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
