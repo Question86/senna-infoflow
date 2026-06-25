@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T02:12:19+00:00_
+_Generiert: 2026-06-25T03:28:27+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+10 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -68,6 +68,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Is the AI industry profitable? Yes, just not where you’re looking** — Score 8, observation — [Quelle](https://e27.co/is-the-ai-industry-profitable-yes-just-not-where-youre-looking-20260619/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-25T02:45:24+00:00`, fetched `2026-06-25T03:27:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The question “Is the AI industry profitable?” has two correct answers, and they point in opposite directions. At the chip-design and leading-edge-fabrication layers, AI is already one of the most profitable industries in commercial history. At the layers the market calls “AI”, frontier model labs, GPU-rental builders, and most applications built on someone else’s model, […] The post Is the AI industry profitable? Ye…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **JCodesMore/ai-website-cloner-template** — Score 8, observation — [Quelle](https://github.com/JCodesMore/ai-website-cloner-template)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
