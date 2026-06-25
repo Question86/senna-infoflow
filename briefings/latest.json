@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T15:48:54+00:00",
-  "run_id": "2026-06-25T15:48:54+00:00",
+  "generated_at": "2026-06-25T16:40:14+00:00",
+  "run_id": "2026-06-25T16:40:14+00:00",
   "date": "2026-06-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 2,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 9,
-    "observe": 33,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -714,6 +714,48 @@
         "id": "253c1b53743c4768ad46"
       },
       {
+        "title": "npm adds preventive account protection for high-impact accounts",
+        "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-25T16:02:09+00:00",
+        "fetched_at": "2026-06-25T16:39:48+00:00",
+        "summary": "npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Watchgraph:software_supply_chain"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "software_supply_chain"
+        ],
+        "watchgraph_reasons": [
+          "software_supply_chain: npm"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM"
+        ],
+        "id": "a595a456a58ea17b4344"
+      },
+      {
         "title": "令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました",
         "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee",
         "source": "Japan Digital Agency News RSS",
@@ -1041,6 +1083,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "349e54284007d1927815"
+      },
+      {
+        "title": "Red Hat Enterprise Linux runner images are now in public preview",
+        "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-25T15:40:04+00:00",
+        "fetched_at": "2026-06-25T16:39:48+00:00",
+        "summary": "GitHub-hosted larger runners now support Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images in public preview, introduced in partnership with Red Hat. Organizations can use these RHEL images… The post Red Hat Enterprise Linux runner images are now in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "349db25470e1ae995cd0"
       },
       {
         "title": "Cost centers now support enterprise teams",
@@ -1766,6 +1828,48 @@
       "id": "253c1b53743c4768ad46"
     },
     {
+      "title": "npm adds preventive account protection for high-impact accounts",
+      "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-25T16:02:09+00:00",
+      "fetched_at": "2026-06-25T16:39:48+00:00",
+      "summary": "npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "a595a456a58ea17b4344"
+    },
+    {
       "title": "令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました",
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee",
       "source": "Japan Digital Agency News RSS",
@@ -2095,6 +2199,26 @@
       "id": "349e54284007d1927815"
     },
     {
+      "title": "Red Hat Enterprise Linux runner images are now in public preview",
+      "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-25T15:40:04+00:00",
+      "fetched_at": "2026-06-25T16:39:48+00:00",
+      "summary": "GitHub-hosted larger runners now support Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images in public preview, introduced in partnership with Red Hat. Organizations can use these RHEL images… The post Red Hat Enterprise Linux runner images are now in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "349db25470e1ae995cd0"
+    },
+    {
       "title": "Cost centers now support enterprise teams",
       "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
       "source": "GitHub Changelog Atom",
@@ -2135,108 +2259,66 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-25T15:48:43+00:00",
-      "fetched_at": "2026-06-25T15:48:27+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8222dfa0a972753335f7"
-    },
-    {
-      "title": "「Mac」「iPad」突然の一斉値上げ MacBook Airは18万4800円→22万4800円からに",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news138.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-25T14:04:06+00:00",
-      "fetched_at": "2026-06-25T15:48:27+00:00",
-      "summary": "米Appleは6月25日、国内のApple StoreでMacやiPad、Apple TV、HomePodの販売価格を引き上げた。Mac製品の場合、ノートだけでなくデスクトップも対象。例えば、3月発売の「MacBook Air」（M5）は、ベースモデルが18万4800円から22万4800円に引き上げられた。 上げ幅は機種ごとに異なり、「MacBook Pro」のスタート価格は2...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1bbc3e695e3ae8b6735a"
-    },
-    {
-      "title": "ひろゆきが若者へ同情「僕は逃げ切った世代なので大変だなと…」 AIが40〜50代を強化して若手を締め出す現実 | AERA Books",
-      "url": "https://dot.asahi.com/articles/-/285741?page=1",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-25T11:00:38+00:00",
-      "fetched_at": "2026-06-25T15:48:27+00:00",
-      "summary": "ひろゆきさん（右、写真／鈴木芳果）と、外資系IT米国本社勤務でnoteクリエイターの福原たまねぎさん（左、写真／写真映像部・上田泰世） この記事の写真をすべて見る 外資系IT米国本社に勤めるプロダクト・マネージャーで、noteクリエイターとして活躍する福原たまねぎさん。2025年、彼がアメリカの熾烈な競争社会につ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5d23834677fd7de91a66"
-    },
-    {
-      "title": "Cost centers now support enterprise teams",
-      "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+      "title": "npm adds preventive account protection for high-impact accounts",
+      "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-06-25T10:15:19+00:00",
-      "fetched_at": "2026-06-25T15:48:27+00:00",
-      "summary": "Cost attribution across your enterprise can now follow your team structure. You can add enterprise teams as resources in a cost center, and all usage incurred by team members is… The post Cost centers now support enterprise teams appeared first on The GitHub Blog .",
+      "published_at": "2026-06-25T16:02:09+00:00",
+      "fetched_at": "2026-06-25T16:39:48+00:00",
+      "summary": "npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "a595a456a58ea17b4344"
+    },
+    {
+      "title": "Red Hat Enterprise Linux runner images are now in public preview",
+      "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-25T15:40:04+00:00",
+      "fetched_at": "2026-06-25T16:39:48+00:00",
+      "summary": "GitHub-hosted larger runners now support Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images in public preview, introduced in partnership with Red Hat. Organizations can use these RHEL images… The post Red Hat Enterprise Linux runner images are now in public preview appeared first on The GitHub Blog .",
       "matched_keywords": [
         "GitHub"
       ],
       "relevance_score": 3,
       "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3e561a2bd80f0fdeba21"
+      "id": "349db25470e1ae995cd0"
     }
   ],
   "source_errors": [],

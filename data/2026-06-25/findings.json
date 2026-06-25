@@ -682,6 +682,48 @@
     "id": "253c1b53743c4768ad46"
   },
   {
+    "title": "npm adds preventive account protection for high-impact accounts",
+    "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-25T16:02:09+00:00",
+    "fetched_at": "2026-06-25T16:39:48+00:00",
+    "summary": "npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Watchgraph:software_supply_chain"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "software_supply_chain"
+    ],
+    "watchgraph_reasons": [
+      "software_supply_chain: npm"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM"
+    ],
+    "id": "a595a456a58ea17b4344"
+  },
+  {
     "title": "令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました",
     "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee",
     "source": "Japan Digital Agency News RSS",
@@ -1009,6 +1051,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "349e54284007d1927815"
+  },
+  {
+    "title": "Red Hat Enterprise Linux runner images are now in public preview",
+    "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-25T15:40:04+00:00",
+    "fetched_at": "2026-06-25T16:39:48+00:00",
+    "summary": "GitHub-hosted larger runners now support Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images in public preview, introduced in partnership with Red Hat. Organizations can use these RHEL images… The post Red Hat Enterprise Linux runner images are now in public preview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "349db25470e1ae995cd0"
   },
   {
     "title": "Cost centers now support enterprise teams",

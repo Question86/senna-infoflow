@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T15:48:54+00:00_
+_Generiert: 2026-06-25T16:40:14+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,10 @@ _Generiert: 2026-06-25T15:48:54+00:00_
   - Quelle: USGS
   - Zeit: `2026-06-24T22:30:14+00:00`
   - Kurz: M6.9 - 30 km ENE of Kuji, Japan. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 310 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 310 thousand in 100km.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.
 - **GDACS: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548310)
   - Quelle: GDACS
   - Zeit: ``
@@ -255,6 +255,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Anfang des Monats hat Cisco eine hochriskante Sicherheitslücke in Unified Communications Manager gestopft. Jetzt wird sie attackiert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **npm adds preventive account protection for high-impact accounts** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-25T16:02:09+00:00`, fetched `2026-06-25T16:39:48+00:00`
+  - Treffer: GitHub, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
@@ -290,15 +299,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米Appleは6月25日、国内のApple StoreでMacやiPad、Apple TV、HomePodの販売価格を引き上げた。Mac製品の場合、ノートだけでなくデスクトップも対象。例えば、3月発売の「MacBook Air」（M5）は、ベースモデルが18万4800円から22万4800円に引き上げられた。 上げ幅は機種ごとに異なり、「MacBook Pro」のスタート価格は2...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2120164.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T13:22:06+00:00`, fetched `2026-06-25T14:52:29+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
