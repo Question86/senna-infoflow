@@ -1,22 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T21:56:03+00:00_
+_Generiert: 2026-06-25T22:36:09+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.5 - 28 km SE of Yumare, Venezuela** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp)
-  - Quelle: USGS
-  - Zeit: `2026-06-24T22:05:11+00:00`
-  - Kurz: M7.5 - 28 km SE of Yumare, Venezuela. PAGER alert: red. Tsunami flag: 0.
-- **USGS earthquake M7.2 - 23 km SE of Yumare, Venezuela** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc)
-  - Quelle: USGS
-  - Zeit: `2026-06-24T22:04:33+00:00`
-  - Kurz: M7.2 - 23 km SE of Yumare, Venezuela. PAGER alert: red. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-12569 PTC Windchill and FlexPLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-06-25`
@@ -37,34 +29,8 @@ _Generiert: 2026-06-25T21:56:03+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Path Traversal Vulnerability
-- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Türkiye
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.
-- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).
-- **GDACS: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548473)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).
-- **USGS earthquake M6.9 - 30 km ENE of Kuji, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq)
-  - Quelle: USGS
-  - Zeit: `2026-06-24T22:30:14+00:00`
-  - Kurz: M6.9 - 30 km ENE of Kuji, Japan. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.
-- **GDACS: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548310)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f8c0b642950>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -309,14 +275,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Anfang des Monats hat Cisco eine hochriskante Sicherheitslücke in Unified Communications Manager gestopft. Jetzt wird sie attackiert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **npm adds preventive account protection for high-impact accounts** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts)
+- **Copilot code review: Analysis depth and efficiency updates** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates)
   - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-25T16:02:09+00:00`, fetched `2026-06-25T16:39:48+00:00`
-  - Treffer: GitHub, Watchgraph:software_supply_chain
-  - Watchgraph: software_supply_chain
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
-  - Kurz: npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .
+  - Zeit: published `2026-06-25T21:41:18+00:00`, fetched `2026-06-25T22:35:42+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: Copilot code review now uses the built-in file exploration tools available in the Copilot CLI and SDK, significantly improving review cost efficiency with no change to your existing workflow. If… The post Copilot code review: Analysis depth and efficiency updates appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
