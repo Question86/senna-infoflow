@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T10:04:53+00:00_
+_Generiert: 2026-06-25T11:09:10+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T10:04:42+00:00`, fetched `2026-06-25T10:04:28+00:00`
+  - Zeit: published `2026-06-25T11:08:58+00:00`, fetched `2026-06-25T11:08:44+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ソニー株式会社が提供するOptical Disc Archive Software（Windows版）のインストーラには、インストール時の不適切なファイルアクセス権設定の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Value creation: Your US$900M AI is failing because humans don’t work the way you think** — Score 12, opportunity — [Quelle](https://e27.co/your-us900m-ai-is-failing-because-humans-dont-work-the-way-you-think-20260303/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-25T11:00:07+00:00`, fetched `2026-06-25T11:08:44+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Olive AI raised US$902 million, deployed automation across 900 hospitals in 40 states, and was valued at US$4 billion at its 2021 peak. By October 2023, it was gone. Not because the AI failed — but because a routine Epic module update broke the bots, and hospitals found themselves adding human monitoring on top of […] The post Value creation: Your US$900M AI is failing because humans don’t work the way you think app…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **revfactory/harness** — Score 10, observation — [Quelle](https://github.com/revfactory/harness)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
   - Kurz: Southeast Asia’s semiconductor story is no longer limited to assembly, testing and outsourced manufacturing. This list points to a region, led largely by Singapore and Malaysia, that is building more of the stack itself: custom ASICs, silicon IP, chiplet packaging, photonics, test equipment and fab services. Some of these startups are tackling narrow but essential […] The post 15 Southeast Asian semiconductor startu…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **People don’t want productivity hacks anymore, they want sustainable ways to live** — Score 9, observation — [Quelle](https://e27.co/people-dont-want-productivity-hacks-anymore-they-want-sustainable-ways-to-live-20260619/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T01:30:19+00:00`, fetched `2026-06-25T02:11:48+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
-  - Kurz: Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Isabel Schnabel: Interview with Die Zeit** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`

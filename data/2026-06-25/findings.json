@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T10:04:42+00:00",
-    "fetched_at": "2026-06-25T10:04:28+00:00",
+    "published_at": "2026-06-25T11:08:58+00:00",
+    "fetched_at": "2026-06-25T11:08:44+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "05c195153667b54576ae"
+    "id": "8cde8af18242bb6f530f"
   },
   {
     "title": "Why AI agents will reshape customer journeys in Southeast Asia",
@@ -282,6 +282,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b0ffeb96c3904b0d5a33"
+  },
+  {
+    "title": "Value creation: Your US$900M AI is failing because humans don’t work the way you think",
+    "url": "https://e27.co/your-us900m-ai-is-failing-because-humans-dont-work-the-way-you-think-20260303/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-25T11:00:07+00:00",
+    "fetched_at": "2026-06-25T11:08:44+00:00",
+    "summary": "Olive AI raised US$902 million, deployed automation across 900 hospitals in 40 states, and was valued at US$4 billion at its 2021 peak. By October 2023, it was gone. Not because the AI failed — but because a routine Epic module update broke the bots, and hospitals found themselves adding human monitoring on top of […] The post Value creation: Your US$900M AI is failing because humans don’t work the way you think app…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Automatisierung"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "56724a674f16e3ea14bc"
   },
   {
     "title": "revfactory/harness",
