@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T04:55:33+00:00_
+_Generiert: 2026-06-25T06:26:23+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T02:12:05+00:00`, fetched `2026-06-25T02:11:48+00:00`
+  - Zeit: published `2026-06-25T06:26:12+00:00`, fetched `2026-06-25T06:25:56+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-25 04:03:41 UTC 2026-06-25 04:03:41 UTC at epicenter Location 5.288°N 125.274°E Depth 75.13 km (46.68 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **東芝製およびDynabook製PC搭載Generic IO & Memory Access ドライバーのIOCTLインタフェースに対するアクセス制御が不十分** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91051826/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-25T15:00:00+09:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社東芝およびDynabook株式会社が提供するPCに搭載されたGeneric IO &amp; Memory Access ドライバーのIOCTLインタフェースには、十分なアクセス制御が設定されていません。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -78,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say "build a harness for this project" (English) or "하네스 구성해줘" (한국어) or "ハーネスを構成して" (日本語), and the plugin turns your domain description into an agent team and the skills…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **15 Southeast Asian semiconductor startups moving beyond assembly** — Score 9, observation — [Quelle](https://e27.co/15-southeast-asian-semiconductor-startups-moving-beyond-assembly-20260625/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-25T05:14:31+00:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
+  - Kurz: Southeast Asia’s semiconductor story is no longer limited to assembly, testing and outsourced manufacturing. This list points to a region, led largely by Singapore and Malaysia, that is building more of the stack itself: custom ASICs, silicon IP, chiplet packaging, photonics, test equipment and fab services. Some of these startups are tackling narrow but essential […] The post 15 Southeast Asian semiconductor startu…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **People don’t want productivity hacks anymore, they want sustainable ways to live** — Score 9, observation — [Quelle](https://e27.co/people-dont-want-productivity-hacks-anymore-they-want-sustainable-ways-to-live-20260619/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-25T01:30:19+00:00`, fetched `2026-06-25T02:11:48+00:00`
@@ -86,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Is the AI industry profitable? Yes, just not where you’re looking** — Score 8, observation — [Quelle](https://e27.co/is-the-ai-industry-profitable-yes-just-not-where-youre-looking-20260619/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T02:45:24+00:00`, fetched `2026-06-25T03:27:58+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The question “Is the AI industry profitable?” has two correct answers, and they point in opposite directions. At the chip-design and leading-edge-fabrication layers, AI is already one of the most profitable industries in commercial history. At the layers the market calls “AI”, frontier model labs, GPU-rental builders, and most applications built on someone else’s model, […] The post Is the AI industry profitable? Ye…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **JCodesMore/ai-website-cloner-template** — Score 8, observation — [Quelle](https://github.com/JCodesMore/ai-website-cloner-template)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -105,6 +114,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone, template (x0.45)
   - Kurz: Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and asset…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **予算執行に係る「補助金等の交付決定に係る情報（令和7年度下半期分）」および「令和7年度の庁費及び職員旅費・タクシー代の支出状況」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/budget)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 予算執行に係る「補助金等の交付決定に係る情報（令和7年度下半期分）」および「令和7年度の庁費及び職員旅費・タクシー代の支出状況」を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル改革共創プラットフォームへの参加登録方法について、システムメンテナンス情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/co-creation-platform/register)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル改革共創プラットフォームへの参加登録方法について、システムメンテナンス情報を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ソニー、aiboの国内販売を終了** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2119925.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T03:14:02+00:00`, fetched `2026-06-25T04:55:07+00:00`
@@ -114,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ソニー、aiboの国内販売を終了
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2119856.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T02:08:50+00:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **今も「パスワードの定期変更」ルールが生き残っている企業では、何が起きているのか【フォーカス】 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_881/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T00:58:43+00:00`, fetched `2026-06-25T04:55:07+00:00`
@@ -122,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 東京通信大学 情報マネジメント学部 教授 前川 徹（まえがわ・とおる） 国際大学GLOCOM主幹研究員も務める。企業や政府のDXに関する研究を専門分野とする。通商産業省（現・経済産業省）入省後、IPAセキュリティセンター所長、早稲田大学大学院国際情報通信研究センター教授などを歴任。IT人材を発掘・育成する「未踏事...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【役に立つの？】「Google公式」の初心者向けAI講座、受けてみたら想像以上にすごかった** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/business/articles/2606/25/news034.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-24T23:36:43+00:00`, fetched `2026-06-25T04:55:07+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ITmedia デジタル戦略EXPO 2026 夏では、各分野の第一人者や企業の現場でビジネス変革に取り組むリーダーの声を通じて、経営×IT×現場のコラボレーションで全社変革を進めるヒントをお届けします。 AIを活用したデジタル戦略が必須となる中、ダイハツ工業や旭化成、NOT A HOTELなどビジネス変革に取り組む企業の「当事者...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **apple/container** — Score 5, observation — [Quelle](https://github.com/apple/container)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
