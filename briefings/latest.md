@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T22:36:09+00:00_
+_Generiert: 2026-06-25T23:06:13+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+54 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,30 @@ _Generiert: 2026-06-25T22:36:09+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Path Traversal Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f8c0b642950>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Türkiye
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.
+- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).
+- **GDACS: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548473)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.
+- **GDACS: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548310)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
@@ -49,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T19:53:49+00:00`, fetched `2026-06-25T19:53:33+00:00`
+  - Zeit: published `2026-06-25T23:06:01+00:00`, fetched `2026-06-25T23:05:46+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -110,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: AI agent to evaluate and score resumes. Hiring Agent Resume-to-Score pipeline that extracts structured data from PDFs, enriches with GitHub signals, and outputs a fair, explainable evaluation. Contents Overview Architecture Installation and Setup Prerequisites Quick setup with pip Ollama models Configuration How it works CLI usage Directory layout Provider details Contributing License Overview Hiring Agent parses a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks** — Score 15, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-25T22:59:45+00:00`, fetched `2026-06-25T23:05:46+00:00`
+  - Treffer: AI Agents, AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 93 km E of Union, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-25T21:36:21.040+00:00`, fetched `2026-06-25T21:55:32+00:00`
@@ -167,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ソニー株式会社が提供するOptical Disc Archive Software（Windows版）のインストーラには、インストール時の不適切なファイルアクセス権設定の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Actions steps can now be run in parallel - GitHub Changelog** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T18:56:26+00:00`, fetched `2026-06-25T23:05:46+00:00`
+  - Treffer: GitHub, GitHub Actions, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHub Actions now supports running steps concurrently using background. Previously, all steps in a workflow ran in sequence, with each step starting only after the previous step completed. Previously, you could run steps in a non-blocking way using shell backgrounding (&), but that often interle...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Value creation: Your US$900M AI is failing because humans don’t work the way you think** — Score 12, opportunity — [Quelle](https://e27.co/your-us900m-ai-is-failing-because-humans-dont-work-the-way-you-think-20260303/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-25T11:00:07+00:00`, fetched `2026-06-25T11:08:44+00:00`
@@ -184,15 +224,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Public Health (+5.0); GitHub (+2.5); Actions (+2.0); recent (+1.0)
   - Kurz: Organizations now have more control over who can use GitHub-hosted runners in Actions. Admins can now disable the standard labels for hosted runners such as ubuntu-latest, as well as add… The post More control over your GitHub-hosted runners appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Actions steps can now be run in parallel** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-25T16:46:09+00:00`, fetched `2026-06-25T19:08:24+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
-  - Kurz: GitHub Actions now supports running steps concurrently using background. Previously, all steps in a workflow ran in sequence, with each step starting only after the previous step completed. Previously, you… The post Actions steps can now be run in parallel appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **revfactory/harness** — Score 10, observation — [Quelle](https://github.com/revfactory/harness)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
