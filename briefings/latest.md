@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T23:06:13+00:00_
+_Generiert: 2026-06-25T23:43:33+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-06-25T23:06:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.
-- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
+- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).
+  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI&gt;=VII).
 - **GDACS: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548473)
   - Quelle: GDACS
   - Zeit: ``
