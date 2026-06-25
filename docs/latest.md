@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T19:54:01+00:00_
+_Generiert: 2026-06-25T20:39:45+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+50 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社東芝およびDynabook株式会社が提供するPCに搭載されたGeneric IO &amp; Memory Access ドライバーのIOCTLインタフェースには、十分なアクセス制御が設定されていません。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果｜Goodpatch Blog グッドパッチブログ** — Score 14, observation — [Quelle](https://goodpatch.com/blog/2026-06-github)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T10:34:59+00:00`, fetched `2026-06-25T20:39:16+00:00`
+  - Treffer: AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: ナレッジ・ノウハウ 生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果 こんにちは。グッドパッチのサービスデザイナーのぬまです。 グッドパッチのデザイナーは、クライアントワークとは別に「組織貢献活動」という社内プロジェクトを日々進めています...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Olive AI raised US$902 million, deployed automation across 900 hospitals in 40 states, and was valued at US$4 billion at its 2021 peak. By October 2023, it was gone. Not because the AI failed — but because a routine Epic module update broke the bots, and hospitals found themselves adding human monitoring on top of […] The post Value creation: Your US$900M AI is failing because humans don’t work the way you think app…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **More control over your GitHub-hosted runners** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-25T18:16:46+00:00`, fetched `2026-06-25T20:39:16+00:00`
+  - Treffer: Actions, GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+5.0); GitHub (+2.5); Actions (+2.0); recent (+1.0)
+  - Kurz: Organizations now have more control over who can use GitHub-hosted runners in Actions. Admins can now disable the standard labels for hosted runners such as ubuntu-latest, as well as add… The post More control over your GitHub-hosted runners appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Actions steps can now be run in parallel** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-06-25T16:46:09+00:00`, fetched `2026-06-25T19:08:24+00:00`
@@ -168,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Isabel Schnabel: Interview with Die Zeit
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AnthropicがAlibabaを「蒸留攻撃」で非難、Claudeに2880万回以上のアクセスか** — Score 8, observation — [Quelle](https://gigazine.net/news/20260625-anthropic-accuses-alibaba/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T05:01:21+00:00`, fetched `2026-06-25T20:39:16+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「Claude」シリーズを展開しているAI企業のAnthropicが、中国のビッグテック・AlibabaのAI研究機関・Qwen labによる「蒸留攻撃」を受けているとして、ホワイトハウス関係者や上院議員に対して告発文を送付したことがわかりました。 Anthropic says Alibaba illicitly extracted Claude AI model capabilities | Reuters ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発** — Score 8, observation — [Quelle](https://gigazine.net/news/20260625-fujitsu-photon/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T03:09:39+00:00`, fetched `2026-06-25T19:53:33+00:00`
@@ -212,24 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: npm now adds a temporary, preventive safeguard for high-impact accounts—those responsible for the registry’s most widely used packages—whenever it detects a sensitive account change, strengthening protection against account-takeover attacks. When… The post npm adds preventive account protection for high-impact accounts appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **予算執行に係る「補助金等の交付決定に係る情報（令和7年度下半期分）」および「令和7年度の庁費及び職員旅費・タクシー代の支出状況」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/budget)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 予算執行に係る「補助金等の交付決定に係る情報（令和7年度下半期分）」および「令和7年度の庁費及び職員旅費・タクシー代の支出状況」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

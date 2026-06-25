@@ -311,6 +311,29 @@
     "id": "6413bb909f58d675f9de"
   },
   {
+    "title": "生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果｜Goodpatch Blog グッドパッチブログ",
+    "url": "https://goodpatch.com/blog/2026-06-github",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T10:34:59+00:00",
+    "fetched_at": "2026-06-25T20:39:16+00:00",
+    "summary": "ナレッジ・ノウハウ 生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果 こんにちは。グッドパッチのサービスデザイナーのぬまです。 グッドパッチのデザイナーは、クライアントワークとは別に「組織貢献活動」という社内プロジェクトを日々進めています...",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88a2bd61b61e1be9bd63"
+  },
+  {
     "title": "MoneyHero’s winning quarter has a US$6.7M problem",
     "url": "https://e27.co/moneyheros-winning-quarter-has-a-us6-7m-problem-20260625/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -374,6 +397,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "56724a674f16e3ea14bc"
+  },
+  {
+    "title": "More control over your GitHub-hosted runners",
+    "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-25T18:16:46+00:00",
+    "fetched_at": "2026-06-25T20:39:16+00:00",
+    "summary": "Organizations now have more control over who can use GitHub-hosted runners in Actions. Admins can now disable the standard labels for hosted runners such as ubuntu-latest, as well as add… The post More control over your GitHub-hosted runners appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub",
+      "Public Health"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Public Health (+5.0); GitHub (+2.5); Actions (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bb64c0ead875f5efd0fb"
   },
   {
     "title": "Actions steps can now be run in parallel",
@@ -555,6 +600,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d3a58e1c92252d34ed72"
+  },
+  {
+    "title": "AnthropicがAlibabaを「蒸留攻撃」で非難、Claudeに2880万回以上のアクセスか",
+    "url": "https://gigazine.net/news/20260625-anthropic-accuses-alibaba/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T05:01:21+00:00",
+    "fetched_at": "2026-06-25T20:39:16+00:00",
+    "summary": "「Claude」シリーズを展開しているAI企業のAnthropicが、中国のビッグテック・AlibabaのAI研究機関・Qwen labによる「蒸留攻撃」を受けているとして、ホワイトハウス関係者や上院議員に対して告発文を送付したことがわかりました。 Anthropic says Alibaba illicitly extracted Claude AI model capabilities | Reuters ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "73dba519b3412a180fcd"
   },
   {
     "title": "富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発",
