@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T07:49:12+00:00_
+_Generiert: 2026-06-25T08:54:32+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T07:48:57+00:00`, fetched `2026-06-25T07:48:42+00:00`
+  - Zeit: published `2026-06-25T08:54:20+00:00`, fetched `2026-06-25T08:54:01+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -132,6 +132,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone, template (x0.45)
   - Kurz: Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and asset…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitsupdate: Kritische Client-Handshake-Lücke bedroht IBM Db2** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdate-Kritische-Client-Handshake-Luecke-bedroht-IBM-Db2-11344004.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-25T08:28:00.000+00:00`, fetched `2026-06-25T08:54:01+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer können Daten auf IBM-Db2-Systemen einsehen oder sogar Schadcode ausführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf Cisco Unified CM beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Cisco-Unified-CM-beobachtet-11343992.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-25T07:50:00.000+00:00`, fetched `2026-06-25T08:54:01+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Anfang des Monats hat Cisco eine hochriskante Sicherheitslücke in Unified Communications Manager gestopft. Jetzt wird sie attackiert.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年（2026年）第2回政策評価・行政事業レビュー有識者会議の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/0d104099-dc1f-4e57-bf21-f3da121df6ee)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-25T06:00:00+00:00`, fetched `2026-06-25T06:25:56+00:00`
@@ -168,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ソニー、aiboの国内販売を終了
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **生成AIグラビアをグラビアカメラマンが作るとどうなる？第69回：Boogu-Image-0.1とKrea 2が登場。Z-Imageの牙城を崩せるか？（西川和久） | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/06/25/5223.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T02:43:28+00:00`, fetched `2026-06-25T08:54:01+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年5月21日に予告っぽい投稿があったが無事、2026年6月23日、API版を先行していたKrea 2がオープンウェイトでRaw（ベースモデル）とTurbo（蒸留済み高速版）の2種類をリリース。パラメータは12B。最大2048×2048に対応（ただしRawの学習データは1024）。興味深いのは学習データにAI画像を一切使っていないと明言してい...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2119856.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T02:08:50+00:00`, fetched `2026-06-25T06:25:56+00:00`
@@ -176,24 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **今も「パスワードの定期変更」ルールが生き残っている企業では、何が起きているのか【フォーカス】 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_881/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T00:58:43+00:00`, fetched `2026-06-25T04:55:07+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 東京通信大学 情報マネジメント学部 教授 前川 徹（まえがわ・とおる） 国際大学GLOCOM主幹研究員も務める。企業や政府のDXに関する研究を専門分野とする。通商産業省（現・経済産業省）入省後、IPAセキュリティセンター所長、早稲田大学大学院国際情報通信研究センター教授などを歴任。IT人材を発掘・育成する「未踏事...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **apple/container** — Score 5, observation — [Quelle](https://github.com/apple/container)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

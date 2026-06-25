@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T07:48:57+00:00",
-    "fetched_at": "2026-06-25T07:48:42+00:00",
+    "published_at": "2026-06-25T08:54:20+00:00",
+    "fetched_at": "2026-06-25T08:54:01+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e03210c165a99ff69724"
+    "id": "ebc607379600958c77a9"
   },
   {
     "title": "Why AI agents will reshape customer journeys in Southeast Asia",
@@ -367,6 +367,46 @@
     "id": "3776a3b40446e2006971"
   },
   {
+    "title": "Sicherheitsupdate: Kritische Client-Handshake-Lücke bedroht IBM Db2",
+    "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Client-Handshake-Luecke-bedroht-IBM-Db2-11344004.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-25T08:28:00.000+00:00",
+    "fetched_at": "2026-06-25T08:54:01+00:00",
+    "summary": "Angreifer können Daten auf IBM-Db2-Systemen einsehen oder sogar Schadcode ausführen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bf2f03a9373dd1650589"
+  },
+  {
+    "title": "Angriffe auf Cisco Unified CM beobachtet",
+    "url": "https://www.heise.de/news/Angriffe-auf-Cisco-Unified-CM-beobachtet-11343992.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-25T07:50:00.000+00:00",
+    "fetched_at": "2026-06-25T08:54:01+00:00",
+    "summary": "Anfang des Monats hat Cisco eine hochriskante Sicherheitslücke in Unified Communications Manager gestopft. Jetzt wird sie attackiert.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "924efb0095021f678177"
+  },
+  {
     "title": "How institutional rebalancing leaves crypto investors vulnerable",
     "url": "https://e27.co/how-institutional-rebalancing-leaves-crypto-investors-vulnerable-20260625/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -510,6 +550,27 @@
     "id": "e04d6b277e8c53b3de4c"
   },
   {
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第69回：Boogu-Image-0.1とKrea 2が登場。Z-Imageの牙城を崩せるか？（西川和久） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/06/25/5223.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T02:43:28+00:00",
+    "fetched_at": "2026-06-25T08:54:01+00:00",
+    "summary": "2026年5月21日に予告っぽい投稿があったが無事、2026年6月23日、API版を先行していたKrea 2がオープンウェイトでRaw（ベースモデル）とTurbo（蒸留済み高速版）の2種類をリリース。パラメータは12B。最大2048×2048に対応（ただしRawの学習データは1024）。興味深いのは学習データにAI画像を一切使っていないと明言してい...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6f9e7594360684faef61"
+  },
+  {
     "title": "ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】",
     "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2119856.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -592,6 +653,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c02d8cf139af5fea89d1"
+  },
+  {
+    "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-25T08:00:00+00:00",
+    "fetched_at": "2026-06-25T08:54:01+00:00",
+    "summary": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph demote portfolio (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "21e776a9a617cd093710"
   },
   {
     "title": "Why storytelling is no longer a soft skill but analytical output",
