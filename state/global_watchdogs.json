@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:53:00+00:00",
+  "generated_at": "2026-06-25T15:48:56+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.5,
           "alert": "red",
-          "sig": 2390.0,
+          "sig": 2401.0,
           "tsunami": 0
         }
       },
@@ -134,16 +134,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in India",
-        "summary": "Green flood alert in India",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103972",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.9 - 30 km ENE of Kuji, Japan",
         "summary": "M6.9 - 30 km ENE of Kuji, Japan. PAGER alert: green. Tsunami flag: 0.",
@@ -160,27 +150,22 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 310 thousand in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 310 thousand in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).",
         "summary": "Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548310",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - 11 km N of Redwood Valley, CA",
-        "summary": "M5.6 - 11 km N of Redwood Valley, CA. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936",
-        "published_at": "2026-06-24T15:10:40+00:00",
-        "metrics": {
-          "mag": 5.59,
-          "alert": "yellow",
-          "sig": 1320.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

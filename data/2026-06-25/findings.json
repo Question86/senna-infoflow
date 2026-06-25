@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T13:02:47+00:00",
-    "fetched_at": "2026-06-25T13:02:34+00:00",
+    "published_at": "2026-06-25T15:48:43+00:00",
+    "fetched_at": "2026-06-25T15:48:27+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "12f82284503412eca43a"
+    "id": "8222dfa0a972753335f7"
   },
   {
     "title": "How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses",
@@ -762,6 +762,27 @@
     "id": "82e823315a1e8ac891ec"
   },
   {
+    "title": "「Mac」「iPad」突然の一斉値上げ MacBook Airは18万4800円→22万4800円からに",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news138.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T14:04:06+00:00",
+    "fetched_at": "2026-06-25T15:48:27+00:00",
+    "summary": "米Appleは6月25日、国内のApple StoreでMacやiPad、Apple TV、HomePodの販売価格を引き上げた。Mac製品の場合、ノートだけでなくデスクトップも対象。例えば、3月発売の「MacBook Air」（M5）は、ベースモデルが18万4800円から22万4800円に引き上げられた。 上げ幅は機種ごとに異なり、「MacBook Pro」のスタート価格は2...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1bbc3e695e3ae8b6735a"
+  },
+  {
     "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
     "url": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -801,6 +822,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4106dc4cf8c894785896"
+  },
+  {
+    "title": "ひろゆきが若者へ同情「僕は逃げ切った世代なので大変だなと…」 AIが40〜50代を強化して若手を締め出す現実 | AERA Books",
+    "url": "https://dot.asahi.com/articles/-/285741?page=1",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T11:00:38+00:00",
+    "fetched_at": "2026-06-25T15:48:27+00:00",
+    "summary": "ひろゆきさん（右、写真／鈴木芳果）と、外資系IT米国本社勤務でnoteクリエイターの福原たまねぎさん（左、写真／写真映像部・上田泰世） この記事の写真をすべて見る 外資系IT米国本社に勤めるプロダクト・マネージャーで、noteクリエイターとして活躍する福原たまねぎさん。2025年、彼がアメリカの熾烈な競争社会につ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5d23834677fd7de91a66"
   },
   {
     "title": "ソニー、aiboの国内販売を終了",
@@ -967,6 +1009,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "349e54284007d1927815"
+  },
+  {
+    "title": "Cost centers now support enterprise teams",
+    "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-25T10:15:19+00:00",
+    "fetched_at": "2026-06-25T15:48:27+00:00",
+    "summary": "Cost attribution across your enterprise can now follow your team structure. You can add enterprise teams as resources in a cost center, and all usage incurred by team members is… The post Cost centers now support enterprise teams appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3e561a2bd80f0fdeba21"
   },
   {
     "title": "What happened to China’s overseas EV factory boom?",

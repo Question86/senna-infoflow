@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T14:52:56+00:00_
+_Generiert: 2026-06-25T15:48:54+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,22 +53,18 @@ _Generiert: 2026-06-25T14:52:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).
-- **GDACS: Green flood alert in India** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103972)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in India
 - **USGS earthquake M6.9 - 30 km ENE of Kuji, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq)
   - Quelle: USGS
   - Zeit: `2026-06-24T22:30:14+00:00`
   - Kurz: M6.9 - 30 km ENE of Kuji, Japan. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 310 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 310 thousand in 100km.
 - **GDACS: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548310)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).
-- **USGS earthquake M5.6 - 11 km N of Redwood Valley, CA** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936)
-  - Quelle: USGS
-  - Zeit: `2026-06-24T15:10:40+00:00`
-  - Kurz: M5.6 - 11 km N of Redwood Valley, CA. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -87,7 +83,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T13:02:47+00:00`, fetched `2026-06-25T13:02:34+00:00`
+  - Zeit: published `2026-06-25T15:48:43+00:00`, fetched `2026-06-25T15:48:27+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -286,6 +282,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル改革共創プラットフォームへの参加登録方法について、システムメンテナンス情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「Mac」「iPad」突然の一斉値上げ MacBook Airは18万4800円→22万4800円からに** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/25/news138.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T14:04:06+00:00`, fetched `2026-06-25T15:48:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米Appleは6月25日、国内のApple StoreでMacやiPad、Apple TV、HomePodの販売価格を引き上げた。Mac製品の場合、ノートだけでなくデスクトップも対象。例えば、3月発売の「MacBook Air」（M5）は、ベースモデルが18万4800円から22万4800円に引き上げられた。 上げ幅は機種ごとに異なり、「MacBook Pro」のスタート価格は2...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2120164.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T13:22:06+00:00`, fetched `2026-06-25T14:52:29+00:00`
@@ -294,15 +299,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ソニー、aiboの国内販売を終了** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2119925.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T03:14:02+00:00`, fetched `2026-06-25T04:55:07+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ソニー、aiboの国内販売を終了
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
