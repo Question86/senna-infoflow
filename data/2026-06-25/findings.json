@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T08:54:20+00:00",
-    "fetched_at": "2026-06-25T08:54:01+00:00",
+    "published_at": "2026-06-25T10:04:42+00:00",
+    "fetched_at": "2026-06-25T10:04:28+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ebc607379600958c77a9"
+    "id": "05c195153667b54576ae"
   },
   {
     "title": "Why AI agents will reshape customer journeys in Southeast Asia",
@@ -468,6 +468,26 @@
     "id": "3776a3b40446e2006971"
   },
   {
+    "title": "Swedfund invests in Navegar Fund to support jobs and business growth in Philippines",
+    "url": "https://e27.co/swedfund-invests-in-navegar-fund-to-support-jobs-and-business-growth-in-philippines-20260625/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-25T09:56:54+00:00",
+    "fetched_at": "2026-06-25T10:04:28+00:00",
+    "summary": "Swedfund, Sweden’s development finance institution, has committed US$15 million to Navegar Fund III, a private equity vehicle targeting mid-sized companies in the Philippines. The fund, managed by Manila-based Navegar, is seeking to raise US$250 million and will invest in businesses across consumer and business services, including healthcare, food distribution, and logistics. These sectors sit close […] The post Swe…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b1ea32fb3ab35f1ec5c"
+  },
+  {
     "title": "Sicherheitsupdate: Kritische Client-Handshake-Lücke bedroht IBM Db2",
     "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Client-Handshake-Luecke-bedroht-IBM-Db2-11344004.html",
     "source": "heise Security Alerts",
@@ -794,5 +814,23 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "349e54284007d1927815"
+  },
+  {
+    "title": "What happened to China’s overseas EV factory boom?",
+    "url": "https://restofworld.org/2026/china-ev-makers-overseas-factories-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-25T10:00:00+00:00",
+    "fetched_at": "2026-06-25T10:04:28+00:00",
+    "summary": "Three charts show China’s promised overseas production hasn’t materialized — yet.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b16fb151ac3058a5bdfd"
   }
 ]
