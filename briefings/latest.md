@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T06:26:23+00:00_
+_Generiert: 2026-06-25T07:49:12+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T06:26:12+00:00`, fetched `2026-06-25T06:25:56+00:00`
+  - Zeit: published `2026-06-25T07:48:57+00:00`, fetched `2026-06-25T07:48:42+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: Paris (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: MoneyHero Group wants you to focus on the bright spots. Revenue climbed 15 per cent. Its shiny Wealth vertical surged 53 per cent. Its AI transformation story is compelling. And its Adjusted EBITDA loss? Down a whopping 68 per cent year-over-year to US$1.1 million. On the surface, the Singapore- and Hong Kong-based personal finance comparison […] The post MoneyHero’s winning quarter has a US$6.7M problem appeared fi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN79926428/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-16T12:00:00+09:00`, fetched `2026-06-25T07:48:42+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ソニー株式会社が提供するOptical Disc Archive Software（Windows版）のインストーラには、インストール時の不適切なファイルアクセス権設定の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **revfactory/harness** — Score 10, observation — [Quelle](https://github.com/revfactory/harness)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
@@ -104,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: Modern life has become deeply optimised. There are apps to improve our focus, watches to track our sleep, systems to organise our mornings and endless advice on how to squeeze more output into the same 24 hours. Social media feeds are filled with productivity routines, side hustle culture and carefully engineered lifestyles designed to maximise […] The post People don’t want productivity hacks anymore, they want sus…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Isabel Schnabel: Interview with Die Zeit** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-25T07:00:00+00:00`, fetched `2026-06-25T07:48:42+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Isabel Schnabel: Interview with Die Zeit
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **JCodesMore/ai-website-cloner-template** — Score 8, observation — [Quelle](https://github.com/JCodesMore/ai-website-cloner-template)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

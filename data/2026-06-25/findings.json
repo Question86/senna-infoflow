@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-25T06:26:12+00:00",
-    "fetched_at": "2026-06-25T06:25:56+00:00",
+    "published_at": "2026-06-25T07:48:57+00:00",
+    "fetched_at": "2026-06-25T07:48:42+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e5a3a9e158a6cd39c0c4"
+    "id": "e03210c165a99ff69724"
   },
   {
     "title": "Why AI agents will reshape customer journeys in Southeast Asia",
@@ -216,6 +216,28 @@
     "id": "43ab3bb96d84739a3a07"
   },
   {
+    "title": "Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+    "url": "https://jvn.jp/jp/JVN79926428/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-16T12:00:00+09:00",
+    "fetched_at": "2026-06-25T07:48:42+00:00",
+    "summary": "ソニー株式会社が提供するOptical Disc Archive Software（Windows版）のインストーラには、インストール時の不適切なファイルアクセス権設定の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0ffeb96c3904b0d5a33"
+  },
+  {
     "title": "revfactory/harness",
     "url": "https://github.com/revfactory/harness",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -278,6 +300,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "656cb781da12e8ba5be9"
+  },
+  {
+    "title": "Isabel Schnabel: Interview with Die Zeit",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-25T07:00:00+00:00",
+    "fetched_at": "2026-06-25T07:48:42+00:00",
+    "summary": "Isabel Schnabel: Interview with Die Zeit",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3a58e1c92252d34ed72"
   },
   {
     "title": "Is the AI industry profitable? Yes, just not where you’re looking",
