@@ -1,0 +1,25 @@
+[
+  {
+    "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
+    "url": "https://codezine.jp/article/detail/24575?p=4",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-24T22:05:24+00:00",
+    "fetched_at": "2026-06-25T00:12:11+00:00",
+    "summary": "Transformer は何がすごかったのかを振り返る 今回のマンガでは、現代のAI（LLM）の基盤となった論文『Attention Is All You Need（必要なのは Attention だけ）』のエッセンスを学びました。ここで、重要なポイントを改めて整理しておきましょう。 1. なぜ「革命的」だったのか？ それまでのAIは、文章を端から順番に読...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "282017c260da9e1f8a3d"
+  }
+]
