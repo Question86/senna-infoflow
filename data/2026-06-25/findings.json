@@ -89,6 +89,52 @@
     "id": "38cdf23e76eb43961695"
   },
   {
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-25T02:00:00+00:00",
+    "fetched_at": "2026-06-25T09:09:06+00:00",
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "992da3c10ae3b36c57d6"
+  },
+  {
     "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
     "url": "https://codezine.jp/article/detail/24575?p=4",
     "source": "Hatena Bookmark Hotentry IT",
@@ -300,6 +346,61 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "656cb781da12e8ba5be9"
+  },
+  {
+    "title": "Echelon Philippines 2025 – The Unicroach vs Unicorn approach: Chasing profitability over growth at all costs",
+    "url": "https://e27.co/echelon-philippines-2025-the-unicroach-vs-unicorn-approach-chasing-profitability-over-growth-at-all-costs-20260625/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-25T09:01:55+00:00",
+    "fetched_at": "2026-06-25T09:09:06+00:00",
+    "summary": "At Echelon Philippines 2025, Karl Loo, COO and co-founder of 3Cat, shared insights on building an omnichannel retailer for used electronics — a growing market bridging affordability with sustainability. He discussed the realities of fundraising in a more cautious venture capital landscape, where founders must demonstrate clear unit economics and a credible path to profitability […] The post Echelon Philippines 2025…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Watchgraph:agriculture_food_fertilizer",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers",
+      "agriculture_food_fertilizer"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital",
+      "agriculture_food_fertilizer: corn"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "d42589cc635dd6a7657a"
   },
   {
     "title": "Isabel Schnabel: Interview with Die Zeit",

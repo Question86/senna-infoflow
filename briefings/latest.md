@@ -1,10 +1,79 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T08:54:32+00:00_
+_Generiert: 2026-06-25T09:09:32+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+
+<!-- SENNA_GLOBAL_WATCHDOGS:START -->
+## Sicherheitslage global
+
+- **USGS earthquake M7.5 - 28 km SE of Yumare, Venezuela** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp)
+  - Quelle: USGS
+  - Zeit: `2026-06-24T22:05:11+00:00`
+  - Kurz: M7.5 - 28 km SE of Yumare, Venezuela. PAGER alert: red. Tsunami flag: 0.
+- **USGS earthquake M7.2 - 23 km SE of Yumare, Venezuela** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc)
+  - Quelle: USGS
+  - Zeit: `2026-06-24T22:04:33+00:00`
+  - Kurz: M7.2 - 23 km SE of Yumare, Venezuela. PAGER alert: red. Tsunami flag: 0.
+- **CISA KEV: CVE-2025-67038 Lantronix EDS5000** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
+- **CISA KEV: CVE-2026-34910 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Input Validation Vulnerability
+- **CISA KEV: CVE-2026-34909 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Path Traversal Vulnerability
+- **CISA KEV: CVE-2026-34908 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Access Control Vulnerability
+- **CISA KEV: CVE-2026-20253 Splunk Enterprise** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-18`
+  - Kurz: Known exploited vulnerability. Added 2026-06-18. Due 2026-06-21. Splunk Enterprise Missing Authentication for Critical Function Vulnerability
+- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Türkiye
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.
+- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 2.4 million (in MMI&gt;=VII).
+- **GDACS: Green flood alert in India** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103972)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in India
+- **USGS earthquake M6.9 - 30 km ENE of Kuji, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq)
+  - Quelle: USGS
+  - Zeit: `2026-06-24T22:30:14+00:00`
+  - Kurz: M6.9 - 30 km ENE of Kuji, Japan. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548310)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.57M, Depth:8.06999969482422km) in United States 24/06/2026 15:10 UTC, 10 thousand (in MMI&gt;=VII).
+- **USGS earthquake M5.6 - 11 km N of Redwood Valley, CA** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936)
+  - Quelle: USGS
+  - Zeit: `2026-06-24T15:10:40+00:00`
+  - Kurz: M5.6 - 11 km N of Redwood Valley, CA. PAGER alert: yellow. Tsunami flag: 0.
+
+## Wirtschaft global
+
+- Kein aktives Signal aus den konfigurierten globalen Sensoren.
+
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+
+<!-- SENNA_GLOBAL_WATCHDOGS:END -->
+
 
 ## Priorität Hoch
 
@@ -29,6 +98,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Southeast Asia has never followed a single digital playbook. A customer in Thailand may expect to interact with a brand through LINE. A shopper in Indonesia or Malaysia may prefer WhatsApp. In Vietnam, Zalo remains deeply embedded in daily communication. In the Philippines, Messenger continues to shape how people connect, discover, and transact. This makes […] The post Why AI agents will reshape customer journeys in…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **How agents are transforming work** — Score 18, opportunity — [Quelle](https://openai.com/index/how-agents-are-transforming-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-25T02:00:00+00:00`, fetched `2026-06-25T09:09:06+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話** — Score 16, observation — [Quelle](https://codezine.jp/article/detail/24575?p=4)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

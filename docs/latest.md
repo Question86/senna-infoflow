@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T08:54:32+00:00_
+_Generiert: 2026-06-25T09:09:32+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Southeast Asia has never followed a single digital playbook. A customer in Thailand may expect to interact with a brand through LINE. A shopper in Indonesia or Malaysia may prefer WhatsApp. In Vietnam, Zalo remains deeply embedded in daily communication. In the Philippines, Messenger continues to shape how people connect, discover, and transact. This makes […] The post Why AI agents will reshape customer journeys in…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **How agents are transforming work** — Score 18, opportunity — [Quelle](https://openai.com/index/how-agents-are-transforming-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-25T02:00:00+00:00`, fetched `2026-06-25T09:09:06+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話** — Score 16, observation — [Quelle](https://codezine.jp/article/detail/24575?p=4)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
