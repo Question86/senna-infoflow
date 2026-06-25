@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T11:09:10+00:00_
+_Generiert: 2026-06-25T12:04:29+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog** — Score 16, observation — [Quelle](https://tech.coincheck.blog/entry/codex-ttx)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T04:56:18+00:00`, fetched `2026-06-25T12:04:04+00:00`
+  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: PMO の Kuniwak です。今回は障害対応机上演習をコーディングエージェントと一緒に実施し、成果を挙げた話をします。 背景 障害対応の能力を計測して継続的に改善するには障害対応の机上演習が有効です。 再現度の高い机上演習を実施するには、ゲームマスターの役割を担う人間が必要になります。 ゲームマスターとはイン...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話** — Score 16, observation — [Quelle](https://codezine.jp/article/detail/24575?p=4)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-24T22:05:24+00:00`, fetched `2026-06-25T00:12:11+00:00`
@@ -113,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say "build a harness for this project" (English) or "하네스 구성해줘" (한국어) or "ハーネスを構成して" (日本語), and the plugin turns your domain description into an agent team and the skills…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Piero Cipollone: Central bank money for the digital era** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-25T12:00:00+00:00`, fetched `2026-06-25T12:04:04+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Central bank money for the digital era
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **15 Southeast Asian semiconductor startups moving beyond assembly** — Score 9, observation — [Quelle](https://e27.co/15-southeast-asian-semiconductor-startups-moving-beyond-assembly-20260625/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -203,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年5月21日に予告っぽい投稿があったが無事、2026年6月23日、API版を先行していたKrea 2がオープンウェイトでRaw（ベースモデル）とTurbo（蒸留済み高速版）の2種類をリリース。パラメータは12B。最大2048×2048に対応（ただしRawの学習データは1024）。興味深いのは学習データにAI画像を一切使っていないと明言してい...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2119856.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T02:08:50+00:00`, fetched `2026-06-25T06:25:56+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

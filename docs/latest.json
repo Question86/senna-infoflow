@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T11:09:10+00:00",
-  "run_id": "2026-06-25T11:09:10+00:00",
+  "generated_at": "2026-06-25T12:04:29+00:00",
+  "run_id": "2026-06-25T12:04:29+00:00",
   "date": "2026-06-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 7,
-    "observe": 27,
+    "medium": 8,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -163,6 +163,52 @@
           "PINS"
         ],
         "id": "992da3c10ae3b36c57d6"
+      },
+      {
+        "title": "Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog",
+        "url": "https://tech.coincheck.blog/entry/codex-ttx",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-25T04:56:18+00:00",
+        "fetched_at": "2026-06-25T12:04:04+00:00",
+        "summary": "PMO の Kuniwak です。今回は障害対応机上演習をコーディングエージェントと一緒に実施し、成果を挙げた話をします。 背景 障害対応の能力を計測して継続的に改善するには障害対応の机上演習が有効です。 再現度の高い机上演習を実施するには、ゲームマスターの役割を担う人間が必要になります。 ゲームマスターとはイン...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "2bac501596b645702976"
       },
       {
         "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
@@ -358,6 +404,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3210cbfe22f2cf00ff49"
+      },
+      {
+        "title": "Piero Cipollone: Central bank money for the digital era",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-06-25T12:00:00+00:00",
+        "fetched_at": "2026-06-25T12:04:04+00:00",
+        "summary": "Piero Cipollone: Central bank money for the digital era",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7b556f658a3482066edb"
       },
       {
         "title": "15 Southeast Asian semiconductor startups moving beyond assembly",
@@ -1026,6 +1092,52 @@
       "id": "992da3c10ae3b36c57d6"
     },
     {
+      "title": "Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog",
+      "url": "https://tech.coincheck.blog/entry/codex-ttx",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-25T04:56:18+00:00",
+      "fetched_at": "2026-06-25T12:04:04+00:00",
+      "summary": "PMO の Kuniwak です。今回は障害対応机上演習をコーディングエージェントと一緒に実施し、成果を挙げた話をします。 背景 障害対応の能力を計測して継続的に改善するには障害対応の机上演習が有効です。 再現度の高い机上演習を実施するには、ゲームマスターの役割を担う人間が必要になります。 ゲームマスターとはイン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2bac501596b645702976"
+    },
+    {
       "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
       "url": "https://codezine.jp/article/detail/24575?p=4",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1217,6 +1329,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3210cbfe22f2cf00ff49"
+    },
+    {
+      "title": "Piero Cipollone: Central bank money for the digital era",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-06-25T12:00:00+00:00",
+      "fetched_at": "2026-06-25T12:04:04+00:00",
+      "summary": "Piero Cipollone: Central bank money for the digital era",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b556f658a3482066edb"
     },
     {
       "title": "15 Southeast Asian semiconductor startups moving beyond assembly",
@@ -1749,68 +1881,70 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-25T11:08:58+00:00",
-      "fetched_at": "2026-06-25T11:08:44+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog",
+      "url": "https://tech.coincheck.blog/entry/codex-ttx",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-25T04:56:18+00:00",
+      "fetched_at": "2026-06-25T12:04:04+00:00",
+      "summary": "PMO の Kuniwak です。今回は障害対応机上演習をコーディングエージェントと一緒に実施し、成果を挙げた話をします。 背景 障害対応の能力を計測して継続的に改善するには障害対応の机上演習が有効です。 再現度の高い机上演習を実施するには、ゲームマスターの役割を担う人間が必要になります。 ゲームマスターとはイン...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "ai_agents_workflow: Codex"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
-      "id": "8cde8af18242bb6f530f"
+      "id": "2bac501596b645702976"
     },
     {
-      "title": "Value creation: Your US$900M AI is failing because humans don’t work the way you think",
-      "url": "https://e27.co/your-us900m-ai-is-failing-because-humans-dont-work-the-way-you-think-20260303/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Piero Cipollone: Central bank money for the digital era",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-06-25T11:00:07+00:00",
-      "fetched_at": "2026-06-25T11:08:44+00:00",
-      "summary": "Olive AI raised US$902 million, deployed automation across 900 hospitals in 40 states, and was valued at US$4 billion at its 2021 peak. By October 2023, it was gone. Not because the AI failed — but because a routine Epic module update broke the bots, and hospitals found themselves adding human monitoring on top of […] The post Value creation: Your US$900M AI is failing because humans don’t work the way you think app…",
+      "published_at": "2026-06-25T12:00:00+00:00",
+      "fetched_at": "2026-06-25T12:04:04+00:00",
+      "summary": "Piero Cipollone: Central bank money for the digital era",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung"
+        "Macro/Policy"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "56724a674f16e3ea14bc"
+      "id": "7b556f658a3482066edb"
     }
   ],
   "source_errors": [],
