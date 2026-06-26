@@ -50,8 +50,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-26T20:14:06+00:00",
-    "fetched_at": "2026-06-26T20:13:52+00:00",
+    "published_at": "2026-06-26T20:57:56+00:00",
+    "fetched_at": "2026-06-26T20:57:39+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -85,7 +85,7 @@
       "HD",
       "LOW"
     ],
-    "id": "bea6d93ea326b007897b"
+    "id": "ee3e32f10fd4c2b377b0"
   },
   {
     "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -323,6 +323,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35d47f904d929d2026f6"
+  },
+  {
+    "title": "M 4.6 - 3 km WNW of Nuing, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8jp",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-26T20:24:00.040+00:00",
+    "fetched_at": "2026-06-26T20:57:39+00:00",
+    "summary": "Time 2026-06-26 20:08:03 UTC 2026-06-26 20:08:03 UTC at epicenter Location 5.646°N 125.411°E Depth 55.44 km (34.45 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d9fbce14cce33c1bdcdd"
   },
   {
     "title": "旅遊 eSIM 的陷阱：流量路徑不揭露，出差人員連線資料恐暴露境外",

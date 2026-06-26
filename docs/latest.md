@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T20:14:17+00:00_
+_Generiert: 2026-06-26T20:58:13+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+60 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -22,7 +22,7 @@ _Generiert: 2026-06-26T20:14:17+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T20:14:06+00:00`, fetched `2026-06-26T20:13:52+00:00`
+  - Zeit: published `2026-06-26T20:57:56+00:00`, fetched `2026-06-26T20:57:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -101,6 +101,15 @@ _Generiert: 2026-06-26T20:14:17+00:00_
   - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: こんにちは。ソーシャル経済メディア「NewsPicks」のPlatform Engineeringチームの崔（ちぇ）です。 昨今、エンジニアのやるほとんどの仕事は「それはClaudeに」というものばかりになった気がします。調査に限らず実装やPR作成、なんならChrome拡張を使えば動作確認までさっとできちゃいます。GithubのCopilotレビューな...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 3 km WNW of Nuing, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8jp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T20:24:00.040+00:00`, fetched `2026-06-26T20:57:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-26 20:08:03 UTC 2026-06-26 20:08:03 UTC at epicenter Location 5.646°N 125.411°E Depth 55.44 km (34.45 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **旅遊 eSIM 的陷阱：流量路徑不揭露，出差人員連線資料恐暴露境外** — Score 15, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11008-3a0c6-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-06-26T06:15:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
