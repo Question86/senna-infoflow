@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T20:58:13+00:00_
+_Generiert: 2026-06-26T21:36:50+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+62 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -230,6 +230,15 @@ _Generiert: 2026-06-26T20:58:13+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Track total merges by adoption phase in enterprise and organization reports** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-26T20:55:03+00:00`, fetched `2026-06-26T21:36:24+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: Building on the AI adoption phase cohorts added to the Copilot usage metrics API, organization and enterprise reports now report the total number of pull requests merged by each adoption… The post Track total merges by adoption phase in enterprise and organization reports appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MAI-Code-1-Flash for Copilot Business and Copilot Enterprise** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-06-26T16:35:06+00:00`, fetched `2026-06-26T16:49:52+00:00`
@@ -275,15 +284,6 @@ _Generiert: 2026-06-26T20:58:13+00:00_
   - Warum relevant: Open Source (+3.8); GitHub (+2.5); recent (+1.0)
   - Kurz: GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP team up to advance development priorities in Ghana with open source appeared first on The GitHub Blog .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-26T07:53:00.000+00:00`, fetched `2026-06-26T08:00:28+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

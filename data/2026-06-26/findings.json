@@ -802,6 +802,28 @@
     "id": "ab7a32191ff29eb2e9d6"
   },
   {
+    "title": "Track total merges by adoption phase in enterprise and organization reports",
+    "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-26T20:55:03+00:00",
+    "fetched_at": "2026-06-26T21:36:24+00:00",
+    "summary": "Building on the AI adoption phase cohorts added to the Copilot usage metrics API, organization and enterprise reports now report the total number of pull requests merged by each adoption… The post Track total merges by adoption phase in enterprise and organization reports appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1661ca9cc524ab913f30"
+  },
+  {
     "title": "MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
     "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
     "source": "GitHub Changelog Atom",
@@ -1234,6 +1256,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2041e20fcd4c6cc0daa2"
+  },
+  {
+    "title": "Bluesky、ユーザー数が4500万人を突破",
+    "url": "https://www.watch.impress.co.jp/docs/news/2120504.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:56:18+00:00",
+    "fetched_at": "2026-06-26T21:36:24+00:00",
+    "summary": "Bluesky、ユーザー数が4500万人を突破",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4a2c8f8c9fceeb8350e5"
   },
   {
     "title": "インスタンスサイズを「上げた」のに、Auroraのコストが「下がった」話 - Timee Product Team Blog",
