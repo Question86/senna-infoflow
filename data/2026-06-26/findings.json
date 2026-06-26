@@ -603,6 +603,42 @@
     "id": "1ff8bde45ae46f363bd7"
   },
   {
+    "title": "M 4.7 - 54 km N of El Limón, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8k6",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-26T23:01:46.592+00:00",
+    "fetched_at": "2026-06-26T23:07:40+00:00",
+    "summary": "DYFI? - IV Time 2026-06-26 22:16:11 UTC 2026-06-26 22:16:11 UTC at epicenter Location 10.800°N 67.599°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "55dfb3d846683684eb7e"
+  },
+  {
     "title": "M 4.9 - 52 km S of Boca de Yuma, Dominican Republic",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8g5",
     "source": "USGS M4.5+ Earthquakes Past Hour",

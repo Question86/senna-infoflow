@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T22:39:07+00:00_
+_Generiert: 2026-06-26T23:08:07+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+65 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -194,6 +194,15 @@ _Generiert: 2026-06-26T22:39:07+00:00_
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The digital asset landscape is currently grappling with a severe wave of selling pressure that has pushed major cryptocurrencies to multi-month lows. This downturn stems from a combination of deteriorating macroeconomic conditions, heavy institutional redemptions, and an intense cascade of derivatives liquidations. Bitcoin has dropped 2.01 per cent over the past 24 hours to trade […] The post Why the 4.1% PCE inflat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 54 km N of El Limón, Venezuela** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8k6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T23:01:46.592+00:00`, fetched `2026-06-26T23:07:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-06-26 22:16:11 UTC 2026-06-26 22:16:11 UTC at epicenter Location 10.800°N 67.599°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 52 km S of Boca de Yuma, Dominican Republic** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8g5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-26T16:49:02.322+00:00`, fetched `2026-06-26T16:49:52+00:00`
@@ -211,15 +220,6 @@ _Generiert: 2026-06-26T22:39:07+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-06-26 11:57:25 UTC 2026-06-26 11:57:25 UTC at epicenter Location 12.031°N 86.457°W Depth 120.48 km (74.86 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 52 km NNE of Barkhan, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-26T12:05:14.040+00:00`, fetched `2026-06-26T12:24:34+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-26 11:48:47 UTC 2026-06-26 11:48:47 UTC at epicenter Location 30.366°N 69.634°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – May 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
