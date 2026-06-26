@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T13:16:19+00:00",
-  "run_id": "2026-06-26T13:16:19+00:00",
+  "generated_at": "2026-06-26T14:05:59+00:00",
+  "run_id": "2026-06-26T14:05:59+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 3,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 1,
-    "medium": 12,
-    "observe": 34,
+    "medium": 13,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -81,8 +81,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-26T13:16:07+00:00",
-        "fetched_at": "2026-06-26T13:15:52+00:00",
+        "published_at": "2026-06-26T13:46:44+00:00",
+        "fetched_at": "2026-06-26T14:05:33+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -116,7 +116,7 @@
           "HD",
           "LOW"
         ],
-        "id": "1577433a5fe313d65479"
+        "id": "8a788bbfc958f8c7478b"
       },
       {
         "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -140,6 +140,45 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bdea48dc5ee54750be0c"
+      },
+      {
+        "title": "M 5.7 - 7 km N of Oshino, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-26T14:02:10.808+00:00",
+        "fetched_at": "2026-06-26T14:05:33+00:00",
+        "summary": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-06-26 13:29:01 UTC 2026-06-26 13:29:01 UTC at epicenter Location 35.523°N 138.857°E Depth 50.93 km (31.64 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5915f213f36d3af25036"
       },
       {
         "title": "M 6.5 - 35 km SW of Balangonan, Philippines",
@@ -1052,6 +1091,27 @@
         "id": "971b03412e943e72397d"
       },
       {
+        "title": "メインフレーム離脱プロジェクトの7割超が失敗、理由は「生成AIの過大評価」",
+        "url": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T03:24:16+00:00",
+        "fetched_at": "2026-06-26T14:05:33+00:00",
+        "summary": "Gartnerは2026年6月18日（現地時間）、2026年に開始されたメインフレーム離脱プロジェクトの70％超が、意図した利益を生み出せずに終わるとの予測を発表した。原因として、生成AIツールの能力を過大に見積もる傾向を挙げた。同社は、複雑なレガシーコードの変換や移行について、生成AIによる効率化を強調する市場の訴求...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96a0ecbd0db69adc8e4e"
+      },
+      {
         "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
         "url": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1230,8 +1290,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-26T13:16:07+00:00",
-      "fetched_at": "2026-06-26T13:15:52+00:00",
+      "published_at": "2026-06-26T13:46:44+00:00",
+      "fetched_at": "2026-06-26T14:05:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1265,7 +1325,7 @@
         "HD",
         "LOW"
       ],
-      "id": "1577433a5fe313d65479"
+      "id": "8a788bbfc958f8c7478b"
     },
     {
       "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -1289,6 +1349,45 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bdea48dc5ee54750be0c"
+    },
+    {
+      "title": "M 5.7 - 7 km N of Oshino, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-26T14:02:10.808+00:00",
+      "fetched_at": "2026-06-26T14:05:33+00:00",
+      "summary": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-06-26 13:29:01 UTC 2026-06-26 13:29:01 UTC at epicenter Location 35.523°N 138.857°E Depth 50.93 km (31.64 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5915f213f36d3af25036"
     },
     {
       "title": "M 6.5 - 35 km SW of Balangonan, Philippines",
@@ -2199,6 +2298,27 @@
       "id": "971b03412e943e72397d"
     },
     {
+      "title": "メインフレーム離脱プロジェクトの7割超が失敗、理由は「生成AIの過大評価」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T03:24:16+00:00",
+      "fetched_at": "2026-06-26T14:05:33+00:00",
+      "summary": "Gartnerは2026年6月18日（現地時間）、2026年に開始されたメインフレーム離脱プロジェクトの70％超が、意図した利益を生み出せずに終わるとの予測を発表した。原因として、生成AIツールの能力を過大に見積もる傾向を挙げた。同社は、複雑なレガシーコードの変換や移行について、生成AIによる効率化を強調する市場の訴求...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96a0ecbd0db69adc8e4e"
+    },
+    {
       "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
       "url": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2330,8 +2450,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-26T13:16:07+00:00",
-      "fetched_at": "2026-06-26T13:15:52+00:00",
+      "published_at": "2026-06-26T13:46:44+00:00",
+      "fetched_at": "2026-06-26T14:05:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2365,27 +2485,67 @@
         "HD",
         "LOW"
       ],
-      "id": "1577433a5fe313d65479"
+      "id": "8a788bbfc958f8c7478b"
     },
     {
-      "title": "Building a better future: How sustainable architecture is leading the way for the built environment",
-      "url": "https://e27.co/building-a-better-future-how-sustainable-architecture-is-leading-the-way-for-the-built-environment-20230321/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.7 - 7 km N of Oshino, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-26T12:30:41+00:00",
-      "fetched_at": "2026-06-26T13:15:52+00:00",
-      "summary": "The Philippines has one of the highest electricity rates in the world, making sustainability a necessity in architecture. Architects and builders have been prioritising energy efficiency and sustainability in their designs, using renewable energy sources and sustainable materials such as bamboo, reclaimed wood, and recycled steel. This shift towards sustainable architecture is also reflected in […] The post Building…",
+      "published_at": "2026-06-26T14:02:10.808+00:00",
+      "fetched_at": "2026-06-26T14:05:33+00:00",
+      "summary": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-06-26 13:29:01 UTC 2026-06-26 13:29:01 UTC at epicenter Location 35.523°N 138.857°E Depth 50.93 km (31.64 mi)",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5915f213f36d3af25036"
+    },
+    {
+      "title": "メインフレーム離脱プロジェクトの7割超が失敗、理由は「生成AIの過大評価」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T03:24:16+00:00",
+      "fetched_at": "2026-06-26T14:05:33+00:00",
+      "summary": "Gartnerは2026年6月18日（現地時間）、2026年に開始されたメインフレーム離脱プロジェクトの70％超が、意図した利益を生み出せずに終わるとの予測を発表した。原因として、生成AIツールの能力を過大に見積もる傾向を挙げた。同社は、複雑なレガシーコードの変換や移行について、生成AIによる効率化を強調する市場の訴求...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "881f1ca3070d7190dc7a"
+      "id": "96a0ecbd0db69adc8e4e"
     }
   ],
   "source_errors": [],

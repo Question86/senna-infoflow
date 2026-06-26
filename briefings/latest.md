@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T13:16:19+00:00_
+_Generiert: 2026-06-26T14:05:59+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+49 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-06-26T13:16:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Türkiye
-- **GDACS: Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668)
+- **GDACS: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 40 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI&gt;=VII).
+  - Kurz: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 40 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,6 +53,10 @@ _Generiert: 2026-06-26T13:16:19+00:00_
   - Quelle: USGS
   - Zeit: `2026-06-26T11:34:41+00:00`
   - Kurz: M6.5 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 200 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548681)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 200 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548621)
   - Quelle: GDACS
   - Zeit: ``
@@ -91,7 +95,7 @@ _Generiert: 2026-06-26T13:16:19+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T13:16:07+00:00`, fetched `2026-06-26T13:15:52+00:00`
+  - Zeit: published `2026-06-26T13:46:44+00:00`, fetched `2026-06-26T14:05:33+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -106,6 +110,15 @@ _Generiert: 2026-06-26T13:16:19+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Datenschutz (+6.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
   - Kurz: Most Board packs on cyber, privacy, vendor exposure, and resilience fail in the same way. They contain activity, metrics, and updates, yet still leave senior decision makers unclear on what they are being asked to govern. One page shows phishing rates. Another shows patching. Another shows third-party incidents, privacy breaches, or resilience testing. Each page […] The post How to build a board paper that actually…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.7 - 7 km N of Oshino, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T14:02:10.808+00:00`, fetched `2026-06-26T14:05:33+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-06-26 13:29:01 UTC 2026-06-26 13:29:01 UTC at epicenter Location 35.523°N 138.857°E Depth 50.93 km (31.64 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.5 - 35 km SW of Balangonan, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
