@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T05:08:04+00:00_
+_Generiert: 2026-06-26T06:36:10+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,7 +69,15 @@ _Generiert: 2026-06-26T05:08:04+00:00_
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注** — Score 31, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11007-b761d-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-06-26T06:08:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: AI/KI, OpenAI, Security, Supply Chain Security, TWCERT, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); Supply Chain Security (+8.0); TWCERT (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0); watchgraph markets via cybersecurity, dev_infra: TEAM (+2.0)
+  - Kurz: 知名網頁應用程式框架 TanStack 的 npm 套件近期遭到駭客組織 TeamPCP 發動名為「Mini Shai-Hulud」的大規模軟體供應鏈攻擊，攻擊者在短短幾分鐘內發布了 42 個 「@tanstack/*」套件的 84 個惡意版本。本次攻擊的惡意套件首次具備有效的 SLSA（軟體供應鏈安全框架）第3級來源證明，使其外觀與合法套件無異。該惡意軟體具備自我傳播能力，已迅速擴散至 Mistral AI、UiPath 與 OpenSearch 等 170 多個 npm 與 PyPI 套件，更導致知名 AI 企業 OpenAI 內部員工裝置遭入侵，部分原始碼專案庫遭未經授權存取。 根據 TanStack 官方發布的事後檢討報告，這次的攻擊之所以能成功，根本原因在於駭客將三個獨立的弱點串聯在一起，官方特別強調，這三項弱點「缺一不可」，單一弱點皆不足以構成此次的攻擊。以下是根據 TanStack 官方報告重新整理的三項弱點剖析…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Priorität Mittel
 
@@ -100,6 +108,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月25日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Airwallex doubles down on agentic commerce with US$320M funding round** — Score 16, observation — [Quelle](https://e27.co/airwallex-doubles-down-on-agentic-commerce-with-us320m-funding-round-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-26T05:19:35+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
+  - Kurz: Airwallex has raised US$320 million in a Series H round, lifting its valuation to US$11 billion as the fintech company doubles down on AI-driven financial software, cross-border payments infrastructure, and regulatory expansion. The round was led by returning investor Addition, with participation from Baillie Gifford, Hummingbird, QED Investors, T. Rowe Price, Hedosophia, Haun Ventures, Washington […] The post Airwa…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude CodeのスキルでSLO対応を自動化したらめちゃくちゃ楽になった - Uzabase for Engineers** — Score 16, observation — [Quelle](https://tech.uzabase.com/entry/2026/06/26/100727)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-26T03:35:43+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: こんにちは。ソーシャル経済メディア「NewsPicks」のPlatform Engineeringチームの崔（ちぇ）です。 昨今、エンジニアのやるほとんどの仕事は「それはClaudeに」というものばかりになった気がします。調査に限らず実装やPR作成、なんならChrome拡張を使えば動作確認までさっとできちゃいます。GithubのCopilotレビューな...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **旅遊 eSIM 的陷阱：流量路徑不揭露，出差人員連線資料恐暴露境外** — Score 15, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11008-3a0c6-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-06-26T06:15:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: Datenschutz, Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Datenschutz (+6.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: 美國東北大學研究團隊於 2025 年資安學術研討會 USENIX Security Symposium 發表實證研究報告《eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem》，針對數十款市售旅遊 eSIM 進行實際測試，發現多數旅遊 eSIM 採用Home-Routed Roaming（HRR）架構，使用者流量不會從當地網路直接出口，而是先回送至本籍網路（Home Network）業者的核心設施處理後才連上目的地服務。部分業者的本籍網路位於中國，因此使用者的流量會先經過中國電信業者的基礎設施。在 HRR 架構下，本籍網路可完整看到連線時間戳記、來源位置、DNS 查詢紀錄及所存取的服務端點，即使傳輸層已採用 TLS 加密，這些連線層級的紀錄仍可被側錄，且業者通常不會主動於商品頁面揭露相關資訊。 多款eSIM流量繞送中國電…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ExpressUpdate Agent for Windowsにおける名前付きパイプに対するアクセス制御不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN35146924/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-06-26T14:00:00+09:00`, fetched `2026-06-26T05:07:39+00:00`
@@ -157,6 +192,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: A few years ago, the logic of investing in AI seemed simpler: find the right model or product and bet on it. Today, models that take a year to build become obsolete in months. Betting on a specific AI product is like picking a favourite app at a moment when the operating system itself is […] The post Can Ukraine’s engineers help solve Japan’s tech talent crisis? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T06:35:22.040+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-26 06:18:59 UTC 2026-06-26 06:18:59 UTC at epicenter Location 32.475°S 177.941°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 49 km NE of Barkhan, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8dg)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T06:13:57.040+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-26 05:57:52 UTC 2026-06-26 05:57:52 UTC at epicenter Location 30.259°N 69.831°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた** — Score 8, observation — [Quelle](https://zenn.dev/rescuenow/articles/535533464da3cf)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T10:06:44+00:00`, fetched `2026-06-26T00:13:54+00:00`
@@ -175,23 +228,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. A self-hosted, real-time collaborative travel planner — with maps, budgets, packing lists, a journal, and AI built in. What you get See all features 🧭 Trip planning Drag & drop planner — organise places into day plans with reordering and cross-day moves Interactive map — Leaflet or Ma…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **松本大臣記者会見（令和8年6月26日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260626-01)
+- **標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-26T03:05:23+00:00`, fetched `2026-06-26T03:38:11+00:00`
+  - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年6月26日）動画を掲載しました
+  - Kurz: 標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「令和6年度 各府省情報システムの経費実績（決算額）」と「令和6年度決算に基づく3割削減目標の進捗状況」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/development_management/cost-effectiveness)
+- **新卒採用 業務説明会・イベント情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/recruiting-session)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-26T00:25:49+00:00`, fetched `2026-06-26T01:23:40+00:00`
+  - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「令和6年度 各府省情報システムの経費実績（決算額）」と「令和6年度決算に基づく3割削減目標の進捗状況」を掲載しました
+  - Kurz: 新卒採用 業務説明会・イベント情報を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Crit - Point at the line. Tell the agent.** — Score 6, observation — [Quelle](https://crit.md/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -223,6 +285,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
