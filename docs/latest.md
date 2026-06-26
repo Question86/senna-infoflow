@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T10:30:52+00:00_
+_Generiert: 2026-06-26T11:33:10+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+39 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -212,6 +212,15 @@ _Generiert: 2026-06-26T10:30:52+00:00_
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Desktop 3.6: Worktrees and deeper Copilot integration** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-26T10:32:58+00:00`, fetched `2026-06-26T11:32:42+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post GitHub Desktop 3.6: Worktrees and deeper Copilot integration appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
@@ -238,15 +247,6 @@ _Generiert: 2026-06-26T10:30:52+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Crit - Point at the line. Tell the agent.** — Score 6, observation — [Quelle](https://crit.md/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-05-21T10:05:13+00:00`, fetched `2026-06-26T05:07:39+00:00`
-  - Treffer: agent, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5)
-  - Kurz: Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type "this drops the refresh token", and the agent fixes it. You see exactly what changed, round by ro...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

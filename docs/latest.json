@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T10:30:52+00:00",
-  "run_id": "2026-06-26T10:30:52+00:00",
+  "generated_at": "2026-06-26T11:33:10+00:00",
+  "run_id": "2026-06-26T11:33:10+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 3,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 1,
     "medium": 11,
-    "observe": 24,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -609,6 +609,27 @@
         "id": "a5581ae8383a96544536"
       },
       {
+        "title": "GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-26T10:32:58+00:00",
+        "fetched_at": "2026-06-26T11:32:42+00:00",
+        "summary": "GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post GitHub Desktop 3.6: Worktrees and deeper Copilot integration appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fb7a8ba798b87da333aa"
+      },
+      {
         "title": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",
         "url": "https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679",
         "source": "Japan Digital Agency News RSS",
@@ -751,6 +772,27 @@
         "id": "d6438ae5f00aaf04359a"
       },
       {
+        "title": "インスタンスサイズを「上げた」のに、Auroraのコストが「下がった」話 - Timee Product Team Blog",
+        "url": "https://tech.timee.co.jp/entry/2026/06/26/155400",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T08:22:44+00:00",
+        "fetched_at": "2026-06-26T11:32:42+00:00",
+        "summary": "はじめに こんにちは。プラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 「インスタンスサイズを上げたらコストが下がりました」と言うと、だいたい「？」という顔をされます。スペック上げたらお金かかるに決まってるだろ、と。自分もそう思っていたので気持ちはわかります。 この記事では...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bfe65cc953dc89f1ba0"
+      },
+      {
         "title": "30代を捧げてきた技術が死にそう",
         "url": "https://anond.hatelabo.jp/20250528222518",
         "source": "Hatena Bookmark Hotentry IT",
@@ -770,6 +812,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "971b03412e943e72397d"
+      },
+      {
+        "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
+        "url": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T01:36:57+00:00",
+        "fetched_at": "2026-06-26T11:32:42+00:00",
+        "summary": "ホンマでっかSRE勉強会 #1 https://honmadekka.connpass.com/event/395755/",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca02810848146667d7ae"
       },
       {
         "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
@@ -1455,6 +1518,27 @@
       "id": "a5581ae8383a96544536"
     },
     {
+      "title": "GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-26T10:32:58+00:00",
+      "fetched_at": "2026-06-26T11:32:42+00:00",
+      "summary": "GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post GitHub Desktop 3.6: Worktrees and deeper Copilot integration appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb7a8ba798b87da333aa"
+    },
+    {
       "title": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",
       "url": "https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679",
       "source": "Japan Digital Agency News RSS",
@@ -1597,6 +1681,27 @@
       "id": "d6438ae5f00aaf04359a"
     },
     {
+      "title": "インスタンスサイズを「上げた」のに、Auroraのコストが「下がった」話 - Timee Product Team Blog",
+      "url": "https://tech.timee.co.jp/entry/2026/06/26/155400",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:22:44+00:00",
+      "fetched_at": "2026-06-26T11:32:42+00:00",
+      "summary": "はじめに こんにちは。プラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 「インスタンスサイズを上げたらコストが下がりました」と言うと、だいたい「？」という顔をされます。スペック上げたらお金かかるに決まってるだろ、と。自分もそう思っていたので気持ちはわかります。 この記事では...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bfe65cc953dc89f1ba0"
+    },
+    {
       "title": "30代を捧げてきた技術が死にそう",
       "url": "https://anond.hatelabo.jp/20250528222518",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1616,6 +1721,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "971b03412e943e72397d"
+    },
+    {
+      "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
+      "url": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T01:36:57+00:00",
+      "fetched_at": "2026-06-26T11:32:42+00:00",
+      "summary": "ホンマでっかSRE勉強会 #1 https://honmadekka.connpass.com/event/395755/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca02810848146667d7ae"
     },
     {
       "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
@@ -1722,7 +1848,71 @@
       "id": "3e2834936e46acf1521b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-26T10:32:58+00:00",
+      "fetched_at": "2026-06-26T11:32:42+00:00",
+      "summary": "GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post GitHub Desktop 3.6: Worktrees and deeper Copilot integration appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb7a8ba798b87da333aa"
+    },
+    {
+      "title": "インスタンスサイズを「上げた」のに、Auroraのコストが「下がった」話 - Timee Product Team Blog",
+      "url": "https://tech.timee.co.jp/entry/2026/06/26/155400",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:22:44+00:00",
+      "fetched_at": "2026-06-26T11:32:42+00:00",
+      "summary": "はじめに こんにちは。プラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 「インスタンスサイズを上げたらコストが下がりました」と言うと、だいたい「？」という顔をされます。スペック上げたらお金かかるに決まってるだろ、と。自分もそう思っていたので気持ちはわかります。 この記事では...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bfe65cc953dc89f1ba0"
+    },
+    {
+      "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
+      "url": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T01:36:57+00:00",
+      "fetched_at": "2026-06-26T11:32:42+00:00",
+      "summary": "ホンマでっかSRE勉強会 #1 https://honmadekka.connpass.com/event/395755/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca02810848146667d7ae"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
