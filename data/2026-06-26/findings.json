@@ -111,6 +111,45 @@
     "id": "bdea48dc5ee54750be0c"
   },
   {
+    "title": "M 6.5 - 35 km SW of Balangonan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-26T12:13:01.570+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-06-26 11:34:42 UTC 2026-06-26 11:34:42 UTC at epicenter Location 5.346°N 125.129°E Depth 52.36 km (32.53 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2d7d25947839b04fd10f"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月25日）",
     "url": "https://jvn.jp/vu/JVNVU99109287/",
     "source": "JVN Japan Vulnerability Notes",
@@ -336,6 +375,71 @@
     "id": "e0911f023e8e625c5d2d"
   },
   {
+    "title": "When nation-states shape startup outcomes",
+    "url": "https://e27.co/when-nation-states-shape-startup-outcomes-20260204/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:32:50+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "Startup ecosystems are often portrayed as bottom-up systems driven by founders, venture capital, and technological breakthroughs. That view is incomplete. In practice, startup ecosystems are also downstream expressions of state power, shaped by policy decisions, institutional participation, and geopolitical alignment. This US withdrawal from international climate and energy institutions alters the conditions under w…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "3fefc15d92ab780463d6"
+  },
+  {
+    "title": "個人の資産運用、AIチャットで完結 銀行28社連合が28年度にも実現へ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB246DY0U6A620C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:01:27+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "個人の資産運用を相談から商品購入手続きまで自律型の人工知能（AI）のチャットなどで一括対応できる仕組み作りが7月から始まる。三菱UFJフィナンシャル・グループなど3メガバンクを含む計28社が連携し、2028年度にも商用化を目指す。チャットなどのAIツールは投資家に金融サービスを使ってもらうための入り口になりつつ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "367ca283ef4fff72682f"
+  },
+  {
     "title": "Why the 4.1% PCE inflation print just turned crypto into a high beta risk asset",
     "url": "https://e27.co/why-the-4-1-pce-inflation-print-just-turned-crypto-into-a-high-beta-risk-asset-20260626/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -376,6 +480,78 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1ff8bde45ae46f363bd7"
+  },
+  {
+    "title": "M 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-26T12:21:59.094+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "DYFI? - III Time 2026-06-26 11:57:25 UTC 2026-06-26 11:57:25 UTC at epicenter Location 12.031°N 86.457°W Depth 120.48 km (74.86 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5ad9f70ecb6ed769179f"
+  },
+  {
+    "title": "M 5.2 - 52 km NNE of Barkhan, Pakistan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-26T12:05:14.040+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "Time 2026-06-26 11:48:47 UTC 2026-06-26 11:48:47 UTC at epicenter Location 30.366°N 69.634°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "19739e0dbc1dfc00627b"
   },
   {
     "title": "ECB Consumer Expectations Survey results – May 2026",
@@ -490,6 +666,27 @@
       "LOW"
     ],
     "id": "ab7a32191ff29eb2e9d6"
+  },
+  {
+    "title": "Transitioning as a hubber",
+    "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-26T12:00:00+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a hubber appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6975516b9cacd96e098e"
   },
   {
     "title": "ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた",
@@ -758,6 +955,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6bfe65cc953dc89f1ba0"
+  },
+  {
+    "title": "YouTubeショートのアップデートで「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能に",
+    "url": "https://gigazine.net/news/20260626-youtube-shorts-experience-updates-features/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T07:02:46+00:00",
+    "fetched_at": "2026-06-26T12:24:34+00:00",
+    "summary": "現地時間の2026年6月25日、YouTubeショートの新たなアップデートが順次展開され、「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能になると発表されました。 How we're updating the YouTube Shorts experience - YouTube Blog https://blog.youtube/news-and-events/youtube-shorts-experience-u...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1dbc5368ccc93f158b5d"
   },
   {
     "title": "30代を捧げてきた技術が死にそう",

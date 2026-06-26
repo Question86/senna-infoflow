@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T11:33:10+00:00_
+_Generiert: 2026-06-26T12:25:01+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+46 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -37,6 +37,15 @@ _Generiert: 2026-06-26T11:33:10+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Datenschutz (+6.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
   - Kurz: Most Board packs on cyber, privacy, vendor exposure, and resilience fail in the same way. They contain activity, metrics, and updates, yet still leave senior decision makers unclear on what they are being asked to govern. One page shows phishing rates. Another shows patching. Another shows third-party incidents, privacy breaches, or resilience testing. Each page […] The post How to build a board paper that actually…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 6.5 - 35 km SW of Balangonan, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T12:13:01.570+00:00`, fetched `2026-06-26T12:24:34+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-06-26 11:34:42 UTC 2026-06-26 11:34:42 UTC at epicenter Location 5.346°N 125.129°E Depth 52.36 km (32.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年06月25日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99109287/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -122,6 +131,24 @@ _Generiert: 2026-06-26T11:33:10+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: Three months ago, I reviewed a case that looked like routine onboarding fraud — until none of the patterns I expected to find were there. The application was for a mid-sized supplier with a decent credit profile, clean documents, and a sensible business model. The verification photos checked out. The voice call with the principal […] The post Synthetic identities now cost nothing to make, and ASEAN’s banks have not…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **When nation-states shape startup outcomes** — Score 10, observation — [Quelle](https://e27.co/when-nation-states-shape-startup-outcomes-20260204/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-26T11:32:50+00:00`, fetched `2026-06-26T12:24:34+00:00`
+  - Treffer: APAC Trend Radar, founder, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Startup ecosystems are often portrayed as bottom-up systems driven by founders, venture capital, and technological breakthroughs. That view is incomplete. In practice, startup ecosystems are also downstream expressions of state power, shaped by policy decisions, institutional participation, and geopolitical alignment. This US withdrawal from international climate and energy institutions alters the conditions under w…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **個人の資産運用、AIチャットで完結 銀行28社連合が28年度にも実現へ - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUB246DY0U6A620C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-26T09:01:27+00:00`, fetched `2026-06-26T12:24:34+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 個人の資産運用を相談から商品購入手続きまで自律型の人工知能（AI）のチャットなどで一括対応できる仕組み作りが7月から始まる。三菱UFJフィナンシャル・グループなど3メガバンクを含む計28社が連携し、2028年度にも商用化を目指す。チャットなどのAIツールは投資家に金融サービスを使ってもらうための入り口になりつつ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why the 4.1% PCE inflation print just turned crypto into a high beta risk asset** — Score 10, observation — [Quelle](https://e27.co/why-the-4-1-pce-inflation-print-just-turned-crypto-into-a-high-beta-risk-asset-20260626/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-26T03:27:18+00:00`, fetched `2026-06-26T03:38:11+00:00`
@@ -131,15 +158,24 @@ _Generiert: 2026-06-26T11:33:10+00:00_
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The digital asset landscape is currently grappling with a severe wave of selling pressure that has pushed major cryptocurrencies to multi-month lows. This downturn stems from a combination of deteriorating macroeconomic conditions, heavy institutional redemptions, and an intense cascade of derivatives liquidations. Bitcoin has dropped 2.01 per cent over the past 24 hours to trade […] The post Why the 4.1% PCE inflat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Can Ukraine’s engineers help solve Japan’s tech talent crisis?** — Score 10, observation — [Quelle](https://e27.co/can-ukraines-engineers-help-solve-japans-tech-talent-crisis-20260619/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-26T02:45:29+00:00`, fetched `2026-06-26T03:38:11+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: A few years ago, the logic of investing in AI seemed simpler: find the right model or product and bet on it. Today, models that take a year to build become obsolete in months. Betting on a specific AI product is like picking a favourite app at a moment when the operating system itself is […] The post Can Ukraine’s engineers help solve Japan’s tech talent crisis? appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 7 km NE of Villa El Carmen, Nicaragua** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T12:21:59.094+00:00`, fetched `2026-06-26T12:24:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-06-26 11:57:25 UTC 2026-06-26 11:57:25 UTC at epicenter Location 12.031°N 86.457°W Depth 120.48 km (74.86 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 52 km NNE of Barkhan, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T12:05:14.040+00:00`, fetched `2026-06-26T12:24:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-26 11:48:47 UTC 2026-06-26 11:48:47 UTC at epicenter Location 30.366°N 69.634°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – May 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-26T08:00:00+00:00`, fetched `2026-06-26T09:19:53+00:00`
@@ -167,15 +203,15 @@ _Generiert: 2026-06-26T11:33:10+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-26 06:18:59 UTC 2026-06-26 06:18:59 UTC at epicenter Location 32.475°S 177.941°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 49 km NE of Barkhan, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8dg)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-26T06:13:57.040+00:00`, fetched `2026-06-26T06:35:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-26 05:57:52 UTC 2026-06-26 05:57:52 UTC at epicenter Location 30.259°N 69.831°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Transitioning as a hubber** — Score 8, observation — [Quelle](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-26T12:00:00+00:00`, fetched `2026-06-26T12:24:34+00:00`
+  - Treffer: AI Agents, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a hubber appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた** — Score 8, observation — [Quelle](https://zenn.dev/rescuenow/articles/535533464da3cf)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T10:06:44+00:00`, fetched `2026-06-26T00:13:54+00:00`
@@ -220,33 +256,6 @@ _Generiert: 2026-06-26T11:33:10+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post GitHub Desktop 3.6: Worktrees and deeper Copilot integration appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **新卒採用 業務説明会・イベント情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/recruiting-session)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 新卒採用 業務説明会・イベント情報を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
