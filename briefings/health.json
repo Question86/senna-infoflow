@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T14:05:59+00:00",
+  "generated_at": "2026-06-26T15:06:59+00:00",
   "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 49,
     "displayed_findings": 49,
     "high": 1,
