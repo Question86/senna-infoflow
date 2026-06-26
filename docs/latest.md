@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T15:06:59+00:00_
+_Generiert: 2026-06-26T15:59:21+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+50 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
