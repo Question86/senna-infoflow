@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T02:19:02+00:00_
+_Generiert: 2026-06-26T03:38:38+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „How to build a board paper that actually answers: ‘What are we being asked to decide?’“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+15 neue relevante Treffer. Stärkstes Signal: „How to build a board paper that actually answers: ‘What are we being asked to decide?’“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月25日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Codeに「作業のやり方」を仕込んでみよう 無料でできるAgent Skills基礎学習** — Score 14, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news059.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T08:03:38+00:00`, fetched `2026-06-26T03:38:11+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: AnthropicのAIコーディングエージェント「Claude Code」で作業のやり方を仕込むための「Agent Skills」などの活用方法を解説。Claude Codeの基本操作を習得し、AIエージェントによる開発自動化や効率化に関心を持つエンジニアが、実践方法を学べる内容となっている。以下でその学習内容や、何に役立つのかを紹介する。 C...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **xbtlin/ai-berkshire** — Score 14, observation — [Quelle](https://github.com/xbtlin/ai-berkshire)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-26T02:18:37+00:00`
@@ -51,6 +60,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: Three months ago, I reviewed a case that looked like routine onboarding fraud — until none of the patterns I expected to find were there. The application was for a mid-sized supplier with a decent credit profile, clean documents, and a sensible business model. The verification photos checked out. The voice call with the principal […] The post Synthetic identities now cost nothing to make, and ASEAN’s banks have not…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Why the 4.1% PCE inflation print just turned crypto into a high beta risk asset** — Score 10, observation — [Quelle](https://e27.co/why-the-4-1-pce-inflation-print-just-turned-crypto-into-a-high-beta-risk-asset-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-26T03:27:18+00:00`, fetched `2026-06-26T03:38:11+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The digital asset landscape is currently grappling with a severe wave of selling pressure that has pushed major cryptocurrencies to multi-month lows. This downturn stems from a combination of deteriorating macroeconomic conditions, heavy institutional redemptions, and an intense cascade of derivatives liquidations. Bitcoin has dropped 2.01 per cent over the past 24 hours to trade […] The post Why the 4.1% PCE inflat…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Can Ukraine’s engineers help solve Japan’s tech talent crisis?** — Score 10, observation — [Quelle](https://e27.co/can-ukraines-engineers-help-solve-japans-tech-talent-crisis-20260619/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-26T02:45:29+00:00`, fetched `2026-06-26T03:38:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: A few years ago, the logic of investing in AI seemed simpler: find the right model or product and bet on it. Today, models that take a year to build become obsolete in months. Betting on a specific AI product is like picking a favourite app at a moment when the operating system itself is […] The post Can Ukraine’s engineers help solve Japan’s tech talent crisis? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた** — Score 8, observation — [Quelle](https://zenn.dev/rescuenow/articles/535533464da3cf)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-25T10:06:44+00:00`, fetched `2026-06-26T00:13:54+00:00`
@@ -69,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. A self-hosted, real-time collaborative travel planner — with maps, budgets, packing lists, a journal, and AI built in. What you get See all features 🧭 Trip planning Drag & drop planner — organise places into day plans with reordering and cross-day moves Interactive map — Leaflet or Ma…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **松本大臣記者会見（令和8年6月26日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260626-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-26T03:05:23+00:00`, fetched `2026-06-26T03:38:11+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年6月26日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「令和6年度 各府省情報システムの経費実績（決算額）」と「令和6年度決算に基づく3割削減目標の進捗状況」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/development_management/cost-effectiveness)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-26T00:25:49+00:00`, fetched `2026-06-26T01:23:40+00:00`
