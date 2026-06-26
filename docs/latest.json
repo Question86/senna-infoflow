@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T08:00:57+00:00",
-  "run_id": "2026-06-26T08:00:57+00:00",
+  "generated_at": "2026-06-26T09:20:23+00:00",
+  "run_id": "2026-06-26T09:20:23+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 5,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 1,
-    "medium": 9,
-    "observe": 22,
+    "medium": 11,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -81,8 +81,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-26T05:07:53+00:00",
-        "fetched_at": "2026-06-26T05:07:39+00:00",
+        "published_at": "2026-06-26T09:20:10+00:00",
+        "fetched_at": "2026-06-26T09:19:53+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -116,7 +116,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b2f5b0bfceb1281895e6"
+        "id": "ef7f1494bf8def70bf09"
       },
       {
         "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -163,6 +163,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bae7a93d7ce9acc20299"
+      },
+      {
+        "title": "AMC Robotics to build US$3.5M Vietnam factory as SEA automation race heats up",
+        "url": "https://e27.co/amc-robotics-to-build-us3-5m-vietnam-factory-as-sea-automation-race-heats-up-20260626/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-26T08:49:41+00:00",
+        "fetched_at": "2026-06-26T09:19:53+00:00",
+        "summary": "China-affiliated AMC Robotics Corporation will invest US$3.5 million to build out and equip a new manufacturing facility in Vietnam’s Bac Ninh province, marking its first major production foothold in Southeast Asia as the region’s factories and warehouses gradually move towards automation. The company said it has signed a lease agreement for a 6,150-square-metre facility in […] The post AMC Robotics to build US$3.5M…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Automatisierung",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Automatisierung (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5f8a6b4fb0e612c0be2c"
+      },
+      {
+        "title": "Echelon Philippines 2025 – Lessons from the next generation: How today’s emerging founders are building bold, purposeful startups",
+        "url": "https://e27.co/echelon-philippines-2025-lessons-from-the-next-generation-how-todays-emerging-founders-are-building-bold-purposeful-startups-20260626/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-26T08:22:42+00:00",
+        "fetched_at": "2026-06-26T09:19:53+00:00",
+        "summary": "At Echelon Philippines 2025, a dynamic fireside chat brought together a new wave of Filipino founders shaping the startup landscape with purpose and boldness. Moderated by Ritch Traballo of NextHire, the session featured Alyssa Wee of Danny PH, Princess Ventures of BuddyBetes, Orange Silverio of Tambanokano Aqua Farm, and AC Alyzsa Dy of Villigro Philippines. […] The post Echelon Philippines 2025 – Lessons from the…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance",
+          "founder"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fdf1b2da9722073ecdf3"
       },
       {
         "title": "Airwallex doubles down on agentic commerce with US$320M funding round",
@@ -365,6 +409,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1ff8bde45ae46f363bd7"
+      },
+      {
+        "title": "ECB Consumer Expectations Survey results – May 2026",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-06-26T08:00:00+00:00",
+        "fetched_at": "2026-06-26T09:19:53+00:00",
+        "summary": "ECB Consumer Expectations Survey results – May 2026",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5c77bc26d7a768003dee"
       },
       {
         "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
@@ -687,6 +751,27 @@
         "id": "d6438ae5f00aaf04359a"
       },
       {
+        "title": "30代を捧げてきた技術が死にそう",
+        "url": "https://anond.hatelabo.jp/20250528222518",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T05:06:58+00:00",
+        "fetched_at": "2026-06-26T09:19:53+00:00",
+        "summary": "日本の端の方にいるIT技術者である。 30代をとある技術に全ベットしてきた。 数年前までは結構勢いがあったのだが、とある上位互換の技術の台頭により、一気にシェアを落としてしまった。 採算が取れないので会社としても、近々プロジェクトを終了させるだろう。IT技術なんて栄枯盛衰あって当然だが、実際に自分の携わっ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "971b03412e943e72397d"
+      },
+      {
         "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
         "url": "https://togetter.com/li/2713663",
         "source": "Hatena Bookmark Hotentry IT",
@@ -844,8 +929,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-26T05:07:53+00:00",
-      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "published_at": "2026-06-26T09:20:10+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -879,7 +964,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b2f5b0bfceb1281895e6"
+      "id": "ef7f1494bf8def70bf09"
     },
     {
       "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -926,6 +1011,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bae7a93d7ce9acc20299"
+    },
+    {
+      "title": "AMC Robotics to build US$3.5M Vietnam factory as SEA automation race heats up",
+      "url": "https://e27.co/amc-robotics-to-build-us3-5m-vietnam-factory-as-sea-automation-race-heats-up-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:49:41+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "China-affiliated AMC Robotics Corporation will invest US$3.5 million to build out and equip a new manufacturing facility in Vietnam’s Bac Ninh province, marking its first major production foothold in Southeast Asia as the region’s factories and warehouses gradually move towards automation. The company said it has signed a lease agreement for a 6,150-square-metre facility in […] The post AMC Robotics to build US$3.5M…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Automatisierung (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5f8a6b4fb0e612c0be2c"
+    },
+    {
+      "title": "Echelon Philippines 2025 – Lessons from the next generation: How today’s emerging founders are building bold, purposeful startups",
+      "url": "https://e27.co/echelon-philippines-2025-lessons-from-the-next-generation-how-todays-emerging-founders-are-building-bold-purposeful-startups-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:22:42+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "At Echelon Philippines 2025, a dynamic fireside chat brought together a new wave of Filipino founders shaping the startup landscape with purpose and boldness. Moderated by Ritch Traballo of NextHire, the session featured Alyssa Wee of Danny PH, Princess Ventures of BuddyBetes, Orange Silverio of Tambanokano Aqua Farm, and AC Alyzsa Dy of Villigro Philippines. […] The post Echelon Philippines 2025 – Lessons from the…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdf1b2da9722073ecdf3"
     },
     {
       "title": "Airwallex doubles down on agentic commerce with US$320M funding round",
@@ -1126,6 +1255,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1ff8bde45ae46f363bd7"
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – May 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:00:00+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "ECB Consumer Expectations Survey results – May 2026",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5c77bc26d7a768003dee"
     },
     {
       "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
@@ -1448,6 +1597,27 @@
       "id": "d6438ae5f00aaf04359a"
     },
     {
+      "title": "30代を捧げてきた技術が死にそう",
+      "url": "https://anond.hatelabo.jp/20250528222518",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T05:06:58+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "日本の端の方にいるIT技術者である。 30代をとある技術に全ベットしてきた。 数年前までは結構勢いがあったのだが、とある上位互換の技術の台頭により、一気にシェアを落としてしまった。 採算が取れないので会社としても、近々プロジェクトを終了させるだろう。IT技術なんて栄枯盛衰あって当然だが、実際に自分の携わっ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "971b03412e943e72397d"
+    },
+    {
       "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
       "url": "https://togetter.com/li/2713663",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1554,66 +1724,131 @@
   ],
   "new_findings": [
     {
-      "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
-      "url": "https://techblog.tebiki.co.jp/2026/06/26/154458",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-26T09:20:10+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ef7f1494bf8def70bf09"
+    },
+    {
+      "title": "AMC Robotics to build US$3.5M Vietnam factory as SEA automation race heats up",
+      "url": "https://e27.co/amc-robotics-to-build-us3-5m-vietnam-factory-as-sea-automation-race-heats-up-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:49:41+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "China-affiliated AMC Robotics Corporation will invest US$3.5 million to build out and equip a new manufacturing facility in Vietnam’s Bac Ninh province, marking its first major production foothold in Southeast Asia as the region’s factories and warehouses gradually move towards automation. The company said it has signed a lease agreement for a 6,150-square-metre facility in […] The post AMC Robotics to build US$3.5M…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Automatisierung (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5f8a6b4fb0e612c0be2c"
+    },
+    {
+      "title": "Echelon Philippines 2025 – Lessons from the next generation: How today’s emerging founders are building bold, purposeful startups",
+      "url": "https://e27.co/echelon-philippines-2025-lessons-from-the-next-generation-how-todays-emerging-founders-are-building-bold-purposeful-startups-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:22:42+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "At Echelon Philippines 2025, a dynamic fireside chat brought together a new wave of Filipino founders shaping the startup landscape with purpose and boldness. Moderated by Ritch Traballo of NextHire, the session featured Alyssa Wee of Danny PH, Princess Ventures of BuddyBetes, Orange Silverio of Tambanokano Aqua Farm, and AC Alyzsa Dy of Villigro Philippines. […] The post Echelon Philippines 2025 – Lessons from the…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdf1b2da9722073ecdf3"
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – May 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-06-26T08:00:00+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "ECB Consumer Expectations Survey results – May 2026",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5c77bc26d7a768003dee"
+    },
+    {
+      "title": "30代を捧げてきた技術が死にそう",
+      "url": "https://anond.hatelabo.jp/20250528222518",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-26T06:46:39+00:00",
-      "fetched_at": "2026-06-26T08:00:28+00:00",
-      "summary": "Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...",
+      "published_at": "2026-06-26T05:06:58+00:00",
+      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "summary": "日本の端の方にいるIT技術者である。 30代をとある技術に全ベットしてきた。 数年前までは結構勢いがあったのだが、とある上位互換の技術の台頭により、一気にシェアを落としてしまった。 採算が取れないので会社としても、近々プロジェクトを終了させるだろう。IT技術なんて栄枯盛衰あって当然だが、実際に自分の携わっ...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "36cdde73287260b2a805"
-    },
-    {
-      "title": "Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren",
-      "url": "https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-06-26T07:53:00.000+00:00",
-      "fetched_at": "2026-06-26T08:00:28+00:00",
-      "summary": "Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0ff28733fe49d9bbce5e"
-    },
-    {
-      "title": "Chrome: Zwei Updates in einer Woche",
-      "url": "https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:55:00.000+00:00",
-      "fetched_at": "2026-06-26T08:00:28+00:00",
-      "summary": "Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a5581ae8383a96544536"
+      "id": "971b03412e943e72397d"
     }
   ],
   "source_errors": [],

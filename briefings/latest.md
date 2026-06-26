@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T08:00:57+00:00_
+_Generiert: 2026-06-26T09:20:23+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+36 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,7 +83,7 @@ _Generiert: 2026-06-26T08:00:57+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T05:07:53+00:00`, fetched `2026-06-26T05:07:39+00:00`
+  - Zeit: published `2026-06-26T09:20:10+00:00`, fetched `2026-06-26T09:19:53+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -108,14 +108,23 @@ _Generiert: 2026-06-26T08:00:57+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月25日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Airwallex doubles down on agentic commerce with US$320M funding round** — Score 16, observation — [Quelle](https://e27.co/airwallex-doubles-down-on-agentic-commerce-with-us320m-funding-round-20260626/)
+- **AMC Robotics to build US$3.5M Vietnam factory as SEA automation race heats up** — Score 16, opportunity — [Quelle](https://e27.co/amc-robotics-to-build-us3-5m-vietnam-factory-as-sea-automation-race-heats-up-20260626/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-26T05:19:35+00:00`, fetched `2026-06-26T06:35:40+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, funding
+  - Zeit: published `2026-06-26T08:49:41+00:00`, fetched `2026-06-26T09:19:53+00:00`
+  - Treffer: APAC Trend Radar, Automatisierung, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
-  - Kurz: Airwallex has raised US$320 million in a Series H round, lifting its valuation to US$11 billion as the fintech company doubles down on AI-driven financial software, cross-border payments infrastructure, and regulatory expansion. The round was led by returning investor Addition, with participation from Baillie Gifford, Hummingbird, QED Investors, T. Rowe Price, Hedosophia, Haun Ventures, Washington […] The post Airwa…
+  - Warum relevant: Automatisierung (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: China-affiliated AMC Robotics Corporation will invest US$3.5 million to build out and equip a new manufacturing facility in Vietnam’s Bac Ninh province, marking its first major production foothold in Southeast Asia as the region’s factories and warehouses gradually move towards automation. The company said it has signed a lease agreement for a 6,150-square-metre facility in […] The post AMC Robotics to build US$3.5M…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Echelon Philippines 2025 – Lessons from the next generation: How today’s emerging founders are building bold, purposeful startups** — Score 16, observation — [Quelle](https://e27.co/echelon-philippines-2025-lessons-from-the-next-generation-how-todays-emerging-founders-are-building-bold-purposeful-startups-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-26T08:22:42+00:00`, fetched `2026-06-26T09:19:53+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: At Echelon Philippines 2025, a dynamic fireside chat brought together a new wave of Filipino founders shaping the startup landscape with purpose and boldness. Moderated by Ritch Traballo of NextHire, the session featured Alyssa Wee of Danny PH, Princess Ventures of BuddyBetes, Orange Silverio of Tambanokano Aqua Farm, and AC Alyzsa Dy of Villigro Philippines. […] The post Echelon Philippines 2025 – Lessons from the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude CodeのスキルでSLO対応を自動化したらめちゃくちゃ楽になった - Uzabase for Engineers** — Score 16, observation — [Quelle](https://tech.uzabase.com/entry/2026/06/26/100727)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -191,6 +200,15 @@ _Generiert: 2026-06-26T08:00:57+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: A few years ago, the logic of investing in AI seemed simpler: find the right model or product and bet on it. Today, models that take a year to build become obsolete in months. Betting on a specific AI product is like picking a favourite app at a moment when the operating system itself is […] The post Can Ukraine’s engineers help solve Japan’s tech talent crisis? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB Consumer Expectations Survey results – May 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-26T08:00:00+00:00`, fetched `2026-06-26T09:19:53+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB Consumer Expectations Survey results – May 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog** — Score 9, observation — [Quelle](https://techblog.tebiki.co.jp/2026/06/26/154458)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -291,20 +309,12 @@ _Generiert: 2026-06-26T08:00:57+00:00_
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5)
   - Kurz: Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type "this drops the refresh token", and the agent fixes it. You see exactly what changed, round by ro...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **google-labs-code/design.md** — Score 5, observation — [Quelle](https://github.com/google-labs-code/design.md)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-26T02:18:37+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. DESIGN.md A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. The Format A DESIGN.md file combines machine-readable design tokens (YAML front matter) with huma…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
