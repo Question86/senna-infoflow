@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T06:36:10+00:00",
-  "run_id": "2026-06-26T06:36:10+00:00",
+  "generated_at": "2026-06-26T08:00:57+00:00",
+  "run_id": "2026-06-26T08:00:57+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 3,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 1,
     "medium": 9,
-    "observe": 19,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -367,6 +367,28 @@
         "id": "1ff8bde45ae46f363bd7"
       },
       {
+        "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
+        "url": "https://techblog.tebiki.co.jp/2026/06/26/154458",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T06:46:39+00:00",
+        "fetched_at": "2026-06-26T08:00:28+00:00",
+        "summary": "Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "36cdde73287260b2a805"
+      },
+      {
         "title": "M 5.1 - south of the Kermadec Islands",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -481,6 +503,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9cb69037e21cce90b8ac"
+      },
+      {
+        "title": "Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren",
+        "url": "https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-06-26T07:53:00.000+00:00",
+        "fetched_at": "2026-06-26T08:00:28+00:00",
+        "summary": "Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ff28733fe49d9bbce5e"
+      },
+      {
+        "title": "Chrome: Zwei Updates in einer Woche",
+        "url": "https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-06-26T06:55:00.000+00:00",
+        "fetched_at": "2026-06-26T08:00:28+00:00",
+        "summary": "Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a5581ae8383a96544536"
       },
       {
         "title": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",
@@ -1066,6 +1128,28 @@
       "id": "1ff8bde45ae46f363bd7"
     },
     {
+      "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
+      "url": "https://techblog.tebiki.co.jp/2026/06/26/154458",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T06:46:39+00:00",
+      "fetched_at": "2026-06-26T08:00:28+00:00",
+      "summary": "Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36cdde73287260b2a805"
+    },
+    {
       "title": "M 5.1 - south of the Kermadec Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1180,6 +1264,46 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9cb69037e21cce90b8ac"
+    },
+    {
+      "title": "Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren",
+      "url": "https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-06-26T07:53:00.000+00:00",
+      "fetched_at": "2026-06-26T08:00:28+00:00",
+      "summary": "Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ff28733fe49d9bbce5e"
+    },
+    {
+      "title": "Chrome: Zwei Updates in einer Woche",
+      "url": "https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-06-26T06:55:00.000+00:00",
+      "fetched_at": "2026-06-26T08:00:28+00:00",
+      "summary": "Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5581ae8383a96544536"
     },
     {
       "title": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",
@@ -1430,271 +1554,66 @@
   ],
   "new_findings": [
     {
-      "title": "知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11007-b761d-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:08:00+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "知名網頁應用程式框架 TanStack 的 npm 套件近期遭到駭客組織 TeamPCP 發動名為「Mini Shai-Hulud」的大規模軟體供應鏈攻擊，攻擊者在短短幾分鐘內發布了 42 個 「@tanstack/*」套件的 84 個惡意版本。本次攻擊的惡意套件首次具備有效的 SLSA（軟體供應鏈安全框架）第3級來源證明，使其外觀與合法套件無異。該惡意軟體具備自我傳播能力，已迅速擴散至 Mistral AI、UiPath 與 OpenSearch 等 170 多個 npm 與 PyPI 套件，更導致知名 AI 企業 OpenAI 內部員工裝置遭入侵，部分原始碼專案庫遭未經授權存取。 根據 TanStack 官方發布的事後檢討報告，這次的攻擊之所以能成功，根本原因在於駭客將三個獨立的弱點串聯在一起，官方特別強調，這三項弱點「缺一不可」，單一弱點皆不足以構成此次的攻擊。以下是根據 TanStack 官方報告重新整理的三項弱點剖析…",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security",
-        "Supply Chain Security",
-        "TWCERT",
-        "Watchgraph:software_supply_chain"
-      ],
-      "relevance_score": 31,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); Supply Chain Security (+8.0); TWCERT (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0); watchgraph markets via cybersecurity, dev_infra: TEAM (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "software_supply_chain"
-      ],
-      "watchgraph_reasons": [
-        "software_supply_chain: npm, PyPI"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM"
-      ],
-      "id": "778c4918dacd4b8c4fb5"
-    },
-    {
-      "title": "Airwallex doubles down on agentic commerce with US$320M funding round",
-      "url": "https://e27.co/airwallex-doubles-down-on-agentic-commerce-with-us320m-funding-round-20260626/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-26T05:19:35+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "Airwallex has raised US$320 million in a Series H round, lifting its valuation to US$11 billion as the fintech company doubles down on AI-driven financial software, cross-border payments infrastructure, and regulatory expansion. The round was led by returning investor Addition, with participation from Baillie Gifford, Hummingbird, QED Investors, T. Rowe Price, Hedosophia, Haun Ventures, Washington […] The post Airwa…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "funding"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "79f7c5d25da29fc29f9a"
-    },
-    {
-      "title": "Claude CodeのスキルでSLO対応を自動化したらめちゃくちゃ楽になった - Uzabase for Engineers",
-      "url": "https://tech.uzabase.com/entry/2026/06/26/100727",
+      "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
+      "url": "https://techblog.tebiki.co.jp/2026/06/26/154458",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-26T03:35:43+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "こんにちは。ソーシャル経済メディア「NewsPicks」のPlatform Engineeringチームの崔（ちぇ）です。 昨今、エンジニアのやるほとんどの仕事は「それはClaudeに」というものばかりになった気がします。調査に限らず実装やPR作成、なんならChrome拡張を使えば動作確認までさっとできちゃいます。GithubのCopilotレビューな...",
+      "published_at": "2026-06-26T06:46:39+00:00",
+      "fetched_at": "2026-06-26T08:00:28+00:00",
+      "summary": "Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...",
       "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "GitHub",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI Agents (+6.2); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "35d47f904d929d2026f6"
-    },
-    {
-      "title": "旅遊 eSIM 的陷阱：流量路徑不揭露，出差人員連線資料恐暴露境外",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11008-3a0c6-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:15:00+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "美國東北大學研究團隊於 2025 年資安學術研討會 USENIX Security Symposium 發表實證研究報告《eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem》，針對數十款市售旅遊 eSIM 進行實際測試，發現多數旅遊 eSIM 採用Home-Routed Roaming（HRR）架構，使用者流量不會從當地網路直接出口，而是先回送至本籍網路（Home Network）業者的核心設施處理後才連上目的地服務。部分業者的本籍網路位於中國，因此使用者的流量會先經過中國電信業者的基礎設施。在 HRR 架構下，本籍網路可完整看到連線時間戳記、來源位置、DNS 查詢紀錄及所存取的服務端點，即使傳輸層已採用 TLS 加密，這些連線層級的紀錄仍可被側錄，且業者通常不會主動於商品頁面揭露相關資訊。 多款eSIM流量繞送中國電…",
-      "matched_keywords": [
-        "Datenschutz",
-        "Security",
-        "TWCERT"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+6.0); Datenschutz (+6.0); TWCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f1a19633bf0165f85222"
-    },
-    {
-      "title": "M 5.1 - south of the Kermadec Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:35:22.040+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "Time 2026-06-26 06:18:59 UTC 2026-06-26 06:18:59 UTC at epicenter Location 32.475°S 177.941°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
       "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e0f68e4a83af98c9adf1"
-    },
-    {
-      "title": "M 4.7 - 49 km NE of Barkhan, Pakistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8dg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:13:57.040+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "Time 2026-06-26 05:57:52 UTC 2026-06-26 05:57:52 UTC at epicenter Location 30.259°N 69.831°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ab7a32191ff29eb2e9d6"
-    },
-    {
-      "title": "新卒採用 業務説明会・イベント情報を掲載しました",
-      "url": "https://www.digital.go.jp/recruitment/recruiting-session",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:00:00+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "新卒採用 業務説明会・イベント情報を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "00e6a4665e989047582f"
+      "id": "36cdde73287260b2a805"
     },
     {
-      "title": "ゲックラー米日経済協議会会長による松本デジタル大臣表敬",
-      "url": "https://www.digital.go.jp/news/ca8d3026-6dfe-4c8a-9a61-72692e0e7ae2",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren",
+      "url": "https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-06-26T06:00:00+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "ゲックラー米日経済協議会会長による松本デジタル大臣表敬",
+      "published_at": "2026-06-26T07:53:00.000+00:00",
+      "fetched_at": "2026-06-26T08:00:28+00:00",
+      "summary": "Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "75eca63a3f210bd5651b"
+      "id": "0ff28733fe49d9bbce5e"
     },
     {
-      "title": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",
-      "url": "https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Chrome: Zwei Updates in einer Woche",
+      "url": "https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-06-26T06:00:00+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",
+      "published_at": "2026-06-26T06:55:00.000+00:00",
+      "fetched_at": "2026-06-26T08:00:28+00:00",
+      "summary": "Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c4ee41b4d45c41c827ec"
-    },
-    {
-      "title": "マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-26T06:00:00+00:00",
-      "fetched_at": "2026-06-26T06:35:40+00:00",
-      "summary": "マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ef5211b3df5d22c9166c"
+      "id": "a5581ae8383a96544536"
     }
   ],
   "source_errors": [],

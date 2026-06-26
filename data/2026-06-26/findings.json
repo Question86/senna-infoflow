@@ -334,6 +334,28 @@
     "id": "1ff8bde45ae46f363bd7"
   },
   {
+    "title": "AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog",
+    "url": "https://techblog.tebiki.co.jp/2026/06/26/154458",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:46:39+00:00",
+    "fetched_at": "2026-06-26T08:00:28+00:00",
+    "summary": "Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36cdde73287260b2a805"
+  },
+  {
     "title": "M 5.1 - south of the Kermadec Islands",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -448,6 +470,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9cb69037e21cce90b8ac"
+  },
+  {
+    "title": "Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren",
+    "url": "https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-26T07:53:00.000+00:00",
+    "fetched_at": "2026-06-26T08:00:28+00:00",
+    "summary": "Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ff28733fe49d9bbce5e"
+  },
+  {
+    "title": "Chrome: Zwei Updates in einer Woche",
+    "url": "https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:55:00.000+00:00",
+    "fetched_at": "2026-06-26T08:00:28+00:00",
+    "summary": "Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a5581ae8383a96544536"
   },
   {
     "title": "標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました",

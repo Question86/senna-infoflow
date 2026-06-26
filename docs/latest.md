@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T06:36:10+00:00_
+_Generiert: 2026-06-26T08:00:57+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+32 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -131,6 +131,15 @@ _Generiert: 2026-06-26T06:36:10+00:00_
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: A few years ago, the logic of investing in AI seemed simpler: find the right model or product and bet on it. Today, models that take a year to build become obsolete in months. Betting on a specific AI product is like picking a favourite app at a moment when the operating system itself is […] The post Can Ukraine’s engineers help solve Japan’s tech talent crisis? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI がコードを書く今だからこそ、「ものをつくる前に人をつくる」を考える - tebiki Tech Blog** — Score 9, observation — [Quelle](https://techblog.tebiki.co.jp/2026/06/26/154458)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-26T06:46:39+00:00`, fetched `2026-06-26T08:00:28+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-26T06:35:22.040+00:00`, fetched `2026-06-26T06:35:40+00:00`
@@ -167,6 +176,24 @@ _Generiert: 2026-06-26T06:36:10+00:00_
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. A self-hosted, real-time collaborative travel planner — with maps, budgets, packing lists, a journal, and AI built in. What you get See all features 🧭 Trip planning Drag & drop planner — organise places into day plans with reordering and cross-day moves Interactive map — Leaflet or Ma…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-26T07:53:00.000+00:00`, fetched `2026-06-26T08:00:28+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Chrome: Zwei Updates in einer Woche** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-26T06:55:00.000+00:00`, fetched `2026-06-26T08:00:28+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **標準型電子カルテ導入版の設計・開発業務において、令和8年度のプロダクトワーキンググループ構成員が決定しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/43124388-123a-484b-ac1b-350ee43dd679)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-26T06:00:00+00:00`, fetched `2026-06-26T06:35:40+00:00`
@@ -202,15 +229,6 @@ _Generiert: 2026-06-26T06:36:10+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5)
   - Kurz: Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type "this drops the refresh token", and the agent fixes it. You see exactly what changed, round by ro...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？** — Score 5, observation — [Quelle](https://togetter.com/li/2713663)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-26T00:05:40+00:00`, fetched `2026-06-26T02:18:37+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 概念 @yukimong 数日留守にするため、毛細管現象給水システムを採用。帰ってきたら……あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？ pic.x.com/Av0bMVSrgv 2026-06-25 11:25:35
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **google-labs-code/design.md** — Score 5, observation — [Quelle](https://github.com/google-labs-code/design.md)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
