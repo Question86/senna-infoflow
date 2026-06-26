@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-26T05:07:53+00:00",
+    "fetched_at": "2026-06-26T05:07:39+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b2f5b0bfceb1281895e6"
+  },
+  {
     "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
     "url": "https://e27.co/how-to-build-a-board-paper-that-actually-answers-what-are-we-being-asked-to-decide-20260622/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -44,6 +86,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bae7a93d7ce9acc20299"
+  },
+  {
+    "title": "ExpressUpdate Agent for Windowsにおける名前付きパイプに対するアクセス制御不備の脆弱性",
+    "url": "https://jvn.jp/jp/JVN35146924/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-26T14:00:00+09:00",
+    "fetched_at": "2026-06-26T05:07:39+00:00",
+    "summary": "日本電気株式会社が提供するExpressUpdate Agent for Windowsには、内部で使用している名前付きパイプのアクセス制御設定に不備が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "94bd31227b05267093d9"
   },
   {
     "title": "Claude Codeに「作業のやり方」を仕込んでみよう 無料でできるAgent Skills基礎学習",
@@ -239,6 +303,28 @@
     "id": "cc12750dfc13bbf3bcbc"
   },
   {
+    "title": "Crit - Point at the line. Tell the agent.",
+    "url": "https://crit.md/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-05-21T10:05:13+00:00",
+    "fetched_at": "2026-06-26T05:07:39+00:00",
+    "summary": "Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type \"this drops the refresh token\", and the agent fixes it. You see exactly what changed, round by ro...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d6438ae5f00aaf04359a"
+  },
+  {
     "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
     "url": "https://togetter.com/li/2713663",
     "source": "Hatena Bookmark Hotentry IT",
@@ -321,5 +407,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d0a9789d186eb8f4205d"
+  },
+  {
+    "title": "Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author",
+    "url": "https://e27.co/ecosystem-roundup-moneyheros-turnaround-story-has-an-uninvited-co-author-20260626/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-26T04:37:12+00:00",
+    "fetched_at": "2026-06-26T05:07:39+00:00",
+    "summary": "MoneyHero’s Q1 2026 results tell two stories at once. The first is a genuine turnaround: revenue up, user growth holding, and a business that has quietly rebuilt its fundamentals after a bruising post-SPAC period. The second is harder to spin away, a US$6.7M liability sitting on the balance sheet like an uninvited guest at a […] The post Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author appe…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3e2834936e46acf1521b"
   }
 ]

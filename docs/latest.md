@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T03:38:38+00:00_
+_Generiert: 2026-06-26T05:08:04+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „How to build a board paper that actually answers: ‘What are we being asked to decide?’“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-06-26T05:07:53+00:00`, fetched `2026-06-26T05:07:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How to build a board paper that actually answers: ‘What are we being asked to decide?’** — Score 22, risk — [Quelle](https://e27.co/how-to-build-a-board-paper-that-actually-answers-what-are-we-being-asked-to-decide-20260622/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-26T01:10:08+00:00`, fetched `2026-06-26T01:23:40+00:00`
@@ -29,6 +38,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月25日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ExpressUpdate Agent for Windowsにおける名前付きパイプに対するアクセス制御不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN35146924/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-26T14:00:00+09:00`, fetched `2026-06-26T05:07:39+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 日本電気株式会社が提供するExpressUpdate Agent for Windowsには、内部で使用している名前付きパイプのアクセス制御設定に不備が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Claude Codeに「作業のやり方」を仕込んでみよう 無料でできるAgent Skills基礎学習** — Score 14, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news059.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -114,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「令和6年度 各府省情報システムの経費実績（決算額）」と「令和6年度決算に基づく3割削減目標の進捗状況」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Crit - Point at the line. Tell the agent.** — Score 6, observation — [Quelle](https://crit.md/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-05-21T10:05:13+00:00`, fetched `2026-06-26T05:07:39+00:00`
+  - Treffer: agent, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5)
+  - Kurz: Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type "this drops the refresh token", and the agent fixes it. You see exactly what changed, round by ro...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？** — Score 5, observation — [Quelle](https://togetter.com/li/2713663)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-26T00:05:40+00:00`, fetched `2026-06-26T02:18:37+00:00`
@@ -122,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 概念 @yukimong 数日留守にするため、毛細管現象給水システムを採用。帰ってきたら……あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？ pic.x.com/Av0bMVSrgv 2026-06-25 11:25:35
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Apple Musicは広告付き無料プランを今後も一切やらない」――共同責任者に聞く“人間本位”の哲学** — Score 5, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/interview/2116997.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T16:55:27+00:00`, fetched `2026-06-26T01:23:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Apple Musicは広告付き無料プランを今後も一切やらない」――共同責任者に聞く“人間本位”の哲学
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **google-labs-code/design.md** — Score 5, observation — [Quelle](https://github.com/google-labs-code/design.md)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

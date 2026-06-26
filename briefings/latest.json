@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T03:38:38+00:00",
-  "run_id": "2026-06-26T03:38:38+00:00",
+  "generated_at": "2026-06-26T05:08:04+00:00",
+  "run_id": "2026-06-26T05:08:04+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,59 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 4,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 4,
-    "observe": 11,
+    "medium": 6,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-26T05:07:53+00:00",
+        "fetched_at": "2026-06-26T05:07:39+00:00",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "General Santos",
+          "Glan",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b2f5b0bfceb1281895e6"
+      },
       {
         "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
         "url": "https://e27.co/how-to-build-a-board-paper-that-actually-answers-what-are-we-being-asked-to-decide-20260622/",
@@ -74,6 +116,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bae7a93d7ce9acc20299"
+      },
+      {
+        "title": "ExpressUpdate Agent for Windowsにおける名前付きパイプに対するアクセス制御不備の脆弱性",
+        "url": "https://jvn.jp/jp/JVN35146924/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-06-26T14:00:00+09:00",
+        "fetched_at": "2026-06-26T05:07:39+00:00",
+        "summary": "日本電気株式会社が提供するExpressUpdate Agent for Windowsには、内部で使用している名前付きパイプのアクセス制御設定に不備が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "94bd31227b05267093d9"
       },
       {
         "title": "Claude Codeに「作業のやり方」を仕込んでみよう 無料でできるAgent Skills基礎学習",
@@ -271,6 +335,28 @@
         "id": "cc12750dfc13bbf3bcbc"
       },
       {
+        "title": "Crit - Point at the line. Tell the agent.",
+        "url": "https://crit.md/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-05-21T10:05:13+00:00",
+        "fetched_at": "2026-06-26T05:07:39+00:00",
+        "summary": "Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type \"this drops the refresh token\", and the agent fixes it. You see exactly what changed, round by ro...",
+        "matched_keywords": [
+          "agent",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d6438ae5f00aaf04359a"
+      },
+      {
         "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
         "url": "https://togetter.com/li/2713663",
         "source": "Hatena Bookmark Hotentry IT",
@@ -353,10 +439,72 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d0a9789d186eb8f4205d"
+      },
+      {
+        "title": "Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author",
+        "url": "https://e27.co/ecosystem-roundup-moneyheros-turnaround-story-has-an-uninvited-co-author-20260626/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-26T04:37:12+00:00",
+        "fetched_at": "2026-06-26T05:07:39+00:00",
+        "summary": "MoneyHero’s Q1 2026 results tell two stories at once. The first is a genuine turnaround: revenue up, user growth holding, and a business that has quietly rebuilt its fundamentals after a bruising post-SPAC period. The second is harder to spin away, a US$6.7M liability sitting on the balance sheet like an uninvited guest at a […] The post Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author appe…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3e2834936e46acf1521b"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-26T05:07:53+00:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b2f5b0bfceb1281895e6"
+    },
     {
       "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
       "url": "https://e27.co/how-to-build-a-board-paper-that-actually-answers-what-are-we-being-asked-to-decide-20260622/",
@@ -402,6 +550,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bae7a93d7ce9acc20299"
+    },
+    {
+      "title": "ExpressUpdate Agent for Windowsにおける名前付きパイプに対するアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN35146924/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-06-26T14:00:00+09:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "日本電気株式会社が提供するExpressUpdate Agent for Windowsには、内部で使用している名前付きパイプのアクセス制御設定に不備が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "94bd31227b05267093d9"
     },
     {
       "title": "Claude Codeに「作業のやり方」を仕込んでみよう 無料でできるAgent Skills基礎学習",
@@ -597,6 +767,28 @@
       "id": "cc12750dfc13bbf3bcbc"
     },
     {
+      "title": "Crit - Point at the line. Tell the agent.",
+      "url": "https://crit.md/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-05-21T10:05:13+00:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type \"this drops the refresh token\", and the agent fixes it. You see exactly what changed, round by ro...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d6438ae5f00aaf04359a"
+    },
+    {
       "title": "数日留守にするため『毛細管現象給水システム』を採用、帰ってきたら…あなたたちなんだか随分とお育ちになっていらっしゃいませんこと？",
       "url": "https://togetter.com/li/2713663",
       "source": "Hatena Bookmark Hotentry IT",
@@ -679,114 +871,134 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d0a9789d186eb8f4205d"
+    },
+    {
+      "title": "Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author",
+      "url": "https://e27.co/ecosystem-roundup-moneyheros-turnaround-story-has-an-uninvited-co-author-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T04:37:12+00:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "MoneyHero’s Q1 2026 results tell two stories at once. The first is a genuine turnaround: revenue up, user growth holding, and a business that has quietly rebuilt its fundamentals after a bruising post-SPAC period. The second is harder to spin away, a US$6.7M liability sitting on the balance sheet like an uninvited guest at a […] The post Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author appe…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3e2834936e46acf1521b"
     }
   ],
   "new_findings": [
     {
-      "title": "Claude Codeに「作業のやり方」を仕込んでみよう 無料でできるAgent Skills基礎学習",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news059.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-25T08:03:38+00:00",
-      "fetched_at": "2026-06-26T03:38:11+00:00",
-      "summary": "AnthropicのAIコーディングエージェント「Claude Code」で作業のやり方を仕込むための「Agent Skills」などの活用方法を解説。Claude Codeの基本操作を習得し、AIエージェントによる開発自動化や効率化に関心を持つエンジニアが、実践方法を学べる内容となっている。以下でその学習内容や、何に役立つのかを紹介する。 C...",
-      "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "76db01181e1d5d86b172"
-    },
-    {
-      "title": "Why the 4.1% PCE inflation print just turned crypto into a high beta risk asset",
-      "url": "https://e27.co/why-the-4-1-pce-inflation-print-just-turned-crypto-into-a-high-beta-risk-asset-20260626/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-26T03:27:18+00:00",
-      "fetched_at": "2026-06-26T03:38:11+00:00",
-      "summary": "The digital asset landscape is currently grappling with a severe wave of selling pressure that has pushed major cryptocurrencies to multi-month lows. This downturn stems from a combination of deteriorating macroeconomic conditions, heavy institutional redemptions, and an intense cascade of derivatives liquidations. Bitcoin has dropped 2.01 per cent over the past 24 hours to trade […] The post Why the 4.1% PCE inflat…",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-26T05:07:53+00:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Macro/Policy"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0917d80a6508a7673319"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b2f5b0bfceb1281895e6"
     },
     {
-      "title": "Can Ukraine’s engineers help solve Japan’s tech talent crisis?",
-      "url": "https://e27.co/can-ukraines-engineers-help-solve-japans-tech-talent-crisis-20260619/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ExpressUpdate Agent for Windowsにおける名前付きパイプに対するアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN35146924/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-06-26T02:45:29+00:00",
-      "fetched_at": "2026-06-26T03:38:11+00:00",
-      "summary": "A few years ago, the logic of investing in AI seemed simpler: find the right model or product and bet on it. Today, models that take a year to build become obsolete in months. Betting on a specific AI product is like picking a favourite app at a moment when the operating system itself is […] The post Can Ukraine’s engineers help solve Japan’s tech talent crisis? appeared first on e27 .",
+      "published_at": "2026-06-26T14:00:00+09:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "日本電気株式会社が提供するExpressUpdate Agent for Windowsには、内部で使用している名前付きパイプのアクセス制御設定に不備が存在します。",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1ff8bde45ae46f363bd7"
+      "id": "94bd31227b05267093d9"
     },
     {
-      "title": "松本大臣記者会見（令和8年6月26日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260626-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-26T03:05:23+00:00",
-      "fetched_at": "2026-06-26T03:38:11+00:00",
-      "summary": "松本大臣記者会見（令和8年6月26日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e2e492bae9c12a5e19ec"
-    },
-    {
-      "title": "git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点 - じゃあ、おうちで学べる",
-      "url": "https://syu-m-5151.hatenablog.com/entry/2026/06/26/004107",
+      "title": "Crit - Point at the line. Tell the agent.",
+      "url": "https://crit.md/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-25T15:58:05+00:00",
-      "fetched_at": "2026-06-26T03:38:11+00:00",
-      "summary": "はじめに 金曜の夜だった。10個のコミットを git rebase -i で並べ替えていた。4個目で衝突した。慌てて解決したが、解決を間違えた。git rebase --abort で巻き戻し、最初からやり直す。2回目はもっと雑になり、3回目で reflog を漁ってコミットを拾い直した。本番でもチームのリポジトリでもない。自分のローカルブラ...",
+      "published_at": "2026-05-21T10:05:13+00:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "Point at the line. Tell the agent. ▍ Your agent just touched 14 files. In the terminal you're scrolling through diffs hoping nothing broke. Crit opens those changes in a browser — click line 47, type \"this drops the refresh token\", and the agent fixes it. You see exactly what changed, round by ro...",
       "matched_keywords": [
+        "agent",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a95e820c5c792f9aabe7"
+      "id": "d6438ae5f00aaf04359a"
+    },
+    {
+      "title": "Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author",
+      "url": "https://e27.co/ecosystem-roundup-moneyheros-turnaround-story-has-an-uninvited-co-author-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T04:37:12+00:00",
+      "fetched_at": "2026-06-26T05:07:39+00:00",
+      "summary": "MoneyHero’s Q1 2026 results tell two stories at once. The first is a genuine turnaround: revenue up, user growth holding, and a business that has quietly rebuilt its fundamentals after a bruising post-SPAC period. The second is harder to spin away, a US$6.7M liability sitting on the balance sheet like an uninvited guest at a […] The post Ecosystem Roundup: MoneyHero’s turnaround story has an uninvited co-author appe…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3e2834936e46acf1521b"
     }
   ],
   "source_errors": [],
