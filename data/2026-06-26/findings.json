@@ -50,8 +50,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-26T13:46:44+00:00",
-    "fetched_at": "2026-06-26T14:05:33+00:00",
+    "published_at": "2026-06-26T16:50:06+00:00",
+    "fetched_at": "2026-06-26T16:49:52+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -85,7 +85,7 @@
       "HD",
       "LOW"
     ],
-    "id": "8a788bbfc958f8c7478b"
+    "id": "14ad3051425744731159"
   },
   {
     "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -521,6 +521,42 @@
     "id": "1ff8bde45ae46f363bd7"
   },
   {
+    "title": "M 4.9 - 52 km S of Boca de Yuma, Dominican Republic",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8g5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-26T16:49:02.322+00:00",
+    "fetched_at": "2026-06-26T16:49:52+00:00",
+    "summary": "DYFI? - IV Time 2026-06-26 16:06:48 UTC 2026-06-26 16:06:48 UTC at epicenter Location 17.904°N 68.553°W Depth 90.59 km (56.29 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e027d88fe893c304ef83"
+  },
+  {
     "title": "M 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -707,6 +743,28 @@
     "id": "ab7a32191ff29eb2e9d6"
   },
   {
+    "title": "MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+    "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-26T16:35:06+00:00",
+    "fetched_at": "2026-06-26T16:49:52+00:00",
+    "summary": "MAI-Code-1-Flash, Microsoft AI’s in-house coding model, is now generally available for GitHub Copilot Business and Copilot Enterprise, building on its recent expansion across Copilot surfaces. Purpose-built for coding and optimized… The post MAI-Code-1-Flash for Copilot Business and Copilot Enterprise appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "50bb75e9fd41eecfe9c8"
+  },
+  {
     "title": "Transitioning as a hubber",
     "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
     "source": "GitHub Blog Atom",
@@ -812,6 +870,26 @@
     "id": "a5581ae8383a96544536"
   },
   {
+    "title": "山梨県東部・富士五湖を震源とする地震に関する対応状況について",
+    "url": "https://www.digital.go.jp/news/d31994e4-a969-4197-9ca6-38c498877411",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-26T16:06:44+00:00",
+    "fetched_at": "2026-06-26T16:49:52+00:00",
+    "summary": "山梨県東部・富士五湖を震源とする地震に関する対応状況について",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1def07de644e5870c730"
+  },
+  {
     "title": "Building a better future: How sustainable architecture is leading the way for the built environment",
     "url": "https://e27.co/building-a-better-future-how-sustainable-architecture-is-leading-the-way-for-the-built-environment-20230321/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -891,6 +969,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "00e6a4665e989047582f"
+  },
+  {
+    "title": "公金受取口座の登録状況に関するダッシュボードのデータ更新を行いました",
+    "url": "https://www.digital.go.jp/resources/govdashboard/account_registration_status",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:00:00+00:00",
+    "fetched_at": "2026-06-26T16:49:52+00:00",
+    "summary": "公金受取口座の登録状況に関するダッシュボードのデータ更新を行いました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1f4735c4d8b46aaa53d5"
   },
   {
     "title": "マイナンバーカードの普及と利活用に関するダッシュボードのデータ更新を行いました",

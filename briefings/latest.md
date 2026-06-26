@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T15:59:21+00:00_
+_Generiert: 2026-06-26T16:50:19+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+54 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,10 @@ _Generiert: 2026-06-26T15:59:21+00:00_
   - Quelle: USGS
   - Zeit: `2026-06-26T11:34:41+00:00`
   - Kurz: M6.5 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 200 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548681)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 90 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548681)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 200 thousand in MMI V.
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 90 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548621)
   - Quelle: GDACS
   - Zeit: ``
@@ -95,7 +95,7 @@ _Generiert: 2026-06-26T15:59:21+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T13:46:44+00:00`, fetched `2026-06-26T14:05:33+00:00`
+  - Zeit: published `2026-06-26T16:50:06+00:00`, fetched `2026-06-26T16:49:52+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -240,6 +240,15 @@ _Generiert: 2026-06-26T15:59:21+00:00_
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The digital asset landscape is currently grappling with a severe wave of selling pressure that has pushed major cryptocurrencies to multi-month lows. This downturn stems from a combination of deteriorating macroeconomic conditions, heavy institutional redemptions, and an intense cascade of derivatives liquidations. Bitcoin has dropped 2.01 per cent over the past 24 hours to trade […] The post Why the 4.1% PCE inflat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 52 km S of Boca de Yuma, Dominican Republic** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8g5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-26T16:49:02.322+00:00`, fetched `2026-06-26T16:49:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-06-26 16:06:48 UTC 2026-06-26 16:06:48 UTC at epicenter Location 17.904°N 68.553°W Depth 90.59 km (56.29 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 7 km NE of Villa El Carmen, Nicaragua** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-26T12:21:59.094+00:00`, fetched `2026-06-26T12:24:34+00:00`
@@ -276,15 +285,15 @@ _Generiert: 2026-06-26T15:59:21+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Tebiki で CTO をしています渋谷（@shibukk）です。 先日、Don’t Hire Juniors to Write Code, Hire Them to Become Seniors という記事を読みました。AI がコードを書くようになった世界で、若手エンジニアを採用し、育てることをどう考えるのか。読んでいて、自分たちがいま向き合っている問いとも重なるところが多か...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-26T06:35:22.040+00:00`, fetched `2026-06-26T06:35:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-26 06:18:59 UTC 2026-06-26 06:18:59 UTC at epicenter Location 32.475°S 177.941°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **MAI-Code-1-Flash for Copilot Business and Copilot Enterprise** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-26T16:35:06+00:00`, fetched `2026-06-26T16:49:52+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: MAI-Code-1-Flash, Microsoft AI’s in-house coding model, is now generally available for GitHub Copilot Business and Copilot Enterprise, building on its recent expansion across Copilot surfaces. Purpose-built for coding and optimized… The post MAI-Code-1-Flash for Copilot Business and Copilot Enterprise appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Transitioning as a hubber** — Score 8, observation — [Quelle](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-06-26T12:00:00+00:00`, fetched `2026-06-26T12:24:34+00:00`
@@ -329,15 +338,6 @@ _Generiert: 2026-06-26T15:59:21+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Desktop 3.6: Worktrees and deeper Copilot integration** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-26T10:32:58+00:00`, fetched `2026-06-26T11:32:42+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: GitHub Desktop 3.6 brings more of your day-to-day Git flow into one place with GitHub Copilot now powering commit authoring and merge conflict resolution, plus new Git worktree support. The… The post GitHub Desktop 3.6: Worktrees and deeper Copilot integration appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
