@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T17:27:39+00:00_
+_Generiert: 2026-06-26T18:08:35+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,10 @@ _Generiert: 2026-06-26T17:27:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 10 thousand (in MMI&gt;=VII).
-- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
+- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.5 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI&gt;=VII).
+  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.5 million (in MMI&gt;=VII).
 - **GDACS: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548473)
   - Quelle: GDACS
   - Zeit: ``

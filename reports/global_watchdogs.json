@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T17:27:43+00:00",
+  "generated_at": "2026-06-26T18:08:39+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,8 +95,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI&gt;=VII).",
-        "summary": "Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI&gt;=VII).",
+        "title": "GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.5 million (in MMI&gt;=VII).",
+        "summary": "Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.5 million (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377",
         "published_at": "",
