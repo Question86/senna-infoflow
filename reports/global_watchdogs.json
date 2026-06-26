@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T01:24:08+00:00",
+  "generated_at": "2026-06-26T02:19:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,8 +75,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 330 thousand in MMI VI.",
+        "title": "GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 10 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381",
         "published_at": "",
