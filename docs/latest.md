@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-25T23:43:33+00:00_
+_Generiert: 2026-06-26T00:14:22+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+2 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年06月25日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -12,258 +12,31 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-25T23:06:01+00:00`, fetched `2026-06-25T23:05:46+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses** — Score 23, risk — [Quelle](https://e27.co/how-southeast-asias-agritech-startups-are-turning-smallholder-farms-into-high-tech-powerhouses-20250824/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T12:30:36+00:00`, fetched `2026-06-25T13:02:34+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, Southeast Asia, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: By 2030, Southeast Asia’s population will grow by more than 80 million, demanding more food than ever while farmland and water resources are under strain. The region’s agricultural sector, long rooted in traditional methods, is at a turning point. Agritech—tools like IoT sensors, AI-powered crop monitoring, and blockchain-based supply chains—is no longer a “nice to […] The post How Southeast Asia’s agritech startups…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Why AI agents will reshape customer journeys in Southeast Asia** — Score 22, opportunity — [Quelle](https://e27.co/why-ai-agents-will-reshape-customer-journeys-in-southeast-asia-20260619/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T02:10:31+00:00`, fetched `2026-06-25T02:11:48+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Southeast Asia, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Southeast Asia has never followed a single digital playbook. A customer in Thailand may expect to interact with a brand through LINE. A shopper in Indonesia or Malaysia may prefer WhatsApp. In Vietnam, Zalo remains deeply embedded in daily communication. In the Philippines, Messenger continues to shape how people connect, discover, and transact. This makes […] The post Why AI agents will reshape customer journeys in…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **How agents are transforming work** — Score 18, opportunity — [Quelle](https://openai.com/index/how-agents-are-transforming-work)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-25T02:00:00+00:00`, fetched `2026-06-25T09:09:06+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog** — Score 16, observation — [Quelle](https://tech.coincheck.blog/entry/codex-ttx)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T04:56:18+00:00`, fetched `2026-06-25T12:04:04+00:00`
-  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: PMO の Kuniwak です。今回は障害対応机上演習をコーディングエージェントと一緒に実施し、成果を挙げた話をします。 背景 障害対応の能力を計測して継続的に改善するには障害対応の机上演習が有効です。 再現度の高い机上演習を実施するには、ゲームマスターの役割を担う人間が必要になります。 ゲームマスターとはイン...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話** — Score 16, observation — [Quelle](https://codezine.jp/article/detail/24575?p=4)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-24T22:05:24+00:00`, fetched `2026-06-25T00:12:11+00:00`
-  - Treffer: AI/KI, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Transformer は何がすごかったのかを振り返る 今回のマンガでは、現代のAI（LLM）の基盤となった論文『Attention Is All You Need（必要なのは Attention だけ）』のエッセンスを学びました。ここで、重要なポイントを改めて整理しておきましょう。 1. なぜ「革命的」だったのか？ それまでのAIは、文章を端から順番に読...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **interviewstreet/hiring-agent** — Score 16, observation — [Quelle](https://github.com/interviewstreet/hiring-agent)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: AI agent to evaluate and score resumes. Hiring Agent Resume-to-Score pipeline that extracts structured data from PDFs, enriches with GitHub signals, and outputs a fair, explainable evaluation. Contents Overview Architecture Installation and Setup Prerequisites Quick setup with pip Ollama models Configuration How it works CLI usage Directory layout Provider details Contributing License Overview Hiring Agent parses a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks** — Score 15, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-25T22:59:45+00:00`, fetched `2026-06-25T23:05:46+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 93 km E of Union, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-25T21:36:21.040+00:00`, fetched `2026-06-25T21:55:32+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-25 21:17:49 UTC 2026-06-25 21:17:49 UTC at epicenter Location 9.892°N 126.952°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 24 km WSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t817)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-25T04:19:09.040+00:00`, fetched `2026-06-25T04:55:07+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-25 04:03:41 UTC 2026-06-25 04:03:41 UTC at epicenter Location 5.288°N 125.274°E Depth 75.13 km (46.68 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **東芝製およびDynabook製PC搭載Generic IO & Memory Access ドライバーのIOCTLインタフェースに対するアクセス制御が不十分** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91051826/)
+- **CISA ICS Advisory / ICS Medical Advisory（2026年06月25日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99109287/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-25T15:00:00+09:00`, fetched `2026-06-25T06:25:56+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+  - Zeit: published `2026-06-26T09:00:00+09:00`, fetched `2026-06-26T00:13:54+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 株式会社東芝およびDynabook株式会社が提供するPCに搭載されたGeneric IO &amp; Memory Access ドライバーのIOCTLインタフェースには、十分なアクセス制御が設定されていません。
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年06月25日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果｜Goodpatch Blog グッドパッチブログ** — Score 14, observation — [Quelle](https://goodpatch.com/blog/2026-06-github)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T10:34:59+00:00`, fetched `2026-06-25T20:39:16+00:00`
-  - Treffer: AI Agents, GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: ナレッジ・ノウハウ 生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果 こんにちは。グッドパッチのサービスデザイナーのぬまです。 グッドパッチのデザイナーは、クライアントワークとは別に「組織貢献活動」という社内プロジェクトを日々進めています...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **MoneyHero’s winning quarter has a US$6.7M problem** — Score 13, observation — [Quelle](https://e27.co/moneyheros-winning-quarter-has-a-us6-7m-problem-20260625/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T04:32:54+00:00`, fetched `2026-06-25T04:55:07+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: Paris (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
-  - Kurz: MoneyHero Group wants you to focus on the bright spots. Revenue climbed 15 per cent. Its shiny Wealth vertical surged 53 per cent. Its AI transformation story is compelling. And its Adjusted EBITDA loss? Down a whopping 68 per cent year-over-year to US$1.1 million. On the surface, the Singapore- and Hong Kong-based personal finance comparison […] The post MoneyHero’s winning quarter has a US$6.7M problem appeared fi…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Optical Disc Archive Software（Windows版）のインストーラにおけるインストール時の不適切なファイルアクセス権設定の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN79926428/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-16T12:00:00+09:00`, fetched `2026-06-25T07:48:42+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ソニー株式会社が提供するOptical Disc Archive Software（Windows版）のインストーラには、インストール時の不適切なファイルアクセス権設定の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Actions steps can now be run in parallel - GitHub Changelog** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel/)
+- **ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた** — Score 8, observation — [Quelle](https://zenn.dev/rescuenow/articles/535533464da3cf)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T18:56:26+00:00`, fetched `2026-06-25T23:05:46+00:00`
-  - Treffer: GitHub, GitHub Actions, Hatena, hotentry
+  - Zeit: published `2026-06-25T10:06:44+00:00`, fetched `2026-06-26T00:13:54+00:00`
+  - Treffer: GitHub, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: GitHub Actions now supports running steps concurrently using background. Previously, all steps in a workflow ran in sequence, with each step starting only after the previous step completed. Previously, you could run steps in a non-blocking way using shell backgrounding (&), but that often interle...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Value creation: Your US$900M AI is failing because humans don’t work the way you think** — Score 12, opportunity — [Quelle](https://e27.co/your-us900m-ai-is-failing-because-humans-dont-work-the-way-you-think-20260303/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T11:00:07+00:00`, fetched `2026-06-25T11:08:44+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Automatisierung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Olive AI raised US$902 million, deployed automation across 900 hospitals in 40 states, and was valued at US$4 billion at its 2021 peak. By October 2023, it was gone. Not because the AI failed — but because a routine Epic module update broke the bots, and hospitals found themselves adding human monitoring on top of […] The post Value creation: Your US$900M AI is failing because humans don’t work the way you think app…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **More control over your GitHub-hosted runners** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-25T18:16:46+00:00`, fetched `2026-06-25T20:39:16+00:00`
-  - Treffer: Actions, GitHub, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Public Health (+5.0); GitHub (+2.5); Actions (+2.0); recent (+1.0)
-  - Kurz: Organizations now have more control over who can use GitHub-hosted runners in Actions. Admins can now disable the standard labels for hosted runners such as ubuntu-latest, as well as add… The post More control over your GitHub-hosted runners appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **revfactory/harness** — Score 10, observation — [Quelle](https://github.com/revfactory/harness)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say "build a harness for this project" (English) or "하네스 구성해줘" (한국어) or "ハーネスを構成して" (日本語), and the plugin turns your domain description into an agent team and the skills…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Piero Cipollone: Central bank money for the digital era** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-25T12:00:00+00:00`, fetched `2026-06-25T12:04:04+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: Central bank money for the digital era
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **15 Southeast Asian semiconductor startups moving beyond assembly** — Score 9, observation — [Quelle](https://e27.co/15-southeast-asian-semiconductor-startups-moving-beyond-assembly-20260625/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-25T05:14:31+00:00`, fetched `2026-06-25T06:25:56+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
-  - Kurz: Southeast Asia’s semiconductor story is no longer limited to assembly, testing and outsourced manufacturing. This list points to a region, led largely by Singapore and Malaysia, that is building more of the stack itself: custom ASICs, silicon IP, chiplet packaging, photonics, test equipment and fab services. Some of these startups are tackling narrow but essential […] The post 15 Southeast Asian semiconductor startu…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Isabel Schnabel: Interview with Die Zeit** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-25T07:00:00+00:00`, fetched `2026-06-25T07:48:42+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Isabel Schnabel: Interview with Die Zeit
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AnthropicがAlibabaを「蒸留攻撃」で非難、Claudeに2880万回以上のアクセスか** — Score 8, observation — [Quelle](https://gigazine.net/news/20260625-anthropic-accuses-alibaba/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T05:01:21+00:00`, fetched `2026-06-25T20:39:16+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Claude」シリーズを展開しているAI企業のAnthropicが、中国のビッグテック・AlibabaのAI研究機関・Qwen labによる「蒸留攻撃」を受けているとして、ホワイトハウス関係者や上院議員に対して告発文を送付したことがわかりました。 Anthropic says Alibaba illicitly extracted Claude AI model capabilities | Reuters ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発** — Score 8, observation — [Quelle](https://gigazine.net/news/20260625-fujitsu-photon/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-25T03:09:39+00:00`, fetched `2026-06-25T19:53:33+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年6月24日、富士通が大規模言語モデル(LLM)の大幅なコスト削減を実現するアーキテクチャ「Parallel Hierarchical Operation for TOp-down Networks(PHOTON)」を発表しました。LLMの基盤アーキテクチャであるTransformerと比較して、GPUリソース当たりのスループットを最大475倍に改善します。 Transformerと比較し、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **JCodesMore/ai-website-cloner-template** — Score 8, observation — [Quelle](https://github.com/JCodesMore/ai-website-cloner-template)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-25T02:11:48+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone, template (x0.45)
-  - Kurz: Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and asset…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitsupdate: Kritische Client-Handshake-Lücke bedroht IBM Db2** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdate-Kritische-Client-Handshake-Luecke-bedroht-IBM-Db2-11344004.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-25T08:28:00.000+00:00`, fetched `2026-06-25T08:54:01+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer können Daten auf IBM-Db2-Systemen einsehen oder sogar Schadcode ausführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf Cisco Unified CM beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Cisco-Unified-CM-beobachtet-11343992.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-25T07:50:00.000+00:00`, fetched `2026-06-25T08:54:01+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Anfang des Monats hat Cisco eine hochriskante Sicherheitslücke in Unified Communications Manager gestopft. Jetzt wird sie attackiert.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Copilot code review: Analysis depth and efficiency updates** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-25T21:41:18+00:00`, fetched `2026-06-25T22:35:42+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: Copilot code review now uses the built-in file exploration tools available in the Copilot CLI and SDK, significantly improving review cost efficiency with no change to your existing workflow. If… The post Copilot code review: Analysis depth and efficiency updates appeared first on The GitHub Blog .
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: はじめに difit（ディフィット）は、ローカルのGit差分を、GitHubの「Files changed」のようなUIでブラウザ表示してレビューできるCLIツールです。ターミナルの git diff と異なり、シンタックスハイライト付きの差分表示や、差分へのコメント、AIコーディングエージェントへの連携といった機能を備えています。 この記...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
