@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T23:08:07+00:00_
+_Generiert: 2026-06-26T23:39:22+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+66 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -22,7 +22,7 @@ _Generiert: 2026-06-26T23:08:07+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T20:57:56+00:00`, fetched `2026-06-26T20:57:39+00:00`
+  - Zeit: published `2026-06-26T23:39:10+00:00`, fetched `2026-06-26T23:38:56+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW

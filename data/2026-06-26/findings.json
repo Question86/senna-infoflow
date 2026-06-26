@@ -50,8 +50,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-26T20:57:56+00:00",
-    "fetched_at": "2026-06-26T20:57:39+00:00",
+    "published_at": "2026-06-26T23:39:10+00:00",
+    "fetched_at": "2026-06-26T23:38:56+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -85,7 +85,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ee3e32f10fd4c2b377b0"
+    "id": "70283eba3ba5a05a37ad"
   },
   {
     "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -1441,6 +1441,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "96a0ecbd0db69adc8e4e"
+  },
+  {
+    "title": "経営者になって廃人となりすべてを失った弟",
+    "url": "https://anond.hatelabo.jp/20260626120948",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T03:21:28+00:00",
+    "fetched_at": "2026-06-26T23:38:56+00:00",
+    "summary": "時期はぼかすが今年、弟が死んだ。 44歳、心不全だった。 弟は統合失調症になって社会からリタイヤしてようやく治療の甲斐あって薬で日常生活は送れる程にはなっていた。 統合失調症罹患者は心不全での突然死のリスクが普通の人より30％近く高いので生活管理に気を付けてください、と主治医の先生からは聞いていた。 弟...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9bcefe019e84f37595db"
   },
   {
     "title": "final、“気持ちいい”に特化した極小耳栓「YOKONE」一般発売開始。2480円から",
