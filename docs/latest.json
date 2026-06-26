@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T21:36:50+00:00",
-  "run_id": "2026-06-26T21:36:50+00:00",
+  "generated_at": "2026-06-26T22:06:21+00:00",
+  "run_id": "2026-06-26T22:06:21+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 62,
     "displayed_findings": 62,
     "high": 1,
@@ -3054,51 +3054,7 @@
       "id": "3e2834936e46acf1521b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Track total merges by adoption phase in enterprise and organization reports",
-      "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-26T20:55:03+00:00",
-      "fetched_at": "2026-06-26T21:36:24+00:00",
-      "summary": "Building on the AI adoption phase cohorts added to the Copilot usage metrics API, organization and enterprise reports now report the total number of pull requests merged by each adoption… The post Track total merges by adoption phase in enterprise and organization reports appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1661ca9cc524ab913f30"
-    },
-    {
-      "title": "Bluesky、ユーザー数が4500万人を突破",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120504.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-26T09:56:18+00:00",
-      "fetched_at": "2026-06-26T21:36:24+00:00",
-      "summary": "Bluesky、ユーザー数が4500万人を突破",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4a2c8f8c9fceeb8350e5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
