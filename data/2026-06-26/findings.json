@@ -1,5 +1,28 @@
 [
   {
+    "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
+    "url": "https://e27.co/how-to-build-a-board-paper-that-actually-answers-what-are-we-being-asked-to-decide-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-26T01:10:08+00:00",
+    "fetched_at": "2026-06-26T01:23:40+00:00",
+    "summary": "Most Board packs on cyber, privacy, vendor exposure, and resilience fail in the same way. They contain activity, metrics, and updates, yet still leave senior decision makers unclear on what they are being asked to govern. One page shows phishing rates. Another shows patching. Another shows third-party incidents, privacy breaches, or resilience testing. Each page […] The post How to build a board paper that actually…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Content-Chance",
+      "Datenschutz",
+      "Security"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "Security (+6.0); Datenschutz (+6.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bdea48dc5ee54750be0c"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月25日）",
     "url": "https://jvn.jp/vu/JVNVU99109287/",
     "source": "JVN Japan Vulnerability Notes",
@@ -43,5 +66,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3988303ba35b4a4dba14"
+  },
+  {
+    "title": "「令和6年度 各府省情報システムの経費実績（決算額）」と「令和6年度決算に基づく3割削減目標の進捗状況」を掲載しました",
+    "url": "https://www.digital.go.jp/policies/development_management/cost-effectiveness",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:25:49+00:00",
+    "fetched_at": "2026-06-26T01:23:40+00:00",
+    "summary": "「令和6年度 各府省情報システムの経費実績（決算額）」と「令和6年度決算に基づく3割削減目標の進捗状況」を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cc12750dfc13bbf3bcbc"
+  },
+  {
+    "title": "「Apple Musicは広告付き無料プランを今後も一切やらない」――共同責任者に聞く“人間本位”の哲学",
+    "url": "https://k-tai.watch.impress.co.jp/docs/interview/2116997.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T16:55:27+00:00",
+    "fetched_at": "2026-06-26T01:23:40+00:00",
+    "summary": "「Apple Musicは広告付き無料プランを今後も一切やらない」――共同責任者に聞く“人間本位”の哲学",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "73818c1f1e0ce9f3797e"
   }
 ]
