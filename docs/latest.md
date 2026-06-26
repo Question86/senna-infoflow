@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T16:50:19+00:00_
+_Generiert: 2026-06-26T17:27:39+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+57 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 ## Priorität Hoch
 
@@ -22,7 +22,7 @@ _Generiert: 2026-06-26T16:50:19+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T16:50:06+00:00`, fetched `2026-06-26T16:49:52+00:00`
+  - Zeit: published `2026-06-26T17:20:32+00:00`, fetched `2026-06-26T17:27:11+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -56,6 +56,15 @@ _Generiert: 2026-06-26T16:50:19+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-06-26 11:34:42 UTC 2026-06-26 11:34:42 UTC at epicenter Location 5.346°N 125.129°E Depth 52.36 km (32.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Previewing GPT-5.6 Sol: a next-generation model** — Score 16, observation — [Quelle](https://openai.com/index/previewing-gpt-5-6-sol)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-26T10:00:00+00:00`, fetched `2026-06-26T17:27:11+00:00`
+  - Treffer: OpenAI, safety, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Security (+6.0); safety (+2.0); recent (+1.0)
+  - Kurz: OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年06月25日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99109287/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-06-26T09:00:00+09:00`, fetched `2026-06-26T00:13:54+00:00`
@@ -248,6 +257,15 @@ _Generiert: 2026-06-26T16:50:19+00:00_
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. A self-hosted, real-time collaborative travel planner — with maps, budgets, packing lists, a journal, and AI built in. What you get See all features 🧭 Trip planning Drag & drop planner — organise places into day plans with reordering and cross-day moves Interactive map — Leaflet or Ma…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **GitHub and UNDP team up to advance development priorities in Ghana with open source** — Score 7, opportunity — [Quelle](https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-06-26T16:53:57+00:00`, fetched `2026-06-26T17:27:11+00:00`
+  - Treffer: GitHub, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP team up to advance development priorities in Ghana with open source appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Netzwerkbetriebssystem Arista EOS: Angreifer können Systemdaten manipulieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Netzwerkbetriebssystem-Arista-EOS-Angreifer-koennen-Systemdaten-manipulieren-11344116.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-26T07:53:00.000+00:00`, fetched `2026-06-26T08:00:28+00:00`
@@ -257,22 +275,13 @@ _Generiert: 2026-06-26T16:50:19+00:00_
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Unter anderem eine kritische Sicherheitslücke gefährdet Netzwerkkomponenten mit Arista EOS. Noch sind nicht alle Updates verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Chrome: Zwei Updates in einer Woche** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-26T06:55:00.000+00:00`, fetched `2026-06-26T08:00:28+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
