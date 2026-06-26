@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T12:25:01+00:00",
-  "run_id": "2026-06-26T12:25:01+00:00",
+  "generated_at": "2026-06-26T13:16:19+00:00",
+  "run_id": "2026-06-26T13:16:19+00:00",
   "date": "2026-06-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 2,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 1,
     "medium": 12,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -81,8 +81,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-26T09:20:10+00:00",
-        "fetched_at": "2026-06-26T09:19:53+00:00",
+        "published_at": "2026-06-26T13:16:07+00:00",
+        "fetched_at": "2026-06-26T13:15:52+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -116,7 +116,7 @@
           "HD",
           "LOW"
         ],
-        "id": "ef7f1494bf8def70bf09"
+        "id": "1577433a5fe313d65479"
       },
       {
         "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -806,6 +806,26 @@
         "id": "a5581ae8383a96544536"
       },
       {
+        "title": "Building a better future: How sustainable architecture is leading the way for the built environment",
+        "url": "https://e27.co/building-a-better-future-how-sustainable-architecture-is-leading-the-way-for-the-built-environment-20230321/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-26T12:30:41+00:00",
+        "fetched_at": "2026-06-26T13:15:52+00:00",
+        "summary": "The Philippines has one of the highest electricity rates in the world, making sustainability a necessity in architecture. Architects and builders have been prioritising energy efficiency and sustainability in their designs, using renewable energy sources and sustainable materials such as bamboo, reclaimed wood, and recycled steel. This shift towards sustainable architecture is also reflected in […] The post Building…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "881f1ca3070d7190dc7a"
+      },
+      {
         "title": "GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
         "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
         "source": "GitHub Changelog Atom",
@@ -1210,8 +1230,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-26T09:20:10+00:00",
-      "fetched_at": "2026-06-26T09:19:53+00:00",
+      "published_at": "2026-06-26T13:16:07+00:00",
+      "fetched_at": "2026-06-26T13:15:52+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1245,7 +1265,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ef7f1494bf8def70bf09"
+      "id": "1577433a5fe313d65479"
     },
     {
       "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -1933,6 +1953,26 @@
       "id": "a5581ae8383a96544536"
     },
     {
+      "title": "Building a better future: How sustainable architecture is leading the way for the built environment",
+      "url": "https://e27.co/building-a-better-future-how-sustainable-architecture-is-leading-the-way-for-the-built-environment-20230321/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-26T12:30:41+00:00",
+      "fetched_at": "2026-06-26T13:15:52+00:00",
+      "summary": "The Philippines has one of the highest electricity rates in the world, making sustainability a necessity in architecture. Architects and builders have been prioritising energy efficiency and sustainability in their designs, using renewable energy sources and sustainable materials such as bamboo, reclaimed wood, and recycled steel. This shift towards sustainable architecture is also reflected in […] The post Building…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "881f1ca3070d7190dc7a"
+    },
+    {
       "title": "GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
       "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
       "source": "GitHub Changelog Atom",
@@ -2286,29 +2326,32 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.5 - 35 km SW of Balangonan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-26T12:13:01.570+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-06-26 11:34:42 UTC 2026-06-26 11:34:42 UTC at epicenter Location 5.346°N 125.129°E Depth 52.36 km (32.53 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-26T13:16:07+00:00",
+      "fetched_at": "2026-06-26T13:15:52+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -2322,186 +2365,27 @@
         "HD",
         "LOW"
       ],
-      "id": "2d7d25947839b04fd10f"
+      "id": "1577433a5fe313d65479"
     },
     {
-      "title": "When nation-states shape startup outcomes",
-      "url": "https://e27.co/when-nation-states-shape-startup-outcomes-20260204/",
+      "title": "Building a better future: How sustainable architecture is leading the way for the built environment",
+      "url": "https://e27.co/building-a-better-future-how-sustainable-architecture-is-leading-the-way-for-the-built-environment-20230321/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-26T11:32:50+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "Startup ecosystems are often portrayed as bottom-up systems driven by founders, venture capital, and technological breakthroughs. That view is incomplete. In practice, startup ecosystems are also downstream expressions of state power, shaped by policy decisions, institutional participation, and geopolitical alignment. This US withdrawal from international climate and energy institutions alters the conditions under w…",
+      "published_at": "2026-06-26T12:30:41+00:00",
+      "fetched_at": "2026-06-26T13:15:52+00:00",
+      "summary": "The Philippines has one of the highest electricity rates in the world, making sustainability a necessity in architecture. Architects and builders have been prioritising energy efficiency and sustainability in their designs, using renewable energy sources and sustainable materials such as bamboo, reclaimed wood, and recycled steel. This shift towards sustainable architecture is also reflected in […] The post Building…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Watchgraph:capitals_power_centers"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "3fefc15d92ab780463d6"
-    },
-    {
-      "title": "個人の資産運用、AIチャットで完結 銀行28社連合が28年度にも実現へ - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB246DY0U6A620C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-26T09:01:27+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "個人の資産運用を相談から商品購入手続きまで自律型の人工知能（AI）のチャットなどで一括対応できる仕組み作りが7月から始まる。三菱UFJフィナンシャル・グループなど3メガバンクを含む計28社が連携し、2028年度にも商用化を目指す。チャットなどのAIツールは投資家に金融サービスを使ってもらうための入り口になりつつ...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "367ca283ef4fff72682f"
-    },
-    {
-      "title": "M 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-26T12:21:59.094+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "DYFI? - III Time 2026-06-26 11:57:25 UTC 2026-06-26 11:57:25 UTC at epicenter Location 12.031°N 86.457°W Depth 120.48 km (74.86 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5ad9f70ecb6ed769179f"
-    },
-    {
-      "title": "M 5.2 - 52 km NNE of Barkhan, Pakistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-26T12:05:14.040+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "Time 2026-06-26 11:48:47 UTC 2026-06-26 11:48:47 UTC at epicenter Location 30.366°N 69.634°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "19739e0dbc1dfc00627b"
-    },
-    {
-      "title": "Transitioning as a hubber",
-      "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-26T12:00:00+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a hubber appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6975516b9cacd96e098e"
-    },
-    {
-      "title": "YouTubeショートのアップデートで「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能に",
-      "url": "https://gigazine.net/news/20260626-youtube-shorts-experience-updates-features/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-26T07:02:46+00:00",
-      "fetched_at": "2026-06-26T12:24:34+00:00",
-      "summary": "現地時間の2026年6月25日、YouTubeショートの新たなアップデートが順次展開され、「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能になると発表されました。 How we're updating the YouTube Shorts experience - YouTube Blog https://blog.youtube/news-and-events/youtube-shorts-experience-u...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1dbc5368ccc93f158b5d"
+      "id": "881f1ca3070d7190dc7a"
     }
   ],
   "source_errors": [],

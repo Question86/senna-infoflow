@@ -50,8 +50,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-26T09:20:10+00:00",
-    "fetched_at": "2026-06-26T09:19:53+00:00",
+    "published_at": "2026-06-26T13:16:07+00:00",
+    "fetched_at": "2026-06-26T13:15:52+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -85,7 +85,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ef7f1494bf8def70bf09"
+    "id": "1577433a5fe313d65479"
   },
   {
     "title": "How to build a board paper that actually answers: ‘What are we being asked to decide?’",
@@ -771,6 +771,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a5581ae8383a96544536"
+  },
+  {
+    "title": "Building a better future: How sustainable architecture is leading the way for the built environment",
+    "url": "https://e27.co/building-a-better-future-how-sustainable-architecture-is-leading-the-way-for-the-built-environment-20230321/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-26T12:30:41+00:00",
+    "fetched_at": "2026-06-26T13:15:52+00:00",
+    "summary": "The Philippines has one of the highest electricity rates in the world, making sustainability a necessity in architecture. Architects and builders have been prioritising energy efficiency and sustainability in their designs, using renewable energy sources and sustainable materials such as bamboo, reclaimed wood, and recycled steel. This shift towards sustainable architecture is also reflected in […] The post Building…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "881f1ca3070d7190dc7a"
   },
   {
     "title": "GitHub Desktop 3.6: Worktrees and deeper Copilot integration",

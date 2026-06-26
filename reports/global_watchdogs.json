@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:25:04+00:00",
+  "generated_at": "2026-06-26T13:16:22+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,8 +75,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.5M, Depth:52.357km) in Philippines 26/06/2026 11:34 UTC, 80 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.5M, Depth:52.357km) in Philippines 26/06/2026 11:34 UTC, 80 thousand in MMI VI.",
+        "title": "GDACS: Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668",
         "published_at": "",
@@ -115,15 +115,15 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.5 - 35 km SW of Balangonan, Philippines",
-        "summary": "M6.5 - 35 km SW of Balangonan, Philippines. PAGER alert: green. Tsunami flag: 0.",
+        "title": "USGS earthquake M6.5 - 34 km WSW of Sarangani, Philippines",
+        "summary": "M6.5 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec",
-        "published_at": "2026-06-26T11:34:42+00:00",
+        "published_at": "2026-06-26T11:34:41+00:00",
         "metrics": {
           "mag": 6.5,
           "alert": "green",
-          "sig": 657.0,
+          "sig": 668.0,
           "tsunami": 0
         }
       },

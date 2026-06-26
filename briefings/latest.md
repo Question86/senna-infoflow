@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-26T12:25:01+00:00_
+_Generiert: 2026-06-26T13:16:19+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
+47 neue relevante Treffer. Stärkstes Signal: „知名開源框架 TanStack 遭「Mini Shai-Hulud」供應鏈攻擊，開源安全風險受關注“ aus TWCERT/CC Security News RSS (Score 31, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-06-26T12:25:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Türkiye
-- **GDACS: Green earthquake (Magnitude 6.5M, Depth:52.357km) in Philippines 26/06/2026 11:34 UTC, 80 thousand in MMI VI.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668)
+- **GDACS: Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.5M, Depth:52.357km) in Philippines 26/06/2026 11:34 UTC, 80 thousand in MMI VI.
+  - Kurz: Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,10 +49,10 @@ _Generiert: 2026-06-26T12:25:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).
-- **USGS earthquake M6.5 - 35 km SW of Balangonan, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec)
+- **USGS earthquake M6.5 - 34 km WSW of Sarangani, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec)
   - Quelle: USGS
-  - Zeit: `2026-06-26T11:34:42+00:00`
-  - Kurz: M6.5 - 35 km SW of Balangonan, Philippines. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-06-26T11:34:41+00:00`
+  - Kurz: M6.5 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548621)
   - Quelle: GDACS
   - Zeit: ``
@@ -91,7 +91,7 @@ _Generiert: 2026-06-26T12:25:01+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-26T09:20:10+00:00`, fetched `2026-06-26T09:19:53+00:00`
+  - Zeit: published `2026-06-26T13:16:07+00:00`, fetched `2026-06-26T13:15:52+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
