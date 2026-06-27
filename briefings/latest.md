@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T16:15:43+00:00_
+_Generiert: 2026-06-27T16:43:49+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -148,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
   - Kurz: はじめに こんにちは、daishir0です。 普段はClaude Codeを趣味と開発でガシガシ使っていて、副産物として小さなシステムをいくつか公開しています。GitHubはこちらです。 以前、Claude Code Skill「cc-rsg」をWeb化した話 — OpenHandsという発見 という記事を書きました。その後も手を動かし続けていて、ようやく外に出...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **高騰する「Raspberry Pi」の代替策--安くて小さい「ESP32」を活用する** — Score 10, observation — [Quelle](https://japan.zdnet.com/article/35249206/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-27T00:56:38+00:00`, fetched `2026-06-27T16:43:24+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「必要は発明の母」と言われるが、「Raspberry Pi」の価格高騰は、より安価で用途に適した代替品を探す絶好のきっかけとなった。Raspberry Piは優れたボードだが、登場から約15年が経過する中で、筆者が試してきた多くの用途においてはオーバースペックな面もあった。 先日、帯域幅に限りのある環境で作業するに当たり、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 6.1 - 43 km S of Jurm, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-27T13:54:30.040+00:00`, fetched `2026-06-27T13:59:06+00:00`
@@ -175,15 +184,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-27 12:35:16 UTC 2026-06-27 12:35:16 UTC at epicenter Location 17.653°S 178.839°W Depth 531.39 km (330.19 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub** — Score 8, observation — [Quelle](https://developers.freee.co.jp/entry/authorization-design-as-a-user-story)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-26T02:18:55+00:00`, fetched `2026-06-27T01:15:40+00:00`
-  - Treffer: developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
-  - Kurz: 1. はじめに こんにちは、権限管理基盤チームで PdM をしている sentokun と申します。 私は基盤チームの立場でよくプロダクトチームから権限設計に関する相談を受けるのですが、実際にやっている内容に立ち返ると、それは業務フローとユーザーストーリーの整理に通じると感じています。 この記事では、権限設計という複...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ripienaar/free-for-dev** — Score 8, opportunity — [Quelle](https://github.com/ripienaar/free-for-dev)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-27T03:21:10+00:00`
