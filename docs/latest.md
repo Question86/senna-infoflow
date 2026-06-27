@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T19:16:45+00:00_
+_Generiert: 2026-06-27T19:51:14+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,14 +105,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「必要は発明の母」と言われるが、「Raspberry Pi」の価格高騰は、より安価で用途に適した代替品を探す絶好のきっかけとなった。Raspberry Piは優れたボードだが、登場から約15年が経過する中で、筆者が試してきた多くの用途においてはオーバースペックな面もあった。 先日、帯域幅に限りのある環境で作業するに当たり、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 6.1 - 43 km S of Jurm, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa)
+- **M 4.8 - 35 km NNE of El Limón, Venezuela** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-27T13:54:30.040+00:00`, fetched `2026-06-27T13:59:06+00:00`
+  - Zeit: published `2026-06-27T19:46:57.284+00:00`, fetched `2026-06-27T19:50:48+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-27 13:34:53 UTC 2026-06-27 13:34:53 UTC at epicenter Location 36.481°N 70.740°E Depth 208.33 km (129.45 mi)
+  - Kurz: DYFI? - IV Time 2026-06-27 19:20:36 UTC 2026-06-27 19:20:36 UTC at epicenter Location 10.602°N 67.511°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Isabel Schnabel: Is inflation back?** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
