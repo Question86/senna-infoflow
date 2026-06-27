@@ -42,6 +42,43 @@
     "id": "8a62e43dbd7372c06b77"
   },
   {
+    "title": "M 5.2 - 114 km SSW of Trenggalek, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8me",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-27T08:13:23.548+00:00",
+    "fetched_at": "2026-06-27T08:17:56+00:00",
+    "summary": "DYFI? - II Time 2026-06-27 07:47:23 UTC 2026-06-27 07:47:23 UTC at epicenter Location 8.956°S 111.150°E Depth 65.58 km (40.75 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2dab54fca3748d74d0b3"
+  },
+  {
     "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
     "source": "USGS M4.5+ Earthquakes Past Hour",
