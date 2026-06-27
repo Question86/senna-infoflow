@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:25:35+00:00",
+  "generated_at": "2026-06-27T11:59:09+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,21 +85,6 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.5 - 34 km WSW of Sarangani, Philippines",
-        "summary": "M6.5 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec",
-        "published_at": "2026-06-26T11:34:41+00:00",
-        "metrics": {
-          "mag": 6.5,
-          "alert": "green",
-          "sig": 676.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.",
         "summary": "Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.",
         "source": "GDACS",
@@ -136,21 +121,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.9 - 192 km N of Metinaro, Timor Leste",
-        "summary": "M5.9 - 192 km N of Metinaro, Timor Leste. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf",
-        "published_at": "2026-06-27T10:37:02+00:00",
-        "metrics": {
-          "mag": 5.9,
-          "alert": "green",
-          "sig": 536.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

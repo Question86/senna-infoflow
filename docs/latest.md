@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T11:25:31+00:00_
+_Generiert: 2026-06-27T11:59:07+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-27T04:44:08+00:00`, fetched `2026-06-27T04:43:52+00:00`
+  - Zeit: published `2026-06-27T11:58:55+00:00`, fetched `2026-06-27T11:58:40+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -69,6 +69,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **コードから仕様書を逆生成するWebアプリ「cc-rsg-web」を公開しました** — Score 11, observation — [Quelle](https://zenn.dev/daishiro/articles/cc-rsg-web-release)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-24T12:13:15+00:00`, fetched `2026-06-27T11:58:40+00:00`
+  - Treffer: AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
+  - Kurz: はじめに こんにちは、daishir0です。 普段はClaude Codeを趣味と開発でガシガシ使っていて、副産物として小さなシステムをいくつか公開しています。GitHubはこちらです。 以前、Claude Code Skill「cc-rsg」をWeb化した話 — OpenHandsという発見 という記事を書きました。その後も手を動かし続けていて、ようやく外に出...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 139 km E of Kirakira, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-27T11:40:41.040+00:00`, fetched `2026-06-27T11:58:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-27 11:23:02 UTC 2026-06-27 11:23:02 UTC at epicenter Location 10.655°S 163.181°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 63 km NNE of Barkhan, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-27T03:20:33.040+00:00`, fetched `2026-06-27T03:21:10+00:00`
@@ -77,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-27 03:06:21 UTC 2026-06-27 03:06:21 UTC at epicenter Location 30.455°N 69.686°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 98 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8l7)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-27T03:01:22.040+00:00`, fetched `2026-06-27T03:21:10+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-27 02:42:06 UTC 2026-06-27 02:42:06 UTC at epicenter Location 49.793°N 156.028°E Depth 79.81 km (49.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub** — Score 8, observation — [Quelle](https://developers.freee.co.jp/entry/authorization-design-as-a-user-story)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 300+ supported cars. Docs · Roadmap · Contribute · Community · Try it on a comma four Quick start: bash <(curl -fsSL openpilot.comma.ai) Using openpilot in a car To use openpilot in a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita** — Score 7, observation — [Quelle](https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-26T22:59:35+00:00`, fetched `2026-06-27T04:43:52+00:00`
-  - Treffer: agent, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
-  - Kurz: 既存のナレッジストアとの関係 オントロジーがGenie Agent(旧Genie Space)でも効くとなると、従来のナレッジストアの立ち位置が気になります。ここも置き換えではなく共存で、スコープによる役割分担になります。 ナレッジストアの正体 ナレッジストアは、Spaceレベルのメタデータ、プロンプトマッチング(format assista...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
