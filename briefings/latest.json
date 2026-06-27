@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T22:40:03+00:00",
-  "run_id": "2026-06-27T22:40:03+00:00",
+  "generated_at": "2026-06-27T23:08:55+00:00",
+  "run_id": "2026-06-27T23:08:55+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 2,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 6,
-    "observe": 29,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -780,6 +780,27 @@
         "id": "b336bd9920098cc3b5da"
       },
       {
+        "title": "最近は企業からメールアドレスが漏れることが多いがメールアドレスのドメインに「＋〇〇」のように変えて特定する方法がある「これを拒否するところは…」",
+        "url": "https://togetter.com/li/2714363",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T15:53:15+00:00",
+        "fetched_at": "2026-06-27T23:08:30+00:00",
+        "summary": "kakakaya @kakakaya かっぱ寿司のメールアドレス漏洩疑惑が話題だけど、 メールアドレスの登録をさせられるときにサービスのドメインを「example+www.kappasushi .jp @ gmail.com」のように登録することで漏洩されたときにすぐどこか犯人がわかるライフハック……への対策として、 メールアドレス登録時に「+を含む記号は...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "39122c70d41e04326a09"
+      },
+      {
         "title": "エンジニアとして尊敬してた先輩が変わり果てて哀しい",
         "url": "https://anond.hatelabo.jp/20260627180014",
         "source": "Hatena Bookmark Hotentry IT",
@@ -841,6 +862,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f1d13d1fd229a2e6b6e3"
+      },
+      {
+        "title": "ソニー「aiboはやめません」──“次の開発”も明かす オーナーに「安心してください」と呼びかけ",
+        "url": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T06:54:33+00:00",
+        "fetched_at": "2026-06-27T23:08:30+00:00",
+        "summary": "6月25日、ソニーグループが突如として発表した自律型エンタテインメントロボット「aibo」の現行機「ERS-1000」の国内販売終了は、ネット上に大きな波紋を広げた。しかし、不安に揺れるオーナーたちに向けて、ソニーはすぐさま行動を起こした。6月27日の正午、公式YouTubeチャンネルで急きょ特別配信を実施し、「aiboはや...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d49422ab6a1f373219d"
       },
       {
         "title": "システム開発と「具体と抽象」 | 技術評論社",
@@ -1762,6 +1804,27 @@
       "id": "b336bd9920098cc3b5da"
     },
     {
+      "title": "最近は企業からメールアドレスが漏れることが多いがメールアドレスのドメインに「＋〇〇」のように変えて特定する方法がある「これを拒否するところは…」",
+      "url": "https://togetter.com/li/2714363",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T15:53:15+00:00",
+      "fetched_at": "2026-06-27T23:08:30+00:00",
+      "summary": "kakakaya @kakakaya かっぱ寿司のメールアドレス漏洩疑惑が話題だけど、 メールアドレスの登録をさせられるときにサービスのドメインを「example+www.kappasushi .jp @ gmail.com」のように登録することで漏洩されたときにすぐどこか犯人がわかるライフハック……への対策として、 メールアドレス登録時に「+を含む記号は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39122c70d41e04326a09"
+    },
+    {
       "title": "エンジニアとして尊敬してた先輩が変わり果てて哀しい",
       "url": "https://anond.hatelabo.jp/20260627180014",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1823,6 +1886,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f1d13d1fd229a2e6b6e3"
+    },
+    {
+      "title": "ソニー「aiboはやめません」──“次の開発”も明かす オーナーに「安心してください」と呼びかけ",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T06:54:33+00:00",
+      "fetched_at": "2026-06-27T23:08:30+00:00",
+      "summary": "6月25日、ソニーグループが突如として発表した自律型エンタテインメントロボット「aibo」の現行機「ERS-1000」の国内販売終了は、ネット上に大きな波紋を広げた。しかし、不安に揺れるオーナーたちに向けて、ソニーはすぐさま行動を起こした。6月27日の正午、公式YouTubeチャンネルで急きょ特別配信を実施し、「aiboはや...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d49422ab6a1f373219d"
     },
     {
       "title": "システム開発と「具体と抽象」 | 技術評論社",
@@ -1995,46 +2079,46 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-27T22:39:52+00:00",
-      "fetched_at": "2026-06-27T22:39:36+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "最近は企業からメールアドレスが漏れることが多いがメールアドレスのドメインに「＋〇〇」のように変えて特定する方法がある「これを拒否するところは…」",
+      "url": "https://togetter.com/li/2714363",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T15:53:15+00:00",
+      "fetched_at": "2026-06-27T23:08:30+00:00",
+      "summary": "kakakaya @kakakaya かっぱ寿司のメールアドレス漏洩疑惑が話題だけど、 メールアドレスの登録をさせられるときにサービスのドメインを「example+www.kappasushi .jp @ gmail.com」のように登録することで漏洩されたときにすぐどこか犯人がわかるライフハック……への対策として、 メールアドレス登録時に「+を含む記号は...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39122c70d41e04326a09"
+    },
+    {
+      "title": "ソニー「aiboはやめません」──“次の開発”も明かす オーナーに「安心してください」と呼びかけ",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T06:54:33+00:00",
+      "fetched_at": "2026-06-27T23:08:30+00:00",
+      "summary": "6月25日、ソニーグループが突如として発表した自律型エンタテインメントロボット「aibo」の現行機「ERS-1000」の国内販売終了は、ネット上に大きな波紋を広げた。しかし、不安に揺れるオーナーたちに向けて、ソニーはすぐさま行動を起こした。6月27日の正午、公式YouTubeチャンネルで急きょ特別配信を実施し、「aiboはや...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8f189eb52cde95e13415"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d49422ab6a1f373219d"
     }
   ],
   "source_errors": [],
