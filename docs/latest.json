@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T22:11:48+00:00",
-  "run_id": "2026-06-27T22:11:48+00:00",
+  "generated_at": "2026-06-27T22:40:03+00:00",
+  "run_id": "2026-06-27T22:40:03+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-27T22:11:36+00:00",
-        "fetched_at": "2026-06-27T22:11:21+00:00",
+        "published_at": "2026-06-27T22:39:52+00:00",
+        "fetched_at": "2026-06-27T22:39:36+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "6fb661e0d965466e0353"
+        "id": "8f189eb52cde95e13415"
       },
       {
         "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
@@ -1018,8 +1018,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-27T22:11:36+00:00",
-      "fetched_at": "2026-06-27T22:11:21+00:00",
+      "published_at": "2026-06-27T22:39:52+00:00",
+      "fetched_at": "2026-06-27T22:39:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1053,7 +1053,7 @@
         "HD",
         "LOW"
       ],
-      "id": "6fb661e0d965466e0353"
+      "id": "8f189eb52cde95e13415"
     },
     {
       "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
@@ -1999,8 +1999,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-27T22:11:36+00:00",
-      "fetched_at": "2026-06-27T22:11:21+00:00",
+      "published_at": "2026-06-27T22:39:52+00:00",
+      "fetched_at": "2026-06-27T22:39:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2034,28 +2034,7 @@
         "HD",
         "LOW"
       ],
-      "id": "6fb661e0d965466e0353"
-    },
-    {
-      "title": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-27T20:20:02+00:00",
-      "fetched_at": "2026-06-27T22:11:21+00:00",
-      "summary": "元従業員の溶接工や技術者も「ミリオネア」に。2002年にイーロン・マスク氏が創業したスペースXの上場でおよそ4400人がミリオネアになったと報じられている。過去に給与の代わりに付与されたり上場前から購入していたりしたスペースX株が上場により大きな価値がついたからだ。人類史上最大の資本投資競争を呼び込んでい...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "754fef6435cfbd2c9de4"
+      "id": "8f189eb52cde95e13415"
     }
   ],
   "source_errors": [],
