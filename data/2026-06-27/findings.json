@@ -390,6 +390,27 @@
     "id": "f1d13d1fd229a2e6b6e3"
   },
   {
+    "title": "システム開発と「具体と抽象」 | 技術評論社",
+    "url": "https://gihyo.jp/book/2026/978-4-297-15790-6",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-27T02:15:50+00:00",
+    "fetched_at": "2026-06-27T10:49:35+00:00",
+    "summary": "著者 細谷功（ほそやいさお） 著 定価 2,200円（本体2,000円＋税10%） 発売日 2026.7.28 判型 四六 頁数 272ページ ISBN 978-4-297-15790-6 978-4-297-15791-3 概要 システム開発の現場で、こんな思いをしたことはないでしょうか。「で、具体的に何を作ればいいんですか」 経営者の語る構想も、コンサルタントの描く青...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bd2b9fd45139a1c14c78"
+  },
+  {
     "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
     "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
     "source": "Hatena Bookmark Hotentry IT",

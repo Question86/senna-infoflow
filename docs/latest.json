@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T10:04:47+00:00",
-  "run_id": "2026-06-27T10:04:47+00:00",
+  "generated_at": "2026-06-27T10:50:03+00:00",
+  "run_id": "2026-06-27T10:50:03+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 3,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -420,6 +420,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f1d13d1fd229a2e6b6e3"
+      },
+      {
+        "title": "システム開発と「具体と抽象」 | 技術評論社",
+        "url": "https://gihyo.jp/book/2026/978-4-297-15790-6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T02:15:50+00:00",
+        "fetched_at": "2026-06-27T10:49:35+00:00",
+        "summary": "著者 細谷功（ほそやいさお） 著 定価 2,200円（本体2,000円＋税10%） 発売日 2026.7.28 判型 四六 頁数 272ページ ISBN 978-4-297-15790-6 978-4-297-15791-3 概要 システム開発の現場で、こんな思いをしたことはないでしょうか。「で、具体的に何を作ればいいんですか」 経営者の語る構想も、コンサルタントの描く青...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd2b9fd45139a1c14c78"
       },
       {
         "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
@@ -920,6 +941,27 @@
       "id": "f1d13d1fd229a2e6b6e3"
     },
     {
+      "title": "システム開発と「具体と抽象」 | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-15790-6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T02:15:50+00:00",
+      "fetched_at": "2026-06-27T10:49:35+00:00",
+      "summary": "著者 細谷功（ほそやいさお） 著 定価 2,200円（本体2,000円＋税10%） 発売日 2026.7.28 判型 四六 頁数 272ページ ISBN 978-4-297-15790-6 978-4-297-15791-3 概要 システム開発の現場で、こんな思いをしたことはないでしょうか。「で、具体的に何を作ればいいんですか」 経営者の語る構想も、コンサルタントの描く青...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd2b9fd45139a1c14c78"
+    },
+    {
       "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
       "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1027,61 +1069,13 @@
   ],
   "new_findings": [
     {
-      "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
-      "url": "https://blog.lai.so/pi-coding-agent/",
+      "title": "システム開発と「具体と抽象」 | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-15790-6",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-27T06:04:30+00:00",
-      "fetched_at": "2026-06-27T10:04:21+00:00",
-      "summary": "Pi Coding Agentは、Mario Zechner氏が開発しているOSSのターミナル型コーディングエージェントです。 Pi Coding AgentA terminal-based coding agentなぜ今Piを紹介するのか。コーディングエージェントは、Claude Code、Codex、Cursor、OpenCode、Hermes Agent、OpenClawなど選択肢が増えました。 一方で、関心はモデル...",
-      "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "49b61dfa3baf778c7f9c"
-    },
-    {
-      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月後に一方的キャンセル…電話はつながらずAI対応へ誘導され困惑と不満が止まらない",
-      "url": "https://togetter.com/li/2714197",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-27T08:18:47+00:00",
-      "fetched_at": "2026-06-27T10:04:21+00:00",
-      "summary": "CORE @daddymulk2013 DELLパソ、入金まで済んでるのに遅延の嵐だわ、値上げ告知だわ挙句の果て3か月経って一方的にキャンセルしてきおった、、、こっちからのキャンセルは受け付けないとか言って、コンプライアンスを盾に責任回避 これが2026年か。。。。（ ｉ _ ｉ ） 2026-06-26 11:52:18 CORE @daddymulk2013 2週間で...",
+      "published_at": "2026-06-27T02:15:50+00:00",
+      "fetched_at": "2026-06-27T10:49:35+00:00",
+      "summary": "著者 細谷功（ほそやいさお） 著 定価 2,200円（本体2,000円＋税10%） 発売日 2026.7.28 判型 四六 頁数 272ページ ISBN 978-4-297-15790-6 978-4-297-15791-3 概要 システム開発の現場で、こんな思いをしたことはないでしょうか。「で、具体的に何を作ればいいんですか」 経営者の語る構想も、コンサルタントの描く青...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1093,7 +1087,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f1d13d1fd229a2e6b6e3"
+      "id": "bd2b9fd45139a1c14c78"
     }
   ],
   "source_errors": [],
