@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T13:14:13+00:00_
+_Generiert: 2026-06-27T13:59:34+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-06-27T13:14:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 40 thousand (in MMI&gt;=VII).
+- **USGS earthquake M6.1 - 43 km S of Jurm, Afghanistan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa)
+  - Quelle: USGS
+  - Zeit: `2026-06-27T13:34:53+00:00`
+  - Kurz: M6.1 - 43 km S of Jurm, Afghanistan. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548825)
   - Quelle: GDACS
   - Zeit: ``
@@ -71,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-27T12:41:44+00:00`, fetched `2026-06-27T12:41:28+00:00`
+  - Zeit: published `2026-06-27T13:59:22+00:00`, fetched `2026-06-27T13:59:06+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -135,6 +139,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
   - Kurz: はじめに こんにちは、daishir0です。 普段はClaude Codeを趣味と開発でガシガシ使っていて、副産物として小さなシステムをいくつか公開しています。GitHubはこちらです。 以前、Claude Code Skill「cc-rsg」をWeb化した話 — OpenHandsという発見 という記事を書きました。その後も手を動かし続けていて、ようやく外に出...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 6.1 - 43 km S of Jurm, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-27T13:54:30.040+00:00`, fetched `2026-06-27T13:59:06+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-27 13:34:53 UTC 2026-06-27 13:34:53 UTC at epicenter Location 36.481°N 70.740°E Depth 208.33 km (129.45 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Isabel Schnabel: Is inflation back?** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-27T13:45:00+00:00`, fetched `2026-06-27T13:59:06+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Isabel Schnabel: Is inflation back?
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 200 km ENE of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8p3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-27T12:51:43.040+00:00`, fetched `2026-06-27T13:13:46+00:00`
@@ -143,15 +165,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-27 12:35:16 UTC 2026-06-27 12:35:16 UTC at epicenter Location 17.653°S 178.839°W Depth 531.39 km (330.19 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 139 km E of Kirakira, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-27T11:40:41.040+00:00`, fetched `2026-06-27T11:58:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-27 11:23:02 UTC 2026-06-27 11:23:02 UTC at epicenter Location 10.655°S 163.181°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub** — Score 8, observation — [Quelle](https://developers.freee.co.jp/entry/authorization-design-as-a-user-story)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
