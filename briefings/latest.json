@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T21:15:04+00:00",
-  "run_id": "2026-06-27T21:15:04+00:00",
+  "generated_at": "2026-06-27T21:42:29+00:00",
+  "run_id": "2026-06-27T21:42:29+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -1951,29 +1951,7 @@
       "id": "a1d7eaf40c1d95f64e37"
     }
   ],
-  "new_findings": [
-    {
-      "title": "エンジニアとして尊敬してた先輩が変わり果てて哀しい",
-      "url": "https://anond.hatelabo.jp/20260627180014",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-27T09:09:32+00:00",
-      "fetched_at": "2026-06-27T21:14:36+00:00",
-      "summary": "30代を捧げてきた技術が死にそう https://anond.hatelabo.jp/20250528222518 という記事を読んで、ふと始めて勤めたITベンチャーで世話になって物凄い憧れだった先輩の話を思い出した。 というか本人かもしれない、そうだったらちょっと謝りたい リアルで他の友人知人や関係者に吐き出すわけにもいかないモヤモヤを、愚...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "720cb671bffd2d351711"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

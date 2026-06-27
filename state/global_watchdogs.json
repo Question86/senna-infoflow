@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:15:07+00:00",
+  "generated_at": "2026-06-27T21:42:31+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,8 +85,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Japan 27/06/2026 20:21 UTC, 940 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:35km) in Japan 27/06/2026 20:21 UTC, 940 thousand in MMI IV.",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889",
         "published_at": "",
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548621",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 51 km ENE of Noda, Japan",
-        "summary": "M5.8 - 51 km ENE of Noda, Japan. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd",
-        "published_at": "2026-06-27T20:21:50+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "green",
-          "sig": 519.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
