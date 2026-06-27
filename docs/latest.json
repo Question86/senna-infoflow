@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T21:42:29+00:00",
-  "run_id": "2026-06-27T21:42:29+00:00",
+  "generated_at": "2026-06-27T22:11:48+00:00",
+  "run_id": "2026-06-27T22:11:48+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 2,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 6,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-27T13:59:22+00:00",
-        "fetched_at": "2026-06-27T13:59:06+00:00",
+        "published_at": "2026-06-27T22:11:36+00:00",
+        "fetched_at": "2026-06-27T22:11:21+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "12898b2464f31c2e8999"
+        "id": "6fb661e0d965466e0353"
       },
       {
         "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
@@ -737,6 +737,27 @@
         "id": "bfc1fc14c5c953db7a0f"
       },
       {
+        "title": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T20:20:02+00:00",
+        "fetched_at": "2026-06-27T22:11:21+00:00",
+        "summary": "元従業員の溶接工や技術者も「ミリオネア」に。2002年にイーロン・マスク氏が創業したスペースXの上場でおよそ4400人がミリオネアになったと報じられている。過去に給与の代わりに付与されたり上場前から購入していたりしたスペースX株が上場により大きな価値がついたからだ。人類史上最大の資本投資競争を呼び込んでい...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "754fef6435cfbd2c9de4"
+      },
+      {
         "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
         "url": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
         "source": "Hatena Bookmark Hotentry IT",
@@ -997,8 +1018,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-27T13:59:22+00:00",
-      "fetched_at": "2026-06-27T13:59:06+00:00",
+      "published_at": "2026-06-27T22:11:36+00:00",
+      "fetched_at": "2026-06-27T22:11:21+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1032,7 +1053,7 @@
         "HD",
         "LOW"
       ],
-      "id": "12898b2464f31c2e8999"
+      "id": "6fb661e0d965466e0353"
     },
     {
       "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
@@ -1698,6 +1719,27 @@
       "id": "bfc1fc14c5c953db7a0f"
     },
     {
+      "title": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T20:20:02+00:00",
+      "fetched_at": "2026-06-27T22:11:21+00:00",
+      "summary": "元従業員の溶接工や技術者も「ミリオネア」に。2002年にイーロン・マスク氏が創業したスペースXの上場でおよそ4400人がミリオネアになったと報じられている。過去に給与の代わりに付与されたり上場前から購入していたりしたスペースX株が上場により大きな価値がついたからだ。人類史上最大の資本投資競争を呼び込んでい...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "754fef6435cfbd2c9de4"
+    },
+    {
       "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
       "url": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1951,7 +1993,71 @@
       "id": "a1d7eaf40c1d95f64e37"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-27T22:11:36+00:00",
+      "fetched_at": "2026-06-27T22:11:21+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6fb661e0d965466e0353"
+    },
+    {
+      "title": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T20:20:02+00:00",
+      "fetched_at": "2026-06-27T22:11:21+00:00",
+      "summary": "元従業員の溶接工や技術者も「ミリオネア」に。2002年にイーロン・マスク氏が創業したスペースXの上場でおよそ4400人がミリオネアになったと報じられている。過去に給与の代わりに付与されたり上場前から購入していたりしたスペースX株が上場により大きな価値がついたからだ。人類史上最大の資本投資競争を呼び込んでい...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "754fef6435cfbd2c9de4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
