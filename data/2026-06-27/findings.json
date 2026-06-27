@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-27T04:44:08+00:00",
+    "fetched_at": "2026-06-27T04:43:52+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8a62e43dbd7372c06b77"
+  },
+  {
     "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -36,6 +78,28 @@
       "LOW"
     ],
     "id": "981e604853e6dd0ecad2"
+  },
+  {
+    "title": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2120562.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T22:50:27+00:00",
+    "fetched_at": "2026-06-27T04:43:52+00:00",
+    "summary": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "044888df806354132ed5"
   },
   {
     "title": "M 5.4 - 63 km NNE of Barkhan, Pakistan",
@@ -198,6 +262,28 @@
     "id": "bfc1fc14c5c953db7a0f"
   },
   {
+    "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
+    "url": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T22:59:35+00:00",
+    "fetched_at": "2026-06-27T04:43:52+00:00",
+    "summary": "既存のナレッジストアとの関係 オントロジーがGenie Agent(旧Genie Space)でも効くとなると、従来のナレッジストアの立ち位置が気になります。ここも置き換えではなく共存で、スコープによる役割分担になります。 ナレッジストアの正体 ナレッジストアは、Spaceレベルのメタデータ、プロンプトマッチング(format assista...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b336bd9920098cc3b5da"
+  },
+  {
     "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
     "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
     "source": "Hatena Bookmark Hotentry IT",
@@ -238,6 +324,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b0c213fc035ad83dd53a"
+  },
+  {
+    "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
+    "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:03:56+00:00",
+    "fetched_at": "2026-06-27T04:43:52+00:00",
+    "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "857ef7820f6962baf66a"
   },
   {
     "title": "simplex-chat/simplex-chat",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T03:21:36+00:00",
-  "run_id": "2026-06-27T03:21:36+00:00",
+  "generated_at": "2026-06-27T04:44:22+00:00",
+  "run_id": "2026-06-27T04:44:22+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,60 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 4,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 0,
-    "observe": 11,
+    "medium": 1,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-06-27T04:44:08+00:00",
+        "fetched_at": "2026-06-27T04:43:52+00:00",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "General Santos",
+          "Glan",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8a62e43dbd7372c06b77"
+      }
+    ],
     "observe": [
       {
         "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
@@ -67,6 +110,28 @@
           "LOW"
         ],
         "id": "981e604853e6dd0ecad2"
+      },
+      {
+        "title": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2120562.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T22:50:27+00:00",
+        "fetched_at": "2026-06-27T04:43:52+00:00",
+        "summary": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "044888df806354132ed5"
       },
       {
         "title": "M 5.4 - 63 km NNE of Barkhan, Pakistan",
@@ -229,6 +294,28 @@
         "id": "bfc1fc14c5c953db7a0f"
       },
       {
+        "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
+        "url": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T22:59:35+00:00",
+        "fetched_at": "2026-06-27T04:43:52+00:00",
+        "summary": "既存のナレッジストアとの関係 オントロジーがGenie Agent(旧Genie Space)でも効くとなると、従来のナレッジストアの立ち位置が気になります。ここも置き換えではなく共存で、スコープによる役割分担になります。 ナレッジストアの正体 ナレッジストアは、Spaceレベルのメタデータ、プロンプトマッチング(format assista...",
+        "matched_keywords": [
+          "agent",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b336bd9920098cc3b5da"
+      },
+      {
         "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
         "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
         "source": "Hatena Bookmark Hotentry IT",
@@ -269,6 +356,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b0c213fc035ad83dd53a"
+      },
+      {
+        "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
+        "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T00:03:56+00:00",
+        "fetched_at": "2026-06-27T04:43:52+00:00",
+        "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "857ef7820f6962baf66a"
       },
       {
         "title": "simplex-chat/simplex-chat",
@@ -316,6 +424,48 @@
   },
   "findings": [
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-27T04:44:08+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8a62e43dbd7372c06b77"
+    },
+    {
       "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -352,6 +502,28 @@
         "LOW"
       ],
       "id": "981e604853e6dd0ecad2"
+    },
+    {
+      "title": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2120562.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T22:50:27+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "044888df806354132ed5"
     },
     {
       "title": "M 5.4 - 63 km NNE of Barkhan, Pakistan",
@@ -514,6 +686,28 @@
       "id": "bfc1fc14c5c953db7a0f"
     },
     {
+      "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
+      "url": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T22:59:35+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "既存のナレッジストアとの関係 オントロジーがGenie Agent(旧Genie Space)でも効くとなると、従来のナレッジストアの立ち位置が気になります。ここも置き換えではなく共存で、スコープによる役割分担になります。 ナレッジストアの正体 ナレッジストアは、Spaceレベルのメタデータ、プロンプトマッチング(format assista...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b336bd9920098cc3b5da"
+    },
+    {
       "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
       "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
       "source": "Hatena Bookmark Hotentry IT",
@@ -554,6 +748,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b0c213fc035ad83dd53a"
+    },
+    {
+      "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
+      "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T00:03:56+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "857ef7820f6962baf66a"
     },
     {
       "title": "simplex-chat/simplex-chat",
@@ -600,19 +815,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.4 - 63 km NNE of Barkhan, Pakistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-27T03:20:33.040+00:00",
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "Time 2026-06-27 03:06:21 UTC 2026-06-27 03:06:21 UTC at epicenter Location 30.455°N 69.686°E Depth 10.00 km (6.21 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-27T04:44:08+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -633,118 +854,60 @@
         "HD",
         "LOW"
       ],
-      "id": "cab3b17cc8eda8ed8379"
+      "id": "8a62e43dbd7372c06b77"
     },
     {
-      "title": "M 4.8 - 98 km S of Severo-Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8l7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-27T03:01:22.040+00:00",
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "Time 2026-06-27 02:42:06 UTC 2026-06-27 02:42:06 UTC at epicenter Location 49.793°N 156.028°E Depth 79.81 km (49.59 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "95eb214dc02a4e97e183"
-    },
-    {
-      "title": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 300+ supported cars. Docs · Roadmap · Contribute · Community · Try it on a comma four Quick start: bash <(curl -fsSL openpilot.comma.ai) Using openpilot in a car To use openpilot in a…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bfc1fc14c5c953db7a0f"
-    },
-    {
-      "title": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "git push no-mistakes git push no-mistakes Kill all the slop. Raise clean PR. English · 简体中文 no-mistakes puts a local git proxy in front of your real remote. Push to no-mistakes instead of origin , and it spins up a disposable worktree, runs an AI-driven validation pipeline, forwards the branch to the configured push target only after every check passes, and opens a clean PR automatically. Non-blocking - the pipeline…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "74dd6737fe34e3c3452c"
-    },
-    {
-      "title": "ripienaar/free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev free-for.dev Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions. This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers. The scope of this particular list is limited to things that infrastructu…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Open Source"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "19d5566fc2749852ba59"
-    },
-    {
-      "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
-      "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
+      "title": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2120562.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-26T17:51:33+00:00",
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "※この記事は「エムティーアイ Blog Summer 2026」の 6/26 の記事です。 こんにちは、テクノロジー本部 Red Teamの石廣です。 今回は、Red Teamの強みでもある手動診断について、自動スキャンとの違いを交えながらお話しします。 目次 はじめに 自動スキャンが得意なこと 自動・手動・コードレビューの役割分担 自動スキ...",
+      "published_at": "2026-06-26T22:50:27+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "044888df806354132ed5"
+    },
+    {
+      "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
+      "url": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T22:59:35+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "既存のナレッジストアとの関係 オントロジーがGenie Agent(旧Genie Space)でも効くとなると、従来のナレッジストアの立ち位置が気になります。ここも置き換えではなく共存で、スコープによる役割分担になります。 ナレッジストアの正体 ナレッジストアは、Spaceレベルのメタデータ、プロンプトマッチング(format assista...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b336bd9920098cc3b5da"
+    },
+    {
+      "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
+      "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T00:03:56+00:00",
+      "fetched_at": "2026-06-27T04:43:52+00:00",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -756,49 +919,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "09feb336fe263cb1f5e1"
-    },
-    {
-      "title": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | 30/03/2023 | EN, FR , CZ , PL | SimpleX - the first messaging platform that has no user identifiers of any kind - 100% private by design! Why we are building SimpleX Network Welcome to SimpleX Chat! 📲 Install the app . ↔️ Connect to the team , join user groups and follow o…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5357d20a372de0d42b2c"
-    },
-    {
-      "title": "grafana/grafana",
-      "url": "https://github.com/grafana/grafana",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-27T03:21:10+00:00",
-      "summary": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. The open-source platform for monitoring and observability Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your te…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a1d7eaf40c1d95f64e37"
+      "id": "857ef7820f6962baf66a"
     }
   ],
   "source_errors": [],

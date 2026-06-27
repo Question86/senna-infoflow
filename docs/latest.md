@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T03:21:36+00:00_
+_Generiert: 2026-06-27T04:44:22+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 13 km SSE of Clam Gulch, Alaska“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,7 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-06-27T04:44:08+00:00`, fetched `2026-06-27T04:43:52+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -25,6 +33,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-27 01:15:31 UTC 2026-06-27 01:15:31 UTC at epicenter Location 60.130°N 151.273°W Depth 55.00 km (34.18 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種** — Score 12, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2120562.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-26T22:50:27+00:00`, fetched `2026-06-27T04:43:52+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - 63 km NNE of Barkhan, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-27T03:20:33.040+00:00`, fetched `2026-06-27T03:21:10+00:00`
@@ -79,28 +96,19 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 300+ supported cars. Docs · Roadmap · Contribute · Community · Try it on a comma four Quick start: bash <(curl -fsSL openpilot.comma.ai) Using openpilot in a car To use openpilot in a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ** — Score 5, observation — [Quelle](https://tech.mti.co.jp/entry/ac2026summer/0626)
+- **Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita** — Score 7, observation — [Quelle](https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-26T17:51:33+00:00`, fetched `2026-06-27T03:21:10+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-06-26T22:59:35+00:00`, fetched `2026-06-27T04:43:52+00:00`
+  - Treffer: agent, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ※この記事は「エムティーアイ Blog Summer 2026」の 6/26 の記事です。 こんにちは、テクノロジー本部 Red Teamの石廣です。 今回は、Red Teamの強みでもある手動診断について、自動スキャンとの違いを交えながらお話しします。 目次 はじめに 自動スキャンが得意なこと 自動・手動・コードレビューの役割分担 自動スキ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】** — Score 5, observation — [Quelle](https://kaden.watch.impress.co.jp/docs/column_review/kaden/2119365.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-26T04:23:40+00:00`, fetched `2026-06-27T00:08:17+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 既存のナレッジストアとの関係 オントロジーがGenie Agent(旧Genie Space)でも効くとなると、従来のナレッジストアの立ち位置が気になります。ここも置き換えではなく共存で、スコープによる役割分担になります。 ナレッジストアの正体 ナレッジストアは、Spaceレベルのメタデータ、プロンプトマッチング(format assista...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
