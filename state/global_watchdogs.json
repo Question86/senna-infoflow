@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T20:19:53+00:00",
+  "generated_at": "2026-06-27T20:44:55+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 50 km ENE of Noda, Japan",
+        "summary": "M5.9 - 50 km ENE of Noda, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd",
+        "published_at": "2026-06-27T20:21:51+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
