@@ -1,5 +1,43 @@
 [
   {
+    "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-27T02:05:08.286+00:00",
+    "fetched_at": "2026-06-27T02:05:20+00:00",
+    "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-27 01:15:31 UTC 2026-06-27 01:15:31 UTC at epicenter Location 60.130°N 151.273°W Depth 55.00 km (34.18 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "981e604853e6dd0ecad2"
+  },
+  {
     "title": "Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub",
     "url": "https://developers.freee.co.jp/entry/authorization-design-as-a-user-story",
     "source": "Hatena Bookmark Hotentry IT",

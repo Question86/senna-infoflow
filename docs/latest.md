@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T01:16:06+00:00_
+_Generiert: 2026-06-27T02:05:48+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub“ aus Hatena Bookmark Hotentry IT (Score 8, observation).
+3 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 13 km SSE of Clam Gulch, Alaska“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 4.9 - 13 km SSE of Clam Gulch, Alaska** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-27T02:05:08.286+00:00`, fetched `2026-06-27T02:05:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-27 01:15:31 UTC 2026-06-27 01:15:31 UTC at epicenter Location 60.130°N 151.273°W Depth 55.00 km (34.18 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub** — Score 8, observation — [Quelle](https://developers.freee.co.jp/entry/authorization-design-as-a-user-story)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-26T02:18:55+00:00`, fetched `2026-06-27T01:15:40+00:00`

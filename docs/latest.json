@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T01:16:06+00:00",
-  "run_id": "2026-06-27T01:16:06+00:00",
+  "generated_at": "2026-06-27T02:05:48+00:00",
+  "run_id": "2026-06-27T02:05:48+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,17 +19,55 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-27T02:05:08.286+00:00",
+        "fetched_at": "2026-06-27T02:05:20+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-27 01:15:31 UTC 2026-06-27 01:15:31 UTC at epicenter Location 60.130°N 151.273°W Depth 55.00 km (34.18 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "981e604853e6dd0ecad2"
+      },
       {
         "title": "Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub",
         "url": "https://developers.freee.co.jp/entry/authorization-design-as-a-user-story",
@@ -77,6 +115,44 @@
   },
   "findings": [
     {
+      "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-27T02:05:08.286+00:00",
+      "fetched_at": "2026-06-27T02:05:20+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-27 01:15:31 UTC 2026-06-27 01:15:31 UTC at epicenter Location 60.130°N 151.273°W Depth 55.00 km (34.18 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "981e604853e6dd0ecad2"
+    },
+    {
       "title": "Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub",
       "url": "https://developers.freee.co.jp/entry/authorization-design-as-a-user-story",
       "source": "Hatena Bookmark Hotentry IT",
@@ -122,26 +198,42 @@
   ],
   "new_findings": [
     {
-      "title": "Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub",
-      "url": "https://developers.freee.co.jp/entry/authorization-design-as-a-user-story",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.9 - 13 km SSE of Clam Gulch, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mpakbo",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-26T02:18:55+00:00",
-      "fetched_at": "2026-06-27T01:15:40+00:00",
-      "summary": "1. はじめに こんにちは、権限管理基盤チームで PdM をしている sentokun と申します。 私は基盤チームの立場でよくプロダクトチームから権限設計に関する相談を受けるのですが、実際にやっている内容に立ち返ると、それは業務フローとユーザーストーリーの整理に通じると感じています。 この記事では、権限設計という複...",
+      "published_at": "2026-06-27T02:05:08.286+00:00",
+      "fetched_at": "2026-06-27T02:05:20+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-27 01:15:31 UTC 2026-06-27 01:15:31 UTC at epicenter Location 60.130°N 151.273°W Depth 55.00 km (34.18 mi)",
       "matched_keywords": [
-        "developer",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0e8971f97c6fabb34008"
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "981e604853e6dd0ecad2"
     }
   ],
   "source_errors": [],
