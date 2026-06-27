@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T20:44:52+00:00_
+_Generiert: 2026-06-27T21:15:04+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-06-27T20:44:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 30 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Japan 27/06/2026 20:21 UTC, 940 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:35km) in Japan 27/06/2026 20:21 UTC, 940 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:208.328km) in Afghanistan 27/06/2026 13:34 UTC, 140 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548849)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,14 +57,10 @@ _Generiert: 2026-06-27T20:44:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 27.8 million in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.
-- **USGS earthquake M5.9 - 50 km ENE of Noda, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd)
+- **USGS earthquake M5.8 - 51 km ENE of Noda, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd)
   - Quelle: USGS
-  - Zeit: `2026-06-27T20:21:51+00:00`
-  - Kurz: M5.9 - 50 km ENE of Noda, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Zeit: `2026-06-27T20:21:50+00:00`
+  - Kurz: M5.8 - 51 km ENE of Noda, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

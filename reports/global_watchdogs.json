@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T20:44:55+00:00",
+  "generated_at": "2026-06-27T21:15:07+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Japan 27/06/2026 20:21 UTC, 940 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:35km) in Japan 27/06/2026 20:21 UTC, 940 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:208.328km) in Afghanistan 27/06/2026 13:34 UTC, 140 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 6.1M, Depth:208.328km) in Afghanistan 27/06/2026 13:34 UTC, 140 thousand in MMI IV.",
         "source": "GDACS",
@@ -124,26 +134,16 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548439",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
-        "title": "USGS earthquake M5.9 - 50 km ENE of Noda, Japan",
-        "summary": "M5.9 - 50 km ENE of Noda, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "title": "USGS earthquake M5.8 - 51 km ENE of Noda, Japan",
+        "summary": "M5.8 - 51 km ENE of Noda, Japan. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd",
-        "published_at": "2026-06-27T20:21:51+00:00",
+        "published_at": "2026-06-27T20:21:50+00:00",
         "metrics": {
-          "mag": 5.9,
-          "alert": "",
-          "sig": 536.0,
+          "mag": 5.8,
+          "alert": "green",
+          "sig": 519.0,
           "tsunami": 0
         }
       }
