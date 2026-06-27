@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T09:16:18+00:00",
-  "run_id": "2026-06-27T09:16:18+00:00",
+  "generated_at": "2026-06-27T10:04:47+00:00",
+  "run_id": "2026-06-27T10:04:47+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 2,
-    "observe": 14,
+    "medium": 3,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -70,6 +70,54 @@
           "LOW"
         ],
         "id": "8a62e43dbd7372c06b77"
+      },
+      {
+        "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
+        "url": "https://blog.lai.so/pi-coding-agent/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T06:04:30+00:00",
+        "fetched_at": "2026-06-27T10:04:21+00:00",
+        "summary": "Pi Coding Agentは、Mario Zechner氏が開発しているOSSのターミナル型コーディングエージェントです。 Pi Coding AgentA terminal-based coding agentなぜ今Piを紹介するのか。コーディングエージェントは、Claude Code、Codex、Cursor、OpenCode、Hermes Agent、OpenClawなど選択肢が増えました。 一方で、関心はモデル...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "Hatena",
+          "hotentry",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "49b61dfa3baf778c7f9c"
       },
       {
         "title": "M 5.2 - 114 km SSW of Trenggalek, Indonesia",
@@ -353,6 +401,27 @@
         "id": "b336bd9920098cc3b5da"
       },
       {
+        "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月後に一方的キャンセル…電話はつながらずAI対応へ誘導され困惑と不満が止まらない",
+        "url": "https://togetter.com/li/2714197",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T08:18:47+00:00",
+        "fetched_at": "2026-06-27T10:04:21+00:00",
+        "summary": "CORE @daddymulk2013 DELLパソ、入金まで済んでるのに遅延の嵐だわ、値上げ告知だわ挙句の果て3か月経って一方的にキャンセルしてきおった、、、こっちからのキャンセルは受け付けないとか言って、コンプライアンスを盾に責任回避 これが2026年か。。。。（ ｉ _ ｉ ） 2026-06-26 11:52:18 CORE @daddymulk2013 2週間で...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f1d13d1fd229a2e6b6e3"
+      },
+      {
         "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
         "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
         "source": "Hatena Bookmark Hotentry IT",
@@ -501,6 +570,54 @@
         "LOW"
       ],
       "id": "8a62e43dbd7372c06b77"
+    },
+    {
+      "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
+      "url": "https://blog.lai.so/pi-coding-agent/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T06:04:30+00:00",
+      "fetched_at": "2026-06-27T10:04:21+00:00",
+      "summary": "Pi Coding Agentは、Mario Zechner氏が開発しているOSSのターミナル型コーディングエージェントです。 Pi Coding AgentA terminal-based coding agentなぜ今Piを紹介するのか。コーディングエージェントは、Claude Code、Codex、Cursor、OpenCode、Hermes Agent、OpenClawなど選択肢が増えました。 一方で、関心はモデル...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "49b61dfa3baf778c7f9c"
     },
     {
       "title": "M 5.2 - 114 km SSW of Trenggalek, Indonesia",
@@ -782,6 +899,27 @@
       "id": "b336bd9920098cc3b5da"
     },
     {
+      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月後に一方的キャンセル…電話はつながらずAI対応へ誘導され困惑と不満が止まらない",
+      "url": "https://togetter.com/li/2714197",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T08:18:47+00:00",
+      "fetched_at": "2026-06-27T10:04:21+00:00",
+      "summary": "CORE @daddymulk2013 DELLパソ、入金まで済んでるのに遅延の嵐だわ、値上げ告知だわ挙句の果て3か月経って一方的にキャンセルしてきおった、、、こっちからのキャンセルは受け付けないとか言って、コンプライアンスを盾に責任回避 これが2026年か。。。。（ ｉ _ ｉ ） 2026-06-26 11:52:18 CORE @daddymulk2013 2週間で...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f1d13d1fd229a2e6b6e3"
+    },
+    {
       "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
       "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
       "source": "Hatena Bookmark Hotentry IT",
@@ -887,7 +1025,77 @@
       "id": "a1d7eaf40c1d95f64e37"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
+      "url": "https://blog.lai.so/pi-coding-agent/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T06:04:30+00:00",
+      "fetched_at": "2026-06-27T10:04:21+00:00",
+      "summary": "Pi Coding Agentは、Mario Zechner氏が開発しているOSSのターミナル型コーディングエージェントです。 Pi Coding AgentA terminal-based coding agentなぜ今Piを紹介するのか。コーディングエージェントは、Claude Code、Codex、Cursor、OpenCode、Hermes Agent、OpenClawなど選択肢が増えました。 一方で、関心はモデル...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "49b61dfa3baf778c7f9c"
+    },
+    {
+      "title": "DELLでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月後に一方的キャンセル…電話はつながらずAI対応へ誘導され困惑と不満が止まらない",
+      "url": "https://togetter.com/li/2714197",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T08:18:47+00:00",
+      "fetched_at": "2026-06-27T10:04:21+00:00",
+      "summary": "CORE @daddymulk2013 DELLパソ、入金まで済んでるのに遅延の嵐だわ、値上げ告知だわ挙句の果て3か月経って一方的にキャンセルしてきおった、、、こっちからのキャンセルは受け付けないとか言って、コンプライアンスを盾に責任回避 これが2026年か。。。。（ ｉ _ ｉ ） 2026-06-26 11:52:18 CORE @daddymulk2013 2週間で...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f1d13d1fd229a2e6b6e3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
