@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T15:12:19+00:00",
-  "run_id": "2026-06-27T15:12:19+00:00",
+  "generated_at": "2026-06-27T15:45:27+00:00",
+  "run_id": "2026-06-27T15:45:27+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 2,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 5,
-    "observe": 22,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -690,6 +690,27 @@
         "id": "bd2b9fd45139a1c14c78"
       },
       {
+        "title": "Claude Enterprise全社導入で何を検討し、何をやらなかったか - メドピア開発者ブログ",
+        "url": "https://tech.medpeer.co.jp/entry/2026/06/26/122446",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-27T00:13:39+00:00",
+        "fetched_at": "2026-06-27T15:45:01+00:00",
+        "summary": "こんにちは。セキュリティエンジニア兼SREの侘美です。 2026年6月、メドピアではClaude Enterpriseの全社導入を完了しました。正社員・契約社員あわせて約130名にアカウントを配布しています。 今回の導入は、自分（セキュリティ）とコーポレートIT（社内のIT機器・SaaS管理を担当）で協力して設計・構築しました。セキ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4316df61a613e2d5abc2"
+      },
+      {
         "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
         "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
         "source": "Hatena Bookmark Hotentry IT",
@@ -709,6 +730,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "09feb336fe263cb1f5e1"
+      },
+      {
+        "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
+        "url": "https://tech.smarthr.jp/entry/2026/06/26/142109",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T10:16:33+00:00",
+        "fetched_at": "2026-06-27T15:45:01+00:00",
+        "summary": "こんにちは、SmartHRのプロダクトエンジニアをしているceris、theo、kurihara、Yunaです。我々はHRアナリティクスというプロダクトの開発チームのメンバーです。 突然ですが皆さん、普段の機能開発に関連するビジネスドメインのキャッチアップはしていますか？ ヘンリー・フォードが自動車に対する顧客ニーズを「速い馬...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ea370b8f5d44e859a94a"
       },
       {
         "title": "天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】",
@@ -1456,6 +1498,27 @@
       "id": "bd2b9fd45139a1c14c78"
     },
     {
+      "title": "Claude Enterprise全社導入で何を検討し、何をやらなかったか - メドピア開発者ブログ",
+      "url": "https://tech.medpeer.co.jp/entry/2026/06/26/122446",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-27T00:13:39+00:00",
+      "fetched_at": "2026-06-27T15:45:01+00:00",
+      "summary": "こんにちは。セキュリティエンジニア兼SREの侘美です。 2026年6月、メドピアではClaude Enterpriseの全社導入を完了しました。正社員・契約社員あわせて約130名にアカウントを配布しています。 今回の導入は、自分（セキュリティ）とコーポレートIT（社内のIT機器・SaaS管理を担当）で協力して設計・構築しました。セキ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4316df61a613e2d5abc2"
+    },
+    {
       "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
       "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1475,6 +1538,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "09feb336fe263cb1f5e1"
+    },
+    {
+      "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
+      "url": "https://tech.smarthr.jp/entry/2026/06/26/142109",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T10:16:33+00:00",
+      "fetched_at": "2026-06-27T15:45:01+00:00",
+      "summary": "こんにちは、SmartHRのプロダクトエンジニアをしているceris、theo、kurihara、Yunaです。我々はHRアナリティクスというプロダクトの開発チームのメンバーです。 突然ですが皆さん、普段の機能開発に関連するビジネスドメインのキャッチアップはしていますか？ ヘンリー・フォードが自動車に対する顧客ニーズを「速い馬...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea370b8f5d44e859a94a"
     },
     {
       "title": "天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】",
@@ -1563,41 +1647,46 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - Izu Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Claude Enterprise全社導入で何を検討し、何をやらなかったか - メドピア開発者ブログ",
+      "url": "https://tech.medpeer.co.jp/entry/2026/06/26/122446",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-27T14:47:18.040+00:00",
-      "fetched_at": "2026-06-27T15:11:54+00:00",
-      "summary": "Time 2026-06-27 14:15:37 UTC 2026-06-27 14:15:37 UTC at epicenter Location 31.607°N 141.811°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-06-27T00:13:39+00:00",
+      "fetched_at": "2026-06-27T15:45:01+00:00",
+      "summary": "こんにちは。セキュリティエンジニア兼SREの侘美です。 2026年6月、メドピアではClaude Enterpriseの全社導入を完了しました。正社員・契約社員あわせて約130名にアカウントを配布しています。 今回の導入は、自分（セキュリティ）とコーポレートIT（社内のIT機器・SaaS管理を担当）で協力して設計・構築しました。セキ...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4316df61a613e2d5abc2"
+    },
+    {
+      "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
+      "url": "https://tech.smarthr.jp/entry/2026/06/26/142109",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T10:16:33+00:00",
+      "fetched_at": "2026-06-27T15:45:01+00:00",
+      "summary": "こんにちは、SmartHRのプロダクトエンジニアをしているceris、theo、kurihara、Yunaです。我々はHRアナリティクスというプロダクトの開発チームのメンバーです。 突然ですが皆さん、普段の機能開発に関連するビジネスドメインのキャッチアップはしていますか？ ヘンリー・フォードが自動車に対する顧客ニーズを「速い馬...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "90b06f5996d4d4643807"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea370b8f5d44e859a94a"
     }
   ],
   "source_errors": [],

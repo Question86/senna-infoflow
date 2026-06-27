@@ -658,6 +658,27 @@
     "id": "bd2b9fd45139a1c14c78"
   },
   {
+    "title": "Claude Enterprise全社導入で何を検討し、何をやらなかったか - メドピア開発者ブログ",
+    "url": "https://tech.medpeer.co.jp/entry/2026/06/26/122446",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-27T00:13:39+00:00",
+    "fetched_at": "2026-06-27T15:45:01+00:00",
+    "summary": "こんにちは。セキュリティエンジニア兼SREの侘美です。 2026年6月、メドピアではClaude Enterpriseの全社導入を完了しました。正社員・契約社員あわせて約130名にアカウントを配布しています。 今回の導入は、自分（セキュリティ）とコーポレートIT（社内のIT機器・SaaS管理を担当）で協力して設計・構築しました。セキ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4316df61a613e2d5abc2"
+  },
+  {
     "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
     "url": "https://tech.mti.co.jp/entry/ac2026summer/0626",
     "source": "Hatena Bookmark Hotentry IT",
@@ -677,6 +698,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "09feb336fe263cb1f5e1"
+  },
+  {
+    "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
+    "url": "https://tech.smarthr.jp/entry/2026/06/26/142109",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T10:16:33+00:00",
+    "fetched_at": "2026-06-27T15:45:01+00:00",
+    "summary": "こんにちは、SmartHRのプロダクトエンジニアをしているceris、theo、kurihara、Yunaです。我々はHRアナリティクスというプロダクトの開発チームのメンバーです。 突然ですが皆さん、普段の機能開発に関連するビジネスドメインのキャッチアップはしていますか？ ヘンリー・フォードが自動車に対する顧客ニーズを「速い馬...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea370b8f5d44e859a94a"
   },
   {
     "title": "天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】",
