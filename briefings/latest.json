@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T10:50:03+00:00",
-  "run_id": "2026-06-27T10:50:03+00:00",
+  "generated_at": "2026-06-27T11:25:31+00:00",
+  "run_id": "2026-06-27T11:25:31+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 16,
     "source_errors": 0
   },
@@ -118,6 +118,44 @@
           "PINS"
         ],
         "id": "49b61dfa3baf778c7f9c"
+      },
+      {
+        "title": "M 5.9 - 192 km N of Metinaro, Timor Leste",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-27T11:00:29.517+00:00",
+        "fetched_at": "2026-06-27T11:25:04+00:00",
+        "summary": "PAGER - GREEN ShakeMap - II Time 2026-06-27 10:37:02 UTC 2026-06-27 10:37:02 UTC at epicenter Location 6.790°S 125.612°E Depth 525.54 km (326.56 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "fa50aec7ce4444f7e533"
       },
       {
         "title": "M 5.2 - 114 km SSW of Trenggalek, Indonesia",
@@ -641,6 +679,44 @@
       "id": "49b61dfa3baf778c7f9c"
     },
     {
+      "title": "M 5.9 - 192 km N of Metinaro, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-27T11:00:29.517+00:00",
+      "fetched_at": "2026-06-27T11:25:04+00:00",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-06-27 10:37:02 UTC 2026-06-27 10:37:02 UTC at epicenter Location 6.790°S 125.612°E Depth 525.54 km (326.56 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fa50aec7ce4444f7e533"
+    },
+    {
       "title": "M 5.2 - 114 km SSW of Trenggalek, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8me",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1069,25 +1145,42 @@
   ],
   "new_findings": [
     {
-      "title": "システム開発と「具体と抽象」 | 技術評論社",
-      "url": "https://gihyo.jp/book/2026/978-4-297-15790-6",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.9 - 192 km N of Metinaro, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-27T02:15:50+00:00",
-      "fetched_at": "2026-06-27T10:49:35+00:00",
-      "summary": "著者 細谷功（ほそやいさお） 著 定価 2,200円（本体2,000円＋税10%） 発売日 2026.7.28 判型 四六 頁数 272ページ ISBN 978-4-297-15790-6 978-4-297-15791-3 概要 システム開発の現場で、こんな思いをしたことはないでしょうか。「で、具体的に何を作ればいいんですか」 経営者の語る構想も、コンサルタントの描く青...",
+      "published_at": "2026-06-27T11:00:29.517+00:00",
+      "fetched_at": "2026-06-27T11:25:04+00:00",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-06-27 10:37:02 UTC 2026-06-27 10:37:02 UTC at epicenter Location 6.790°S 125.612°E Depth 525.54 km (326.56 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bd2b9fd45139a1c14c78"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fa50aec7ce4444f7e533"
     }
   ],
   "source_errors": [],

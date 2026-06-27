@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-27T10:50:03+00:00_
+_Generiert: 2026-06-27T11:25:31+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,22 +37,14 @@ _Generiert: 2026-06-27T10:50:03+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 40 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 80 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548381)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:50.923km) in Japan 24/06/2026 22:30 UTC, 80 thousand (in MMI&gt;=VII).
-- **GDACS: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.8 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548377)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.8 million (in MMI&gt;=VII).
-- **GDACS: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548473)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.2M, Depth:20.294km) in Venezuela 24/06/2026 22:04 UTC, 990 thousand (in MMI&gt;=VII).
 - **USGS earthquake M6.5 - 34 km WSW of Sarangani, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec)
   - Quelle: USGS
   - Zeit: `2026-06-26T11:34:41+00:00`
   - Kurz: M6.5 - 34 km WSW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548825)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 90 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548681)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,6 +57,10 @@ _Generiert: 2026-06-27T10:50:03+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:33km) in Papua New Guinea 25/06/2026 06:19 UTC, 240 thousand in MMI&gt;=IV.
+- **USGS earthquake M5.9 - 192 km N of Metinaro, Timor Leste** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf)
+  - Quelle: USGS
+  - Zeit: `2026-06-27T10:37:02+00:00`
+  - Kurz: M5.9 - 192 km N of Metinaro, Timor Leste. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -99,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Pi Coding Agentは、Mario Zechner氏が開発しているOSSのターミナル型コーディングエージェントです。 Pi Coding AgentA terminal-based coding agentなぜ今Piを紹介するのか。コーディングエージェントは、Claude Code、Codex、Cursor、OpenCode、Hermes Agent、OpenClawなど選択肢が増えました。 一方で、関心はモデル...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.9 - 192 km N of Metinaro, Timor Leste** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-27T11:00:29.517+00:00`, fetched `2026-06-27T11:25:04+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - II Time 2026-06-27 10:37:02 UTC 2026-06-27 10:37:02 UTC at epicenter Location 6.790°S 125.612°E Depth 525.54 km (326.56 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 114 km SSW of Trenggalek, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8me)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-27T08:13:23.548+00:00`, fetched `2026-06-27T08:17:56+00:00`
