@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T23:08:55+00:00",
-  "run_id": "2026-06-27T23:08:55+00:00",
+  "generated_at": "2026-06-27T23:36:15+00:00",
+  "run_id": "2026-06-27T23:36:15+00:00",
   "date": "2026-06-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 1,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 6,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -946,6 +946,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "09feb336fe263cb1f5e1"
+      },
+      {
+        "title": "「モラルが欠如している」──LINE安否確認で“悪ふざけ”、SNSで批判の的に",
+        "url": "https://www.itmedia.co.jp/mobile/articles/2606/26/news142.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-26T14:02:57+00:00",
+        "fetched_at": "2026-06-27T23:35:46+00:00",
+        "summary": "何が批判の的となっているのか 現在、タイにおいてLINE安否確認の体験版が実施されており、その仕様上、日本のユーザーの画面にも安否確認バナーが表示されるケースが発生している。この事態に際し、被害が全くないにもかかわらず、ふざけて「被害あり」と報告したり、大喜利のような不適切なメッセージを登録したりする...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98b759a5059cae36fd68"
       },
       {
         "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
@@ -1972,6 +1993,27 @@
       "id": "09feb336fe263cb1f5e1"
     },
     {
+      "title": "「モラルが欠如している」──LINE安否確認で“悪ふざけ”、SNSで批判の的に",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/26/news142.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-26T14:02:57+00:00",
+      "fetched_at": "2026-06-27T23:35:46+00:00",
+      "summary": "何が批判の的となっているのか 現在、タイにおいてLINE安否確認の体験版が実施されており、その仕様上、日本のユーザーの画面にも安否確認バナーが表示されるケースが発生している。この事態に際し、被害が全くないにもかかわらず、ふざけて「被害あり」と報告したり、大喜利のような不適切なメッセージを登録したりする...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98b759a5059cae36fd68"
+    },
+    {
       "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
       "url": "https://tech.smarthr.jp/entry/2026/06/26/142109",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2079,13 +2121,13 @@
   ],
   "new_findings": [
     {
-      "title": "最近は企業からメールアドレスが漏れることが多いがメールアドレスのドメインに「＋〇〇」のように変えて特定する方法がある「これを拒否するところは…」",
-      "url": "https://togetter.com/li/2714363",
+      "title": "「モラルが欠如している」──LINE安否確認で“悪ふざけ”、SNSで批判の的に",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/26/news142.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-27T15:53:15+00:00",
-      "fetched_at": "2026-06-27T23:08:30+00:00",
-      "summary": "kakakaya @kakakaya かっぱ寿司のメールアドレス漏洩疑惑が話題だけど、 メールアドレスの登録をさせられるときにサービスのドメインを「example+www.kappasushi .jp @ gmail.com」のように登録することで漏洩されたときにすぐどこか犯人がわかるライフハック……への対策として、 メールアドレス登録時に「+を含む記号は...",
+      "published_at": "2026-06-26T14:02:57+00:00",
+      "fetched_at": "2026-06-27T23:35:46+00:00",
+      "summary": "何が批判の的となっているのか 現在、タイにおいてLINE安否確認の体験版が実施されており、その仕様上、日本のユーザーの画面にも安否確認バナーが表示されるケースが発生している。この事態に際し、被害が全くないにもかかわらず、ふざけて「被害あり」と報告したり、大喜利のような不適切なメッセージを登録したりする...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2097,28 +2139,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "39122c70d41e04326a09"
-    },
-    {
-      "title": "ソニー「aiboはやめません」──“次の開発”も明かす オーナーに「安心してください」と呼びかけ",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-27T06:54:33+00:00",
-      "fetched_at": "2026-06-27T23:08:30+00:00",
-      "summary": "6月25日、ソニーグループが突如として発表した自律型エンタテインメントロボット「aibo」の現行機「ERS-1000」の国内販売終了は、ネット上に大きな波紋を広げた。しかし、不安に揺れるオーナーたちに向けて、ソニーはすぐさま行動を起こした。6月27日の正午、公式YouTubeチャンネルで急きょ特別配信を実施し、「aiboはや...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1d49422ab6a1f373219d"
+      "id": "98b759a5059cae36fd68"
     }
   ],
   "source_errors": [],
