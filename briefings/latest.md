@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T11:02:59+00:00_
+_Generiert: 2026-06-28T11:45:05+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+16 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-06-28T11:02:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 27.8 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548621)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 27.8 million in MMI IV.
 
 ## Wirtschaft global
 
@@ -85,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.0 - 65 km W of Foxton Beach, New Zealand** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8t3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-28T11:43:46.590+00:00`, fetched `2026-06-28T11:44:33+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-06-28 11:04:12 UTC 2026-06-28 11:04:12 UTC at epicenter Location 40.394°S 174.465°E Depth 81.18 km (50.45 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Zed 完全ガイド - izanami** — Score 11, observation — [Quelle](https://izanami.dev/post/903fe0a2-878a-4f4b-a02c-d8784d8ef731)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-27T12:18:41+00:00`, fetched `2026-06-28T06:39:07+00:00`
@@ -121,15 +126,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-28 07:05:45 UTC 2026-06-28 07:05:45 UTC at epicenter Location 14.785°S 167.402°E Depth 160.30 km (99.60 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 20 km NW of Finschhafen, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8s6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-28T03:19:38.809+00:00`, fetched `2026-06-28T03:29:33+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-06-28 02:59:20 UTC 2026-06-28 02:59:20 UTC at epicenter Location 6.439°S 147.708°E Depth 73.07 km (45.40 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみた - Qiita** — Score 9, observation — [Quelle](https://qiita.com/aktsmm/items/6b2ef723c2e660c93731)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-28T03:25:43+00:00`, fetched `2026-06-28T11:44:33+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみたPythonGPUUV駆け出しアーキテクトLLM こんにちは、ローカル LLM 選びで毎回モデル名の海におぼれていたアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せてください』→スマホ出したら『あー！SE！？ダメだ！SEの人は何言ってもSEがいいしか言わない！』** — Score 5, observation — [Quelle](https://togetter.com/li/2714494)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-28T04:28:27+00:00`, fetched `2026-06-28T07:59:17+00:00`
@@ -138,15 +143,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ヘルニア国おーじ @meiwari 携帯会社のキャッチに捕まって 「お姉さん、今iPhone最新機種1円ですよ！現在使ってるiPhone見せてください！」 っていうからスマホ出したら 「あー！！SE！？！ダメだ！SEの人は何言ってもSEがいいってしか言わない！」 って言われてwww いやまじそうwwww 2026-06-27 14:50:53 iPhone - モデ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **880円でPD・PPS対応、iPhone 17 Proも30W充電。ダイソーのGaN充電器が侮れない - はやぽんログ！** — Score 5, observation — [Quelle](https://hayaponlog.com/daiso-30w-gan-charger-review/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T03:36:29+00:00`, fetched `2026-06-28T11:02:33+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 880円という価格で、USB PDだけでなくPPSにまで対応した充電器が手に入るとは思わなかった。ダイソーで売られている30W GaN USB充電器を購入し、手持ちのスマートフォンで動作確認をしてみた。 ダイソーの新型充電器に GaN採用のモデルが登場した 充電器のスペックを確認。USB PPS対応と明記されている点がうれしいポイ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IceWhaleTech/CasaOS** — Score 4, observation — [Quelle](https://github.com/IceWhaleTech/CasaOS)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
