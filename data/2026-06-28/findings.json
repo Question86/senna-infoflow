@@ -42,6 +42,43 @@
     "id": "decdbedbc728f1ddf9e4"
   },
   {
+    "title": "M 4.5 - 10 km SSE of Kiupo, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uk",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-28T18:35:16.040+00:00",
+    "fetched_at": "2026-06-28T18:38:51+00:00",
+    "summary": "Time 2026-06-28 17:57:17 UTC 2026-06-28 17:57:17 UTC at epicenter Location 5.756°N 125.360°E Depth 60.24 km (37.43 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "886e308e34ab260ef198"
+  },
+  {
     "title": "M 5.0 - 65 km W of Foxton Beach, New Zealand",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8t3",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -381,6 +418,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8cc6931a6e1d37db4f01"
+  },
+  {
+    "title": "資産5000万達成したから自慢したい",
+    "url": "https://anond.hatelabo.jp/20260628170241",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T09:33:31+00:00",
+    "fetched_at": "2026-06-28T18:38:51+00:00",
+    "summary": "30代後半で金融資産5000万を超えた。資産5000万以上は準富裕層と呼ばれるラインだ(今のインフレ下では諸説ある)。 去年まで2000万前後でウロウロしていたが3000万(アッパーマス層ライン)を一瞬で通過して一気に5000万到達した。 リアルではとても言えない。闇バイト襲撃とか怖いし。最近ちょっと使って減ったけど。 最近...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5d2c1e04cc295bbf0e85"
   },
   {
     "title": "テスラの納車日だったので札幌から仙台まで14時間かけて行ったら肝心の車がなぜか用意されていなかった「全国的に大混乱しているみたい」",
