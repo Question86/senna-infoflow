@@ -78,6 +78,27 @@
     "id": "d234b7421fb67e356fb6"
   },
   {
+    "title": "仙石浩明の日記: 第8世代PC でセキュアブートの証明書が更新されず Windows が起動しなくなったので、手作業で証明書を更新してみた",
+    "url": "https://www.gcd.org/blog/2026/06/1558/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T01:21:11+00:00",
+    "fetched_at": "2026-06-28T05:06:13+00:00",
+    "summary": "2026年6月以降、セキュアブートで用いられる証明書の有効期限が切れる。 有効期限証明書 2026-06-24Microsoft Corporation KEK CA 2011 2026-06-27Microsoft UEFI CA 2011 2026-10-19Microsoft Windows Production PCA 2011 最近発売された新しい PC であれば、 自動的に証明書の更新が行われる。 今回有効期限が切れる...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "55ea052807108cc73deb"
+  },
+  {
     "title": "スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話",
     "url": "https://togetter.com/li/2714449",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T03:30:03+00:00_
+_Generiert: 2026-06-28T05:06:40+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+7 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-06-28 02:59:20 UTC 2026-06-28 02:59:20 UTC at epicenter Location 6.439°S 147.708°E Depth 73.07 km (45.40 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **仙石浩明の日記: 第8世代PC でセキュアブートの証明書が更新されず Windows が起動しなくなったので、手作業で証明書を更新してみた** — Score 5, observation — [Quelle](https://www.gcd.org/blog/2026/06/1558/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-28T01:21:11+00:00`, fetched `2026-06-28T05:06:13+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年6月以降、セキュアブートで用いられる証明書の有効期限が切れる。 有効期限証明書 2026-06-24Microsoft Corporation KEK CA 2011 2026-06-27Microsoft UEFI CA 2011 2026-10-19Microsoft Windows Production PCA 2011 最近発売された新しい PC であれば、 自動的に証明書の更新が行われる。 今回有効期限が切れる...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話** — Score 5, observation — [Quelle](https://togetter.com/li/2714449)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-28T00:26:05+00:00`, fetched `2026-06-28T03:29:33+00:00`
@@ -50,15 +59,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに 先日、このような投稿を見かけました。 メールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[ブックマーカー分析]危険性ランキング** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260623134924)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-27T05:15:36+00:00`, fetched `2026-06-28T01:20:17+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ここでいう「危険性」は、現実の犯罪危険性ではなく、はてブ上の言説・情報摂取・コメント運用としての危うさです。 評価軸は以下です。 敵味方認識の粗さ 怒り・罵倒・断罪の強さ 党派性への自覚の薄さ デマ・陰謀論・偏向情報への接近しやすさ 他者攻撃や集団敵視に接続しやすいか スター共同体によって過激化しやすい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IceWhaleTech/CasaOS** — Score 4, observation — [Quelle](https://github.com/IceWhaleTech/CasaOS)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
