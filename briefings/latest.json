@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T18:39:19+00:00",
-  "run_id": "2026-06-28T18:39:19+00:00",
+  "generated_at": "2026-06-28T19:09:52+00:00",
+  "run_id": "2026-06-28T19:09:52+00:00",
   "date": "2026-06-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 3,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 2,
-    "observe": 25,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-28T15:34:46+00:00",
-        "fetched_at": "2026-06-28T15:34:31+00:00",
+        "published_at": "2026-06-28T19:09:39+00:00",
+        "fetched_at": "2026-06-28T19:09:24+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "decdbedbc728f1ddf9e4"
+        "id": "d8f4d0d4928c2a0a8d38"
       },
       {
         "title": "M 4.5 - 10 km SSE of Kiupo, Philippines",
@@ -242,6 +242,78 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4f03c4c7dc58238791d3"
+      },
+      {
+        "title": "M 4.7 - 39 km SW of Kandrian, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-28T19:02:31.040+00:00",
+        "fetched_at": "2026-06-28T19:09:24+00:00",
+        "summary": "Time 2026-06-28 18:45:21 UTC 2026-06-28 18:45:21 UTC at epicenter Location 6.498°S 149.341°E Depth 30.02 km (18.65 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5a3fd6b8b61e6db63782"
+      },
+      {
+        "title": "M 4.6 - 21 km WNW of Djelfa, Algeria",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ut",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-28T18:52:47.040+00:00",
+        "fetched_at": "2026-06-28T19:09:24+00:00",
+        "summary": "Time 2026-06-28 18:37:11 UTC 2026-06-28 18:37:11 UTC at epicenter Location 34.754°N 3.056°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5bb52ef82881fb2c106d"
       },
       {
         "title": "Global economic pressure points call for policy discipline: BIS",
@@ -754,8 +826,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-28T15:34:46+00:00",
-      "fetched_at": "2026-06-28T15:34:31+00:00",
+      "published_at": "2026-06-28T19:09:39+00:00",
+      "fetched_at": "2026-06-28T19:09:24+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -789,7 +861,7 @@
         "HD",
         "LOW"
       ],
-      "id": "decdbedbc728f1ddf9e4"
+      "id": "d8f4d0d4928c2a0a8d38"
     },
     {
       "title": "M 4.5 - 10 km SSE of Kiupo, Philippines",
@@ -960,6 +1032,78 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4f03c4c7dc58238791d3"
+    },
+    {
+      "title": "M 4.7 - 39 km SW of Kandrian, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T19:02:31.040+00:00",
+      "fetched_at": "2026-06-28T19:09:24+00:00",
+      "summary": "Time 2026-06-28 18:45:21 UTC 2026-06-28 18:45:21 UTC at epicenter Location 6.498°S 149.341°E Depth 30.02 km (18.65 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5a3fd6b8b61e6db63782"
+    },
+    {
+      "title": "M 4.6 - 21 km WNW of Djelfa, Algeria",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ut",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T18:52:47.040+00:00",
+      "fetched_at": "2026-06-28T19:09:24+00:00",
+      "summary": "Time 2026-06-28 18:37:11 UTC 2026-06-28 18:37:11 UTC at epicenter Location 34.754°N 3.056°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5bb52ef82881fb2c106d"
     },
     {
       "title": "Global economic pressure points call for policy discipline: BIS",
@@ -1467,20 +1611,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - 10 km SSE of Kiupo, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-28T18:35:16.040+00:00",
-      "fetched_at": "2026-06-28T18:38:51+00:00",
-      "summary": "Time 2026-06-28 17:57:17 UTC 2026-06-28 17:57:17 UTC at epicenter Location 5.756°N 125.360°E Depth 60.24 km (37.43 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-28T19:09:39+00:00",
+      "fetched_at": "2026-06-28T19:09:24+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1501,28 +1650,79 @@
         "HD",
         "LOW"
       ],
-      "id": "886e308e34ab260ef198"
+      "id": "d8f4d0d4928c2a0a8d38"
     },
     {
-      "title": "資産5000万達成したから自慢したい",
-      "url": "https://anond.hatelabo.jp/20260628170241",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - 39 km SW of Kandrian, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-28T09:33:31+00:00",
-      "fetched_at": "2026-06-28T18:38:51+00:00",
-      "summary": "30代後半で金融資産5000万を超えた。資産5000万以上は準富裕層と呼ばれるラインだ(今のインフレ下では諸説ある)。 去年まで2000万前後でウロウロしていたが3000万(アッパーマス層ライン)を一瞬で通過して一気に5000万到達した。 リアルではとても言えない。闇バイト襲撃とか怖いし。最近ちょっと使って減ったけど。 最近...",
+      "published_at": "2026-06-28T19:02:31.040+00:00",
+      "fetched_at": "2026-06-28T19:09:24+00:00",
+      "summary": "Time 2026-06-28 18:45:21 UTC 2026-06-28 18:45:21 UTC at epicenter Location 6.498°S 149.341°E Depth 30.02 km (18.65 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5d2c1e04cc295bbf0e85"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5a3fd6b8b61e6db63782"
+    },
+    {
+      "title": "M 4.6 - 21 km WNW of Djelfa, Algeria",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ut",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T18:52:47.040+00:00",
+      "fetched_at": "2026-06-28T19:09:24+00:00",
+      "summary": "Time 2026-06-28 18:37:11 UTC 2026-06-28 18:37:11 UTC at epicenter Location 34.754°N 3.056°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5bb52ef82881fb2c106d"
     }
   ],
   "source_errors": [],
