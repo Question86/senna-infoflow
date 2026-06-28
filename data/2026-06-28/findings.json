@@ -368,6 +368,27 @@
     "id": "065a75e138efac790db9"
   },
   {
+    "title": "ループエンジニアリングを takt exec で気軽に始めよう",
+    "url": "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T08:51:05+00:00",
+    "fetched_at": "2026-06-28T17:38:37+00:00",
+    "summary": "はじめに 「ループエンジニアリング」という言葉が話題になっています。 ざっくり言うと「自分がエージェントに指示を出す役割を、システムに置き換える」という考え方です。 人間がプロンプトを書いてはエージェントの出力を確認して、またプロンプトを書いて、という往復をやめる。 代わりに作業→レビュー→修正のルー...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1f6ecde09e9521bdb32d"
+  },
+  {
     "title": "ゲームチャットを支える技術",
     "url": "https://pages.awscloud.com/rs/112-TZM-766/images/R13_0625_7_CDN221_v1.pdf",
     "source": "Hatena Bookmark Hotentry IT",
