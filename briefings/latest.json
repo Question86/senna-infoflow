@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T02:13:04+00:00",
-  "run_id": "2026-06-28T02:13:04+00:00",
+  "generated_at": "2026-06-28T03:30:03+00:00",
+  "run_id": "2026-06-28T03:30:03+00:00",
   "date": "2026-06-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 3,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-28T01:20:35+00:00",
-        "fetched_at": "2026-06-28T01:20:17+00:00",
+        "published_at": "2026-06-28T03:29:50+00:00",
+        "fetched_at": "2026-06-28T03:29:33+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,10 +69,67 @@
           "HD",
           "LOW"
         ],
-        "id": "f062546ef7fc4f323db1"
+        "id": "904a0693bf7e99419ee8"
       }
     ],
     "observe": [
+      {
+        "title": "M 4.9 - 20 km NW of Finschhafen, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8s6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-28T03:19:38.809+00:00",
+        "fetched_at": "2026-06-28T03:29:33+00:00",
+        "summary": "DYFI? - III Time 2026-06-28 02:59:20 UTC 2026-06-28 02:59:20 UTC at epicenter Location 6.439°S 147.708°E Depth 73.07 km (45.40 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d234b7421fb67e356fb6"
+      },
+      {
+        "title": "スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話",
+        "url": "https://togetter.com/li/2714449",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-28T00:26:05+00:00",
+        "fetched_at": "2026-06-28T03:29:33+00:00",
+        "summary": "BUBBLE-B @BUBBLE_B 京都に、スティーブ・ジョブズが愛した寿司屋がある。 日本に来るたびにこの寿司屋に通い、大間産の大トロを10貫食べたという。 その大トロがこれで、1貫3000円。食べてみるととんでもない美味さ。 普段ほとんどサインをしないジョブズが、大トロが美味すぎて、ついつい書いたサインが飾られている p...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "14d6a689eb6505aea88a"
+      },
       {
         "title": "hoge+fuga@example.com は「エイリアス」ではない",
         "url": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
@@ -145,8 +202,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-28T01:20:35+00:00",
-      "fetched_at": "2026-06-28T01:20:17+00:00",
+      "published_at": "2026-06-28T03:29:50+00:00",
+      "fetched_at": "2026-06-28T03:29:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -180,7 +237,64 @@
         "HD",
         "LOW"
       ],
-      "id": "f062546ef7fc4f323db1"
+      "id": "904a0693bf7e99419ee8"
+    },
+    {
+      "title": "M 4.9 - 20 km NW of Finschhafen, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8s6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T03:19:38.809+00:00",
+      "fetched_at": "2026-06-28T03:29:33+00:00",
+      "summary": "DYFI? - III Time 2026-06-28 02:59:20 UTC 2026-06-28 02:59:20 UTC at epicenter Location 6.439°S 147.708°E Depth 73.07 km (45.40 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d234b7421fb67e356fb6"
+    },
+    {
+      "title": "スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話",
+      "url": "https://togetter.com/li/2714449",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-28T00:26:05+00:00",
+      "fetched_at": "2026-06-28T03:29:33+00:00",
+      "summary": "BUBBLE-B @BUBBLE_B 京都に、スティーブ・ジョブズが愛した寿司屋がある。 日本に来るたびにこの寿司屋に通い、大間産の大トロを10貫食べたという。 その大トロがこれで、1貫3000円。食べてみるととんでもない美味さ。 普段ほとんどサインをしないジョブズが、大トロが美味すぎて、ついつい書いたサインが飾られている p...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "14d6a689eb6505aea88a"
     },
     {
       "title": "hoge+fuga@example.com は「エイリアス」ではない",
@@ -249,13 +363,91 @@
   ],
   "new_findings": [
     {
-      "title": "hoge+fuga@example.com は「エイリアス」ではない",
-      "url": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-28T03:29:50+00:00",
+      "fetched_at": "2026-06-28T03:29:33+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "904a0693bf7e99419ee8"
+    },
+    {
+      "title": "M 4.9 - 20 km NW of Finschhafen, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8s6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T03:19:38.809+00:00",
+      "fetched_at": "2026-06-28T03:29:33+00:00",
+      "summary": "DYFI? - III Time 2026-06-28 02:59:20 UTC 2026-06-28 02:59:20 UTC at epicenter Location 6.439°S 147.708°E Depth 73.07 km (45.40 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d234b7421fb67e356fb6"
+    },
+    {
+      "title": "スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話",
+      "url": "https://togetter.com/li/2714449",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-27T23:22:44+00:00",
-      "fetched_at": "2026-06-28T02:12:34+00:00",
-      "summary": "はじめに 先日、このような投稿を見かけました。 メールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレ...",
+      "published_at": "2026-06-28T00:26:05+00:00",
+      "fetched_at": "2026-06-28T03:29:33+00:00",
+      "summary": "BUBBLE-B @BUBBLE_B 京都に、スティーブ・ジョブズが愛した寿司屋がある。 日本に来るたびにこの寿司屋に通い、大間産の大トロを10貫食べたという。 その大トロがこれで、1貫3000円。食べてみるととんでもない美味さ。 普段ほとんどサインをしないジョブズが、大トロが美味すぎて、ついつい書いたサインが飾られている p...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -267,29 +459,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f22bd2bd8985bb4c687f"
-    },
-    {
-      "title": "IceWhaleTech/CasaOS",
-      "url": "https://github.com/IceWhaleTech/CasaOS",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-06-28T02:12:34+00:00",
-      "summary": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. CasaOS - Your Personal Cloud Connect with the community, establish autonomy, reduce the cost of SaaS, and MAXIMIZE the potential for a personalized copilot. Website | Demo | GitHub Why do you need Personal Cloud? In 2020, the team noticed three important trends: The cost of computing power and storage was decreasing fast. A part of cloud comp…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1597f560f5e533d923d2"
+      "id": "14d6a689eb6505aea88a"
     }
   ],
   "source_errors": [],
