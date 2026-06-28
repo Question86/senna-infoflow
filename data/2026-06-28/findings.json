@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-28T20:18:12+00:00",
-    "fetched_at": "2026-06-28T21:14:14+00:00",
+    "published_at": "2026-06-28T21:14:29+00:00",
+    "fetched_at": "2026-06-28T21:42:43+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "d9714d2b0a0241b84c4e"
+    "id": "163685552f3cf3d15fab"
   },
   {
     "title": "M 4.7 - 65 km WNW of Catuday, Philippines",
@@ -298,6 +298,29 @@
       "LOW"
     ],
     "id": "7aa884e32f103cb2c8b4"
+  },
+  {
+    "title": "AI エージェントフレームワーク Flue を試してみた",
+    "url": "https://azukiazusa.dev/blog/ai-agent-framework-flue/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T14:26:18+00:00",
+    "fetched_at": "2026-06-28T21:42:43+00:00",
+    "summary": "Flue は AI エージェントを構築するための TypeScript フレームワークです。ハーネス駆動のアーキテクチャを採用しており、エージェントの構築に必要な機能を包括的に提供しています。この記事では SRE エージェントを構築する例を通じて Flue の機能に触れていきます。 Flue は AI エージェントを構築するための TypeSc...",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "de94c093659875b900b5"
   },
   {
     "title": "Zed 完全ガイド - izanami",

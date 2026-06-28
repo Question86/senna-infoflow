@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T21:14:40+00:00_
+_Generiert: 2026-06-28T21:43:07+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-28T20:18:12+00:00`, fetched `2026-06-28T21:14:14+00:00`
+  - Zeit: published `2026-06-28T21:14:29+00:00`, fetched `2026-06-28T21:42:43+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-06-28 16:12:08 UTC 2026-06-28 16:12:08 UTC at epicenter Location 28.603°N 104.842°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI エージェントフレームワーク Flue を試してみた** — Score 11, observation — [Quelle](https://azukiazusa.dev/blog/ai-agent-framework-flue/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-28T14:26:18+00:00`, fetched `2026-06-28T21:42:43+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: Flue は AI エージェントを構築するための TypeScript フレームワークです。ハーネス駆動のアーキテクチャを採用しており、エージェントの構築に必要な機能を包括的に提供しています。この記事では SRE エージェントを構築する例を通じて Flue の機能に触れていきます。 Flue は AI エージェントを構築するための TypeSc...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Zed 完全ガイド - izanami** — Score 11, observation — [Quelle](https://izanami.dev/post/903fe0a2-878a-4f4b-a02c-d8784d8ef731)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-27T12:18:41+00:00`, fetched `2026-06-28T06:39:07+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみたPythonGPUUV駆け出しアーキテクトLLM こんにちは、ローカル LLM 選びで毎回モデル名の海におぼれていたアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Clipory — Mac のための最も強力なクリップボードマネージャー** — Score 5, observation — [Quelle](https://clipory.app/ja)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T12:22:52+00:00`, fetched `2026-06-28T16:37:14+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Mac のための最も強力なクリップボードマネージャーコピーしたリンク、画像、色、スニペットは、スクリーンショット内の文字までその場で検索でき、コレクションに自動でまとまります。種類で絞り込み、よく使うものはピン留めして、どのアプリにも貼り付け。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IceWhaleTech/CasaOS** — Score 4, observation — [Quelle](https://github.com/IceWhaleTech/CasaOS)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
