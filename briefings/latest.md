@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T19:46:47+00:00_
+_Generiert: 2026-06-28T20:18:24+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,6 @@ _Generiert: 2026-06-28T19:46:47+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-12569 PTC Windchill and FlexPLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-25`
-  - Kurz: Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. PTC Windchill and FlexPLM Improper Input Validation Vulnerability
-- **CISA KEV: CVE-2026-20230 Cisco Unified Communications Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-25`
-  - Kurz: Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability
-- **CISA KEV: CVE-2025-67038 Lantronix EDS5000** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-23`
-  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
-- **CISA KEV: CVE-2026-34910 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-23`
-  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Input Validation Vulnerability
-- **CISA KEV: CVE-2026-34909 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-23`
-  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Path Traversal Vulnerability
 - **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
   - Quelle: GDACS
   - Zeit: ``
@@ -50,6 +30,8 @@ _Generiert: 2026-06-28T19:46:47+00:00_
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.
 
+- Sensor-Hinweis: CISA KEV failed: 403 Client Error: Forbidden for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
+
 ## Wirtschaft global
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
@@ -67,7 +49,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-28T19:46:33+00:00`, fetched `2026-06-28T19:46:17+00:00`
+  - Zeit: published `2026-06-28T19:40:09+00:00`, fetched `2026-06-28T20:17:57+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
