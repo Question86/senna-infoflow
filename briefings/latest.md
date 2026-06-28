@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T12:17:23+00:00_
+_Generiert: 2026-06-28T12:52:16+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -135,14 +135,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみたPythonGPUUV駆け出しアーキテクトLLM こんにちは、ローカル LLM 選びで毎回モデル名の海におぼれていたアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せてください』→スマホ出したら『あー！SE！？ダメだ！SEの人は何言ってもSEがいいしか言わない！』** — Score 5, observation — [Quelle](https://togetter.com/li/2714494)
+- **テスラの納車日だったので札幌から仙台まで14時間かけて行ったら肝心の車がなぜか用意されていなかった「全国的に大混乱しているみたい」** — Score 5, observation — [Quelle](https://togetter.com/li/2714573)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T04:28:27+00:00`, fetched `2026-06-28T07:59:17+00:00`
+  - Zeit: published `2026-06-28T08:58:52+00:00`, fetched `2026-06-28T12:51:48+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ヘルニア国おーじ @meiwari 携帯会社のキャッチに捕まって 「お姉さん、今iPhone最新機種1円ですよ！現在使ってるiPhone見せてください！」 っていうからスマホ出したら 「あー！！SE！？！ダメだ！SEの人は何言ってもSEがいいってしか言わない！」 って言われてwww いやまじそうwwww 2026-06-27 14:50:53 iPhone - モデ...
+  - Kurz: ふぉれすたんだー/したもり @forestunder_dev テスラの納車日だったので札幌から納車場所の仙台までフェリーで14時間以上かけて行きましたが、肝心の車がなぜか用意されてませんでした！ 仙台観光に切り替えて手ぶらで帰ります🙌 2026-06-27 15:42:29
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IceWhaleTech/CasaOS** — Score 4, observation — [Quelle](https://github.com/IceWhaleTech/CasaOS)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
