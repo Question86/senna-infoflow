@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T10:14:50+00:00_
+_Generiert: 2026-06-28T11:02:59+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ヘルニア国おーじ @meiwari 携帯会社のキャッチに捕まって 「お姉さん、今iPhone最新機種1円ですよ！現在使ってるiPhone見せてください！」 っていうからスマホ出したら 「あー！！SE！？！ダメだ！SEの人は何言ってもSEがいいってしか言わない！」 って言われてwww いやまじそうwwww 2026-06-27 14:50:53 iPhone - モデ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **仙石浩明の日記: 第8世代PC でセキュアブートの証明書が更新されず Windows が起動しなくなったので、手作業で証明書を更新してみた** — Score 5, observation — [Quelle](https://www.gcd.org/blog/2026/06/1558/)
+- **880円でPD・PPS対応、iPhone 17 Proも30W充電。ダイソーのGaN充電器が侮れない - はやぽんログ！** — Score 5, observation — [Quelle](https://hayaponlog.com/daiso-30w-gan-charger-review/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T01:21:11+00:00`, fetched `2026-06-28T05:06:13+00:00`
+  - Zeit: published `2026-06-28T03:36:29+00:00`, fetched `2026-06-28T11:02:33+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年6月以降、セキュアブートで用いられる証明書の有効期限が切れる。 有効期限証明書 2026-06-24Microsoft Corporation KEK CA 2011 2026-06-27Microsoft UEFI CA 2011 2026-10-19Microsoft Windows Production PCA 2011 最近発売された新しい PC であれば、 自動的に証明書の更新が行われる。 今回有効期限が切れる...
+  - Kurz: 880円という価格で、USB PDだけでなくPPSにまで対応した充電器が手に入るとは思わなかった。ダイソーで売られている30W GaN USB充電器を購入し、手持ちのスマートフォンで動作確認をしてみた。 ダイソーの新型充電器に GaN採用のモデルが登場した 充電器のスペックを確認。USB PPS対応と明記されている点がうれしいポイ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IceWhaleTech/CasaOS** — Score 4, observation — [Quelle](https://github.com/IceWhaleTech/CasaOS)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
