@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-06-28T01:20:35+00:00",
+    "fetched_at": "2026-06-28T01:20:17+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f062546ef7fc4f323db1"
+  },
+  {
+    "title": "[ブックマーカー分析]危険性ランキング",
+    "url": "https://anond.hatelabo.jp/20260623134924",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-27T05:15:36+00:00",
+    "fetched_at": "2026-06-28T01:20:17+00:00",
+    "summary": "ここでいう「危険性」は、現実の犯罪危険性ではなく、はてブ上の言説・情報摂取・コメント運用としての危うさです。 評価軸は以下です。 敵味方認識の粗さ 怒り・罵倒・断罪の強さ 党派性への自覚の薄さ デマ・陰謀論・偏向情報への接近しやすさ 他者攻撃や集団敵視に接続しやすいか スター共同体によって過激化しやすい...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b715a1bfe3544a5d5e5"
+  }
+]
