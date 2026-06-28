@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T21:43:07+00:00",
-  "run_id": "2026-06-28T21:43:07+00:00",
+  "generated_at": "2026-06-28T22:11:41+00:00",
+  "run_id": "2026-06-28T22:11:41+00:00",
   "date": "2026-06-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 3,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
-    "medium": 5,
-    "observe": 28,
+    "medium": 6,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-28T21:14:29+00:00",
-        "fetched_at": "2026-06-28T21:42:43+00:00",
+        "published_at": "2026-06-28T22:11:25+00:00",
+        "fetched_at": "2026-06-28T22:11:08+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,44 @@
           "HD",
           "LOW"
         ],
-        "id": "163685552f3cf3d15fab"
+        "id": "273f05d2aefb2d26c849"
+      },
+      {
+        "title": "M 5.0 - 173 km S of Lembar, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-28T22:01:40.040+00:00",
+        "fetched_at": "2026-06-28T22:11:08+00:00",
+        "summary": "Time 2026-06-28 21:43:51 UTC 2026-06-28 21:43:51 UTC at epicenter Location 10.292°S 116.132°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "84b96372782185a197c8"
       },
       {
         "title": "M 4.7 - 65 km WNW of Catuday, Philippines",
@@ -658,6 +695,27 @@
         "id": "8cc6931a6e1d37db4f01"
       },
       {
+        "title": "時速111kmで走行！レゴブロックで作った実物大のハイパーカーがレゴ史上最速記録を樹立",
+        "url": "https://karapaia.com/archives/611884.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-28T11:41:02+00:00",
+        "fetched_at": "2026-06-28T22:11:08+00:00",
+        "summary": "見ためおもちゃで中はガチ。32万個以上ものレゴブロックを使い再現した、実物大のハイパーカーが、時速111kmで丘を駆け、レゴの歴代走行可能車の速度記録を大幅に塗り替える最速記録を樹立した。 このハイパーカーは、レゴの新製品発売に先立ち、スウェーデンの超高性能車メーカー、ケーニグセグとコラボ製作したもの。 ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2d0efdb6cbf4ff495d73"
+      },
+      {
         "title": "資産5000万達成したから自慢したい",
         "url": "https://anond.hatelabo.jp/20260628170241",
         "source": "Hatena Bookmark Hotentry IT",
@@ -960,8 +1018,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-28T21:14:29+00:00",
-      "fetched_at": "2026-06-28T21:42:43+00:00",
+      "published_at": "2026-06-28T22:11:25+00:00",
+      "fetched_at": "2026-06-28T22:11:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -995,7 +1053,44 @@
         "HD",
         "LOW"
       ],
-      "id": "163685552f3cf3d15fab"
+      "id": "273f05d2aefb2d26c849"
+    },
+    {
+      "title": "M 5.0 - 173 km S of Lembar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T22:01:40.040+00:00",
+      "fetched_at": "2026-06-28T22:11:08+00:00",
+      "summary": "Time 2026-06-28 21:43:51 UTC 2026-06-28 21:43:51 UTC at epicenter Location 10.292°S 116.132°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "84b96372782185a197c8"
     },
     {
       "title": "M 4.7 - 65 km WNW of Catuday, Philippines",
@@ -1582,6 +1677,27 @@
       "id": "8cc6931a6e1d37db4f01"
     },
     {
+      "title": "時速111kmで走行！レゴブロックで作った実物大のハイパーカーがレゴ史上最速記録を樹立",
+      "url": "https://karapaia.com/archives/611884.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-28T11:41:02+00:00",
+      "fetched_at": "2026-06-28T22:11:08+00:00",
+      "summary": "見ためおもちゃで中はガチ。32万個以上ものレゴブロックを使い再現した、実物大のハイパーカーが、時速111kmで丘を駆け、レゴの歴代走行可能車の速度記録を大幅に塗り替える最速記録を樹立した。 このハイパーカーは、レゴの新製品発売に先立ち、スウェーデンの超高性能車メーカー、ケーニグセグとコラボ製作したもの。 ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2d0efdb6cbf4ff495d73"
+    },
+    {
       "title": "資産5000万達成したから自慢したい",
       "url": "https://anond.hatelabo.jp/20260628170241",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1883,8 +1999,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-28T21:14:29+00:00",
-      "fetched_at": "2026-06-28T21:42:43+00:00",
+      "published_at": "2026-06-28T22:11:25+00:00",
+      "fetched_at": "2026-06-28T22:11:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1918,30 +2034,65 @@
         "HD",
         "LOW"
       ],
-      "id": "163685552f3cf3d15fab"
+      "id": "273f05d2aefb2d26c849"
     },
     {
-      "title": "AI エージェントフレームワーク Flue を試してみた",
-      "url": "https://azukiazusa.dev/blog/ai-agent-framework-flue/",
+      "title": "M 5.0 - 173 km S of Lembar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T22:01:40.040+00:00",
+      "fetched_at": "2026-06-28T22:11:08+00:00",
+      "summary": "Time 2026-06-28 21:43:51 UTC 2026-06-28 21:43:51 UTC at epicenter Location 10.292°S 116.132°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "84b96372782185a197c8"
+    },
+    {
+      "title": "時速111kmで走行！レゴブロックで作った実物大のハイパーカーがレゴ史上最速記録を樹立",
+      "url": "https://karapaia.com/archives/611884.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-28T14:26:18+00:00",
-      "fetched_at": "2026-06-28T21:42:43+00:00",
-      "summary": "Flue は AI エージェントを構築するための TypeScript フレームワークです。ハーネス駆動のアーキテクチャを採用しており、エージェントの構築に必要な機能を包括的に提供しています。この記事では SRE エージェントを構築する例を通じて Flue の機能に触れていきます。 Flue は AI エージェントを構築するための TypeSc...",
+      "published_at": "2026-06-28T11:41:02+00:00",
+      "fetched_at": "2026-06-28T22:11:08+00:00",
+      "summary": "見ためおもちゃで中はガチ。32万個以上ものレゴブロックを使い再現した、実物大のハイパーカーが、時速111kmで丘を駆け、レゴの歴代走行可能車の速度記録を大幅に塗り替える最速記録を樹立した。 このハイパーカーは、レゴの新製品発売に先立ち、スウェーデンの超高性能車メーカー、ケーニグセグとコラボ製作したもの。 ...",
       "matched_keywords": [
-        "agent",
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "de94c093659875b900b5"
+      "id": "2d0efdb6cbf4ff495d73"
     }
   ],
   "source_errors": [],
