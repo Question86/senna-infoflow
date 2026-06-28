@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T14:57:10+00:00",
+  "generated_at": "2026-06-28T15:35:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,16 +69,6 @@
         "summary": "Green flood alert in Türkiye",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 30 thousand (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 30 thousand (in MMI&gt;=VII).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668",
         "published_at": "",
         "metrics": {}
       },

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T14:57:07+00:00_
+_Generiert: 2026-06-28T15:34:58+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-06-28T14:57:07+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Türkiye
-- **GDACS: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 30 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548668)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, 30 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889)
   - Quelle: GDACS
   - Zeit: ``
@@ -71,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-28T14:56:54+00:00`, fetched `2026-06-28T14:56:40+00:00`
+  - Zeit: published `2026-06-28T15:34:46+00:00`, fetched `2026-06-28T15:34:31+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
