@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-28T20:18:26+00:00",
+  "generated_at": "2026-06-28T20:45:19+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-12569 PTC Windchill and FlexPLM",
+        "summary": "Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. PTC Windchill and FlexPLM Improper Input Validation Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-25",
+        "metrics": {
+          "cve": "CVE-2026-12569"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-20230 Cisco Unified Communications Manager",
+        "summary": "Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-25",
+        "metrics": {
+          "cve": "CVE-2026-20230"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-67038 Lantronix EDS5000",
+        "summary": "Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-23",
+        "metrics": {
+          "cve": "CVE-2025-67038"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-34910 Ubiquiti UniFi OS",
+        "summary": "Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Input Validation Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-23",
+        "metrics": {
+          "cve": "CVE-2026-34910"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-34909 Ubiquiti UniFi OS",
+        "summary": "Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Path Traversal Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-06-23",
+        "metrics": {
+          "cve": "CVE-2026-34909"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -56,7 +116,6 @@
     "global_economy": []
   },
   "source_errors": [
-    "CISA KEV failed: 403 Client Error: Forbidden for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }

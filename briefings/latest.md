@@ -1,14 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T20:18:24+00:00_
+_Generiert: 2026-06-28T20:45:16+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-12569 PTC Windchill and FlexPLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-25`
+  - Kurz: Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. PTC Windchill and FlexPLM Improper Input Validation Vulnerability
+- **CISA KEV: CVE-2026-20230 Cisco Unified Communications Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-25`
+  - Kurz: Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability
+- **CISA KEV: CVE-2025-67038 Lantronix EDS5000** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
+- **CISA KEV: CVE-2026-34910 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Input Validation Vulnerability
+- **CISA KEV: CVE-2026-34909 Ubiquiti UniFi OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-06-23`
+  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Path Traversal Vulnerability
 - **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
   - Quelle: GDACS
   - Zeit: ``
@@ -29,8 +49,6 @@ _Generiert: 2026-06-28T20:18:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.
-
-- Sensor-Hinweis: CISA KEV failed: 403 Client Error: Forbidden for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
 
 ## Wirtschaft global
 
@@ -56,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 65 km WNW of Catuday, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8v9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-28T20:18:39.040+00:00`, fetched `2026-06-28T20:44:49+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-28 20:01:33 UTC 2026-06-28 20:01:33 UTC at epicenter Location 16.444°N 119.216°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 63 km WNW of Catuday, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8v2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-28T19:46:11.040+00:00`, fetched `2026-06-28T19:46:17+00:00`
@@ -73,15 +100,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-28 19:09:03 UTC 2026-06-28 19:09:03 UTC at epicenter Location 16.515°N 119.209°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 10 km SSE of Kiupo, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8uk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-28T18:35:16.040+00:00`, fetched `2026-06-28T18:38:51+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-28 17:57:17 UTC 2026-06-28 17:57:17 UTC at epicenter Location 5.756°N 125.360°E Depth 60.24 km (37.43 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
