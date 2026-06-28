@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-28T07:59:44+00:00_
+_Generiert: 2026-06-28T09:15:13+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Zed は zed-industries 製の Rust ネイティブな OSS エディタ。Electron なしの速さに、マルチバッファ・AI・Git・協業・リモート開発を標準搭載。導入から主要機能・設定・ショートカットまでこれ1本でそろう Zed が気になってる人向けに書いた この記事は乗り換え手順じゃなく、Zed の機能をこれ1本で見渡すリファレン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Global economic pressure points call for policy discipline: BIS** — Score 9, observation — [Quelle](https://www.bis.org/press/p260628.htm)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-06-28T12:39:00+00:00`, fetched `2026-06-28T09:14:48+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Macro/Policy (+6.2)
+  - Kurz: The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation. The interplay of record-high public debt with the increasing role of highly-leveraged hedge funds creates a new sovereign-financial stability nexus and poses growing financial stability risks. Safeguarding price stability, ensuring fiscal s…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - south of Africa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ss)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-28T08:54:47.040+00:00`, fetched `2026-06-28T09:14:48+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-28 08:34:26 UTC 2026-06-28 08:34:26 UTC at epicenter Location 52.733°S 27.565°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 45 km NE of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-28T07:22:05.040+00:00`, fetched `2026-06-28T07:59:17+00:00`

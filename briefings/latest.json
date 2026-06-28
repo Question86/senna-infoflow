@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T07:59:44+00:00",
-  "run_id": "2026-06-28T07:59:44+00:00",
+  "generated_at": "2026-06-28T09:15:13+00:00",
+  "run_id": "2026-06-28T09:15:13+00:00",
   "date": "2026-06-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 1,
-    "observe": 9,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -95,6 +95,63 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4f03c4c7dc58238791d3"
+      },
+      {
+        "title": "Global economic pressure points call for policy discipline: BIS",
+        "url": "https://www.bis.org/press/p260628.htm",
+        "source": "BIS Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-06-28T12:39:00+00:00",
+        "fetched_at": "2026-06-28T09:14:48+00:00",
+        "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation. The interplay of record-high public debt with the increasing role of highly-leveraged hedge funds creates a new sovereign-financial stability nexus and poses growing financial stability risks. Safeguarding price stability, ensuring fiscal s…",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); Macro/Policy (+6.2)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eb165e045271155fc6e7"
+      },
+      {
+        "title": "M 4.7 - south of Africa",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ss",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-28T08:54:47.040+00:00",
+        "fetched_at": "2026-06-28T09:14:48+00:00",
+        "summary": "Time 2026-06-28 08:34:26 UTC 2026-06-28 08:34:26 UTC at epicenter Location 52.733°S 27.565°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "9217dac33f4218325482"
       },
       {
         "title": "M 5.2 - 45 km NE of Port-Olry, Vanuatu",
@@ -274,6 +331,27 @@
         "id": "4b715a1bfe3544a5d5e5"
       },
       {
+        "title": "NotebookLMで要件定義が楽になった話 ― 仕様駆動開発（SDD）の前段を整える - WHITEPLUS TechBlog",
+        "url": "https://blog.wh-plus.co.jp/entry/2026/06/23/113209",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-25T00:15:19+00:00",
+        "fetched_at": "2026-06-28T09:14:48+00:00",
+        "summary": "こんにちは、ホワイトプラス コアシス開発グループのfjtです！ 以前仕様駆動開発（SDD）を実際のプロジェクトで試してみたという記事を書きました。AIが実行可能なレベルまで構造化した仕様書を先に作り、それに基づいて実装を任せるという開発手法の話です。 実際にやってみて効果を感じた一方で、ひとつ手前に残ってい...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ba03cd1006e14334308c"
+      },
+      {
         "title": "IceWhaleTech/CasaOS",
         "url": "https://github.com/IceWhaleTech/CasaOS",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -362,6 +440,63 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4f03c4c7dc58238791d3"
+    },
+    {
+      "title": "Global economic pressure points call for policy discipline: BIS",
+      "url": "https://www.bis.org/press/p260628.htm",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-06-28T12:39:00+00:00",
+      "fetched_at": "2026-06-28T09:14:48+00:00",
+      "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation. The interplay of record-high public debt with the increasing role of highly-leveraged hedge funds creates a new sovereign-financial stability nexus and poses growing financial stability risks. Safeguarding price stability, ensuring fiscal s…",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); Macro/Policy (+6.2)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb165e045271155fc6e7"
+    },
+    {
+      "title": "M 4.7 - south of Africa",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ss",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-28T08:54:47.040+00:00",
+      "fetched_at": "2026-06-28T09:14:48+00:00",
+      "summary": "Time 2026-06-28 08:34:26 UTC 2026-06-28 08:34:26 UTC at epicenter Location 52.733°S 27.565°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9217dac33f4218325482"
     },
     {
       "title": "M 5.2 - 45 km NE of Port-Olry, Vanuatu",
@@ -541,6 +676,27 @@
       "id": "4b715a1bfe3544a5d5e5"
     },
     {
+      "title": "NotebookLMで要件定義が楽になった話 ― 仕様駆動開発（SDD）の前段を整える - WHITEPLUS TechBlog",
+      "url": "https://blog.wh-plus.co.jp/entry/2026/06/23/113209",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-25T00:15:19+00:00",
+      "fetched_at": "2026-06-28T09:14:48+00:00",
+      "summary": "こんにちは、ホワイトプラス コアシス開発グループのfjtです！ 以前仕様駆動開発（SDD）を実際のプロジェクトで試してみたという記事を書きました。AIが実行可能なレベルまで構造化した仕様書を先に作り、それに基づいて実装を任せるという開発手法の話です。 実際にやってみて効果を感じた一方で、ひとつ手前に残ってい...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ba03cd1006e14334308c"
+    },
+    {
       "title": "IceWhaleTech/CasaOS",
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -565,55 +721,34 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-28T07:59:32+00:00",
-      "fetched_at": "2026-06-28T07:59:17+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "Global economic pressure points call for policy discipline: BIS",
+      "url": "https://www.bis.org/press/p260628.htm",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-06-28T12:39:00+00:00",
+      "fetched_at": "2026-06-28T09:14:48+00:00",
+      "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation. The interplay of record-high public debt with the increasing role of highly-leveraged hedge funds creates a new sovereign-financial stability nexus and poses growing financial stability risks. Safeguarding price stability, ensuring fiscal s…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "Macro/Policy"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "225f120b8db0d4afc771"
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); Macro/Policy (+6.2)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb165e045271155fc6e7"
     },
     {
-      "title": "M 5.2 - 45 km NE of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl",
+      "title": "M 4.7 - south of Africa",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ss",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-28T07:22:05.040+00:00",
-      "fetched_at": "2026-06-28T07:59:17+00:00",
-      "summary": "Time 2026-06-28 07:05:45 UTC 2026-06-28 07:05:45 UTC at epicenter Location 14.785°S 167.402°E Depth 160.30 km (99.60 mi)",
+      "published_at": "2026-06-28T08:54:47.040+00:00",
+      "fetched_at": "2026-06-28T09:14:48+00:00",
+      "summary": "Time 2026-06-28 08:34:26 UTC 2026-06-28 08:34:26 UTC at epicenter Location 52.733°S 27.565°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -640,28 +775,28 @@
         "HD",
         "LOW"
       ],
-      "id": "22739f377f8bd769c715"
+      "id": "9217dac33f4218325482"
     },
     {
-      "title": "携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せてください』→スマホ出したら『あー！SE！？ダメだ！SEの人は何言ってもSEがいいしか言わない！』",
-      "url": "https://togetter.com/li/2714494",
+      "title": "NotebookLMで要件定義が楽になった話 ― 仕様駆動開発（SDD）の前段を整える - WHITEPLUS TechBlog",
+      "url": "https://blog.wh-plus.co.jp/entry/2026/06/23/113209",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-28T04:28:27+00:00",
-      "fetched_at": "2026-06-28T07:59:17+00:00",
-      "summary": "ヘルニア国おーじ @meiwari 携帯会社のキャッチに捕まって 「お姉さん、今iPhone最新機種1円ですよ！現在使ってるiPhone見せてください！」 っていうからスマホ出したら 「あー！！SE！？！ダメだ！SEの人は何言ってもSEがいいってしか言わない！」 って言われてwww いやまじそうwwww 2026-06-27 14:50:53 iPhone - モデ...",
+      "published_at": "2026-06-25T00:15:19+00:00",
+      "fetched_at": "2026-06-28T09:14:48+00:00",
+      "summary": "こんにちは、ホワイトプラス コアシス開発グループのfjtです！ 以前仕様駆動開発（SDD）を実際のプロジェクトで試してみたという記事を書きました。AIが実行可能なレベルまで構造化した仕様書を先に作り、それに基づいて実装を任せるという開発手法の話です。 実際にやってみて効果を感じた一方で、ひとつ手前に残ってい...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1248e29b1fbc8c816c3d"
+      "id": "ba03cd1006e14334308c"
     }
   ],
   "source_errors": [],
