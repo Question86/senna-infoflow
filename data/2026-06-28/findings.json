@@ -642,6 +642,27 @@
     "id": "d234b7421fb67e356fb6"
   },
   {
+    "title": "Deno 2.9正式リリース。起動が2倍速、消費メモリは半分に。WebViewを用いたデスクトップアプリが作れる「Deno Desktop」など",
+    "url": "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T15:14:57+00:00",
+    "fetched_at": "2026-06-28T23:36:36+00:00",
+    "summary": "Deno 2.9正式リリース。起動が2倍速、消費メモリは半分に。WebViewを用いたデスクトップアプリが作れる「Deno Desktop」など JavaScript/TypeScriptランタイムのDenoを開発するDeno Landは、Deno 2.9正式版をリリースしました。 Deno 2.9は起動を2倍速にするなどの性能面での大幅向上や、Denoを基盤にJavaScriptやHTMLな...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6e97a9e9837a78188e94"
+  },
+  {
     "title": "Clipory — Mac のための最も強力なクリップボードマネージャー",
     "url": "https://clipory.app/ja",
     "source": "Hatena Bookmark Hotentry IT",
