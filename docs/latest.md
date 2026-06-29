@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T03:33:08+00:00_
+_Generiert: 2026-06-29T05:13:47+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+19 neue relevante Treffer. Stärkstes Signal: „GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: デジタル庁がオープンソースで公開したガバメント AI「源内（GENAI）」を、 完全ローカル環境 × ローカル LLM（OpenAI 互換 API） で動かすためのプロジェクトです。 免責 / Disclaimer: 本リポジトリは有志による非公式フォークです。デジタル庁とは一切関係がなく、 同庁による承認・支援を受けたものではありません。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 90 km S of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-29T04:53:09.040+00:00`, fetched `2026-06-29T05:13:22+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 107 km SSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-29T04:42:12.719+00:00`, fetched `2026-06-29T05:13:22+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-06-29 04:23:05 UTC 2026-06-29 04:23:05 UTC at epicenter Location 4.472°N 125.189°E Depth 9.91 km (6.16 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **数を増やしても一貫性を保つ、runn の API テスト構成設計 - カミナシ エンジニアブログ** — Score 15, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/runn-api-test-architecture)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-29T00:24:44+00:00`, fetched `2026-06-29T02:14:40+00:00`
@@ -69,14 +87,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
   - Kurz: The product labelled MVP is usually not a minimum. It is a compromise between anxiety, ambition, internal politics, and the hope that one release can settle more questions than it ever will. By the time it reaches execution, the so-called minimum version has absorbed edge cases, stakeholder comfort features, reporting needs, admin controls, future-proofing logic, […] The post How to build a real MVP: Start with evid…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The next ASEAN fintech opportunity is not payments acceptance, it’s settlement intelligence** — Score 8, observation — [Quelle](https://e27.co/the-next-asean-fintech-opportunity-is-not-payments-acceptance-its-settlement-intelligence-20260623/)
+- **Southeast Asia’s investors are sleeping on a US$2B ecosystem next door** — Score 8, observation — [Quelle](https://e27.co/southeast-asias-investors-are-sleeping-on-a-us2b-ecosystem-next-door-20260629/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-29T02:45:05+00:00`, fetched `2026-06-29T03:32:44+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-06-29T03:58:47+00:00`, fetched `2026-06-29T05:13:22+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Philippines (+2.0)
-  - Kurz: The gold rush in the fintech sector in Southeast Asia has been there at the storefront for years. Indonesia, the Philippines, and Vietnam became models of financial inclusion as their interoperable QR codes and digital wallets were rapidly spreading across the region. But as the digital top end becomes ubiquitous, a more subtle and more […] The post The next ASEAN fintech opportunity is not payments acceptance, it’s…
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
+  - Kurz: Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-29T01:17:29+00:00`, fetched `2026-06-29T05:13:22+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）** — Score 5, observation — [Quelle](https://fabscene.com/new/interview/akizuki-electronics-history2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -95,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: エクスポート・共有 完成したデザインは .zip / PDF / PPTX / HTML 形式でダウンロードできるほか、Canva・Adobe・Vercel などへの連携にも対応しています。共有リンクは「表示のみ / コメント / 編集」のアクセス権を選んで発行できます。 事前準備：既存プロジェクトからデザインシステムを作る プロトタイプを作る前...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **数十ページのPDFを1回で処理、ローカルOCRモデル「Unlimited OCR」をバイドゥが無料公開。商用利用もできる（生成AIクローズアップ） | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/06/29/5234.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T23:36:39+00:00`, fetched `2026-06-29T03:32:44+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、Baiduの研究チームが開発した、数十ページのPDFなど長文を一括処理できるエンドツーエンドのOCRモデル「Unlimited OCR」を取り上...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Robbyant/lingbot-map** — Score 5, observation — [Quelle](https://github.com/Robbyant/lingbot-map)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

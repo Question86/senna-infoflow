@@ -24,6 +24,80 @@
     "id": "2f38c0ee762fe1d0bc62"
   },
   {
+    "title": "M 4.9 - 90 km S of Sarangani, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-29T04:53:09.040+00:00",
+    "fetched_at": "2026-06-29T05:13:22+00:00",
+    "summary": "Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "763a786d9741ba9fa200"
+  },
+  {
+    "title": "M 5.2 - 107 km SSW of Sarangani, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-29T04:42:12.719+00:00",
+    "fetched_at": "2026-06-29T05:13:22+00:00",
+    "summary": "DYFI? - II Time 2026-06-29 04:23:05 UTC 2026-06-29 04:23:05 UTC at epicenter Location 4.472°N 125.189°E Depth 9.91 km (6.16 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9e1236ae0632b4a5aadc"
+  },
+  {
     "title": "数を増やしても一貫性を保つ、runn の API テスト構成設計 - カミナシ エンジニアブログ",
     "url": "https://kaminashi-developer.hatenablog.jp/entry/runn-api-test-architecture",
     "source": "Hatena Bookmark Hotentry IT",
@@ -161,6 +235,28 @@
     "id": "58973b323c4cbd12e05e"
   },
   {
+    "title": "Southeast Asia’s investors are sleeping on a US$2B ecosystem next door",
+    "url": "https://e27.co/southeast-asias-investors-are-sleeping-on-a-us2b-ecosystem-next-door-20260629/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-29T03:58:47+00:00",
+    "fetched_at": "2026-06-29T05:13:22+00:00",
+    "summary": "Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Southeast Asia"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aabc515a9c1ce74eceee"
+  },
+  {
     "title": "The next ASEAN fintech opportunity is not payments acceptance, it’s settlement intelligence",
     "url": "https://e27.co/the-next-asean-fintech-opportunity-is-not-payments-acceptance-its-settlement-intelligence-20260623/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -180,6 +276,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a75a709dfab55a68f366"
+  },
+  {
+    "title": "松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T01:17:29+00:00",
+    "fetched_at": "2026-06-29T05:13:22+00:00",
+    "summary": "日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c69154d3b21600eadd1"
   },
   {
     "title": "「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）",

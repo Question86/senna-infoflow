@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T03:33:08+00:00",
-  "run_id": "2026-06-29T03:33:08+00:00",
+  "generated_at": "2026-06-29T05:13:47+00:00",
+  "run_id": "2026-06-29T05:13:47+00:00",
   "date": "2026-06-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 4,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 3,
-    "observe": 12,
+    "medium": 5,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -52,6 +52,80 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2f38c0ee762fe1d0bc62"
+      },
+      {
+        "title": "M 4.9 - 90 km S of Sarangani, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-29T04:53:09.040+00:00",
+        "fetched_at": "2026-06-29T05:13:22+00:00",
+        "summary": "Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "763a786d9741ba9fa200"
+      },
+      {
+        "title": "M 5.2 - 107 km SSW of Sarangani, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-06-29T04:42:12.719+00:00",
+        "fetched_at": "2026-06-29T05:13:22+00:00",
+        "summary": "DYFI? - II Time 2026-06-29 04:23:05 UTC 2026-06-29 04:23:05 UTC at epicenter Location 4.472°N 125.189°E Depth 9.91 km (6.16 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "9e1236ae0632b4a5aadc"
       },
       {
         "title": "数を増やしても一貫性を保つ、runn の API テスト構成設計 - カミナシ エンジニアブログ",
@@ -193,6 +267,28 @@
         "id": "58973b323c4cbd12e05e"
       },
       {
+        "title": "Southeast Asia’s investors are sleeping on a US$2B ecosystem next door",
+        "url": "https://e27.co/southeast-asias-investors-are-sleeping-on-a-us2b-ecosystem-next-door-20260629/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-29T03:58:47+00:00",
+        "fetched_at": "2026-06-29T05:13:22+00:00",
+        "summary": "Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aabc515a9c1ce74eceee"
+      },
+      {
         "title": "The next ASEAN fintech opportunity is not payments acceptance, it’s settlement intelligence",
         "url": "https://e27.co/the-next-asean-fintech-opportunity-is-not-payments-acceptance-its-settlement-intelligence-20260623/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -212,6 +308,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a75a709dfab55a68f366"
+      },
+      {
+        "title": "松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？",
+        "url": "https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T01:17:29+00:00",
+        "fetched_at": "2026-06-29T05:13:22+00:00",
+        "summary": "日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c69154d3b21600eadd1"
       },
       {
         "title": "「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）",
@@ -406,6 +523,80 @@
       "id": "2f38c0ee762fe1d0bc62"
     },
     {
+      "title": "M 4.9 - 90 km S of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-29T04:53:09.040+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "763a786d9741ba9fa200"
+    },
+    {
+      "title": "M 5.2 - 107 km SSW of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-06-29T04:42:12.719+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "DYFI? - II Time 2026-06-29 04:23:05 UTC 2026-06-29 04:23:05 UTC at epicenter Location 4.472°N 125.189°E Depth 9.91 km (6.16 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9e1236ae0632b4a5aadc"
+    },
+    {
       "title": "数を増やしても一貫性を保つ、runn の API テスト構成設計 - カミナシ エンジニアブログ",
       "url": "https://kaminashi-developer.hatenablog.jp/entry/runn-api-test-architecture",
       "source": "Hatena Bookmark Hotentry IT",
@@ -543,6 +734,28 @@
       "id": "58973b323c4cbd12e05e"
     },
     {
+      "title": "Southeast Asia’s investors are sleeping on a US$2B ecosystem next door",
+      "url": "https://e27.co/southeast-asias-investors-are-sleeping-on-a-us2b-ecosystem-next-door-20260629/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-29T03:58:47+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aabc515a9c1ce74eceee"
+    },
+    {
       "title": "The next ASEAN fintech opportunity is not payments acceptance, it’s settlement intelligence",
       "url": "https://e27.co/the-next-asean-fintech-opportunity-is-not-payments-acceptance-its-settlement-intelligence-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -562,6 +775,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a75a709dfab55a68f366"
+    },
+    {
+      "title": "松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T01:17:29+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c69154d3b21600eadd1"
     },
     {
       "title": "「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）",
@@ -731,56 +965,109 @@
   ],
   "new_findings": [
     {
-      "title": "Fluentdにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN36011274/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "M 4.9 - 90 km S of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-29T12:00:00+09:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "Fluentd Projectが提供するFluentdには、複数の脆弱性が存在します。",
+      "published_at": "2026-06-29T04:53:09.040+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34a3e10d843c7130f997"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "763a786d9741ba9fa200"
     },
     {
-      "title": "The next ASEAN fintech opportunity is not payments acceptance, it’s settlement intelligence",
-      "url": "https://e27.co/the-next-asean-fintech-opportunity-is-not-payments-acceptance-its-settlement-intelligence-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.2 - 107 km SSW of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-06-29T02:45:05+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "The gold rush in the fintech sector in Southeast Asia has been there at the storefront for years. Indonesia, the Philippines, and Vietnam became models of financial inclusion as their interoperable QR codes and digital wallets were rapidly spreading across the region. But as the digital top end becomes ubiquitous, a more subtle and more […] The post The next ASEAN fintech opportunity is not payments acceptance, it’s…",
+      "published_at": "2026-06-29T04:42:12.719+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "DYFI? - II Time 2026-06-29 04:23:05 UTC 2026-06-29 04:23:05 UTC at epicenter Location 4.472°N 125.189°E Depth 9.91 km (6.16 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9e1236ae0632b4a5aadc"
+    },
+    {
+      "title": "Southeast Asia’s investors are sleeping on a US$2B ecosystem next door",
+      "url": "https://e27.co/southeast-asias-investors-are-sleeping-on-a-us2b-ecosystem-next-door-20260629/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-29T03:58:47+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
         "Southeast Asia"
       ],
       "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Philippines (+2.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a75a709dfab55a68f366"
+      "id": "aabc515a9c1ce74eceee"
     },
     {
-      "title": "「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）",
-      "url": "https://fabscene.com/new/interview/akizuki-electronics-history2026/",
+      "title": "松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-29T00:58:19+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "電子工作を始めた人なら、たいてい最初にこの店のサイトを開く。秋葉原のパーツ街に半世紀以上店を構える秋月電子通商は、日本中の「作る人」が当たり前のように頼ってきた店だ。 ただ、その正体は少し変わっている。扱う部品はすべて自分たちの目で選び、現金で仕入れる。マイコンボードもセンサーも、変換基板やモジュ...",
+      "published_at": "2026-06-29T01:17:29+00:00",
+      "fetched_at": "2026-06-29T05:13:22+00:00",
+      "summary": "日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -792,109 +1079,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8f1c68c10c9f9d50c66e"
-    },
-    {
-      "title": "超便利なClaude Designの実践的な活用方法",
-      "url": "https://zenn.dev/branbran/articles/5730c47e1abac9",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-29T00:40:22+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "エクスポート・共有 完成したデザインは .zip / PDF / PPTX / HTML 形式でダウンロードできるほか、Canva・Adobe・Vercel などへの連携にも対応しています。共有リンクは「表示のみ / コメント / 編集」のアクセス権を選んで発行できます。 事前準備：既存プロジェクトからデザインシステムを作る プロトタイプを作る前...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "de4ddedd8df61c7bab4e"
-    },
-    {
-      "title": "数十ページのPDFを1回で処理、ローカルOCRモデル「Unlimited OCR」をバイドゥが無料公開。商用利用もできる（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/06/29/5234.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-28T23:36:39+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、Baiduの研究チームが開発した、数十ページのPDFなど長文を一括処理できるエンドツーエンドのOCRモデル「Unlimited OCR」を取り上...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7968de7f78decaef43dc"
-    },
-    {
-      "title": "Funded: I keep a notebook by my bed with one question about SEA climate",
-      "url": "https://e27.co/funded-i-keep-a-notebook-by-my-bed-with-one-question-about-sea-climate-20260626/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-29T03:00:23+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "I keep a small notebook by my bed. Not for ideas. Just things I don’t want to forget. Last week I wrote: “What does this place look like in 2040?” Not for a deck. Not for a client. I don’t have kids. The usual anchors people use to think about the future, school fees, inheritance, […] The post Funded: I keep a notebook by my bed with one question about SEA climate appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41076e3c5fc04b45c516"
-    },
-    {
-      "title": "The dangerous liquidation cascade waiting below the US$58,000 support threshold",
-      "url": "https://e27.co/the-dangerous-liquidation-cascade-waiting-below-the-us58000-support-threshold-20260629/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-29T02:48:28+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "The current correction in the digital asset market reflects a structural shift in investor behaviour rather than a random price fluctuation. Bitcoin recently fell by 0.84 per cent over a 24-hour period to settle at US$59,526.31, which slightly outpaced the broader market decline of 0.94 per cent. This synchronised downward movement highlights how tightly integrated […] The post The dangerous liquidation cascade wait…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4471197851450a084e53"
-    },
-    {
-      "title": "What it means to be good at your job in 2026",
-      "url": "https://e27.co/what-it-means-to-be-good-at-your-job-in-2026-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-29T02:15:54+00:00",
-      "fetched_at": "2026-06-29T03:32:44+00:00",
-      "summary": "In the startup ecosystem, the definition of excellence has shifted. We have spent decades hiring for “high-fidelity execution”—the ability to take a brief and turn it into a polished deliverable. But in 2026, execution is a utility. If a task is governed by rule-based logic and established procedures, BCG research suggests it is no longer […] The post What it means to be good at your job in 2026 appeared first on e2…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cbd818cae838e2fccb37"
+      "id": "2c69154d3b21600eadd1"
     }
   ],
   "source_errors": [],
