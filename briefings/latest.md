@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T06:59:15+00:00_
+_Generiert: 2026-06-29T08:45:33+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+30 neue relevante Treffer. Stärkstes Signal: „GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -131,6 +131,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: If you look at the internet today, whether it’s mainstream media or your social feeds, it’s impossible to escape the AI hype. The narrative is always the same: AI can do this, AI can do that, AI can do everything. We are constantly told that it’s going to completely replace human jobs. To make things […] The post Beyond the layoff headlines: Why AI plus humans is the ultimate power couple appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Thailand-founded Amity sets up Singapore AI hub, eyes 2027 IPO** — Score 10, observation — [Quelle](https://e27.co/thailand-founded-amity-sets-up-singapore-ai-hub-eyes-2027-ipo-20260629/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-29T08:21:52+00:00`, fetched `2026-06-29T08:45:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
+  - Kurz: Thailand-founded enterprise AI company Amity has opened a Singapore office and AI Research & Application Center (ARAC), placing the city-state at the centre of its regional expansion, product development, and planned path to a public listing in 2027. The move follows Amity’s US$100 million Series D round, led by EDBI, the investment arm operating under […] The post Thailand-founded Amity sets up Singapore AI hub, ey…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary developments in the euro area: May 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2605~3c7ea02712.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-06-29T08:00:00+00:00`, fetched `2026-06-29T08:45:06+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary developments in the euro area: May 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to build a real MVP: Start with evidence, not features** — Score 10, observation — [Quelle](https://e27.co/how-to-build-a-real-mvp-start-with-evidence-not-features-20260622/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-29T01:00:15+00:00`, fetched `2026-06-29T01:21:43+00:00`
@@ -140,14 +158,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
   - Kurz: The product labelled MVP is usually not a minimum. It is a compromise between anxiety, ambition, internal politics, and the hope that one release can settle more questions than it ever will. By the time it reaches execution, the so-called minimum version has absorbed edge cases, stakeholder comfort features, reporting needs, admin controls, future-proofing logic, […] The post How to build a real MVP: Start with evid…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Southeast Asia’s investors are sleeping on a US$2B ecosystem next door** — Score 8, observation — [Quelle](https://e27.co/southeast-asias-investors-are-sleeping-on-a-us2b-ecosystem-next-door-20260629/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-29T03:58:47+00:00`, fetched `2026-06-29T05:13:22+00:00`
-  - Treffer: APAC Trend Radar, founder, Southeast Asia
+- **「スマホカメラ」が「本物のカメラ」に到底かなわない6つの理由** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35249557/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-28T23:51:40+00:00`, fetched `2026-06-29T08:45:06+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
-  - Kurz: Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 最新スマートフォンのカメラは、写真を撮る道具として驚くほど高性能だ。大型センサー、明るいレンズ、そして豊富なソフトウェア機能を備え、プロ向けのミラーレス機に匹敵する写真が撮れる。それでも筆者は、カメラをスマホ1台に置き換えたいとは思わない。プロの写真家として、そしてスマホのレビュアーとして数々の機...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ISMAPクラウドサービスリスト等を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/56cff896-ab6d-43dc-b58c-7423f6eba3a9)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-29T07:58:53+00:00`, fetched `2026-06-29T08:45:06+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ISMAPクラウドサービスリスト等を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル推進委員の取組についてご協力いただいている企業・団体等の一覧を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_promotion_staff/cooperation)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -167,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル推進委員の取組における地域で開催される講座等の情報を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ジグムント駐日ドイツ大使による松本デジタル大臣表敬** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4f5a94ca-1b9c-4e1a-a662-46ac4edb2af7)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-29T06:00:00+00:00`, fetched `2026-06-29T06:58:51+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ジグムント駐日ドイツ大使による松本デジタル大臣表敬
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **大人気「めっちゃカメレオン」小学生にはオススメできない理由 ただの“かくれんぼ”と思いきや……** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/29/news070.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-29T03:02:08+00:00`, fetched `2026-06-29T06:58:51+00:00`
@@ -193,15 +211,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Komlock lab VPoE阿部(@takupeso)です。 ClaudeCodeに既存設計・コードに関するナレッジを渡すとき、僕はずっと同じやり方をしていました。@でファイルを指定し、CLAUDE.mdにルールを足し、.claudeを整備していました。 これももちろん有効な手法です。ただ、AIの調子でアウトプットの精度にブレが出ます。同じナレッジ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T01:17:29+00:00`, fetched `2026-06-29T05:13:22+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Robbyant/lingbot-map** — Score 5, observation — [Quelle](https://github.com/Robbyant/lingbot-map)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
