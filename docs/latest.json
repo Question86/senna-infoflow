@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T17:24:12+00:00",
-  "run_id": "2026-06-29T17:24:12+00:00",
+  "generated_at": "2026-06-29T18:14:58+00:00",
+  "run_id": "2026-06-29T18:14:58+00:00",
   "date": "2026-06-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 2,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 8,
-    "observe": 40,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-29T15:33:39+00:00",
-        "fetched_at": "2026-06-29T17:23:46+00:00",
+        "published_at": "2026-06-29T17:54:33+00:00",
+        "fetched_at": "2026-06-29T18:14:28+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3493283fffc193ba7759"
+        "id": "be5f5b54c40f35432c8d"
       },
       {
         "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -728,6 +728,27 @@
         "id": "32a9b6c98c54f419dadc"
       },
       {
+        "title": "Highlights from Git 2.55",
+        "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-29T17:25:25+00:00",
+        "fetched_at": "2026-06-29T18:14:28+00:00",
+        "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12f511dd19c6a4926594"
+      },
+      {
         "title": "Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
         "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
         "source": "GitHub Changelog Atom",
@@ -1165,8 +1186,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-29T15:33:39+00:00",
-      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "published_at": "2026-06-29T17:54:33+00:00",
+      "fetched_at": "2026-06-29T18:14:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1200,7 +1221,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3493283fffc193ba7759"
+      "id": "be5f5b54c40f35432c8d"
     },
     {
       "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -1857,6 +1878,27 @@
       "id": "32a9b6c98c54f419dadc"
     },
     {
+      "title": "Highlights from Git 2.55",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-29T17:25:25+00:00",
+      "fetched_at": "2026-06-29T18:14:28+00:00",
+      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12f511dd19c6a4926594"
+    },
+    {
       "title": "Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
       "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
       "source": "GitHub Changelog Atom",
@@ -2293,8 +2335,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-29T15:33:39+00:00",
-      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "published_at": "2026-06-29T17:54:33+00:00",
+      "fetched_at": "2026-06-29T18:14:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2328,49 +2370,28 @@
         "HD",
         "LOW"
       ],
-      "id": "3493283fffc193ba7759"
+      "id": "be5f5b54c40f35432c8d"
     },
     {
-      "title": "Restrict issue creation to collaborators only",
-      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "source": "GitHub Changelog Atom",
+      "title": "Highlights from Git 2.55",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-06-29T16:08:23+00:00",
-      "fetched_at": "2026-06-29T17:23:46+00:00",
-      "summary": "Repository admins can now restrict issue creation to collaborators with write access. This gives you more control over who can open issues and helps reduce unwanted issue creation, while keeping… The post Restrict issue creation to collaborators only appeared first on The GitHub Blog .",
+      "published_at": "2026-06-29T17:25:25+00:00",
+      "fetched_at": "2026-06-29T18:14:28+00:00",
+      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
       "matched_keywords": [
         "GitHub",
-        "Public Health"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9714819ba39300eed6df"
-    },
-    {
-      "title": "Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-29T16:47:16+00:00",
-      "fetched_at": "2026-06-29T17:23:46+00:00",
-      "summary": "Claude Opus 4.8 (fast mode) is now rolling out in preview on GitHub Copilot. Fast mode delivers significantly faster output token speeds while maintaining the same intelligence as Claude Opus… The post Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
+        "Open Source"
       ],
       "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5fd1dec22e50cc415864"
+      "id": "12f511dd19c6a4926594"
     }
   ],
   "source_errors": [],
