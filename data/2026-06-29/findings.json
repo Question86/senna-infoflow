@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-29T19:33:22+00:00",
-    "fetched_at": "2026-06-29T21:08:59+00:00",
+    "published_at": "2026-06-29T21:39:40+00:00",
+    "fetched_at": "2026-06-29T22:41:01+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f82a0037446be19ad468"
+    "id": "18e79fa41ee66d73f060"
   },
   {
     "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -1139,6 +1139,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "de4ddedd8df61c7bab4e"
+  },
+  {
+    "title": "逆にすごい。大手コンサル作「AIのすごさを証明する報告書」がハルシネーションだらけ | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/a-report-full-of-hallucinations/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T00:21:55+00:00",
+    "fetched_at": "2026-06-29T22:41:01+00:00",
+    "summary": "AIのおかげで仕事が楽になった人は多いのではないでしょうか。 私も、ライティングするにあたって、資料を探してもらったり、録音した音声を文字起こしして綺麗に整えてもらったりと、AIによって作業効率が上がったのを実感している側の一員。 特に、録音した自分の声を聞かなくて済むようになったので、心理ストレスか...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ecfbe58e7a5aa38421ac"
   },
   {
     "title": "数十ページのPDFを1回で処理、ローカルOCRモデル「Unlimited OCR」をバイドゥが無料公開。商用利用もできる（生成AIクローズアップ） | テクノエッジ TechnoEdge",
