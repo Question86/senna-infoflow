@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T12:10:02+00:00",
-  "run_id": "2026-06-29T12:10:02+00:00",
+  "generated_at": "2026-06-29T13:47:37+00:00",
+  "run_id": "2026-06-29T13:47:37+00:00",
   "date": "2026-06-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 4,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
     "medium": 8,
-    "observe": 29,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -300,6 +300,28 @@
           "LOW"
         ],
         "id": "2dc105c87d52e79b3225"
+      },
+      {
+        "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-06-29T14:40:21+00:00",
+        "fetched_at": "2026-06-29T13:47:11+00:00",
+        "summary": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8e1649983ecab9bcf1e7"
       },
       {
         "title": "Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht",
@@ -660,6 +682,69 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "86637300de3bfd901157"
+      },
+      {
+        "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メルカリから警察へ行くよう回答され、警察には門前払い…105,000円を失うことに",
+        "url": "https://togetter.com/li/2715015",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T11:27:16+00:00",
+        "fetched_at": "2026-06-29T13:47:11+00:00",
+        "summary": "酢酸ちゃん @Ryunen_bocchi メルカリで「傷があるので安い」 iPhoneを買う ↓ 盗品としてロックがかかっている ↓ コメ欄で偽のIMEIが書いてあるが、実際はソフトバンク✕ ↓ で105000円失って横転 おそらくApple Careの紛失サポートで、「盗まれた」と嘘ついて新しい端末をもらい、旧端末を転売したものかと 拡散お願いしま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9a0d1653bdecd61e11a1"
+      },
+      {
+        "title": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+        "url": "https://www.watch.impress.co.jp/docs/news/2120942.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T10:40:00+00:00",
+        "fetched_at": "2026-06-29T13:47:11+00:00",
+        "summary": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "add3ba02377e0cc39b54"
+      },
+      {
+        "title": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+        "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T08:51:08+00:00",
+        "fetched_at": "2026-06-29T13:47:11+00:00",
+        "summary": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6209aa730f56ef8850e2"
       },
       {
         "title": "大人気「めっちゃカメレオン」小学生にはオススメできない理由 ただの“かくれんぼ”と思いきや……",
@@ -1181,6 +1266,28 @@
       "id": "2dc105c87d52e79b3225"
     },
     {
+      "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-06-29T14:40:21+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e1649983ecab9bcf1e7"
+    },
+    {
       "title": "Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht",
       "url": "https://www.heise.de/news/Kritische-libssh2-Luecke-Proof-of-Concept-Exploit-veroeffentlicht-11347855.html",
       "source": "heise Security Alerts",
@@ -1541,6 +1648,69 @@
       "id": "86637300de3bfd901157"
     },
     {
+      "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メルカリから警察へ行くよう回答され、警察には門前払い…105,000円を失うことに",
+      "url": "https://togetter.com/li/2715015",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T11:27:16+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "酢酸ちゃん @Ryunen_bocchi メルカリで「傷があるので安い」 iPhoneを買う ↓ 盗品としてロックがかかっている ↓ コメ欄で偽のIMEIが書いてあるが、実際はソフトバンク✕ ↓ で105000円失って横転 おそらくApple Careの紛失サポートで、「盗まれた」と嘘ついて新しい端末をもらい、旧端末を転売したものかと 拡散お願いしま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9a0d1653bdecd61e11a1"
+    },
+    {
+      "title": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120942.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T10:40:00+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "add3ba02377e0cc39b54"
+    },
+    {
+      "title": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T08:51:08+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6209aa730f56ef8850e2"
+    },
+    {
       "title": "大人気「めっちゃカメレオン」小学生にはオススメできない理由 ただの“かくれんぼ”と思いきや……",
       "url": "https://www.itmedia.co.jp/news/articles/2606/29/news070.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1789,130 +1959,89 @@
   ],
   "new_findings": [
     {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI News RSS",
+      "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-06-29T12:09:32+00:00",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "published_at": "2026-06-29T14:40:21+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
       "matched_keywords": [
-        "AI/KI",
-        "Automatisierung",
-        "OpenAI"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Automatisierung (+4.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2c0e5f62012c811da28c"
+      "id": "8e1649983ecab9bcf1e7"
     },
     {
-      "title": "Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ",
-      "url": "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
+      "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メルカリから警察へ行くよう回答され、警察には門前払い…105,000円を失うことに",
+      "url": "https://togetter.com/li/2715015",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-29T04:49:25+00:00",
-      "fetched_at": "2026-06-29T12:09:32+00:00",
-      "summary": "AI研究組織のDeepReinforceがAIモデルファミリー「Ornith-1.0」をオープンモデルとして公開しました。最上位モデルのOrnith-1.0-397Bは複数のベンチマークテストでClaude Opus 4.7を上回っています。 Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | DeepReinforce Blog | Jun. 2026 https://deep-reinforce.co...",
+      "published_at": "2026-06-29T11:27:16+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "酢酸ちゃん @Ryunen_bocchi メルカリで「傷があるので安い」 iPhoneを買う ↓ 盗品としてロックがかかっている ↓ コメ欄で偽のIMEIが書いてあるが、実際はソフトバンク✕ ↓ で105000円失って横転 おそらくApple Careの紛失サポートで、「盗まれた」と嘘ついて新しい端末をもらい、旧端末を転売したものかと 拡散お願いしま...",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d6095eb91b366d6ff0cd"
+      "id": "9a0d1653bdecd61e11a1"
     },
     {
-      "title": "M 5.5 - 218 km W of Bandon, Oregon",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120942.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-29T12:05:24.977+00:00",
-      "fetched_at": "2026-06-29T12:09:32+00:00",
-      "summary": "PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-06-29 11:35:33 UTC 2026-06-29 11:35:33 UTC at epicenter Location 43.383°N 127.079°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-06-29T10:40:00+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "2dc105c87d52e79b3225"
-    },
-    {
-      "title": "Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht",
-      "url": "https://www.heise.de/news/Kritische-libssh2-Luecke-Proof-of-Concept-Exploit-veroeffentlicht-11347855.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-06-29T11:29:00.000+00:00",
-      "fetched_at": "2026-06-29T12:09:32+00:00",
-      "summary": "Vergangene Woche wurde eine Sicherheitslücke in libssh2 bekannt. Jetzt ist Exploit-Code aufgetaucht, der sie missbrauchen kann.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "84964b0c5bd991324233"
-    },
-    {
-      "title": "Why investors and customers are betting on ESG-aligned startups",
-      "url": "https://e27.co/why-investors-and-customers-are-betting-on-esg-aligned-startups-20250604/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-29T11:15:57+00:00",
-      "fetched_at": "2026-06-29T12:09:32+00:00",
-      "summary": "In the fast-paced world of startups, founders are trained to think lean, move fast, and scale big. But what if we told you that embedding Environmental, Social, and Governance (ESG) principles early on could actually accelerate your growth rather than slow you down? The outdated notion that ESG is only for large corporations with sprawling […] The post Why investors and customers are betting on ESG-aligned startups…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9ac1da8d37eec5c471e8"
+      "id": "add3ba02377e0cc39b54"
+    },
+    {
+      "title": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T08:51:08+00:00",
+      "fetched_at": "2026-06-29T13:47:11+00:00",
+      "summary": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6209aa730f56ef8850e2"
     }
   ],
   "source_errors": [],

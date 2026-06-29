@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T12:10:02+00:00_
+_Generiert: 2026-06-29T13:47:37+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+41 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-06-29 11:35:33 UTC 2026-06-29 11:35:33 UTC at epicenter Location 43.383°N 127.079°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-29T14:40:21+00:00`, fetched `2026-06-29T13:47:11+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht** — Score 12, risk — [Quelle](https://www.heise.de/news/Kritische-libssh2-Luecke-Proof-of-Concept-Exploit-veroeffentlicht-11347855.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-29T11:29:00.000+00:00`, fetched `2026-06-29T12:09:32+00:00`
@@ -186,23 +195,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル推進委員の取組における地域で開催される講座等の情報を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **大人気「めっちゃカメレオン」小学生にはオススメできない理由 ただの“かくれんぼ”と思いきや……** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/29/news070.html)
+- **メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メルカリから警察へ行くよう回答され、警察には門前払い…105,000円を失うことに** — Score 5, observation — [Quelle](https://togetter.com/li/2715015)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T03:02:08+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Zeit: published `2026-06-29T11:27:16+00:00`, fetched `2026-06-29T13:47:11+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は2026年06月20日から06月26日までの7日間について集計し、まとめた。 先週のアクセス1位は、KDDIがメールインフラを提供している各ISPメールアドレスなど最大1422万件が漏えいした可能性に関するニュース...
+  - Kurz: 酢酸ちゃん @Ryunen_bocchi メルカリで「傷があるので安い」 iPhoneを買う ↓ 盗品としてロックがかかっている ↓ コメ欄で偽のIMEIが書いてあるが、実際はソフトバンク✕ ↓ で105000円失って横転 おそらくApple Careの紛失サポートで、「盗まれた」と嘘ついて新しい端末をもらい、旧端末を転売したものかと 拡散お願いしま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claudeに「オントロジー」を持たせたら、コスト半分・3倍速になるかも** — Score 5, observation — [Quelle](https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring)
+- **「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2120942.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T01:53:39+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Zeit: published `2026-06-29T10:40:00+00:00`, fetched `2026-06-29T13:47:11+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Komlock lab VPoE阿部(@takupeso)です。 ClaudeCodeに既存設計・コードに関するナレッジを渡すとき、僕はずっと同じやり方をしていました。@でファイルを指定し、CLAUDE.mdにルールを足し、.claudeを整備していました。 これももちろん有効な手法です。ただ、AIの調子でアウトプットの精度にブレが出ます。同じナレッジ...
+  - Kurz: 「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Robbyant/lingbot-map** — Score 5, observation — [Quelle](https://github.com/Robbyant/lingbot-map)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A feed-forward 3D foundation model for reconstructing scenes from streaming data LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab 🗺️ Meet LingBot-Map! We've built a feed-forward 3D foundation model for streaming 3D reconstruction! 🏗️🌍 LingBot-Map has focused on: Geometric Context Transformer : Arch…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **I went to the Maldives. Everyone wanted to talk about Temu** — Score 3, observation — [Quelle](https://restofworld.org/2026/china-consumer-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-06-29T10:00:58+00:00`, fetched `2026-06-29T10:19:45+00:00`
-  - Treffer: keine
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: The Chinese shopping app has become so popular that even a government surcharge couldn't slow demand.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -270,6 +270,28 @@
     "id": "2dc105c87d52e79b3225"
   },
   {
+    "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:40:21+00:00",
+    "fetched_at": "2026-06-29T13:47:11+00:00",
+    "summary": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8e1649983ecab9bcf1e7"
+  },
+  {
     "title": "Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht",
     "url": "https://www.heise.de/news/Kritische-libssh2-Luecke-Proof-of-Concept-Exploit-veroeffentlicht-11347855.html",
     "source": "heise Security Alerts",
@@ -628,6 +650,69 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "86637300de3bfd901157"
+  },
+  {
+    "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メルカリから警察へ行くよう回答され、警察には門前払い…105,000円を失うことに",
+    "url": "https://togetter.com/li/2715015",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T11:27:16+00:00",
+    "fetched_at": "2026-06-29T13:47:11+00:00",
+    "summary": "酢酸ちゃん @Ryunen_bocchi メルカリで「傷があるので安い」 iPhoneを買う ↓ 盗品としてロックがかかっている ↓ コメ欄で偽のIMEIが書いてあるが、実際はソフトバンク✕ ↓ で105000円失って横転 おそらくApple Careの紛失サポートで、「盗まれた」と嘘ついて新しい端末をもらい、旧端末を転売したものかと 拡散お願いしま...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a0d1653bdecd61e11a1"
+  },
+  {
+    "title": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+    "url": "https://www.watch.impress.co.jp/docs/news/2120942.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T10:40:00+00:00",
+    "fetched_at": "2026-06-29T13:47:11+00:00",
+    "summary": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "add3ba02377e0cc39b54"
+  },
+  {
+    "title": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T08:51:08+00:00",
+    "fetched_at": "2026-06-29T13:47:11+00:00",
+    "summary": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6209aa730f56ef8850e2"
   },
   {
     "title": "大人気「めっちゃカメレオン」小学生にはオススメできない理由 ただの“かくれんぼ”と思いきや……",

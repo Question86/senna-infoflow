@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:10:05+00:00",
+  "generated_at": "2026-06-29T13:47:40+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,21 +111,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548825",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 218 km W of Bandon, Oregon",
-        "summary": "M5.5 - 218 km W of Bandon, Oregon. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt",
-        "published_at": "2026-06-29T11:35:33+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 466.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
