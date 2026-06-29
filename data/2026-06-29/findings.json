@@ -43,5 +43,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b4b19ba57cf74a154c03"
+  },
+  {
+    "title": "How to build a real MVP: Start with evidence, not features",
+    "url": "https://e27.co/how-to-build-a-real-mvp-start-with-evidence-not-features-20260622/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-29T01:00:15+00:00",
+    "fetched_at": "2026-06-29T01:21:43+00:00",
+    "summary": "The product labelled MVP is usually not a minimum. It is a compromise between anxiety, ambition, internal politics, and the hope that one release can settle more questions than it ever will. By the time it reaches execution, the so-called minimum version has absorbed edge cases, stakeholder comfort features, reporting needs, admin controls, future-proofing logic, […] The post How to build a real MVP: Start with evid…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Content-Chance"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "58973b323c4cbd12e05e"
+  },
+  {
+    "title": "ティム・クックCEOが「もはや限界」と値上げに言及――すでにAndroidでは値上げラッシュが始まる",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2606/28/news021.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T04:43:06+00:00",
+    "fetched_at": "2026-06-29T01:21:43+00:00",
+    "summary": "今週、アップルのティム・クックCEOが、ウォール・ストリート・ジャーナルのインタビューで「残念ながら値上げは避けられない」と語ったという。昨今のメモリ高騰が原因なのは明らかだ。 この記事について この記事は、毎週土曜日に配信されているメールマガジン「石川温のスマホ業界新聞」から、一部を転載したものです...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fb9263f29366c533030c"
   }
 ]
