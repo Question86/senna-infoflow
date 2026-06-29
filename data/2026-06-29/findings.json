@@ -511,6 +511,28 @@
     "id": "6af849f765f7a6e48df9"
   },
   {
+    "title": "Read-only Actions cache for untrusted triggers",
+    "url": "https://github.blog/changelog/2026-06-26-read-only-actions-cache-for-untrusted-triggers",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-26T18:31:43+00:00",
+    "fetched_at": "2026-06-29T20:29:35+00:00",
+    "summary": "GitHub Actions now issues read-only cache tokens to the default branch for workflow events that can be triggered without write permissions to the repository. This applies least privilege to the… The post Read-only Actions cache for untrusted triggers appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub",
+      "GitHub Actions"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f4e1ae0a36305188a703"
+  },
+  {
     "title": "M 4.9 - 234 km SSW of ‘Ohonua, Tonga",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1081,6 +1103,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7968de7f78decaef43dc"
+  },
+  {
+    "title": "多くの現場を見て気づいた「有名ではないエンジニア」の生きのこり方",
+    "url": "https://speakerdeck.com/kenususugi/duo-kunoxian-chang-wojian-teqi-duita-you-ming-dehanaienzinia-nosheng-kinokorifang",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T21:26:16+00:00",
+    "fetched_at": "2026-06-29T20:29:35+00:00",
+    "summary": "2026/6/28 エンジニアがこの先生きのこるためのカンファレンス2026 Track B 14:30～",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e4eda2a49a67b39cfc45"
   },
   {
     "title": "ティム・クックCEOが「もはや限界」と値上げに言及――すでにAndroidでは値上げラッシュが始まる",
