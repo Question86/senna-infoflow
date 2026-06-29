@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T23:09:45+00:00",
-  "run_id": "2026-06-29T23:09:45+00:00",
+  "generated_at": "2026-06-29T23:37:04+00:00",
+  "run_id": "2026-06-29T23:37:04+00:00",
   "date": "2026-06-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 2,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
     "medium": 8,
-    "observe": 49,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1004,6 +1004,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "86637300de3bfd901157"
+      },
+      {
+        "title": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2120915.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T21:45:06+00:00",
+        "fetched_at": "2026-06-29T23:36:35+00:00",
+        "summary": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "25e191917383cd646622"
+      },
+      {
+        "title": "日清「謎うなぎ丼」登場 さらに“うなぎ丼”らしい味わい",
+        "url": "https://www.watch.impress.co.jp/docs/news/2120894.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T13:16:34+00:00",
+        "fetched_at": "2026-06-29T23:36:35+00:00",
+        "summary": "日清「謎うなぎ丼」登場 さらに“うなぎ丼”らしい味わい",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "474d548c9aa6e6f9f291"
       },
       {
         "title": "「高市人気」と選挙結果にズレ？ 自民推薦候補が杉並区長選で敗北、岸本聡子氏が再選",
@@ -2355,6 +2397,48 @@
       "id": "86637300de3bfd901157"
     },
     {
+      "title": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2120915.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T21:45:06+00:00",
+      "fetched_at": "2026-06-29T23:36:35+00:00",
+      "summary": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "25e191917383cd646622"
+    },
+    {
+      "title": "日清「謎うなぎ丼」登場 さらに“うなぎ丼”らしい味わい",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120894.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T13:16:34+00:00",
+      "fetched_at": "2026-06-29T23:36:35+00:00",
+      "summary": "日清「謎うなぎ丼」登場 さらに“うなぎ丼”らしい味わい",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "474d548c9aa6e6f9f291"
+    },
+    {
       "title": "「高市人気」と選挙結果にズレ？ 自民推薦候補が杉並区長選で敗北、岸本聡子氏が再選",
       "url": "https://www.j-cast.com/2026/06/29515961.html?p=all",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2729,26 +2813,46 @@
   ],
   "new_findings": [
     {
-      "title": "ティアフォー7月上場へ 日本発の自動運転、NVIDIA拡張で埋没懸念 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC252LK0V20C26A6000000/",
+      "title": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2120915.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-29T08:53:43+00:00",
-      "fetched_at": "2026-06-29T23:09:19+00:00",
-      "summary": "自動運転開発のティアフォー（東京・品川）が29日、東京証券取引所から上場を承認された。7月22日に東証グロース市場に上場する。自動運転向け人工知能（AI）開発をめぐる競争激化で想定時価総額は700億円と、直近の評価額を下回った。同日公開された有価証券届出書によると、1株当たりの公募・売り出し価格は1015円、時...",
+      "published_at": "2026-06-29T21:45:06+00:00",
+      "fetched_at": "2026-06-29T23:36:35+00:00",
+      "summary": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a9dab1be47e53b4749a6"
+      "id": "25e191917383cd646622"
+    },
+    {
+      "title": "日清「謎うなぎ丼」登場 さらに“うなぎ丼”らしい味わい",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120894.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T13:16:34+00:00",
+      "fetched_at": "2026-06-29T23:36:35+00:00",
+      "summary": "日清「謎うなぎ丼」登場 さらに“うなぎ丼”らしい味わい",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "474d548c9aa6e6f9f291"
     }
   ],
   "source_errors": [],
