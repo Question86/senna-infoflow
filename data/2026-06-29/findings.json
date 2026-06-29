@@ -48,6 +48,28 @@
     "id": "6c8d81af8dbd3667a7f6"
   },
   {
+    "title": "Fluentdにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN36011274/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-29T12:00:00+09:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "Fluentd Projectが提供するFluentdには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "34a3e10d843c7130f997"
+  },
+  {
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "url": "https://openai.com/index/hp-frontier-partnership",
     "source": "OpenAI News RSS",
@@ -139,6 +161,90 @@
     "id": "58973b323c4cbd12e05e"
   },
   {
+    "title": "The next ASEAN fintech opportunity is not payments acceptance, it’s settlement intelligence",
+    "url": "https://e27.co/the-next-asean-fintech-opportunity-is-not-payments-acceptance-its-settlement-intelligence-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-29T02:45:05+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "The gold rush in the fintech sector in Southeast Asia has been there at the storefront for years. Indonesia, the Philippines, and Vietnam became models of financial inclusion as their interoperable QR codes and digital wallets were rapidly spreading across the region. But as the digital top end becomes ubiquitous, a more subtle and more […] The post The next ASEAN fintech opportunity is not payments acceptance, it’s…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a75a709dfab55a68f366"
+  },
+  {
+    "title": "「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/interview/akizuki-electronics-history2026/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T00:58:19+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "電子工作を始めた人なら、たいてい最初にこの店のサイトを開く。秋葉原のパーツ街に半世紀以上店を構える秋月電子通商は、日本中の「作る人」が当たり前のように頼ってきた店だ。 ただ、その正体は少し変わっている。扱う部品はすべて自分たちの目で選び、現金で仕入れる。マイコンボードもセンサーも、変換基板やモジュ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f1c68c10c9f9d50c66e"
+  },
+  {
+    "title": "超便利なClaude Designの実践的な活用方法",
+    "url": "https://zenn.dev/branbran/articles/5730c47e1abac9",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T00:40:22+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "エクスポート・共有 完成したデザインは .zip / PDF / PPTX / HTML 形式でダウンロードできるほか、Canva・Adobe・Vercel などへの連携にも対応しています。共有リンクは「表示のみ / コメント / 編集」のアクセス権を選んで発行できます。 事前準備：既存プロジェクトからデザインシステムを作る プロトタイプを作る前...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "de4ddedd8df61c7bab4e"
+  },
+  {
+    "title": "数十ページのPDFを1回で処理、ローカルOCRモデル「Unlimited OCR」をバイドゥが無料公開。商用利用もできる（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/06/29/5234.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-28T23:36:39+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、Baiduの研究チームが開発した、数十ページのPDFなど長文を一括処理できるエンドツーエンドのOCRモデル「Unlimited OCR」を取り上...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7968de7f78decaef43dc"
+  },
+  {
     "title": "ティム・クックCEOが「もはや限界」と値上げに言及――すでにAndroidでは値上げラッシュが始まる",
     "url": "https://www.itmedia.co.jp/mobile/articles/2606/28/news021.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -179,5 +285,65 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "782b54a21d34e84bb3fe"
+  },
+  {
+    "title": "Funded: I keep a notebook by my bed with one question about SEA climate",
+    "url": "https://e27.co/funded-i-keep-a-notebook-by-my-bed-with-one-question-about-sea-climate-20260626/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-29T03:00:23+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "I keep a small notebook by my bed. Not for ideas. Just things I don’t want to forget. Last week I wrote: “What does this place look like in 2040?” Not for a deck. Not for a client. I don’t have kids. The usual anchors people use to think about the future, school fees, inheritance, […] The post Funded: I keep a notebook by my bed with one question about SEA climate appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "41076e3c5fc04b45c516"
+  },
+  {
+    "title": "The dangerous liquidation cascade waiting below the US$58,000 support threshold",
+    "url": "https://e27.co/the-dangerous-liquidation-cascade-waiting-below-the-us58000-support-threshold-20260629/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-29T02:48:28+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "The current correction in the digital asset market reflects a structural shift in investor behaviour rather than a random price fluctuation. Bitcoin recently fell by 0.84 per cent over a 24-hour period to settle at US$59,526.31, which slightly outpaced the broader market decline of 0.94 per cent. This synchronised downward movement highlights how tightly integrated […] The post The dangerous liquidation cascade wait…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4471197851450a084e53"
+  },
+  {
+    "title": "What it means to be good at your job in 2026",
+    "url": "https://e27.co/what-it-means-to-be-good-at-your-job-in-2026-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-29T02:15:54+00:00",
+    "fetched_at": "2026-06-29T03:32:44+00:00",
+    "summary": "In the startup ecosystem, the definition of excellence has shifted. We have spent decades hiring for “high-fidelity execution”—the ability to take a brief and turn it into a polished deliverable. But in 2026, execution is a utility. If a task is governed by rule-based logic and established procedures, BCG research suggests it is no longer […] The post What it means to be good at your job in 2026 appeared first on e2…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cbd818cae838e2fccb37"
   }
 ]
