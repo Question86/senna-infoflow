@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-29T10:19:59+00:00",
-    "fetched_at": "2026-06-29T10:19:45+00:00",
+    "published_at": "2026-06-29T15:02:22+00:00",
+    "fetched_at": "2026-06-29T15:02:07+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "99e77d68b5f4b9dc31f7"
+    "id": "47c0970a08aeb43a9a69"
   },
   {
     "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -268,6 +268,28 @@
       "LOW"
     ],
     "id": "2dc105c87d52e79b3225"
+  },
+  {
+    "title": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:55:18+00:00",
+    "fetched_at": "2026-06-29T15:02:07+00:00",
+    "summary": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2934d84c813b5457ee9f"
   },
   {
     "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",

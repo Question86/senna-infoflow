@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T13:47:37+00:00",
-  "run_id": "2026-06-29T13:47:37+00:00",
+  "generated_at": "2026-06-29T15:02:35+00:00",
+  "run_id": "2026-06-29T15:02:35+00:00",
   "date": "2026-06-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 2,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 8,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-29T10:19:59+00:00",
-        "fetched_at": "2026-06-29T10:19:45+00:00",
+        "published_at": "2026-06-29T15:02:22+00:00",
+        "fetched_at": "2026-06-29T15:02:07+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "99e77d68b5f4b9dc31f7"
+        "id": "47c0970a08aeb43a9a69"
       },
       {
         "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -300,6 +300,28 @@
           "LOW"
         ],
         "id": "2dc105c87d52e79b3225"
+      },
+      {
+        "title": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-06-29T14:55:18+00:00",
+        "fetched_at": "2026-06-29T15:02:07+00:00",
+        "summary": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2934d84c813b5457ee9f"
       },
       {
         "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -1000,8 +1022,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-29T10:19:59+00:00",
-      "fetched_at": "2026-06-29T10:19:45+00:00",
+      "published_at": "2026-06-29T15:02:22+00:00",
+      "fetched_at": "2026-06-29T15:02:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1035,7 +1057,7 @@
         "HD",
         "LOW"
       ],
-      "id": "99e77d68b5f4b9dc31f7"
+      "id": "47c0970a08aeb43a9a69"
     },
     {
       "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -1264,6 +1286,28 @@
         "LOW"
       ],
       "id": "2dc105c87d52e79b3225"
+    },
+    {
+      "title": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-06-29T14:55:18+00:00",
+      "fetched_at": "2026-06-29T15:02:07+00:00",
+      "summary": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2934d84c813b5457ee9f"
     },
     {
       "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -1959,89 +2003,68 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-29T15:02:22+00:00",
+      "fetched_at": "2026-06-29T15:02:07+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "47c0970a08aeb43a9a69"
+    },
+    {
+      "title": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html",
       "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-06-29T14:40:21+00:00",
-      "fetched_at": "2026-06-29T13:47:11+00:00",
-      "summary": "Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "published_at": "2026-06-29T14:55:18+00:00",
+      "fetched_at": "2026-06-29T15:02:07+00:00",
+      "summary": "Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00",
       "matched_keywords": [
         "liquidity",
         "Macro/Policy",
         "open market operations"
       ],
       "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8e1649983ecab9bcf1e7"
-    },
-    {
-      "title": "メルカリで「傷があるので安い」iPhoneを買ったら…盗品としてロックされ、メルカリから警察へ行くよう回答され、警察には門前払い…105,000円を失うことに",
-      "url": "https://togetter.com/li/2715015",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-29T11:27:16+00:00",
-      "fetched_at": "2026-06-29T13:47:11+00:00",
-      "summary": "酢酸ちゃん @Ryunen_bocchi メルカリで「傷があるので安い」 iPhoneを買う ↓ 盗品としてロックがかかっている ↓ コメ欄で偽のIMEIが書いてあるが、実際はソフトバンク✕ ↓ で105000円失って横転 おそらくApple Careの紛失サポートで、「盗まれた」と嘘ついて新しい端末をもらい、旧端末を転売したものかと 拡散お願いしま...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9a0d1653bdecd61e11a1"
-    },
-    {
-      "title": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120942.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-29T10:40:00+00:00",
-      "fetched_at": "2026-06-29T13:47:11+00:00",
-      "summary": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "add3ba02377e0cc39b54"
-    },
-    {
-      "title": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-29T08:51:08+00:00",
-      "fetched_at": "2026-06-29T13:47:11+00:00",
-      "summary": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6209aa730f56ef8850e2"
+      "id": "2934d84c813b5457ee9f"
     }
   ],
   "source_errors": [],

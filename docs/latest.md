@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T13:47:37+00:00_
+_Generiert: 2026-06-29T15:02:35+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-29T10:19:59+00:00`, fetched `2026-06-29T10:19:45+00:00`
+  - Zeit: published `2026-06-29T15:02:22+00:00`, fetched `2026-06-29T15:02:07+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-06-29 11:35:33 UTC 2026-06-29 11:35:33 UTC at epicenter Location 43.383°N 127.079°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-06-29T14:55:18+00:00`, fetched `2026-06-29T15:02:07+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-06-29T14:40:21+00:00`, fetched `2026-06-29T13:47:11+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Robbyant/lingbot-map** — Score 5, observation — [Quelle](https://github.com/Robbyant/lingbot-map)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-29T02:14:40+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A feed-forward 3D foundation model for reconstructing scenes from streaming data LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab 🗺️ Meet LingBot-Map! We've built a feed-forward 3D foundation model for streaming 3D reconstruction! 🏗️🌍 LingBot-Map has focused on: Geometric Context Transformer : Arch…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
