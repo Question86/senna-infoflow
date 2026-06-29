@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T16:26:16+00:00",
-  "run_id": "2026-06-29T16:26:16+00:00",
+  "generated_at": "2026-06-29T17:24:12+00:00",
+  "run_id": "2026-06-29T17:24:12+00:00",
   "date": "2026-06-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 3,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
     "medium": 8,
-    "observe": 38,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-06-29T15:02:22+00:00",
-        "fetched_at": "2026-06-29T15:02:07+00:00",
+        "published_at": "2026-06-29T15:33:39+00:00",
+        "fetched_at": "2026-06-29T17:23:46+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "47c0970a08aeb43a9a69"
+        "id": "3493283fffc193ba7759"
       },
       {
         "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -579,6 +579,27 @@
         "id": "7f322cee1d8054dce52f"
       },
       {
+        "title": "Restrict issue creation to collaborators only",
+        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-29T16:08:23+00:00",
+        "fetched_at": "2026-06-29T17:23:46+00:00",
+        "summary": "Repository admins can now restrict issue creation to collaborators with write access. This gives you more control over who can open issues and helps reduce unwanted issue creation, while keeping… The post Restrict issue creation to collaborators only appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Public Health"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9714819ba39300eed6df"
+      },
+      {
         "title": "持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆",
         "url": "https://gigazine.net/news/20260629-ai-exam-brown-university/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -705,6 +726,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "32a9b6c98c54f419dadc"
+      },
+      {
+        "title": "Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-29T16:47:16+00:00",
+        "fetched_at": "2026-06-29T17:23:46+00:00",
+        "summary": "Claude Opus 4.8 (fast mode) is now rolling out in preview on GitHub Copilot. Fast mode delivers significantly faster output token speeds while maintaining the same intelligence as Claude Opus… The post Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5fd1dec22e50cc415864"
       },
       {
         "title": "ISMAPクラウドサービスリスト等を更新しました",
@@ -1123,8 +1165,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-06-29T15:02:22+00:00",
-      "fetched_at": "2026-06-29T15:02:07+00:00",
+      "published_at": "2026-06-29T15:33:39+00:00",
+      "fetched_at": "2026-06-29T17:23:46+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1158,7 +1200,7 @@
         "HD",
         "LOW"
       ],
-      "id": "47c0970a08aeb43a9a69"
+      "id": "3493283fffc193ba7759"
     },
     {
       "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
@@ -1666,6 +1708,27 @@
       "id": "7f322cee1d8054dce52f"
     },
     {
+      "title": "Restrict issue creation to collaborators only",
+      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-29T16:08:23+00:00",
+      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "summary": "Repository admins can now restrict issue creation to collaborators with write access. This gives you more control over who can open issues and helps reduce unwanted issue creation, while keeping… The post Restrict issue creation to collaborators only appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Public Health"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9714819ba39300eed6df"
+    },
+    {
       "title": "持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆",
       "url": "https://gigazine.net/news/20260629-ai-exam-brown-university/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1792,6 +1855,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "32a9b6c98c54f419dadc"
+    },
+    {
+      "title": "Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-29T16:47:16+00:00",
+      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "summary": "Claude Opus 4.8 (fast mode) is now rolling out in preview on GitHub Copilot. Fast mode delivers significantly faster output token speeds while maintaining the same intelligence as Claude Opus… The post Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5fd1dec22e50cc415864"
     },
     {
       "title": "ISMAPクラウドサービスリスト等を更新しました",
@@ -2205,40 +2289,25 @@
   ],
   "new_findings": [
     {
-      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
-      "url": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-29T16:10:20+00:00",
-      "fetched_at": "2026-06-29T16:25:44+00:00",
-      "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub Blog .",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-06-29T15:33:39+00:00",
+      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7a7df83506a8cddc90dd"
-    },
-    {
-      "title": "M 4.8 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t907",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-06-29T16:06:12.040+00:00",
-      "fetched_at": "2026-06-29T16:25:44+00:00",
-      "summary": "Time 2026-06-29 15:51:18 UTC 2026-06-29 15:51:18 UTC at epicenter Location 23.851°S 179.959°E Depth 537.26 km (333.83 mi)",
-      "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2259,51 +2328,49 @@
         "HD",
         "LOW"
       ],
-      "id": "7f322cee1d8054dce52f"
+      "id": "3493283fffc193ba7759"
     },
     {
-      "title": "持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆",
-      "url": "https://gigazine.net/news/20260629-ai-exam-brown-university/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Restrict issue creation to collaborators only",
+      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-06-29T11:03:48+00:00",
-      "fetched_at": "2026-06-29T16:25:44+00:00",
-      "summary": "アメリカの名門・ブラウン大学の教授が、自身が担当する数理経済学の試験で大規模な不正があったという話を海外メディアのEL PAÍSに共有しました。試験を自宅持ち帰り方式から対面方式に切り替えただけで平均点が大幅に下がり、持ち帰り試験で満点を出した学生のほとんどは対面試験に出席してこなかったといいます。 Pro...",
+      "published_at": "2026-06-29T16:08:23+00:00",
+      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "summary": "Repository admins can now restrict issue creation to collaborators with write access. This gives you more control over who can open issues and helps reduce unwanted issue creation, while keeping… The post Restrict issue creation to collaborators only appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "GitHub",
+        "Public Health"
       ],
       "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cf276e26a7bc43211802"
+      "id": "9714819ba39300eed6df"
     },
     {
-      "title": "RAGを作るのではなく、検索される知識を運用する",
-      "url": "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-06-29T02:04:20+00:00",
-      "fetched_at": "2026-06-29T16:25:44+00:00",
-      "summary": "RAGは作るより、更新され続けるデータの中で精度を保つ方が難しかった。Difyで自前RAGを組んだあと、データ更新に合わせて検索品質を維持し続けるのがしんどかったので、Agent SearchとCloud Storageでナレッジ供給パイプラインを組んだ話。 TL;DR RAGで本当に重かったのは、初期構築ではなく、データ更新後も検索品質を...",
+      "published_at": "2026-06-29T16:47:16+00:00",
+      "fetched_at": "2026-06-29T17:23:46+00:00",
+      "summary": "Claude Opus 4.8 (fast mode) is now rolling out in preview on GitHub Copilot. Fast mode delivers significantly faster output token speeds while maintaining the same intelligence as Claude Opus… The post Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "32a9b6c98c54f419dadc"
+      "id": "5fd1dec22e50cc415864"
     }
   ],
   "source_errors": [],

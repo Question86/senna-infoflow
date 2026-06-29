@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T16:26:16+00:00_
+_Generiert: 2026-06-29T17:24:12+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+48 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-29T15:02:22+00:00`, fetched `2026-06-29T15:02:07+00:00`
+  - Zeit: published `2026-06-29T15:33:39+00:00`, fetched `2026-06-29T17:23:46+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-29 15:51:18 UTC 2026-06-29 15:51:18 UTC at epicenter Location 23.851°S 179.959°E Depth 537.26 km (333.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Restrict issue creation to collaborators only** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-29T16:08:23+00:00`, fetched `2026-06-29T17:23:46+00:00`
+  - Treffer: GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Repository admins can now restrict issue creation to collaborators with write access. This gives you more control over who can open issues and helps reduce unwanted issue creation, while keeping… The post Restrict issue creation to collaborators only appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆** — Score 8, observation — [Quelle](https://gigazine.net/news/20260629-ai-exam-brown-university/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-29T11:03:48+00:00`, fetched `2026-06-29T16:25:44+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: RAGは作るより、更新され続けるデータの中で精度を保つ方が難しかった。Difyで自前RAGを組んだあと、データ更新に合わせて検索品質を維持し続けるのがしんどかったので、Agent SearchとCloud Storageでナレッジ供給パイプラインを組んだ話。 TL;DR RAGで本当に重かったのは、初期構築ではなく、データ更新後も検索品質を...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ISMAPクラウドサービスリスト等を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/56cff896-ab6d-43dc-b58c-7423f6eba3a9)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-29T07:58:53+00:00`, fetched `2026-06-29T08:45:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ISMAPクラウドサービスリスト等を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
