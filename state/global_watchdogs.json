@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:20:13+00:00",
+  "generated_at": "2026-06-29T12:10:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549176",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.",
         "source": "GDACS",
@@ -104,13 +114,18 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548681",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 218 km W of Bandon, Oregon",
+        "summary": "M5.5 - 218 km W of Bandon, Oregon. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt",
+        "published_at": "2026-06-29T11:35:33+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 466.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T10:20:10+00:00_
+_Generiert: 2026-06-29T12:10:02+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+37 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-06-29T10:20:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Türkiye
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549176)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,10 @@ _Generiert: 2026-06-29T10:20:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548681)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:50.925km) in Japan 26/06/2026 13:29 UTC, 950 thousand in MMI V.
+- **USGS earthquake M5.5 - 218 km W of Bandon, Oregon** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt)
+  - Quelle: USGS
+  - Zeit: `2026-06-29T11:35:33+00:00`
+  - Kurz: M5.5 - 218 km W of Bandon, Oregon. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -83,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: デジタル庁がオープンソースで公開したガバメント AI「源内（GENAI）」を、 完全ローカル環境 × ローカル LLM（OpenAI 互換 API） で動かすためのプロジェクトです。 免責 / Disclaimer: 本リポジトリは有志による非公式フォークです。デジタル庁とは一切関係がなく、 同庁による承認・支援を受けたものではありません。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Mapping Europe’s AI Workforce Opportunity** — Score 15, opportunity — [Quelle](https://openai.com/index/mapping-ai-jobs-transition-eu)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-29T07:00:00+00:00`, fetched `2026-06-29T12:09:32+00:00`
+  - Treffer: AI/KI, Automatisierung, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Automatisierung (+4.0); recent (+1.0)
+  - Kurz: A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.9 - 90 km S of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-29T04:53:09.040+00:00`, fetched `2026-06-29T05:13:22+00:00`
@@ -92,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ** — Score 15, observation — [Quelle](https://gigazine.net/news/20260629-ornith-agentic-coding-ai/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-29T04:49:25+00:00`, fetched `2026-06-29T12:09:32+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: AI研究組織のDeepReinforceがAIモデルファミリー「Ornith-1.0」をオープンモデルとして公開しました。最上位モデルのOrnith-1.0-397Bは複数のベンチマークテストでClaude Opus 4.7を上回っています。 Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | DeepReinforce Blog | Jun. 2026 https://deep-reinforce.co...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 107 km SSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-29T04:42:12.719+00:00`, fetched `2026-06-29T05:13:22+00:00`
@@ -122,6 +144,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.5 - 218 km W of Bandon, Oregon** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-29T12:05:24.977+00:00`, fetched `2026-06-29T12:09:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-06-29 11:35:33 UTC 2026-06-29 11:35:33 UTC at epicenter Location 43.383°N 127.079°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht** — Score 12, risk — [Quelle](https://www.heise.de/news/Kritische-libssh2-Luecke-Proof-of-Concept-Exploit-veroeffentlicht-11347855.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-29T11:29:00.000+00:00`, fetched `2026-06-29T12:09:32+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Vergangene Woche wurde eine Sicherheitslücke in libssh2 bekannt. Jetzt ist Exploit-Code aufgetaucht, der sie missbrauchen kann.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **HP Inc. launches Frontier strategic partnership with OpenAI** — Score 12, opportunity — [Quelle](https://openai.com/index/hp-frontier-partnership)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-06-28T17:00:00+00:00`, fetched `2026-06-29T00:05:30+00:00`
@@ -244,6 +284,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
