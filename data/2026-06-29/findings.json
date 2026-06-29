@@ -511,6 +511,42 @@
     "id": "6af849f765f7a6e48df9"
   },
   {
+    "title": "M 4.9 - 234 km SSW of ‘Ohonua, Tonga",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-29T19:21:53.040+00:00",
+    "fetched_at": "2026-06-29T19:45:27+00:00",
+    "summary": "Time 2026-06-29 18:47:16 UTC 2026-06-29 18:47:16 UTC at epicenter Location 23.414°S 175.445°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6ce8e3b69e7b05585522"
+  },
+  {
     "title": "Christine Lagarde: Back to basics in an uncertain environment",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
     "source": "ECB Press Releases Speeches Interviews",
