@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-29T22:41:27+00:00",
-  "run_id": "2026-06-29T22:41:27+00:00",
+  "generated_at": "2026-06-29T23:09:45+00:00",
+  "run_id": "2026-06-29T23:09:45+00:00",
   "date": "2026-06-29",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 1,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
     "medium": 8,
-    "observe": 48,
-    "source_errors": 1
+    "observe": 49,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -456,6 +456,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7a7df83506a8cddc90dd"
+      },
+      {
+        "title": "ティアフォー7月上場へ 日本発の自動運転、NVIDIA拡張で埋没懸念 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUC252LK0V20C26A6000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-29T08:53:43+00:00",
+        "fetched_at": "2026-06-29T23:09:19+00:00",
+        "summary": "自動運転開発のティアフォー（東京・品川）が29日、東京証券取引所から上場を承認された。7月22日に東証グロース市場に上場する。自動運転向け人工知能（AI）開発をめぐる競争激化で想定時価総額は700億円と、直近の評価額を下回った。同日公開された有価証券届出書によると、1株当たりの公募・売り出し価格は1015円、時...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a9dab1be47e53b4749a6"
       },
       {
         "title": "Thailand-founded Amity sets up Singapore AI hub, eyes 2027 IPO",
@@ -1785,6 +1807,28 @@
       "id": "7a7df83506a8cddc90dd"
     },
     {
+      "title": "ティアフォー7月上場へ 日本発の自動運転、NVIDIA拡張で埋没懸念 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC252LK0V20C26A6000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-29T08:53:43+00:00",
+      "fetched_at": "2026-06-29T23:09:19+00:00",
+      "summary": "自動運転開発のティアフォー（東京・品川）が29日、東京証券取引所から上場を承認された。7月22日に東証グロース市場に上場する。自動運転向け人工知能（AI）開発をめぐる競争激化で想定時価総額は700億円と、直近の評価額を下回った。同日公開された有価証券届出書によると、1株当たりの公募・売り出し価格は1015円、時...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9dab1be47e53b4749a6"
+    },
+    {
       "title": "Thailand-founded Amity sets up Singapore AI hub, eyes 2027 IPO",
       "url": "https://e27.co/thailand-founded-amity-sets-up-singapore-ai-hub-eyes-2027-ipo-20260629/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2685,77 +2729,29 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-06-29T21:39:40+00:00",
-      "fetched_at": "2026-06-29T22:41:01+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "18e79fa41ee66d73f060"
-    },
-    {
-      "title": "逆にすごい。大手コンサル作「AIのすごさを証明する報告書」がハルシネーションだらけ | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/a-report-full-of-hallucinations/",
+      "title": "ティアフォー7月上場へ 日本発の自動運転、NVIDIA拡張で埋没懸念 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC252LK0V20C26A6000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-29T00:21:55+00:00",
-      "fetched_at": "2026-06-29T22:41:01+00:00",
-      "summary": "AIのおかげで仕事が楽になった人は多いのではないでしょうか。 私も、ライティングするにあたって、資料を探してもらったり、録音した音声を文字起こしして綺麗に整えてもらったりと、AIによって作業効率が上がったのを実感している側の一員。 特に、録音した自分の声を聞かなくて済むようになったので、心理ストレスか...",
+      "published_at": "2026-06-29T08:53:43+00:00",
+      "fetched_at": "2026-06-29T23:09:19+00:00",
+      "summary": "自動運転開発のティアフォー（東京・品川）が29日、東京証券取引所から上場を承認された。7月22日に東証グロース市場に上場する。自動運転向け人工知能（AI）開発をめぐる競争激化で想定時価総額は700億円と、直近の評価額を下回った。同日公開された有価証券届出書によると、1株当たりの公募・売り出し価格は1015円、時...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ecfbe58e7a5aa38421ac"
+      "id": "a9dab1be47e53b4749a6"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_vietnam_hot",
-      "source_name": "Google Trends Vietnam Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.vn/trending/rss?geo=VN"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
