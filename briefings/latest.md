@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T05:13:47+00:00_
+_Generiert: 2026-06-29T06:59:15+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+26 neue relevante Treffer. Stärkstes Signal: „GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -149,6 +149,51 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
   - Kurz: Kazakhstan is not a country most Southeast Asian founders think about when mapping expansion routes. But Magzhan Madiyev, CEO of Astana Hub, wants to change that fast. In seven years, the organisation has helped transform a country with virtually no venture culture into one where 2,200 companies generate US$2 billion annually, tech exports have grown […] The post Southeast Asia’s investors are sleeping on a US$2B ec…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル推進委員の取組についてご協力いただいている企業・団体等の一覧を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_promotion_staff/cooperation)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-29T06:00:00+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル推進委員の取組についてご協力いただいている企業・団体等の一覧を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル推進委員の取組における地域で開催される講座等の情報を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_promotion_staff/seminars)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-29T06:00:00+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル推進委員の取組における地域で開催される講座等の情報を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ジグムント駐日ドイツ大使による松本デジタル大臣表敬** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4f5a94ca-1b9c-4e1a-a662-46ac4edb2af7)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-29T06:00:00+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ジグムント駐日ドイツ大使による松本デジタル大臣表敬
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **大人気「めっちゃカメレオン」小学生にはオススメできない理由 ただの“かくれんぼ”と思いきや……** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/29/news070.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-29T03:02:08+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は2026年06月20日から06月26日までの7日間について集計し、まとめた。 先週のアクセス1位は、KDDIがメールインフラを提供している各ISPメールアドレスなど最大1422万件が漏えいした可能性に関するニュース...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claudeに「オントロジー」を持たせたら、コスト半分・3倍速になるかも** — Score 5, observation — [Quelle](https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-29T01:53:39+00:00`, fetched `2026-06-29T06:58:51+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Komlock lab VPoE阿部(@takupeso)です。 ClaudeCodeに既存設計・コードに関するナレッジを渡すとき、僕はずっと同じやり方をしていました。@でファイルを指定し、CLAUDE.mdにルールを足し、.claudeを整備していました。 これももちろん有効な手法です。ただ、AIの調子でアウトプットの精度にブレが出ます。同じナレッジ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松屋の券売機が「思いのほか使いやすかった」 それでもネットで不評なのはなぜ？** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-29T01:17:29+00:00`, fetched `2026-06-29T05:13:22+00:00`
@@ -157,24 +202,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 日本の牛丼チェーン御三家の1つとして、多くの人々の胃袋を支える「松屋」。豊富なメニューと手頃な価格で根強い人気を誇る一方で、近年ネット上で度々議論の的となっているのが、店舗入り口にある券売機（セルフオーダー端末）の使い勝手だ。2026年5月、X（旧Twitter）などのSNS上で「松屋はまた端末を変えたのか。牛丼...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「オープンソース」以前から回路図を公開——眠らない情熱に彩られた秋月電子通商の55年 - FabScene（ファブシーン）** — Score 5, observation — [Quelle](https://fabscene.com/new/interview/akizuki-electronics-history2026/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T00:58:19+00:00`, fetched `2026-06-29T03:32:44+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 電子工作を始めた人なら、たいてい最初にこの店のサイトを開く。秋葉原のパーツ街に半世紀以上店を構える秋月電子通商は、日本中の「作る人」が当たり前のように頼ってきた店だ。 ただ、その正体は少し変わっている。扱う部品はすべて自分たちの目で選び、現金で仕入れる。マイコンボードもセンサーも、変換基板やモジュ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **超便利なClaude Designの実践的な活用方法** — Score 5, observation — [Quelle](https://zenn.dev/branbran/articles/5730c47e1abac9)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T00:40:22+00:00`, fetched `2026-06-29T03:32:44+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: エクスポート・共有 完成したデザインは .zip / PDF / PPTX / HTML 形式でダウンロードできるほか、Canva・Adobe・Vercel などへの連携にも対応しています。共有リンクは「表示のみ / コメント / 編集」のアクセス権を選んで発行できます。 事前準備：既存プロジェクトからデザインシステムを作る プロトタイプを作る前...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Robbyant/lingbot-map** — Score 5, observation — [Quelle](https://github.com/Robbyant/lingbot-map)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
