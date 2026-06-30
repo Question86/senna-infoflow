@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T07:45:13+00:00_
+_Generiert: 2026-06-30T08:49:58+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-30T06:22:37+00:00`, fetched `2026-06-30T06:22:21+00:00`
+  - Zeit: published `2026-06-30T06:53:23+00:00`, fetched `2026-06-30T08:49:32+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -96,6 +96,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Ryozo Himino: The Bank of Japan's Semiannual Report on Currency and Monetary Control** — Score 12, observation — [Quelle](https://www.bis.org/review/r260624c.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-30T06:46:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0)
+  - Kurz: Statement by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, before the Committee on Financial Affairs, House of Representatives, Tokyo, 19 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal** — Score 11, opportunity — [Quelle](https://e27.co/german-listed-ddb-acquires-singapores-infinium-robotics-in-us24m-share-deal-20260630/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-30T08:38:27+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: APAC Trend Radar, Automatisierung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore-founded Infinium Robotics has been acquired by German-listed Deutsche Defence Beteiligungen (DDB) in a share-based transaction valued at up to about US$24 million, giving the autonomous warehouse drone company a public-market platform in Europe as demand for industrial automation continues to rise. The deal involves DDB acquiring 100 per cent of Infinium Robotiics’s 2,395,455 shares […] The post German-lis…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Igloo expands Thailand footprint with Eazy Digital acquisition amid insurance reform push** — Score 11, observation — [Quelle](https://e27.co/igloo-expands-thailand-footprint-with-eazy-digital-acquisition-amid-insurance-reform-push-20260630/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-30T03:39:58+00:00`, fetched `2026-06-30T04:50:49+00:00`
@@ -123,14 +141,50 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Most organisations that say they are investing in AI are actually investing in awareness. There is a difference, and it matters more than many leaders realise. Across workplaces today, AI adoption is accelerating. Employees are experimenting with chatbots, attending workshops and learning prompt-writing techniques. In Singapore, three in four workers are already using AI tools […] The post Why one AI workshop won’t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ecosystem Roundup: In Thailand’s reform window, Igloo buys a seat at the table** — Score 9, observation — [Quelle](https://e27.co/ecosystem-roundup-in-thailands-reform-window-igloo-buys-a-seat-at-the-table-20260630/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-30T07:06:17+00:00`, fetched `2026-06-30T07:44:48+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+- **ECB publishes indicative operational calendars for 2028** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-30T08:00:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
-  - Kurz: Igloo’s acquisition of Eazy Digital is the kind of deal that tells you something real about where Southeast Asia’s insurtech sector is heading. The Singapore-headquartered company did not raise a fresh round; it bought market access, distribution infrastructure, and regulatory footing in one of the region’s most complex insurance markets, all at a moment when […] The post Ecosystem Roundup: In Thailand’s reform wind…
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB publishes indicative operational calendars for 2028
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB publishes indicative operational calendars for 2027** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-06-30T08:00:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB publishes indicative operational calendars for 2027
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Jorgovanka Tabakovi&#263;: Serbian banks well-capitalised and profitable, maintaining high liquidity buffers** — Score 9, observation — [Quelle](https://www.bis.org/review/r260622p.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-30T07:49:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Dr Jorgovanka Tabakovi&#263;, Governor of the National Bank of Serbia, at the Annual Assembly of the Association of Serbian Banks, Belgrade, 19 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Christopher J Waller: Welcoming remarks on the international role of the US dollar** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260624a.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-30T07:28:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)
+  - Kurz: Welcoming remarks by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington DC, 22 June 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Oracle E-Business Suite: Angriffe auf Payments beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-E-Business-Suite-Angriffe-auf-Payments-beobachtet-11348676.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-06-30T07:46:00.000+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In Oracles E-Business Suite greifen Kriminelle eine Lücke an, die die Oracle-Payments-Komponente betrifft und deren Übernahme ermöglicht.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SimpleHelp: Lücke in Fernwartungssoftware in freier Wildbahn missbraucht** — Score 7, observation — [Quelle](https://www.heise.de/news/Fernwartung-SimpleHelp-Schwachstelle-wird-angegriffen-11348620.html)
   - Quelle: heise Security Alerts / `rss`
@@ -177,42 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
   - Kurz: NumPy & SciPy for GPU CuPy : NumPy & SciPy for GPU Website | Install | Tutorial | Examples | Documentation | API Reference | Forum CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. CuPy acts as a drop-in replacement to run existing NumPy/SciPy code on NVIDIA CUDA or AMD ROCm platforms. >>> import cupy as cp >>> x = cp.arange(6).reshape(2, 3).astype('f') >>> x array([[ 0., 1.,…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **カタログ制作の3社コンペを失注したが、その理由が「社内で総務がAIやツールを使って作ることになったので…」と聞いた時、ある疑念が生まれた「ま、まさかですが…」** — Score 5, observation — [Quelle](https://togetter.com/li/2715168)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-30T00:26:38+00:00`, fetched `2026-06-30T04:50:49+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 石田隆博@グッドな社長デザイナー｜GOODCREW @st_isida カタログ制作の3社コンペ。失注しました。 理由は「社内で総務がAIやツールを使って作ることになったので・・・」 昔に比べると誰でもそれなりのデザインができる時代になったのは事実。 ブルーな週末でしたが、挫折があるとまた進化しようと思える。負けられねぇ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2120973.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T23:28:42+00:00`, fetched `2026-06-30T07:44:48+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ソニーの「アイボ」、“次の製品”を開発中 「今ここにその子がいるんですけど」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/30/news076.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T23:05:52+00:00`, fetched `2026-06-30T03:22:33+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ソニーグループは、犬型ロボット「aibo（アイボ）」について、製品の開発を続けていると明らかにした。現行モデル「ERS1000/W」の国内販売終了を発表したところ、aiboシリーズの終了という誤解が一部に広がっていたという。 aiboの公式YouTubeチャンネルで配信した動画の中で明らかにした。動画に出演したモリタクさん（...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **soxoj/maigret** — Score 5, opportunity — [Quelle](https://github.com/soxoj/maigret)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-30T03:22:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites Maigret English · 简体中文 Maigret collects a dossier on a person by username only , checking for accounts on a huge number of sites and gathering all the available information from web pages. No API keys required. AI profiling (demo) . Sponsors RapidProxy provides high-performance residential proxies for Twitter scraping, Selenium automation, and web data…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

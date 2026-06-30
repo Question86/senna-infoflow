@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-30T06:22:37+00:00",
-    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "published_at": "2026-06-30T06:53:23+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "042dcca6ad724b3daf0a"
+    "id": "f33b0e363fe1aab99155"
   },
   {
     "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
@@ -293,6 +293,48 @@
     "id": "b56ad2731a0b63e26212"
   },
   {
+    "title": "Ryozo Himino: The Bank of Japan's Semiannual Report on Currency and Monetary Control",
+    "url": "https://www.bis.org/review/r260624c.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:46:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Statement by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, before the Committee on Financial Affairs, House of Representatives, Tokyo, 19 June 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "724b001ffa5989609701"
+  },
+  {
+    "title": "German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal",
+    "url": "https://e27.co/german-listed-ddb-acquires-singapores-infinium-robotics-in-us24m-share-deal-20260630/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T08:38:27+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Singapore-founded Infinium Robotics has been acquired by German-listed Deutsche Defence Beteiligungen (DDB) in a share-based transaction valued at up to about US$24 million, giving the autonomous warehouse drone company a public-market platform in Europe as demand for industrial automation continues to rise. The deal involves DDB acquiring 100 per cent of Infinium Robotiics’s 2,395,455 shares […] The post German-lis…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Automatisierung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f483075386704ecbd076"
+  },
+  {
     "title": "Igloo expands Thailand footprint with Eazy Digital acquisition amid insurance reform push",
     "url": "https://e27.co/igloo-expands-thailand-footprint-with-eazy-digital-acquisition-amid-insurance-reform-push-20260630/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -359,6 +401,88 @@
     "id": "f61a9f54a8eaddd8cb33"
   },
   {
+    "title": "ECB publishes indicative operational calendars for 2028",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-30T08:00:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "ECB publishes indicative operational calendars for 2028",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b94d7457734f6c55f7f8"
+  },
+  {
+    "title": "ECB publishes indicative operational calendars for 2027",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-06-30T08:00:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "ECB publishes indicative operational calendars for 2027",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cc28688546fb44746b2f"
+  },
+  {
+    "title": "Jorgovanka Tabakovi&#263;: Serbian banks well-capitalised and profitable, maintaining high liquidity buffers",
+    "url": "https://www.bis.org/review/r260622p.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:49:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Speech by Dr Jorgovanka Tabakovi&#263;, Governor of the National Bank of Serbia, at the Annual Assembly of the Association of Serbian Banks, Belgrade, 19 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "aa566fc2598df12b5bfd"
+  },
+  {
     "title": "Ecosystem Roundup: In Thailand’s reform window, Igloo buys a seat at the table",
     "url": "https://e27.co/ecosystem-roundup-in-thailands-reform-window-igloo-buys-a-seat-at-the-table-20260630/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -378,6 +502,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b677227cb3cfd309764d"
+  },
+  {
+    "title": "Christopher J Waller: Welcoming remarks on the international role of the US dollar",
+    "url": "https://www.bis.org/review/r260624a.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:28:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Welcoming remarks by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington DC, 22 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "75c7315377cd954b9cec"
+  },
+  {
+    "title": "Fabio Panetta: Mundell's plan for a European currency - from theory to history",
+    "url": "https://www.bis.org/review/r260624f.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:16:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Welcome address by Mr Fabio Panetta, Governor of the Bank of Italy, at the \"International macroeconomics in a changing world - old questions, new realities\" workshop, organised by the Bank of Italy, Centre for Economic Policy Research (CEPR) and LUISS (Libera Università Internazionale degli Studi Sociali), in honour of Robert Mundell, Rome, 22 June 2026.",
+    "matched_keywords": [
+      "macro",
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d08c32aee50169777ca2"
   },
   {
     "title": "The next trillion-dollar AI opportunity: Real-world models and learning agents",
@@ -443,6 +608,26 @@
     "id": "88ee9369b44f82a20b91"
   },
   {
+    "title": "Oracle E-Business Suite: Angriffe auf Payments beobachtet",
+    "url": "https://www.heise.de/news/Oracle-E-Business-Suite-Angriffe-auf-Payments-beobachtet-11348676.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:46:00.000+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "In Oracles E-Business Suite greifen Kriminelle eine Lücke an, die die Oracle-Payments-Komponente betrifft und deren Übernahme ermöglicht.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d24decb2dd12ccbb7c7"
+  },
+  {
     "title": "SimpleHelp: Lücke in Fernwartungssoftware in freier Wildbahn missbraucht",
     "url": "https://www.heise.de/news/Fernwartung-SimpleHelp-Schwachstelle-wird-angegriffen-11348620.html",
     "source": "heise Security Alerts",
@@ -461,6 +646,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1a2e012a26df5c735ef"
+  },
+  {
+    "title": "Steven Maijoor: Lessons from 1763 - the central bank as lender of last resort",
+    "url": "https://www.bis.org/review/r260624e.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:12:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Speech by Mr Steven Maijoor, Executive Board Member and Chair of Supervision of De Nederlandsche Bank, at a meeting of the European Central Bank's Market Operations Committee, Amsterdam, 18 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fc3441957e816723d93b"
+  },
+  {
+    "title": "Piero Cipollone: The foundations of national sovereignty - the role of central bank money",
+    "url": "https://www.bis.org/review/r260624d.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:07:00+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the conference \"80 years of the Italian Republic\", hosted by Sapienza University, Rome, 19 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "afe5bd0e74edc980d983"
   },
   {
     "title": "Singapore-based PvX lands MIT investment to fund the next wave of app user acquisition",
@@ -523,6 +748,27 @@
       "EWZ"
     ],
     "id": "5bfa3c7c21af5eae8c03"
+  },
+  {
+    "title": "Nadiem Makarim sentenced to 10 years in Chromebook corruption case",
+    "url": "https://e27.co/nadiem-makarim-sentenced-to-10-years-in-chromebook-corruption-case-20260630/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T08:48:48+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "Today, a panel of judges at the Corruption Crimes Court at the Central Jakarta District Court sentenced former Minister of Education, Culture, Research, and Technology and Gojek co-founder Nadiem Makarim to 10 years in prison for his involvement in the Chromebook procurement corruption case. Makarim was detained in September 2025 and had been moved to […] The post Nadiem Makarim sentenced to 10 years in Chromebook c…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ab7370f01ea09b20e980"
   },
   {
     "title": "障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました",
@@ -686,6 +932,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f3265638a4943f3a910d"
+  },
+  {
+    "title": "昔は『マネージャーはちゃんと叱れ』と言われていたが、今はどうなのか",
+    "url": "https://blog.tinect.jp/?p=91268",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T00:44:16+00:00",
+    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "summary": "こんにちは、しんざきです。 今日書きたいことは、大体以下のようなことです。 ・昔、「お前は部下を叱れない」と上司から何度も怒られました ・確かに「叱責」とか「注意」はとても苦手で、今でもあまりできません ・ただ、いつの間にか「ちゃんと叱れ」と言われることはなくなり、部下のケアや心理的安全性、他部署と...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "80c3d9e1b607983e97f6"
   },
   {
     "title": "カタログ制作の3社コンペを失注したが、その理由が「社内で総務がAIやツールを使って作ることになったので…」と聞いた時、ある疑念が生まれた「ま、まさかですが…」",
