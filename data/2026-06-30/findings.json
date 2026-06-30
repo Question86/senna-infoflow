@@ -42,6 +42,30 @@
     "id": "7849d5ea9f6320a638cb"
   },
   {
+    "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
+    "url": "https://blog.flatt.tech/entry/2026-github-actions-security-part2",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:23:57+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニアの佐藤(@Nick_nick310)です。 本シリーズの前回記事では、GitHub Actionsに対する初期アクセスの手法と対策を解説しました。まだお読みでない方は、先に前回の記事をご覧いただくことをお勧めします。 GitHub Actionsのセキュリティを考える際、...",
+    "matched_keywords": [
+      "GitHub",
+      "GitHub Actions",
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 21,
+    "relevance_reason": "GitHub Actions (+6.2); Security (+7.5); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da76c8ec912cd7df2939"
+  },
+  {
     "title": "Can your AI actually read your data?",
     "url": "https://e27.co/can-your-ai-actually-read-your-data-20260628/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -63,6 +87,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d7b204bacc4e5706dd69"
+  },
+  {
+    "title": "altic-dev/FluidVoice",
+    "url": "https://github.com/altic-dev/FluidVoice",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) FluidVoice Open source voice-to-text dictation app for macOS with on-device AI enhancement. Install with Homebrew: brew install --cask fluidvoice Manual download: latest release Important This project is free and open source under GPLv3. If FluidVoice is useful to you, please star the repository — it helps vis…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Local-first AI",
+      "Open Source"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "AI/KI (+3.0); Local-first AI (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c9b419c3a8f43446f49f"
   },
   {
     "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選 - Qiita",
@@ -112,6 +160,114 @@
     "id": "c301ccac5e5c4fb1ec53"
   },
   {
+    "title": "DGM3103SCTにおけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN28979424/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-30T12:00:00+09:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "AVTECH Security Corporationが提供するDGM3103SCTには、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b56ad2731a0b63e26212"
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "109ed2865df74f5d4d45"
+  },
+  {
+    "title": "Why one AI workshop won’t transform your organisation",
+    "url": "https://e27.co/why-one-ai-workshop-wont-transform-your-organisation-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T03:00:03+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "Most organisations that say they are investing in AI are actually investing in awareness. There is a difference, and it matters more than many leaders realise. Across workplaces today, AI adoption is accelerating. Employees are experimenting with chatbots, attending workshops and learning prompt-writing techniques. In Singapore, three in four workers are already using AI tools […] The post Why one AI workshop won’t…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f61a9f54a8eaddd8cb33"
+  },
+  {
+    "title": "The next trillion-dollar AI opportunity: Real-world models and learning agents",
+    "url": "https://e27.co/the-next-trillion-dollar-ai-opportunity-real-world-models-and-learning-agents-20260625/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:45:13+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "For the past few years, artificial intelligence has been dominated by one powerful idea: conversation. People ask AI to write emails, summarise reports, generate marketing copy, explain legal documents, produce code, and answer questions. This has created enormous value because Large Language Models (LLMs) have made AI easy for everyone to use. But the next […] The post The next trillion-dollar AI opportunity: Real-…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8eb0fccc289b248fd381"
+  },
+  {
+    "title": "The grains of structural friction: Why AI upskilling is failing the power law",
+    "url": "https://e27.co/the-grains-of-structural-friction-why-ai-upskilling-is-failing-the-power-law-20260617/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:15:57+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "AI is often framed as a universal equaliser. Give everyone access to the same tools. Provide widespread training. Raise the baseline—and outcomes should converge. But this assumption is increasingly misaligned with reality. Despite unprecedented access to AI tools and learning resources, outcomes are diverging—not converging. A small group compounds rapidly, a middle group makes incremental […] The post The grains o…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3fcf7fff48f5bce7508"
+  },
+  {
     "title": "Why your AI chatbot fails after 2 months (and it is not the technology)",
     "url": "https://e27.co/why-your-ai-chatbot-fails-after-2-months-and-it-is-not-the-technology-20260623/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -131,6 +287,68 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "88ee9369b44f82a20b91"
+  },
+  {
+    "title": "The short squeeze illusion: Why derivative squeezes make fragile foundations for Bitcoin",
+    "url": "https://e27.co/the-short-squeeze-illusion-why-derivative-squeezes-make-fragile-foundations-for-bitcoin-20260630/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:59:59+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "Bitcoin reached US$60,258.79 after gaining 1.68 per cent over 24 hours. Total crypto market capitalisation advanced 1.82 per cent in the same timeframe. This synchronised movement reveals the true nature of the current rally. Digital assets lack internal catalysts right now and rely entirely on external macro positioning. The leading cryptocurrency simply tracks the broader […] The post The short squeeze illusion: W…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "5bfa3c7c21af5eae8c03"
+  },
+  {
+    "title": "松本大臣記者会見（令和8年6月30日）動画を掲載しました",
+    "url": "https://www.digital.go.jp/speech/minister-260630-01",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:34:40+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "松本大臣記者会見（令和8年6月30日）動画を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af497effdc1ccd911bc9"
   },
   {
     "title": "年金振込口座を「公金受取口座」として登録できる特例制度（行政機関等経由登録の特例制度）に関するお知らせを掲載しました",
@@ -153,6 +371,50 @@
     "id": "1213e22dd1f18b70ecb4"
   },
   {
+    "title": "cupy/cupy",
+    "url": "https://github.com/cupy/cupy",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "NumPy & SciPy for GPU CuPy : NumPy & SciPy for GPU Website | Install | Tutorial | Examples | Documentation | API Reference | Forum CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. CuPy acts as a drop-in replacement to run existing NumPy/SciPy code on NVIDIA CUDA or AMD ROCm platforms. >>> import cupy as cp >>> x = cp.arange(6).reshape(2, 3).astype('f') >>> x array([[ 0., 1.,…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Content-Chance",
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f3265638a4943f3a910d"
+  },
+  {
+    "title": "ソニーの「アイボ」、“次の製品”を開発中 「今ここにその子がいるんですけど」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news076.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T23:05:52+00:00",
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "ソニーグループは、犬型ロボット「aibo（アイボ）」について、製品の開発を続けていると明らかにした。現行モデル「ERS1000/W」の国内販売終了を発表したところ、aiboシリーズの終了という誤解が一部に広がっていたという。 aiboの公式YouTubeチャンネルで配信した動画の中で明らかにした。動画に出演したモリタクさん（...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5af8252e79ca3a7e77aa"
+  },
+  {
     "title": "Google、Geminiで学習用「study notebooks」を提供、学習テーマに沿ったレッスンと練習問題で学べる | gihyo.jp",
     "url": "https://gihyo.jp/article/2026/06/gemini-study-notebooks",
     "source": "Hatena Bookmark Hotentry IT",
@@ -172,5 +434,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d14fcafd4b81cd332bb0"
+  },
+  {
+    "title": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-06-30T03:22:33+00:00",
+    "summary": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites Maigret English · 简体中文 Maigret collects a dossier on a person by username only , checking for accounts on a huge number of sites and gathering all the available information from web pages. No API keys required. AI profiling (demo) . Sponsors RapidProxy provides high-performance residential proxies for Twitter scraping, Selenium automation, and web data…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Automatisierung",
+      "GitHub Trending"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2fc0f282224fed701230"
   }
 ]
