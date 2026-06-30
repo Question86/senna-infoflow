@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-29T23:37:04+00:00_
+_Generiert: 2026-06-30T00:05:15+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
 
 ## Priorität Hoch
 
@@ -12,222 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-29T21:39:40+00:00`, fetched `2026-06-29T22:41:01+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。** — Score 18, observation — [Quelle](https://github.com/hirokawaguchi/open-genai)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T04:46:40+00:00`, fetched `2026-06-29T00:05:30+00:00`
-  - Treffer: AI/KI, GitHub, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: デジタル庁がオープンソースで公開したガバメント AI「源内（GENAI）」を、 完全ローカル環境 × ローカル LLM（OpenAI 互換 API） で動かすためのプロジェクトです。 免責 / Disclaimer: 本リポジトリは有志による非公式フォークです。デジタル庁とは一切関係がなく、 同庁による承認・支援を受けたものではありません。...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Mapping Europe’s AI Workforce Opportunity** — Score 15, opportunity — [Quelle](https://openai.com/index/mapping-ai-jobs-transition-eu)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-29T07:00:00+00:00`, fetched `2026-06-29T12:09:32+00:00`
-  - Treffer: AI/KI, Automatisierung, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Automatisierung (+4.0); recent (+1.0)
-  - Kurz: A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.9 - 90 km S of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-29T04:53:09.040+00:00`, fetched `2026-06-29T05:13:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-29 04:14:33 UTC 2026-06-29 04:14:33 UTC at epicenter Location 4.591°N 125.404°E Depth 45.11 km (28.03 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ** — Score 15, observation — [Quelle](https://gigazine.net/news/20260629-ornith-agentic-coding-ai/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T04:49:25+00:00`, fetched `2026-06-29T12:09:32+00:00`
-  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
-  - Kurz: AI研究組織のDeepReinforceがAIモデルファミリー「Ornith-1.0」をオープンモデルとして公開しました。最上位モデルのOrnith-1.0-397Bは複数のベンチマークテストでClaude Opus 4.7を上回っています。 Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | DeepReinforce Blog | Jun. 2026 https://deep-reinforce.co...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 107 km SSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-29T04:42:12.719+00:00`, fetched `2026-06-29T05:13:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-06-29 04:23:05 UTC 2026-06-29 04:23:05 UTC at epicenter Location 4.472°N 125.189°E Depth 9.91 km (6.16 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **数を増やしても一貫性を保つ、runn の API テスト構成設計 - カミナシ エンジニアブログ** — Score 15, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/runn-api-test-architecture)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T00:24:44+00:00`, fetched `2026-06-29T02:14:40+00:00`
-  - Treffer: AI Agents, AI/KI, developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
-  - Kurz: こんにちは、ソフトウェアエンジニアの渡邉（匠）です。 「カミナシ 設備保全」の開発に携わっています。 以前、「40,000行のAPIテスト作成で学んだClaude Code Skillsの育て方」という記事を書きました。 AI を使って大量の API テストを生成した話です。 今回はその土台になっている、テストそのものの構成を紹介しま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Fluentdにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN36011274/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-29T12:00:00+09:00`, fetched `2026-06-29T03:32:44+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Fluentd Projectが提供するFluentdには、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **M 5.5 - 218 km W of Bandon, Oregon** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-29T12:05:24.977+00:00`, fetched `2026-06-29T12:09:32+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-06-29 11:35:33 UTC 2026-06-29 11:35:33 UTC at epicenter Location 43.383°N 127.079°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-06-29T14:55:18+00:00`, fetched `2026-06-29T15:02:07+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260057 (LTRO,liquidity providing), for 91 days deadline 10:00
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-06-29T14:40:21+00:00`, fetched `2026-06-29T13:47:11+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260056 (MRO,liquidity providing), for 7 days deadline 09:30
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht** — Score 12, risk — [Quelle](https://www.heise.de/news/Kritische-libssh2-Luecke-Proof-of-Concept-Exploit-veroeffentlicht-11347855.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-29T11:29:00.000+00:00`, fetched `2026-06-29T12:09:32+00:00`
-  - Treffer: Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); Webentwicklung (+3.8); recent (+1.0)
-  - Kurz: Vergangene Woche wurde eine Sicherheitslücke in libssh2 bekannt. Jetzt ist Exploit-Code aufgetaucht, der sie missbrauchen kann.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **HP Inc. launches Frontier strategic partnership with OpenAI** — Score 12, opportunity — [Quelle](https://openai.com/index/hp-frontier-partnership)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-28T17:00:00+00:00`, fetched `2026-06-29T00:05:30+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
-  - Kurz: HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Beyond the layoff headlines: Why AI plus humans is the ultimate power couple** — Score 11, risk — [Quelle](https://e27.co/beyond-the-layoff-headlines-why-ai-plus-humans-is-the-ultimate-power-couple-20260619/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-29T01:30:47+00:00`, fetched `2026-06-29T02:14:40+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:elections_unrest
-  - Watchgraph: elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
-  - Kurz: If you look at the internet today, whether it’s mainstream media or your social feeds, it’s impossible to escape the AI hype. The narrative is always the same: AI can do this, AI can do that, AI can do everything. We are constantly told that it’s going to completely replace human jobs. To make things […] The post Beyond the layoff headlines: Why AI plus humans is the ultimate power couple appeared first on e27 .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Inside the Advisory Database and what happens when vulnerability volume breaks records** — Score 10, risk — [Quelle](https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-06-29T16:10:20+00:00`, fetched `2026-06-29T16:25:44+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
-  - Kurz: The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ティアフォー7月上場へ 日本発の自動運転、NVIDIA拡張で埋没懸念 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC252LK0V20C26A6000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-29T08:53:43+00:00`, fetched `2026-06-29T23:09:19+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 自動運転開発のティアフォー（東京・品川）が29日、東京証券取引所から上場を承認された。7月22日に東証グロース市場に上場する。自動運転向け人工知能（AI）開発をめぐる競争激化で想定時価総額は700億円と、直近の評価額を下回った。同日公開された有価証券届出書によると、1株当たりの公募・売り出し価格は1015円、時...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Thailand-founded Amity sets up Singapore AI hub, eyes 2027 IPO** — Score 10, observation — [Quelle](https://e27.co/thailand-founded-amity-sets-up-singapore-ai-hub-eyes-2027-ipo-20260629/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-29T08:21:52+00:00`, fetched `2026-06-29T08:45:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
-  - Kurz: Thailand-founded enterprise AI company Amity has opened a Singapore office and AI Research & Application Center (ARAC), placing the city-state at the centre of its regional expansion, product development, and planned path to a public listing in 2027. The move follows Amity’s US$100 million Series D round, led by EDBI, the investment arm operating under […] The post Thailand-founded Amity sets up Singapore AI hub, ey…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Monetary developments in the euro area: May 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2605~3c7ea02712.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-06-29T08:00:00+00:00`, fetched `2026-06-29T08:45:06+00:00`
-  - Treffer: euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Monetary developments in the euro area: May 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How to build a real MVP: Start with evidence, not features** — Score 10, observation — [Quelle](https://e27.co/how-to-build-a-real-mvp-start-with-evidence-not-features-20260622/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-29T01:00:15+00:00`, fetched `2026-06-29T01:21:43+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
-  - Kurz: The product labelled MVP is usually not a minimum. It is a compromise between anxiety, ambition, internal politics, and the hope that one release can settle more questions than it ever will. By the time it reaches execution, the so-called minimum version has absorbed edge cases, stakeholder comfort features, reporting needs, admin controls, future-proofing logic, […] The post How to build a real MVP: Start with evid…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「スマホカメラ」が「本物のカメラ」に到底かなわない6つの理由** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35249557/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-28T23:51:40+00:00`, fetched `2026-06-29T08:45:06+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 最新スマートフォンのカメラは、写真を撮る道具として驚くほど高性能だ。大型センサー、明るいレンズ、そして豊富なソフトウェア機能を備え、プロ向けのミラーレス機に匹敵する写真が撮れる。それでも筆者は、カメラをスマホ1台に置き換えたいとは思わない。プロの写真家として、そしてスマホのレビュアーとして数々の機...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Read-only Actions cache for untrusted triggers** — Score 10, risk — [Quelle](https://github.blog/changelog/2026-06-26-read-only-actions-cache-for-untrusted-triggers)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-06-26T18:31:43+00:00`, fetched `2026-06-29T20:29:35+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5)
-  - Kurz: GitHub Actions now issues read-only cache tokens to the default branch for workflow events that can be triggered without write permissions to the repository. This applies least privilege to the… The post Read-only Actions cache for untrusted triggers appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 236 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t937)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-29T22:12:23.040+00:00`, fetched `2026-06-29T22:15:56+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-29 21:38:36 UTC 2026-06-29 21:38:36 UTC at epicenter Location 17.975°S 178.450°W Depth 616.79 km (383.26 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 234 km SSW of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-29T19:21:53.040+00:00`, fetched `2026-06-29T19:45:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-29 18:47:16 UTC 2026-06-29 18:47:16 UTC at epicenter Location 23.414°S 175.445°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen Beobachtungssignale.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
