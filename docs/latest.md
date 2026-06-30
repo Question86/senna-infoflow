@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T04:51:20+00:00_
+_Generiert: 2026-06-30T06:22:49+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-29T22:41:15+00:00`, fetched `2026-06-30T01:15:34+00:00`
+  - Zeit: published `2026-06-30T06:22:37+00:00`, fetched `2026-06-30T06:22:21+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -57,14 +57,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: はじめに 以前こんな記事を書きました。 あれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Code 自体の操作・制御は自分でやる必要があるということです。セ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DGM3103SCTにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN28979424/)
+- **三菱電機製MELSOFT Update Managerに7-Zipに起因する複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95990609/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-06-30T12:00:00+09:00`, fetched `2026-06-30T03:22:33+00:00`
+  - Zeit: published `2026-06-30T14:30:00+09:00`, fetched `2026-06-30T06:22:21+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: AVTECH Security Corporationが提供するDGM3103SCTには、OSコマンドインジェクションの脆弱性が存在します。
+  - Kurz: 三菱電機製MELSOFT Update Managerには、製品が内包する7-Zipに起因する複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）における反射型クロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN48718197/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-30T14:00:15+09:00`, fetched `2026-06-30T06:22:21+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、反射型クロスサイトスクリプティングの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **RPGツクールMVおよびMZにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN69681784/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-30T14:00:00+09:00`, fetched `2026-06-30T06:22:21+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社Gotcha Gotcha Gamesが提供するRPGツクールMVおよびMZには、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -105,23 +123,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For the past few years, artificial intelligence has been dominated by one powerful idea: conversation. People ask AI to write emails, summarise reports, generate marketing copy, explain legal documents, produce code, and answer questions. This has created enormous value because Large Language Models (LLMs) have made AI easy for everyone to use. But the next […] The post The next trillion-dollar AI opportunity: Real-…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年6月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260630-01)
+- **障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/challenged-person-action-plan/2025)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-30T02:34:40+00:00`, fetched `2026-06-30T03:22:33+00:00`
+  - Zeit: published `2026-06-30T06:00:00+00:00`, fetched `2026-06-30T06:22:21+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年6月30日）動画を掲載しました
+  - Kurz: 障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **年金振込口座を「公金受取口座」として登録できる特例制度（行政機関等経由登録の特例制度）に関するお知らせを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/account_registration/pension)
+- **市町村こども家庭相談に関する支援体制のダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/municipal-child-family-support)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-30T01:02:19+00:00`, fetched `2026-06-30T01:15:34+00:00`
+  - Zeit: published `2026-06-30T06:00:00+00:00`, fetched `2026-06-30T06:22:21+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 年金振込口座を「公金受取口座」として登録できる特例制度（行政機関等経由登録の特例制度）に関するお知らせを掲載しました
+  - Kurz: 市町村こども家庭相談に関する支援体制のダッシュボードを公開しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **国等の情報システムの統括・監理における技術検討会議（第27回から第31回）を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/development_management)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-06-30T06:00:00+00:00`, fetched `2026-06-30T06:22:21+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 国等の情報システムの統括・監理における技術検討会議（第27回から第31回）を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **cupy/cupy** — Score 6, observation — [Quelle](https://github.com/cupy/cupy)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

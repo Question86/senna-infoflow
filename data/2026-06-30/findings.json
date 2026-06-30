@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-29T22:41:15+00:00",
-    "fetched_at": "2026-06-30T01:15:34+00:00",
+    "published_at": "2026-06-30T06:22:37+00:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "7849d5ea9f6320a638cb"
+    "id": "042dcca6ad724b3daf0a"
   },
   {
     "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
@@ -158,6 +158,72 @@
       "PINS"
     ],
     "id": "c301ccac5e5c4fb1ec53"
+  },
+  {
+    "title": "三菱電機製MELSOFT Update Managerに7-Zipに起因する複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU95990609/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-30T14:30:00+09:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "三菱電機製MELSOFT Update Managerには、製品が内包する7-Zipに起因する複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "067fab3875c2a2a0218e"
+  },
+  {
+    "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）における反射型クロスサイトスクリプティングの脆弱性",
+    "url": "https://jvn.jp/jp/JVN48718197/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-30T14:00:15+09:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、反射型クロスサイトスクリプティングの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e8026c11e0487a68b6cf"
+  },
+  {
+    "title": "RPGツクールMVおよびMZにおけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN69681784/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-06-30T14:00:00+09:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "株式会社Gotcha Gotcha Gamesが提供するRPGツクールMVおよびMZには、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b3683162d59922bb787f"
   },
   {
     "title": "DGM3103SCTにおけるOSコマンドインジェクションの脆弱性",
@@ -371,6 +437,86 @@
       "EWZ"
     ],
     "id": "5bfa3c7c21af5eae8c03"
+  },
+  {
+    "title": "障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました",
+    "url": "https://www.digital.go.jp/about/challenged-person-action-plan/2025",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8b6db13407be00a36edc"
+  },
+  {
+    "title": "市町村こども家庭相談に関する支援体制のダッシュボードを公開しました",
+    "url": "https://www.digital.go.jp/resources/govdashboard/municipal-child-family-support",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "市町村こども家庭相談に関する支援体制のダッシュボードを公開しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "326fac94ae5ae1f2c283"
+  },
+  {
+    "title": "国等の情報システムの統括・監理における技術検討会議（第27回から第31回）を掲載しました",
+    "url": "https://www.digital.go.jp/policies/development_management",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "国等の情報システムの統括・監理における技術検討会議（第27回から第31回）を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3759faeda456eb8d0f89"
+  },
+  {
+    "title": "2025年度中途採用比率を掲載しました",
+    "url": "https://www.digital.go.jp/about/career-ratio",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "fetched_at": "2026-06-30T06:22:21+00:00",
+    "summary": "2025年度中途採用比率を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7ad0a59be7ced968d5a8"
   },
   {
     "title": "松本大臣記者会見（令和8年6月30日）動画を掲載しました",
