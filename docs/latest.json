@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T22:14:39+00:00",
-  "run_id": "2026-06-30T22:14:39+00:00",
+  "generated_at": "2026-06-30T22:48:16+00:00",
+  "run_id": "2026-06-30T22:48:16+00:00",
   "date": "2026-06-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4379,30 +4379,7 @@
       "id": "d3eb1ab7d5a984222aac"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach",
-      "url": "https://speakerdeck.com/minodriven/ai-refactoring-approach",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-30T10:43:02+00:00",
-      "fetched_at": "2026-06-30T22:14:14+00:00",
-      "summary": "こちらの登壇資料です。 AI駆動開発を妨げる技術的負債の解消アプローチ https://levtechlab.connpass.com/event/395968/",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "162554f70422450796c5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
