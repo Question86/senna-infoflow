@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T20:17:30+00:00_
+_Generiert: 2026-06-30T21:03:02+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,6 @@ _Generiert: 2026-06-30T20:17:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Türkiye
-- **USGS earthquake M6.0 - 75 km SSW of El Progreso, Mexico** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j)
-  - Quelle: USGS
-  - Zeit: `2026-06-30T19:45:40+00:00`
-  - Kurz: M6.0 - 75 km SSW of El Progreso, Mexico. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549440)
   - Quelle: GDACS
   - Zeit: ``
