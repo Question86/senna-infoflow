@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-30T06:53:23+00:00",
-    "fetched_at": "2026-06-30T08:49:32+00:00",
+    "published_at": "2026-06-30T12:58:29+00:00",
+    "fetched_at": "2026-06-30T12:58:13+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f33b0e363fe1aab99155"
+    "id": "ae159b27a20fff2beb8d"
   },
   {
     "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
@@ -519,6 +519,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "109ed2865df74f5d4d45"
+  },
+  {
+    "title": "国産AIで狙う脱「米国依存」、性能はミュトスに及ばず 第三極を模索 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2449U0U6A620C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T11:29:53+00:00",
+    "fetched_at": "2026-06-30T12:58:13+00:00",
+    "summary": "国産の人工知能（AI）基盤の実現へ官民プロジェクトが動き出す。経済産業省は30日、最大1兆円規模の支援事業の対象にソフトバンクなどの企業連合を選んだと発表した。米中がAI開発で先行するなか、技術主権の確立を狙う。AI基盤の開発はソフトバンクとホンダ、NECとソニーグループの4社を中核に設立された会社「Noetra（...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "507404e744a96461bb90"
   },
   {
     "title": "Can AI romance fix language learning? Hyperbond believes so",
@@ -1262,6 +1284,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d14fcafd4b81cd332bb0"
+  },
+  {
+    "title": "ブラウザで読んだページをObsidianに自動保存できるようにChrome拡張「Yasumaro」をきっちり設定する",
+    "url": "https://zenn.dev/ar1/articles/yasumaro-04-obsidian",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T02:41:51+00:00",
+    "fetched_at": "2026-06-30T12:58:13+00:00",
+    "summary": "気になる記事をブックマークしても、あとで見返すことはほぼありません。 「あとで読む」フォルダは増えるのに、中身を開くことはなくなっていく。そういう経験を繰り返した末に、YasumaroというChrome拡張があります。 ちゃんと設定すれば、ブラウザで読んだWebページを、AIが要約してObsidianのデイリーノートに自動で...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "81e18fe73c185731fd1e"
   },
   {
     "title": "soxoj/maigret",

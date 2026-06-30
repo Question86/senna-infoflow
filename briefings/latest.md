@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T12:08:50+00:00_
+_Generiert: 2026-06-30T12:58:42+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -59,7 +59,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-30T06:53:23+00:00`, fetched `2026-06-30T08:49:32+00:00`
+  - Zeit: published `2026-06-30T12:58:29+00:00`, fetched `2026-06-30T12:58:13+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **国産AIで狙う脱「米国依存」、性能はミュトスに及ばず 第三極を模索 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC2449U0U6A620C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-30T11:29:53+00:00`, fetched `2026-06-30T12:58:13+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 国産の人工知能（AI）基盤の実現へ官民プロジェクトが動き出す。経済産業省は30日、最大1兆円規模の支援事業の対象にソフトバンクなどの企業連合を選んだと発表した。米中がAI開発で先行するなか、技術主権の確立を狙う。AI基盤の開発はソフトバンクとホンダ、NECとソニーグループの4社を中核に設立された会社「Noetra（...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB publishes indicative operational calendars for 2028** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-30T08:00:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **市町村こども家庭相談に関する支援体制のダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/municipal-child-family-support)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-30T06:00:00+00:00`, fetched `2026-06-30T06:22:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 市町村こども家庭相談に関する支援体制のダッシュボードを公開しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
