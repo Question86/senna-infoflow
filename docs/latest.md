@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T01:16:00+00:00_
+_Generiert: 2026-06-30T02:06:09+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+6 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Can your AI actually read your data?** — Score 18, observation — [Quelle](https://e27.co/can-your-ai-actually-read-your-data-20260628/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-30T01:45:05+00:00`, fetched `2026-06-30T02:05:43+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
+  - Kurz: There is a number buried in this month’s marketing-technology announcements that should stop every CMO and agency head in the region mid-scroll: 88 per cent of enterprise marketing leaders now wish they had invested in their content and data foundations before they deployed agentic AI. That figure surfaced in The Agile Brand Guide’s June 10 […] The post Can your AI actually read your data? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選 - Qiita** — Score 16, observation — [Quelle](https://qiita.com/wataru86/items/b859f1578191a1e15808)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-28T01:09:27+00:00`, fetched `2026-06-30T01:15:34+00:00`
@@ -33,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Why your AI chatbot fails after 2 months (and it is not the technology)** — Score 8, observation — [Quelle](https://e27.co/why-your-ai-chatbot-fails-after-2-months-and-it-is-not-the-technology-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-30T01:50:09+00:00`, fetched `2026-06-30T02:05:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Everyone is talking about building a second brain. Nobody is talking about how hard it is to actually fill it up correctly. I tried three times. Each time I failed. I would set up the system, populate it with information, feel organised for about two weeks, then fall behind on maintenance. Pricing changed. New services […] The post Why your AI chatbot fails after 2 months (and it is not the technology) appeared firs…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **年金振込口座を「公金受取口座」として登録できる特例制度（行政機関等経由登録の特例制度）に関するお知らせを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/account_registration/pension)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-30T01:02:19+00:00`, fetched `2026-06-30T01:15:34+00:00`
@@ -60,7 +78,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/

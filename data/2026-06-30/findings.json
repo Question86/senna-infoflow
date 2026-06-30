@@ -42,6 +42,29 @@
     "id": "7849d5ea9f6320a638cb"
   },
   {
+    "title": "Can your AI actually read your data?",
+    "url": "https://e27.co/can-your-ai-actually-read-your-data-20260628/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T01:45:05+00:00",
+    "fetched_at": "2026-06-30T02:05:43+00:00",
+    "summary": "There is a number buried in this month’s marketing-technology announcements that should stop every CMO and agency head in the region mid-scroll: 88 per cent of enterprise marketing leaders now wish they had invested in their content and data foundations before they deployed agentic AI. That figure surfaced in The Agile Brand Guide’s June 10 […] The post Can your AI actually read your data? appeared first on e27 .",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Content-Chance"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d7b204bacc4e5706dd69"
+  },
+  {
     "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選 - Qiita",
     "url": "https://qiita.com/wataru86/items/b859f1578191a1e15808",
     "source": "Hatena Bookmark Hotentry IT",
@@ -87,6 +110,27 @@
       "PINS"
     ],
     "id": "c301ccac5e5c4fb1ec53"
+  },
+  {
+    "title": "Why your AI chatbot fails after 2 months (and it is not the technology)",
+    "url": "https://e27.co/why-your-ai-chatbot-fails-after-2-months-and-it-is-not-the-technology-20260623/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T01:50:09+00:00",
+    "fetched_at": "2026-06-30T02:05:43+00:00",
+    "summary": "Everyone is talking about building a second brain. Nobody is talking about how hard it is to actually fill it up correctly. I tried three times. Each time I failed. I would set up the system, populate it with information, feel organised for about two weeks, then fall behind on maintenance. Pricing changed. New services […] The post Why your AI chatbot fails after 2 months (and it is not the technology) appeared firs…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88ee9369b44f82a20b91"
   },
   {
     "title": "年金振込口座を「公金受取口座」として登録できる特例制度（行政機関等経由登録の特例制度）に関するお知らせを掲載しました",
