@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-06-30T12:58:29+00:00",
-    "fetched_at": "2026-06-30T12:58:13+00:00",
+    "published_at": "2026-06-30T16:31:49+00:00",
+    "fetched_at": "2026-06-30T16:31:35+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ae159b27a20fff2beb8d"
+    "id": "a9a005592a2eda6ee896"
   },
   {
     "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
@@ -978,6 +978,26 @@
     "id": "fab316c11788ed392397"
   },
   {
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T09:00:00+00:00",
+    "fetched_at": "2026-06-30T16:31:35+00:00",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dcfb1d152dce2b901193"
+  },
+  {
     "title": "Christopher J Waller: Welcoming remarks on the international role of the US dollar",
     "url": "https://www.bis.org/review/r260624a.htm",
     "source": "BIS Central Bankers Speeches",
@@ -1244,6 +1264,26 @@
     "id": "5bfa3c7c21af5eae8c03"
   },
   {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T00:00:00+00:00",
+    "fetched_at": "2026-06-30T16:31:35+00:00",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8aa33b24ce5a438a293f"
+  },
+  {
     "title": "Joachim Nagel: The digital euro - promoting innovation, safeguarding sovereignty, strengthening Europe",
     "url": "https://www.bis.org/review/r260630e.htm",
     "source": "BIS Central Bankers Speeches",
@@ -1466,6 +1506,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f3265638a4943f3a910d"
+  },
+  {
+    "title": "新しいGoogle Pixelがバッテリー膨張で使用不能→公式に聞くと「交換か返金」と言われるもそこから話が進まず 発火しそうな破損バッテリーを持ち続ける事態に",
+    "url": "https://togetter.com/li/2715374",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T12:51:58+00:00",
+    "fetched_at": "2026-06-30T16:31:35+00:00",
+    "summary": "DoGA @DoGA_CGanime 子供に買ったGoogle Pixel7aが、数ヶ月でバッテリー膨張で使えなくなった問題、 当初、交換か返金と言っていたのに、結局そのまま放置されてる。 火災の原因になるから、実機は廃棄してよいか？にも返答なし。 しかたがないので、Google指定の修理店に持って行ってみる。 2026-06-29 10:42:11",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f88f70cc813224953ad7"
+  },
+  {
+    "title": "農水省の“クソダサ”ポスター話題 「AIよりよっぽど良い」の声も 担当者に狙いを聞いた",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news158.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T11:30:35+00:00",
+    "fetched_at": "2026-06-30T16:31:35+00:00",
+    "summary": "農林水産省の公式Xアカウントが6月29日に投稿した「佃煮の日」のポスターが、良い意味で「ダサい」と話題だ。広報室の担当者はITmedia NEWSの取材に応じ、今回のデザインは伝わりやすさを試行錯誤した結果だと説明。デザインの狙いやSNSの投稿体制について語った。 同ポスターは、2000年代のPCの作図ソフトで作ったよう...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "db5af0c552c40be672e0"
   },
   {
     "title": "システムリプレイスを始める前に余計な機能を消す - モヒカン技術ブログ",

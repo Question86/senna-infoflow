@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T15:39:40+00:00_
+_Generiert: 2026-06-30T16:32:02+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+73 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-30T12:58:29+00:00`, fetched `2026-06-30T12:58:13+00:00`
+  - Zeit: published `2026-06-30T16:31:49+00:00`, fetched `2026-06-30T16:31:35+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -249,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB publishes indicative operational calendars for 2027
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How ChatGPT adoption has expanded** — Score 8, observation — [Quelle](https://openai.com/index/how-chatgpt-adoption-has-expanded)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-30T09:00:00+00:00`, fetched `2026-06-30T16:31:35+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Oracle E-Business Suite: Angriffe auf Payments beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-E-Business-Suite-Angriffe-auf-Payments-beobachtet-11348676.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-30T07:46:00.000+00:00`, fetched `2026-06-30T08:49:32+00:00`
@@ -257,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: In Oracles E-Business Suite greifen Kriminelle eine Lücke an, die die Oracle-Payments-Komponente betrifft und deren Übernahme ermöglicht.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SimpleHelp: Lücke in Fernwartungssoftware in freier Wildbahn missbraucht** — Score 7, observation — [Quelle](https://www.heise.de/news/Fernwartung-SimpleHelp-Schwachstelle-wird-angegriffen-11348620.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-30T07:14:00.000+00:00`, fetched `2026-06-30T07:44:48+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Eine kritische Sicherheitslücke mit Risiko-Höchstwertung in der Fernwartungssoftware SimpleHelp wird im Internet angegriffen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
