@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T14:42:49+00:00_
+_Generiert: 2026-06-30T15:39:40+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+69 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - 90 km ESE of Kimbe, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-30T15:08:06.315+00:00`, fetched `2026-06-30T15:39:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V Time 2026-06-30 14:41:10 UTC 2026-06-30 14:41:10 UTC at epicenter Location 5.727°S 150.934°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「FortiBleed」大規模憑證竊取行動：企業防火牆與VPN設備面臨風險** — Score 12, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11013-7c866-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-06-30T09:06:00+00:00`, fetched `2026-06-30T10:08:39+00:00`
@@ -302,15 +311,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Eine kritische Sicherheitslücke mit Risiko-Höchstwertung in der Fernwartungssoftware SimpleHelp wird im Internet angegriffen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/challenged-person-action-plan/2025)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-30T06:00:00+00:00`, fetched `2026-06-30T06:22:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 障害者活躍推進計画に基づく取組の実施状況（令和7年度（2025年度））を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
