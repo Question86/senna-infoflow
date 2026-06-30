@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T21:42:55+00:00",
-  "run_id": "2026-06-30T21:42:55+00:00",
+  "generated_at": "2026-06-30T22:14:39+00:00",
+  "run_id": "2026-06-30T22:14:39+00:00",
   "date": "2026-06-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 0,
     "medium": 15,
-    "observe": 72,
+    "observe": 73,
     "source_errors": 0
   },
   "sections": {
@@ -1047,6 +1047,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c814eb6ed5a4484a51b"
+      },
+      {
+        "title": "AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach",
+        "url": "https://speakerdeck.com/minodriven/ai-refactoring-approach",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-30T10:43:02+00:00",
+        "fetched_at": "2026-06-30T22:14:14+00:00",
+        "summary": "こちらの登壇資料です。 AI駆動開発を妨げる技術的負債の解消アプローチ https://levtechlab.connpass.com/event/395968/",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "162554f70422450796c5"
       },
       {
         "title": "ECB publishes indicative operational calendars for 2028",
@@ -3202,6 +3224,28 @@
       "id": "3c814eb6ed5a4484a51b"
     },
     {
+      "title": "AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach",
+      "url": "https://speakerdeck.com/minodriven/ai-refactoring-approach",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-30T10:43:02+00:00",
+      "fetched_at": "2026-06-30T22:14:14+00:00",
+      "summary": "こちらの登壇資料です。 AI駆動開発を妨げる技術的負債の解消アプローチ https://levtechlab.connpass.com/event/395968/",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "162554f70422450796c5"
+    },
+    {
       "title": "ECB publishes indicative operational calendars for 2028",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -4337,26 +4381,26 @@
   ],
   "new_findings": [
     {
-      "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由 2026年に生き残るエンジニア“4つの役割”",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
+      "title": "AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach",
+      "url": "https://speakerdeck.com/minodriven/ai-refactoring-approach",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-28T11:01:25+00:00",
-      "fetched_at": "2026-06-30T21:42:30+00:00",
-      "summary": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由 2026年に生き残るエンジニア“4つの役割”：2026年上半期「AI」よく読まれた記事“5選” 2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。 AIの進化によって「作...",
+      "published_at": "2026-06-30T10:43:02+00:00",
+      "fetched_at": "2026-06-30T22:14:14+00:00",
+      "summary": "こちらの登壇資料です。 AI駆動開発を妨げる技術的負債の解消アプローチ https://levtechlab.connpass.com/event/395968/",
       "matched_keywords": [
         "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b5a07b3588dfebc9448c"
+      "id": "162554f70422450796c5"
     }
   ],
   "source_errors": [],
