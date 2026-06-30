@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T11:19:15+00:00",
-  "run_id": "2026-06-30T11:19:15+00:00",
+  "generated_at": "2026-06-30T12:08:50+00:00",
+  "run_id": "2026-06-30T12:08:50+00:00",
   "date": "2026-06-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 1,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
     "medium": 10,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1317,6 +1317,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2fc0f282224fed701230"
+      },
+      {
+        "title": "Digital transformation for nonprofits: 3 strategies for success",
+        "url": "https://e27.co/digital-transformation-for-nonprofits-three-strategies-for-success-20240527/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-06-30T11:50:55+00:00",
+        "fetched_at": "2026-06-30T12:08:25+00:00",
+        "summary": "Nonprofits, charities and non-governmental organisations face a multitude of challenges that require agility, digital innovation and resilience to navigate effectively. From the accelerating pace of technological change to fundraising uncertainty, nonprofits must reconsider adopting new strategies in order to respond to the increasing demands of the communities they serve and support. These impact-focused organisati…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "05ae927424e32dc30594"
       },
       {
         "title": "America’s immigrant tech workers are paying an uncertainty tax",
@@ -2627,6 +2647,26 @@
       "id": "2fc0f282224fed701230"
     },
     {
+      "title": "Digital transformation for nonprofits: 3 strategies for success",
+      "url": "https://e27.co/digital-transformation-for-nonprofits-three-strategies-for-success-20240527/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-06-30T11:50:55+00:00",
+      "fetched_at": "2026-06-30T12:08:25+00:00",
+      "summary": "Nonprofits, charities and non-governmental organisations face a multitude of challenges that require agility, digital innovation and resilience to navigate effectively. From the accelerating pace of technological change to fundraising uncertainty, nonprofits must reconsider adopting new strategies in order to respond to the increasing demands of the communities they serve and support. These impact-focused organisati…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05ae927424e32dc30594"
+    },
+    {
       "title": "America’s immigrant tech workers are paying an uncertainty tax",
       "url": "https://restofworld.org/2026/us-tech-immigration-bottleneck-h1b-talent-drain/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2647,46 +2687,24 @@
   ],
   "new_findings": [
     {
-      "title": "Can AI romance fix language learning? Hyperbond believes so",
-      "url": "https://e27.co/can-ai-romance-fix-language-learning-hyperbond-believes-so-20260212/",
+      "title": "Digital transformation for nonprofits: 3 strategies for success",
+      "url": "https://e27.co/digital-transformation-for-nonprofits-three-strategies-for-success-20240527/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-06-30T11:04:32+00:00",
-      "fetched_at": "2026-06-30T11:18:50+00:00",
-      "summary": "As AI-native language platforms race beyond flashcards and drills, Hyperbond Studio’s Call Me Sensei is betting that engagement, not curriculum, is the true unlock. Blending character-driven AI, memory systems, and relationship mechanics, the Singaporean startup is reimagining language learning as an emotionally immersive experience rather than a structured syllabus. The AI startup — founded by […] The post Can AI r…",
+      "published_at": "2026-06-30T11:50:55+00:00",
+      "fetched_at": "2026-06-30T12:08:25+00:00",
+      "summary": "Nonprofits, charities and non-governmental organisations face a multitude of challenges that require agility, digital innovation and resilience to navigate effectively. From the accelerating pace of technological change to fundraising uncertainty, nonprofits must reconsider adopting new strategies in order to respond to the increasing demands of the communities they serve and support. These impact-focused organisati…",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "454d9a92c1435aa5f899"
-    },
-    {
-      "title": "How TransTrack is embedding AI across its products and operations",
-      "url": "https://e27.co/how-transtrack-is-embedding-ai-across-its-products-and-operations-20260630/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-06-30T10:56:13+00:00",
-      "fetched_at": "2026-06-30T11:18:50+00:00",
-      "summary": "As Indonesia continues to grapple with a persistently high rate of traffic accidents, transport technology firm TransTrack is positioning AI, telematics and data analytics as central tools for improving road safety, both for its own operations and for the customers it serves. The company’s approach was outlined during the Road Transport Safety Management System Strengthening […] The post How TransTrack is embedding…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1bd94b896298958d864c"
+      "id": "05ae927424e32dc30594"
     }
   ],
   "source_errors": [],
