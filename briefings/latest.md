@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T16:32:02+00:00_
+_Generiert: 2026-06-30T17:18:15+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -276,6 +276,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 国産の人工知能（AI）基盤の実現へ官民プロジェクトが動き出す。経済産業省は30日、最大1兆円規模の支援事業の対象にソフトバンクなどの企業連合を選んだと発表した。米中がAI開発で先行するなか、技術主権の確立を狙う。AI基盤の開発はソフトバンクとホンダ、NECとソニーグループの4社を中核に設立された会社「Noetra（...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing GeneBench-Pro** — Score 10, observation — [Quelle](https://openai.com/index/introducing-genebench-pro)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-06-30T00:00:00+00:00`, fetched `2026-06-30T17:17:47+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Copilot Agent is now available in JetBrains AI Assistant** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-30T16:00:19+00:00`, fetched `2026-06-30T17:17:47+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: Today, JetBrains and GitHub are announcing a deeper integration between JetBrains AI Assistant and GitHub Copilot. Millions of developers already rely on the GitHub Copilot plugin as their AI pair… The post Copilot Agent is now available in JetBrains AI Assistant appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB publishes indicative operational calendars for 2028** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-06-30T08:00:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
@@ -293,24 +311,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB publishes indicative operational calendars for 2027
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How ChatGPT adoption has expanded** — Score 8, observation — [Quelle](https://openai.com/index/how-chatgpt-adoption-has-expanded)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-06-30T09:00:00+00:00`, fetched `2026-06-30T16:31:35+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Oracle E-Business Suite: Angriffe auf Payments beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-E-Business-Suite-Angriffe-auf-Payments-beobachtet-11348676.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-06-30T07:46:00.000+00:00`, fetched `2026-06-30T08:49:32+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In Oracles E-Business Suite greifen Kriminelle eine Lücke an, die die Oracle-Payments-Komponente betrifft und deren Übernahme ermöglicht.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
