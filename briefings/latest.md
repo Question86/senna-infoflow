@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T03:22:58+00:00_
+_Generiert: 2026-06-30T04:51:20+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Igloo expands Thailand footprint with Eazy Digital acquisition amid insurance reform push** — Score 11, observation — [Quelle](https://e27.co/igloo-expands-thailand-footprint-with-eazy-digital-acquisition-amid-insurance-reform-push-20260630/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-30T03:39:58+00:00`, fetched `2026-06-30T04:50:49+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
+  - Kurz: Singapore-headquartered insurance technology Igloo has acquired Eazy Digital, a fellow Singaporean startup with operations across Thailand and Asia, as it doubles down on one of Southeast Asia’s most important but still under-digitised insurance markets. Under the transaction, Eazy Digital’s client base and Thailand team will be folded into Igloo. Eazy Digital founder Harprem Doowa will […] The post Igloo expands Th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **msitarzewski/agency-agents** — Score 11, observation — [Quelle](https://github.com/msitarzewski/agency-agents)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-30T03:22:33+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For the past few years, artificial intelligence has been dominated by one powerful idea: conversation. People ask AI to write emails, summarise reports, generate marketing copy, explain legal documents, produce code, and answer questions. This has created enormous value because Large Language Models (LLMs) have made AI easy for everyone to use. But the next […] The post The next trillion-dollar AI opportunity: Real-…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The grains of structural friction: Why AI upskilling is failing the power law** — Score 8, observation — [Quelle](https://e27.co/the-grains-of-structural-friction-why-ai-upskilling-is-failing-the-power-law-20260617/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-30T02:15:57+00:00`, fetched `2026-06-30T03:22:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI is often framed as a universal equaliser. Give everyone access to the same tools. Provide widespread training. Raise the baseline—and outcomes should converge. But this assumption is increasingly misaligned with reality. Despite unprecedented access to AI tools and learning resources, outcomes are diverging—not converging. A small group compounds rapidly, a middle group makes incremental […] The post The grains o…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年6月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260630-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-06-30T02:34:40+00:00`, fetched `2026-06-30T03:22:33+00:00`
@@ -184,6 +184,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
   - Kurz: NumPy & SciPy for GPU CuPy : NumPy & SciPy for GPU Website | Install | Tutorial | Examples | Documentation | API Reference | Forum CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. CuPy acts as a drop-in replacement to run existing NumPy/SciPy code on NVIDIA CUDA or AMD ROCm platforms. >>> import cupy as cp >>> x = cp.arange(6).reshape(2, 3).astype('f') >>> x array([[ 0., 1.,…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **カタログ制作の3社コンペを失注したが、その理由が「社内で総務がAIやツールを使って作ることになったので…」と聞いた時、ある疑念が生まれた「ま、まさかですが…」** — Score 5, observation — [Quelle](https://togetter.com/li/2715168)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-30T00:26:38+00:00`, fetched `2026-06-30T04:50:49+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 石田隆博@グッドな社長デザイナー｜GOODCREW @st_isida カタログ制作の3社コンペ。失注しました。 理由は「社内で総務がAIやツールを使って作ることになったので・・・」 昔に比べると誰でもそれなりのデザインができる時代になったのは事実。 ブルーな週末でしたが、挫折があるとまた進化しようと思える。負けられねぇ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ソニーの「アイボ」、“次の製品”を開発中 「今ここにその子がいるんですけど」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2606/30/news076.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
