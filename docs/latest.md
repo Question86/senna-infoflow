@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T18:05:35+00:00_
+_Generiert: 2026-06-30T18:51:08+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-06-30T16:31:49+00:00`, fetched `2026-06-30T16:31:35+00:00`
+  - Zeit: published `2026-06-30T18:50:57+00:00`, fetched `2026-06-30T18:50:43+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: Dependabot will no longer attempt to infer .npmrc configuration for npm private registries. Previously, Dependabot tried to reconstruct .npmrc contents from lockfile resolved URLs, but incorrect lockfile URLs, lockfile format… The post Dependabot no longer infers .npmrc appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Sonnet 5 is generally available for GitHub Copilot** — Score 14, opportunity — [Quelle](https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-30T17:25:51+00:00`, fetched `2026-06-30T18:50:43+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Claude Sonnet 5 is Anthropic’s latest Sonnet-class model, now available in GitHub Copilot. It brings strong coding performance to everyday development and agentic workflows, giving developers a new Sonnet-class option… The post Claude Sonnet 5 is generally available for GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **三菱電機製MELSOFT Update Managerに7-Zipに起因する複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95990609/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-06-30T14:30:00+09:00`, fetched `2026-06-30T06:22:21+00:00`
