@@ -293,6 +293,82 @@
     "id": "b56ad2731a0b63e26212"
   },
   {
+    "title": "「FortiBleed」大規模憑證竊取行動：企業防火牆與VPN設備面臨風險",
+    "url": "https://www.twcert.org.tw/tw/cp-104-11013-7c866-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T09:06:00+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "威脅情報平台 InfoStealers 近日揭露名為「FortiBleed」的大規模憑證外洩事件，全球約7.5萬台 FortiGate防火牆與 VPN 閘道設備的登入憑證可能已遭竊取。資安研究人員估計，受影響設備約占全球對外暴露 Fortinet 設備的一半，涉及範圍涵蓋跨國企業、政府機構及關鍵基礎設施等組織。 報告指出，此波名為「FortiBleed」的憑證竊取活動，疑似由與俄語系網路犯罪集團有關。研究人員分析，攻擊者曾針對逾32萬台 FortiGate設備發動約11.6億次登入憑證嘗試，並對超過16萬台Microsoft SQL Server (MSSQL) 伺服器進行約21億次暴力破解。顯示其具備大規模掃描、憑證驗證及自動化攻擊能力。 除嘗試使用過往外洩或未定期更換的帳號密碼，該集團還主動攔截 SSL VPN 驗證雜湊值，並透過由45個GPU組成、使用Hashtopolis管理的大型叢集進行離線破解。成功取得有效憑證後，…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Fortinet"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "a0dc4d0f9eb252e9d8af"
+  },
+  {
+    "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+    "url": "https://www.bis.org/review/r260625a.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-06-30T08:04:00+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 22 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: parliament"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "32ad738a43e72b88fbea"
+  },
+  {
     "title": "Ryozo Himino: The Bank of Japan's Semiannual Report on Currency and Monetary Control",
     "url": "https://www.bis.org/review/r260624c.htm",
     "source": "BIS Central Bankers Speeches",
@@ -312,6 +388,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "724b001ffa5989609701"
+  },
+  {
+    "title": "Profitable Qashier raises US$6M as SEA’s SME payments race intensifies",
+    "url": "https://e27.co/profitable-qashier-raises-us6m-as-seas-sme-payments-race-intensifies-20260630/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T09:20:37+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "Singapore-based Qashier has raised US$6.125 million in a Series A+ round, giving the merchant operating system startup fresh capital to expand across Southeast Asia after reaching profitability and crossing US$1 billion in annualised payment volume. The round comprises equity and debt and was led by Cocoon Capital, IFP Securities, and BlackSoil Global, with participation from […] The post Profitable Qashier raises U…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "bec799e4429cafdbdf7a"
   },
   {
     "title": "German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal",
@@ -355,6 +474,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "10c9736e0d3255c90d1a"
+  },
+  {
+    "title": "研華科技｜Hospital Queuing Management - 存在2個漏洞",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11011-999eb-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:03:00+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "研華科技｜Hospital Queuing Management - 存在2個漏洞",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9e3e7253d7cba765eacf"
   },
   {
     "title": "msitarzewski/agency-agents",
@@ -934,6 +1075,48 @@
     "id": "f3265638a4943f3a910d"
   },
   {
+    "title": "システムリプレイスを始める前に余計な機能を消す - モヒカン技術ブログ",
+    "url": "https://blog.pinkumohikan.com/entry/remove-unnecessaries-first-when-system-replace",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T03:37:52+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "システムのリプレイスをするなら、新システムへ機能を移植し始める前に「いらない機能」を現行システムから消すことを勧めたい。 この記事のまとめ リプレイス時は、機能の棚卸しをして不要なものを現行システムから先に消そう 先に消せば移植する機能が減って保守コストと総工数が下がる 棚卸しによって「どの機能」が...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "46731dcbe76f7890f949"
+  },
+  {
+    "title": "AI避けて「人間にだけ届く」広告配信へ、博報堂DYが新会社設立 虹彩認証「World ID」活用",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news095.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:03:59+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "博報堂DYホールディングスは6月29日、AIやボットを排除し、人間にだけ広告を配信する新会社「Ads for Humanity」を4月に設立し、新会社から広告商品「Human-Verified Ad」の販売を始めたと発表した。サム・アルトマン氏らが共同発明した人間認証技術「World ID」を活用する。 「World ID」は、専用デバイスで虹彩をスキ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "500f5b80e3885de54731"
+  },
+  {
     "title": "昔は『マネージャーはちゃんと叱れ』と言われていたが、今はどうなのか",
     "url": "https://blog.tinect.jp/?p=91268",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1060,5 +1243,23 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2fc0f282224fed701230"
+  },
+  {
+    "title": "America’s immigrant tech workers are paying an uncertainty tax",
+    "url": "https://restofworld.org/2026/us-tech-immigration-bottleneck-h1b-talent-drain/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T10:00:00+00:00",
+    "fetched_at": "2026-06-30T10:08:39+00:00",
+    "summary": "A court struck down Donald Trump’s $100,000 H-1B fee. But many foreign workers say years of shifting immigration rules have already pushed them to consider Canada, the U.K., and the Gulf.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region canada: Canada (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3eb1ab7d5a984222aac"
   }
 ]

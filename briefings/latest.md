@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T08:49:58+00:00_
+_Generiert: 2026-06-30T10:09:04+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -149,6 +149,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **「FortiBleed」大規模憑證竊取行動：企業防火牆與VPN設備面臨風險** — Score 12, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11013-7c866-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-06-30T09:06:00+00:00`, fetched `2026-06-30T10:08:39+00:00`
+  - Treffer: Security, TWCERT, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: 威脅情報平台 InfoStealers 近日揭露名為「FortiBleed」的大規模憑證外洩事件，全球約7.5萬台 FortiGate防火牆與 VPN 閘道設備的登入憑證可能已遭竊取。資安研究人員估計，受影響設備約占全球對外暴露 Fortinet 設備的一半，涉及範圍涵蓋跨國企業、政府機構及關鍵基礎設施等組織。 報告指出，此波名為「FortiBleed」的憑證竊取活動，疑似由與俄語系網路犯罪集團有關。研究人員分析，攻擊者曾針對逾32萬台 FortiGate設備發動約11.6億次登入憑證嘗試，並對超過16萬台Microsoft SQL Server (MSSQL) 伺服器進行約21億次暴力破解。顯示其具備大規模掃描、憑證驗證及自動化攻擊能力。 除嘗試使用過往外洩或未定期更換的帳號密碼，該集團還主動攔截 SSL VPN 驗證雜湊值，並透過由45個GPU組成、使用Hashtopolis管理的大型叢集進行離線破解。成功取得有效憑證後，…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament** — Score 12, observation — [Quelle](https://www.bis.org/review/r260625a.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-30T08:04:00+00:00`, fetched `2026-06-30T10:08:39+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 22 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ryozo Himino: The Bank of Japan's Semiannual Report on Currency and Monetary Control** — Score 12, observation — [Quelle](https://www.bis.org/review/r260624c.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-06-30T06:46:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
@@ -157,6 +175,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0)
   - Kurz: Statement by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, before the Committee on Financial Affairs, House of Representatives, Tokyo, 19 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Profitable Qashier raises US$6M as SEA’s SME payments race intensifies** — Score 11, observation — [Quelle](https://e27.co/profitable-qashier-raises-us6m-as-seas-sme-payments-race-intensifies-20260630/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-06-30T09:20:37+00:00`, fetched `2026-06-30T10:08:39+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Singapore-based Qashier has raised US$6.125 million in a Series A+ round, giving the merchant operating system startup fresh capital to expand across Southeast Asia after reaching profitability and crossing US$1 billion in annualised payment volume. The round comprises equity and debt and was led by Cocoon Capital, IFP Securities, and BlackSoil Global, with participation from […] The post Profitable Qashier raises U…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal** — Score 11, opportunity — [Quelle](https://e27.co/german-listed-ddb-acquires-singapores-infinium-robotics-in-us24m-share-deal-20260630/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -176,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
   - Kurz: Singapore-headquartered insurance technology Igloo has acquired Eazy Digital, a fellow Singaporean startup with operations across Thailand and Asia, as it doubles down on one of Southeast Asia’s most important but still under-digitised insurance markets. Under the transaction, Eazy Digital’s client base and Thailand team will be folded into Igloo. Eazy Digital founder Harprem Doowa will […] The post Igloo expands Th…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **研華科技｜Hospital Queuing Management - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11011-999eb-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-06-30T02:03:00+00:00`, fetched `2026-06-30T10:08:39+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 研華科技｜Hospital Queuing Management - 存在2個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **msitarzewski/agency-agents** — Score 11, observation — [Quelle](https://github.com/msitarzewski/agency-agents)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-06-30T03:22:33+00:00`
@@ -184,15 +220,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why one AI workshop won’t transform your organisation** — Score 10, observation — [Quelle](https://e27.co/why-one-ai-workshop-wont-transform-your-organisation-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-06-30T03:00:03+00:00`, fetched `2026-06-30T03:22:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Most organisations that say they are investing in AI are actually investing in awareness. There is a difference, and it matters more than many leaders realise. Across workplaces today, AI adoption is accelerating. Employees are experimenting with chatbots, attending workshops and learning prompt-writing techniques. In Singapore, three in four workers are already using AI tools […] The post Why one AI workshop won’t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB publishes indicative operational calendars for 2028** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
@@ -221,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Speech by Dr Jorgovanka Tabakovi&#263;, Governor of the National Bank of Serbia, at the Annual Assembly of the Association of Serbian Banks, Belgrade, 19 June 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Christopher J Waller: Welcoming remarks on the international role of the US dollar** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260624a.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-06-30T07:28:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)
-  - Kurz: Welcoming remarks by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington DC, 22 June 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Oracle E-Business Suite: Angriffe auf Payments beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-E-Business-Suite-Angriffe-auf-Payments-beobachtet-11348676.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-06-30T07:46:00.000+00:00`, fetched `2026-06-30T08:49:32+00:00`
@@ -265,24 +283,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 市町村こども家庭相談に関する支援体制のダッシュボードを公開しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方公共団体の基幹業務システムの統一・標準化における特定移行支援システムの把握状況についての資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/local_governments)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-06-30T06:00:00+00:00`, fetched `2026-06-30T07:44:48+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方公共団体の基幹業務システムの統一・標準化における特定移行支援システムの把握状況についての資料を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **cupy/cupy** — Score 6, observation — [Quelle](https://github.com/cupy/cupy)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-06-30T03:22:33+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
-  - Kurz: NumPy & SciPy for GPU CuPy : NumPy & SciPy for GPU Website | Install | Tutorial | Examples | Documentation | API Reference | Forum CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. CuPy acts as a drop-in replacement to run existing NumPy/SciPy code on NVIDIA CUDA or AMD ROCm platforms. >>> import cupy as cp >>> x = cp.arange(6).reshape(2, 3).astype('f') >>> x array([[ 0., 1.,…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
