@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T19:28:57+00:00_
+_Generiert: 2026-06-30T20:17:30+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,14 +33,18 @@ _Generiert: 2026-06-30T19:28:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Türkiye
+- **USGS earthquake M6.0 - 75 km SSW of El Progreso, Mexico** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j)
+  - Quelle: USGS
+  - Zeit: `2026-06-30T19:45:40+00:00`
+  - Kurz: M6.0 - 75 km SSW of El Progreso, Mexico. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549440)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549176)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -186,6 +190,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.0 - 75 km SSW of El Progreso, Mexico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-30T20:16:13.040+00:00`, fetched `2026-06-30T20:17:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-06-30 19:45:40 UTC 2026-06-30 19:45:40 UTC at epicenter Location 24.824°N 108.929°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 90 km ESE of Kimbe, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-30T15:08:06.315+00:00`, fetched `2026-06-30T15:39:12+00:00`
@@ -294,6 +307,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t999)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-30T19:43:00.040+00:00`, fetched `2026-06-30T20:17:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-30 19:21:07 UTC 2026-06-30 19:21:07 UTC at epicenter Location 23.986°S 177.344°W Depth 209.16 km (129.96 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Copilot Agent is now available in JetBrains AI Assistant** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-06-30T16:00:19+00:00`, fetched `2026-06-30T17:17:47+00:00`
@@ -302,24 +324,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: Today, JetBrains and GitHub are announcing a deeper integration between JetBrains AI Assistant and GitHub Copilot. Millions of developers already rely on the GitHub Copilot plugin as their AI pair… The post Copilot Agent is now available in JetBrains AI Assistant appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB publishes indicative operational calendars for 2028** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-30T08:00:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB publishes indicative operational calendars for 2028
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB publishes indicative operational calendars for 2027** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-06-30T08:00:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB publishes indicative operational calendars for 2027
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
