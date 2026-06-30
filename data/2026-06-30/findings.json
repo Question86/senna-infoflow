@@ -1145,6 +1145,27 @@
     "id": "88ee9369b44f82a20b91"
   },
   {
+    "title": "How GitHub maintains compliance for open source dependencies",
+    "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:28:16+00:00",
+    "fetched_at": "2026-06-30T18:05:07+00:00",
+    "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e08f7877137e62f89cc1"
+  },
+  {
     "title": "Martin Kocher: Concluding remarks -\"Monetary policy trade-offs in a heterogeneous currency area\"",
     "url": "https://www.bis.org/review/r260630g.htm",
     "source": "BIS Central Bankers Speeches",

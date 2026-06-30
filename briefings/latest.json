@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T17:18:15+00:00",
-  "run_id": "2026-06-30T17:18:15+00:00",
+  "generated_at": "2026-06-30T18:05:35+00:00",
+  "run_id": "2026-06-30T18:05:35+00:00",
   "date": "2026-06-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 1,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 14,
-    "observe": 64,
+    "observe": 65,
     "source_errors": 0
   },
   "sections": {
@@ -1175,6 +1175,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "88ee9369b44f82a20b91"
+      },
+      {
+        "title": "How GitHub maintains compliance for open source dependencies",
+        "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-06-30T17:28:16+00:00",
+        "fetched_at": "2026-06-30T18:05:07+00:00",
+        "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e08f7877137e62f89cc1"
       },
       {
         "title": "Martin Kocher: Concluding remarks -\"Monetary policy trade-offs in a heterogeneous currency area\"",
@@ -3083,6 +3104,27 @@
       "id": "88ee9369b44f82a20b91"
     },
     {
+      "title": "How GitHub maintains compliance for open source dependencies",
+      "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-06-30T17:28:16+00:00",
+      "fetched_at": "2026-06-30T18:05:07+00:00",
+      "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e08f7877137e62f89cc1"
+    },
+    {
       "title": "Martin Kocher: Concluding remarks -\"Monetary policy trade-offs in a heterogeneous currency area\"",
       "url": "https://www.bis.org/review/r260630g.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3843,107 +3885,25 @@
   ],
   "new_findings": [
     {
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "source": "OpenAI News RSS",
+      "title": "How GitHub maintains compliance for open source dependencies",
+      "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "fetched_at": "2026-06-30T17:17:47+00:00",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "published_at": "2026-06-30T17:28:16+00:00",
+      "fetched_at": "2026-06-30T18:05:07+00:00",
+      "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "de183f52203939944593"
-    },
-    {
-      "title": "Copilot Agent is now available in JetBrains AI Assistant",
-      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-30T16:00:19+00:00",
-      "fetched_at": "2026-06-30T17:17:47+00:00",
-      "summary": "Today, JetBrains and GitHub are announcing a deeper integration between JetBrains AI Assistant and GitHub Copilot. Millions of developers already rely on the GitHub Copilot plugin as their AI pair… The post Copilot Agent is now available in JetBrains AI Assistant appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3c814eb6ed5a4484a51b"
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "fetched_at": "2026-06-30T17:17:47+00:00",
-      "summary": "Inside Genebench-Pro",
-      "matched_keywords": [
-        "OpenAI"
+        "GitHub",
+        "Open Source"
       ],
       "relevance_score": 7,
-      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Open Source (+3.8); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e18fc9b28744bb1929f9"
-    },
-    {
-      "title": "GitHub code coverage merge protection for pull requests",
-      "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-30T16:42:21+00:00",
-      "fetched_at": "2026-06-30T17:17:47+00:00",
-      "summary": "You can now use branch rulesets to block pull requests from merging when test coverage drops below thresholds you set. You can set a minimum coverage percentage, a maximum allowed… The post GitHub code coverage merge protection for pull requests appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b6b7ac7f5baa3e47af6b"
-    },
-    {
-      "title": "Releases: Sidebar navigation and per-asset download counts",
-      "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-06-30T16:36:06+00:00",
-      "fetched_at": "2026-06-30T17:17:47+00:00",
-      "summary": "You can now scan and navigate release pages more easily with a dedicated sidebar table of contents. We also updated release metadata placement for a more consistent layout so it’s… The post Releases: Sidebar navigation and per-asset download counts appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bc8064d9896aa3568004"
+      "id": "e08f7877137e62f89cc1"
     }
   ],
   "source_errors": [],
