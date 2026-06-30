@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-06-30T13:46:26+00:00_
+_Generiert: 2026-06-30T14:42:49+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Akro AI, a Singapore-based AI startup, has raised a US$700,000 pre-seed funding round led by Amigos Venture Capital. The round also included participation from strategic angel investors across financial services, healthcare, and consumer tech. Akro AI builds automation tools for regulated industries, where critical work often depends on unstructured documents and fragmented knowledge. According to […] The post Akro…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Upcoming cloud data retention policy for closed security alerts** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-30T13:24:21+00:00`, fetched `2026-06-30T14:42:23+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: Starting August 25, 2026, GitHub will introduce a data retention policy for closed Dependabot security alerts. This policy gives you a clear commitment for how long your alert data stays… The post Upcoming cloud data retention policy for closed security alerts appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Can your AI actually read your data?** — Score 18, observation — [Quelle](https://e27.co/can-your-ai-actually-read-your-data-20260628/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-30T01:45:05+00:00`, fetched `2026-06-30T02:05:43+00:00`
@@ -65,6 +74,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: はじめに 以前こんな記事を書きました。 あれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Code 自体の操作・制御は自分でやる必要があるということです。セ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 46 km E of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t973)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-06-30T14:25:14.040+00:00`, fetched `2026-06-30T14:42:23+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-06-30 14:02:23 UTC 2026-06-30 14:02:23 UTC at epicenter Location 40.160°N 142.362°E Depth 62.77 km (39.00 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Dependabot no longer infers .npmrc** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-06-30T13:53:48+00:00`, fetched `2026-06-30T14:42:23+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: Dependabot will no longer attempt to infer .npmrc configuration for npm private registries. Previously, Dependabot tried to reconstruct .npmrc contents from lockfile resolved URLs, but incorrect lockfile URLs, lockfile format… The post Dependabot no longer infers .npmrc appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **三菱電機製MELSOFT Update Managerに7-Zipに起因する複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95990609/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -141,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Singapore-based Qashier has raised US$6.125 million in a Series A+ round, giving the merchant operating system startup fresh capital to expand across Southeast Asia after reaching profitability and crossing US$1 billion in annualised payment volume. The round comprises equity and debt and was led by Cocoon Capital, IFP Securities, and BlackSoil Global, with participation from […] The post Profitable Qashier raises U…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Philip R Lane: Introductory remarks** — Score 11, observation — [Quelle](https://www.bis.org/review/r260630b.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-06-30T08:54:00+00:00`, fetched `2026-06-30T14:42:23+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Philip R. Lane, Member of the Executive Board of the European Central Bank, at an exchange of views on "The economic and fiscal implications in Europe of the Middle East crisis", at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 23 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal** — Score 11, opportunity — [Quelle](https://e27.co/german-listed-ddb-acquires-singapores-infinium-robotics-in-us24m-share-deal-20260630/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-06-30T08:38:27+00:00`, fetched `2026-06-30T08:49:32+00:00`
@@ -203,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB publishes indicative operational calendars for 2027
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jorgovanka Tabakovi&#263;: Serbian banks well-capitalised and profitable, maintaining high liquidity buffers** — Score 9, observation — [Quelle](https://www.bis.org/review/r260622p.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-06-30T07:49:00+00:00`, fetched `2026-06-30T08:49:32+00:00`
-  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Speech by Dr Jorgovanka Tabakovi&#263;, Governor of the National Bank of Serbia, at the Annual Assembly of the Association of Serbian Banks, Belgrade, 19 June 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Oracle E-Business Suite: Angriffe auf Payments beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-E-Business-Suite-Angriffe-auf-Payments-beobachtet-11348676.html)
   - Quelle: heise Security Alerts / `rss`
