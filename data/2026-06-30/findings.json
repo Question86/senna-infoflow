@@ -66,6 +66,51 @@
     "id": "da76c8ec912cd7df2939"
   },
   {
+    "title": "Akro AI raises US$700K in pre-seed to automate data workflows in regulated industries",
+    "url": "https://e27.co/akro-ai-raises-us700k-in-pre-seed-to-automate-data-workflows-in-regulated-industries-20260630/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:10:34+00:00",
+    "fetched_at": "2026-06-30T07:44:48+00:00",
+    "summary": "Akro AI, a Singapore-based AI startup, has raised a US$700,000 pre-seed funding round led by Amigos Venture Capital. The round also included participation from strategic angel investors across financial services, healthcare, and consumer tech. Akro AI builds automation tools for regulated industries, where critical work often depends on unstructured documents and fragmented knowledge. According to […] The post Akro…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Automatisierung",
+      "funding",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "bceded37aac224100818"
+  },
+  {
     "title": "Can your AI actually read your data?",
     "url": "https://e27.co/can-your-ai-actually-read-your-data-20260628/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -314,6 +359,27 @@
     "id": "f61a9f54a8eaddd8cb33"
   },
   {
+    "title": "Ecosystem Roundup: In Thailand’s reform window, Igloo buys a seat at the table",
+    "url": "https://e27.co/ecosystem-roundup-in-thailands-reform-window-igloo-buys-a-seat-at-the-table-20260630/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:06:17+00:00",
+    "fetched_at": "2026-06-30T07:44:48+00:00",
+    "summary": "Igloo’s acquisition of Eazy Digital is the kind of deal that tells you something real about where Southeast Asia’s insurtech sector is heading. The Singapore-headquartered company did not raise a fresh round; it bought market access, distribution infrastructure, and regulatory footing in one of the region’s most complex insurance markets, all at a moment when […] The post Ecosystem Roundup: In Thailand’s reform wind…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b677227cb3cfd309764d"
+  },
+  {
     "title": "The next trillion-dollar AI opportunity: Real-world models and learning agents",
     "url": "https://e27.co/the-next-trillion-dollar-ai-opportunity-real-world-models-and-learning-agents-20260625/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -375,6 +441,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "88ee9369b44f82a20b91"
+  },
+  {
+    "title": "SimpleHelp: Lücke in Fernwartungssoftware in freier Wildbahn missbraucht",
+    "url": "https://www.heise.de/news/Fernwartung-SimpleHelp-Schwachstelle-wird-angegriffen-11348620.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:14:00.000+00:00",
+    "fetched_at": "2026-06-30T07:44:48+00:00",
+    "summary": "Eine kritische Sicherheitslücke mit Risiko-Höchstwertung in der Fernwartungssoftware SimpleHelp wird im Internet angegriffen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c1a2e012a26df5c735ef"
   },
   {
     "title": "Singapore-based PvX lands MIT investment to fund the next wave of app user acquisition",
@@ -477,6 +563,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "326fac94ae5ae1f2c283"
+  },
+  {
+    "title": "地方公共団体の基幹業務システムの統一・標準化における特定移行支援システムの把握状況についての資料を更新しました",
+    "url": "https://www.digital.go.jp/policies/local_governments",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "fetched_at": "2026-06-30T07:44:48+00:00",
+    "summary": "地方公共団体の基幹業務システムの統一・標準化における特定移行支援システムの把握状況についての資料を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a0b13ae1ea7f5c049f78"
   },
   {
     "title": "国等の情報システムの統括・監理における技術検討会議（第27回から第31回）を掲載しました",
@@ -601,6 +707,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "fdd08177ceb8cacb4993"
+  },
+  {
+    "title": "Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2120973.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T23:28:42+00:00",
+    "fetched_at": "2026-06-30T07:44:48+00:00",
+    "summary": "Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8b3afd22e999548b094c"
   },
   {
     "title": "ソニーの「アイボ」、“次の製品”を開発中 「今ここにその子がいるんですけど」",
