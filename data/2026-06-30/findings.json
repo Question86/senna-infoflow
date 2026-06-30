@@ -293,6 +293,52 @@
     "id": "b56ad2731a0b63e26212"
   },
   {
+    "title": "【永久0円】人間LLMのすすめ - Qiita",
+    "url": "https://qiita.com/Syuparn/items/0001f93221d4d7556271",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T03:56:39+00:00",
+    "fetched_at": "2026-06-30T13:45:53+00:00",
+    "summary": "起動するとUI画面とOpenAI API互換サーバーが立ち上がります。 LLMモデルになって、届いたプロンプトに返答しましょう。 Codexを使ってみる さっそくエージェントで使ってみましょう。ここではOpenAI APIが導入しやすいCodexを使っていきます。 まずはモデルの設定を準備します。 model = \"human\" model_provider = \"hum...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "ee55b38ccbdc8b67a65e"
+  },
+  {
     "title": "「FortiBleed」大規模憑證竊取行動：企業防火牆與VPN設備面臨風險",
     "url": "https://www.twcert.org.tw/tw/cp-104-11013-7c866-1.html",
     "source": "TWCERT/CC Security News RSS",
