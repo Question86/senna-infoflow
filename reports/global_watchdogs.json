@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T10:09:07+00:00",
+  "generated_at": "2026-06-30T11:19:18+00:00",
   "sections": {
     "global_security": [
       {
@@ -89,26 +89,6 @@
         "summary": "Green earthquake (Magnitude 5.8M, Depth:34km) in Japan 27/06/2026 20:21 UTC, 590 thousand in MMI IV.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548889",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:208.328km) in Afghanistan 27/06/2026 13:34 UTC, 140 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 6.1M, Depth:208.328km) in Afghanistan 27/06/2026 13:34 UTC, 140 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548849",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:525.542km) in Indonesia 27/06/2026 10:37 UTC, 350 thousand in MMI II.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1548825",
         "published_at": "",
         "metrics": {}
       }
