@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T08:31:56+00:00",
-  "run_id": "2026-07-01T08:31:56+00:00",
+  "generated_at": "2026-07-01T09:57:08+00:00",
+  "run_id": "2026-07-01T09:57:08+00:00",
   "date": "2026-07-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 2,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 7,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-01T02:27:40+00:00",
-        "fetched_at": "2026-07-01T03:51:06+00:00",
+        "published_at": "2026-07-01T09:56:54+00:00",
+        "fetched_at": "2026-07-01T09:56:39+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "9b84f89bf0f767ed9bdd"
+        "id": "c2ccb0e3a6d088ab8ba1"
       },
       {
         "title": "diegosouzapw/OmniRoute",
@@ -673,6 +673,26 @@
         "id": "9632cde5a96881ca02bb"
       },
       {
+        "title": "Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
+        "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11350144.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-01T09:04:00.000+00:00",
+        "fetched_at": "2026-07-01T09:56:39+00:00",
+        "summary": "Die Citrix-Entwickler haben im Load-Balancer NetScaler ADC und in der Fernzugriffslösung NetScaler Gateway insgesamt sechs Sicherheitslücken geschlossen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b3212c3118ba46831c7c"
+      },
+      {
         "title": "Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken",
         "url": "https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html",
         "source": "heise Security Alerts",
@@ -926,8 +946,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-01T02:27:40+00:00",
-      "fetched_at": "2026-07-01T03:51:06+00:00",
+      "published_at": "2026-07-01T09:56:54+00:00",
+      "fetched_at": "2026-07-01T09:56:39+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -961,7 +981,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9b84f89bf0f767ed9bdd"
+      "id": "c2ccb0e3a6d088ab8ba1"
     },
     {
       "title": "diegosouzapw/OmniRoute",
@@ -1563,6 +1583,26 @@
       "id": "9632cde5a96881ca02bb"
     },
     {
+      "title": "Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11350144.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-01T09:04:00.000+00:00",
+      "fetched_at": "2026-07-01T09:56:39+00:00",
+      "summary": "Die Citrix-Entwickler haben im Load-Balancer NetScaler ADC und in der Fernzugriffslösung NetScaler Gateway insgesamt sechs Sicherheitslücken geschlossen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3212c3118ba46831c7c"
+    },
+    {
       "title": "Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken",
       "url": "https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html",
       "source": "heise Security Alerts",
@@ -1811,58 +1851,55 @@
   ],
   "new_findings": [
     {
-      "title": "Singapore’s Acti raises US$5.3M to turn the keyboard into an AI agent layer",
-      "url": "https://e27.co/singapores-acti-raises-us5-3m-to-turn-the-keyboard-into-an-ai-agent-layer-20260701/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-01T08:09:25+00:00",
-      "fetched_at": "2026-07-01T08:31:28+00:00",
-      "summary": "Singapore-based Acti has secured US$5.3 million in seed funding to build what it calls an “agentic keyboard”, a product that aims to move AI assistance away from standalone chat apps and into the interface people use across almost every digital interaction. The round was led by US-based BITKRAFT Ventures, an investor better known for backing […] The post Singapore’s Acti raises US$5.3M to turn the keyboard into an A…",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-01T09:56:54+00:00",
+      "fetched_at": "2026-07-01T09:56:39+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
         "APAC Trend Radar",
-        "funding"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c1e50df04a157fc49e29"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c2ccb0e3a6d088ab8ba1"
     },
     {
-      "title": "Announcing 20260058 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260058.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-07-01T08:15:23+00:00",
-      "fetched_at": "2026-07-01T08:31:28+00:00",
-      "summary": "Announcing 20260058 (OT,liquidity providing), for 7 days deadline 09:45",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c073b369ff71c76e175"
-    },
-    {
-      "title": "Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken",
-      "url": "https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html",
+      "title": "Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11350144.html",
       "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-01T07:46:00.000+00:00",
-      "fetched_at": "2026-07-01T08:31:28+00:00",
-      "summary": "Die Flut an identifizierten Sicherheitslücken reißt nicht ab, im Chrome werden jetzt erneut fast 400 geschlossen. Ob die Zahl wieder sinken wird, ist unklar.",
+      "published_at": "2026-07-01T09:04:00.000+00:00",
+      "fetched_at": "2026-07-01T09:56:39+00:00",
+      "summary": "Die Citrix-Entwickler haben im Load-Balancer NetScaler ADC und in der Fernzugriffslösung NetScaler Gateway insgesamt sechs Sicherheitslücken geschlossen.",
       "matched_keywords": [
         "Security"
       ],
@@ -1873,28 +1910,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "67c9ddb78e0922fd8487"
-    },
-    {
-      "title": "FeliCa の脆弱性公表について",
-      "url": "https://blog.nyaa.ws/2026/07/felica-%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E5%85%AC%E8%A1%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-01T05:55:21+00:00",
-      "fetched_at": "2026-07-01T08:31:28+00:00",
-      "summary": "目的 本声明の目的は、筆者を筆頭とするチーム (以下、当該脆弱性発見者という。) がソニー株式会社 (以下、当該製品開発者という。) 製 FeliCa RC-S915 (以下、当該製品という。また、FeliCa Standard 製品群を以下、当該製品群という。) に存在する、任意のノードの鍵を特定できる脆弱性 (以下、当該脆弱性という。) ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "82a305181147117883b5"
+      "id": "b3212c3118ba46831c7c"
     }
   ],
   "source_errors": [],

@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-01T02:27:40+00:00",
-    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "published_at": "2026-07-01T09:56:54+00:00",
+    "fetched_at": "2026-07-01T09:56:39+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "9b84f89bf0f767ed9bdd"
+    "id": "c2ccb0e3a6d088ab8ba1"
   },
   {
     "title": "diegosouzapw/OmniRoute",
@@ -639,6 +639,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9632cde5a96881ca02bb"
+  },
+  {
+    "title": "Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
+    "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11350144.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-01T09:04:00.000+00:00",
+    "fetched_at": "2026-07-01T09:56:39+00:00",
+    "summary": "Die Citrix-Entwickler haben im Load-Balancer NetScaler ADC und in der Fernzugriffslösung NetScaler Gateway insgesamt sechs Sicherheitslücken geschlossen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b3212c3118ba46831c7c"
   },
   {
     "title": "Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken",

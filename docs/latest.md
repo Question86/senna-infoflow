@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T08:31:56+00:00_
+_Generiert: 2026-07-01T09:57:08+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+37 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-01T02:27:40+00:00`, fetched `2026-07-01T03:51:06+00:00`
+  - Zeit: published `2026-07-01T09:56:54+00:00`, fetched `2026-07-01T09:56:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -204,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
   - Kurz: Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html)
+- **Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11350144.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-01T07:46:00.000+00:00`, fetched `2026-07-01T08:31:28+00:00`
+  - Zeit: published `2026-07-01T09:04:00.000+00:00`, fetched `2026-07-01T09:56:39+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die Flut an identifizierten Sicherheitslücken reißt nicht ab, im Chrome werden jetzt erneut fast 400 geschlossen. Ob die Zahl wieder sinken wird, ist unklar.
+  - Kurz: Die Citrix-Entwickler haben im Load-Balancer NetScaler ADC und in der Fernzugriffslösung NetScaler Gateway insgesamt sechs Sicherheitslücken geschlossen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
