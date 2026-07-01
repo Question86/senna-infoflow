@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T11:14:41+00:00_
+_Generiert: 2026-07-01T12:19:09+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-07-01T11:14:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Italy
-- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103981)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:536.709km) in Fiji 01/07/2026 10:42 UTC, 10 thousand in MMI II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549555)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Mexico
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:536.709km) in Fiji 01/07/2026 10:42 UTC, 10 thousand in MMI II.
 - **GDACS: Green notification for tropical cyclone FOUR-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001280)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +53,6 @@ _Generiert: 2026-07-01T11:14:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.
-- **USGS earthquake M5.6 - 224 km S of Suva, Fiji** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1)
-  - Quelle: USGS
-  - Zeit: `2026-07-01T10:42:43+00:00`
-  - Kurz: M5.6 - 224 km S of Suva, Fiji. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

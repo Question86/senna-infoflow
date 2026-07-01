@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T11:14:41+00:00",
-  "run_id": "2026-07-01T11:14:41+00:00",
+  "generated_at": "2026-07-01T12:19:09+00:00",
+  "run_id": "2026-07-01T12:19:09+00:00",
   "date": "2026-07-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 1,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 7,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -829,6 +829,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0687f8204f05df366eeb"
+      },
+      {
+        "title": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2121580.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-01T07:42:35+00:00",
+        "fetched_at": "2026-07-01T12:18:42+00:00",
+        "summary": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f22876d935fab2efcca1"
       },
       {
         "title": "「不気味の谷を越えた」？ 中国の美男美女型ロボット「U1」話題 286万円から",
@@ -1840,6 +1861,27 @@
       "id": "0687f8204f05df366eeb"
     },
     {
+      "title": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2121580.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-01T07:42:35+00:00",
+      "fetched_at": "2026-07-01T12:18:42+00:00",
+      "summary": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f22876d935fab2efcca1"
+    },
+    {
       "title": "「不気味の谷を越えた」？ 中国の美男美女型ロボット「U1」話題 286万円から",
       "url": "https://www.itmedia.co.jp/news/articles/2607/01/news115.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2049,91 +2091,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.6 - 224 km S of Suva, Fiji",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-01T11:08:52.273+00:00",
-      "fetched_at": "2026-07-01T11:14:14+00:00",
-      "summary": "ShakeMap - II Time 2026-07-01 10:42:43 UTC 2026-07-01 10:42:43 UTC at epicenter Location 20.147°S 178.688°E Depth 536.71 km (333.50 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8c6ecd72d2e5c688e926"
-    },
-    {
-      "title": "UK investors sue Binance and CZ for US$200M over risky crypto derivatives",
-      "url": "https://e27.co/uk-investors-sue-binance-and-cz-for-us200m-over-risky-crypto-derivatives-20260701/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-01T10:04:56+00:00",
-      "fetched_at": "2026-07-01T11:14:14+00:00",
-      "summary": "Almost 1,700 British investors are suing Binance and its founder Changpeng Zhao for at least US$200 million, alleging that the world’s largest crypto exchange sold them risky derivative products without proper regulatory authorisation. The lawsuit, filed in London’s High Court, targets Cayman Islands-registered Binance Holdings, UAE-registered Nest Exchange, Zhao (widely known as CZ) and “persons […] The post UK inv…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7f44fb94fe11b1616047"
-    },
-    {
-      "title": "China’s EV makers are taking over the European factories Ford and Nissan can’t fill",
-      "url": "https://restofworld.org/2026/chinese-ev-europe-factory-takeover-tariffs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-01T10:00:00+00:00",
-      "fetched_at": "2026-07-01T11:14:14+00:00",
-      "summary": "Car industry.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c773dbf32ff4ddef2d64"
-    },
-    {
-      "title": "「不気味の谷を越えた」？ 中国の美男美女型ロボット「U1」話題 286万円から",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news115.html",
+      "title": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2121580.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-01T07:01:28+00:00",
-      "fetched_at": "2026-07-01T11:14:14+00:00",
-      "summary": "中国のロボット開発企業優必選（UBTECH）が6月30日（現地時間）、等身大のヒト型ロボット「U1」シリーズを発表した。人間との感情面での交流や寄り添いを想定した家庭向け製品で、予約台数は累計1万1000台を超えたという。同日に複数の現地メディアが報じ、日本など中国以外でも「不気味の谷を越えた」「普通にかわいい...",
+      "published_at": "2026-07-01T07:42:35+00:00",
+      "fetched_at": "2026-07-01T12:18:42+00:00",
+      "summary": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2145,7 +2109,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "72c9e78d03b9935899c1"
+      "id": "f22876d935fab2efcca1"
     }
   ],
   "source_errors": [],
