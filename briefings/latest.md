@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T03:51:32+00:00_
+_Generiert: 2026-07-01T05:26:31+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN20721579/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-01T14:00:00+09:00`, fetched `2026-07-01T05:25:56+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: セイコーソリューションズ株式会社が提供するSkyBridge MB-A100/MB-A110には、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apache Tomcatにおける複数の脆弱性（2026年6月29日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93304382/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -172,24 +181,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The death of the traditional org chart: How AI is reshaping work** — Score 10, observation — [Quelle](https://e27.co/the-death-of-the-traditional-org-chart-how-ai-is-reshaping-work-20260626/)
+- **The VCs writing off Indonesia are making a US$300B mistake** — Score 10, observation — [Quelle](https://e27.co/the-vcs-writing-off-indonesia-are-making-a-us300b-mistake-20260701/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T02:45:09+00:00`, fetched `2026-07-01T03:51:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-07-01T04:51:38+00:00`, fetched `2026-07-01T05:25:56+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: When a Jakarta anti-corruption court handed down a 10-year prison sentence to Nadiem Makarim on June 30, the noise from the venture capital community was immediate. A foreign VC with a presence in the archipelago reportedly told its partners to hold back on Indonesia and divert the focus only to other countries in the region. […] The post The VCs writing off Indonesia are making a US$300B mistake appeared first on e…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How centralised exchanges swapped crypto ethos for Wall Street fees: Why this will fail** — Score 10, risk — [Quelle](https://e27.co/how-centralised-exchanges-swapped-crypto-ethos-for-wall-street-fees-why-this-will-fail-20260701/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T03:55:45+00:00`, fetched `2026-07-01T05:25:56+00:00`
+  - Treffer: APAC Trend Radar, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
-  - Kurz: A few years ago, building a team felt relatively straightforward. As work increases, you hire more people. More clients meant more account managers. More campaigns meant more content creators. More operations meant more coordinators. Growth and headcount were closely linked. Today, that relationship is starting to break. The moment that became obvious to me wasn’t […] The post The death of the traditional org chart:…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The AI layoff trap points straight at Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/the-ai-layoff-trap-points-straight-at-southeast-asia-20260626/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T02:30:36+00:00`, fetched `2026-07-01T03:51:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: A paper called The AI Layoff Trap, by Brett Hemenway Falk of the University of Pennsylvania and Gerry Tsoukalas of Boston University, makes a deceptively simple argument: workers are also customers. When a firm replaces staff with AI and the lost wages aren’t recovered elsewhere, it chips away at the spending every firm in its […] The post The AI layoff trap points straight at Southeast Asia appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin has dropped 2.88 per cent within a 24-hour window, falling to a price of US$58,523.37. This downward trajectory occurs against the backdrop of the traditional equities market, signalling that the current vulnerability belongs uniquely to the crypto ecosystem. For an industry that spent the better part of the last two years celebrating the arrival […] The post How centralised exchanges swapped crypto ethos fo…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた** — Score 8, observation — [Quelle](https://zenn.dev/thorie/articles/548se-ai-driven-development)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-30T15:35:28+00:00`, fetched `2026-07-01T01:27:41+00:00`
@@ -226,3 +235,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fe0117f0cd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

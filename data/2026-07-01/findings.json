@@ -113,6 +113,28 @@
     "id": "114a5b1be33bba41b081"
   },
   {
+    "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN20721579/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-01T14:00:00+09:00",
+    "fetched_at": "2026-07-01T05:25:56+00:00",
+    "summary": "セイコーソリューションズ株式会社が提供するSkyBridge MB-A100/MB-A110には、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dcdf91ca4205c50166dc"
+  },
+  {
     "title": "Apache Tomcatにおける複数の脆弱性（2026年6月29日）",
     "url": "https://jvn.jp/vu/JVNVU93304382/",
     "source": "JVN Japan Vulnerability Notes",
@@ -340,6 +362,69 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "be1094a3f7869c9d225e"
+  },
+  {
+    "title": "The VCs writing off Indonesia are making a US$300B mistake",
+    "url": "https://e27.co/the-vcs-writing-off-indonesia-are-making-a-us300b-mistake-20260701/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-01T04:51:38+00:00",
+    "fetched_at": "2026-07-01T05:25:56+00:00",
+    "summary": "When a Jakarta anti-corruption court handed down a 10-year prison sentence to Nadiem Makarim on June 30, the noise from the venture capital community was immediate. A foreign VC with a presence in the archipelago reportedly told its partners to hold back on Indonesia and divert the focus only to other countries in the region. […] The post The VCs writing off Indonesia are making a US$300B mistake appeared first on e…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "b0a083f2a77930f028ee"
+  },
+  {
+    "title": "How centralised exchanges swapped crypto ethos for Wall Street fees: Why this will fail",
+    "url": "https://e27.co/how-centralised-exchanges-swapped-crypto-ethos-for-wall-street-fees-why-this-will-fail-20260701/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-01T03:55:45+00:00",
+    "fetched_at": "2026-07-01T05:25:56+00:00",
+    "summary": "Bitcoin has dropped 2.88 per cent within a 24-hour window, falling to a price of US$58,523.37. This downward trajectory occurs against the backdrop of the traditional equities market, signalling that the current vulnerability belongs uniquely to the crypto ecosystem. For an industry that spent the better part of the last two years celebrating the arrival […] The post How centralised exchanges swapped crypto ethos fo…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f135afa51b56532e9ec6"
   },
   {
     "title": "The death of the traditional org chart: How AI is reshaping work",
