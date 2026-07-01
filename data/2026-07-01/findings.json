@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-01T02:27:40+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9b84f89bf0f767ed9bdd"
+  },
+  {
     "title": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -93,6 +135,29 @@
     "id": "abf62116a29870cd371a"
   },
   {
+    "title": "Thailand’s Amity Robotics raises US$7M to take physical AI from malls to global markets",
+    "url": "https://e27.co/thailands-amity-robotics-raises-us7m-to-take-physical-ai-from-malls-to-global-markets-20260701/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-01T03:17:06+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "Thai physical AI startup Amity Robotics has raised US$7 million in seed funding, joining a small but growing group of Southeast Asian companies trying to turn robotics from a hardware novelty into a commercially useful layer for hospitality, retail, and real estate. The round combines equity and debt financing. The equity portion was led by […] The post Thailand’s Amity Robotics raises US$7M to take physical AI from…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "funding",
+      "Southeast Asia"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a5ce68ab2c492e07a2fb"
+  },
+  {
     "title": "The dots you cannot plan: On human value in an AI-powered world",
     "url": "https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -158,6 +223,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d8d2e47c156ee9b04f95"
+  },
+  {
+    "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news027.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T23:31:41+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f7d7836376e6bf27b405"
   },
   {
     "title": "M 5.0 - 16 km WNW of Tournavista, Peru",
@@ -253,6 +340,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "be1094a3f7869c9d225e"
+  },
+  {
+    "title": "The death of the traditional org chart: How AI is reshaping work",
+    "url": "https://e27.co/the-death-of-the-traditional-org-chart-how-ai-is-reshaping-work-20260626/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-01T02:45:09+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "A few years ago, building a team felt relatively straightforward. As work increases, you hire more people. More clients meant more account managers. More campaigns meant more content creators. More operations meant more coordinators. Growth and headcount were closely linked. Today, that relationship is starting to break. The moment that became obvious to me wasn’t […] The post The death of the traditional org chart:…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cd381c06c5222edbe692"
+  },
+  {
+    "title": "The AI layoff trap points straight at Southeast Asia",
+    "url": "https://e27.co/the-ai-layoff-trap-points-straight-at-southeast-asia-20260626/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-01T02:30:36+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "A paper called The AI Layoff Trap, by Brett Hemenway Falk of the University of Pennsylvania and Gerry Tsoukalas of Boston University, makes a deceptively simple argument: workers are also customers. When a firm replaces staff with AI and the lost wages aren’t recovered elsewhere, it chips away at the spending every firm in its […] The post The AI layoff trap points straight at Southeast Asia appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f76f4d8aa8a45f805f91"
   },
   {
     "title": "Why hiring AI experts is the most common startup mistake in 2026",
@@ -365,6 +495,27 @@
     "id": "ac86c64fef9889586a21"
   },
   {
+    "title": "数時間潜水できる\"サイボーグゴキブリ\"実現 人命救助で活躍期待 早大などが専用の潜水スーツ共同開発",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news028.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T23:20:04+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "シンガポールの南洋理工大学と早稲田大学の共同研究チームがNature Communicationsで発表した論文「Underwater Suit-Wearing Cyborg Insect Capable of Hours-Long Diving and Terra-Aqua Travel」は、陸生昆虫である「マダガスカルゴキブリ」に装着できる小型のダイビングスーツを開発し、数時間にわたる潜水と水陸両用...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fe58025d73dd00db3309"
+  },
+  {
     "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
     "url": "https://www.publickey1.jp/blog/26/googleipv650.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -405,6 +556,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e2f646662613c3448c7f"
+  },
+  {
+    "title": "Everyone told me to write for humans, but nobody told me humans can’t find my page",
+    "url": "https://e27.co/everyone-told-me-to-write-for-humans-but-nobody-told-me-humans-cant-find-my-page-20260626/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-01T02:30:48+00:00",
+    "fetched_at": "2026-07-01T03:51:06+00:00",
+    "summary": "There’s a piece of advice that circulates endlessly in marketing circles: “Just write for humans, not for Google.” It sounds wise. It feels right. And for a long time, I believed it. Then I looked at our analytics. I was working at a software outsourcing company, writing blog posts about custom software development, IT staffing, and […] The post Everyone told me to write for humans, but nobody told me humans can’t f…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a070ee47569d397f7141"
   },
   {
     "title": "You can’t add your way to a new life, you have to kill the old one first",

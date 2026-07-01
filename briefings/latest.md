@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T02:27:53+00:00_
+_Generiert: 2026-07-01T03:51:32+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „diegosouzapw/OmniRoute“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,6 @@ _Generiert: 2026-07-01T02:27:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .
-- **GDACS: Orange earthquake (Magnitude 5.3M, Depth:10km) in China 30/06/2026 23:44 UTC, 20 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549470)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 5.3M, Depth:10km) in China 30/06/2026 23:44 UTC, 20 thousand in 100km.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 9 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549440)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,6 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-01T02:27:40+00:00`, fetched `2026-07-01T03:51:06+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **diegosouzapw/OmniRoute** — Score 22, observation — [Quelle](https://github.com/diegosouzapw/OmniRoute)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-01T02:27:24+00:00`
@@ -92,6 +97,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-55957, CVE-2026-55956, CVE-2026-55955, CVE-2026-55276, CVE-2026-53434, CVE-2026-53404, CVE-2026-50229）に対してアドバイザリが公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Thailand’s Amity Robotics raises US$7M to take physical AI from malls to global markets** — Score 14, observation — [Quelle](https://e27.co/thailands-amity-robotics-raises-us7m-to-take-physical-ai-from-malls-to-global-markets-20260701/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T03:17:06+00:00`, fetched `2026-07-01T03:51:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
+  - Kurz: Thai physical AI startup Amity Robotics has raised US$7 million in seed funding, joining a small but growing group of Southeast Asian companies trying to turn robotics from a hardware novelty into a commercially useful layer for hospitality, retail, and real estate. The round combines equity and debt financing. The equity portion was led by […] The post Thailand’s Amity Robotics raises US$7M to take physical AI from…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -122,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/01/news027.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-30T23:31:41+00:00`, fetched `2026-07-01T03:51:06+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 16 km WNW of Tournavista, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-01T02:16:08.040+00:00`, fetched `2026-07-01T02:27:24+00:00`
@@ -149,14 +172,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why hiring AI experts is the most common startup mistake in 2026** — Score 10, observation — [Quelle](https://e27.co/why-hiring-ai-experts-is-the-most-common-startup-mistake-in-2026-20260616/)
+- **The death of the traditional org chart: How AI is reshaping work** — Score 10, observation — [Quelle](https://e27.co/the-death-of-the-traditional-org-chart-how-ai-is-reshaping-work-20260626/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T01:45:30+00:00`, fetched `2026-07-01T02:27:24+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Zeit: published `2026-07-01T02:45:09+00:00`, fetched `2026-07-01T03:51:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
-  - Kurz: There is a hiring pattern I have been watching across early-stage startups for the last 18 months that worries me. Founders are paying premiums for candidates whose primary signal is AI proficiency. Resumes that say “prompt engineer,” “AI workflow specialist,” “generative AI consultant,” “AI implementation lead.” These candidates command 30 to 40 per cent salary […] The post Why hiring AI experts is the most common…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
+  - Kurz: A few years ago, building a team felt relatively straightforward. As work increases, you hire more people. More clients meant more account managers. More campaigns meant more content creators. More operations meant more coordinators. Growth and headcount were closely linked. Today, that relationship is starting to break. The moment that became obvious to me wasn’t […] The post The death of the traditional org chart:…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The AI layoff trap points straight at Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/the-ai-layoff-trap-points-straight-at-southeast-asia-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T02:30:36+00:00`, fetched `2026-07-01T03:51:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: A paper called The AI Layoff Trap, by Brett Hemenway Falk of the University of Pennsylvania and Gerry Tsoukalas of Boston University, makes a deceptively simple argument: workers are also customers. When a firm replaces staff with AI and the lost wages aren’t recovered elsewhere, it chips away at the spending every firm in its […] The post The AI layoff trap points straight at Southeast Asia appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた** — Score 8, observation — [Quelle](https://zenn.dev/thorie/articles/548se-ai-driven-development)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -185,29 +217,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「とほほのWWW入門」管理人 杜甫々（とほほ） ソフトウェアエンジニア。1965年生まれ。1988年、広島のソフトウェア会社に入社し、2025年10月に定年退職。1996年にWeb技術解説サイト「とほほのWWW入門」を開設。執筆・公開した記事は1000件以上。趣味は食べ歩きやセンベロ・スーパー銭湯めぐりなど。座右の銘は「一行入魂...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に** — Score 5, observation — [Quelle](https://togetter.com/li/2715555)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-30T23:31:53+00:00`, fetched `2026-07-01T02:27:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **You can’t add your way to a new life, you have to kill the old one first** — Score 4, observation — [Quelle](https://e27.co/kill-the-old-you-20260625/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T02:00:44+00:00`, fetched `2026-07-01T02:27:24+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The world spends US$50 billion a year trying to improve itself, and over 90 per cent of it fails. The reason is brutal and simple: you can’t add your way to a new life. You have to kill the old one first. We’ve never spent more money trying to become better people. And we’ve never […] The post You can’t add your way to a new life, you have to kill the old one first appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
