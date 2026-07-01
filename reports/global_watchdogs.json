@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T01:28:11+00:00",
+  "generated_at": "2026-07-01T02:27:56+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,26 @@
         "summary": "Green flood alert in Türkiye",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
+        "summary": "Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Orange earthquake (Magnitude 5.3M, Depth:10km) in China 30/06/2026 23:44 UTC, 20 thousand in 100km.",
+        "summary": "Orange earthquake (Magnitude 5.3M, Depth:10km) in China 30/06/2026 23:44 UTC, 20 thousand in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549470",
         "published_at": "",
         "metrics": {}
       },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T01:28:07+00:00",
-  "run_id": "2026-07-01T01:28:07+00:00",
+  "generated_at": "2026-07-01T02:27:53+00:00",
+  "run_id": "2026-07-01T02:27:53+00:00",
   "date": "2026-07-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,134 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 12,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 0,
-    "observe": 6,
+    "medium": 3,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "diegosouzapw/OmniRoute",
+        "url": "https://github.com/diegosouzapw/OmniRoute",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. 🚀 OmniRoute — The Free AI Gateway Never stop coding. Connect every AI tool to 236 providers — 50+ free — through one endpoint. Plug Claude Code, Codex…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP, Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "2c3311fbb27c0cd43f60"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月30日）",
+        "url": "https://jvn.jp/vu/JVNVU99876312/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-01T11:00:00+09:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "114a5b1be33bba41b081"
+      },
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性（2026年6月29日）",
+        "url": "https://jvn.jp/vu/JVNVU93304382/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-01T11:00:15+09:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-55957, CVE-2026-55956, CVE-2026-55955, CVE-2026-55276, CVE-2026-53434, CVE-2026-53404, CVE-2026-50229）に対してアドバイザリが公開されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "abf62116a29870cd371a"
+      }
+    ],
     "observe": [
+      {
+        "title": "The dots you cannot plan: On human value in an AI-powered world",
+        "url": "https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-01T02:15:33+00:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "I did not plan my career. I stumbled through it. I was a creative kid who drew constantly, loved science, and liked taking things apart. I was also genuinely bad at math. So what did I do? I became an accountant. I got my CPA licence, then took a job as a web designer. I […] The post The dots you cannot plan: On human value in an AI-powered world appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1b39203a905d92772d2"
+      },
       {
         "title": "Siemens製品に対するアップデート（2026年6月）",
         "url": "https://jvn.jp/vu/JVNVU93818675/",
@@ -51,6 +167,65 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e1e7eceb83825f2a3547"
+      },
+      {
+        "title": "usestrix/strix",
+        "url": "https://github.com/usestrix/strix",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Actions",
+          "GitHub Trending"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d8d2e47c156ee9b04f95"
+      },
+      {
+        "title": "M 5.0 - 16 km WNW of Tournavista, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-01T02:16:08.040+00:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "Time 2026-07-01 02:00:38 UTC 2026-07-01 02:00:38 UTC at epicenter Location 8.856°S 74.831°W Depth 130.53 km (81.10 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f4cdbe0b964503da4538"
       },
       {
         "title": "M 5.2 - 268 km SSE of Dunhuang, China",
@@ -89,6 +264,51 @@
         "id": "aa48a728561a8af27b5a"
       },
       {
+        "title": "hasaneyldrm/exercises-dataset",
+        "url": "https://github.com/hasaneyldrm/exercises-dataset",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be1094a3f7869c9d225e"
+      },
+      {
+        "title": "Why hiring AI experts is the most common startup mistake in 2026",
+        "url": "https://e27.co/why-hiring-ai-experts-is-the-most-common-startup-mistake-in-2026-20260616/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-01T01:45:30+00:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "There is a hiring pattern I have been watching across early-stage startups for the last 18 months that worries me. Founders are paying premiums for candidates whose primary signal is AI proficiency. Resumes that say “prompt engineer,” “AI workflow specialist,” “generative AI consultant,” “AI implementation lead.” These candidates command 30 to 40 per cent salary […] The post Why hiring AI experts is the most common…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a9d4447c8af0b3671e4b"
+      },
+      {
         "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
         "url": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
         "source": "Hatena Bookmark Hotentry IT",
@@ -109,6 +329,72 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "47891968eed6cca5bf77"
+      },
+      {
+        "title": "browser-use/video-use",
+        "url": "https://github.com/browser-use/video-use",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "Content-Chance",
+          "GitHub Trending",
+          "Open Source"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9632cde5a96881ca02bb"
+      },
+      {
+        "title": "とほほの「生涯エンジニア」入門 - レバテックLAB",
+        "url": "https://levtech.jp/media/detail_884/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-01T00:17:30+00:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "「とほほのWWW入門」管理人 杜甫々（とほほ） ソフトウェアエンジニア。1965年生まれ。1988年、広島のソフトウェア会社に入社し、2025年10月に定年退職。1996年にWeb技術解説サイト「とほほのWWW入門」を開設。執筆・公開した記事は1000件以上。趣味は食べ歩きやセンベロ・スーパー銭湯めぐりなど。座右の銘は「一行入魂...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "373dc2f9c929b53f0b7f"
+      },
+      {
+        "title": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
+        "url": "https://togetter.com/li/2715555",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-30T23:31:53+00:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ac86c64fef9889586a21"
       },
       {
         "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
@@ -153,6 +439,26 @@
         "id": "e2f646662613c3448c7f"
       },
       {
+        "title": "You can’t add your way to a new life, you have to kill the old one first",
+        "url": "https://e27.co/kill-the-old-you-20260625/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-01T02:00:44+00:00",
+        "fetched_at": "2026-07-01T02:27:24+00:00",
+        "summary": "The world spends US$50 billion a year trying to improve itself, and over 90 per cent of it fails. The reason is brutal and simple: you can’t add your way to a new life. You have to kill the old one first. We’ve never spent more money trying to become better people. And we’ve never […] The post You can’t add your way to a new life, you have to kill the old one first appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a7e22e95adf3d99ed144"
+      },
+      {
         "title": "What facilitation taught me about learning, leadership, and building things that last",
         "url": "https://e27.co/what-facilitation-taught-me-about-learning-leadership-and-building-things-that-last-20260531/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -176,6 +482,121 @@
   },
   "findings": [
     {
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. 🚀 OmniRoute — The Free AI Gateway Never stop coding. Connect every AI tool to 236 providers — 50+ free — through one endpoint. Plug Claude Code, Codex…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP, Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2c3311fbb27c0cd43f60"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月30日）",
+      "url": "https://jvn.jp/vu/JVNVU99876312/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-01T11:00:00+09:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "114a5b1be33bba41b081"
+    },
+    {
+      "title": "Apache Tomcatにおける複数の脆弱性（2026年6月29日）",
+      "url": "https://jvn.jp/vu/JVNVU93304382/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-01T11:00:15+09:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-55957, CVE-2026-55956, CVE-2026-55955, CVE-2026-55276, CVE-2026-53434, CVE-2026-53404, CVE-2026-50229）に対してアドバイザリが公開されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "abf62116a29870cd371a"
+    },
+    {
+      "title": "The dots you cannot plan: On human value in an AI-powered world",
+      "url": "https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-01T02:15:33+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "I did not plan my career. I stumbled through it. I was a creative kid who drew constantly, loved science, and liked taking things apart. I was also genuinely bad at math. So what did I do? I became an accountant. I got my CPA licence, then took a job as a web designer. I […] The post The dots you cannot plan: On human value in an AI-powered world appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1b39203a905d92772d2"
+    },
+    {
       "title": "Siemens製品に対するアップデート（2026年6月）",
       "url": "https://jvn.jp/vu/JVNVU93818675/",
       "source": "JVN Japan Vulnerability Notes",
@@ -196,6 +617,65 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e1e7eceb83825f2a3547"
+    },
+    {
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Actions",
+        "GitHub Trending"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8d2e47c156ee9b04f95"
+    },
+    {
+      "title": "M 5.0 - 16 km WNW of Tournavista, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-01T02:16:08.040+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Time 2026-07-01 02:00:38 UTC 2026-07-01 02:00:38 UTC at epicenter Location 8.856°S 74.831°W Depth 130.53 km (81.10 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f4cdbe0b964503da4538"
     },
     {
       "title": "M 5.2 - 268 km SSE of Dunhuang, China",
@@ -234,6 +714,51 @@
       "id": "aa48a728561a8af27b5a"
     },
     {
+      "title": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be1094a3f7869c9d225e"
+    },
+    {
+      "title": "Why hiring AI experts is the most common startup mistake in 2026",
+      "url": "https://e27.co/why-hiring-ai-experts-is-the-most-common-startup-mistake-in-2026-20260616/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-01T01:45:30+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "There is a hiring pattern I have been watching across early-stage startups for the last 18 months that worries me. Founders are paying premiums for candidates whose primary signal is AI proficiency. Resumes that say “prompt engineer,” “AI workflow specialist,” “generative AI consultant,” “AI implementation lead.” These candidates command 30 to 40 per cent salary […] The post Why hiring AI experts is the most common…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9d4447c8af0b3671e4b"
+    },
+    {
       "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
       "url": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
       "source": "Hatena Bookmark Hotentry IT",
@@ -254,6 +779,72 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "47891968eed6cca5bf77"
+    },
+    {
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9632cde5a96881ca02bb"
+    },
+    {
+      "title": "とほほの「生涯エンジニア」入門 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_884/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-01T00:17:30+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "「とほほのWWW入門」管理人 杜甫々（とほほ） ソフトウェアエンジニア。1965年生まれ。1988年、広島のソフトウェア会社に入社し、2025年10月に定年退職。1996年にWeb技術解説サイト「とほほのWWW入門」を開設。執筆・公開した記事は1000件以上。趣味は食べ歩きやセンベロ・スーパー銭湯めぐりなど。座右の銘は「一行入魂...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "373dc2f9c929b53f0b7f"
+    },
+    {
+      "title": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
+      "url": "https://togetter.com/li/2715555",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-30T23:31:53+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ac86c64fef9889586a21"
     },
     {
       "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
@@ -298,6 +889,26 @@
       "id": "e2f646662613c3448c7f"
     },
     {
+      "title": "You can’t add your way to a new life, you have to kill the old one first",
+      "url": "https://e27.co/kill-the-old-you-20260625/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-01T02:00:44+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "The world spends US$50 billion a year trying to improve itself, and over 90 per cent of it fails. The reason is brutal and simple: you can’t add your way to a new life. You have to kill the old one first. We’ve never spent more money trying to become better people. And we’ve never […] The post You can’t add your way to a new life, you have to kill the old one first appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a7e22e95adf3d99ed144"
+    },
+    {
       "title": "What facilitation taught me about learning, leadership, and building things that last",
       "url": "https://e27.co/what-facilitation-taught-me-about-learning-leadership-and-building-things-that-last-20260531/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -320,57 +931,298 @@
   ],
   "new_findings": [
     {
-      "title": "Siemens製品に対するアップデート（2026年6月）",
-      "url": "https://jvn.jp/vu/JVNVU93818675/",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. 🚀 OmniRoute — The Free AI Gateway Never stop coding. Connect every AI tool to 236 providers — 50+ free — through one endpoint. Plug Claude Code, Codex…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP, Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "2c3311fbb27c0cd43f60"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年06月30日）",
+      "url": "https://jvn.jp/vu/JVNVU99876312/",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-06-03T09:40:15+09:00",
-      "fetched_at": "2026-07-01T01:27:41+00:00",
-      "summary": "Siemensから各製品向けのアドバイザリが公表されました。",
+      "published_at": "2026-07-01T11:00:00+09:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "matched_keywords": [
+        "advisory",
         "APAC Trend Radar",
         "JVN",
         "Security"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e1e7eceb83825f2a3547"
+      "id": "114a5b1be33bba41b081"
     },
     {
-      "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
-      "url": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Apache Tomcatにおける複数の脆弱性（2026年6月29日）",
+      "url": "https://jvn.jp/vu/JVNVU93304382/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-06-30T15:35:28+00:00",
-      "fetched_at": "2026-07-01T01:27:41+00:00",
-      "summary": "普段の業務でもAIを使って開発するようになり、ここ3ヶ月ほどは自分ではコードを書かずにアプリケーションを作れるようになってきています。しかし、ブラウンフィールド開発という事もあり細かく指示をしないとAIが思った通りに動かないことも多く、そんなに開発速度が上がっている実感はありませんでした。では、スクラ...",
+      "published_at": "2026-07-01T11:00:15+09:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-55957, CVE-2026-55956, CVE-2026-55955, CVE-2026-55276, CVE-2026-53434, CVE-2026-53404, CVE-2026-50229）に対してアドバイザリが公開されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "abf62116a29870cd371a"
+    },
+    {
+      "title": "The dots you cannot plan: On human value in an AI-powered world",
+      "url": "https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-01T02:15:33+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "I did not plan my career. I stumbled through it. I was a creative kid who drew constantly, loved science, and liked taking things apart. I was also genuinely bad at math. So what did I do? I became an accountant. I got my CPA licence, then took a job as a web designer. I […] The post The dots you cannot plan: On human value in an AI-powered world appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Public Health"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "47891968eed6cca5bf77"
+      "id": "b1b39203a905d92772d2"
     },
     {
-      "title": "What facilitation taught me about learning, leadership, and building things that last",
-      "url": "https://e27.co/what-facilitation-taught-me-about-learning-leadership-and-building-things-that-last-20260531/",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Actions",
+        "GitHub Trending"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8d2e47c156ee9b04f95"
+    },
+    {
+      "title": "M 5.0 - 16 km WNW of Tournavista, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-01T02:16:08.040+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Time 2026-07-01 02:00:38 UTC 2026-07-01 02:00:38 UTC at epicenter Location 8.856°S 74.831°W Depth 130.53 km (81.10 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f4cdbe0b964503da4538"
+    },
+    {
+      "title": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be1094a3f7869c9d225e"
+    },
+    {
+      "title": "Why hiring AI experts is the most common startup mistake in 2026",
+      "url": "https://e27.co/why-hiring-ai-experts-is-the-most-common-startup-mistake-in-2026-20260616/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-01T01:00:02+00:00",
-      "fetched_at": "2026-07-01T01:27:41+00:00",
-      "summary": "Most of us have sat through more training, workshops, and professional programmes than we can remember. In the moment, they often feel meaningful. We leave energised, pages filled with notes, ideas sparking, and a quiet belief that something has shifted. But time has a way of clarifying things. A few months later, the details blur. […] The post What facilitation taught me about learning, leadership, and building thi…",
+      "published_at": "2026-07-01T01:45:30+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "There is a hiring pattern I have been watching across early-stage startups for the last 18 months that worries me. Founders are paying premiums for candidates whose primary signal is AI proficiency. Resumes that say “prompt engineer,” “AI workflow specialist,” “generative AI consultant,” “AI implementation lead.” These candidates command 30 to 40 per cent salary […] The post Why hiring AI experts is the most common…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9d4447c8af0b3671e4b"
+    },
+    {
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9632cde5a96881ca02bb"
+    },
+    {
+      "title": "とほほの「生涯エンジニア」入門 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_884/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-01T00:17:30+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "「とほほのWWW入門」管理人 杜甫々（とほほ） ソフトウェアエンジニア。1965年生まれ。1988年、広島のソフトウェア会社に入社し、2025年10月に定年退職。1996年にWeb技術解説サイト「とほほのWWW入門」を開設。執筆・公開した記事は1000件以上。趣味は食べ歩きやセンベロ・スーパー銭湯めぐりなど。座右の銘は「一行入魂...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "373dc2f9c929b53f0b7f"
+    },
+    {
+      "title": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
+      "url": "https://togetter.com/li/2715555",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-30T23:31:53+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ac86c64fef9889586a21"
+    },
+    {
+      "title": "You can’t add your way to a new life, you have to kill the old one first",
+      "url": "https://e27.co/kill-the-old-you-20260625/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-01T02:00:44+00:00",
+      "fetched_at": "2026-07-01T02:27:24+00:00",
+      "summary": "The world spends US$50 billion a year trying to improve itself, and over 90 per cent of it fails. The reason is brutal and simple: you can’t add your way to a new life. You have to kill the old one first. We’ve never spent more money trying to become better people. And we’ve never […] The post You can’t add your way to a new life, you have to kill the old one first appeared first on e27 .",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -381,7 +1233,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6368631b4cdb887be709"
+      "id": "a7e22e95adf3d99ed144"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T01:28:07+00:00_
+_Generiert: 2026-07-01T02:27:53+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年6月）“ aus JVN Japan Vulnerability Notes (Score 13, risk).
+18 neue relevante Treffer. Stärkstes Signal: „diegosouzapw/OmniRoute“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -12,10 +12,45 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **diegosouzapw/OmniRoute** — Score 22, observation — [Quelle](https://github.com/diegosouzapw/OmniRoute)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. 🚀 OmniRoute — The Free AI Gateway Never stop coding. Connect every AI tool to 236 providers — 50+ free — through one endpoint. Plug Claude Code, Codex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CISA ICS Advisory / ICS Medical Advisory（2026年06月30日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99876312/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-01T11:00:00+09:00`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Apache Tomcatにおける複数の脆弱性（2026年6月29日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93304382/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-01T11:00:15+09:00`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-55957, CVE-2026-55956, CVE-2026-55955, CVE-2026-55276, CVE-2026-53434, CVE-2026-53404, CVE-2026-50229）に対してアドバイザリが公開されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **The dots you cannot plan: On human value in an AI-powered world** — Score 13, observation — [Quelle](https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T02:15:33+00:00`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: I did not plan my career. I stumbled through it. I was a creative kid who drew constantly, loved science, and liked taking things apart. I was also genuinely bad at math. So what did I do? I became an accountant. I got my CPA licence, then took a job as a web designer. I […] The post The dots you cannot plan: On human value in an AI-powered world appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Siemens製品に対するアップデート（2026年6月）** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU93818675/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-06-03T09:40:15+09:00`, fetched `2026-07-01T01:27:41+00:00`
@@ -24,6 +59,24 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Siemensから各製品向けのアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **usestrix/strix** — Score 13, observation — [Quelle](https://github.com/usestrix/strix)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Actions, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 16 km WNW of Tournavista, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-01T02:16:08.040+00:00`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-01 02:00:38 UTC 2026-07-01 02:00:38 UTC at epicenter Location 8.856°S 74.831°W Depth 130.53 km (81.10 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 268 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -34,6 +87,24 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-30 23:44:55 UTC 2026-06-30 23:44:55 UTC at epicenter Location 37.816°N 95.427°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **hasaneyldrm/exercises-dataset** — Score 11, observation — [Quelle](https://github.com/hasaneyldrm/exercises-dataset)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why hiring AI experts is the most common startup mistake in 2026** — Score 10, observation — [Quelle](https://e27.co/why-hiring-ai-experts-is-the-most-common-startup-mistake-in-2026-20260616/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T01:45:30+00:00`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
+  - Kurz: There is a hiring pattern I have been watching across early-stage startups for the last 18 months that worries me. Founders are paying premiums for candidates whose primary signal is AI proficiency. Resumes that say “prompt engineer,” “AI workflow specialist,” “generative AI consultant,” “AI implementation lead.” These candidates command 30 to 40 per cent salary […] The post Why hiring AI experts is the most common…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた** — Score 8, observation — [Quelle](https://zenn.dev/thorie/articles/548se-ai-driven-development)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-30T15:35:28+00:00`, fetched `2026-07-01T01:27:41+00:00`
@@ -43,37 +114,47 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 普段の業務でもAIを使って開発するようになり、ここ3ヶ月ほどは自分ではコードを書かずにアプリケーションを作れるようになってきています。しかし、ブラウンフィールド開発という事もあり細かく指示をしないとAIが思った通りに動かないことも多く、そんなに開発速度が上がっている実感はありませんでした。では、スクラ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GoogleユーザーのIPv6利用率がついに50％を超えたことが判明** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/googleipv650.html)
+- **browser-use/video-use** — Score 8, opportunity — [Quelle](https://github.com/browser-use/video-use)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-01T02:27:24+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, Content-Chance, GitHub Trending, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
+  - Kurz: Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **とほほの「生涯エンジニア」入門 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_884/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-30T21:20:18+00:00`, fetched `2026-07-01T00:18:30+00:00`
+  - Zeit: published `2026-07-01T00:17:30+00:00`, fetched `2026-07-01T02:27:24+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Googleが提供しているサービスを利用するユーザーのうち、IPv6を使用している割合を示す「Google IPv6」のページで、IPv6の割合が今年（2026年）3月に50％を超えていたことが分かりました。 公開されたグラフによると最初に50％を超えたのは今年（2026年）3月28日で、現時点までの最大値は6月13日に付けた50.29％でした...
+  - Kurz: 「とほほのWWW入門」管理人 杜甫々（とほほ） ソフトウェアエンジニア。1965年生まれ。1988年、広島のソフトウェア会社に入社し、2025年10月に定年退職。1996年にWeb技術解説サイト「とほほのWWW入門」を開設。執筆・公開した記事は1000件以上。趣味は食べ歩きやセンベロ・スーパー銭湯めぐりなど。座右の銘は「一行入魂...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **風の谷のナウシカは、生成AIを30年前に予見？ ぞっとした展開：朝日新聞** — Score 5, observation — [Quelle](https://www.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html)
+- **大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に** — Score 5, observation — [Quelle](https://togetter.com/li/2715555)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-30T06:52:16+00:00`, fetched `2026-07-01T00:18:30+00:00`
+  - Zeit: published `2026-06-30T23:31:53+00:00`, fetched `2026-07-01T02:27:24+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIに人生を相談する人がいる、と聞いても、もう驚かなくなりました。便利で、優しくて、いつでもそばにいてくれる。そんな存在に頼ることの、何がいけないのか――。1994年に完結した宮崎駿さんの漫画版『風の…
+  - Kurz: 大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What facilitation taught me about learning, leadership, and building things that last** — Score 4, observation — [Quelle](https://e27.co/what-facilitation-taught-me-about-learning-leadership-and-building-things-that-last-20260531/)
+- **You can’t add your way to a new life, you have to kill the old one first** — Score 4, observation — [Quelle](https://e27.co/kill-the-old-you-20260625/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T01:00:02+00:00`, fetched `2026-07-01T01:27:41+00:00`
+  - Zeit: published `2026-07-01T02:00:44+00:00`, fetched `2026-07-01T02:27:24+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Most of us have sat through more training, workshops, and professional programmes than we can remember. In the moment, they often feel meaningful. We leave energised, pages filled with notes, ideas sparking, and a quiet belief that something has shifted. But time has a way of clarifying things. A few months later, the details blur. […] The post What facilitation taught me about learning, leadership, and building thi…
+  - Kurz: The world spends US$50 billion a year trying to improve itself, and over 90 per cent of it fails. The reason is brutal and simple: you can’t add your way to a new life. You have to kill the old one first. We’ve never spent more money trying to become better people. And we’ve never […] The post You can’t add your way to a new life, you have to kill the old one first appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
