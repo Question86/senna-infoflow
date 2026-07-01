@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T13:20:32+00:00_
+_Generiert: 2026-07-01T14:12:14+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,10 @@ _Generiert: 2026-07-01T13:20:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone FOUR-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 59760 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
+- **GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 59760 .
+  - Kurz: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 9 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549440)
   - Quelle: GDACS
   - Zeit: ``

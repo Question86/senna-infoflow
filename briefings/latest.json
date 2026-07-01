@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T13:20:32+00:00",
-  "run_id": "2026-07-01T13:20:32+00:00",
+  "generated_at": "2026-07-01T14:12:14+00:00",
+  "run_id": "2026-07-01T14:12:14+00:00",
   "date": "2026-07-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 0,
@@ -2213,70 +2213,7 @@
       "id": "6368631b4cdb887be709"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Amazonで購入したモバイルバッテリーが発火して居宅が火災にあった場合の損害賠償責任｜渡邊博己",
-      "url": "https://note.com/nabe_2023/n/n25209f9e8b0c",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-01T10:21:52+00:00",
-      "fetched_at": "2026-07-01T13:20:06+00:00",
-      "summary": "東京地判令和4.4.15裁判所Web https://www.courts.go.jp/app/hanrei_jp/detail4?id=91198 １．事案の概要 Amazon(Ｙ)が運営する電子商取引サイトにおいて、Ｘが、充電式モバイルバッテリー（以下「本件バッテリー」という。）を購入した。Amazonのサイトの本件バッテリーの販売用ページには、販売者は「AUKEY JAPAN（メ...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2ed243ea35a615881c47"
-    },
-    {
-      "title": "Root-Sicherheitslücken in alternativer Router-Firmware OpenWRT geschlossen",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-alternativer-Router-Firmware-OpenWRT-geschlossen-11350761.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-01T13:04:00.000+00:00",
-      "fetched_at": "2026-07-01T13:20:06+00:00",
-      "summary": "Die OpenWRT-Entwickler haben in einer aktuellen Version unter anderem mehrere kritische Sicherheitslücken geschlossen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a873b066879f58ea5db1"
-    },
-    {
-      "title": "PC-Fernverwaltung: Man-in-the-Middle-Attacken auf HCL BigFix möglich",
-      "url": "https://www.heise.de/news/PC-Fernverwaltung-Man-in-the-Middle-Attacken-auf-HCL-BigFix-moeglich-11350301.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-01T12:28:00.000+00:00",
-      "fetched_at": "2026-07-01T13:20:06+00:00",
-      "summary": "In einer aktuellen Version von HCL BigFix haben die Entwickler insgesamt sechs Sicherheitslücken geschlossen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d762a2a3ed70650f3759"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
