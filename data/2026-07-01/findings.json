@@ -477,6 +477,48 @@
     "id": "d8d2e47c156ee9b04f95"
   },
   {
+    "title": "Secret scanning adds validators for Asana, IBM, and MessageBird",
+    "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T20:49:41+00:00",
+    "fetched_at": "2026-07-01T22:57:34+00:00",
+    "summary": "Secret scanning now runs validity checks on Asana, IBM, and MessageBird secrets so you can tell whether a leaked credential is still active. Validity checks added These patterns now support… The post Secret scanning adds validators for Asana, IBM, and MessageBird appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a348e52a9a45d792c8f1"
+  },
+  {
+    "title": "Secret scanning public monitoring for enterprises",
+    "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T20:37:55+00:00",
+    "fetched_at": "2026-07-01T22:57:34+00:00",
+    "summary": "GitHub is committed to empowering the developer community by helping organizations recognize and address the risks of secret leaks wherever they happen. We believe every enterprise should know the moment… The post Secret scanning public monitoring for enterprises appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "118fd5cb047c6894471d"
+  },
+  {
     "title": "Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks",
     "url": "https://www.bis.org/review/r260701a.htm",
     "source": "BIS Central Bankers Speeches",
@@ -1241,6 +1283,28 @@
     "id": "b3212c3118ba46831c7c"
   },
   {
+    "title": "メガドライブ実機上でLinuxを動かす「LinuxMD」が登場",
+    "url": "https://gigazine.net/news/20260701-linuxmd/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T08:11:46+00:00",
+    "fetched_at": "2026-07-01T22:57:34+00:00",
+    "summary": "1988年に発売されたセガの家庭用ゲーム機・メガドライブでLinuxを動作させる実験的なプロジェクトが「LinuxMD」です。開発者のダニエル・パルマー氏がGitHubで公開しており、実機上でカーネルと最小構成のLinux環境を起動できます。 GitHub - LinuxMD/linuxmd: Linux for the Sega MegaDrive · GitHub https://github.co...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f5b7c74be1d993736e4"
+  },
+  {
     "title": "Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken",
     "url": "https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html",
     "source": "heise Security Alerts",
@@ -1403,6 +1467,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f27ef8d305c0b5193dae"
+  },
+  {
+    "title": "Mistralが自動定理証明向けAI「Leanstral 1.5」リリース、Lean 4の証明作業を支援",
+    "url": "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T11:35:43+00:00",
+    "fetched_at": "2026-07-01T22:57:34+00:00",
+    "summary": "Mistral AIが数学の証明やプログラムの正しさを機械的に確かめる作業を支援するAIモデル「Leanstral 1.5」を2026年6月30日に公開しました。Leanstral 1.5は形式証明ツール「Lean 4」向けの自動定理証明と自動形式化に最適化されたモデルで、Mistral AIのLabs枠で無料利用できると案内されています。 Leanstral 1.5 - Mis...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "855290e11f6a23d6a47a"
   },
   {
     "title": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",

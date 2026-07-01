@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T22:29:55+00:00_
+_Generiert: 2026-07-01T22:58:02+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -228,6 +228,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning adds validators for Asana, IBM, and MessageBird** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-01T20:49:41+00:00`, fetched `2026-07-01T22:57:34+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret scanning now runs validity checks on Asana, IBM, and MessageBird secrets so you can tell whether a leaked credential is still active. Validity checks added These patterns now support… The post Secret scanning adds validators for Asana, IBM, and MessageBird appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Secret scanning public monitoring for enterprises** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-01T20:37:55+00:00`, fetched `2026-07-01T22:57:34+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: GitHub is committed to empowering the developer community by helping organizations recognize and address the risks of secret leaks wherever they happen. We believe every enterprise should know the moment… The post Secret scanning public monitoring for enterprises appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks** — Score 12, observation — [Quelle](https://www.bis.org/review/r260701a.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-07-01T12:43:00+00:00`, fetched `2026-07-01T15:16:29+00:00`
@@ -290,24 +308,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Amazonで購入したモバイルバッテリーが発火して居宅が火災にあった場合の損害賠償責任｜渡邊博己** — Score 10, observation — [Quelle](https://note.com/nabe_2023/n/n25209f9e8b0c)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-01T10:21:52+00:00`, fetched `2026-07-01T13:20:06+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 東京地判令和4.4.15裁判所Web https://www.courts.go.jp/app/hanrei_jp/detail4?id=91198 １．事案の概要 Amazon(Ｙ)が運営する電子商取引サイトにおいて、Ｘが、充電式モバイルバッテリー（以下「本件バッテリー」という。）を購入した。Amazonのサイトの本件バッテリーの販売用ページには、販売者は「AUKEY JAPAN（メ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The VCs writing off Indonesia are making a US$300B mistake** — Score 10, observation — [Quelle](https://e27.co/the-vcs-writing-off-indonesia-are-making-a-us300b-mistake-20260701/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T04:51:38+00:00`, fetched `2026-07-01T05:25:56+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: When a Jakarta anti-corruption court handed down a 10-year prison sentence to Nadiem Makarim on June 30, the noise from the venture capital community was immediate. A foreign VC with a presence in the archipelago reportedly told its partners to hold back on Indonesia and divert the focus only to other countries in the region. […] The post The VCs writing off Indonesia are making a US$300B mistake appeared first on e…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
