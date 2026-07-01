@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T14:12:14+00:00_
+_Generiert: 2026-07-01T15:16:56+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-01T09:56:54+00:00`, fetched `2026-07-01T09:56:39+00:00`
+  - Zeit: published `2026-07-01T15:16:44+00:00`, fetched `2026-07-01T15:16:29+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -139,6 +139,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Naoki Tamura: Economic activity, prices and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/review/r260701c.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-07-01T12:50:00+00:00`, fetched `2026-07-01T15:16:29+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The dots you cannot plan: On human value in an AI-powered world** — Score 13, observation — [Quelle](https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-01T02:15:33+00:00`, fetched `2026-07-01T02:27:24+00:00`
@@ -166,6 +175,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks** — Score 12, observation — [Quelle](https://www.bis.org/review/r260701a.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-07-01T12:43:00+00:00`, fetched `2026-07-01T15:16:29+00:00`
+  - Treffer: macro, Macro/Policy, Watchgraph:sports_sf_tech_events
+  - Watchgraph: sports_sf_tech_events
+  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
+  - Warum relevant: Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)
+  - Kurz: Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the "6th Dolomiti Macro Meeting", organised by Free University of Bozen, BI Norwegian Business School, Centre for Applied Macroeconomics and Commodity Prices (CAMP), Bozen, 20 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260058 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260058.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-07-01T08:15:23+00:00`, fetched `2026-07-01T08:31:28+00:00`
@@ -183,6 +201,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Zhu Hexin: New landscape of global capital flows and China's high-level opening-up** — Score 11, observation — [Quelle](https://www.bis.org/review/r260701e.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-07-01T13:01:00+00:00`, fetched `2026-07-01T15:16:29+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.6 - 224 km S of Suva, Fiji** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -247,33 +274,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin has dropped 2.88 per cent within a 24-hour window, falling to a price of US$58,523.37. This downward trajectory occurs against the backdrop of the traditional equities market, signalling that the current vulnerability belongs uniquely to the crypto ecosystem. For an industry that spent the better part of the last two years celebrating the arrival […] The post How centralised exchanges swapped crypto ethos fo…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ClaudeCodeとObsidianで設計・作業メモを残す - 虎の穴ラボ技術ブログ** — Score 10, observation — [Quelle](https://toranoana-lab.hatenablog.com/entry/2026/06/30/130000)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-30T23:08:38+00:00`, fetched `2026-07-01T06:57:32+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは、虎の穴ラボのYFです。 今回は、以前からAIエージェントとの相性がよいと話題のObsidianを導入してClaude Codeに記録を残させる仕組みを作ってみました。 調査やコーディングにAIエージェントを使っていて、作業記録をうまく残せていないなと感じている方の参考になればと思います。 作業記録を残すことのメ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **China’s EV makers are taking over the European factories Ford and Nissan can’t fill** — Score 8, observation — [Quelle](https://restofworld.org/2026/chinese-ev-europe-factory-takeover-tariffs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-01T10:00:00+00:00`, fetched `2026-07-01T11:14:14+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Car industry.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **browser-use/video-use** — Score 8, opportunity — [Quelle](https://github.com/browser-use/video-use)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-01T02:27:24+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, Content-Chance, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
-  - Kurz: Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

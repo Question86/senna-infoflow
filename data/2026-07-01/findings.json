@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-01T09:56:54+00:00",
-    "fetched_at": "2026-07-01T09:56:39+00:00",
+    "published_at": "2026-07-01T15:16:44+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "c2ccb0e3a6d088ab8ba1"
+    "id": "52897479803cbb6d2575"
   },
   {
     "title": "diegosouzapw/OmniRoute",
@@ -203,6 +203,27 @@
     "id": "a5ce68ab2c492e07a2fb"
   },
   {
+    "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
+    "url": "https://www.bis.org/review/r260701c.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-07-01T12:50:00+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c2bbe4f7e42e2a8c36a5"
+  },
+  {
     "title": "The dots you cannot plan: On human value in an AI-powered world",
     "url": "https://e27.co/the-dots-you-cannot-plan-on-human-value-in-an-ai-powered-world-20260620/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -270,6 +291,48 @@
     "id": "d8d2e47c156ee9b04f95"
   },
   {
+    "title": "Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks",
+    "url": "https://www.bis.org/review/r260701a.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-07-01T12:43:00+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the \"6th Dolomiti Macro Meeting\", organised by Free University of Bozen, BI Norwegian Business School, Centre for Applied Macroeconomics and Commodity Prices (CAMP), Bozen, 20 June 2026.",
+    "matched_keywords": [
+      "macro",
+      "Macro/Policy",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: Olympics"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "cab08b9b37ce7e231c34"
+  },
+  {
     "title": "Announcing 20260058 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260058.en.html",
     "source": "ECB Open Market Operations and Communication",
@@ -312,6 +375,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f7d7836376e6bf27b405"
+  },
+  {
+    "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
+    "url": "https://www.bis.org/review/r260701e.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-07-01T13:01:00+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "36eaa3cfb1cedf3ebb9f"
   },
   {
     "title": "M 5.6 - 224 km S of Suva, Fiji",
@@ -654,6 +759,46 @@
     "id": "5ab2d4f19937002010a8"
   },
   {
+    "title": "Andrew Hauser: \"The straight line belongs to man, the curved line belongs to God\"",
+    "url": "https://www.bis.org/review/r260701d.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-07-01T12:56:00+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "51360eaf9f971e628c22"
+  },
+  {
+    "title": "Lisa D Cook: Welcome remarks - State of Small Business Symposium",
+    "url": "https://www.bis.org/review/r260701b.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-07-01T12:47:00+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a94e034429e53535951f"
+  },
+  {
     "title": "UK investors sue Binance and CZ for US$200M over risky crypto derivatives",
     "url": "https://e27.co/uk-investors-sue-binance-and-cz-for-us200m-over-risky-crypto-derivatives-20260701/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -693,6 +838,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c773dbf32ff4ddef2d64"
+  },
+  {
+    "title": "はてなブログに Amazon CloudFront SaaS Manager を導入した話 - Hatena Developer Blog",
+    "url": "https://developer.hatenastaff.com/entry/2026/07/01/183904",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T09:56:49+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "はじめに この記事は SRE 連載です。 前月の記事は id:k1s1eee さんの社内にLiteLLM Proxy（OSS版）を導入してマルチプロバイダLLM運用基盤を作った話でした。 id:hagihala です。 去年から今年の上半期にかけてはてなブログに Amazon CloudFront SaaS Manager (以下 SaaS Manager) を導入し、ブログへのトラフィックを ...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff55ddb1a3016b35e5aa"
   },
   {
     "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
@@ -819,6 +986,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "67c9ddb78e0922fd8487"
+  },
+  {
+    "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",
+    "url": "https://www.bis.org/review/r260701i.htm",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-07-01T13:31:00+00:00",
+    "fetched_at": "2026-07-01T15:16:29+00:00",
+    "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "50f9f289585a7cfc2a49"
   },
   {
     "title": "国家資格等のオンライン・デジタル化に関する動画を追加しました",
