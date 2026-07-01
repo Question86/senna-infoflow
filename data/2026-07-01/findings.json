@@ -1,0 +1,80 @@
+[
+  {
+    "title": "M 5.2 - 268 km SSE of Dunhuang, China",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-06-30T23:58:30.040+00:00",
+    "fetched_at": "2026-07-01T00:18:30+00:00",
+    "summary": "Time 2026-06-30 23:44:55 UTC 2026-06-30 23:44:55 UTC at epicenter Location 37.816°N 95.427°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "aa48a728561a8af27b5a"
+  },
+  {
+    "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
+    "url": "https://www.publickey1.jp/blog/26/googleipv650.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T21:20:18+00:00",
+    "fetched_at": "2026-07-01T00:18:30+00:00",
+    "summary": "Googleが提供しているサービスを利用するユーザーのうち、IPv6を使用している割合を示す「Google IPv6」のページで、IPv6の割合が今年（2026年）3月に50％を超えていたことが分かりました。 公開されたグラフによると最初に50％を超えたのは今年（2026年）3月28日で、現時点までの最大値は6月13日に付けた50.29％でした...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "df139d546cc10cd48d4a"
+  },
+  {
+    "title": "風の谷のナウシカは、生成AIを30年前に予見？ ぞっとした展開：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:52:16+00:00",
+    "fetched_at": "2026-07-01T00:18:30+00:00",
+    "summary": "AIに人生を相談する人がいる、と聞いても、もう驚かなくなりました。便利で、優しくて、いつでもそばにいてくれる。そんな存在に頼ることの、何がいけないのか――。1994年に完結した宮崎駿さんの漫画版『風の…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e2f646662613c3448c7f"
+  }
+]
