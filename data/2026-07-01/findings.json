@@ -492,6 +492,64 @@
     "id": "a9d4447c8af0b3671e4b"
   },
   {
+    "title": "ClaudeCodeとObsidianで設計・作業メモを残す - 虎の穴ラボ技術ブログ",
+    "url": "https://toranoana-lab.hatenablog.com/entry/2026/06/30/130000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T23:08:38+00:00",
+    "fetched_at": "2026-07-01T06:57:32+00:00",
+    "summary": "こんにちは、虎の穴ラボのYFです。 今回は、以前からAIエージェントとの相性がよいと話題のObsidianを導入してClaude Codeに記録を残させる仕組みを作ってみました。 調査やコーディングにAIエージェントを使っていて、作業記録をうまく残せていないなと感じている方の参考になればと思います。 作業記録を残すことのメ...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59bccff3000abb91e5fa"
+  },
+  {
+    "title": "M 4.9 - southeast of the Loyalty Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9cu",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-01T06:49:17.040+00:00",
+    "fetched_at": "2026-07-01T06:57:32+00:00",
+    "summary": "Time 2026-07-01 06:23:39 UTC 2026-07-01 06:23:39 UTC at epicenter Location 22.797°S 170.710°E Depth 45.46 km (28.24 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5ab2d4f19937002010a8"
+  },
+  {
     "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
     "url": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
     "source": "Hatena Bookmark Hotentry IT",
@@ -536,6 +594,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9632cde5a96881ca02bb"
+  },
+  {
+    "title": "国家資格等のオンライン・デジタル化に関する動画を追加しました",
+    "url": "https://www.digital.go.jp/policies/government-certification",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-01T06:00:00+00:00",
+    "fetched_at": "2026-07-01T06:57:32+00:00",
+    "summary": "国家資格等のオンライン・デジタル化に関する動画を追加しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0bffe726fc529d67f1a6"
+  },
+  {
+    "title": "令和8年7月1日付デジタル庁幹部一覧を掲載しました",
+    "url": "https://www.digital.go.jp/about/member",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-01T06:00:00+00:00",
+    "fetched_at": "2026-07-01T06:57:32+00:00",
+    "summary": "令和8年7月1日付デジタル庁幹部一覧を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0687f8204f05df366eeb"
   },
   {
     "title": "とほほの「生涯エンジニア」入門 - レバテックLAB",

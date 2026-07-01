@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T05:26:31+00:00_
+_Generiert: 2026-07-01T06:57:59+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,18 @@ _Generiert: 2026-07-01T05:26:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Ubiquiti UniFi OS Improper Input Validation Vulnerability
-- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
+- **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103980)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Türkiye
+  - Kurz: Green flood alert in Italy
+- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103981)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Mexico
+- **GDACS: Green flood alert in Venezuela** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103982)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Venezuela
 - **GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
   - Quelle: GDACS
   - Zeit: ``
@@ -199,6 +207,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin has dropped 2.88 per cent within a 24-hour window, falling to a price of US$58,523.37. This downward trajectory occurs against the backdrop of the traditional equities market, signalling that the current vulnerability belongs uniquely to the crypto ecosystem. For an industry that spent the better part of the last two years celebrating the arrival […] The post How centralised exchanges swapped crypto ethos fo…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ClaudeCodeとObsidianで設計・作業メモを残す - 虎の穴ラボ技術ブログ** — Score 10, observation — [Quelle](https://toranoana-lab.hatenablog.com/entry/2026/06/30/130000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-30T23:08:38+00:00`, fetched `2026-07-01T06:57:32+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: こんにちは、虎の穴ラボのYFです。 今回は、以前からAIエージェントとの相性がよいと話題のObsidianを導入してClaude Codeに記録を残させる仕組みを作ってみました。 調査やコーディングにAIエージェントを使っていて、作業記録をうまく残せていないなと感じている方の参考になればと思います。 作業記録を残すことのメ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - southeast of the Loyalty Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9cu)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-01T06:49:17.040+00:00`, fetched `2026-07-01T06:57:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-01 06:23:39 UTC 2026-07-01 06:23:39 UTC at epicenter Location 22.797°S 170.710°E Depth 45.46 km (28.24 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた** — Score 8, observation — [Quelle](https://zenn.dev/thorie/articles/548se-ai-driven-development)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-30T15:35:28+00:00`, fetched `2026-07-01T01:27:41+00:00`
@@ -217,14 +243,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
   - Kurz: Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **とほほの「生涯エンジニア」入門 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_884/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-01T00:17:30+00:00`, fetched `2026-07-01T02:27:24+00:00`
-  - Treffer: Hatena, hotentry
+- **国家資格等のオンライン・デジタル化に関する動画を追加しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/government-certification)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-01T06:00:00+00:00`, fetched `2026-07-01T06:57:32+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「とほほのWWW入門」管理人 杜甫々（とほほ） ソフトウェアエンジニア。1965年生まれ。1988年、広島のソフトウェア会社に入社し、2025年10月に定年退職。1996年にWeb技術解説サイト「とほほのWWW入門」を開設。執筆・公開した記事は1000件以上。趣味は食べ歩きやセンベロ・スーパー銭湯めぐりなど。座右の銘は「一行入魂...
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 国家資格等のオンライン・デジタル化に関する動画を追加しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年7月1日付デジタル庁幹部一覧を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-01T06:00:00+00:00`, fetched `2026-07-01T06:57:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年7月1日付デジタル庁幹部一覧を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -235,7 +270,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fe0117f0cd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

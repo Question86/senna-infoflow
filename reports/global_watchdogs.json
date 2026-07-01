@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:26:34+00:00",
+  "generated_at": "2026-07-01T06:58:02+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,10 +65,30 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Türkiye",
-        "summary": "Green flood alert in Türkiye",
+        "title": "GDACS: Green flood alert in Italy",
+        "summary": "Green flood alert in Italy",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103980",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Mexico",
+        "summary": "Green flood alert in Mexico",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103981",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Venezuela",
+        "summary": "Green flood alert in Venezuela",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103982",
         "published_at": "",
         "metrics": {}
       },
