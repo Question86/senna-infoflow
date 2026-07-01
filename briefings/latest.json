@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T22:58:02+00:00",
-  "run_id": "2026-07-01T22:58:02+00:00",
+  "generated_at": "2026-07-01T23:37:17+00:00",
+  "run_id": "2026-07-01T23:37:17+00:00",
   "date": "2026-07-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 4,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
-    "medium": 10,
-    "observe": 62,
+    "medium": 11,
+    "observe": 64,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-01T21:17:07+00:00",
-        "fetched_at": "2026-07-01T21:16:52+00:00",
+        "published_at": "2026-07-01T23:37:05+00:00",
+        "fetched_at": "2026-07-01T23:36:49+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "061a1231ae7ce820e5cc"
+        "id": "22607f300e1e7bf64f01"
       },
       {
         "title": "diegosouzapw/OmniRoute",
@@ -251,6 +251,56 @@
           "EWZ"
         ],
         "id": "f838eea4ef84dbc88a4a"
+      },
+      {
+        "title": "Enterprises can default to auto model selection",
+        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-01T22:27:16+00:00",
+        "fetched_at": "2026-07-01T23:36:49+00:00",
+        "summary": "Enterprise administrators can now set model to auto in the enterprise managed-settings.json to make Copilot auto model selection the default for new conversations. Add auto to .github-private/.github/copilot/managed-settings.json in your source… The post Enterprises can default to auto model selection appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub",
+          "Macro/Policy",
+          "Watchgraph:elections_unrest"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "6c5de0319eac0f8caf5d"
       },
       {
         "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
@@ -613,6 +663,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c073b369ff71c76e175"
+      },
+      {
+        "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
+        "url": "https://gigazine.net/news/20260701-x-mcp/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-01T07:06:25+00:00",
+        "fetched_at": "2026-07-01T23:36:49+00:00",
+        "summary": "Xは2026年6月30日に、ユーザー自身のアカウント権限を使用してAIツールがX APIと通信できるようにするホスト型モデルコンテキストプロトコル(MCP)サーバー「X MCP」を発表しました。X MCPを用いることで、ClaudeやGrok BuildといったAIアシスタントやその他のMCP互換アプリがXに直接接続しやすくなり、Xの投稿分析や情報...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "46ffd473163a88b19306"
       },
       {
         "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
@@ -1357,6 +1453,27 @@
         "id": "67c9ddb78e0922fd8487"
       },
       {
+        "title": "Enterprise managed-settings.json is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-01T20:57:26+00:00",
+        "fetched_at": "2026-07-01T23:36:49+00:00",
+        "summary": "GitHub Enterprise Cloud customers can configure AI standards through a managed-settings.json file maintained in a .github-private repository in a selected organization. This allows the enterprise to define new governance and… The post Enterprise managed-settings.json is generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4159e5c92d8679e74a45"
+      },
+      {
         "title": "New C++ language server config skill for Copilot CLI",
         "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
         "source": "GitHub Changelog Atom",
@@ -1819,8 +1936,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-01T21:17:07+00:00",
-      "fetched_at": "2026-07-01T21:16:52+00:00",
+      "published_at": "2026-07-01T23:37:05+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1854,7 +1971,7 @@
         "HD",
         "LOW"
       ],
-      "id": "061a1231ae7ce820e5cc"
+      "id": "22607f300e1e7bf64f01"
     },
     {
       "title": "diegosouzapw/OmniRoute",
@@ -2036,6 +2153,56 @@
         "EWZ"
       ],
       "id": "f838eea4ef84dbc88a4a"
+    },
+    {
+      "title": "Enterprises can default to auto model selection",
+      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-01T22:27:16+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "Enterprise administrators can now set model to auto in the enterprise managed-settings.json to make Copilot auto model selection the default for new conversations. Add auto to .github-private/.github/copilot/managed-settings.json in your source… The post Enterprises can default to auto model selection appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub",
+        "Macro/Policy",
+        "Watchgraph:elections_unrest"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: election"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "6c5de0319eac0f8caf5d"
     },
     {
       "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
@@ -2396,6 +2563,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2c073b369ff71c76e175"
+    },
+    {
+      "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
+      "url": "https://gigazine.net/news/20260701-x-mcp/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-01T07:06:25+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "Xは2026年6月30日に、ユーザー自身のアカウント権限を使用してAIツールがX APIと通信できるようにするホスト型モデルコンテキストプロトコル(MCP)サーバー「X MCP」を発表しました。X MCPを用いることで、ClaudeやGrok BuildといったAIアシスタントやその他のMCP互換アプリがXに直接接続しやすくなり、Xの投稿分析や情報...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "46ffd473163a88b19306"
     },
     {
       "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
@@ -3140,6 +3353,27 @@
       "id": "67c9ddb78e0922fd8487"
     },
     {
+      "title": "Enterprise managed-settings.json is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-01T20:57:26+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "GitHub Enterprise Cloud customers can configure AI standards through a managed-settings.json file maintained in a .github-private repository in a selected organization. This allows the enterprise to define new governance and… The post Enterprise managed-settings.json is generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4159e5c92d8679e74a45"
+    },
+    {
       "title": "New C++ language server config skill for Copilot CLI",
       "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
       "source": "GitHub Changelog Atom",
@@ -3597,89 +3831,163 @@
   ],
   "new_findings": [
     {
-      "title": "Secret scanning adds validators for Asana, IBM, and MessageBird",
-      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-01T20:49:41+00:00",
-      "fetched_at": "2026-07-01T22:57:34+00:00",
-      "summary": "Secret scanning now runs validity checks on Asana, IBM, and MessageBird secrets so you can tell whether a leaked credential is still active. Validity checks added These patterns now support… The post Secret scanning adds validators for Asana, IBM, and MessageBird appeared first on The GitHub Blog .",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-01T23:37:05+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a348e52a9a45d792c8f1"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "22607f300e1e7bf64f01"
     },
     {
-      "title": "Secret scanning public monitoring for enterprises",
-      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
+      "title": "Enterprises can default to auto model selection",
+      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-01T20:37:55+00:00",
-      "fetched_at": "2026-07-01T22:57:34+00:00",
-      "summary": "GitHub is committed to empowering the developer community by helping organizations recognize and address the risks of secret leaks wherever they happen. We believe every enterprise should know the moment… The post Secret scanning public monitoring for enterprises appeared first on The GitHub Blog .",
+      "published_at": "2026-07-01T22:27:16+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "Enterprise administrators can now set model to auto in the enterprise managed-settings.json to make Copilot auto model selection the default for new conversations. Add auto to .github-private/.github/copilot/managed-settings.json in your source… The post Enterprises can default to auto model selection appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "118fd5cb047c6894471d"
-    },
-    {
-      "title": "メガドライブ実機上でLinuxを動かす「LinuxMD」が登場",
-      "url": "https://gigazine.net/news/20260701-linuxmd/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-01T08:11:46+00:00",
-      "fetched_at": "2026-07-01T22:57:34+00:00",
-      "summary": "1988年に発売されたセガの家庭用ゲーム機・メガドライブでLinuxを動作させる実験的なプロジェクトが「LinuxMD」です。開発者のダニエル・パルマー氏がGitHubで公開しており、実機上でカーネルと最小構成のLinux環境を起動できます。 GitHub - LinuxMD/linuxmd: Linux for the Sega MegaDrive · GitHub https://github.co...",
-      "matched_keywords": [
+        "Copilot",
         "GitHub",
-        "Hatena",
-        "hotentry"
+        "Macro/Policy",
+        "Watchgraph:elections_unrest"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3f5b7c74be1d993736e4"
+      "relevance_score": 14,
+      "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: election"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "6c5de0319eac0f8caf5d"
     },
     {
-      "title": "Mistralが自動定理証明向けAI「Leanstral 1.5」リリース、Lean 4の証明作業を支援",
-      "url": "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
+      "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
+      "url": "https://gigazine.net/news/20260701-x-mcp/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-01T11:35:43+00:00",
-      "fetched_at": "2026-07-01T22:57:34+00:00",
-      "summary": "Mistral AIが数学の証明やプログラムの正しさを機械的に確かめる作業を支援するAIモデル「Leanstral 1.5」を2026年6月30日に公開しました。Leanstral 1.5は形式証明ツール「Lean 4」向けの自動定理証明と自動形式化に最適化されたモデルで、Mistral AIのLabs枠で無料利用できると案内されています。 Leanstral 1.5 - Mis...",
+      "published_at": "2026-07-01T07:06:25+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "Xは2026年6月30日に、ユーザー自身のアカウント権限を使用してAIツールがX APIと通信できるようにするホスト型モデルコンテキストプロトコル(MCP)サーバー「X MCP」を発表しました。X MCPを用いることで、ClaudeやGrok BuildといったAIアシスタントやその他のMCP互換アプリがXに直接接続しやすくなり、Xの投稿分析や情報...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "46ffd473163a88b19306"
+    },
+    {
+      "title": "Enterprise managed-settings.json is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-01T20:57:26+00:00",
+      "fetched_at": "2026-07-01T23:36:49+00:00",
+      "summary": "GitHub Enterprise Cloud customers can configure AI standards through a managed-settings.json file maintained in a .github-private repository in a selected organization. This allows the enterprise to define new governance and… The post Enterprise managed-settings.json is generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "855290e11f6a23d6a47a"
+      "id": "4159e5c92d8679e74a45"
     }
   ],
   "source_errors": [],

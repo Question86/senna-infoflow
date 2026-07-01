@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-01T21:17:07+00:00",
-    "fetched_at": "2026-07-01T21:16:52+00:00",
+    "published_at": "2026-07-01T23:37:05+00:00",
+    "fetched_at": "2026-07-01T23:36:49+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "061a1231ae7ce820e5cc"
+    "id": "22607f300e1e7bf64f01"
   },
   {
     "title": "diegosouzapw/OmniRoute",
@@ -221,6 +221,56 @@
       "EWZ"
     ],
     "id": "f838eea4ef84dbc88a4a"
+  },
+  {
+    "title": "Enterprises can default to auto model selection",
+    "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T22:27:16+00:00",
+    "fetched_at": "2026-07-01T23:36:49+00:00",
+    "summary": "Enterprise administrators can now set model to auto in the enterprise managed-settings.json to make Copilot auto model selection the default for new conversations. Add auto to .github-private/.github/copilot/managed-settings.json in your source… The post Enterprises can default to auto model selection appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "Macro/Policy",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "6c5de0319eac0f8caf5d"
   },
   {
     "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
@@ -581,6 +631,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2c073b369ff71c76e175"
+  },
+  {
+    "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
+    "url": "https://gigazine.net/news/20260701-x-mcp/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T07:06:25+00:00",
+    "fetched_at": "2026-07-01T23:36:49+00:00",
+    "summary": "Xは2026年6月30日に、ユーザー自身のアカウント権限を使用してAIツールがX APIと通信できるようにするホスト型モデルコンテキストプロトコル(MCP)サーバー「X MCP」を発表しました。X MCPを用いることで、ClaudeやGrok BuildといったAIアシスタントやその他のMCP互換アプリがXに直接接続しやすくなり、Xの投稿分析や情報...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "46ffd473163a88b19306"
   },
   {
     "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
@@ -1323,6 +1419,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "67c9ddb78e0922fd8487"
+  },
+  {
+    "title": "Enterprise managed-settings.json is generally available",
+    "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T20:57:26+00:00",
+    "fetched_at": "2026-07-01T23:36:49+00:00",
+    "summary": "GitHub Enterprise Cloud customers can configure AI standards through a managed-settings.json file maintained in a .github-private repository in a selected organization. This allows the enterprise to define new governance and… The post Enterprise managed-settings.json is generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4159e5c92d8679e74a45"
   },
   {
     "title": "New C++ language server config skill for Copilot CLI",
