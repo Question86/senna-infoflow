@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T12:19:09+00:00_
+_Generiert: 2026-07-01T13:20:32+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-01T12:19:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Italy
+- **GDACS: Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549565)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:536.709km) in Fiji 01/07/2026 10:42 UTC, 10 thousand in MMI II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549555)
   - Quelle: GDACS
   - Zeit: ``
@@ -216,6 +220,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. 💪 Exercises Dataset A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group dat…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Amazonで購入したモバイルバッテリーが発火して居宅が火災にあった場合の損害賠償責任｜渡邊博己** — Score 10, observation — [Quelle](https://note.com/nabe_2023/n/n25209f9e8b0c)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-01T10:21:52+00:00`, fetched `2026-07-01T13:20:06+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 東京地判令和4.4.15裁判所Web https://www.courts.go.jp/app/hanrei_jp/detail4?id=91198 １．事案の概要 Amazon(Ｙ)が運営する電子商取引サイトにおいて、Ｘが、充電式モバイルバッテリー（以下「本件バッテリー」という。）を購入した。Amazonのサイトの本件バッテリーの販売用ページには、販売者は「AUKEY JAPAN（メ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The VCs writing off Indonesia are making a US$300B mistake** — Score 10, observation — [Quelle](https://e27.co/the-vcs-writing-off-indonesia-are-making-a-us300b-mistake-20260701/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-01T04:51:38+00:00`, fetched `2026-07-01T05:25:56+00:00`
@@ -251,15 +264,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Car industry.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた** — Score 8, observation — [Quelle](https://zenn.dev/thorie/articles/548se-ai-driven-development)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-30T15:35:28+00:00`, fetched `2026-07-01T01:27:41+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 普段の業務でもAIを使って開発するようになり、ここ3ヶ月ほどは自分ではコードを書かずにアプリケーションを作れるようになってきています。しかし、ブラウンフィールド開発という事もあり細かく指示をしないとAIが思った通りに動かないことも多く、そんなに開発速度が上がっている実感はありませんでした。では、スクラ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **browser-use/video-use** — Score 8, opportunity — [Quelle](https://github.com/browser-use/video-use)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
