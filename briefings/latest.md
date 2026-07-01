@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T21:54:31+00:00_
+_Generiert: 2026-07-01T22:29:55+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,10 +65,6 @@ _Generiert: 2026-07-01T21:54:31+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.
-- **USGS earthquake M5.7 - 153 km SW of Hihifo, Tonga** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu)
-  - Quelle: USGS
-  - Zeit: `2026-07-01T21:13:41+00:00`
-  - Kurz: M5.7 - 153 km SW of Hihifo, Tonga. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

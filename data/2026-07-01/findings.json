@@ -843,6 +843,28 @@
     "id": "f135afa51b56532e9ec6"
   },
   {
+    "title": "Getting started with loops | Claude by Anthropic",
+    "url": "https://claude.com/blog/getting-started-with-loops",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T02:54:18+00:00",
+    "fetched_at": "2026-07-01T22:29:24+00:00",
+    "summary": "Triggered by: A user prompt.Stop criteria: Claude judges it has completed the task or needs additional context.Best used for: Shorter tasks that are not part of a regular process or schedule.Managed usage by: Write specific prompts and improve verification using skills to reduce the number of tur...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ffb036da202d8f620178"
+  },
+  {
     "title": "The death of the traditional org chart: How AI is reshaping work",
     "url": "https://e27.co/the-death-of-the-traditional-org-chart-how-ai-is-reshaping-work-20260626/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1570,6 +1592,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e2f646662613c3448c7f"
+  },
+  {
+    "title": "GitHub Models is being fully retired on July 30, 2026",
+    "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T21:30:20+00:00",
+    "fetched_at": "2026-07-01T22:29:24+00:00",
+    "summary": "In June, we announced that we are retiring GitHub Models and closed it to new customers. We’re now sharing the timeline for the next step: GitHub Models will be fully… The post GitHub Models is being fully retired on July 30, 2026 appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "225eeb360b4a3eb496be"
   },
   {
     "title": "Everyone told me to write for humans, but nobody told me humans can’t find my page",
