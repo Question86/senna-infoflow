@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T15:16:56+00:00_
+_Generiert: 2026-07-01T16:11:46+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Copilot CLI auto model selection routes based on task** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-01T15:13:29+00:00`, fetched `2026-07-01T16:11:19+00:00`
+  - Treffer: Copilot, GitHub, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: GitHub Copilot auto model selection now routes to the best model for your task in Copilot CLI, using utilization and model health metrics for a high quality, reliable, and token-efficient… The post Copilot CLI auto model selection routes based on task appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN20721579/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-01T14:00:00+09:00`, fetched `2026-07-01T05:25:56+00:00`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **6 security settings every GitHub maintainer should enable this week** — Score 11, observation — [Quelle](https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-01T15:59:29+00:00`, fetched `2026-07-01T16:11:19+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.5); recent (+1.0)
+  - Kurz: These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Zhu Hexin: New landscape of global capital flows and China's high-level opening-up** — Score 11, observation — [Quelle](https://www.bis.org/review/r260701e.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-07-01T13:01:00+00:00`, fetched `2026-07-01T15:16:29+00:00`
@@ -204,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: When a Jakarta anti-corruption court handed down a 10-year prison sentence to Nadiem Makarim on June 30, the noise from the venture capital community was immediate. A foreign VC with a presence in the archipelago reportedly told its partners to hold back on Indonesia and divert the focus only to other countries in the region. […] The post The VCs writing off Indonesia are making a US$300B mistake appeared first on e…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How centralised exchanges swapped crypto ethos for Wall Street fees: Why this will fail** — Score 10, risk — [Quelle](https://e27.co/how-centralised-exchanges-swapped-crypto-ethos-for-wall-street-fees-why-this-will-fail-20260701/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-01T03:55:45+00:00`, fetched `2026-07-01T05:25:56+00:00`
-  - Treffer: APAC Trend Radar, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Bitcoin has dropped 2.88 per cent within a 24-hour window, falling to a price of US$58,523.37. This downward trajectory occurs against the backdrop of the traditional equities market, signalling that the current vulnerability belongs uniquely to the crypto ecosystem. For an industry that spent the better part of the last two years celebrating the arrival […] The post How centralised exchanges swapped crypto ethos fo…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

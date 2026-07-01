@@ -136,6 +136,56 @@
     "id": "114a5b1be33bba41b081"
   },
   {
+    "title": "Copilot CLI auto model selection routes based on task",
+    "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T15:13:29+00:00",
+    "fetched_at": "2026-07-01T16:11:19+00:00",
+    "summary": "GitHub Copilot auto model selection now routes to the best model for your task in Copilot CLI, using utilization and model health metrics for a high quality, reliable, and token-efficient… The post Copilot CLI auto model selection routes based on task appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "Macro/Policy",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: election"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "f838eea4ef84dbc88a4a"
+  },
+  {
     "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
     "url": "https://jvn.jp/jp/JVN20721579/",
     "source": "JVN Japan Vulnerability Notes",
@@ -375,6 +425,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f7d7836376e6bf27b405"
+  },
+  {
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T15:59:29+00:00",
+    "fetched_at": "2026-07-01T16:11:19+00:00",
+    "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a5a7ac7b6f58b4fee3f9"
   },
   {
     "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
@@ -1274,5 +1345,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6368631b4cdb887be709"
+  },
+  {
+    "title": "「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった",
+    "url": "https://zenn.dev/dragon1208/articles/45708cc45a7a7c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-09T23:59:27+00:00",
+    "fetched_at": "2026-07-01T16:11:19+00:00",
+    "summary": "tmuxとの違い tmuxやZellijは汎用的なマルチプレクサとしては非常に優秀ですが、「現在動いているプロセスがAIエージェントである」という概念を持っていません。そのため、エージェントがAPIキーの入力を待って止まっていたとしても、画面を切り替えて確認するまで気づくことができません。Herdrはエージェント特有の状...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ce1309c14b3223f3e443"
   }
 ]

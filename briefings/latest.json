@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T15:16:56+00:00",
-  "run_id": "2026-07-01T15:16:56+00:00",
+  "generated_at": "2026-07-01T16:11:46+00:00",
+  "run_id": "2026-07-01T16:11:46+00:00",
   "date": "2026-07-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 3,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 7,
-    "observe": 45,
+    "medium": 8,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -164,6 +164,56 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "114a5b1be33bba41b081"
+      },
+      {
+        "title": "Copilot CLI auto model selection routes based on task",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-01T15:13:29+00:00",
+        "fetched_at": "2026-07-01T16:11:19+00:00",
+        "summary": "GitHub Copilot auto model selection now routes to the best model for your task in Copilot CLI, using utilization and model health metrics for a high quality, reliable, and token-efficient… The post Copilot CLI auto model selection routes based on task appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub",
+          "Macro/Policy",
+          "Watchgraph:elections_unrest"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: election"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "f838eea4ef84dbc88a4a"
       },
       {
         "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
@@ -407,6 +457,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f7d7836376e6bf27b405"
+      },
+      {
+        "title": "6 security settings every GitHub maintainer should enable this week",
+        "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-01T15:59:29+00:00",
+        "fetched_at": "2026-07-01T16:11:19+00:00",
+        "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a5a7ac7b6f58b4fee3f9"
       },
       {
         "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
@@ -1306,6 +1377,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6368631b4cdb887be709"
+      },
+      {
+        "title": "「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった",
+        "url": "https://zenn.dev/dragon1208/articles/45708cc45a7a7c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-09T23:59:27+00:00",
+        "fetched_at": "2026-07-01T16:11:19+00:00",
+        "summary": "tmuxとの違い tmuxやZellijは汎用的なマルチプレクサとしては非常に優秀ですが、「現在動いているプロセスがAIエージェントである」という概念を持っていません。そのため、エージェントがAPIキーの入力を待って止まっていたとしても、画面を切り替えて確認するまで気づくことができません。Herdrはエージェント特有の状...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ce1309c14b3223f3e443"
       }
     ]
   },
@@ -1445,6 +1537,56 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "114a5b1be33bba41b081"
+    },
+    {
+      "title": "Copilot CLI auto model selection routes based on task",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-01T15:13:29+00:00",
+      "fetched_at": "2026-07-01T16:11:19+00:00",
+      "summary": "GitHub Copilot auto model selection now routes to the best model for your task in Copilot CLI, using utilization and model health metrics for a high quality, reliable, and token-efficient… The post Copilot CLI auto model selection routes based on task appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub",
+        "Macro/Policy",
+        "Watchgraph:elections_unrest"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: election"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "f838eea4ef84dbc88a4a"
     },
     {
       "title": "セイコーソリューションズ製SkyBridge MB-A100/MB-A110におけるOSコマンドインジェクションの脆弱性",
@@ -1686,6 +1828,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f7d7836376e6bf27b405"
+    },
+    {
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-01T15:59:29+00:00",
+      "fetched_at": "2026-07-01T16:11:19+00:00",
+      "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5a7ac7b6f58b4fee3f9"
     },
     {
       "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
@@ -2585,135 +2748,53 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6368631b4cdb887be709"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-01T15:16:44+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "52897479803cbb6d2575"
     },
     {
-      "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
-      "url": "https://www.bis.org/review/r260701c.htm",
-      "source": "BIS Central Bankers Speeches",
+      "title": "「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった",
+      "url": "https://zenn.dev/dragon1208/articles/45708cc45a7a7c",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-01T12:50:00+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Speech by Mr Naoki Tamura, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Hyogo, 25 June 2026.",
+      "published_at": "2026-06-09T23:59:27+00:00",
+      "fetched_at": "2026-07-01T16:11:19+00:00",
+      "summary": "tmuxとの違い tmuxやZellijは汎用的なマルチプレクサとしては非常に優秀ですが、「現在動いているプロセスがAIエージェントである」という概念を持っていません。そのため、エージェントがAPIキーの入力を待って止まっていたとしても、画面を切り替えて確認するまで気づくことができません。Herdrはエージェント特有の状...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c2bbe4f7e42e2a8c36a5"
-    },
+      "id": "ce1309c14b3223f3e443"
+    }
+  ],
+  "new_findings": [
     {
-      "title": "Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks",
-      "url": "https://www.bis.org/review/r260701a.htm",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Copilot CLI auto model selection routes based on task",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-01T12:43:00+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the \"6th Dolomiti Macro Meeting\", organised by Free University of Bozen, BI Norwegian Business School, Centre for Applied Macroeconomics and Commodity Prices (CAMP), Bozen, 20 June 2026.",
+      "published_at": "2026-07-01T15:13:29+00:00",
+      "fetched_at": "2026-07-01T16:11:19+00:00",
+      "summary": "GitHub Copilot auto model selection now routes to the best model for your task in Copilot CLI, using utilization and model health metrics for a high quality, reliable, and token-efficient… The post Copilot CLI auto model selection routes based on task appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "macro",
+        "Copilot",
+        "GitHub",
         "Macro/Policy",
-        "Watchgraph:sports_sf_tech_events"
+        "Watchgraph:elections_unrest"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "sports_sf_tech_events"
+        "elections_unrest"
       ],
       "watchgraph_reasons": [
-        "sports_sf_tech_events: Olympics"
-      ],
-      "market_context": [
-        "DIS",
-        "CMCSA",
-        "ABNB",
-        "BKNG",
-        "DAL",
-        "UAL",
-        "TKO",
-        "FWONK",
-        "AAL",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "cab08b9b37ce7e231c34"
-    },
-    {
-      "title": "Zhu Hexin: New landscape of global capital flows and China's high-level opening-up",
-      "url": "https://www.bis.org/review/r260701e.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-07-01T13:01:00+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Keynote speech by Mr Zhu Hexin, Deputy Governor of the People's Bank of China and SAFE Administrator, at the 2026 Lujiazui Forum, Shanghai, 17 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Shanghai (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
+        "elections_unrest: election"
       ],
       "market_context": [
         "LMT",
@@ -2722,6 +2803,12 @@
         "GD",
         "RHM.DE",
         "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
         "SPY",
         "QQQ",
         "DAX",
@@ -2733,89 +2820,49 @@
         "EWC",
         "EWZ"
       ],
-      "id": "36eaa3cfb1cedf3ebb9f"
+      "id": "f838eea4ef84dbc88a4a"
     },
     {
-      "title": "Andrew Hauser: \"The straight line belongs to man, the curved line belongs to God\"",
-      "url": "https://www.bis.org/review/r260701d.htm",
-      "source": "BIS Central Bankers Speeches",
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-01T12:56:00+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Text of the Sir Douglas Copland Memorial Lecture to the Economic Society of Australia (Victoria) by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, Melbourne, 24 June 2026.",
+      "published_at": "2026-07-01T15:59:29+00:00",
+      "fetched_at": "2026-07-01T16:11:19+00:00",
+      "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Macro/Policy"
+        "GitHub",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "51360eaf9f971e628c22"
+      "id": "a5a7ac7b6f58b4fee3f9"
     },
     {
-      "title": "Lisa D Cook: Welcome remarks - State of Small Business Symposium",
-      "url": "https://www.bis.org/review/r260701b.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-07-01T12:47:00+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Welcome remarks (via pre-recorded video) by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the State of Small Business Symposium, hosted by the Federal Reserve Bank of Cleveland, 24 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a94e034429e53535951f"
-    },
-    {
-      "title": "はてなブログに Amazon CloudFront SaaS Manager を導入した話 - Hatena Developer Blog",
-      "url": "https://developer.hatenastaff.com/entry/2026/07/01/183904",
+      "title": "「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった",
+      "url": "https://zenn.dev/dragon1208/articles/45708cc45a7a7c",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-01T09:56:49+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "はじめに この記事は SRE 連載です。 前月の記事は id:k1s1eee さんの社内にLiteLLM Proxy（OSS版）を導入してマルチプロバイダLLM運用基盤を作った話でした。 id:hagihala です。 去年から今年の上半期にかけてはてなブログに Amazon CloudFront SaaS Manager (以下 SaaS Manager) を導入し、ブログへのトラフィックを ...",
+      "published_at": "2026-06-09T23:59:27+00:00",
+      "fetched_at": "2026-07-01T16:11:19+00:00",
+      "summary": "tmuxとの違い tmuxやZellijは汎用的なマルチプレクサとしては非常に優秀ですが、「現在動いているプロセスがAIエージェントである」という概念を持っていません。そのため、エージェントがAPIキーの入力を待って止まっていたとしても、画面を切り替えて確認するまで気づくことができません。Herdrはエージェント特有の状...",
       "matched_keywords": [
-        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ff55ddb1a3016b35e5aa"
-    },
-    {
-      "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",
-      "url": "https://www.bis.org/review/r260701i.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-07-01T13:31:00+00:00",
-      "fetched_at": "2026-07-01T15:16:29+00:00",
-      "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 5 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "50f9f289585a7cfc2a49"
+      "id": "ce1309c14b3223f3e443"
     }
   ],
   "source_errors": [],
