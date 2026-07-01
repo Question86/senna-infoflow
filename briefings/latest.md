@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T16:11:46+00:00_
+_Generiert: 2026-07-01T17:02:38+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年06月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 50 km ENE of Kuji, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9fz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-01T16:41:41.040+00:00`, fetched `2026-07-01T17:02:10+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-01 16:15:34 UTC 2026-07-01 16:15:34 UTC at epicenter Location 40.390°N 142.304°E Depth 64.61 km (40.15 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Copilot CLI auto model selection routes based on task** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-01T15:13:29+00:00`, fetched `2026-07-01T16:11:19+00:00`
@@ -136,6 +145,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-55957, CVE-2026-55956, CVE-2026-55955, CVE-2026-55276, CVE-2026-53434, CVE-2026-53404, CVE-2026-50229）に対してアドバイザリが公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由** — Score 14, observation — [Quelle](https://zenn.dev/canly/articles/428767121d7dc2)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-01T07:53:17+00:00`, fetched `2026-07-01T17:02:10+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由 本記事は、カンリー社内で実施している AI 共有会で話した内容を記事化したものです(2026 年 6 月時点の macOS 版 Claude Desktop アプリの実機運用に基づく感想記事)。 はじめに 皆さんは Claude Code をどう起動して使っていますか？ タ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Thailand’s Amity Robotics raises US$7M to take physical AI from malls to global markets** — Score 14, observation — [Quelle](https://e27.co/thailands-amity-robotics-raises-us7m-to-take-physical-ai-from-malls-to-global-markets-20260701/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-01T03:17:06+00:00`, fetched `2026-07-01T03:51:06+00:00`
