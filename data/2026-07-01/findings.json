@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-01T17:45:50+00:00",
-    "fetched_at": "2026-07-01T17:45:31+00:00",
+    "published_at": "2026-07-01T21:17:07+00:00",
+    "fetched_at": "2026-07-01T21:16:52+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "449205c778e66220ec3f"
+    "id": "061a1231ae7ce820e5cc"
   },
   {
     "title": "diegosouzapw/OmniRoute",
@@ -1201,6 +1201,27 @@
     "id": "67c9ddb78e0922fd8487"
   },
   {
+    "title": "New C++ language server config skill for Copilot CLI",
+    "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T20:32:52+00:00",
+    "fetched_at": "2026-07-01T21:16:52+00:00",
+    "summary": "The Microsoft C++ Language Server is now available as a plugin on the Copilot Plugins marketplace. It includes a new built-in setup skill that helps automate project setup, making it… The post New C++ language server config skill for Copilot CLI appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49fa7129fd320ae57ddf"
+  },
+  {
     "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
     "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
     "source": "GitHub Changelog Atom",
@@ -1301,6 +1322,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0687f8204f05df366eeb"
+  },
+  {
+    "title": "PayPay、他社カード利用を8月末で終了 新方式「他社カード利用券」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2121682.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T11:58:04+00:00",
+    "fetched_at": "2026-07-01T21:16:52+00:00",
+    "summary": "PayPay、他社カード利用を8月末で終了 新方式「他社カード利用券」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f27ef8d305c0b5193dae"
   },
   {
     "title": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",

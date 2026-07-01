@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T20:43:57+00:00_
+_Generiert: 2026-07-01T21:17:18+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+64 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-01T20:43:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Italy
+- **GDACS: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (30.201 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (30.201 million in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549600)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,10 @@ _Generiert: 2026-07-01T20:43:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:536.709km) in Fiji 01/07/2026 10:42 UTC, 10 thousand in MMI II.
-- **GDACS: Green notification for tropical cyclone FOUR-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001280)
+- **GDACS: Green notification for tropical cyclone DOUGLAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001280)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FOUR-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone DOUGLAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Red notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
   - Quelle: GDACS
   - Zeit: ``
@@ -79,7 +83,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-01T17:45:50+00:00`, fetched `2026-07-01T17:45:31+00:00`
+  - Zeit: published `2026-07-01T21:17:07+00:00`, fetched `2026-07-01T21:16:52+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
