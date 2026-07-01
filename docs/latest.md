@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T17:46:02+00:00_
+_Generiert: 2026-07-01T18:29:25+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+59 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.5 - 50 km SW of Jurm, Afghanistan** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-01T18:27:27.479+00:00`, fetched `2026-07-01T18:28:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-07-01 17:57:03 UTC 2026-07-01 17:57:03 UTC at epicenter Location 36.532°N 70.447°E Depth 216.69 km (134.65 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Naoki Tamura: Economic activity, prices and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/review/r260701c.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-07-01T12:50:00+00:00`, fetched `2026-07-01T15:16:29+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-01 02:00:38 UTC 2026-07-01 02:00:38 UTC at epicenter Location 8.856°S 74.831°W Depth 130.53 km (81.10 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 268 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-06-30T23:58:30.040+00:00`, fetched `2026-07-01T00:18:30+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-06-30 23:44:55 UTC 2026-06-30 23:44:55 UTC at epicenter Location 37.816°N 95.427°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **hasaneyldrm/exercises-dataset** — Score 11, observation — [Quelle](https://github.com/hasaneyldrm/exercises-dataset)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

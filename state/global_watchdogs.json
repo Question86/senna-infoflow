@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T17:46:06+00:00",
+  "generated_at": "2026-07-01T18:29:29+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 8.8 million in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 8.8 million in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549600",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.",
         "summary": "Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.",
         "source": "GDACS",
@@ -131,6 +141,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549176",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 50 km SW of Jurm, Afghanistan",
+        "summary": "M5.5 - 50 km SW of Jurm, Afghanistan. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg",
+        "published_at": "2026-07-01T17:57:03+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 466.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

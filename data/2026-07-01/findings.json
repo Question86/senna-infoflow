@@ -313,6 +313,44 @@
     "id": "a5ce68ab2c492e07a2fb"
   },
   {
+    "title": "M 5.5 - 50 km SW of Jurm, Afghanistan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-01T18:27:27.479+00:00",
+    "fetched_at": "2026-07-01T18:28:59+00:00",
+    "summary": "PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-07-01 17:57:03 UTC 2026-07-01 17:57:03 UTC at epicenter Location 36.532°N 70.447°E Depth 216.69 km (134.65 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "71eaa0efafc139061521"
+  },
+  {
     "title": "Naoki Tamura: Economic activity, prices and monetary policy in Japan",
     "url": "https://www.bis.org/review/r260701c.htm",
     "source": "BIS Central Bankers Speeches",
