@@ -892,6 +892,28 @@
     "id": "59bccff3000abb91e5fa"
   },
   {
+    "title": "Set AI credit session limits in Copilot CLI and SDK",
+    "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T18:33:24+00:00",
+    "fetched_at": "2026-07-01T19:13:41+00:00",
+    "summary": "You can now set AI credit session limits in Copilot CLI and the GitHub Copilot SDK to cap the amount an agent spends in a session. This is especially useful… The post Set AI credit session limits in Copilot CLI and SDK appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "029cdf7d7b464fa8f69b"
+  },
+  {
     "title": "Browser tools for GitHub Copilot in VS Code are generally available",
     "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
     "source": "GitHub Changelog Atom",
@@ -1177,6 +1199,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "67c9ddb78e0922fd8487"
+  },
+  {
+    "title": "Copilot vision is generally available",
+    "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-01T18:39:17+00:00",
+    "fetched_at": "2026-07-01T19:13:41+00:00",
+    "summary": "Copilot vision is now generally available. You can attach images and PDFs directly to your chat prompts so Copilot can reason about what it sees alongside your code. Supported file… The post Copilot vision is generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fae4e0a67e30e1debef7"
   },
   {
     "title": "Timur M Suleimenov: Statement - base rate of the National Bank of Kazakhstan",

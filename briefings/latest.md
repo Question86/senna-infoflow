@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T18:29:25+00:00_
+_Generiert: 2026-07-01T19:14:07+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-07-01T18:29:25+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.
-- **USGS earthquake M5.5 - 50 km SW of Jurm, Afghanistan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg)
-  - Quelle: USGS
-  - Zeit: `2026-07-01T17:57:03+00:00`
-  - Kurz: M5.5 - 50 km SW of Jurm, Afghanistan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

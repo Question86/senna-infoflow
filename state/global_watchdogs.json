@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T18:29:29+00:00",
+  "generated_at": "2026-07-01T19:14:09+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,21 +141,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549176",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 50 km SW of Jurm, Afghanistan",
-        "summary": "M5.5 - 50 km SW of Jurm, Afghanistan. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg",
-        "published_at": "2026-07-01T17:57:03+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 466.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
