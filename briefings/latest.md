@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T00:18:57+00:00_
+_Generiert: 2026-07-01T01:28:07+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 268 km SSE of Dunhuang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+6 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年6月）“ aus JVN Japan Vulnerability Notes (Score 13, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Siemens製品に対するアップデート（2026年6月）** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU93818675/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-06-03T09:40:15+09:00`, fetched `2026-07-01T01:27:41+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Siemensから各製品向けのアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 268 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-06-30T23:58:30.040+00:00`, fetched `2026-07-01T00:18:30+00:00`
@@ -70,6 +79,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-06-30 23:44:55 UTC 2026-06-30 23:44:55 UTC at epicenter Location 37.816°N 95.427°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた** — Score 8, observation — [Quelle](https://zenn.dev/thorie/articles/548se-ai-driven-development)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-30T15:35:28+00:00`, fetched `2026-07-01T01:27:41+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 普段の業務でもAIを使って開発するようになり、ここ3ヶ月ほどは自分ではコードを書かずにアプリケーションを作れるようになってきています。しかし、ブラウンフィールド開発という事もあり細かく指示をしないとAIが思った通りに動かないことも多く、そんなに開発速度が上がっている実感はありませんでした。では、スクラ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GoogleユーザーのIPv6利用率がついに50％を超えたことが判明** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/googleipv650.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-30T21:20:18+00:00`, fetched `2026-07-01T00:18:30+00:00`
@@ -87,6 +105,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIに人生を相談する人がいる、と聞いても、もう驚かなくなりました。便利で、優しくて、いつでもそばにいてくれる。そんな存在に頼ることの、何がいけないのか――。1994年に完結した宮崎駿さんの漫画版『風の…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **What facilitation taught me about learning, leadership, and building things that last** — Score 4, observation — [Quelle](https://e27.co/what-facilitation-taught-me-about-learning-leadership-and-building-things-that-last-20260531/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T01:00:02+00:00`, fetched `2026-07-01T01:27:41+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Most of us have sat through more training, workshops, and professional programmes than we can remember. In the moment, they often feel meaningful. We leave energised, pages filled with notes, ideas sparking, and a quiet belief that something has shifted. But time has a way of clarifying things. A few months later, the details blur. […] The post What facilitation taught me about learning, leadership, and building thi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
