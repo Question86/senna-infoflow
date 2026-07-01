@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-01T06:57:59+00:00_
+_Generiert: 2026-07-01T08:31:56+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,14 +37,14 @@ _Generiert: 2026-07-01T06:57:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green flood alert in Venezuela** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103982)
+- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Venezuela
-- **GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
+  - Kurz: Green flood alert in Türkiye
+- **GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 59760 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .
+  - Kurz: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 59760 .
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 9 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549440)
   - Quelle: GDACS
   - Zeit: ``
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. 🚀 OmniRoute — The Free AI Gateway Never stop coding. Connect every AI tool to 236 providers — 50+ free — through one endpoint. Plug Claude Code, Codex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore’s Acti raises US$5.3M to turn the keyboard into an AI agent layer** — Score 19, observation — [Quelle](https://e27.co/singapores-acti-raises-us5-3m-to-turn-the-keyboard-into-an-ai-agent-layer-20260701/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-01T08:09:25+00:00`, fetched `2026-07-01T08:31:28+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore-based Acti has secured US$5.3 million in seed funding to build what it calls an “agentic keyboard”, a product that aims to move AI assistance away from standalone chat apps and into the interface people use across almost every digital interaction. The round was led by US-based BITKRAFT Ventures, an investor better known for backing […] The post Singapore’s Acti raises US$5.3M to turn the keyboard into an A…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年06月30日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99876312/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -152,6 +161,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup requi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260058 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260058.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-07-01T08:15:23+00:00`, fetched `2026-07-01T08:31:28+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260058 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/01/news027.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -243,23 +261,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
   - Kurz: Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead space between take…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **国家資格等のオンライン・デジタル化に関する動画を追加しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/government-certification)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-01T06:00:00+00:00`, fetched `2026-07-01T06:57:32+00:00`
-  - Treffer: APAC Trend Radar
+- **Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-01T07:46:00.000+00:00`, fetched `2026-07-01T08:31:28+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 国家資格等のオンライン・デジタル化に関する動画を追加しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年7月1日付デジタル庁幹部一覧を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-01T06:00:00+00:00`, fetched `2026-07-01T06:57:32+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年7月1日付デジタル庁幹部一覧を掲載しました
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Flut an identifizierten Sicherheitslücken reißt nicht ab, im Chrome werden jetzt erneut fast 400 geschlossen. Ob die Zahl wieder sinken wird, ist unklar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

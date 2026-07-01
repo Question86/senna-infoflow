@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T06:58:02+00:00",
+  "generated_at": "2026-07-01T08:31:59+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,18 +85,18 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Venezuela",
-        "summary": "Green flood alert in Venezuela",
+        "title": "GDACS: Green flood alert in Türkiye",
+        "summary": "Green flood alert in Türkiye",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103982",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103920",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
-        "summary": "Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
+        "title": "GDACS: Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 59760 .",
+        "summary": "Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 59760 .",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279",
         "published_at": "",
