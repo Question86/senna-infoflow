@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T06:12:04+00:00_
+_Generiert: 2026-07-02T07:28:28+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open source design system that's fully customizable and agent ready Astryx An open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them. Currently in Beta · Built on React and StyleX Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in th…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **ツッコミどころは満載だが……東京3000年の歴史をタイムラプス化したどこかヘンなYouTube動画【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2121791.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-02T03:30:51+00:00`, fetched `2026-07-02T07:28:02+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ツッコミどころは満載だが……東京3000年の歴史をタイムラプス化したどこかヘンなYouTube動画【やじうまWatch】
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/02/news059.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-02T01:03:53+00:00`, fetched `2026-07-02T02:07:11+00:00`
@@ -177,20 +186,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン（mao-asada.jp）を、GMOインターネットグループの「お名前.com」が、「SEO効果を最大化」「アフィリエイトサイトに」などとうたって販売していることに、批判が集まっている。 著名なサイトのドメインが第三者の手にわたると、公式サイトを模したフィッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIに「相手に電気ショックを与えろ」と命じ続けたらボタンを押すのか？ 11のLLMで“ミルグラム実験” 抵抗できたのは……** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/02/news029.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-01T23:31:17+00:00`, fetched `2026-07-02T01:16:43+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
