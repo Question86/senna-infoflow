@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T21:46:10+00:00",
+  "generated_at": "2026-07-02T22:15:59+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Slovakia",
+        "summary": "Green flood alert in Slovakia",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Thailand",
         "summary": "Green flood alert in Thailand",
         "source": "GDACS",
@@ -79,16 +89,6 @@
         "summary": "Green flood alert in Nigeria",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103997",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Slovakia",
-        "summary": "Green flood alert in Slovakia",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998",
         "published_at": "",
         "metrics": {}
       },

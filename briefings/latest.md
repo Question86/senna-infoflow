@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T21:46:07+00:00_
+_Generiert: 2026-07-02T22:15:57+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+64 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-07-02T21:46:07+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
+- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103996)
   - Quelle: GDACS
   - Zeit: ``
@@ -37,10 +41,6 @@ _Generiert: 2026-07-02T21:46:07+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nigeria
-- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549627)
   - Quelle: GDACS
   - Zeit: ``
@@ -138,6 +138,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Copilot CLI no longer needs a personal access token in GitHub Actions** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-02T20:25:32+00:00`, fetched `2026-07-02T22:15:30+00:00`
+  - Treffer: Actions, Copilot, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Copilot (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: You can now run GitHub Copilot CLI in GitHub Actions using the built-in GITHUB_TOKEN. This means that you no longer need to create and store a personal access token (PAT),… The post Copilot CLI no longer needs a personal access token in GitHub Actions appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 39 km E of Uonuma, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9m5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
