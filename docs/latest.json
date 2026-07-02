@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T14:54:04+00:00",
-  "run_id": "2026-07-02T14:54:04+00:00",
+  "generated_at": "2026-07-02T15:45:53+00:00",
+  "run_id": "2026-07-02T15:45:53+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 1,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 8,
+    "medium": 9,
     "observe": 40,
     "source_errors": 0
   },
@@ -301,6 +301,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dfef583437f7bfe1fb41"
+      },
+      {
+        "title": "Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
+        "url": "https://e27.co/qualcomm-announces-15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T15:30:40+00:00",
+        "fetched_at": "2026-07-02T15:45:28+00:00",
+        "summary": "San Diego, June 22, 2026 — Qualcomm Technologies, Inc. announced the 15 shortlisted startups selected to advance in the Qualcomm® AI Program for Innovators (QAIPI) 2026, recognising startups developing next-generation AI solutions across industries. Representing Japan, Singapore, and South Korea, the selected teams were recognised for their innovative AI technologies and solutions to address real-world […] The post…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region south_korea: South Korea (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1af8c358090f6dd64589"
       }
     ],
     "observe": [
@@ -1618,6 +1639,27 @@
       "id": "dfef583437f7bfe1fb41"
     },
     {
+      "title": "Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
+      "url": "https://e27.co/qualcomm-announces-15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T15:30:40+00:00",
+      "fetched_at": "2026-07-02T15:45:28+00:00",
+      "summary": "San Diego, June 22, 2026 — Qualcomm Technologies, Inc. announced the 15 shortlisted startups selected to advance in the Qualcomm® AI Program for Innovators (QAIPI) 2026, recognising startups developing next-generation AI solutions across industries. Representing Japan, Singapore, and South Korea, the selected teams were recognised for their innovative AI technologies and solutions to address real-world […] The post…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region south_korea: South Korea (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1af8c358090f6dd64589"
+    },
+    {
       "title": "The rise of AI twins: From assistant to infrastructure",
       "url": "https://e27.co/the-rise-of-ai-twins-from-assistant-to-infrastructure-20260626/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2657,48 +2699,25 @@
   ],
   "new_findings": [
     {
-      "title": "tmuxでいいじゃんと思ってた僕がHerdr(fork)を常用しはじめた話 | 僕のYak Shavingは終わらない2",
-      "url": "https://kazuph.github.io/blog/2026/05/28/tmux-herdr-agent-multiplexer/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
+      "url": "https://e27.co/qualcomm-announces-15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-02T09:59:33+00:00",
-      "fetched_at": "2026-07-02T14:53:40+00:00",
-      "summary": "Herdr(fork) で space を切り替えたり、pane menu からレイアウトを変えたりしているところ。 はじめに tmux は新卒のころから 10 年以上使っています。 なので、最初に Herdr を見た時も正直こう思っていました。 tmux でいいじゃん！ ペインは割れるし、別ターミナルから attach できるし、SSH 越しでも使える。なんな...",
+      "published_at": "2026-07-02T15:30:40+00:00",
+      "fetched_at": "2026-07-02T15:45:28+00:00",
+      "summary": "San Diego, June 22, 2026 — Qualcomm Technologies, Inc. announced the 15 shortlisted startups selected to advance in the Qualcomm® AI Program for Innovators (QAIPI) 2026, recognising startups developing next-generation AI solutions across industries. Representing Japan, Singapore, and South Korea, the selected teams were recognised for their innovative AI technologies and solutions to address real-world […] The post…",
       "matched_keywords": [
-        "agent",
-        "GitHub",
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region south_korea: South Korea (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3453046605fe21d85301"
-    },
-    {
-      "title": "LINEに「プレミアムブロック」や送信メッセージ編集、通話録音など4つの新機能 今秋以降、LYPプレミアムで提供",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2607/02/news101.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-02T09:02:57+00:00",
-      "fetched_at": "2026-07-02T14:53:40+00:00",
-      "summary": "LINEヤフーは7月2日、コミュニケーションアプリ「LINE」に送信済みのメッセージを編集できる機能や、相手の友だちリストから自身を削除できる「プレミアムブロック」など、4つの新機能を導入すると発表した。8月以降、開発中の機能を試せる「LINEラボ」で提供を開始し、今秋以降は月額サービス「LYPプレミアム」の特典と...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "edc5942b3c72172373f2"
+      "id": "1af8c358090f6dd64589"
     }
   ],
   "source_errors": [],

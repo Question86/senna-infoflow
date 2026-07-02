@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T14:54:07+00:00",
+  "generated_at": "2026-07-02T15:45:55+00:00",
   "sections": {
     "global_security": [
       {
@@ -105,8 +105,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.193 million in Tropical Storm).",
-        "summary": "Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.193 million in Tropical Storm).",
+        "title": "GDACS: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.77 million in Tropical Storm).",
+        "summary": "Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.77 million in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281",
         "published_at": "",
@@ -155,8 +155,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
-        "summary": "Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
+        "title": "GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 48400 .",
+        "summary": "Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 48400 .",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279",
         "published_at": "",
