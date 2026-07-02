@@ -447,6 +447,28 @@
     "id": "036a83be073690d20eaf"
   },
   {
+    "title": "ソフトバンクG、OpenAIに1兆6273億円の追加出資 第3弾は10月に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T10:02:57+00:00",
+    "fetched_at": "2026-07-02T13:57:49+00:00",
+    "summary": "ソフトバンクグループは7月1日、米OpenAIへの総額300億ドル（約4兆6743億円）の追加出資のうち、第2弾となる100億ドル（同1兆6273億円）を実行したと発表した。残る第3弾の100億ドルは10月1日に予定する。 300億ドルの追加出資は、2月27日にOpenAIと結んだ契約に基づき、100億ドルずつ3回に分けて実行するもの。第1弾は4...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c5b84ffa3d8d81ed1e90"
+  },
+  {
     "title": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
     "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/opensource-review-meeting/d90e5cd7-8a26-4d5e-8c8e-e6802c3c663b",
     "source": "Japan Digital Agency News RSS",
@@ -829,6 +851,28 @@
       "PINS"
     ],
     "id": "fb77a07a71aef35d7e4c"
+  },
+  {
+    "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
+    "url": "https://gigazine.net/news/20260702-godot-ban-ai/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-02T11:45:02+00:00",
+    "fetched_at": "2026-07-02T13:57:49+00:00",
+    "summary": "「Slay the Spire 2」や「Brotato」などのゲームを支えるオープンソースのゲームエンジン「Godot」が、AIで生成した大量のプルリクエストに悩まされていることを理由に、今後は自律型AIエージェントやバイブコーディングによるプルリクエストを受け付けないという判断を下しました。 Changes to our Contribution Polici...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36192613768fb2b19f2d"
   },
   {
     "title": "Frank Elderson: The green transition – benefits and barriers",
