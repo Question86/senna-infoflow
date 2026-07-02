@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T22:15:57+00:00",
-  "run_id": "2026-07-02T22:15:57+00:00",
+  "generated_at": "2026-07-02T22:43:37+00:00",
+  "run_id": "2026-07-02T22:43:37+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 65
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
     "medium": 12,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1400,6 +1400,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5a02fff1f7958c93c294"
+      },
+      {
+        "title": "「モバイルSuica」復旧後も続く混乱…「物理カード最強説」再浮上 今さら聞けない自衛策を解説",
+        "url": "https://www.itmedia.co.jp/mobile/articles/2607/02/news114.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T12:02:59+00:00",
+        "fetched_at": "2026-07-02T22:43:11+00:00",
+        "summary": "7月1日の朝、通勤や通学のラッシュ時間帯に「モバイルSuica」で大規模な通信障害が発生した。朝8時頃から夕方まで、アプリでのチャージや定期券の購入ができない状態が続き、多くの利用者が影響を受けた。JR東日本の発表によると、外部システムと接続するサーバの不具合が原因だ。同日17時34分頃には復旧した。生活イン...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "39e8e798739ff9869dd0"
       },
       {
         "title": "LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
@@ -3087,6 +3108,27 @@
       "id": "5a02fff1f7958c93c294"
     },
     {
+      "title": "「モバイルSuica」復旧後も続く混乱…「物理カード最強説」再浮上 今さら聞けない自衛策を解説",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2607/02/news114.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T12:02:59+00:00",
+      "fetched_at": "2026-07-02T22:43:11+00:00",
+      "summary": "7月1日の朝、通勤や通学のラッシュ時間帯に「モバイルSuica」で大規模な通信障害が発生した。朝8時頃から夕方まで、アプリでのチャージや定期券の購入ができない状態が続き、多くの利用者が影響を受けた。JR東日本の発表によると、外部システムと接続するサーバの不具合が原因だ。同日17時34分頃には復旧した。生活イン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39e8e798739ff9869dd0"
+    },
+    {
       "title": "LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
       "url": "https://www.itmedia.co.jp/news/articles/2607/02/news110.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3401,27 +3443,25 @@
   ],
   "new_findings": [
     {
-      "title": "Copilot CLI no longer needs a personal access token in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "source": "GitHub Changelog Atom",
+      "title": "「モバイルSuica」復旧後も続く混乱…「物理カード最強説」再浮上 今さら聞けない自衛策を解説",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2607/02/news114.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T20:25:32+00:00",
-      "fetched_at": "2026-07-02T22:15:30+00:00",
-      "summary": "You can now run GitHub Copilot CLI in GitHub Actions using the built-in GITHUB_TOKEN. This means that you no longer need to create and store a personal access token (PAT),… The post Copilot CLI no longer needs a personal access token in GitHub Actions appeared first on The GitHub Blog .",
+      "published_at": "2026-07-02T12:02:59+00:00",
+      "fetched_at": "2026-07-02T22:43:11+00:00",
+      "summary": "7月1日の朝、通勤や通学のラッシュ時間帯に「モバイルSuica」で大規模な通信障害が発生した。朝8時頃から夕方まで、アプリでのチャージや定期券の購入ができない状態が続き、多くの利用者が影響を受けた。JR東日本の発表によると、外部システムと接続するサーバの不具合が原因だ。同日17時34分頃には復旧した。生活イン...",
       "matched_keywords": [
-        "Actions",
-        "Copilot",
-        "GitHub",
-        "GitHub Actions"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Copilot (+2.5); Actions (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9dbed8bff92998fe7eef"
+      "id": "39e8e798739ff9869dd0"
     }
   ],
   "source_errors": [],
