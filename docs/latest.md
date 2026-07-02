@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T15:45:53+00:00_
+_Generiert: 2026-07-02T16:27:32+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew participation from financial institutions and venture platforms across Singapore, Hong Kong, […] The post LinqAlpha raises US$22M to bring a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How GitHub used secret scanning to reach inbox zero** — Score 18, observation — [Quelle](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-02T16:00:00+00:00`, fetched `2026-07-02T16:27:07+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **BYD co-founder-backed OMOWAY bags funding to join Southeast Asia’s electric motorcycle race** — Score 18, observation — [Quelle](https://e27.co/byd-co-founder-backed-omoway-bags-funding-to-join-southeast-asias-electric-motorcycle-race-20260702/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
