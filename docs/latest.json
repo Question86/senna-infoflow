@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T19:01:51+00:00",
-  "run_id": "2026-07-02T19:01:51+00:00",
+  "generated_at": "2026-07-02T19:41:35+00:00",
+  "run_id": "2026-07-02T19:41:35+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
     "medium": 10,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1239,6 +1239,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5a02fff1f7958c93c294"
+      },
+      {
+        "title": "LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/02/news110.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T11:02:32+00:00",
+        "fetched_at": "2026-07-02T19:41:08+00:00",
+        "summary": "LINEヤフーは7月2日、ブロックした相手の友だちリストから自分が消える「プレミアムブロック」など4つの新機能を発表した。まずは全ユーザーが新機能を試せる「LINEラボ」で8月から先行公開。秋以降は、月額制メンバーシップ「LYPプレミアム」（月508円）の新特典として順次提供する。 LINEのブロック機能は、相手からの...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb36d3d313e6a6d76370"
       },
       {
         "title": "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵",
@@ -2702,6 +2723,27 @@
       "id": "5a02fff1f7958c93c294"
     },
     {
+      "title": "LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news110.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T11:02:32+00:00",
+      "fetched_at": "2026-07-02T19:41:08+00:00",
+      "summary": "LINEヤフーは7月2日、ブロックした相手の友だちリストから自分が消える「プレミアムブロック」など4つの新機能を発表した。まずは全ユーザーが新機能を試せる「LINEラボ」で8月から先行公開。秋以降は、月額制メンバーシップ「LYPプレミアム」（月508円）の新特典として順次提供する。 LINEのブロック機能は、相手からの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb36d3d313e6a6d76370"
+    },
+    {
       "title": "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵",
       "url": "https://zenn.dev/uhyo/articles/react-profession-bench-9",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2953,25 +2995,25 @@
   ],
   "new_findings": [
     {
-      "title": "Cost centers now support AI credit pools",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "source": "GitHub Changelog Atom",
+      "title": "LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news110.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T16:00:51+00:00",
-      "fetched_at": "2026-07-02T19:01:20+00:00",
-      "summary": "You can now cap how much of your enterprise’s monthly included AI credits a cost center can use. This is available through the REST API today. Management in the cost… The post Cost centers now support AI credit pools appeared first on The GitHub Blog .",
+      "published_at": "2026-07-02T11:02:32+00:00",
+      "fetched_at": "2026-07-02T19:41:08+00:00",
+      "summary": "LINEヤフーは7月2日、ブロックした相手の友だちリストから自分が消える「プレミアムブロック」など4つの新機能を発表した。まずは全ユーザーが新機能を試せる「LINEラボ」で8月から先行公開。秋以降は、月額制メンバーシップ「LYPプレミアム」（月508円）の新特典として順次提供する。 LINEのブロック機能は、相手からの...",
       "matched_keywords": [
-        "AI/KI",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "14b7fee42cce533030d8"
+      "id": "bb36d3d313e6a6d76370"
     }
   ],
   "source_errors": [],
