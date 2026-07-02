@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T04:47:47+00:00",
-  "run_id": "2026-07-02T04:47:47+00:00",
+  "generated_at": "2026-07-02T06:12:04+00:00",
+  "run_id": "2026-07-02T06:12:04+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 9,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 3,
-    "observe": 16,
+    "medium": 5,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -70,6 +70,73 @@
           "LOW"
         ],
         "id": "b3b4f0bfc1f11c73ee57"
+      },
+      {
+        "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
+        "url": "https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T06:00:31+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew participation from financial institutions and venture platforms across Singapore, Hong Kong, […] The post LinqAlpha raises US$22M to bring a…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b71a3b436ee0b73f5cbb"
+      },
+      {
+        "title": "BYD co-founder-backed OMOWAY bags funding to join Southeast Asia’s electric motorcycle race",
+        "url": "https://e27.co/byd-co-founder-backed-omoway-bags-funding-to-join-southeast-asias-electric-motorcycle-race-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T04:54:40+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "OMOWAY, a China-born intelligent mobility startup building smart electric motorcycles, has completed consecutive Series A and Series A+ financing rounds as it begins global deliveries of its flagship OMO-X model, starting with Indonesia. The company said the Series A+ round was led by Lochpine Capital, an industrial investment fund backed by battery giant CATL. Its […] The post BYD co-founder-backed OMOWAY bags fund…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "funding",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "808b74a64c0ca7bb84ba"
       },
       {
         "title": "The next AI winners in Southeast Asia won’t be AI companies",
@@ -186,6 +253,27 @@
         "id": "b0f5a0d72f6718a3f0c5"
       },
       {
+        "title": "第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました",
+        "url": "https://www.digital.go.jp/councils/digital-cybersecurity/e2ab2aca-0107-4b72-b06b-eb67a970baca",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-02T06:00:00+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "83f366be17cefc018c34"
+      },
+      {
         "title": "etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push",
         "url": "https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -270,6 +358,48 @@
           "EWZ"
         ],
         "id": "036a83be073690d20eaf"
+      },
+      {
+        "title": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/opensource-review-meeting/d90e5cd7-8a26-4d5e-8c8e-e6802c3c663b",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-02T06:00:00+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5bef2e9fa26bd23ac48d"
+      },
+      {
+        "title": "アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました",
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/75b6aca0-27c7-457f-8513-b4127b9d04e9",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-02T06:00:00+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5e60f711be79a44afd22"
       },
       {
         "title": "M 4.8 - 20 km ESE of Chapimarca, Peru",
@@ -364,6 +494,78 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2b0610d184da56ac2817"
+      },
+      {
+        "title": "M 5.3 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-02T05:39:01.040+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "Time 2026-07-02 05:23:17 UTC 2026-07-02 05:23:17 UTC at epicenter Location 60.997°S 23.537°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "df968d592cbe99071d3f"
+      },
+      {
+        "title": "M 5.2 - east of the South Sandwich Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-02T05:30:18.040+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "Time 2026-07-02 05:14:00 UTC 2026-07-02 05:14:00 UTC at epicenter Location 57.883°S 8.489°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "96e7456f164360587bbf"
       },
       {
         "title": "M 5.2 - South Sandwich Islands region",
@@ -569,6 +771,26 @@
         "id": "929232eb18ed54096c98"
       },
       {
+        "title": "国や東京都のために働くことに興味をお持ちの方へ：デジタル庁とGovTech東京が開催するキャリアミートアップイベントの募集を開始しました",
+        "url": "https://www.digital.go.jp/news/50faa5d0-d0ca-431a-b005-f6e5568324c4",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-02T06:00:00+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "国や東京都のために働くことに興味をお持ちの方へ：デジタル庁とGovTech東京が開催するキャリアミートアップイベントの募集を開始しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a02fff1f7958c93c294"
+      },
+      {
         "title": "浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」",
         "url": "https://www.itmedia.co.jp/news/articles/2607/02/news059.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -609,6 +831,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be08bb35ce1f3a96cef4"
+      },
+      {
+        "title": "The extreme fear metric: Why forced liquidations are driving today’s market bounce",
+        "url": "https://e27.co/the-extreme-fear-metric-why-forced-liquidations-are-driving-todays-market-bounce-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T05:25:34+00:00",
+        "fetched_at": "2026-07-02T06:11:39+00:00",
+        "summary": "The global cryptocurrency market climbs 1.92 per cent, reaching a total valuation of US$2.09 trillion. This upward movement stems primarily from a sharp technical bounce and a significant short squeeze concentrated within Bitcoin. Interestingly, a strong statistical relationship now exists between cryptocurrency and gold, with a 67 per cent correlation indicating that investors increasingly view […] The post The ext…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "daff8ae6cb34ed9e5504"
       },
       {
         "title": "The systemic minimum effective dose: Redesigning productivity through precision",
@@ -674,6 +916,73 @@
         "LOW"
       ],
       "id": "b3b4f0bfc1f11c73ee57"
+    },
+    {
+      "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
+      "url": "https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:31+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew participation from financial institutions and venture platforms across Singapore, Hong Kong, […] The post LinqAlpha raises US$22M to bring a…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b71a3b436ee0b73f5cbb"
+    },
+    {
+      "title": "BYD co-founder-backed OMOWAY bags funding to join Southeast Asia’s electric motorcycle race",
+      "url": "https://e27.co/byd-co-founder-backed-omoway-bags-funding-to-join-southeast-asias-electric-motorcycle-race-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T04:54:40+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "OMOWAY, a China-born intelligent mobility startup building smart electric motorcycles, has completed consecutive Series A and Series A+ financing rounds as it begins global deliveries of its flagship OMO-X model, starting with Indonesia. The company said the Series A+ round was led by Lochpine Capital, an industrial investment fund backed by battery giant CATL. Its […] The post BYD co-founder-backed OMOWAY bags fund…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "808b74a64c0ca7bb84ba"
     },
     {
       "title": "The next AI winners in Southeast Asia won’t be AI companies",
@@ -788,6 +1097,27 @@
       "id": "b0f5a0d72f6718a3f0c5"
     },
     {
+      "title": "第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-cybersecurity/e2ab2aca-0107-4b72-b06b-eb67a970baca",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83f366be17cefc018c34"
+    },
+    {
       "title": "etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push",
       "url": "https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -872,6 +1202,48 @@
         "EWZ"
       ],
       "id": "036a83be073690d20eaf"
+    },
+    {
+      "title": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/opensource-review-meeting/d90e5cd7-8a26-4d5e-8c8e-e6802c3c663b",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5bef2e9fa26bd23ac48d"
+    },
+    {
+      "title": "アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/75b6aca0-27c7-457f-8513-b4127b9d04e9",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5e60f711be79a44afd22"
     },
     {
       "title": "M 4.8 - 20 km ESE of Chapimarca, Peru",
@@ -966,6 +1338,78 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2b0610d184da56ac2817"
+    },
+    {
+      "title": "M 5.3 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:39:01.040+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "Time 2026-07-02 05:23:17 UTC 2026-07-02 05:23:17 UTC at epicenter Location 60.997°S 23.537°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "df968d592cbe99071d3f"
+    },
+    {
+      "title": "M 5.2 - east of the South Sandwich Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:30:18.040+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "Time 2026-07-02 05:14:00 UTC 2026-07-02 05:14:00 UTC at epicenter Location 57.883°S 8.489°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "96e7456f164360587bbf"
     },
     {
       "title": "M 5.2 - South Sandwich Islands region",
@@ -1171,6 +1615,26 @@
       "id": "929232eb18ed54096c98"
     },
     {
+      "title": "国や東京都のために働くことに興味をお持ちの方へ：デジタル庁とGovTech東京が開催するキャリアミートアップイベントの募集を開始しました",
+      "url": "https://www.digital.go.jp/news/50faa5d0-d0ca-431a-b005-f6e5568324c4",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "国や東京都のために働くことに興味をお持ちの方へ：デジタル庁とGovTech東京が開催するキャリアミートアップイベントの募集を開始しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a02fff1f7958c93c294"
+    },
+    {
       "title": "浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」",
       "url": "https://www.itmedia.co.jp/news/articles/2607/02/news059.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1213,6 +1677,26 @@
       "id": "be08bb35ce1f3a96cef4"
     },
     {
+      "title": "The extreme fear metric: Why forced liquidations are driving today’s market bounce",
+      "url": "https://e27.co/the-extreme-fear-metric-why-forced-liquidations-are-driving-todays-market-bounce-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:25:34+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "The global cryptocurrency market climbs 1.92 per cent, reaching a total valuation of US$2.09 trillion. This upward movement stems primarily from a sharp technical bounce and a significant short squeeze concentrated within Bitcoin. Interestingly, a strong statistical relationship now exists between cryptocurrency and gold, with a 67 per cent correlation indicating that investors increasingly view […] The post The ext…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "daff8ae6cb34ed9e5504"
+    },
+    {
       "title": "The systemic minimum effective dose: Redesigning productivity through precision",
       "url": "https://e27.co/__trashed-20260624/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1235,20 +1719,44 @@
   ],
   "new_findings": [
     {
-      "title": "etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push",
-      "url": "https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/",
+      "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
+      "url": "https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-02T04:03:46+00:00",
-      "fetched_at": "2026-07-02T04:47:20+00:00",
-      "summary": "Malaysia-based venture capital firm Vynn Capital has made a strategic investment in etaily, the Philippines-born commerce and retail infrastructure platform, as the company doubles down on Malaysia, Singapore, and Indonesia to build a regional operating layer for consumer brands selling across Southeast Asia. The size of the investment was not disclosed. Also Read: Ayala Ventures, […] The post etaily lands Vynn Capi…",
+      "published_at": "2026-07-02T06:00:31+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew participation from financial institutions and venture platforms across Singapore, Hong Kong, […] The post LinqAlpha raises US$22M to bring a…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b71a3b436ee0b73f5cbb"
+    },
+    {
+      "title": "BYD co-founder-backed OMOWAY bags funding to join Southeast Asia’s electric motorcycle race",
+      "url": "https://e27.co/byd-co-founder-backed-omoway-bags-funding-to-join-southeast-asias-electric-motorcycle-race-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T04:54:40+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "OMOWAY, a China-born intelligent mobility startup building smart electric motorcycles, has completed consecutive Series A and Series A+ financing rounds as it begins global deliveries of its flagship OMO-X model, starting with Indonesia. The company said the Series A+ round was led by Lochpine Capital, an industrial investment fund backed by battery giant CATL. Its […] The post BYD co-founder-backed OMOWAY bags fund…",
       "matched_keywords": [
         "APAC Trend Radar",
+        "founder",
+        "funding",
         "Southeast Asia",
         "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Philippines (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 18,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
@@ -1275,7 +1783,182 @@
         "EWC",
         "EWZ"
       ],
-      "id": "53dcd6cefb37e68e3141"
+      "id": "808b74a64c0ca7bb84ba"
+    },
+    {
+      "title": "第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-cybersecurity/e2ab2aca-0107-4b72-b06b-eb67a970baca",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83f366be17cefc018c34"
+    },
+    {
+      "title": "アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/75b6aca0-27c7-457f-8513-b4127b9d04e9",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5e60f711be79a44afd22"
+    },
+    {
+      "title": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/opensource-review-meeting/d90e5cd7-8a26-4d5e-8c8e-e6802c3c663b",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5bef2e9fa26bd23ac48d"
+    },
+    {
+      "title": "M 5.3 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:39:01.040+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "Time 2026-07-02 05:23:17 UTC 2026-07-02 05:23:17 UTC at epicenter Location 60.997°S 23.537°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "df968d592cbe99071d3f"
+    },
+    {
+      "title": "M 5.2 - east of the South Sandwich Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:30:18.040+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "Time 2026-07-02 05:14:00 UTC 2026-07-02 05:14:00 UTC at epicenter Location 57.883°S 8.489°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "96e7456f164360587bbf"
+    },
+    {
+      "title": "国や東京都のために働くことに興味をお持ちの方へ：デジタル庁とGovTech東京が開催するキャリアミートアップイベントの募集を開始しました",
+      "url": "https://www.digital.go.jp/news/50faa5d0-d0ca-431a-b005-f6e5568324c4",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-02T06:00:00+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "国や東京都のために働くことに興味をお持ちの方へ：デジタル庁とGovTech東京が開催するキャリアミートアップイベントの募集を開始しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a02fff1f7958c93c294"
+    },
+    {
+      "title": "The extreme fear metric: Why forced liquidations are driving today’s market bounce",
+      "url": "https://e27.co/the-extreme-fear-metric-why-forced-liquidations-are-driving-todays-market-bounce-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:25:34+00:00",
+      "fetched_at": "2026-07-02T06:11:39+00:00",
+      "summary": "The global cryptocurrency market climbs 1.92 per cent, reaching a total valuation of US$2.09 trillion. This upward movement stems primarily from a sharp technical bounce and a significant short squeeze concentrated within Bitcoin. Interestingly, a strong statistical relationship now exists between cryptocurrency and gold, with a 67 per cent correlation indicating that investors increasingly view […] The post The ext…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "daff8ae6cb34ed9e5504"
     }
   ],
   "source_errors": [],

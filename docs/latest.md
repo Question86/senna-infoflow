@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T04:47:47+00:00_
+_Generiert: 2026-07-02T06:12:04+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **LinqAlpha raises US$22M to bring agentic AI to public-market investors** — Score 20, observation — [Quelle](https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-02T06:00:31+00:00`, fetched `2026-07-02T06:11:39+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew participation from financial institutions and venture platforms across Singapore, Hong Kong, […] The post LinqAlpha raises US$22M to bring a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **BYD co-founder-backed OMOWAY bags funding to join Southeast Asia’s electric motorcycle race** — Score 18, observation — [Quelle](https://e27.co/byd-co-founder-backed-omoway-bags-funding-to-join-southeast-asias-electric-motorcycle-race-20260702/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-02T04:54:40+00:00`, fetched `2026-07-02T06:11:39+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: OMOWAY, a China-born intelligent mobility startup building smart electric motorcycles, has completed consecutive Series A and Series A+ financing rounds as it begins global deliveries of its flagship OMO-X model, starting with Indonesia. The company said the Series A+ round was led by Lochpine Capital, an industrial investment fund backed by battery giant CATL. Its […] The post BYD co-founder-backed OMOWAY bags fund…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The next AI winners in Southeast Asia won’t be AI companies** — Score 18, observation — [Quelle](https://e27.co/the-next-ai-winners-in-southeast-asia-wont-be-ai-companies-20260626/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-02T01:45:25+00:00`, fetched `2026-07-02T02:07:11+00:00`
@@ -29,15 +47,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI slop is a strategy problem, not a content problem** — Score 15, observation — [Quelle](https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-02T03:00:25+00:00`, fetched `2026-07-02T03:21:11+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
-  - Kurz: In January, Almond Breeze released a campaign starring the Jonas Brothers that mocked AI-generated content. The joke: two marketing agents pitch the band on doing “more work with less work,” then roll a reel of cheap, AI-generated ads. The Jonases decline the pitch, and it’s assumed you would too. They weren’t the only ones. The […] The post AI slop is a strategy problem, not a content problem appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -60,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三菱電機製数値制御装置(CNC)には、数値の入力に対する不適切な検証に起因する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました** — Score 12, observation — [Quelle](https://www.digital.go.jp/councils/digital-cybersecurity/e2ab2aca-0107-4b72-b06b-eb67a970baca)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-02T06:00:00+00:00`, fetched `2026-07-02T06:11:39+00:00`
+  - Treffer: APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push** — Score 12, observation — [Quelle](https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-02T04:03:46+00:00`, fetched `2026-07-02T04:47:20+00:00`
@@ -77,6 +95,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Founders like to believe companies are built on nerve. There is some truth to that. It takes nerve to leave a safe path, raise capital, hire before certainty, and keep going when the market is not yet convinced. But in Singapore, nerve is only half the story. The other half is foresight. And it is […] The post Founders think they win on nerve. In Singapore, they win on foresight appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/opensource-review-meeting/d90e5cd7-8a26-4d5e-8c8e-e6802c3c663b)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-02T06:00:00+00:00`, fetched `2026-07-02T06:11:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: オープンソース化・OSS利活用に関する有識者検討会（第5回）の会議資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/75b6aca0-27c7-457f-8513-b4127b9d04e9)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-02T06:00:00+00:00`, fetched `2026-07-02T06:11:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: アジャイル開発に関する有識者検討会（第5回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 20 km ESE of Chapimarca, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ji)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -105,14 +141,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 海外投資家の日本株買いが勢いづいている。2026年1〜6月の買越額は10兆円超と半期で最大になる見通し。企業の資本効率や稼ぐ力の改善に加え、人工知能（AI）を支える半導体分野の裾野の広さも評価し、日本への投資経験が浅い新顔のマネー流入も活発だ。世界の顧客と日々向き合うUBS証券の中冨良祐株式営業部長は「機関投...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv)
+- **M 5.3 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-02T03:10:32.040+00:00`, fetched `2026-07-02T03:21:11+00:00`
+  - Zeit: published `2026-07-02T05:39:01.040+00:00`, fetched `2026-07-02T06:11:39+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-02 02:57:42 UTC 2026-07-02 02:57:42 UTC at epicenter Location 58.480°S 26.592°W Depth 183.49 km (114.01 mi)
+  - Kurz: Time 2026-07-02 05:23:17 UTC 2026-07-02 05:23:17 UTC at epicenter Location 60.997°S 23.537°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **HKUDS/Vibe-Trading** — Score 9, risk — [Quelle](https://github.com/HKUDS/Vibe-Trading)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
