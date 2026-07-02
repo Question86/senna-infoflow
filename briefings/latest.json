@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T09:43:33+00:00",
-  "run_id": "2026-07-02T09:43:33+00:00",
+  "generated_at": "2026-07-02T10:44:42+00:00",
+  "run_id": "2026-07-02T10:44:42+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 3,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 7,
-    "observe": 30,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-02T09:43:21+00:00",
-        "fetched_at": "2026-07-02T09:43:08+00:00",
+        "published_at": "2026-07-02T10:44:30+00:00",
+        "fetched_at": "2026-07-02T10:44:16+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f74bbf3ab8f129417f90"
+        "id": "8e21f801a0cf45ebce2d"
       },
       {
         "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -578,6 +578,26 @@
         "id": "2b0610d184da56ac2817"
       },
       {
+        "title": "India is testing an alternative to Silicon Valley’s AI playbook",
+        "url": "https://restofworld.org/2026/india-bhashini-open-source-offline-ai-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T10:00:00+00:00",
+        "fetched_at": "2026-07-02T10:44:16+00:00",
+        "summary": "A new hackathon invites developers to build offline, multilingual AI tools, challenging the idea that cutting-edge innovation belongs only to a handful of Western companies.",
+        "matched_keywords": [
+          "AI/KI"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "82ffb22ef4f986918257"
+      },
+      {
         "title": "M 5.3 - South Sandwich Islands region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -768,6 +788,26 @@
           "PINS"
         ],
         "id": "fb77a07a71aef35d7e4c"
+      },
+      {
+        "title": "Frank Elderson: The green transition – benefits and barriers",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-02T10:00:00+00:00",
+        "fetched_at": "2026-07-02T10:44:16+00:00",
+        "summary": "Frank Elderson: The green transition – benefits and barriers",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8024862df5d53fe01747"
       },
       {
         "title": "The playbook for going global: What C-dramas teach us about market entry",
@@ -1084,8 +1124,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-02T09:43:21+00:00",
-      "fetched_at": "2026-07-02T09:43:08+00:00",
+      "published_at": "2026-07-02T10:44:30+00:00",
+      "fetched_at": "2026-07-02T10:44:16+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1119,7 +1159,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f74bbf3ab8f129417f90"
+      "id": "8e21f801a0cf45ebce2d"
     },
     {
       "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -1626,6 +1666,26 @@
       "id": "2b0610d184da56ac2817"
     },
     {
+      "title": "India is testing an alternative to Silicon Valley’s AI playbook",
+      "url": "https://restofworld.org/2026/india-bhashini-open-source-offline-ai-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "fetched_at": "2026-07-02T10:44:16+00:00",
+      "summary": "A new hackathon invites developers to build offline, multilingual AI tools, challenging the idea that cutting-edge innovation belongs only to a handful of Western companies.",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82ffb22ef4f986918257"
+    },
+    {
       "title": "M 5.3 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1816,6 +1876,26 @@
         "PINS"
       ],
       "id": "fb77a07a71aef35d7e4c"
+    },
+    {
+      "title": "Frank Elderson: The green transition – benefits and barriers",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "fetched_at": "2026-07-02T10:44:16+00:00",
+      "summary": "Frank Elderson: The green transition – benefits and barriers",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8024862df5d53fe01747"
     },
     {
       "title": "The playbook for going global: What C-dramas teach us about market entry",
@@ -2131,8 +2211,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-02T09:43:21+00:00",
-      "fetched_at": "2026-07-02T09:43:08+00:00",
+      "published_at": "2026-07-02T10:44:30+00:00",
+      "fetched_at": "2026-07-02T10:44:16+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2166,86 +2246,47 @@
         "HD",
         "LOW"
       ],
-      "id": "f74bbf3ab8f129417f90"
+      "id": "8e21f801a0cf45ebce2d"
     },
     {
-      "title": "M 4.8 - 65 km WNW of Catuday, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "India is testing an alternative to Silicon Valley’s AI playbook",
+      "url": "https://restofworld.org/2026/india-bhashini-open-source-offline-ai-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-02T09:40:52.040+00:00",
-      "fetched_at": "2026-07-02T09:43:08+00:00",
-      "summary": "Time 2026-07-02 09:11:23 UTC 2026-07-02 09:11:23 UTC at epicenter Location 16.538°N 119.249°E Depth 12.49 km (7.76 mi)",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "fetched_at": "2026-07-02T10:44:16+00:00",
+      "summary": "A new hackathon invites developers to build offline, multilingual AI tools, challenging the idea that cutting-edge innovation belongs only to a handful of Western companies.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "3b4200a8e26a61f87db9"
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82ffb22ef4f986918257"
     },
     {
-      "title": "ChatGPTの研究から「某ゲームのとんでもない二次創作を毎日数千件書かせていた人」がいたことが発覚した怪談のような話 こんなデータセットがウッカリ別のAIに学習されたらどうなってしまうんや",
-      "url": "https://togetter.com/li/2716041",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Frank Elderson: The green transition – benefits and barriers",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-07-02T05:14:47+00:00",
-      "fetched_at": "2026-07-02T09:43:08+00:00",
-      "summary": "うみゆき@AI研究 @umiyuki_ai なんか「タダでAIチャットできる代わりに入出力データはあとでデータセット化しちゃいます」みたいなサービスがあったらしく、その結果実際にWildChatデータセットとしてHuggingFaceにアップされちゃったという。このデータセットを分析してみると、やけにスケベ小説の割合が多い。さらに詳...",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "fetched_at": "2026-07-02T10:44:16+00:00",
+      "summary": "Frank Elderson: The green transition – benefits and barriers",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "Macro/Policy"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c756ef2af23d8aa9347a"
-    },
-    {
-      "title": "Issue fields are now generally available",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-02T08:17:17+00:00",
-      "fetched_at": "2026-07-02T09:43:08+00:00",
-      "summary": "Issue fields are now generally available for all GitHub organizations on Free, Team, Enterprise, and GitHub Enterprise Cloud with data residency plans and will ship in GitHub Enterprise Server 3.23.… The post Issue fields are now generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "58881eb6ac72129101d6"
+      "id": "8024862df5d53fe01747"
     }
   ],
   "source_errors": [],
