@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T12:28:30+00:00",
-  "run_id": "2026-07-02T12:28:30+00:00",
+  "generated_at": "2026-07-02T13:12:08+00:00",
+  "run_id": "2026-07-02T13:12:08+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 8,
-    "observe": 35,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -1004,6 +1004,28 @@
           "AMZN"
         ],
         "id": "929232eb18ed54096c98"
+      },
+      {
+        "title": "Claude Mythos／Fableで学習したとする無検閲AI「Qwythos-9B」GGUF版が登場、商用利用可能な120億パラメータの画像生成AI「Krea 2」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/07/02/5247.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T02:31:05+00:00",
+        "fetched_at": "2026-07-02T13:11:36+00:00",
+        "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第150回）は、AIエージェントが動作する環境をシミュレートする言語モデル「Qwen-AgentWorld」、Claude Mythos／Fableで学習したと謳うローカル無検閲AI「Qwythos-9B」GGUF版を取り上げます。 また、Meta開発のデ...",
+        "matched_keywords": [
+          "agent",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "41580c331e8676bf52a1"
       },
       {
         "title": "SEA is growing up fast, but enterprise fitness tech still has homework to do",
@@ -2209,6 +2231,28 @@
       "id": "929232eb18ed54096c98"
     },
     {
+      "title": "Claude Mythos／Fableで学習したとする無検閲AI「Qwythos-9B」GGUF版が登場、商用利用可能な120億パラメータの画像生成AI「Krea 2」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/07/02/5247.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:31:05+00:00",
+      "fetched_at": "2026-07-02T13:11:36+00:00",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第150回）は、AIエージェントが動作する環境をシミュレートする言語モデル「Qwen-AgentWorld」、Claude Mythos／Fableで学習したと謳うローカル無検閲AI「Qwythos-9B」GGUF版を取り上げます。 また、Meta開発のデ...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41580c331e8676bf52a1"
+    },
+    {
       "title": "SEA is growing up fast, but enterprise fitness tech still has homework to do",
       "url": "https://e27.co/sea-is-growing-up-fast-but-enterprise-fitness-tech-still-has-homework-to-do-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2437,41 +2481,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 39 km E of Uonuma, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9m5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Claude Mythos／Fableで学習したとする無検閲AI「Qwythos-9B」GGUF版が登場、商用利用可能な120億パラメータの画像生成AI「Krea 2」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/07/02/5247.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T12:05:30.040+00:00",
-      "fetched_at": "2026-07-02T12:28:03+00:00",
-      "summary": "Time 2026-07-02 11:48:28 UTC 2026-07-02 11:48:28 UTC at epicenter Location 37.256°N 139.412°E Depth 141.67 km (88.03 mi)",
+      "published_at": "2026-07-02T02:31:05+00:00",
+      "fetched_at": "2026-07-02T13:11:36+00:00",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第150回）は、AIエージェントが動作する環境をシミュレートする言語モデル「Qwen-AgentWorld」、Claude Mythos／Fableで学習したと謳うローカル無検閲AI「Qwythos-9B」GGUF版を取り上げます。 また、Meta開発のデ...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "agent",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ac4132eb88a663597083"
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41580c331e8676bf52a1"
     }
   ],
   "source_errors": [],
