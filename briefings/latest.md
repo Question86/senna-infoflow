@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T07:28:28+00:00_
+_Generiert: 2026-07-02T08:32:36+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,7 +83,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-02T01:17:00+00:00`, fetched `2026-07-02T01:16:43+00:00`
+  - Zeit: published `2026-07-02T08:32:23+00:00`, fetched `2026-07-02T08:32:08+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -237,23 +237,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open source design system that's fully customizable and agent ready Astryx An open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them. Currently in Beta · Built on React and StyleX Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in th…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **ツッコミどころは満載だが……東京3000年の歴史をタイムラプス化したどこかヘンなYouTube動画【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2121791.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-02T03:30:51+00:00`, fetched `2026-07-02T07:28:02+00:00`
-  - Treffer: Hatena, hotentry
+- **Schwachstellen in Synology MailPlus Server lassen Angreifer passieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Schwachstellen-in-Synology-MailPlus-Server-lassen-Angreifer-passieren-11351331.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-02T08:29:00.000+00:00`, fetched `2026-07-02T08:32:08+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ツッコミどころは満載だが……東京3000年の歴史をタイムラプス化したどこかヘンなYouTube動画【やじうまWatch】
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Netzwerkspeicher von Synology mit MailPlus Server sind attackierbar. Ein Sicherheitspatch schafft Abhilfe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/02/news059.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-02T01:03:53+00:00`, fetched `2026-07-02T02:07:11+00:00`
-  - Treffer: Hatena, hotentry
+- **Lücken in Adobe ColdFusion und Campaign Classic: Patchdayzyklus verdoppelt** — Score 7, observation — [Quelle](https://www.heise.de/news/Adobe-Patchday-fuer-ColdFusion-und-Campaign-Classic-fortan-zweimal-im-Monat-11351219.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-02T07:43:00.000+00:00`, fetched `2026-07-02T08:32:08+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン（mao-asada.jp）を、GMOインターネットグループの「お名前.com」が、「SEO効果を最大化」「アフィリエイトサイトに」などとうたって販売していることに、批判が集まっている。 著名なサイトのドメインが第三者の手にわたると、公式サイトを模したフィッ...
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Wichtige Sicherheitsupdates schließen kritische Schadcode-Lücken in Adobe ColdFusion und Campaign Classic. Ab sofort sollen Patches häufiger erscheinen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
