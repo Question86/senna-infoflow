@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T20:43:47+00:00",
-  "run_id": "2026-07-02T20:43:47+00:00",
+  "generated_at": "2026-07-02T21:14:52+00:00",
+  "run_id": "2026-07-02T21:14:52+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 4,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
     "medium": 10,
-    "observe": 47,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-02T20:43:36+00:00",
-        "fetched_at": "2026-07-02T20:43:21+00:00",
+        "published_at": "2026-07-02T21:14:41+00:00",
+        "fetched_at": "2026-07-02T21:14:26+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e1dc1e25b2aeb3baa3c3"
+        "id": "e4ddd25f88f064617613"
       },
       {
         "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -680,6 +680,26 @@
         "id": "2b0610d184da56ac2817"
       },
       {
+        "title": "Christine Lagarde: Interview with Les Échos",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-02T21:00:00+00:00",
+        "fetched_at": "2026-07-02T21:14:26+00:00",
+        "summary": "Christine Lagarde: Interview with Les Échos",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d819104a0dcbad3d0ed0"
+      },
+      {
         "title": "M 5.2 - 23 km SSE of Karpathos, Greece",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -901,6 +921,29 @@
           "LOW"
         ],
         "id": "23e0cec79af0539ecf43"
+      },
+      {
+        "title": "GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal.",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-05-07T00:44:07+00:00",
+        "fetched_at": "2026-07-02T21:14:26+00:00",
+        "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+        "matched_keywords": [
+          "agent",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "939d15923a132956d452"
       },
       {
         "title": "HKUDS/Vibe-Trading",
@@ -1304,6 +1347,27 @@
         "id": "edc5942b3c72172373f2"
       },
       {
+        "title": "「充電器やバッテリーは品質と保証を重視したいからAnkerを選んでる」モバイルバッテリー、充電器、イヤホンなどコスパのいい製品をどんどん作るAnkerはいいぞ",
+        "url": "https://togetter.com/li/2716069",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T08:37:27+00:00",
+        "fetched_at": "2026-07-02T21:14:26+00:00",
+        "summary": "すねげ @sune_no_k ノーメーカー製の充電器を使うのは良いんだけど、こういうのって初期不良の取り換え以外は基本的に泣き寝入りスタイルなんだよな…（しかも販売店負担だったりする 保証と品質共におすすめしたいのはAnker 正直安くはないが全く壊れない それでいて保証内容がしっかり厚い 偉い偉すぎる 2026-06-30 05:...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9075f2fe6e6e13fb6563"
+      },
+      {
         "title": "はてブに依存してるヤバいおじさんおる…😟",
         "url": "https://anond.hatelabo.jp/20260702142752",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1539,8 +1603,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-02T20:43:36+00:00",
-      "fetched_at": "2026-07-02T20:43:21+00:00",
+      "published_at": "2026-07-02T21:14:41+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1574,7 +1638,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e1dc1e25b2aeb3baa3c3"
+      "id": "e4ddd25f88f064617613"
     },
     {
       "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -2183,6 +2247,26 @@
       "id": "2b0610d184da56ac2817"
     },
     {
+      "title": "Christine Lagarde: Interview with Les Échos",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-02T21:00:00+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
+      "summary": "Christine Lagarde: Interview with Les Échos",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d819104a0dcbad3d0ed0"
+    },
+    {
       "title": "M 5.2 - 23 km SSE of Karpathos, Greece",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2404,6 +2488,29 @@
         "LOW"
       ],
       "id": "23e0cec79af0539ecf43"
+    },
+    {
+      "title": "GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal.",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-05-07T00:44:07+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "matched_keywords": [
+        "agent",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "939d15923a132956d452"
     },
     {
       "title": "HKUDS/Vibe-Trading",
@@ -2807,6 +2914,27 @@
       "id": "edc5942b3c72172373f2"
     },
     {
+      "title": "「充電器やバッテリーは品質と保証を重視したいからAnkerを選んでる」モバイルバッテリー、充電器、イヤホンなどコスパのいい製品をどんどん作るAnkerはいいぞ",
+      "url": "https://togetter.com/li/2716069",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T08:37:27+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
+      "summary": "すねげ @sune_no_k ノーメーカー製の充電器を使うのは良いんだけど、こういうのって初期不良の取り換え以外は基本的に泣き寝入りスタイルなんだよな…（しかも販売店負担だったりする 保証と品質共におすすめしたいのはAnker 正直安くはないが全く壊れない それでいて保証内容がしっかり厚い 偉い偉すぎる 2026-06-30 05:...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9075f2fe6e6e13fb6563"
+    },
+    {
       "title": "はてブに依存してるヤバいおじさんおる…😟",
       "url": "https://anond.hatelabo.jp/20260702142752",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3041,8 +3169,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-02T20:43:36+00:00",
-      "fetched_at": "2026-07-02T20:43:21+00:00",
+      "published_at": "2026-07-02T21:14:41+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3076,16 +3204,59 @@
         "HD",
         "LOW"
       ],
-      "id": "e1dc1e25b2aeb3baa3c3"
+      "id": "e4ddd25f88f064617613"
     },
     {
-      "title": "Gemini×Obsidianを最強コンビ！フル活用する方法 | ライフハッカー・ジャパン",
-      "url": "https://www.lifehacker.jp/article/2607-gemini-deep-research-with-obsidian-connected-notes/",
+      "title": "Christine Lagarde: Interview with Les Échos",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-02T21:00:00+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
+      "summary": "Christine Lagarde: Interview with Les Échos",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d819104a0dcbad3d0ed0"
+    },
+    {
+      "title": "GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal.",
+      "url": "https://github.com/ogulcancelik/herdr",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T04:49:28+00:00",
-      "fetched_at": "2026-07-02T20:43:21+00:00",
-      "summary": "私は、最近になって乗り換えたばかりの「Obsidian」ユーザーです。 新米ユーザーではありますが、すでにいろいろと考え抜いたフォルダの階層構造を構築し、ノート間の関係を視覚化する「グラフ」システムを拡張しています。 さらに、ステップごとに、リサーチをノート化する仕組みであるパイプラインの改善に努めていま...",
+      "published_at": "2026-05-07T00:44:07+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "matched_keywords": [
+        "agent",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "939d15923a132956d452"
+    },
+    {
+      "title": "「充電器やバッテリーは品質と保証を重視したいからAnkerを選んでる」モバイルバッテリー、充電器、イヤホンなどコスパのいい製品をどんどん作るAnkerはいいぞ",
+      "url": "https://togetter.com/li/2716069",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T08:37:27+00:00",
+      "fetched_at": "2026-07-02T21:14:26+00:00",
+      "summary": "すねげ @sune_no_k ノーメーカー製の充電器を使うのは良いんだけど、こういうのって初期不良の取り換え以外は基本的に泣き寝入りスタイルなんだよな…（しかも販売店負担だったりする 保証と品質共におすすめしたいのはAnker 正直安くはないが全く壊れない それでいて保証内容がしっかり厚い 偉い偉すぎる 2026-06-30 05:...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3097,7 +3268,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3a977db033c39fe3ac2e"
+      "id": "9075f2fe6e6e13fb6563"
     }
   ],
   "source_errors": [],

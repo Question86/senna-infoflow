@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T20:43:47+00:00_
+_Generiert: 2026-07-02T21:14:52+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-02T20:43:36+00:00`, fetched `2026-07-02T20:43:21+00:00`
+  - Zeit: published `2026-07-02T21:14:41+00:00`, fetched `2026-07-02T21:14:26+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 海外投資家の日本株買いが勢いづいている。2026年1〜6月の買越額は10兆円超と半期で最大になる見通し。企業の資本効率や稼ぐ力の改善に加え、人工知能（AI）を支える半導体分野の裾野の広さも評価し、日本への投資経験が浅い新顔のマネー流入も活発だ。世界の顧客と日々向き合うUBS証券の中冨良祐株式営業部長は「機関投...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Christine Lagarde: Interview with Les Échos** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-02T21:00:00+00:00`, fetched `2026-07-02T21:14:26+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Christine Lagarde: Interview with Les Échos
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 23 km SSE of Karpathos, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-02T11:24:29.040+00:00`, fetched `2026-07-02T11:41:54+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)
   - Kurz: A new hackathon invites developers to build offline, multilingual AI tools, challenging the idea that cutting-edge innovation belongs only to a handful of Western companies.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **HKUDS/Vibe-Trading** — Score 9, risk — [Quelle](https://github.com/HKUDS/Vibe-Trading)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-02T03:21:11+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Security, Watchgraph:ai_agents_workflow, Webentwicklung
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); Security (+6.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
-  - Kurz: "Vibe-Trading: Your Personal Trading Agent" English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News 2026-07-01 🧹 Security polish + tracker cleanup : tightened API/Docker/frontend dev defaults, stabi…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
