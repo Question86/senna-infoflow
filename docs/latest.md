@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T03:21:38+00:00_
+_Generiert: 2026-07-02T04:47:47+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三菱電機製数値制御装置(CNC)には、数値の入力に対する不適切な検証に起因する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push** — Score 12, observation — [Quelle](https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-02T04:03:46+00:00`, fetched `2026-07-02T04:47:20+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Philippines (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Malaysia-based venture capital firm Vynn Capital has made a strategic investment in etaily, the Philippines-born commerce and retail infrastructure platform, as the company doubles down on Malaysia, Singapore, and Indonesia to build a regional operating layer for consumer brands selling across Southeast Asia. The size of the investment was not disclosed. Also Read: Ayala Ventures, […] The post etaily lands Vynn Capi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Founders think they win on nerve. In Singapore, they win on foresight** — Score 12, observation — [Quelle](https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-02T02:15:46+00:00`, fetched `2026-07-02T03:21:11+00:00`
@@ -114,15 +123,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Security (+6.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
   - Kurz: "Vibe-Trading: Your Personal Trading Agent" English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News 2026-07-01 🧹 Security polish + tracker cleanup : tightened API/Docker/frontend dev defaults, stabi…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The playbook for going global: What C-dramas teach us about market entry** — Score 8, observation — [Quelle](https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-02T02:45:37+00:00`, fetched `2026-07-02T03:21:11+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Indonesia, Thailand (+2.0)
-  - Kurz: In March 2026, a Chinese historical romance about a butcher’s daughter and a fallen marquis hit Netflix globally and racked up 34.2 million hours viewed in its first week. Pursuit of Jade debuted at number six on Netflix’s global non-English TV chart, trended on X across Thailand, Indonesia, and Brazil, and pulled a 55.1 per […] The post The playbook for going global: What C-dramas teach us about market entry appear…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **facebook/astryx** — Score 8, opportunity — [Quelle](https://github.com/facebook/astryx)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-02T03:21:11+00:00`
