@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T02:07:45+00:00_
+_Generiert: 2026-07-02T03:21:38+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI slop is a strategy problem, not a content problem** — Score 15, observation — [Quelle](https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-02T03:00:25+00:00`, fetched `2026-07-02T03:21:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
+  - Kurz: In January, Almond Breeze released a campaign starring the Jonas Brothers that mocked AI-generated content. The joke: two marketing agents pitch the band on doing “more work with less work,” then roll a reel of cheap, AI-generated ads. The Jonases decline the pitch, and it’s assumed you would too. They weren’t the only ones. The […] The post AI slop is a strategy problem, not a content problem appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -41,6 +50,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
   - Kurz: For decades, entrepreneurs have relied on technology to scale their businesses. Websites scaled visibility. CRMs scaled relationships. Social media scaled reach. Today, a new layer is emerging – one designed not to scale the business, but to scale the founder. I believe AI Twins are becoming the next generation of business infrastructure. Not AI assistants. […] The post The rise of AI twins: From assistant to infras…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **三菱電機製数値制御装置における数値の入力に対する不適切な検証** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU92054409/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2024-10-17T12:15:00+09:00`, fetched `2026-07-02T03:21:11+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 三菱電機製数値制御装置(CNC)には、数値の入力に対する不適切な検証に起因する脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Founders think they win on nerve. In Singapore, they win on foresight** — Score 12, observation — [Quelle](https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-02T02:15:46+00:00`, fetched `2026-07-02T03:21:11+00:00`
+  - Treffer: APAC Trend Radar, founder, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Founders like to believe companies are built on nerve. There is some truth to that. It takes nerve to leave a safe path, raise capital, hire before certainty, and keep going when the market is not yet convinced. But in Singapore, nerve is only half the story. The other half is foresight. And it is […] The post Founders think they win on nerve. In Singapore, they win on foresight appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 20 km ESE of Chapimarca, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ji)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -69,15 +96,42 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 海外投資家の日本株買いが勢いづいている。2026年1〜6月の買越額は10兆円超と半期で最大になる見通し。企業の資本効率や稼ぐ力の改善に加え、人工知能（AI）を支える半導体分野の裾野の広さも評価し、日本への投資経験が浅い新顔のマネー流入も活発だ。世界の顧客と日々向き合うUBS証券の中冨良祐株式営業部長は「機関投...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ja)
+- **M 5.2 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-02T01:30:11.040+00:00`, fetched `2026-07-02T02:07:11+00:00`
+  - Zeit: published `2026-07-02T03:10:32.040+00:00`, fetched `2026-07-02T03:21:11+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-02 01:13:55 UTC 2026-07-02 01:13:55 UTC at epicenter Location 21.245°S 178.837°W Depth 555.30 km (345.05 mi)
+  - Kurz: Time 2026-07-02 02:57:42 UTC 2026-07-02 02:57:42 UTC at epicenter Location 58.480°S 26.592°W Depth 183.49 km (114.01 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **HKUDS/Vibe-Trading** — Score 9, risk — [Quelle](https://github.com/HKUDS/Vibe-Trading)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-02T03:21:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Security, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
+  - Kurz: "Vibe-Trading: Your Personal Trading Agent" English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News 2026-07-01 🧹 Security polish + tracker cleanup : tightened API/Docker/frontend dev defaults, stabi…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The playbook for going global: What C-dramas teach us about market entry** — Score 8, observation — [Quelle](https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-02T02:45:37+00:00`, fetched `2026-07-02T03:21:11+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Indonesia, Thailand (+2.0)
+  - Kurz: In March 2026, a Chinese historical romance about a butcher’s daughter and a fallen marquis hit Netflix globally and racked up 34.2 million hours viewed in its first week. Pursuit of Jade debuted at number six on Netflix’s global non-English TV chart, trended on X across Thailand, Indonesia, and Brazil, and pulled a 55.1 per […] The post The playbook for going global: What C-dramas teach us about market entry appear…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **facebook/astryx** — Score 8, opportunity — [Quelle](https://github.com/facebook/astryx)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-02T03:21:11+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: An open source design system that's fully customizable and agent ready Astryx An open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them. Currently in Beta · Built on React and StyleX Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in th…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/02/news059.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-02T01:03:53+00:00`, fetched `2026-07-02T02:07:11+00:00`
@@ -105,7 +159,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)

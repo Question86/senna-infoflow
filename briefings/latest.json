@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-02T02:07:45+00:00",
-  "run_id": "2026-07-02T02:07:45+00:00",
+  "generated_at": "2026-07-02T03:21:38+00:00",
+  "run_id": "2026-07-02T03:21:38+00:00",
   "date": "2026-07-02",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 9,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 2,
-    "observe": 7,
-    "source_errors": 1
+    "medium": 3,
+    "observe": 15,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -115,6 +115,28 @@
           "EWZ"
         ],
         "id": "0f8eec45faafb007412b"
+      },
+      {
+        "title": "AI slop is a strategy problem, not a content problem",
+        "url": "https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T03:00:25+00:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "In January, Almond Breeze released a campaign starring the Jonas Brothers that mocked AI-generated content. The joke: two marketing agents pitch the band on doing “more work with less work,” then roll a reel of cheap, AI-generated ads. The Jonases decline the pitch, and it’s assumed you would too. They weren’t the only ones. The […] The post AI slop is a strategy problem, not a content problem appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dfef583437f7bfe1fb41"
       }
     ],
     "observe": [
@@ -140,6 +162,71 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2e373896a2481f69bf7a"
+      },
+      {
+        "title": "三菱電機製数値制御装置における数値の入力に対する不適切な検証",
+        "url": "https://jvn.jp/vu/JVNVU92054409/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2024-10-17T12:15:00+09:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "三菱電機製数値制御装置(CNC)には、数値の入力に対する不適切な検証に起因する脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0f5a0d72f6718a3f0c5"
+      },
+      {
+        "title": "Founders think they win on nerve. In Singapore, they win on foresight",
+        "url": "https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T02:15:46+00:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "Founders like to believe companies are built on nerve. There is some truth to that. It takes nerve to leave a safe path, raise capital, hire before certainty, and keep going when the market is not yet convinced. But in Singapore, nerve is only half the story. The other half is foresight. And it is […] The post Founders think they win on nerve. In Singapore, they win on foresight appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "036a83be073690d20eaf"
       },
       {
         "title": "M 4.8 - 20 km ESE of Chapimarca, Peru",
@@ -236,6 +323,42 @@
         "id": "2b0610d184da56ac2817"
       },
       {
+        "title": "M 5.2 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-02T03:10:32.040+00:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "Time 2026-07-02 02:57:42 UTC 2026-07-02 02:57:42 UTC at epicenter Location 58.480°S 26.592°W Depth 183.49 km (114.01 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "449bff4321f5eebb669c"
+      },
+      {
         "title": "M 4.7 - Fiji region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ja",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -270,6 +393,137 @@
           "LOW"
         ],
         "id": "23e0cec79af0539ecf43"
+      },
+      {
+        "title": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "\"Vibe-Trading: Your Personal Trading Agent\" English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News 2026-07-01 🧹 Security polish + tracker cleanup : tightened API/Docker/frontend dev defaults, stabi…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Security",
+          "Watchgraph:ai_agents_workflow",
+          "Webentwicklung"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); Security (+6.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "fb77a07a71aef35d7e4c"
+      },
+      {
+        "title": "The playbook for going global: What C-dramas teach us about market entry",
+        "url": "https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T02:45:37+00:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "In March 2026, a Chinese historical romance about a butcher’s daughter and a fallen marquis hit Netflix globally and racked up 34.2 million hours viewed in its first week. Pursuit of Jade debuted at number six on Netflix’s global non-English TV chart, trended on X across Thailand, Indonesia, and Brazil, and pulled a 55.1 per […] The post The playbook for going global: What C-dramas teach us about market entry appear…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Indonesia, Thailand (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e98bbf6c525f7470d273"
+      },
+      {
+        "title": "facebook/astryx",
+        "url": "https://github.com/facebook/astryx",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "An open source design system that's fully customizable and agent ready Astryx An open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them. Currently in Beta · Built on React and StyleX Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in th…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Open Source"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5016f670a5ddaea9f318"
+      },
+      {
+        "title": "Fringe benefits: Disruption starts with the customers you don’t want",
+        "url": "https://e27.co/fringe-benefits-disruption-starts-with-the-customers-you-dont-want-20260701/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T02:50:19+00:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "In 1974, a famine swept Bangladesh. Muhammad Yunus, a professor of economics at Chittagong University, trained in the elegant theories of Western finance, walked into a village next to his campus and found a woman weaving bamboo stools. She earned two cents of profit per stool. Not because she lacked skill. Because she had to […] The post Fringe benefits: Disruption starts with the customers you don’t want appeared…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:humanitarian_migration_food_water"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules humanitarian_migration_food_water (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "humanitarian_migration_food_water"
+        ],
+        "watchgraph_reasons": [
+          "humanitarian_migration_food_water: famine"
+        ],
+        "market_context": [
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy",
+          "MAERSK-B.CO",
+          "ZIM",
+          "MATX",
+          "WMT",
+          "TGT",
+          "AMZN"
+        ],
+        "id": "929232eb18ed54096c98"
       },
       {
         "title": "浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」",
@@ -312,6 +566,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be08bb35ce1f3a96cef4"
+      },
+      {
+        "title": "The systemic minimum effective dose: Redesigning productivity through precision",
+        "url": "https://e27.co/__trashed-20260624/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-02T03:00:11+00:00",
+        "fetched_at": "2026-07-02T03:21:11+00:00",
+        "summary": "Modern society preaches that more is always better. We think that the more we add to our input, the more hours logged, the more tools added, the more meetings attended, the more we expect them to translate to greater output. However, these accumulations usually engender the stagnation we seek to eliminate. The traditional orthodoxy of […] The post The systemic minimum effective dose: Redesigning productivity through…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3cb99031afb5b4e8dffe"
       }
     ]
   },
@@ -404,6 +678,28 @@
       "id": "0f8eec45faafb007412b"
     },
     {
+      "title": "AI slop is a strategy problem, not a content problem",
+      "url": "https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T03:00:25+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "In January, Almond Breeze released a campaign starring the Jonas Brothers that mocked AI-generated content. The joke: two marketing agents pitch the band on doing “more work with less work,” then roll a reel of cheap, AI-generated ads. The Jonases decline the pitch, and it’s assumed you would too. They weren’t the only ones. The […] The post AI slop is a strategy problem, not a content problem appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dfef583437f7bfe1fb41"
+    },
+    {
       "title": "The rise of AI twins: From assistant to infrastructure",
       "url": "https://e27.co/the-rise-of-ai-twins-from-assistant-to-infrastructure-20260626/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -425,6 +721,71 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2e373896a2481f69bf7a"
+    },
+    {
+      "title": "三菱電機製数値制御装置における数値の入力に対する不適切な検証",
+      "url": "https://jvn.jp/vu/JVNVU92054409/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2024-10-17T12:15:00+09:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "三菱電機製数値制御装置(CNC)には、数値の入力に対する不適切な検証に起因する脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0f5a0d72f6718a3f0c5"
+    },
+    {
+      "title": "Founders think they win on nerve. In Singapore, they win on foresight",
+      "url": "https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:15:46+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "Founders like to believe companies are built on nerve. There is some truth to that. It takes nerve to leave a safe path, raise capital, hire before certainty, and keep going when the market is not yet convinced. But in Singapore, nerve is only half the story. The other half is foresight. And it is […] The post Founders think they win on nerve. In Singapore, they win on foresight appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "036a83be073690d20eaf"
     },
     {
       "title": "M 4.8 - 20 km ESE of Chapimarca, Peru",
@@ -521,6 +882,42 @@
       "id": "2b0610d184da56ac2817"
     },
     {
+      "title": "M 5.2 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-02T03:10:32.040+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "Time 2026-07-02 02:57:42 UTC 2026-07-02 02:57:42 UTC at epicenter Location 58.480°S 26.592°W Depth 183.49 km (114.01 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "449bff4321f5eebb669c"
+    },
+    {
       "title": "M 4.7 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ja",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -555,6 +952,137 @@
         "LOW"
       ],
       "id": "23e0cec79af0539ecf43"
+    },
+    {
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "\"Vibe-Trading: Your Personal Trading Agent\" English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News 2026-07-01 🧹 Security polish + tracker cleanup : tightened API/Docker/frontend dev defaults, stabi…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Security",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); Security (+6.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "fb77a07a71aef35d7e4c"
+    },
+    {
+      "title": "The playbook for going global: What C-dramas teach us about market entry",
+      "url": "https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:45:37+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "In March 2026, a Chinese historical romance about a butcher’s daughter and a fallen marquis hit Netflix globally and racked up 34.2 million hours viewed in its first week. Pursuit of Jade debuted at number six on Netflix’s global non-English TV chart, trended on X across Thailand, Indonesia, and Brazil, and pulled a 55.1 per […] The post The playbook for going global: What C-dramas teach us about market entry appear…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Indonesia, Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e98bbf6c525f7470d273"
+    },
+    {
+      "title": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "An open source design system that's fully customizable and agent ready Astryx An open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them. Currently in Beta · Built on React and StyleX Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in th…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5016f670a5ddaea9f318"
+    },
+    {
+      "title": "Fringe benefits: Disruption starts with the customers you don’t want",
+      "url": "https://e27.co/fringe-benefits-disruption-starts-with-the-customers-you-dont-want-20260701/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:50:19+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "In 1974, a famine swept Bangladesh. Muhammad Yunus, a professor of economics at Chittagong University, trained in the elegant theories of Western finance, walked into a village next to his campus and found a woman weaving bamboo stools. She earned two cents of profit per stool. Not because she lacked skill. Because she had to […] The post Fringe benefits: Disruption starts with the customers you don’t want appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:humanitarian_migration_food_water"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules humanitarian_migration_food_water (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "humanitarian_migration_food_water"
+      ],
+      "watchgraph_reasons": [
+        "humanitarian_migration_food_water: famine"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy",
+        "MAERSK-B.CO",
+        "ZIM",
+        "MATX",
+        "WMT",
+        "TGT",
+        "AMZN"
+      ],
+      "id": "929232eb18ed54096c98"
     },
     {
       "title": "浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」",
@@ -597,26 +1125,88 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "be08bb35ce1f3a96cef4"
+    },
+    {
+      "title": "The systemic minimum effective dose: Redesigning productivity through precision",
+      "url": "https://e27.co/__trashed-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T03:00:11+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "Modern society preaches that more is always better. We think that the more we add to our input, the more hours logged, the more tools added, the more meetings attended, the more we expect them to translate to greater output. However, these accumulations usually engender the stagnation we seek to eliminate. The traditional orthodoxy of […] The post The systemic minimum effective dose: Redesigning productivity through…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3cb99031afb5b4e8dffe"
     }
   ],
   "new_findings": [
     {
-      "title": "The next AI winners in Southeast Asia won’t be AI companies",
-      "url": "https://e27.co/the-next-ai-winners-in-southeast-asia-wont-be-ai-companies-20260626/",
+      "title": "AI slop is a strategy problem, not a content problem",
+      "url": "https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-02T01:45:25+00:00",
-      "fetched_at": "2026-07-02T02:07:11+00:00",
-      "summary": "For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…",
+      "published_at": "2026-07-02T03:00:25+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "In January, Almond Breeze released a campaign starring the Jonas Brothers that mocked AI-generated content. The joke: two marketing agents pitch the band on doing “more work with less work,” then roll a reel of cheap, AI-generated ads. The Jonases decline the pitch, and it’s assumed you would too. They weren’t the only ones. The […] The post AI slop is a strategy problem, not a content problem appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dfef583437f7bfe1fb41"
+    },
+    {
+      "title": "三菱電機製数値制御装置における数値の入力に対する不適切な検証",
+      "url": "https://jvn.jp/vu/JVNVU92054409/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2024-10-17T12:15:00+09:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "三菱電機製数値制御装置(CNC)には、数値の入力に対する不適切な検証に起因する脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0f5a0d72f6718a3f0c5"
+    },
+    {
+      "title": "Founders think they win on nerve. In Singapore, they win on foresight",
+      "url": "https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:15:46+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "Founders like to believe companies are built on nerve. There is some truth to that. It takes nerve to leave a safe path, raise capital, hire before certainty, and keep going when the market is not yet convinced. But in Singapore, nerve is only half the story. The other half is foresight. And it is […] The post Founders think they win on nerve. In Singapore, they win on foresight appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
         "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
@@ -643,52 +1233,16 @@
         "EWC",
         "EWZ"
       ],
-      "id": "0f8eec45faafb007412b"
+      "id": "036a83be073690d20eaf"
     },
     {
-      "title": "M 4.8 - 20 km ESE of Chapimarca, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ji",
+      "title": "M 5.2 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-02T02:04:10.040+00:00",
-      "fetched_at": "2026-07-02T02:07:11+00:00",
-      "summary": "Time 2026-07-02 01:39:27 UTC 2026-07-02 01:39:27 UTC at epicenter Location 14.063°S 72.900°W Depth 87.86 km (54.60 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6f073e13030a96a4c0d8"
-    },
-    {
-      "title": "M 4.7 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ja",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-02T01:30:11.040+00:00",
-      "fetched_at": "2026-07-02T02:07:11+00:00",
-      "summary": "Time 2026-07-02 01:13:55 UTC 2026-07-02 01:13:55 UTC at epicenter Location 21.245°S 178.837°W Depth 555.30 km (345.05 mi)",
+      "published_at": "2026-07-02T03:10:32.040+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "Time 2026-07-02 02:57:42 UTC 2026-07-02 02:57:42 UTC at epicenter Location 58.480°S 26.592°W Depth 183.49 km (114.01 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -715,38 +1269,161 @@
         "HD",
         "LOW"
       ],
-      "id": "23e0cec79af0539ecf43"
+      "id": "449bff4321f5eebb669c"
     },
     {
-      "title": "浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news059.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-07-02T01:03:53+00:00",
-      "fetched_at": "2026-07-02T02:07:11+00:00",
-      "summary": "プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン（mao-asada.jp）を、GMOインターネットグループの「お名前.com」が、「SEO効果を最大化」「アフィリエイトサイトに」などとうたって販売していることに、批判が集まっている。 著名なサイトのドメインが第三者の手にわたると、公式サイトを模したフィッ...",
+      "published_at": null,
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "\"Vibe-Trading: Your Personal Trading Agent\" English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News 2026-07-01 🧹 Security polish + tracker cleanup : tightened API/Docker/frontend dev defaults, stabi…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Security",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); Security (+6.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "fb77a07a71aef35d7e4c"
+    },
+    {
+      "title": "The playbook for going global: What C-dramas teach us about market entry",
+      "url": "https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:45:37+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "In March 2026, a Chinese historical romance about a butcher’s daughter and a fallen marquis hit Netflix globally and racked up 34.2 million hours viewed in its first week. Pursuit of Jade debuted at number six on Netflix’s global non-English TV chart, trended on X across Thailand, Indonesia, and Brazil, and pulled a 55.1 per […] The post The playbook for going global: What C-dramas teach us about market entry appear…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Indonesia, Thailand (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fb58e27990877b40ca4e"
-    }
-  ],
-  "source_errors": [
+      "id": "e98bbf6c525f7470d273"
+    },
     {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
+      "title": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+      "published_at": null,
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "An open source design system that's fully customizable and agent ready Astryx An open source design system that's fully customizable and built for how we build now — by people and the agents working alongside them. Currently in Beta · Built on React and StyleX Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in th…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5016f670a5ddaea9f318"
+    },
+    {
+      "title": "Fringe benefits: Disruption starts with the customers you don’t want",
+      "url": "https://e27.co/fringe-benefits-disruption-starts-with-the-customers-you-dont-want-20260701/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T02:50:19+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "In 1974, a famine swept Bangladesh. Muhammad Yunus, a professor of economics at Chittagong University, trained in the elegant theories of Western finance, walked into a village next to his campus and found a woman weaving bamboo stools. She earned two cents of profit per stool. Not because she lacked skill. Because she had to […] The post Fringe benefits: Disruption starts with the customers you don’t want appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:humanitarian_migration_food_water"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules humanitarian_migration_food_water (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "humanitarian_migration_food_water"
+      ],
+      "watchgraph_reasons": [
+        "humanitarian_migration_food_water: famine"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy",
+        "MAERSK-B.CO",
+        "ZIM",
+        "MATX",
+        "WMT",
+        "TGT",
+        "AMZN"
+      ],
+      "id": "929232eb18ed54096c98"
+    },
+    {
+      "title": "The systemic minimum effective dose: Redesigning productivity through precision",
+      "url": "https://e27.co/__trashed-20260624/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-02T03:00:11+00:00",
+      "fetched_at": "2026-07-02T03:21:11+00:00",
+      "summary": "Modern society preaches that more is always better. We think that the more we add to our input, the more hours logged, the more tools added, the more meetings attended, the more we expect them to translate to greater output. However, these accumulations usually engender the stagnation we seek to eliminate. The traditional orthodoxy of […] The post The systemic minimum effective dose: Redesigning productivity through…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3cb99031afb5b4e8dffe"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
