@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T16:27:32+00:00",
-  "run_id": "2026-07-02T16:27:32+00:00",
+  "generated_at": "2026-07-02T17:08:12+00:00",
+  "run_id": "2026-07-02T17:08:12+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 51,
     "displayed_findings": 51,
     "high": 0,
@@ -2785,52 +2785,7 @@
       "id": "58881eb6ac72129101d6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How GitHub used secret scanning to reach inbox zero",
-      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-02T16:00:00+00:00",
-      "fetched_at": "2026-07-02T16:27:07+00:00",
-      "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "44cef70390e56e54543e"
-    },
-    {
-      "title": "NEC、梅雨明け後に急増する119番通報の緊急度をAIで判定支援",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2121840.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-02T04:46:58+00:00",
-      "fetched_at": "2026-07-02T16:27:07+00:00",
-      "summary": "NEC、梅雨明け後に急増する119番通報の緊急度をAIで判定支援",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "482cad97ff9ab2eb9c68"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
