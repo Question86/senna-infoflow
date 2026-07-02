@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T21:14:52+00:00_
+_Generiert: 2026-07-02T21:46:07+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+63 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-07-02T21:14:52+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
-- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103996)
   - Quelle: GDACS
   - Zeit: ``
@@ -41,14 +37,18 @@ _Generiert: 2026-07-02T21:14:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nigeria
+- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549627)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.
-- **GDACS: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.77 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281)
+- **GDACS: Orange notification for tropical cyclone MAYSAK-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (21.806 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.77 million in Tropical Storm).
+  - Kurz: Orange notification for tropical cyclone MAYSAK-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (21.806 million in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549600)
   - Quelle: GDACS
   - Zeit: ``
@@ -87,13 +87,22 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-02T21:14:41+00:00`, fetched `2026-07-02T21:14:26+00:00`
+  - Zeit: published `2026-07-02T21:45:55+00:00`, fetched `2026-07-02T21:45:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing the Safari MCP server for web developers** — Score 23, observation — [Quelle](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-02T05:23:20+00:00`, fetched `2026-07-02T21:45:39+00:00`
+  - Treffer: agent, AI Agents, AI/KI, developer, Hatena, hotentry, technology, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.5); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful. We know agents are increasingly integral to the coding process and the Safari MCP server ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **LinqAlpha raises US$22M to bring agentic AI to public-market investors** — Score 20, observation — [Quelle](https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-02T06:00:31+00:00`, fetched `2026-07-02T06:11:39+00:00`

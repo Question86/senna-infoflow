@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-02T21:14:41+00:00",
-    "fetched_at": "2026-07-02T21:14:26+00:00",
+    "published_at": "2026-07-02T21:45:55+00:00",
+    "fetched_at": "2026-07-02T21:45:39+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,58 @@
       "HD",
       "LOW"
     ],
-    "id": "e4ddd25f88f064617613"
+    "id": "242f7f9f05a8941cd8f1"
+  },
+  {
+    "title": "Introducing the Safari MCP server for web developers",
+    "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-02T05:23:20+00:00",
+    "fetched_at": "2026-07-02T21:45:39+00:00",
+    "summary": "In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful. We know agents are increasingly integral to the coding process and the Safari MCP server ...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "AI/KI",
+      "developer",
+      "Hatena",
+      "hotentry",
+      "technology",
+      "Watchgraph:ai_agents_workflow",
+      "Webentwicklung"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.5); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP, MCP server"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "b892655fb0e2077f5e0b"
   },
   {
     "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -962,6 +1013,28 @@
     "id": "fb77a07a71aef35d7e4c"
   },
   {
+    "title": "Copilot agent session streaming is now in public preview",
+    "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-02T18:05:05+00:00",
+    "fetched_at": "2026-07-02T21:45:39+00:00",
+    "summary": "GitHub Enterprise Cloud customers with enterprise managed users can now access GitHub Copilot agent session data across all Copilot clients, including: Cloud agents operating on github.com and data resident deployments… The post Copilot agent session streaming is now in public preview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "Webentwicklung"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Webentwicklung (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e131d76be1c0c7a5993c"
+  },
+  {
     "title": "Piero Cipollone: The digital transformation of money, payments and finance",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
     "source": "ECB Press Releases Speeches Interviews",
@@ -1064,6 +1137,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e98bbf6c525f7470d273"
+  },
+  {
+    "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+    "url": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T23:14:14+00:00",
+    "fetched_at": "2026-07-02T21:45:39+00:00",
+    "summary": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表 Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「A...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88d83fbe66f6a121613c"
   },
   {
     "title": "facebook/astryx",
