@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T17:51:30+00:00",
-  "run_id": "2026-07-02T17:51:30+00:00",
+  "generated_at": "2026-07-02T18:26:41+00:00",
+  "run_id": "2026-07-02T18:26:41+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 2,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
     "medium": 10,
-    "observe": 42,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -951,6 +951,26 @@
         "id": "fb77a07a71aef35d7e4c"
       },
       {
+        "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-02T17:55:00+00:00",
+        "fetched_at": "2026-07-02T18:26:10+00:00",
+        "summary": "Piero Cipollone: The digital transformation of money, payments and finance",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3790976e4ed6c667f13b"
+      },
+      {
         "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
         "url": "https://gigazine.net/news/20260702-godot-ban-ai/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1261,6 +1281,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "35c1de67e623c00485c8"
+      },
+      {
+        "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
+        "url": "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T05:15:25+00:00",
+        "fetched_at": "2026-07-02T18:26:10+00:00",
+        "summary": "Cloudflareは2026年7月1日、Cloudflareで保護しているウェブページやデータセット、API、MCPツールなどにアクセスごとの課金を設定できる「Cloudflare Monetization Gateway」を発表しました。AIエージェントやソフトウェアからのアクセスに対して、x402という支払いプロトコルを使って料金を請求できる仕組みです。 Ann...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12c8d4306ca07f838c5a"
       },
       {
         "title": "PS3・PS Vitaのストア今度こそ閉鎖、2027年7月に全世界でサービス終了へ 延命から5年 | テクノエッジ TechnoEdge",
@@ -2350,6 +2391,26 @@
       "id": "fb77a07a71aef35d7e4c"
     },
     {
+      "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-02T17:55:00+00:00",
+      "fetched_at": "2026-07-02T18:26:10+00:00",
+      "summary": "Piero Cipollone: The digital transformation of money, payments and finance",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3790976e4ed6c667f13b"
+    },
+    {
       "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
       "url": "https://gigazine.net/news/20260702-godot-ban-ai/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2662,6 +2723,27 @@
       "id": "35c1de67e623c00485c8"
     },
     {
+      "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
+      "url": "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T05:15:25+00:00",
+      "fetched_at": "2026-07-02T18:26:10+00:00",
+      "summary": "Cloudflareは2026年7月1日、Cloudflareで保護しているウェブページやデータセット、API、MCPツールなどにアクセスごとの課金を設定できる「Cloudflare Monetization Gateway」を発表しました。AIエージェントやソフトウェアからのアクセスに対して、x402という支払いプロトコルを使って料金を請求できる仕組みです。 Ann...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12c8d4306ca07f838c5a"
+    },
+    {
       "title": "PS3・PS Vitaのストア今度こそ閉鎖、2027年7月に全世界でサービス終了へ 延命から5年 | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/07/02/5250.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2829,13 +2911,33 @@
   ],
   "new_findings": [
     {
-      "title": "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵",
-      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-9",
+      "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-02T17:55:00+00:00",
+      "fetched_at": "2026-07-02T18:26:10+00:00",
+      "summary": "Piero Cipollone: The digital transformation of money, payments and finance",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3790976e4ed6c667f13b"
+    },
+    {
+      "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
+      "url": "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T10:18:14+00:00",
-      "fetched_at": "2026-07-02T17:51:03+00:00",
-      "summary": "皆さんこんにちは。最近の熱いニュースといえばClaude Fable 5の復活ですが、時をほぼ同じくしてSonnet 5というバージョンも出ています。 仕事で少しSonnet 5を使ってみましたが、いろいろなことに気を回してくれるようになったもののSonnetの強みであるコスパの良さが若干薄れた印象も持っています。 それはさておき、...",
+      "published_at": "2026-07-02T05:15:25+00:00",
+      "fetched_at": "2026-07-02T18:26:10+00:00",
+      "summary": "Cloudflareは2026年7月1日、Cloudflareで保護しているウェブページやデータセット、API、MCPツールなどにアクセスごとの課金を設定できる「Cloudflare Monetization Gateway」を発表しました。AIエージェントやソフトウェアからのアクセスに対して、x402という支払いプロトコルを使って料金を請求できる仕組みです。 Ann...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2847,7 +2949,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2df94f03e111fae17ac0"
+      "id": "12c8d4306ca07f838c5a"
     }
   ],
   "source_errors": [],
