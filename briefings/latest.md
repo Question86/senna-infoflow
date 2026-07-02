@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T10:44:42+00:00_
+_Generiert: 2026-07-02T11:42:22+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,14 @@ _Generiert: 2026-07-02T10:44:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
+- **GDACS: Green flood alert in Nigeria** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103997)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Nigeria
+- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549627)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,10 +69,6 @@ _Generiert: 2026-07-02T10:44:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 6 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549440)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 6 thousand in MMI V.
 
 ## Wirtschaft global
 
@@ -83,7 +87,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-02T10:44:30+00:00`, fetched `2026-07-02T10:44:16+00:00`
+  - Zeit: published `2026-07-02T11:42:10+00:00`, fetched `2026-07-02T11:41:54+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -228,6 +232,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 海外投資家の日本株買いが勢いづいている。2026年1〜6月の買越額は10兆円超と半期で最大になる見通し。企業の資本効率や稼ぐ力の改善に加え、人工知能（AI）を支える半導体分野の裾野の広さも評価し、日本への投資経験が浅い新顔のマネー流入も活発だ。世界の顧客と日々向き合うUBS証券の中冨良祐株式営業部長は「機関投...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 23 km SSE of Karpathos, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-02T11:24:29.040+00:00`, fetched `2026-07-02T11:41:54+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-02 11:06:21 UTC 2026-07-02 11:06:21 UTC at epicenter Location 35.303°N 27.295°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **India is testing an alternative to Silicon Valley’s AI playbook** — Score 9, opportunity — [Quelle](https://restofworld.org/2026/india-bhashini-open-source-offline-ai-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-02T10:00:00+00:00`, fetched `2026-07-02T10:44:16+00:00`
@@ -237,15 +250,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region india: India (+2.0)
   - Kurz: A new hackathon invites developers to build offline, multilingual AI tools, challenging the idea that cutting-edge innovation belongs only to a handful of Western companies.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.3 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-02T05:39:01.040+00:00`, fetched `2026-07-02T06:11:39+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-02 05:23:17 UTC 2026-07-02 05:23:17 UTC at epicenter Location 60.997°S 23.537°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **HKUDS/Vibe-Trading** — Score 9, risk — [Quelle](https://github.com/HKUDS/Vibe-Trading)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-02T03:21:11+00:00`
