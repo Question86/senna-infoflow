@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T08:32:36+00:00_
+_Generiert: 2026-07-02T09:43:33+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+37 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-07-02T08:32:36+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.
-- **GDACS: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (27.727 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281)
+- **GDACS: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.193 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (27.727 million in Tropical Storm).
+  - Kurz: Orange notification for tropical cyclone TEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (17.193 million in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549600)
   - Quelle: GDACS
   - Zeit: ``
@@ -83,7 +83,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-02T08:32:23+00:00`, fetched `2026-07-02T08:32:08+00:00`
+  - Zeit: published `2026-07-02T09:43:21+00:00`, fetched `2026-07-02T09:43:08+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 65 km WNW of Catuday, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-02T09:40:52.040+00:00`, fetched `2026-07-02T09:43:08+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-02 09:11:23 UTC 2026-07-02 09:11:23 UTC at epicenter Location 16.538°N 119.249°E Depth 12.49 km (7.76 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -146,6 +155,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 第2回デジタル・サイバーセキュリティワーキンググループに会議資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ChatGPTの研究から「某ゲームのとんでもない二次創作を毎日数千件書かせていた人」がいたことが発覚した怪談のような話 こんなデータセットがウッカリ別のAIに学習されたらどうなってしまうんや** — Score 12, observation — [Quelle](https://togetter.com/li/2716041)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-02T05:14:47+00:00`, fetched `2026-07-02T09:43:08+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: うみゆき@AI研究 @umiyuki_ai なんか「タダでAIチャットできる代わりに入出力データはあとでデータセット化しちゃいます」みたいなサービスがあったらしく、その結果実際にWildChatデータセットとしてHuggingFaceにアップされちゃったという。このデータセットを分析してみると、やけにスケベ小説の割合が多い。さらに詳...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push** — Score 12, observation — [Quelle](https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -245,15 +263,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Netzwerkspeicher von Synology mit MailPlus Server sind attackierbar. Ein Sicherheitspatch schafft Abhilfe.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Lücken in Adobe ColdFusion und Campaign Classic: Patchdayzyklus verdoppelt** — Score 7, observation — [Quelle](https://www.heise.de/news/Adobe-Patchday-fuer-ColdFusion-und-Campaign-Classic-fortan-zweimal-im-Monat-11351219.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-02T07:43:00.000+00:00`, fetched `2026-07-02T08:32:08+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Wichtige Sicherheitsupdates schließen kritische Schadcode-Lücken in Adobe ColdFusion und Campaign Classic. Ab sofort sollen Patches häufiger erscheinen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
