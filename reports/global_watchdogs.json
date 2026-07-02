@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T22:43:39+00:00",
+  "generated_at": "2026-07-02T23:14:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -149,16 +149,6 @@
         "summary": "Green notification for tropical cyclone DOUGLAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001280",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
-        "summary": "Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279",
         "published_at": "",
         "metrics": {}
       }
