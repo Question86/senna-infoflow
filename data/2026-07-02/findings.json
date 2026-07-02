@@ -42,6 +42,51 @@
     "id": "b3b4f0bfc1f11c73ee57"
   },
   {
+    "title": "The next AI winners in Southeast Asia won’t be AI companies",
+    "url": "https://e27.co/the-next-ai-winners-in-southeast-asia-wont-be-ai-companies-20260626/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-02T01:45:25+00:00",
+    "fetched_at": "2026-07-02T02:07:11+00:00",
+    "summary": "For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Public Health",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "0f8eec45faafb007412b"
+  },
+  {
     "title": "The rise of AI twins: From assistant to infrastructure",
     "url": "https://e27.co/the-rise-of-ai-twins-from-assistant-to-infrastructure-20260626/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -63,6 +108,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2e373896a2481f69bf7a"
+  },
+  {
+    "title": "M 4.8 - 20 km ESE of Chapimarca, Peru",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ji",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-02T02:04:10.040+00:00",
+    "fetched_at": "2026-07-02T02:07:11+00:00",
+    "summary": "Time 2026-07-02 01:39:27 UTC 2026-07-02 01:39:27 UTC at epicenter Location 14.063°S 72.900°W Depth 87.86 km (54.60 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6f073e13030a96a4c0d8"
   },
   {
     "title": "M 4.5 - 150 km WSW of Lebu, Chile",
@@ -121,6 +202,63 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2b0610d184da56ac2817"
+  },
+  {
+    "title": "M 4.7 - Fiji region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ja",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-02T01:30:11.040+00:00",
+    "fetched_at": "2026-07-02T02:07:11+00:00",
+    "summary": "Time 2026-07-02 01:13:55 UTC 2026-07-02 01:13:55 UTC at epicenter Location 21.245°S 178.837°W Depth 555.30 km (345.05 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "23e0cec79af0539ecf43"
+  },
+  {
+    "title": "浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news059.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-02T01:03:53+00:00",
+    "fetched_at": "2026-07-02T02:07:11+00:00",
+    "summary": "プロフィギュアスケーター・浅田真央さんの旧公式サイトのドメイン（mao-asada.jp）を、GMOインターネットグループの「お名前.com」が、「SEO効果を最大化」「アフィリエイトサイトに」などとうたって販売していることに、批判が集まっている。 著名なサイトのドメインが第三者の手にわたると、公式サイトを模したフィッ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fb58e27990877b40ca4e"
   },
   {
     "title": "AIに「相手に電気ショックを与えろ」と命じ続けたらボタンを押すのか？ 11のLLMで“ミルグラム実験” 抵抗できたのは……",
