@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T20:13:59+00:00",
-  "run_id": "2026-07-02T20:13:59+00:00",
+  "generated_at": "2026-07-02T20:43:47+00:00",
+  "run_id": "2026-07-02T20:43:47+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 2,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
     "medium": 10,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-02T11:42:10+00:00",
-        "fetched_at": "2026-07-02T11:41:54+00:00",
+        "published_at": "2026-07-02T20:43:36+00:00",
+        "fetched_at": "2026-07-02T20:43:21+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "faced25f3fd0a795750d"
+        "id": "e1dc1e25b2aeb3baa3c3"
       },
       {
         "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -1367,6 +1367,27 @@
         "id": "1ee831a7a393a7a71cb8"
       },
       {
+        "title": "Gemini×Obsidianを最強コンビ！フル活用する方法 | ライフハッカー・ジャパン",
+        "url": "https://www.lifehacker.jp/article/2607-gemini-deep-research-with-obsidian-connected-notes/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T04:49:28+00:00",
+        "fetched_at": "2026-07-02T20:43:21+00:00",
+        "summary": "私は、最近になって乗り換えたばかりの「Obsidian」ユーザーです。 新米ユーザーではありますが、すでにいろいろと考え抜いたフォルダの階層構造を構築し、ノート間の関係を視覚化する「グラフ」システムを拡張しています。 さらに、ステップごとに、リサーチをノート化する仕組みであるパイプラインの改善に努めていま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3a977db033c39fe3ac2e"
+      },
+      {
         "title": "ツッコミどころは満載だが……東京3000年の歴史をタイムラプス化したどこかヘンなYouTube動画【やじうまWatch】",
         "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2121791.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1518,8 +1539,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-02T11:42:10+00:00",
-      "fetched_at": "2026-07-02T11:41:54+00:00",
+      "published_at": "2026-07-02T20:43:36+00:00",
+      "fetched_at": "2026-07-02T20:43:21+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1553,7 +1574,7 @@
         "HD",
         "LOW"
       ],
-      "id": "faced25f3fd0a795750d"
+      "id": "e1dc1e25b2aeb3baa3c3"
     },
     {
       "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
@@ -2849,6 +2870,27 @@
       "id": "1ee831a7a393a7a71cb8"
     },
     {
+      "title": "Gemini×Obsidianを最強コンビ！フル活用する方法 | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2607-gemini-deep-research-with-obsidian-connected-notes/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T04:49:28+00:00",
+      "fetched_at": "2026-07-02T20:43:21+00:00",
+      "summary": "私は、最近になって乗り換えたばかりの「Obsidian」ユーザーです。 新米ユーザーではありますが、すでにいろいろと考え抜いたフォルダの階層構造を構築し、ノート間の関係を視覚化する「グラフ」システムを拡張しています。 さらに、ステップごとに、リサーチをノート化する仕組みであるパイプラインの改善に努めていま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3a977db033c39fe3ac2e"
+    },
+    {
       "title": "ツッコミどころは満載だが……東京3000年の歴史をタイムラプス化したどこかヘンなYouTube動画【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2121791.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2993,7 +3035,71 @@
       "id": "58881eb6ac72129101d6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-02T20:43:36+00:00",
+      "fetched_at": "2026-07-02T20:43:21+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e1dc1e25b2aeb3baa3c3"
+    },
+    {
+      "title": "Gemini×Obsidianを最強コンビ！フル活用する方法 | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2607-gemini-deep-research-with-obsidian-connected-notes/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T04:49:28+00:00",
+      "fetched_at": "2026-07-02T20:43:21+00:00",
+      "summary": "私は、最近になって乗り換えたばかりの「Obsidian」ユーザーです。 新米ユーザーではありますが、すでにいろいろと考え抜いたフォルダの階層構造を構築し、ノート間の関係を視覚化する「グラフ」システムを拡張しています。 さらに、ステップごとに、リサーチをノート化する仕組みであるパイプラインの改善に努めていま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3a977db033c39fe3ac2e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
