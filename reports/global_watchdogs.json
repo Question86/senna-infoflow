@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T19:41:39+00:00",
+  "generated_at": "2026-07-02T20:14:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Slovakia",
+        "summary": "Green flood alert in Slovakia",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Thailand",
         "summary": "Green flood alert in Thailand",
         "source": "GDACS",
@@ -79,16 +89,6 @@
         "summary": "Green flood alert in Nigeria",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103997",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Slovakia",
-        "summary": "Green flood alert in Slovakia",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998",
         "published_at": "",
         "metrics": {}
       },
@@ -155,8 +155,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 48400 .",
-        "summary": "Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 48400 .",
+        "title": "GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
+        "summary": "Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279",
         "published_at": "",

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T19:41:35+00:00_
+_Generiert: 2026-07-02T20:13:59+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-07-02T19:41:35+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
+- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103996)
   - Quelle: GDACS
   - Zeit: ``
@@ -37,10 +41,6 @@ _Generiert: 2026-07-02T19:41:35+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nigeria
-- **GDACS: Green flood alert in Slovakia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Slovakia
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549627)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +65,10 @@ _Generiert: 2026-07-02T19:41:35+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone DOUGLAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 48400 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
+- **GDACS: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001279)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 48400 .
+  - Kurz: Red notification for tropical cyclone BAVI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .
 
 ## Wirtschaft global
 

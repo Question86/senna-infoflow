@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T19:41:35+00:00",
-  "run_id": "2026-07-02T19:41:35+00:00",
+  "generated_at": "2026-07-02T20:13:59+00:00",
+  "run_id": "2026-07-02T20:13:59+00:00",
   "date": "2026-07-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 56,
     "displayed_findings": 56,
     "high": 0,
@@ -2993,29 +2993,7 @@
       "id": "58881eb6ac72129101d6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "LINEに「プレミアムブロック」登場 相手の友だち一覧から自分を“そっと消せる” 今秋から有料提供へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news110.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-02T11:02:32+00:00",
-      "fetched_at": "2026-07-02T19:41:08+00:00",
-      "summary": "LINEヤフーは7月2日、ブロックした相手の友だちリストから自分が消える「プレミアムブロック」など4つの新機能を発表した。まずは全ユーザーが新機能を試せる「LINEラボ」で8月から先行公開。秋以降は、月額制メンバーシップ「LYPプレミアム」（月508円）の新特典として順次提供する。 LINEのブロック機能は、相手からの...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb36d3d313e6a6d76370"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
