@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-02T23:14:14+00:00_
+_Generiert: 2026-07-02T23:42:18+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+69 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-02T21:45:55+00:00`, fetched `2026-07-02T21:45:39+00:00`
+  - Zeit: published `2026-07-02T23:42:07+00:00`, fetched `2026-07-02T23:41:53+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For the past few years, Southeast Asia has been viewed as one of the world’s most promising AI growth markets. Governments launched national AI strategies. Venture capital flowed into AI startups. Every startup deck seemed to include an AI story. Yet in 2026, something fundamental has changed. The most important question is no longer: “Who […] The post The next AI winners in Southeast Asia won’t be AI companies appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIバイブコーディングでゲームのリリースが急増か、わずか6カ月で18万1000本のスマホゲームがリリースされiOSでは前年同期比118％増・Androidでは73％増** — Score 16, risk — [Quelle](https://gigazine.net/news/20260701-mobile-game-boom/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-01T22:36:29+00:00`, fetched `2026-07-02T23:41:53+00:00`
+  - Treffer: AI/KI, Climate/Disaster Infrastructure, Hatena, hotentry, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: AI/KI (+3.0); Climate/Disaster Infrastructure (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: 調査会社の分析により、スマートフォン向けアプリのリリースがかつてないほど急増していることが分かりました。その大きな要因は、AIを使ってコーディングをする「バイブコーディング」だと指摘されています。 AI and vibe coding have unleashed a flood of new games, but not necessarily better ones - Digital Tren...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Copilot CLI no longer needs a personal access token in GitHub Actions** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-02T20:25:32+00:00`, fetched `2026-07-02T22:15:30+00:00`
@@ -195,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-02 00:25:19 UTC 2026-07-02 00:25:19 UTC at epicenter Location 38.135°S 75.231°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **海外勢の日本株買い、1〜6月最大の10兆円超 AI関連株に「宝の山」 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUB266870W6A620C2000000/)
+- **Metaがスマートグラスの機能にまさかの時間制限、無料ユーザーは月3時間まで** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35249934/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-01T20:20:48+00:00`, fetched `2026-07-02T00:05:30+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+  - Zeit: published `2026-07-02T10:03:09+00:00`, fetched `2026-07-02T23:41:53+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 海外投資家の日本株買いが勢いづいている。2026年1〜6月の買越額は10兆円超と半期で最大になる見通し。企業の資本効率や稼ぐ力の改善に加え、人工知能（AI）を支える半導体分野の裾野の広さも評価し、日本への投資経験が浅い新顔のマネー流入も活発だ。世界の顧客と日々向き合うUBS証券の中冨良祐株式営業部長は「機関投...
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Metaは、同社スマートグラスの比較的新しい機能の一つである、1対1の会話の音声を聞き取りやすくする機能に時間制限を設け、延長するには月額20ドル（約3200円）のサブスクリプションが必要になることを明らかにした。 この変更の詳細は、スマートグラス向けサブスクリプションに関するMetaのヘルプページに掲載されてい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Christine Lagarde: Interview with Les Échos** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`

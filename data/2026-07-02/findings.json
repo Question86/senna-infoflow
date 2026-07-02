@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-02T21:45:55+00:00",
-    "fetched_at": "2026-07-02T21:45:39+00:00",
+    "published_at": "2026-07-02T23:42:07+00:00",
+    "fetched_at": "2026-07-02T23:41:53+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "242f7f9f05a8941cd8f1"
+    "id": "bdf50eeb190e37690cad"
   },
   {
     "title": "Introducing the Safari MCP server for web developers",
@@ -248,6 +248,55 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0efaecb551f950078e1f"
+  },
+  {
+    "title": "AIバイブコーディングでゲームのリリースが急増か、わずか6カ月で18万1000本のスマホゲームがリリースされiOSでは前年同期比118％増・Androidでは73％増",
+    "url": "https://gigazine.net/news/20260701-mobile-game-boom/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T22:36:29+00:00",
+    "fetched_at": "2026-07-02T23:41:53+00:00",
+    "summary": "調査会社の分析により、スマートフォン向けアプリのリリースがかつてないほど急増していることが分かりました。その大きな要因は、AIを使ってコーディングをする「バイブコーディング」だと指摘されています。 AI and vibe coding have unleashed a flood of new games, but not necessarily better ones - Digital Tren...",
+    "matched_keywords": [
+      "AI/KI",
+      "Climate/Disaster Infrastructure",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:storms_floods_weather"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.0); Climate/Disaster Infrastructure (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "storms_floods_weather"
+    ],
+    "watchgraph_reasons": [
+      "storms_floods_weather: flood"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "07cfb326931020cd97fe"
   },
   {
     "title": "Copilot CLI no longer needs a personal access token in GitHub Actions",
@@ -698,6 +747,28 @@
       "LOW"
     ],
     "id": "1cbd5fd1e976b58fc99e"
+  },
+  {
+    "title": "Metaがスマートグラスの機能にまさかの時間制限、無料ユーザーは月3時間まで",
+    "url": "https://japan.cnet.com/article/35249934/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-02T10:03:09+00:00",
+    "fetched_at": "2026-07-02T23:41:53+00:00",
+    "summary": "Metaは、同社スマートグラスの比較的新しい機能の一つである、1対1の会話の音声を聞き取りやすくする機能に時間制限を設け、延長するには月額20ドル（約3200円）のサブスクリプションが必要になることを明らかにした。 この変更の詳細は、スマートグラス向けサブスクリプションに関するMetaのヘルプページに掲載されてい...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0fda47d8a645b0b04eeb"
   },
   {
     "title": "海外勢の日本株買い、1〜6月最大の10兆円超 AI関連株に「宝の山」 - 日本経済新聞",
@@ -1368,6 +1439,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5a02fff1f7958c93c294"
+  },
+  {
+    "title": "Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+    "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-02T23:07:06+00:00",
+    "fetched_at": "2026-07-02T23:41:53+00:00",
+    "summary": "We will deprecate Gemini 2.5 Pro and Gemini 3 Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on July 31st,… The post Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4f79143c669a218e3d6"
   },
   {
     "title": "「モバイルSuica」復旧後も続く混乱…「物理カード最強説」再浮上 今さら聞けない自衛策を解説",
