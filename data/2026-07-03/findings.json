@@ -1078,6 +1078,27 @@
     "id": "fcefbf27340b58e5d3f2"
   },
   {
+    "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
+    "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T04:26:46+00:00",
+    "fetched_at": "2026-07-03T16:27:25+00:00",
+    "summary": "半年前に「AIに8割書かせたコードを、保守できるようにやっていること」という記事を書きました。ありがたいことに、自分がいちばん読まれた記事になりました。 あれから半年、その方針のまま実際に運用してみて、答え合わせができました。先に言うと、保守性は「足す」では買えませんでした。コメントを足す、ドキュメ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4ae69aad467c996ecf69"
+  },
+  {
     "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
     "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
     "source": "Hatena Bookmark Hotentry IT",
