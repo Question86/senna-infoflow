@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T02:48:55+00:00_
+_Generiert: 2026-07-03T04:13:01+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月02日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 149 km NNE of Hirara, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-03T04:11:55.040+00:00`, fetched `2026-07-03T04:12:35+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-03 03:53:22 UTC 2026-07-03 03:53:22 UTC at epicenter Location 26.052°N 125.867°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -123,23 +132,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html)
+- **消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2122083.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-02T21:57:50+00:00`, fetched `2026-07-03T02:48:23+00:00`
+  - Zeit: published `2026-07-03T02:11:05+00:00`, fetched `2026-07-03T04:12:35+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた
+  - Kurz: 消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2121816.html)
+- **紹介の仕方で期待値と関係性が変わる、人を紹介する技術 - 941::blog** — Score 5, observation — [Quelle](https://blog.kushii.net/archives/2026/07/03/090643)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-02T08:39:40+00:00`, fetched `2026-07-03T01:02:02+00:00`
+  - Zeit: published `2026-07-03T00:10:09+00:00`, fetched `2026-07-03T04:12:35+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で
+  - Kurz: うまく人を紹介できず、もっとうまくできたらと思ったことないですか？「あああ、もっと魅力的な人なのに」とか「めちゃくちゃ面白い人なのに紹介で失敗しちゃたな」ってこと、誰もがあると思います。 紹介は技術でどうにかなるので、意識的に上手くなっていけるやつです。入門編というかんじでざっくりどうやるとよいか...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

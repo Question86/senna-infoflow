@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T02:48:55+00:00",
-  "run_id": "2026-07-03T02:48:55+00:00",
+  "generated_at": "2026-07-03T04:13:01+00:00",
+  "run_id": "2026-07-03T04:13:01+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 5,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 4,
-    "observe": 13,
+    "medium": 5,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -179,6 +179,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "80d3ea1c685fb2388325"
+      },
+      {
+        "title": "M 4.9 - 149 km NNE of Hirara, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-03T04:11:55.040+00:00",
+        "fetched_at": "2026-07-03T04:12:35+00:00",
+        "summary": "Time 2026-07-03 03:53:22 UTC 2026-07-03 03:53:22 UTC at epicenter Location 26.052°N 125.867°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d00d7f2253124c26e82d"
       }
     ],
     "observe": [
@@ -313,6 +350,27 @@
         "id": "5a138df68c72e9f931de"
       },
       {
+        "title": "The accordion effect: How AI follows the rhythm of expansion and compression",
+        "url": "https://e27.co/the-accordion-effect-how-ai-follows-the-rhythm-of-expansion-and-compression-20260701/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-03T03:15:42+00:00",
+        "fetched_at": "2026-07-03T04:12:35+00:00",
+        "summary": "The moment we are asked to implement while still experimenting, something within starts to strain. Lately, I have been noticing this across organisations and teams working through AI integration. There is still a lot of curiosity. New tools, new ideas, new ways of working. At the same time, there is a very real shift happening […] The post The accordion effect: How AI follows the rhythm of expansion and compression…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "597c55296e9cf4bc3ecf"
+      },
+      {
         "title": "Why Compute Futures make sense even in a deflationary market",
         "url": "https://e27.co/why-compute-futures-make-sense-even-in-a-deflationary-market-20260701/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -373,6 +431,69 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c575d22f815153d0c9bb"
+      },
+      {
+        "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2122083.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T02:11:05+00:00",
+        "fetched_at": "2026-07-03T04:12:35+00:00",
+        "summary": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "94c9f9706dde472157d9"
+      },
+      {
+        "title": "紹介の仕方で期待値と関係性が変わる、人を紹介する技術 - 941::blog",
+        "url": "https://blog.kushii.net/archives/2026/07/03/090643",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T00:10:09+00:00",
+        "fetched_at": "2026-07-03T04:12:35+00:00",
+        "summary": "うまく人を紹介できず、もっとうまくできたらと思ったことないですか？「あああ、もっと魅力的な人なのに」とか「めちゃくちゃ面白い人なのに紹介で失敗しちゃたな」ってこと、誰もがあると思います。 紹介は技術でどうにかなるので、意識的に上手くなっていけるやつです。入門編というかんじでざっくりどうやるとよいか...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b5914194d88f2f404bd3"
+      },
+      {
+        "title": "「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう",
+        "url": "https://kensuu.com/n/nab3eb1959ef2",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T22:42:06+00:00",
+        "fetched_at": "2026-07-03T04:12:35+00:00",
+        "summary": "こんにちは！ AI時代になって、かなり「理解しないけど仕事を進める」というのが増えてきたなあ、と思っていて、、 AIに考えてもらったやつをAIがレビューして、それをAIが実装する、みたいなことが起きた時に、中身についてあまり気にしなくてもいいときが増えてきました。特に、自分用のアプリやツールを作る程度だと...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be6fa5f1f6469bb8cf6d"
       },
       {
         "title": "【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた",
@@ -612,6 +733,43 @@
       "id": "80d3ea1c685fb2388325"
     },
     {
+      "title": "M 4.9 - 149 km NNE of Hirara, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-03T04:11:55.040+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "Time 2026-07-03 03:53:22 UTC 2026-07-03 03:53:22 UTC at epicenter Location 26.052°N 125.867°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d00d7f2253124c26e82d"
+    },
+    {
       "title": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -742,6 +900,27 @@
       "id": "5a138df68c72e9f931de"
     },
     {
+      "title": "The accordion effect: How AI follows the rhythm of expansion and compression",
+      "url": "https://e27.co/the-accordion-effect-how-ai-follows-the-rhythm-of-expansion-and-compression-20260701/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T03:15:42+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "The moment we are asked to implement while still experimenting, something within starts to strain. Lately, I have been noticing this across organisations and teams working through AI integration. There is still a lot of curiosity. New tools, new ideas, new ways of working. At the same time, there is a very real shift happening […] The post The accordion effect: How AI follows the rhythm of expansion and compression…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "597c55296e9cf4bc3ecf"
+    },
+    {
       "title": "Why Compute Futures make sense even in a deflationary market",
       "url": "https://e27.co/why-compute-futures-make-sense-even-in-a-deflationary-market-20260701/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -802,6 +981,69 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c575d22f815153d0c9bb"
+    },
+    {
+      "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2122083.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T02:11:05+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "94c9f9706dde472157d9"
+    },
+    {
+      "title": "紹介の仕方で期待値と関係性が変わる、人を紹介する技術 - 941::blog",
+      "url": "https://blog.kushii.net/archives/2026/07/03/090643",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T00:10:09+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "うまく人を紹介できず、もっとうまくできたらと思ったことないですか？「あああ、もっと魅力的な人なのに」とか「めちゃくちゃ面白い人なのに紹介で失敗しちゃたな」ってこと、誰もがあると思います。 紹介は技術でどうにかなるので、意識的に上手くなっていけるやつです。入門編というかんじでざっくりどうやるとよいか...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b5914194d88f2f404bd3"
+    },
+    {
+      "title": "「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう",
+      "url": "https://kensuu.com/n/nab3eb1959ef2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T22:42:06+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "こんにちは！ AI時代になって、かなり「理解しないけど仕事を進める」というのが増えてきたなあ、と思っていて、、 AIに考えてもらったやつをAIがレビューして、それをAIが実装する、みたいなことが起きた時に、中身についてあまり気にしなくてもいいときが増えてきました。特に、自分用のアプリやツールを作る程度だと...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be6fa5f1f6469bb8cf6d"
     },
     {
       "title": "【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた",
@@ -889,76 +1131,27 @@
   ],
   "new_findings": [
     {
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman caveman why use many token when few do trick Before/After • Install • What You Get • Benchmarks • Full install guide A Claude Code skill/plugin (also Codex, Gemini, Cursor, Windsurf, Cline, Copilot, 30+ more) that makes agent talk like caveman — cuts ~75% of output tokens , keeps full technical accuracy.…",
-      "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "Content-Chance",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "0cf4dbd97cb249938491"
-    },
-    {
-      "title": "M 6.2 - 58 km W of Tobelo, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r5",
+      "title": "M 4.9 - 149 km NNE of Hirara, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-03T02:47:27.979+00:00",
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "ShakeMap - V Time 2026-07-03 02:31:28 UTC 2026-07-03 02:31:28 UTC at epicenter Location 1.821°N 127.492°E Depth 120.93 km (75.14 mi)",
+      "published_at": "2026-07-03T04:11:55.040+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "Time 2026-07-03 03:53:22 UTC 2026-07-03 03:53:22 UTC at epicenter Location 26.052°N 125.867°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -972,123 +1165,37 @@
         "HD",
         "LOW"
       ],
-      "id": "11e50a1604e387e9d82d"
+      "id": "d00d7f2253124c26e82d"
     },
     {
-      "title": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. Career-Ops English | Deutsch | Español | Français | Português (Brasil) | 한국어 | 日本語 | 简体中文 | 繁體中文 | Українська | Русский | Polski | Dansk | العربية I spent months applying to jobs the hard way. So I engineered the system I wish I had. Companies use AI to filter candidates. I just gave candidates AI to ch…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3623b2578bcc4989cd1b"
-    },
-    {
-      "title": "Singapore, AI, and the rise of emotional outsourcing",
-      "url": "https://e27.co/singapore-ai-and-the-rise-of-emotional-outsourcing-20260701/",
+      "title": "The accordion effect: How AI follows the rhythm of expansion and compression",
+      "url": "https://e27.co/the-accordion-effect-how-ai-follows-the-rhythm-of-expansion-and-compression-20260701/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-03T02:00:00+00:00",
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "People used to ask AI for help with parts of modern life, like making an email sound less annoyed or explaining a spreadsheet formula without forcing anyone to revisit their relationship with mathematics. Lately, the exchange has become more intimate. The same tools built to summarise, draft and optimise are now being invited into moments […] The post Singapore, AI, and the rise of emotional outsourcing appeared fir…",
+      "published_at": "2026-07-03T03:15:42+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "The moment we are asked to implement while still experimenting, something within starts to strain. Lately, I have been noticing this across organisations and teams working through AI integration. There is still a lot of curiosity. New tools, new ideas, new ways of working. At the same time, there is a very real shift happening […] The post The accordion effect: How AI follows the rhythm of expansion and compression…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e27d5e7ee11344247c27"
+      "id": "597c55296e9cf4bc3ecf"
     },
     {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. We're Hiring! We're hiring someone to help out full time with Superpowers community and code work. You can read about the job at https://pr…",
-      "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5a138df68c72e9f931de"
-    },
-    {
-      "title": "Why Compute Futures make sense even in a deflationary market",
-      "url": "https://e27.co/why-compute-futures-make-sense-even-in-a-deflationary-market-20260701/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-03T01:45:52+00:00",
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "CME Group recently announced plans to launch Compute Futures, tied to GPU and AI compute capacity. At first glance, this feels counterintuitive. Compute is a technology-driven input where costs consistently decline over time due to hardware improvements, manufacturing scale, and efficiency gains. If the long-run direction is structurally downward, what is there to hedge or […] The post Why Compute Futures make sense…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba6ff540d9e27f1f9159"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年7月3日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260703-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-03T02:19:17+00:00",
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "松本大臣記者会見（令和8年7月3日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9c2747bdf205ac9d63d6"
-    },
-    {
-      "title": "【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html",
+      "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2122083.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T21:57:50+00:00",
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "【特集】 ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた",
+      "published_at": "2026-07-03T02:11:05+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1100,27 +1207,49 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "83072fc4c091f1c599d0"
+      "id": "94c9f9706dde472157d9"
     },
     {
-      "title": "What actually drives software development costs (and why most budgets get it wrong)",
-      "url": "https://e27.co/software-project-costs-20260615/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "紹介の仕方で期待値と関係性が変わる、人を紹介する技術 - 941::blog",
+      "url": "https://blog.kushii.net/archives/2026/07/03/090643",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-03T01:45:39+00:00",
-      "fetched_at": "2026-07-03T02:48:23+00:00",
-      "summary": "Every project I’ve worked on that went over budget had one thing in common: the people paying for it thought they understood what they were buying. They had a quote, a timeline, and a feature list. What they didn’t have was a real picture of what drives cost in software development. And that gap is expensive. I’ve seen a six-figure project […] The post What actually drives software development costs (and why most bu…",
+      "published_at": "2026-07-03T00:10:09+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "うまく人を紹介できず、もっとうまくできたらと思ったことないですか？「あああ、もっと魅力的な人なのに」とか「めちゃくちゃ面白い人なのに紹介で失敗しちゃたな」ってこと、誰もがあると思います。 紹介は技術でどうにかなるので、意識的に上手くなっていけるやつです。入門編というかんじでざっくりどうやるとよいか...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "433c4b1235e3cb4fc7a5"
+      "id": "b5914194d88f2f404bd3"
+    },
+    {
+      "title": "「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう",
+      "url": "https://kensuu.com/n/nab3eb1959ef2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T22:42:06+00:00",
+      "fetched_at": "2026-07-03T04:12:35+00:00",
+      "summary": "こんにちは！ AI時代になって、かなり「理解しないけど仕事を進める」というのが増えてきたなあ、と思っていて、、 AIに考えてもらったやつをAIがレビューして、それをAIが実装する、みたいなことが起きた時に、中身についてあまり気にしなくてもいいときが増えてきました。特に、自分用のアプリやツールを作る程度だと...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be6fa5f1f6469bb8cf6d"
     }
   ],
   "source_errors": [],
