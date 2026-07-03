@@ -254,6 +254,27 @@
     "id": "99b69ba228c86108ba00"
   },
   {
+    "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
+    "url": "https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-03T07:48:42+00:00",
+    "fetched_at": "2026-07-03T07:54:29+00:00",
+    "summary": "MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9561e74aad1719a1ee5f"
+  },
+  {
     "title": "Singapore, AI, and the rise of emotional outsourcing",
     "url": "https://e27.co/singapore-ai-and-the-rise-of-emotional-outsourcing-20260701/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -604,6 +625,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9307922068f5c7c0acd1"
+  },
+  {
+    "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
+    "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T04:13:31+00:00",
+    "fetched_at": "2026-07-03T07:54:29+00:00",
+    "summary": "HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである。summer o...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b911c352488a7b608732"
+  },
+  {
+    "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+    "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T03:22:59+00:00",
+    "fetched_at": "2026-07-03T07:54:29+00:00",
+    "summary": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0bd8b0c423e7ed2b60ca"
   },
   {
     "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",

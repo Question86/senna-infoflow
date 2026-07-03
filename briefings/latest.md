@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T06:48:44+00:00_
+_Generiert: 2026-07-03T07:54:54+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,6 @@ _Generiert: 2026-07-03T06:48:44+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
-- **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103996)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Thailand
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877)
   - Quelle: GDACS
   - Zeit: ``
@@ -156,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation** — Score 10, opportunity — [Quelle](https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-03T07:48:42+00:00`, fetched `2026-07-03T07:54:29+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Singapore, AI, and the rise of emotional outsourcing** — Score 10, observation — [Quelle](https://e27.co/singapore-ai-and-the-rise-of-emotional-outsourcing-20260701/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-03T02:00:00+00:00`, fetched `2026-07-03T02:48:23+00:00`
@@ -164,15 +169,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: People used to ask AI for help with parts of modern life, like making an email sound less annoyed or explaining a spreadsheet formula without forcing anyone to revisit their relationship with mathematics. Lately, the exchange has become more intimate. The same tools built to summarise, draft and optimise are now being invited into moments […] The post Singapore, AI, and the rise of emotional outsourcing appeared fir…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **7 leadership skills every manager needs in a monitored workplace** — Score 10, observation — [Quelle](https://e27.co/7-leadership-skills-every-manager-needs-in-a-monitored-workplace-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-03T01:15:06+00:00`, fetched `2026-07-03T01:45:18+00:00`
-  - Treffer: AI Agents, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Modern workplaces are increasingly shaped by visibility and accountability. When employees know their work is being monitored, expectations around leadership naturally change. Managers are no longer judged only by results, but by how they lead people in environments where oversight is part of daily work. This shift has measurable consequences. According to the APA’s 2024 […] The post 7 leadership skills every manage…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」** — Score 10, opportunity — [Quelle](https://www.itmedia.co.jp/news/articles/2607/03/news050.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -237,14 +233,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ついに来たか、という印象だった。ソニー・インタラクティブエンタテインメント（SIE）は、PlayStationコンソール向けの新作ゲームのディスク生産を2028年1月に終了する。ゲームの流通手段としての光学ディスクは40年近い歴史を持つが、いよいよ終わりが見えてきたようだ。 もともと音楽用に開発されたCDは、比較的早い...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2122083.html)
+- **curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/okssusucha/items/d17ac3c49e568266123d)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-03T02:11:05+00:00`, fetched `2026-07-03T04:12:35+00:00`
+  - Zeit: published `2026-07-03T04:13:31+00:00`, fetched `2026-07-03T07:54:29+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証
+  - Kurz: HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである。summer o...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

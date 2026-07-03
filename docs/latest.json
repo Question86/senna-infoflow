@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:48:44+00:00",
-  "run_id": "2026-07-03T06:48:44+00:00",
+  "generated_at": "2026-07-03T07:54:54+00:00",
+  "run_id": "2026-07-03T07:54:54+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 3,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 6,
-    "observe": 27,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -284,6 +284,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "99b69ba228c86108ba00"
+      },
+      {
+        "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
+        "url": "https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-03T07:48:42+00:00",
+        "fetched_at": "2026-07-03T07:54:29+00:00",
+        "summary": "MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9561e74aad1719a1ee5f"
       },
       {
         "title": "Singapore, AI, and the rise of emotional outsourcing",
@@ -636,6 +657,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9307922068f5c7c0acd1"
+      },
+      {
+        "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
+        "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T04:13:31+00:00",
+        "fetched_at": "2026-07-03T07:54:29+00:00",
+        "summary": "HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである。summer o...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b911c352488a7b608732"
+      },
+      {
+        "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+        "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T03:22:59+00:00",
+        "fetched_at": "2026-07-03T07:54:29+00:00",
+        "summary": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0bd8b0c423e7ed2b60ca"
       },
       {
         "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
@@ -1082,6 +1145,27 @@
       "id": "99b69ba228c86108ba00"
     },
     {
+      "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
+      "url": "https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T07:48:42+00:00",
+      "fetched_at": "2026-07-03T07:54:29+00:00",
+      "summary": "MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9561e74aad1719a1ee5f"
+    },
+    {
       "title": "Singapore, AI, and the rise of emotional outsourcing",
       "url": "https://e27.co/singapore-ai-and-the-rise-of-emotional-outsourcing-20260701/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1434,6 +1518,48 @@
       "id": "9307922068f5c7c0acd1"
     },
     {
+      "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
+      "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T04:13:31+00:00",
+      "fetched_at": "2026-07-03T07:54:29+00:00",
+      "summary": "HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである。summer o...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b911c352488a7b608732"
+    },
+    {
+      "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T03:22:59+00:00",
+      "fetched_at": "2026-07-03T07:54:29+00:00",
+      "summary": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0bd8b0c423e7ed2b60ca"
+    },
+    {
       "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
       "url": "https://pc.watch.impress.co.jp/docs/news/2122083.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1623,175 +1749,34 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-03T06:48:29+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9cfe096aa349cfd09315"
-    },
-    {
-      "title": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
-      "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
+      "url": "https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-03T06:00:00+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+      "published_at": "2026-07-03T07:48:42+00:00",
+      "fetched_at": "2026-07-03T07:54:29+00:00",
+      "summary": "MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "18fc807f5482929f5c3a"
+      "id": "9561e74aad1719a1ee5f"
     },
     {
-      "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
-      "url": "https://www.digital.go.jp/policies/health/public-medical-hub",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-03T06:00:00+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d404a090dca1a5eca19"
-    },
-    {
-      "title": "令和7年度における環境物品等の調達実績の概要を掲載しました",
-      "url": "https://www.digital.go.jp/procurement/environmental_goods",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-03T06:00:00+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "令和7年度における環境物品等の調達実績の概要を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db662096c27750566ffa"
-    },
-    {
-      "title": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
-      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc/private-usecase-list",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-03T06:00:00+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d85ea1f503058763eeea"
-    },
-    {
-      "title": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
-      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-03T06:00:00+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb9c581e05b08823dba5"
-    },
-    {
-      "title": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
-      "url": "https://www.digital.go.jp/policies/electronic_invoice",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-03T06:00:00+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b06f15d56f7b92da586e"
-    },
-    {
-      "title": "認証認可を通して学ぶ、『わからない』のつぶし方 - ID沼入口 発表資料",
-      "url": "https://speakerdeck.com/calloc134/ren-zheng-ren-ke-wotong-sitexue-bu-wakaranai-notubusifang-jia-idzhao-ru-kou-fa-biao-zi-liao",
+      "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
+      "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-02T11:12:40+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
-      "summary": "“ID沼入口” - 基本とセキュリティから始める、考え続けるためのID管理技術勉強会 で発表を行う資料です。 現在作成中のため、変更のある可能性があります。 https://openid.connpass.com/event/396041/",
+      "published_at": "2026-07-03T04:13:31+00:00",
+      "fetched_at": "2026-07-03T07:54:29+00:00",
+      "summary": "HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである。summer o...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1803,7 +1788,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dea960102216bf3bbd09"
+      "id": "b911c352488a7b608732"
+    },
+    {
+      "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T03:22:59+00:00",
+      "fetched_at": "2026-07-03T07:54:29+00:00",
+      "summary": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0bd8b0c423e7ed2b60ca"
     }
   ],
   "source_errors": [],
