@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T16:27:53+00:00",
-  "run_id": "2026-07-03T16:27:53+00:00",
+  "generated_at": "2026-07-03T17:02:10+00:00",
+  "run_id": "2026-07-03T17:02:10+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 55,
     "displayed_findings": 55,
     "high": 0,
@@ -2691,29 +2691,7 @@
       "id": "433c4b1235e3cb4fc7a5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
-      "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-03T04:26:46+00:00",
-      "fetched_at": "2026-07-03T16:27:25+00:00",
-      "summary": "半年前に「AIに8割書かせたコードを、保守できるようにやっていること」という記事を書きました。ありがたいことに、自分がいちばん読まれた記事になりました。 あれから半年、その方針のまま実際に運用してみて、答え合わせができました。先に言うと、保守性は「足す」では買えませんでした。コメントを足す、ドキュメ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4ae69aad467c996ecf69"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
