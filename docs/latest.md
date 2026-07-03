@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T11:11:04+00:00_
+_Generiert: 2026-07-03T11:58:46+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+48 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開** — Score 11, observation — [Quelle](https://cloud.watch.impress.co.jp/docs/news/2121848.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-03T00:07:55+00:00`, fetched `2026-07-03T11:58:21+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ecosystem Roundup: Why Omoway’s real test hasn’t started yet** — Score 10, observation — [Quelle](https://e27.co/ecosystem-roundup-why-omoways-real-test-hasnt-started-yet-20260703/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-03T10:51:12+00:00`, fetched `2026-07-03T11:10:39+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和7年度における環境物品等の調達実績の概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/environmental_goods)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-03T06:00:00+00:00`, fetched `2026-07-03T06:48:14+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和7年度における環境物品等の調達実績の概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

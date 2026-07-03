@@ -373,6 +373,28 @@
     "id": "99b69ba228c86108ba00"
   },
   {
+    "title": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2121848.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T00:07:55+00:00",
+    "fetched_at": "2026-07-03T11:58:21+00:00",
+    "summary": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0259e751b386177b7a9d"
+  },
+  {
     "title": "Ecosystem Roundup: Why Omoway’s real test hasn’t started yet",
     "url": "https://e27.co/ecosystem-roundup-why-omoways-real-test-hasnt-started-yet-20260703/",
     "source": "e27 Asia Startup and Tech Feed",
