@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T23:10:53+00:00",
-  "run_id": "2026-07-03T23:10:53+00:00",
+  "generated_at": "2026-07-03T23:38:22+00:00",
+  "run_id": "2026-07-03T23:38:22+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 60
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "new_relevant_findings": 1,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 11,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1155,6 +1155,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "88059f89d2307ab5a662"
+      },
+      {
+        "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
+        "url": "https://gigazine.net/news/20260703-steam-machine-appearance/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T10:43:39+00:00",
+        "fetched_at": "2026-07-03T23:37:57+00:00",
+        "summary": "「Steam Machine」はSteam OSを搭載したSteam公式ゲーミングPCです。PlayStationやXBOXと違ってLinuxベースのOSを搭載しており、Steamライブラリ上のゲームをプレイできるだけでなくLinuxマシンとして使うことも可能です。かなり面白そうなデバイスだったので発売と同時に購入。2026年7月1日にGIGAZINE編集部に届いたの...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eb0fb51eb8decf5c898e"
       },
       {
         "title": "AIで実装コストが低くなった今、エンジニアは上流に行くべきか？｜いしい",
@@ -2640,6 +2661,27 @@
       "id": "88059f89d2307ab5a662"
     },
     {
+      "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
+      "url": "https://gigazine.net/news/20260703-steam-machine-appearance/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:43:39+00:00",
+      "fetched_at": "2026-07-03T23:37:57+00:00",
+      "summary": "「Steam Machine」はSteam OSを搭載したSteam公式ゲーミングPCです。PlayStationやXBOXと違ってLinuxベースのOSを搭載しており、Steamライブラリ上のゲームをプレイできるだけでなくLinuxマシンとして使うことも可能です。かなり面白そうなデバイスだったので発売と同時に購入。2026年7月1日にGIGAZINE編集部に届いたの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb0fb51eb8decf5c898e"
+    },
+    {
       "title": "AIで実装コストが低くなった今、エンジニアは上流に行くべきか？｜いしい",
       "url": "https://note.com/danimal141/n/neeb219bbc03f",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2995,7 +3037,29 @@
       "id": "433c4b1235e3cb4fc7a5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
+      "url": "https://gigazine.net/news/20260703-steam-machine-appearance/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:43:39+00:00",
+      "fetched_at": "2026-07-03T23:37:57+00:00",
+      "summary": "「Steam Machine」はSteam OSを搭載したSteam公式ゲーミングPCです。PlayStationやXBOXと違ってLinuxベースのOSを搭載しており、Steamライブラリ上のゲームをプレイできるだけでなくLinuxマシンとして使うことも可能です。かなり面白そうなデバイスだったので発売と同時に購入。2026年7月1日にGIGAZINE編集部に届いたの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb0fb51eb8decf5c898e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
