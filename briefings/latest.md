@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T20:26:24+00:00_
+_Generiert: 2026-07-03T20:51:20+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,30 +29,8 @@ _Generiert: 2026-07-03T20:26:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549862)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549627)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.
-- **GDACS: Orange notification for tropical cyclone MAYSAK-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.374 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone MAYSAK-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.374 million in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549600)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fd6d12d6750>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -71,7 +49,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-03T19:54:30+00:00`, fetched `2026-07-03T19:54:15+00:00`
+  - Zeit: published `2026-07-03T20:51:09+00:00`, fetched `2026-07-03T20:50:55+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -261,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. We're Hiring! We're hiring someone to help out full time with Superpowers community and code work. You can read about the job at https://pr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-03T20:50:26.040+00:00`, fetched `2026-07-03T20:50:55+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-03 20:22:15 UTC 2026-07-03 20:22:15 UTC at epicenter Location 62.113°S 155.788°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - west of Macquarie Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ts)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-03T09:53:03.040+00:00`, fetched `2026-07-03T10:11:01+00:00`
@@ -278,15 +265,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Mehrere Produkte aus Ubiquitis UniFi-Ökosystem sind von teils kritischen Lücken betroffen. Admins sollten die abgesicherten Versionen zügig einspielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/health/public-medical-hub)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-03T06:00:00+00:00`, fetched `2026-07-03T06:48:14+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
