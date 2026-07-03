@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T10:11:29+00:00",
-  "run_id": "2026-07-03T10:11:29+00:00",
+  "generated_at": "2026-07-03T11:11:04+00:00",
+  "run_id": "2026-07-03T11:11:04+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 3,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
     "medium": 7,
-    "observe": 38,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-03T06:48:29+00:00",
-        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "published_at": "2026-07-03T11:10:53+00:00",
+        "fetched_at": "2026-07-03T11:10:39+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "9cfe096aa349cfd09315"
+        "id": "abf770d5ca13d53b0bac"
       },
       {
         "title": "JuliusBrussee/caveman",
@@ -403,6 +403,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "99b69ba228c86108ba00"
+      },
+      {
+        "title": "Ecosystem Roundup: Why Omoway’s real test hasn’t started yet",
+        "url": "https://e27.co/ecosystem-roundup-why-omoways-real-test-hasnt-started-yet-20260703/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-03T10:51:12+00:00",
+        "fetched_at": "2026-07-03T11:10:39+00:00",
+        "summary": "Omoway arrives in Southeast Asia with a compelling origin story: BYD co-founder as an investor, a fresh funding round, and a market that looks, on paper, ripe for disruption. Two-wheelers dominate urban mobility across the region. Fuel costs sting. Air quality in cities like Jakarta and Ho Chi Minh City has made clean transport a […] The post Ecosystem Roundup: Why Omoway’s real test hasn’t started yet appeared firs…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "funding",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27afce90677ce884803a"
       },
       {
         "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
@@ -834,6 +857,27 @@
         "id": "c575d22f815153d0c9bb"
       },
       {
+        "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T07:29:03+00:00",
+        "fetched_at": "2026-07-03T11:10:39+00:00",
+        "summary": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "308cbb7de19c71ed5c8e"
+      },
+      {
         "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
         "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1133,8 +1177,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T06:48:29+00:00",
-      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "published_at": "2026-07-03T11:10:53+00:00",
+      "fetched_at": "2026-07-03T11:10:39+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1168,7 +1212,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9cfe096aa349cfd09315"
+      "id": "abf770d5ca13d53b0bac"
     },
     {
       "title": "JuliusBrussee/caveman",
@@ -1500,6 +1544,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "99b69ba228c86108ba00"
+    },
+    {
+      "title": "Ecosystem Roundup: Why Omoway’s real test hasn’t started yet",
+      "url": "https://e27.co/ecosystem-roundup-why-omoways-real-test-hasnt-started-yet-20260703/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:51:12+00:00",
+      "fetched_at": "2026-07-03T11:10:39+00:00",
+      "summary": "Omoway arrives in Southeast Asia with a compelling origin story: BYD co-founder as an investor, a fresh funding round, and a market that looks, on paper, ripe for disruption. Two-wheelers dominate urban mobility across the region. Fuel costs sting. Air quality in cities like Jakarta and Ho Chi Minh City has made clean transport a […] The post Ecosystem Roundup: Why Omoway’s real test hasn’t started yet appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27afce90677ce884803a"
     },
     {
       "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
@@ -1931,6 +1998,27 @@
       "id": "c575d22f815153d0c9bb"
     },
     {
+      "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T07:29:03+00:00",
+      "fetched_at": "2026-07-03T11:10:39+00:00",
+      "summary": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "308cbb7de19c71ed5c8e"
+    },
+    {
       "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
       "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2225,19 +2313,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - west of Macquarie Island",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ts",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-03T09:53:03.040+00:00",
-      "fetched_at": "2026-07-03T10:11:01+00:00",
-      "summary": "Time 2026-07-03 09:16:35 UTC 2026-07-03 09:16:35 UTC at epicenter Location 56.271°S 147.039°E Depth 10.00 km (6.21 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-03T11:10:53+00:00",
+      "fetched_at": "2026-07-03T11:10:39+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2258,7 +2352,51 @@
         "HD",
         "LOW"
       ],
-      "id": "3481b955573a0db9b7b3"
+      "id": "abf770d5ca13d53b0bac"
+    },
+    {
+      "title": "Ecosystem Roundup: Why Omoway’s real test hasn’t started yet",
+      "url": "https://e27.co/ecosystem-roundup-why-omoways-real-test-hasnt-started-yet-20260703/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:51:12+00:00",
+      "fetched_at": "2026-07-03T11:10:39+00:00",
+      "summary": "Omoway arrives in Southeast Asia with a compelling origin story: BYD co-founder as an investor, a fresh funding round, and a market that looks, on paper, ripe for disruption. Two-wheelers dominate urban mobility across the region. Fuel costs sting. Air quality in cities like Jakarta and Ho Chi Minh City has made clean transport a […] The post Ecosystem Roundup: Why Omoway’s real test hasn’t started yet appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27afce90677ce884803a"
+    },
+    {
+      "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T07:29:03+00:00",
+      "fetched_at": "2026-07-03T11:10:39+00:00",
+      "summary": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "308cbb7de19c71ed5c8e"
     }
   ],
   "source_errors": [],

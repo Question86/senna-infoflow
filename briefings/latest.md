@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T10:11:29+00:00_
+_Generiert: 2026-07-03T11:11:04+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-07-03T10:11:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:536.709km) in Fiji 01/07/2026 10:42 UTC, 10 thousand in MMI II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549555)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:536.709km) in Fiji 01/07/2026 10:42 UTC, 10 thousand in MMI II.
 
 ## Wirtschaft global
 
@@ -79,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-03T06:48:29+00:00`, fetched `2026-07-03T06:48:14+00:00`
+  - Zeit: published `2026-07-03T11:10:53+00:00`, fetched `2026-07-03T11:10:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -188,6 +184,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ecosystem Roundup: Why Omoway’s real test hasn’t started yet** — Score 10, observation — [Quelle](https://e27.co/ecosystem-roundup-why-omoways-real-test-hasnt-started-yet-20260703/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-03T10:51:12+00:00`, fetched `2026-07-03T11:10:39+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)
+  - Kurz: Omoway arrives in Southeast Asia with a compelling origin story: BYD co-founder as an investor, a fresh funding round, and a market that looks, on paper, ripe for disruption. Two-wheelers dominate urban mobility across the region. Fuel costs sting. Air quality in cities like Jakarta and Ho Chi Minh City has made clean transport a […] The post Ecosystem Roundup: Why Omoway’s real test hasn’t started yet appeared firs…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Households and non-financial corporations in the euro area: first quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-07-03T09:00:00+00:00`, fetched `2026-07-03T09:05:31+00:00`
@@ -206,15 +211,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Singapore, AI, and the rise of emotional outsourcing** — Score 10, observation — [Quelle](https://e27.co/singapore-ai-and-the-rise-of-emotional-outsourcing-20260701/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-03T02:00:00+00:00`, fetched `2026-07-03T02:48:23+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: People used to ask AI for help with parts of modern life, like making an email sound less annoyed or explaining a spreadsheet formula without forcing anyone to revisit their relationship with mathematics. Lately, the exchange has become more intimate. The same tools built to summarise, draft and optimise are now being invited into moments […] The post Singapore, AI, and the rise of emotional outsourcing appeared fir…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」** — Score 10, opportunity — [Quelle](https://www.itmedia.co.jp/news/articles/2607/03/news050.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-02T22:02:59+00:00`, fetched `2026-07-03T01:02:02+00:00`
