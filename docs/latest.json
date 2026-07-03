@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T00:12:12+00:00",
-  "run_id": "2026-07-03T00:12:12+00:00",
+  "generated_at": "2026-07-03T01:02:28+00:00",
+  "run_id": "2026-07-03T01:02:28+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 5,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
-    "medium": 1,
-    "observe": 1,
+    "medium": 2,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-03T00:12:00+00:00",
-        "fetched_at": "2026-07-03T00:11:46+00:00",
+        "published_at": "2026-07-03T01:02:16+00:00",
+        "fetched_at": "2026-07-03T01:02:02+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,10 +69,97 @@
           "HD",
           "LOW"
         ],
-        "id": "2b4785e96652cbe861b8"
+        "id": "ce5112211fec95f8cb4b"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
+        "url": "https://jvn.jp/vu/JVNVU97594085/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-03T09:30:00+09:00",
+        "fetched_at": "2026-07-03T01:02:02+00:00",
+        "summary": "2026年07月02日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "80d3ea1c685fb2388325"
       }
     ],
     "observe": [
+      {
+        "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T22:02:59+00:00",
+        "fetched_at": "2026-07-03T01:02:02+00:00",
+        "summary": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」：AWS Summit Japan 2026（1/2 ページ） 老朽化した基幹システムの刷新に、生成AIを持ち込む企業が増えている。設計書が残っていなくても、AIがソースコードを読み解き、業務ロジックを洗い出す。人の手では現実的でなかっ...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a28709e64eafe9ff4d47"
+      },
+      {
+        "title": "Improved accuracy and coverage in Copilot usage metrics reports",
+        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-02T23:19:06+00:00",
+        "fetched_at": "2026-07-03T01:02:02+00:00",
+        "summary": "We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c575d22f815153d0c9bb"
+      },
+      {
+        "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2121816.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T08:39:40+00:00",
+        "fetched_at": "2026-07-03T01:02:02+00:00",
+        "summary": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "553755c1d04f111cfaed"
+      },
       {
         "title": "MS、Windows11が無駄にストレージの容量を食う不具合を認める。環境によっては99GBも。KB5095093 / KB5095091で修正 | ニッチなPCゲーマーの環境構築Z",
         "url": "https://www.nichepcgamer.com/archives/post-130564.html",
@@ -102,8 +189,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T00:12:00+00:00",
-      "fetched_at": "2026-07-03T00:11:46+00:00",
+      "published_at": "2026-07-03T01:02:16+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -137,7 +224,94 @@
         "HD",
         "LOW"
       ],
-      "id": "2b4785e96652cbe861b8"
+      "id": "ce5112211fec95f8cb4b"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
+      "url": "https://jvn.jp/vu/JVNVU97594085/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-03T09:30:00+09:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "2026年07月02日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80d3ea1c685fb2388325"
+    },
+    {
+      "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T22:02:59+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」：AWS Summit Japan 2026（1/2 ページ） 老朽化した基幹システムの刷新に、生成AIを持ち込む企業が増えている。設計書が残っていなくても、AIがソースコードを読み解き、業務ロジックを洗い出す。人の手では現実的でなかっ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a28709e64eafe9ff4d47"
+    },
+    {
+      "title": "Improved accuracy and coverage in Copilot usage metrics reports",
+      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-02T23:19:06+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c575d22f815153d0c9bb"
+    },
+    {
+      "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2121816.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T08:39:40+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "553755c1d04f111cfaed"
     },
     {
       "title": "MS、Windows11が無駄にストレージの容量を食う不具合を認める。環境によっては99GBも。KB5095093 / KB5095091で修正 | ニッチなPCゲーマーの環境構築Z",
@@ -167,8 +341,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T00:12:00+00:00",
-      "fetched_at": "2026-07-03T00:11:46+00:00",
+      "published_at": "2026-07-03T01:02:16+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -202,16 +376,82 @@
         "HD",
         "LOW"
       ],
-      "id": "2b4785e96652cbe861b8"
+      "id": "ce5112211fec95f8cb4b"
     },
     {
-      "title": "MS、Windows11が無駄にストレージの容量を食う不具合を認める。環境によっては99GBも。KB5095093 / KB5095091で修正 | ニッチなPCゲーマーの環境構築Z",
-      "url": "https://www.nichepcgamer.com/archives/post-130564.html",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
+      "url": "https://jvn.jp/vu/JVNVU97594085/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-03T09:30:00+09:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "2026年07月02日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80d3ea1c685fb2388325"
+    },
+    {
+      "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-01T22:06:00+00:00",
-      "fetched_at": "2026-07-03T00:11:46+00:00",
-      "summary": "不具合概要一部のWindows11 PC環境において、位置情報サービスに関連した『CapabilityAccessManager.db-wal』というファイルが無駄にストレージの容量を食って、環境によっては80GBや99GBにも達するといった問題が報告されています。 CapabilityAccessManager.db-walが6.2GBに 80GBや99GBになっているという報告も 対処...",
+      "published_at": "2026-07-02T22:02:59+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」：AWS Summit Japan 2026（1/2 ページ） 老朽化した基幹システムの刷新に、生成AIを持ち込む企業が増えている。設計書が残っていなくても、AIがソースコードを読み解き、業務ロジックを洗い出す。人の手では現実的でなかっ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a28709e64eafe9ff4d47"
+    },
+    {
+      "title": "Improved accuracy and coverage in Copilot usage metrics reports",
+      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-02T23:19:06+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c575d22f815153d0c9bb"
+    },
+    {
+      "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2121816.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T08:39:40+00:00",
+      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "summary": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -223,7 +463,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ba7866fcc7ce0b7da5ed"
+      "id": "553755c1d04f111cfaed"
     }
   ],
   "source_errors": [],
