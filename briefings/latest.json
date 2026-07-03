@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T22:41:30+00:00",
-  "run_id": "2026-07-03T22:41:30+00:00",
+  "generated_at": "2026-07-03T23:10:53+00:00",
+  "run_id": "2026-07-03T23:10:53+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 60,
     "displayed_findings": 60,
     "high": 0,
@@ -2995,29 +2995,7 @@
       "id": "433c4b1235e3cb4fc7a5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIで実装コストが低くなった今、エンジニアは上流に行くべきか？｜いしい",
-      "url": "https://note.com/danimal141/n/neeb219bbc03f",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-03T09:50:06+00:00",
-      "fetched_at": "2026-07-03T22:41:02+00:00",
-      "summary": "「AI時代、実装だけやってるとこの先まずいですかね。上流側に寄るべきですか」。 特に新卒採用などをやっているとこの手の質問が多い。そしてどう回答するか、毎度悩ましい。そもそも質問者の言う「上流」とは、PRDや要件を書くことなのか、何を作るか決めることなのか、その結果に責任を持つことなのか。たいてい本人...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "08383779273635507db1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
