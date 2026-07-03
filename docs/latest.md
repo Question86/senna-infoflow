@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T11:58:46+00:00_
+_Generiert: 2026-07-03T12:49:25+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore’s dConstruct lands US$125M Series A to scale robotics for GPS-denied environments** — Score 11, observation — [Quelle](https://e27.co/singapores-dconstruct-lands-us125m-series-a-to-scale-robotics-for-gps-denied-environments-20260703/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-03T12:40:17+00:00`, fetched `2026-07-03T12:48:58+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore-based dConstruct Technologies has closed a US$125 million Series A round, giving the city-state’s robotics sector one of its more visible funding wins at a time when deeptech companies across Southeast Asia face tougher scrutiny on commercial traction. The National Robotics Programme of Singapore announced the financing on Thursday, positioning it as the standout outcome […] The post Singapore’s dConstruct…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開** — Score 11, observation — [Quelle](https://cloud.watch.impress.co.jp/docs/news/2121848.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-03T00:07:55+00:00`, fetched `2026-07-03T11:58:21+00:00`
@@ -150,15 +159,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Households and non-financial corporations in the euro area: first quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation** — Score 10, opportunity — [Quelle](https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-03T07:48:42+00:00`, fetched `2026-07-03T07:54:29+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」** — Score 10, opportunity — [Quelle](https://www.itmedia.co.jp/news/articles/2607/03/news050.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-02T22:02:59+00:00`, fetched `2026-07-03T01:02:02+00:00`

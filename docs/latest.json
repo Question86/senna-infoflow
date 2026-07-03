@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T11:58:46+00:00",
-  "run_id": "2026-07-03T11:58:46+00:00",
+  "generated_at": "2026-07-03T12:49:25+00:00",
+  "run_id": "2026-07-03T12:49:25+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 7,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -403,6 +403,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "99b69ba228c86108ba00"
+      },
+      {
+        "title": "Singapore’s dConstruct lands US$125M Series A to scale robotics for GPS-denied environments",
+        "url": "https://e27.co/singapores-dconstruct-lands-us125m-series-a-to-scale-robotics-for-gps-denied-environments-20260703/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-03T12:40:17+00:00",
+        "fetched_at": "2026-07-03T12:48:58+00:00",
+        "summary": "Singapore-based dConstruct Technologies has closed a US$125 million Series A round, giving the city-state’s robotics sector one of its more visible funding wins at a time when deeptech companies across Southeast Asia face tougher scrutiny on commercial traction. The National Robotics Programme of Singapore announced the financing on Thursday, positioning it as the standout outcome […] The post Singapore’s dConstruct…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5e95fecb1549f7167c9d"
       },
       {
         "title": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
@@ -1568,6 +1590,28 @@
       "id": "99b69ba228c86108ba00"
     },
     {
+      "title": "Singapore’s dConstruct lands US$125M Series A to scale robotics for GPS-denied environments",
+      "url": "https://e27.co/singapores-dconstruct-lands-us125m-series-a-to-scale-robotics-for-gps-denied-environments-20260703/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T12:40:17+00:00",
+      "fetched_at": "2026-07-03T12:48:58+00:00",
+      "summary": "Singapore-based dConstruct Technologies has closed a US$125 million Series A round, giving the city-state’s robotics sector one of its more visible funding wins at a time when deeptech companies across Southeast Asia face tougher scrutiny on commercial traction. The National Robotics Programme of Singapore announced the financing on Thursday, positioning it as the standout outcome […] The post Singapore’s dConstruct…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5e95fecb1549f7167c9d"
+    },
+    {
       "title": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
       "url": "https://cloud.watch.impress.co.jp/docs/news/2121848.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2357,26 +2401,26 @@
   ],
   "new_findings": [
     {
-      "title": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
-      "url": "https://cloud.watch.impress.co.jp/docs/news/2121848.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Singapore’s dConstruct lands US$125M Series A to scale robotics for GPS-denied environments",
+      "url": "https://e27.co/singapores-dconstruct-lands-us125m-series-a-to-scale-robotics-for-gps-denied-environments-20260703/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-03T00:07:55+00:00",
-      "fetched_at": "2026-07-03T11:58:21+00:00",
-      "summary": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
+      "published_at": "2026-07-03T12:40:17+00:00",
+      "fetched_at": "2026-07-03T12:48:58+00:00",
+      "summary": "Singapore-based dConstruct Technologies has closed a US$125 million Series A round, giving the city-state’s robotics sector one of its more visible funding wins at a time when deeptech companies across Southeast Asia face tougher scrutiny on commercial traction. The National Robotics Programme of Singapore announced the financing on Thursday, positioning it as the standout outcome […] The post Singapore’s dConstruct…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "funding",
+        "Southeast Asia"
       ],
       "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0259e751b386177b7a9d"
+      "id": "5e95fecb1549f7167c9d"
     }
   ],
   "source_errors": [],
