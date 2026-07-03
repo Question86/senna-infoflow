@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T13:26:14+00:00",
-  "run_id": "2026-07-03T13:26:14+00:00",
+  "generated_at": "2026-07-03T14:18:20+00:00",
+  "run_id": "2026-07-03T14:18:20+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 2,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 7,
+    "medium": 8,
     "observe": 43,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-03T11:10:53+00:00",
-        "fetched_at": "2026-07-03T11:10:39+00:00",
+        "published_at": "2026-07-03T14:18:08+00:00",
+        "fetched_at": "2026-07-03T14:17:54+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "abf770d5ca13d53b0bac"
+        "id": "6716c7ca05901403dde8"
       },
       {
         "title": "JuliusBrussee/caveman",
@@ -275,6 +275,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8c3af4d53a5f667eea23"
+      },
+      {
+        "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
+        "url": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T07:12:38+00:00",
+        "fetched_at": "2026-07-03T14:17:54+00:00",
+        "summary": "こういう、「知っているはずなのに毎回うろ覚えになる」シェルコマンドを、日本語で聞く。 一見すると、単なる自然言語コマンド生成ツールに見えると思う。 でも、俺にとって面白かったのはCLIそのものではない。 このツールを作るまでの過程で、Claude Codeのfable5が、 最初に提示した解決策の前提そのものを疑い、 既...",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d946c144e2da3f741eda"
       }
     ],
     "observe": [
@@ -1243,8 +1266,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T11:10:53+00:00",
-      "fetched_at": "2026-07-03T11:10:39+00:00",
+      "published_at": "2026-07-03T14:18:08+00:00",
+      "fetched_at": "2026-07-03T14:17:54+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1278,7 +1301,7 @@
         "HD",
         "LOW"
       ],
-      "id": "abf770d5ca13d53b0bac"
+      "id": "6716c7ca05901403dde8"
     },
     {
       "title": "JuliusBrussee/caveman",
@@ -1484,6 +1507,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8c3af4d53a5f667eea23"
+    },
+    {
+      "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
+      "url": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T07:12:38+00:00",
+      "fetched_at": "2026-07-03T14:17:54+00:00",
+      "summary": "こういう、「知っているはずなのに毎回うろ覚えになる」シェルコマンドを、日本語で聞く。 一見すると、単なる自然言語コマンド生成ツールに見えると思う。 でも、俺にとって面白かったのはCLIそのものではない。 このツールを作るまでの過程で、Claude Codeのfable5が、 最初に提示した解決策の前提そのものを疑い、 既...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d946c144e2da3f741eda"
     },
     {
       "title": "M 5.9 - 296 km SSW of Severo-Kuril’sk, Russia",
@@ -2445,26 +2491,69 @@
   ],
   "new_findings": [
     {
-      "title": "Enterprise infra just became SEA’s most explosive sector, surging 503 per cent YoY",
-      "url": "https://e27.co/enterprise-infra-just-became-seas-most-explosive-sector-surging-503-per-cent-yoy-20260703/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-03T13:15:03+00:00",
-      "fetched_at": "2026-07-03T13:25:47+00:00",
-      "summary": "Southeast Asia’s technology ecosystem has staged a dramatic comeback in the first half of 2026, with total venture funding hitting US$7.4 billion, a staggering 130 per cent jump compared to the US$3.2 billion raised in H1 2025, and a 122 per cent rise over the US$3.3 billion recorded in H2 2025. The figures, drawn from […] The post Enterprise infra just became SEA’s most explosive sector, surging 503 per cent YoY ap…",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-03T14:18:08+00:00",
+      "fetched_at": "2026-07-03T14:17:54+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.0); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6716c7ca05901403dde8"
+    },
+    {
+      "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
+      "url": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T07:12:38+00:00",
+      "fetched_at": "2026-07-03T14:17:54+00:00",
+      "summary": "こういう、「知っているはずなのに毎回うろ覚えになる」シェルコマンドを、日本語で聞く。 一見すると、単なる自然言語コマンド生成ツールに見えると思う。 でも、俺にとって面白かったのはCLIそのものではない。 このツールを作るまでの過程で、Claude Codeのfable5が、 最初に提示した解決策の前提そのものを疑い、 既...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4516c3f56798e6b48d9e"
+      "id": "d946c144e2da3f741eda"
     }
   ],
   "source_errors": [],
