@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T18:44:39+00:00_
+_Generiert: 2026-07-03T19:17:26+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-07-03T18:44:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549565)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:43.568km) in Japan 01/07/2026 12:08 UTC, 1.6 million in MMI IV.
 
 ## Wirtschaft global
 
