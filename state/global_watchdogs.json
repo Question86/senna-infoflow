@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T01:45:49+00:00",
+  "generated_at": "2026-07-03T02:48:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Slovakia",
+        "summary": "Green flood alert in Slovakia",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Thailand",
         "summary": "Green flood alert in Thailand",
         "source": "GDACS",
@@ -84,13 +94,18 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Slovakia",
-        "summary": "Green flood alert in Slovakia",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103998",
-        "published_at": "",
-        "metrics": {}
+        "severity": "medium",
+        "title": "USGS earthquake M6.2 - 58 km W of Tobelo, Indonesia",
+        "summary": "M6.2 - 58 km W of Tobelo, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r5",
+        "published_at": "2026-07-03T02:31:28+00:00",
+        "metrics": {
+          "mag": 6.2,
+          "alert": "",
+          "sig": 592.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",
