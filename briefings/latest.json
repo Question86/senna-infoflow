@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T21:47:46+00:00",
-  "run_id": "2026-07-03T21:47:46+00:00",
+  "generated_at": "2026-07-03T22:15:35+00:00",
+  "run_id": "2026-07-03T22:15:35+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 2,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
     "medium": 11,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-03T20:51:09+00:00",
-        "fetched_at": "2026-07-03T20:50:55+00:00",
+        "published_at": "2026-07-03T22:15:22+00:00",
+        "fetched_at": "2026-07-03T22:15:08+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "c5a535d92b011b64dfcd"
+        "id": "9b0262e1086c95817899"
       },
       {
         "title": "JuliusBrussee/caveman",
@@ -1136,6 +1136,27 @@
         "id": "c575d22f815153d0c9bb"
       },
       {
+        "title": "プレゼンツールPeithoをつくっている",
+        "url": "https://mizzy.org/blog/2026/07/03/1/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T14:17:21+00:00",
+        "fetched_at": "2026-07-03T22:15:08+00:00",
+        "summary": "前回の記事でPyxis/Argus/Irisという最近つくっているOSSを紹介したけど、もうひとつ新しいものをつくりはじめた。Peithoというプレゼンテーションツールで、Markdownをsource of truthとして、HTMLネイティブなスライドを生成し、ブラウザでの発表までやる。 ビルドするとどんなスライドになるのかは、デモサイトpeitho...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "88059f89d2307ab5a662"
+      },
+      {
         "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
         "url": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1477,8 +1498,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T20:51:09+00:00",
-      "fetched_at": "2026-07-03T20:50:55+00:00",
+      "published_at": "2026-07-03T22:15:22+00:00",
+      "fetched_at": "2026-07-03T22:15:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1512,7 +1533,7 @@
         "HD",
         "LOW"
       ],
-      "id": "c5a535d92b011b64dfcd"
+      "id": "9b0262e1086c95817899"
     },
     {
       "title": "JuliusBrussee/caveman",
@@ -2577,6 +2598,27 @@
       "id": "c575d22f815153d0c9bb"
     },
     {
+      "title": "プレゼンツールPeithoをつくっている",
+      "url": "https://mizzy.org/blog/2026/07/03/1/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T14:17:21+00:00",
+      "fetched_at": "2026-07-03T22:15:08+00:00",
+      "summary": "前回の記事でPyxis/Argus/Irisという最近つくっているOSSを紹介したけど、もうひとつ新しいものをつくりはじめた。Peithoというプレゼンテーションツールで、Markdownをsource of truthとして、HTMLネイティブなスライドを生成し、ブラウザでの発表までやる。 ビルドするとどんなスライドになるのかは、デモサイトpeitho...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88059f89d2307ab5a662"
+    },
+    {
       "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
       "url": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2911,7 +2953,71 @@
       "id": "433c4b1235e3cb4fc7a5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-03T22:15:22+00:00",
+      "fetched_at": "2026-07-03T22:15:08+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9b0262e1086c95817899"
+    },
+    {
+      "title": "プレゼンツールPeithoをつくっている",
+      "url": "https://mizzy.org/blog/2026/07/03/1/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T14:17:21+00:00",
+      "fetched_at": "2026-07-03T22:15:08+00:00",
+      "summary": "前回の記事でPyxis/Argus/Irisという最近つくっているOSSを紹介したけど、もうひとつ新しいものをつくりはじめた。Peithoというプレゼンテーションツールで、Markdownをsource of truthとして、HTMLネイティブなスライドを生成し、ブラウザでの発表までやる。 ビルドするとどんなスライドになるのかは、デモサイトpeitho...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88059f89d2307ab5a662"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

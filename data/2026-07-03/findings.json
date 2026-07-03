@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-03T20:51:09+00:00",
-    "fetched_at": "2026-07-03T20:50:55+00:00",
+    "published_at": "2026-07-03T22:15:22+00:00",
+    "fetched_at": "2026-07-03T22:15:08+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "c5a535d92b011b64dfcd"
+    "id": "9b0262e1086c95817899"
   },
   {
     "title": "JuliusBrussee/caveman",
@@ -1102,6 +1102,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c575d22f815153d0c9bb"
+  },
+  {
+    "title": "プレゼンツールPeithoをつくっている",
+    "url": "https://mizzy.org/blog/2026/07/03/1/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T14:17:21+00:00",
+    "fetched_at": "2026-07-03T22:15:08+00:00",
+    "summary": "前回の記事でPyxis/Argus/Irisという最近つくっているOSSを紹介したけど、もうひとつ新しいものをつくりはじめた。Peithoというプレゼンテーションツールで、Markdownをsource of truthとして、HTMLネイティブなスライドを生成し、ブラウザでの発表までやる。 ビルドするとどんなスライドになるのかは、デモサイトpeitho...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88059f89d2307ab5a662"
   },
   {
     "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
