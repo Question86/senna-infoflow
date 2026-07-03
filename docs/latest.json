@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T17:02:10+00:00",
-  "run_id": "2026-07-03T17:02:10+00:00",
+  "generated_at": "2026-07-03T17:41:31+00:00",
+  "run_id": "2026-07-03T17:41:31+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
+    "new_relevant_findings": 1,
     "today_file_total": 55,
     "displayed_findings": 55,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-03T15:07:59+00:00",
-        "fetched_at": "2026-07-03T15:07:45+00:00",
+        "published_at": "2026-07-03T17:41:19+00:00",
+        "fetched_at": "2026-07-03T17:41:03+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "8718bf5019e32fe85ea4"
+        "id": "19026353dcd30062e89d"
       },
       {
         "title": "JuliusBrussee/caveman",
@@ -1367,8 +1367,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T15:07:59+00:00",
-      "fetched_at": "2026-07-03T15:07:45+00:00",
+      "published_at": "2026-07-03T17:41:19+00:00",
+      "fetched_at": "2026-07-03T17:41:03+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1402,7 +1402,7 @@
         "HD",
         "LOW"
       ],
-      "id": "8718bf5019e32fe85ea4"
+      "id": "19026353dcd30062e89d"
     },
     {
       "title": "JuliusBrussee/caveman",
@@ -2691,7 +2691,50 @@
       "id": "433c4b1235e3cb4fc7a5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-03T17:41:19+00:00",
+      "fetched_at": "2026-07-03T17:41:03+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "19026353dcd30062e89d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
