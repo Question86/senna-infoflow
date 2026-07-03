@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T15:08:11+00:00",
-  "run_id": "2026-07-03T15:08:11+00:00",
+  "generated_at": "2026-07-03T15:52:25+00:00",
+  "run_id": "2026-07-03T15:52:25+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
-    "medium": 8,
-    "observe": 44,
+    "medium": 9,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -156,6 +156,41 @@
           "LOW"
         ],
         "id": "11e50a1604e387e9d82d"
+      },
+      {
+        "title": "19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+        "url": "https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T10:57:26+00:00",
+        "fetched_at": "2026-07-03T15:51:58+00:00",
+        "summary": "上席執行役員/CTO 小池と高度解析課のアルバイトの戸田です。 この度、我々2名でLinux Kernelに報告していた脆弱性CVE-2026-43456が修正され、開示を行ってよい状況になったため、ブログで詳細について紹介できればと思います。 この脆弱性の一番の特徴は、根本の原因となるコードは2007年にLinux kernelに取り込まれて...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "6b15763d851fc21a8a64"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
@@ -765,6 +800,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "597c55296e9cf4bc3ecf"
+      },
+      {
+        "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
+        "url": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T11:09:16+00:00",
+        "fetched_at": "2026-07-03T15:51:58+00:00",
+        "summary": "password_maxlength.md 2012年版 https://gist.github.com/mala/4129717 https://togetter.com/li/2716116 15文字に切り詰めてパスワードを入力せよという案内を元に、なぜかパスワードが平文で保存されているという主張をする人がいる。これは全く発生している事象と関連がなく、根拠がない。 パスワードを任意の長さに...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8a14839011575d03738a"
       },
       {
         "title": "Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
@@ -1413,6 +1470,41 @@
       "id": "11e50a1604e387e9d82d"
     },
     {
+      "title": "19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+      "url": "https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:57:26+00:00",
+      "fetched_at": "2026-07-03T15:51:58+00:00",
+      "summary": "上席執行役員/CTO 小池と高度解析課のアルバイトの戸田です。 この度、我々2名でLinux Kernelに報告していた脆弱性CVE-2026-43456が修正され、開示を行ってよい状況になったため、ブログで詳細について紹介できればと思います。 この脆弱性の一番の特徴は、根本の原因となるコードは2007年にLinux kernelに取り込まれて...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "6b15763d851fc21a8a64"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
       "url": "https://jvn.jp/vu/JVNVU97594085/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2020,6 +2112,28 @@
       "id": "597c55296e9cf4bc3ecf"
     },
     {
+      "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
+      "url": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T11:09:16+00:00",
+      "fetched_at": "2026-07-03T15:51:58+00:00",
+      "summary": "password_maxlength.md 2012年版 https://gist.github.com/mala/4129717 https://togetter.com/li/2716116 15文字に切り詰めてパスワードを入力せよという案内を元に、なぜかパスワードが平文で保存されているという主張をする人がいる。これは全く発生している事象と関連がなく、根拠がない。 パスワードを任意の長さに...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8a14839011575d03738a"
+    },
+    {
       "title": "Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
       "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Luecken-in-Ubiquiti-UniFi-erlauben-Remote-Angriffe-11352622.html",
       "source": "heise Security Alerts",
@@ -2537,69 +2651,61 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-03T15:07:59+00:00",
-      "fetched_at": "2026-07-03T15:07:45+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+      "url": "https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:57:26+00:00",
+      "fetched_at": "2026-07-03T15:51:58+00:00",
+      "summary": "上席執行役員/CTO 小池と高度解析課のアルバイトの戸田です。 この度、我々2名でLinux Kernelに報告していた脆弱性CVE-2026-43456が修正され、開示を行ってよい状況になったため、ブログで詳細について紹介できればと思います。 この脆弱性の一番の特徴は、根本の原因となるコードは2007年にLinux kernelに取り込まれて...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "cyber_active_exploitation"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "cyber_active_exploitation: zero-day"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
       ],
-      "id": "8718bf5019e32fe85ea4"
+      "id": "6b15763d851fc21a8a64"
     },
     {
-      "title": "Prompting Claude Fable 5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5",
+      "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
+      "url": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-06-10T03:44:49+00:00",
-      "fetched_at": "2026-07-03T15:07:45+00:00",
-      "summary": "Behavioral differences and prompting patterns for Claude Fable 5 and Claude Mythos 5, covering effort, instruction following, long runs, memory, and scaffolding changes. This guide covers the prompting and scaffolding patterns specific to Claude Fable 5 and Claude Mythos 5. For the model's capabi...",
+      "published_at": "2026-07-03T11:09:16+00:00",
+      "fetched_at": "2026-07-03T15:51:58+00:00",
+      "summary": "password_maxlength.md 2012年版 https://gist.github.com/mala/4129717 https://togetter.com/li/2716116 15文字に切り詰めてパスワードを入力せよという案内を元に、なぜかパスワードが平文で保存されているという主張をする人がいる。これは全く発生している事象と関連がなく、根拠がない。 パスワードを任意の長さに...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance",
+        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8ecb4e2d17127b271343"
+      "id": "8a14839011575d03738a"
     }
   ],
   "source_errors": [],

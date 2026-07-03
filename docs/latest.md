@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T15:08:11+00:00_
+_Generiert: 2026-07-03T15:52:25+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+54 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -38,6 +38,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - V Time 2026-07-03 02:31:28 UTC 2026-07-03 02:31:28 UTC at epicenter Location 1.821°N 127.492°E Depth 120.93 km (75.14 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ** — Score 16, risk — [Quelle](https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-03T10:57:26+00:00`, fetched `2026-07-03T15:51:58+00:00`
+  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: 上席執行役員/CTO 小池と高度解析課のアルバイトの戸田です。 この度、我々2名でLinux Kernelに報告していた脆弱性CVE-2026-43456が修正され、開示を行ってよい状況になったため、ブログで詳細について紹介できればと思います。 この脆弱性の一番の特徴は、根本の原因となるコードは2007年にLinux kernelに取り込まれて...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU97594085/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

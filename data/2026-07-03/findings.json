@@ -128,6 +128,41 @@
     "id": "11e50a1604e387e9d82d"
   },
   {
+    "title": "19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+    "url": "https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T10:57:26+00:00",
+    "fetched_at": "2026-07-03T15:51:58+00:00",
+    "summary": "上席執行役員/CTO 小池と高度解析課のアルバイトの戸田です。 この度、我々2名でLinux Kernelに報告していた脆弱性CVE-2026-43456が修正され、開示を行ってよい状況になったため、ブログで詳細について紹介できればと思います。 この脆弱性の一番の特徴は、根本の原因となるコードは2007年にLinux kernelに取り込まれて...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: zero-day"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "6b15763d851fc21a8a64"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
     "url": "https://jvn.jp/vu/JVNVU97594085/",
     "source": "JVN Japan Vulnerability Notes",
@@ -733,6 +768,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "597c55296e9cf4bc3ecf"
+  },
+  {
+    "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
+    "url": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T11:09:16+00:00",
+    "fetched_at": "2026-07-03T15:51:58+00:00",
+    "summary": "password_maxlength.md 2012年版 https://gist.github.com/mala/4129717 https://togetter.com/li/2716116 15文字に切り詰めてパスワードを入力せよという案内を元に、なぜかパスワードが平文で保存されているという主張をする人がいる。これは全く発生している事象と関連がなく、根拠がない。 パスワードを任意の長さに...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a14839011575d03738a"
   },
   {
     "title": "Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
