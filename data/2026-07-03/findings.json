@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-03T01:02:16+00:00",
-    "fetched_at": "2026-07-03T01:02:02+00:00",
+    "published_at": "2026-07-03T06:48:29+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ce5112211fec95f8cb4b"
+    "id": "9cfe096aa349cfd09315"
   },
   {
     "title": "JuliusBrussee/caveman",
@@ -424,6 +424,126 @@
     "id": "ba6ff540d9e27f1f9159"
   },
   {
+    "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+    "url": "https://www.digital.go.jp/policies/health/public-medical-hub",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-03T06:00:00+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d404a090dca1a5eca19"
+  },
+  {
+    "title": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+    "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-03T06:00:00+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "18fc807f5482929f5c3a"
+  },
+  {
+    "title": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+    "url": "https://www.digital.go.jp/procurement/environmental_goods",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-03T06:00:00+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "db662096c27750566ffa"
+  },
+  {
+    "title": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+    "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-03T06:00:00+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bb9c581e05b08823dba5"
+  },
+  {
+    "title": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+    "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc/private-usecase-list",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-03T06:00:00+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d85ea1f503058763eeea"
+  },
+  {
+    "title": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+    "url": "https://www.digital.go.jp/policies/electronic_invoice",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-03T06:00:00+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b06f15d56f7b92da586e"
+  },
+  {
     "title": "松本大臣記者会見（令和8年7月3日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-260703-01",
     "source": "Japan Digital Agency News RSS",
@@ -568,6 +688,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "83072fc4c091f1c599d0"
+  },
+  {
+    "title": "認証認可を通して学ぶ、『わからない』のつぶし方 - ID沼入口 発表資料",
+    "url": "https://speakerdeck.com/calloc134/ren-zheng-ren-ke-wotong-sitexue-bu-wakaranai-notubusifang-jia-idzhao-ru-kou-fa-biao-zi-liao",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-02T11:12:40+00:00",
+    "fetched_at": "2026-07-03T06:48:14+00:00",
+    "summary": "“ID沼入口” - 基本とセキュリティから始める、考え続けるためのID管理技術勉強会 で発表を行う資料です。 現在作成中のため、変更のある可能性があります。 https://openid.connpass.com/event/396041/",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dea960102216bf3bbd09"
   },
   {
     "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",

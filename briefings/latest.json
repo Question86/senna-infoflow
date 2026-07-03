@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T05:36:34+00:00",
-  "run_id": "2026-07-03T05:36:34+00:00",
+  "generated_at": "2026-07-03T06:48:44+00:00",
+  "run_id": "2026-07-03T06:48:44+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 8,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 6,
-    "observe": 20,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-03T01:02:16+00:00",
-        "fetched_at": "2026-07-03T01:02:02+00:00",
+        "published_at": "2026-07-03T06:48:29+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "ce5112211fec95f8cb4b"
+        "id": "9cfe096aa349cfd09315"
       },
       {
         "title": "JuliusBrussee/caveman",
@@ -456,6 +456,126 @@
         "id": "ba6ff540d9e27f1f9159"
       },
       {
+        "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+        "url": "https://www.digital.go.jp/policies/health/public-medical-hub",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-03T06:00:00+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8d404a090dca1a5eca19"
+      },
+      {
+        "title": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+        "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-03T06:00:00+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "18fc807f5482929f5c3a"
+      },
+      {
+        "title": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+        "url": "https://www.digital.go.jp/procurement/environmental_goods",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-03T06:00:00+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "db662096c27750566ffa"
+      },
+      {
+        "title": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+        "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-03T06:00:00+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb9c581e05b08823dba5"
+      },
+      {
+        "title": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+        "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc/private-usecase-list",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-03T06:00:00+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d85ea1f503058763eeea"
+      },
+      {
+        "title": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+        "url": "https://www.digital.go.jp/policies/electronic_invoice",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-03T06:00:00+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b06f15d56f7b92da586e"
+      },
+      {
         "title": "松本大臣記者会見（令和8年7月3日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-260703-01",
         "source": "Japan Digital Agency News RSS",
@@ -602,6 +722,27 @@
         "id": "83072fc4c091f1c599d0"
       },
       {
+        "title": "認証認可を通して学ぶ、『わからない』のつぶし方 - ID沼入口 発表資料",
+        "url": "https://speakerdeck.com/calloc134/ren-zheng-ren-ke-wotong-sitexue-bu-wakaranai-notubusifang-jia-idzhao-ru-kou-fa-biao-zi-liao",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-02T11:12:40+00:00",
+        "fetched_at": "2026-07-03T06:48:14+00:00",
+        "summary": "“ID沼入口” - 基本とセキュリティから始める、考え続けるためのID管理技術勉強会 で発表を行う資料です。 現在作成中のため、変更のある可能性があります。 https://openid.connpass.com/event/396041/",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dea960102216bf3bbd09"
+      },
+      {
         "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
         "url": "https://forest.watch.impress.co.jp/docs/news/2121816.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -691,8 +832,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-03T01:02:16+00:00",
-      "fetched_at": "2026-07-03T01:02:02+00:00",
+      "published_at": "2026-07-03T06:48:29+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -726,7 +867,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ce5112211fec95f8cb4b"
+      "id": "9cfe096aa349cfd09315"
     },
     {
       "title": "JuliusBrussee/caveman",
@@ -1111,6 +1252,126 @@
       "id": "ba6ff540d9e27f1f9159"
     },
     {
+      "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+      "url": "https://www.digital.go.jp/policies/health/public-medical-hub",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d404a090dca1a5eca19"
+    },
+    {
+      "title": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+      "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18fc807f5482929f5c3a"
+    },
+    {
+      "title": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/environmental_goods",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db662096c27750566ffa"
+    },
+    {
+      "title": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb9c581e05b08823dba5"
+    },
+    {
+      "title": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc/private-usecase-list",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d85ea1f503058763eeea"
+    },
+    {
+      "title": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b06f15d56f7b92da586e"
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月3日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260703-01",
       "source": "Japan Digital Agency News RSS",
@@ -1257,6 +1518,27 @@
       "id": "83072fc4c091f1c599d0"
     },
     {
+      "title": "認証認可を通して学ぶ、『わからない』のつぶし方 - ID沼入口 発表資料",
+      "url": "https://speakerdeck.com/calloc134/ren-zheng-ren-ke-wotong-sitexue-bu-wakaranai-notubusifang-jia-idzhao-ru-kou-fa-biao-zi-liao",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-02T11:12:40+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "“ID沼入口” - 基本とセキュリティから始める、考え続けるためのID管理技術勉強会 で発表を行う資料です。 現在作成中のため、変更のある可能性があります。 https://openid.connpass.com/event/396041/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dea960102216bf3bbd09"
+    },
+    {
       "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
       "url": "https://forest.watch.impress.co.jp/docs/news/2121816.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1341,77 +1623,175 @@
   ],
   "new_findings": [
     {
-      "title": "Little Orbit製GamersFirst Anti-Cheatにおける複数のローカル特権昇格の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98406800/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-03T13:15:00+09:00",
-      "fetched_at": "2026-07-03T05:36:10+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-03T06:48:29+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9cfe096aa349cfd09315"
+    },
+    {
+      "title": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+      "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8c3af4d53a5f667eea23"
+      "id": "18fc807f5482929f5c3a"
     },
     {
-      "title": "The Independence Day crypto puzzle: Up or down?",
-      "url": "https://e27.co/the-independence-day-crypto-puzzle-up-or-down-20260703/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
+      "url": "https://www.digital.go.jp/policies/health/public-medical-hub",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-03T05:14:00+00:00",
-      "fetched_at": "2026-07-03T05:36:10+00:00",
-      "summary": "When you look at the digital asset market, it has climbed 2.47 per cent to reach a total capitalisation of US$2.13 trillion in 24 hours. You might mistake this sudden upward movement for a fundamental shift in blockchain utility. I want to say this again: this is a classic macroeconomic relief rally. Weak United States […] The post The Independence Day crypto puzzle: Up or down? appeared first on e27 .",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "89c86c00140055ec226e"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d404a090dca1a5eca19"
     },
     {
-      "title": "CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情 プレステとディスクの30年史",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news098.html",
+      "title": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/environmental_goods",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "令和7年度における環境物品等の調達実績の概要を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db662096c27750566ffa"
+    },
+    {
+      "title": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc/private-usecase-list",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "カード代替電磁的記録を利用するサービスの導入事例を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d85ea1f503058763eeea"
+    },
+    {
+      "title": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "カード代替電磁的記録（属性証明機能）における関連資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb9c581e05b08823dba5"
+    },
+    {
+      "title": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-03T06:00:00+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "JP PINTの「サービスプロバイダーミーティング／ユーザーズミーティング」および「民間事業者の取組」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b06f15d56f7b92da586e"
+    },
+    {
+      "title": "認証認可を通して学ぶ、『わからない』のつぶし方 - ID沼入口 発表資料",
+      "url": "https://speakerdeck.com/calloc134/ren-zheng-ren-ke-wotong-sitexue-bu-wakaranai-notubusifang-jia-idzhao-ru-kou-fa-biao-zi-liao",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-03T04:48:29+00:00",
-      "fetched_at": "2026-07-03T05:36:10+00:00",
-      "summary": "ついに来たか、という印象だった。ソニー・インタラクティブエンタテインメント（SIE）は、PlayStationコンソール向けの新作ゲームのディスク生産を2028年1月に終了する。ゲームの流通手段としての光学ディスクは40年近い歴史を持つが、いよいよ終わりが見えてきたようだ。 もともと音楽用に開発されたCDは、比較的早い...",
+      "published_at": "2026-07-02T11:12:40+00:00",
+      "fetched_at": "2026-07-03T06:48:14+00:00",
+      "summary": "“ID沼入口” - 基本とセキュリティから始める、考え続けるためのID管理技術勉強会 で発表を行う資料です。 現在作成中のため、変更のある可能性があります。 https://openid.connpass.com/event/396041/",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1423,27 +1803,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9307922068f5c7c0acd1"
-    },
-    {
-      "title": "The problem with ‘PM as CEO of the Product’: A myth that hurts more than helps",
-      "url": "https://e27.co/the-problem-with-pm-as-ceo-of-the-product-a-myth-that-hurts-more-than-helps-20260703/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-03T05:30:49+00:00",
-      "fetched_at": "2026-07-03T05:36:10+00:00",
-      "summary": "Few ideas in product management have travelled as widely, and done as much quiet damage, as the line that the product manager is the CEO of the product. It sounds flattering. It sounds decisive. It gives the role a sense of weight and status that many product managers, especially early in their careers, are understandably […] The post The problem with ‘PM as CEO of the Product’: A myth that hurts more than helps app…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "012e58948f36edb14659"
+      "id": "dea960102216bf3bbd09"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T05:36:34+00:00_
+_Generiert: 2026-07-03T06:48:44+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-03T01:02:16+00:00`, fetched `2026-07-03T01:02:02+00:00`
+  - Zeit: published `2026-07-03T06:48:29+00:00`, fetched `2026-07-03T06:48:14+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -123,14 +123,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. We're Hiring! We're hiring someone to help out full time with Superpowers community and code work. You can read about the job at https://pr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年7月3日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260703-01)
+- **自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/health/public-medical-hub)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-03T02:19:17+00:00`, fetched `2026-07-03T02:48:23+00:00`
+  - Zeit: published `2026-07-03T06:00:00+00:00`, fetched `2026-07-03T06:48:14+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年7月3日）動画を掲載しました
+  - Kurz: 自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-03T06:00:00+00:00`, fetched `2026-07-03T06:48:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和7年度における環境物品等の調達実績の概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/environmental_goods)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-03T06:00:00+00:00`, fetched `2026-07-03T06:48:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和7年度における環境物品等の調達実績の概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Improved accuracy and coverage in Copilot usage metrics reports** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports)
   - Quelle: GitHub Changelog Atom / `rss`
