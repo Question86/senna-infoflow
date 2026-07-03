@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T07:54:56+00:00",
+  "generated_at": "2026-07-03T09:05:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.",
         "source": "GDACS",
@@ -134,13 +144,18 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone DOUGLAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone DOUGLAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001280",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 296 km SSW of Severo-Kuril’sk, Russia",
+        "summary": "M5.9 - 296 km SSW of Severo-Kuril’sk, Russia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf",
+        "published_at": "2026-07-03T08:22:53+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "green",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T07:54:54+00:00",
-  "run_id": "2026-07-03T07:54:54+00:00",
+  "generated_at": "2026-07-03T09:05:56+00:00",
+  "run_id": "2026-07-03T09:05:56+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 8,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
-    "medium": 6,
-    "observe": 30,
+    "medium": 7,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -181,6 +181,43 @@
         "id": "80d3ea1c685fb2388325"
       },
       {
+        "title": "M 4.7 - 67 km W of Tobelo, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ta",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-03T08:41:24.099+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "DYFI? - II Time 2026-07-03 08:11:39 UTC 2026-07-03 08:11:39 UTC at epicenter Location 1.690°N 127.404°E Depth 141.08 km (87.66 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "89a010268bf4550ca7f1"
+      },
+      {
         "title": "M 4.9 - 149 km NNE of Hirara, Japan",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -242,6 +279,88 @@
     ],
     "observe": [
       {
+        "title": "M 5.9 - 296 km SSW of Severo-Kuril’sk, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-03T08:49:47.727+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-03 08:22:53 UTC 2026-07-03 08:22:53 UTC at epicenter Location 48.300°N 154.263°E Depth 75.80 km (47.10 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "782738b3be35bb2da284"
+      },
+      {
+        "title": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-07-03T08:00:00+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+        "matched_keywords": [
+          "balance of payments",
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "749d92e3b3a15229daf9"
+      },
+      {
+        "title": "Euro area bank interest rate statistics: May 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2607~f27327115e.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-07-03T08:00:00+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "Euro area bank interest rate statistics: May 2026",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy",
+          "statistics"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "51ef09949ce2edc0b832"
+      },
+      {
         "title": "santifer/career-ops",
         "url": "https://github.com/santifer/career-ops",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -284,6 +403,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "99b69ba228c86108ba00"
+      },
+      {
+        "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-07-03T09:00:00+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "Households and non-financial corporations in the euro area: first quarter of 2026",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6278473a6f8338bdfb91"
       },
       {
         "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
@@ -454,6 +594,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "597c55296e9cf4bc3ecf"
+      },
+      {
+        "title": "Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
+        "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Luecken-in-Ubiquiti-UniFi-erlauben-Remote-Angriffe-11352622.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-03T08:45:00.000+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "Mehrere Produkte aus Ubiquitis UniFi-Ökosystem sind von teils kritischen Lücken betroffen. Admins sollten die abgesicherten Versionen zügig einspielen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f7075fd273640291e926"
       },
       {
         "title": "Why Compute Futures make sense even in a deflationary market",
@@ -638,6 +798,27 @@
         "id": "c575d22f815153d0c9bb"
       },
       {
+        "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T07:03:55+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "LINEヤフーは7月1日、「Yahoo!ニュース」上に企業のプレスリリースをニュースコンテンツとして掲載できる新サービス「ニュースPR by LINEヤフー」の提供を始めた。 Yahoo!ニュースの編集ノウハウを学習したAIが、プレスリリースをニュース記事風に再構成する「AIクリエイティブPRプラン」と、原文をそのまま記事化する「...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2cb61a06452f3ca04d07"
+      },
+      {
         "title": "CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情 プレステとディスクの30年史",
         "url": "https://www.itmedia.co.jp/news/articles/2607/03/news098.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -657,6 +838,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9307922068f5c7c0acd1"
+      },
+      {
+        "title": "「やばい」いつのまにか撮影 AI搭載スマートグラス、記者が体験：朝日新聞",
+        "url": "https://www.asahi.com/articles/ASV6S7KLDV6SULFA02TM.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T04:32:23+00:00",
+        "fetched_at": "2026-07-03T09:05:31+00:00",
+        "summary": "米メタ（旧フェイスブック）の対話型AI（人工知能）「メタAI」を搭載したスマートグラスが5月、日本に上陸した。「スマホの次」と期待される新たな端末が普及したら、どんな社会になるのか。スマートグラスを…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fcefbf27340b58e5d3f2"
       },
       {
         "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
@@ -1042,6 +1244,43 @@
       "id": "80d3ea1c685fb2388325"
     },
     {
+      "title": "M 4.7 - 67 km W of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ta",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:41:24.099+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "DYFI? - II Time 2026-07-03 08:11:39 UTC 2026-07-03 08:11:39 UTC at epicenter Location 1.690°N 127.404°E Depth 141.08 km (87.66 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "89a010268bf4550ca7f1"
+    },
+    {
       "title": "M 4.9 - 149 km NNE of Hirara, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9si",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1101,6 +1340,88 @@
       "id": "8c3af4d53a5f667eea23"
     },
     {
+      "title": "M 5.9 - 296 km SSW of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:49:47.727+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-03 08:22:53 UTC 2026-07-03 08:22:53 UTC at epicenter Location 48.300°N 154.263°E Depth 75.80 km (47.10 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "782738b3be35bb2da284"
+    },
+    {
+      "title": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:00:00+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+      "matched_keywords": [
+        "balance of payments",
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "749d92e3b3a15229daf9"
+    },
+    {
+      "title": "Euro area bank interest rate statistics: May 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2607~f27327115e.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:00:00+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Euro area bank interest rate statistics: May 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy",
+        "statistics"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51ef09949ce2edc0b832"
+    },
+    {
       "title": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1143,6 +1464,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "99b69ba228c86108ba00"
+    },
+    {
+      "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Households and non-financial corporations in the euro area: first quarter of 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6278473a6f8338bdfb91"
     },
     {
       "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
@@ -1313,6 +1655,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "597c55296e9cf4bc3ecf"
+    },
+    {
+      "title": "Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Luecken-in-Ubiquiti-UniFi-erlauben-Remote-Angriffe-11352622.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:45:00.000+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Mehrere Produkte aus Ubiquitis UniFi-Ökosystem sind von teils kritischen Lücken betroffen. Admins sollten die abgesicherten Versionen zügig einspielen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f7075fd273640291e926"
     },
     {
       "title": "Why Compute Futures make sense even in a deflationary market",
@@ -1497,6 +1859,27 @@
       "id": "c575d22f815153d0c9bb"
     },
     {
+      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T07:03:55+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "LINEヤフーは7月1日、「Yahoo!ニュース」上に企業のプレスリリースをニュースコンテンツとして掲載できる新サービス「ニュースPR by LINEヤフー」の提供を始めた。 Yahoo!ニュースの編集ノウハウを学習したAIが、プレスリリースをニュース記事風に再構成する「AIクリエイティブPRプラン」と、原文をそのまま記事化する「...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2cb61a06452f3ca04d07"
+    },
+    {
       "title": "CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情 プレステとディスクの30年史",
       "url": "https://www.itmedia.co.jp/news/articles/2607/03/news098.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1516,6 +1899,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9307922068f5c7c0acd1"
+    },
+    {
+      "title": "「やばい」いつのまにか撮影 AI搭載スマートグラス、記者が体験：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV6S7KLDV6SULFA02TM.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T04:32:23+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "米メタ（旧フェイスブック）の対話型AI（人工知能）「メタAI」を搭載したスマートグラスが5月、日本に上陸した。「スマホの次」と期待される新たな端末が普及したら、どんな社会になるのか。スマートグラスを…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fcefbf27340b58e5d3f2"
     },
     {
       "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
@@ -1749,34 +2153,173 @@
   ],
   "new_findings": [
     {
-      "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
-      "url": "https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.7 - 67 km W of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ta",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-03T07:48:42+00:00",
-      "fetched_at": "2026-07-03T07:54:29+00:00",
-      "summary": "MAKATI CITY, Philippines — Sprout Solutions, the Philippines’ leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila, bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership […] The post Sprout Solutions’ State…",
+      "published_at": "2026-07-03T08:41:24.099+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "DYFI? - II Time 2026-07-03 08:11:39 UTC 2026-07-03 08:11:39 UTC at epicenter Location 1.690°N 127.404°E Depth 141.08 km (87.66 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "89a010268bf4550ca7f1"
+    },
+    {
+      "title": "M 5.9 - 296 km SSW of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:49:47.727+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-03 08:22:53 UTC 2026-07-03 08:22:53 UTC at epicenter Location 48.300°N 154.263°E Depth 75.80 km (47.10 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "782738b3be35bb2da284"
+    },
+    {
+      "title": "Euro area bank interest rate statistics: May 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2607~f27327115e.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:00:00+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Euro area bank interest rate statistics: May 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy",
+        "statistics"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51ef09949ce2edc0b832"
+    },
+    {
+      "title": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:00:00+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+      "matched_keywords": [
+        "balance of payments",
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "749d92e3b3a15229daf9"
+    },
+    {
+      "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Households and non-financial corporations in the euro area: first quarter of 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy"
       ],
       "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9561e74aad1719a1ee5f"
+      "id": "6278473a6f8338bdfb91"
     },
     {
-      "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
-      "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
+      "title": "Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Luecken-in-Ubiquiti-UniFi-erlauben-Remote-Angriffe-11352622.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-03T08:45:00.000+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "Mehrere Produkte aus Ubiquitis UniFi-Ökosystem sind von teils kritischen Lücken betroffen. Admins sollten die abgesicherten Versionen zügig einspielen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f7075fd273640291e926"
+    },
+    {
+      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-03T04:13:31+00:00",
-      "fetched_at": "2026-07-03T07:54:29+00:00",
-      "summary": "HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである。summer o...",
+      "published_at": "2026-07-03T07:03:55+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "LINEヤフーは7月1日、「Yahoo!ニュース」上に企業のプレスリリースをニュースコンテンツとして掲載できる新サービス「ニュースPR by LINEヤフー」の提供を始めた。 Yahoo!ニュースの編集ノウハウを学習したAIが、プレスリリースをニュース記事風に再構成する「AIクリエイティブPRプラン」と、原文をそのまま記事化する「...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1788,16 +2331,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b911c352488a7b608732"
+      "id": "2cb61a06452f3ca04d07"
     },
     {
-      "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
+      "title": "「やばい」いつのまにか撮影 AI搭載スマートグラス、記者が体験：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV6S7KLDV6SULFA02TM.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-03T03:22:59+00:00",
-      "fetched_at": "2026-07-03T07:54:29+00:00",
-      "summary": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+      "published_at": "2026-07-03T04:32:23+00:00",
+      "fetched_at": "2026-07-03T09:05:31+00:00",
+      "summary": "米メタ（旧フェイスブック）の対話型AI（人工知能）「メタAI」を搭載したスマートグラスが5月、日本に上陸した。「スマホの次」と期待される新たな端末が普及したら、どんな社会になるのか。スマートグラスを…",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1809,7 +2352,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0bd8b0c423e7ed2b60ca"
+      "id": "fcefbf27340b58e5d3f2"
     }
   ],
   "source_errors": [],
