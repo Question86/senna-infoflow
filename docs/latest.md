@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T09:05:56+00:00_
+_Generiert: 2026-07-03T10:11:29+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. We're Hiring! We're hiring someone to help out full time with Superpowers community and code work. You can read about the job at https://pr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - west of Macquarie Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ts)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-03T09:53:03.040+00:00`, fetched `2026-07-03T10:11:01+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-03 09:16:35 UTC 2026-07-03 09:16:35 UTC at epicenter Location 56.271°S 147.039°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-updaten-Kritische-Luecken-in-Ubiquiti-UniFi-erlauben-Remote-Angriffe-11352622.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-03T08:45:00.000+00:00`, fetched `2026-07-03T09:05:31+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度における環境物品等の調達実績の概要を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Improved accuracy and coverage in Copilot usage metrics reports** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-02T23:19:06+00:00`, fetched `2026-07-03T01:02:02+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
