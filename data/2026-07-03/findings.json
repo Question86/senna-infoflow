@@ -188,6 +188,28 @@
     "id": "d00d7f2253124c26e82d"
   },
   {
+    "title": "Little Orbit製GamersFirst Anti-Cheatにおける複数のローカル特権昇格の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU98406800/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-03T13:15:00+09:00",
+    "fetched_at": "2026-07-03T05:36:10+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8c3af4d53a5f667eea23"
+  },
+  {
     "title": "santifer/career-ops",
     "url": "https://github.com/santifer/career-ops",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -318,6 +340,48 @@
     "id": "5a138df68c72e9f931de"
   },
   {
+    "title": "The Independence Day crypto puzzle: Up or down?",
+    "url": "https://e27.co/the-independence-day-crypto-puzzle-up-or-down-20260703/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-03T05:14:00+00:00",
+    "fetched_at": "2026-07-03T05:36:10+00:00",
+    "summary": "When you look at the digital asset market, it has climbed 2.47 per cent to reach a total capitalisation of US$2.13 trillion in 24 hours. You might mistake this sudden upward movement for a fundamental shift in blockchain utility. I want to say this again: this is a classic macroeconomic relief rally. Weak United States […] The post The Independence Day crypto puzzle: Up or down? appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "89c86c00140055ec226e"
+  },
+  {
     "title": "The accordion effect: How AI follows the rhythm of expansion and compression",
     "url": "https://e27.co/the-accordion-effect-how-ai-follows-the-rhythm-of-expansion-and-compression-20260701/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -399,6 +463,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c575d22f815153d0c9bb"
+  },
+  {
+    "title": "CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情 プレステとディスクの30年史",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news098.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T04:48:29+00:00",
+    "fetched_at": "2026-07-03T05:36:10+00:00",
+    "summary": "ついに来たか、という印象だった。ソニー・インタラクティブエンタテインメント（SIE）は、PlayStationコンソール向けの新作ゲームのディスク生産を2028年1月に終了する。ゲームの流通手段としての光学ディスクは40年近い歴史を持つが、いよいよ終わりが見えてきたようだ。 もともと音楽用に開発されたCDは、比較的早い...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9307922068f5c7c0acd1"
   },
   {
     "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
@@ -525,6 +610,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ba7866fcc7ce0b7da5ed"
+  },
+  {
+    "title": "The problem with ‘PM as CEO of the Product’: A myth that hurts more than helps",
+    "url": "https://e27.co/the-problem-with-pm-as-ceo-of-the-product-a-myth-that-hurts-more-than-helps-20260703/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-03T05:30:49+00:00",
+    "fetched_at": "2026-07-03T05:36:10+00:00",
+    "summary": "Few ideas in product management have travelled as widely, and done as much quiet damage, as the line that the product manager is the CEO of the product. It sounds flattering. It sounds decisive. It gives the role a sense of weight and status that many product managers, especially early in their careers, are understandably […] The post The problem with ‘PM as CEO of the Product’: A myth that hurts more than helps app…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "012e58948f36edb14659"
   },
   {
     "title": "What actually drives software development costs (and why most budgets get it wrong)",

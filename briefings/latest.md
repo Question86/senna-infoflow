@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T04:13:01+00:00_
+_Generiert: 2026-07-03T05:36:34+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-07-03T04:13:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
-- **GDACS: Green flood alert in Nigeria** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103997)
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Nigeria
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549627)
   - Quelle: GDACS
   - Zeit: ``
@@ -126,6 +126,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-03 03:53:22 UTC 2026-07-03 03:53:22 UTC at epicenter Location 26.052°N 125.867°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Little Orbit製GamersFirst Anti-Cheatにおける複数のローカル特権昇格の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98406800/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-03T13:15:00+09:00`, fetched `2026-07-03T05:36:10+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -201,6 +210,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情 プレステとディスクの30年史** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/03/news098.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-03T04:48:29+00:00`, fetched `2026-07-03T05:36:10+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ついに来たか、という印象だった。ソニー・インタラクティブエンタテインメント（SIE）は、PlayStationコンソール向けの新作ゲームのディスク生産を2028年1月に終了する。ゲームの流通手段としての光学ディスクは40年近い歴史を持つが、いよいよ終わりが見えてきたようだ。 もともと音楽用に開発されたCDは、比較的早い...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2122083.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-03T02:11:05+00:00`, fetched `2026-07-03T04:12:35+00:00`
@@ -209,15 +227,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **紹介の仕方で期待値と関係性が変わる、人を紹介する技術 - 941::blog** — Score 5, observation — [Quelle](https://blog.kushii.net/archives/2026/07/03/090643)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-03T00:10:09+00:00`, fetched `2026-07-03T04:12:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: うまく人を紹介できず、もっとうまくできたらと思ったことないですか？「あああ、もっと魅力的な人なのに」とか「めちゃくちゃ面白い人なのに紹介で失敗しちゃたな」ってこと、誰もがあると思います。 紹介は技術でどうにかなるので、意識的に上手くなっていけるやつです。入門編というかんじでざっくりどうやるとよいか...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

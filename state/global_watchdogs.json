@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T04:13:04+00:00",
+  "generated_at": "2026-07-03T05:36:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -84,11 +84,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Nigeria",
-        "summary": "Green flood alert in Nigeria",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1103997",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877",
         "published_at": "",
         "metrics": {}
       },
