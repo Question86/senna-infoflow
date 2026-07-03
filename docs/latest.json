@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T01:02:28+00:00",
-  "run_id": "2026-07-03T01:02:28+00:00",
+  "generated_at": "2026-07-03T01:45:46+00:00",
+  "run_id": "2026-07-03T01:45:46+00:00",
   "date": "2026-07-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 2,
-    "observe": 4,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,48 @@
       }
     ],
     "observe": [
+      {
+        "title": "Vietnam’s healthtech boom has a talent problem nobody is talking about",
+        "url": "https://e27.co/vietnam-s-healthtech-boom-has-a-talent-problem-nobody-is-talking-about-20260625/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-03T01:30:47+00:00",
+        "fetched_at": "2026-07-03T01:45:18+00:00",
+        "summary": "I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "99b69ba228c86108ba00"
+      },
+      {
+        "title": "7 leadership skills every manager needs in a monitored workplace",
+        "url": "https://e27.co/7-leadership-skills-every-manager-needs-in-a-monitored-workplace-20260623/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-03T01:15:06+00:00",
+        "fetched_at": "2026-07-03T01:45:18+00:00",
+        "summary": "Modern workplaces are increasingly shaped by visibility and accountability. When employees know their work is being monitored, expectations around leadership naturally change. Managers are no longer judged only by results, but by how they lead people in environments where oversight is part of daily work. This shift has measurable consequences. According to the APA’s 2024 […] The post 7 leadership skills every manage…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f585f2ba0d871b77c347"
+      },
       {
         "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
         "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
@@ -250,6 +292,48 @@
       "id": "80d3ea1c685fb2388325"
     },
     {
+      "title": "Vietnam’s healthtech boom has a talent problem nobody is talking about",
+      "url": "https://e27.co/vietnam-s-healthtech-boom-has-a-talent-problem-nobody-is-talking-about-20260625/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T01:30:47+00:00",
+      "fetched_at": "2026-07-03T01:45:18+00:00",
+      "summary": "I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99b69ba228c86108ba00"
+    },
+    {
+      "title": "7 leadership skills every manager needs in a monitored workplace",
+      "url": "https://e27.co/7-leadership-skills-every-manager-needs-in-a-monitored-workplace-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-03T01:15:06+00:00",
+      "fetched_at": "2026-07-03T01:45:18+00:00",
+      "summary": "Modern workplaces are increasingly shaped by visibility and accountability. When employees know their work is being monitored, expectations around leadership naturally change. Managers are no longer judged only by results, but by how they lead people in environments where oversight is part of daily work. This shift has measurable consequences. According to the APA’s 2024 […] The post 7 leadership skills every manage…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f585f2ba0d871b77c347"
+    },
+    {
       "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
       "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -337,133 +421,46 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-03T01:02:16+00:00",
-      "fetched_at": "2026-07-03T01:02:02+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ce5112211fec95f8cb4b"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月02日）",
-      "url": "https://jvn.jp/vu/JVNVU97594085/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Vietnam’s healthtech boom has a talent problem nobody is talking about",
+      "url": "https://e27.co/vietnam-s-healthtech-boom-has-a-talent-problem-nobody-is-talking-about-20260625/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-03T09:30:00+09:00",
-      "fetched_at": "2026-07-03T01:02:02+00:00",
-      "summary": "2026年07月02日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-07-03T01:30:47+00:00",
+      "fetched_at": "2026-07-03T01:45:18+00:00",
+      "summary": "I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…",
       "matched_keywords": [
-        "advisory",
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Public Health"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "80d3ea1c685fb2388325"
+      "id": "99b69ba228c86108ba00"
     },
     {
-      "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "7 leadership skills every manager needs in a monitored workplace",
+      "url": "https://e27.co/7-leadership-skills-every-manager-needs-in-a-monitored-workplace-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-02T22:02:59+00:00",
-      "fetched_at": "2026-07-03T01:02:02+00:00",
-      "summary": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」：AWS Summit Japan 2026（1/2 ページ） 老朽化した基幹システムの刷新に、生成AIを持ち込む企業が増えている。設計書が残っていなくても、AIがソースコードを読み解き、業務ロジックを洗い出す。人の手では現実的でなかっ...",
+      "published_at": "2026-07-03T01:15:06+00:00",
+      "fetched_at": "2026-07-03T01:45:18+00:00",
+      "summary": "Modern workplaces are increasingly shaped by visibility and accountability. When employees know their work is being monitored, expectations around leadership naturally change. Managers are no longer judged only by results, but by how they lead people in environments where oversight is part of daily work. This shift has measurable consequences. According to the APA’s 2024 […] The post 7 leadership skills every manage…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "AI Agents",
+        "APAC Trend Radar"
       ],
       "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a28709e64eafe9ff4d47"
-    },
-    {
-      "title": "Improved accuracy and coverage in Copilot usage metrics reports",
-      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-02T23:19:06+00:00",
-      "fetched_at": "2026-07-03T01:02:02+00:00",
-      "summary": "We’ve made three improvements to the Copilot usage metrics API that make its reports more complete and accurate: GitHub Copilot CLI now reports suggested lines of code, users seen only… The post Improved accuracy and coverage in Copilot usage metrics reports appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "relevance_reason": "AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c575d22f815153d0c9bb"
-    },
-    {
-      "title": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2121816.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-02T08:39:40+00:00",
-      "fetched_at": "2026-07-03T01:02:02+00:00",
-      "summary": "「Claude in Microsoft Foundry」が一般提供、Azure/Entra IDに統合されたAnthropicモデル／NVIDIAのハード、Microsoftのクラウド、Anthropicの運用で",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "553755c1d04f111cfaed"
+      "id": "f585f2ba0d871b77c347"
     }
   ],
   "source_errors": [],

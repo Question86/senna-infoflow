@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-03T01:02:28+00:00_
+_Generiert: 2026-07-03T01:45:46+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Vietnam’s healthtech boom has a talent problem nobody is talking about** — Score 12, observation — [Quelle](https://e27.co/vietnam-s-healthtech-boom-has-a-talent-problem-nobody-is-talking-about-20260625/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-03T01:30:47+00:00`, fetched `2026-07-03T01:45:18+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: I’ve spent over a decade placing IT professionals across Vietnam’s tech landscape. I thought I’d seen every version of a talent war. Then healthtech arrived at scale, and it’s different. The shortage isn’t in general developers. It’s at a very specific intersection: someone who can build robust software and understand why a clinician’s workflow looks […] The post Vietnam’s healthtech boom has a talent problem nobody…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **7 leadership skills every manager needs in a monitored workplace** — Score 10, observation — [Quelle](https://e27.co/7-leadership-skills-every-manager-needs-in-a-monitored-workplace-20260623/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-03T01:15:06+00:00`, fetched `2026-07-03T01:45:18+00:00`
+  - Treffer: AI Agents, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Modern workplaces are increasingly shaped by visibility and accountability. When employees know their work is being monitored, expectations around leadership naturally change. Managers are no longer judged only by results, but by how they lead people in environments where oversight is part of daily work. This shift has measurable consequences. According to the APA’s 2024 […] The post 7 leadership skills every manage…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」** — Score 10, opportunity — [Quelle](https://www.itmedia.co.jp/news/articles/2607/03/news050.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-02T22:02:59+00:00`, fetched `2026-07-03T01:02:02+00:00`
