@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T23:09:44+00:00",
-  "run_id": "2026-07-04T23:09:44+00:00",
+  "generated_at": "2026-07-04T23:36:36+00:00",
+  "run_id": "2026-07-04T23:36:36+00:00",
   "date": "2026-07-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -2177,66 +2177,7 @@
       "id": "035da81440aca46f4138"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.5 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6j",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-04T22:44:25.040+00:00",
-      "fetched_at": "2026-07-04T23:09:18+00:00",
-      "summary": "Time 2026-07-04 22:26:56 UTC 2026-07-04 22:26:56 UTC at epicenter Location 21.186°S 179.240°W Depth 624.49 km (388.04 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e9393a785bc111231d51"
-    },
-    {
-      "title": "AIが稼いだお金から年間約16万円の給付金が受け取れる法案、提出される | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/bernie-sanders-new-ai-bill-would-pay-americans-1000-a-year/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-03T05:10:53+00:00",
-      "fetched_at": "2026-07-04T23:09:18+00:00",
-      "summary": "マーク・キューバンはAIのトークンに連邦税を課すべきって言ってたよな…。 いまあるAIシステムは、全人類の知的・創造的な成果をもとに構築されたもの。だとすれば、そこから生まれる収益は、ひと握りのテック業界の大物たちだけでなく、国民に直接還元されるべき。バーニー・サンダース連邦上院議員はそう主張していま...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7ad02e81f01c694d6419"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
