@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:35:35+00:00",
-  "run_id": "2026-07-04T06:35:35+00:00",
+  "generated_at": "2026-07-04T07:35:13+00:00",
+  "run_id": "2026-07-04T07:35:13+00:00",
   "date": "2026-07-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 2,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 5,
-    "observe": 9,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -368,6 +368,28 @@
         "id": "52211f16336b4997a53a"
       },
       {
+        "title": "「iPhone」のバッテリーをApple Storeで初めて交換--得られた重要な教訓とは",
+        "url": "https://japan.zdnet.com/article/35249785/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T12:00:47+00:00",
+        "fetched_at": "2026-07-04T07:34:48+00:00",
+        "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 長年の「iPhone」ユーザーである筆者にとって、かつては新品で輝いていたiPhoneが、24時間365日、壁のコンセントやワイヤレス充電器につないでおかなければならない役立たずの...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c9d3a4a3dc79ec234b1"
+      },
+      {
         "title": "M 4.5 - Fiji region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta0n",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -444,6 +466,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a8083bf6e251c82b6953"
+      },
+      {
+        "title": "ローカルLLMで「Pi」エージェントを動かす",
+        "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-01T04:40:15+00:00",
+        "fetched_at": "2026-07-04T07:34:48+00:00",
+        "summary": "数年前、LLMがコードを書いてくれるようになった当初は、チャットインターフェースでAIとやり取りするのが当たり前でした。しかし、2025年を境にその常識は一変しました。今やチャット形式でのプログラミングは「非効率」とされ、AIエージェントが自律的にタスクをこなす時代になっています。 ただ、この「エージェント...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "99b56c3e3f532096c7ee"
       },
       {
         "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
@@ -806,6 +849,28 @@
       "id": "52211f16336b4997a53a"
     },
     {
+      "title": "「iPhone」のバッテリーをApple Storeで初めて交換--得られた重要な教訓とは",
+      "url": "https://japan.zdnet.com/article/35249785/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T12:00:47+00:00",
+      "fetched_at": "2026-07-04T07:34:48+00:00",
+      "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 長年の「iPhone」ユーザーである筆者にとって、かつては新品で輝いていたiPhoneが、24時間365日、壁のコンセントやワイヤレス充電器につないでおかなければならない役立たずの...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c9d3a4a3dc79ec234b1"
+    },
+    {
       "title": "M 4.5 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta0n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -884,6 +949,27 @@
       "id": "a8083bf6e251c82b6953"
     },
     {
+      "title": "ローカルLLMで「Pi」エージェントを動かす",
+      "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-01T04:40:15+00:00",
+      "fetched_at": "2026-07-04T07:34:48+00:00",
+      "summary": "数年前、LLMがコードを書いてくれるようになった当初は、チャットインターフェースでAIとやり取りするのが当たり前でした。しかし、2025年を境にその常識は一変しました。今やチャット形式でのプログラミングは「非効率」とされ、AIエージェントが自律的にタスクをこなす時代になっています。 ただ、この「エージェント...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99b56c3e3f532096c7ee"
+    },
+    {
       "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
       "url": "https://note.com/hirokimiyano/n/n1b225eeec21d",
       "source": "Hatena Bookmark Hotentry IT",
@@ -907,26 +993,47 @@
   ],
   "new_findings": [
     {
-      "title": "消費者庁、Anker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開。",
-      "url": "https://applech2.com/archives/20260704-anker-powercore-1000-incident.html",
+      "title": "「iPhone」のバッテリーをApple Storeで初めて交換--得られた重要な教訓とは",
+      "url": "https://japan.zdnet.com/article/35249785/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-04T02:24:52+00:00",
-      "fetched_at": "2026-07-04T06:35:11+00:00",
-      "summary": "消費者庁がAnker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開しています。詳細は以下から。 消費者庁は日本時間2026年07月03日、消費生活用製品安全法第35条第1項の規定に基づき報告のあった重大製品事故に関し、屋外式ガス...",
+      "published_at": "2026-07-03T12:00:47+00:00",
+      "fetched_at": "2026-07-04T07:34:48+00:00",
+      "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 長年の「iPhone」ユーザーである筆者にとって、かつては新品で輝いていたiPhoneが、24時間365日、壁のコンセントやワイヤレス充電器につないでおかなければならない役立たずの...",
       "matched_keywords": [
         "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "677b587c9a8685072989"
+      "id": "2c9d3a4a3dc79ec234b1"
+    },
+    {
+      "title": "ローカルLLMで「Pi」エージェントを動かす",
+      "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-01T04:40:15+00:00",
+      "fetched_at": "2026-07-04T07:34:48+00:00",
+      "summary": "数年前、LLMがコードを書いてくれるようになった当初は、チャットインターフェースでAIとやり取りするのが当たり前でした。しかし、2025年を境にその常識は一変しました。今やチャット形式でのプログラミングは「非効率」とされ、AIエージェントが自律的にタスクをこなす時代になっています。 ただ、この「エージェント...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99b56c3e3f532096c7ee"
     }
   ],
   "source_errors": [],
