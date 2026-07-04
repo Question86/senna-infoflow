@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T12:41:05+00:00",
-  "run_id": "2026-07-04T12:41:05+00:00",
+  "generated_at": "2026-07-04T13:12:24+00:00",
+  "run_id": "2026-07-04T13:12:24+00:00",
   "date": "2026-07-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 4,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 7,
-    "observe": 15,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-04T12:40:52+00:00",
-        "fetched_at": "2026-07-04T12:40:38+00:00",
+        "published_at": "2026-07-04T13:12:11+00:00",
+        "fetched_at": "2026-07-04T13:11:56+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "1f9ec270833337dbd0e9"
+        "id": "8d0626a7e949399b81c2"
       },
       {
         "title": "openai/codex-plugin-cc",
@@ -487,6 +487,78 @@
         "id": "cad81bb07b3f4887c34b"
       },
       {
+        "title": "M 5.0 - Reykjanes Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-04T13:02:08.040+00:00",
+        "fetched_at": "2026-07-04T13:11:56+00:00",
+        "summary": "Time 2026-07-04 12:42:27 UTC 2026-07-04 12:42:27 UTC at epicenter Location 59.429°N 30.203°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "988198b037c213147c89"
+      },
+      {
+        "title": "M 5.0 - Reykjanes Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-04T12:55:54.040+00:00",
+        "fetched_at": "2026-07-04T13:11:56+00:00",
+        "summary": "Time 2026-07-04 12:34:24 UTC 2026-07-04 12:34:24 UTC at epicenter Location 59.433°N 30.299°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "37c261213fbdc6e5b1f2"
+      },
+      {
         "title": "M 5.1 - 135 km N of Lae, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -683,6 +755,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "af4ea51bf1c9708c3829"
+      },
+      {
+        "title": "（自分的に）神な自作ツール配布場所",
+        "url": "https://saisokuya.com/soft/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-17T10:20:25+00:00",
+        "fetched_at": "2026-07-04T13:11:56+00:00",
+        "summary": "自分的に便利なソフトをシェアしますね。すべてWindowsです。今後もどんどん追加していく予定です。広告とか課金とかありません。使うときは自己責任でお願いしますね。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "035da81440aca46f4138"
       }
     ]
   },
@@ -692,8 +785,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-04T12:40:52+00:00",
-      "fetched_at": "2026-07-04T12:40:38+00:00",
+      "published_at": "2026-07-04T13:12:11+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -727,7 +820,7 @@
         "HD",
         "LOW"
       ],
-      "id": "1f9ec270833337dbd0e9"
+      "id": "8d0626a7e949399b81c2"
     },
     {
       "title": "openai/codex-plugin-cc",
@@ -1143,6 +1236,78 @@
       "id": "cad81bb07b3f4887c34b"
     },
     {
+      "title": "M 5.0 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T13:02:08.040+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
+      "summary": "Time 2026-07-04 12:42:27 UTC 2026-07-04 12:42:27 UTC at epicenter Location 59.429°N 30.203°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "988198b037c213147c89"
+    },
+    {
+      "title": "M 5.0 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T12:55:54.040+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
+      "summary": "Time 2026-07-04 12:34:24 UTC 2026-07-04 12:34:24 UTC at epicenter Location 59.433°N 30.299°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "37c261213fbdc6e5b1f2"
+    },
+    {
       "title": "M 5.1 - 135 km N of Lae, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1339,6 +1504,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "af4ea51bf1c9708c3829"
+    },
+    {
+      "title": "（自分的に）神な自作ツール配布場所",
+      "url": "https://saisokuya.com/soft/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-17T10:20:25+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
+      "summary": "自分的に便利なソフトをシェアしますね。すべてWindowsです。今後もどんどん追加していく予定です。広告とか課金とかありません。使うときは自己責任でお願いしますね。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "035da81440aca46f4138"
     }
   ],
   "new_findings": [
@@ -1347,8 +1533,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-04T12:40:52+00:00",
-      "fetched_at": "2026-07-04T12:40:38+00:00",
+      "published_at": "2026-07-04T13:12:11+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1382,28 +1568,100 @@
         "HD",
         "LOW"
       ],
-      "id": "1f9ec270833337dbd0e9"
+      "id": "8d0626a7e949399b81c2"
     },
     {
-      "title": "個人用メモアプリをつくっている",
-      "url": "https://mizzy.org/blog/2026/07/03/2/",
+      "title": "M 5.0 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T13:02:08.040+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
+      "summary": "Time 2026-07-04 12:42:27 UTC 2026-07-04 12:42:27 UTC at epicenter Location 59.429°N 30.203°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "988198b037c213147c89"
+    },
+    {
+      "title": "M 5.0 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T12:55:54.040+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
+      "summary": "Time 2026-07-04 12:34:24 UTC 2026-07-04 12:34:24 UTC at epicenter Location 59.433°N 30.299°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "37c261213fbdc6e5b1f2"
+    },
+    {
+      "title": "（自分的に）神な自作ツール配布場所",
+      "url": "https://saisokuya.com/soft/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-03T15:32:23+00:00",
-      "fetched_at": "2026-07-04T12:40:38+00:00",
-      "summary": "Obsidianの代替として、個人用のメモツールWebアプリをつくりはじめた。リポジトリはmizzy/memo。Cloudflare上で動かしている。 なぜつくったか ObsidianはMarkdownが書けるメモツールとして常用していて、PC上での利用には特に不満はない。ただ、Obsidianの豊富な機能を使いこなしているわけでもなくて、メモを書いて読...",
+      "published_at": "2026-06-17T10:20:25+00:00",
+      "fetched_at": "2026-07-04T13:11:56+00:00",
+      "summary": "自分的に便利なソフトをシェアしますね。すべてWindowsです。今後もどんどん追加していく予定です。広告とか課金とかありません。使うときは自己責任でお願いしますね。",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f6fc86c01fec14b4a6ba"
+      "id": "035da81440aca46f4138"
     }
   ],
   "source_errors": [],
