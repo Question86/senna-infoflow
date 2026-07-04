@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T05:28:13+00:00",
+  "generated_at": "2026-07-04T06:35:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,6 +74,16 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Ukraine",
+        "summary": "Green flood alert in Ukraine",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104001",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.",
         "summary": "Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.",
@@ -109,16 +119,6 @@
         "summary": "Orange notification for tropical cyclone MAYSAK-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.374 million in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001281",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:216.694km) in Afghanistan 01/07/2026 17:57 UTC, 9 million in MMI III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549600",
         "published_at": "",
         "metrics": {}
       }

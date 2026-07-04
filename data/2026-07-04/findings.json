@@ -247,6 +247,28 @@
     "id": "66f81ef179bb3960d8d3"
   },
   {
+    "title": "消費者庁、Anker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開。",
+    "url": "https://applech2.com/archives/20260704-anker-powercore-1000-incident.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-04T02:24:52+00:00",
+    "fetched_at": "2026-07-04T06:35:11+00:00",
+    "summary": "消費者庁がAnker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開しています。詳細は以下から。 消費者庁は日本時間2026年07月03日、消費生活用製品安全法第35条第1項の規定に基づき報告のあった重大製品事故に関し、屋外式ガス...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "677b587c9a8685072989"
+  },
+  {
     "title": "elastic/elasticsearch",
     "url": "https://github.com/elastic/elasticsearch",
     "source": "GitHub Trending RSS All Languages Daily",
