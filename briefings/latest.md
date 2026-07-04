@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-04T00:58:50+00:00_
+_Generiert: 2026-07-04T01:42:25+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-04T00:58:39+00:00`, fetched `2026-07-04T00:58:23+00:00`
+  - Zeit: published `2026-07-04T01:42:13+00:00`, fetched `2026-07-04T01:41:58+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -99,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-04 00:00:50 UTC 2026-07-04 00:00:50 UTC at epicenter Location 19.934°S 178.202°W Depth 576.20 km (358.03 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹** — Score 4, observation — [Quelle](https://note.com/hirokimiyano/n/n1b225eeec21d)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T07:21:28+00:00`, fetched `2026-07-04T01:41:58+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
+  - Kurz: 手のひらに乗る小さなUSBメモリーが、国の守りの中枢を1年近くむしばんでいました。日本経済新聞が2026年6月25日に報じた調査報道によると、陸上自衛隊は2025年2月まで、中国系ウイルスに感染したUSBメモリーを、作戦遂行にかかわる機密システムの端末で使い続けていました。調達時の確認、使用前のウイルスチェック、組...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

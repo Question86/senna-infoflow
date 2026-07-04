@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-04T00:58:39+00:00",
-    "fetched_at": "2026-07-04T00:58:23+00:00",
+    "published_at": "2026-07-04T01:42:13+00:00",
+    "fetched_at": "2026-07-04T01:41:58+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "64a5661a7b9b05839825"
+    "id": "68533bc854e9a97bd8fb"
   },
   {
     "title": "中国アリババ、米アンソロピックのプログラミングAIを利用禁止に - 日本経済新聞",
@@ -98,5 +98,26 @@
       "LOW"
     ],
     "id": "1e3b46b3d1fa2a7150b6"
+  },
+  {
+    "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/n1b225eeec21d",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T07:21:28+00:00",
+    "fetched_at": "2026-07-04T01:41:58+00:00",
+    "summary": "手のひらに乗る小さなUSBメモリーが、国の守りの中枢を1年近くむしばんでいました。日本経済新聞が2026年6月25日に報じた調査報道によると、陸上自衛隊は2025年2月まで、中国系ウイルスに感染したUSBメモリーを、作戦遂行にかかわる機密システムの端末で使い続けていました。調達時の確認、使用前のウイルスチェック、組...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af4ea51bf1c9708c3829"
   }
 ]
