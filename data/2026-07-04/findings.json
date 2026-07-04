@@ -174,6 +174,42 @@
     "id": "00e2e74ab48e55c3d158"
   },
   {
+    "title": "M 5.0 - 43 km SW of Ovalle, Chile",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta18",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-04T03:46:57.820+00:00",
+    "fetched_at": "2026-07-04T04:05:19+00:00",
+    "summary": "DYFI? - III Time 2026-07-04 03:09:33 UTC 2026-07-04 03:09:33 UTC at epicenter Location 30.913°S 71.479°W Depth 49.84 km (30.97 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "66f81ef179bb3960d8d3"
+  },
+  {
     "title": "elastic/elasticsearch",
     "url": "https://github.com/elastic/elasticsearch",
     "source": "GitHub Trending RSS All Languages Daily",
