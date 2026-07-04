@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T04:05:44+00:00",
-  "run_id": "2026-07-04T04:05:44+00:00",
+  "generated_at": "2026-07-04T05:28:11+00:00",
+  "run_id": "2026-07-04T05:28:11+00:00",
   "date": "2026-07-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 2,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 4,
-    "observe": 7,
+    "medium": 5,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -165,6 +165,43 @@
           "PINS"
         ],
         "id": "7c7a0bcd932a622562e9"
+      },
+      {
+        "title": "M 4.8 - Izu Islands, Japan region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta20",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-04T05:24:00.040+00:00",
+        "fetched_at": "2026-07-04T05:27:46+00:00",
+        "summary": "Time 2026-07-04 05:03:52 UTC 2026-07-04 05:03:52 UTC at epicenter Location 32.089°N 142.461°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8b3365321aef1fe72daf"
       },
       {
         "title": "M 5.2 - 24 km SW of Balangonan, Philippines",
@@ -343,6 +380,27 @@
           "LOW"
         ],
         "id": "1e3b46b3d1fa2a7150b6"
+      },
+      {
+        "title": "高市批判の際にAIによる加工画像がちょくちょく紛れてる - 電脳塵芥",
+        "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/04/030000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T23:22:40+00:00",
+        "fetched_at": "2026-07-04T05:27:46+00:00",
+        "summary": "メモ的に書いておく。6月26日に山梨で震度6弱の地震が発生した際の高市の会見について、その声が弱々しく聞こえたとした動画が拡散したりした。それに対して酔っぱらっているのではという解釈がなされ、それが後に動画からの切り抜き画像が添えられて拡散がされた。 https://x.com/7OuqAXeL9r58674/status/2071257332626...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "781850a91e074f2208ff"
       },
       {
         "title": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
@@ -527,6 +585,43 @@
       "id": "7c7a0bcd932a622562e9"
     },
     {
+      "title": "M 4.8 - Izu Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta20",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T05:24:00.040+00:00",
+      "fetched_at": "2026-07-04T05:27:46+00:00",
+      "summary": "Time 2026-07-04 05:03:52 UTC 2026-07-04 05:03:52 UTC at epicenter Location 32.089°N 142.461°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8b3365321aef1fe72daf"
+    },
+    {
       "title": "M 5.2 - 24 km SW of Balangonan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -703,6 +798,27 @@
       "id": "1e3b46b3d1fa2a7150b6"
     },
     {
+      "title": "高市批判の際にAIによる加工画像がちょくちょく紛れてる - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/04/030000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T23:22:40+00:00",
+      "fetched_at": "2026-07-04T05:27:46+00:00",
+      "summary": "メモ的に書いておく。6月26日に山梨で震度6弱の地震が発生した際の高市の会見について、その声が弱々しく聞こえたとした動画が拡散したりした。それに対して酔っぱらっているのではという解釈がなされ、それが後に動画からの切り抜き画像が添えられて拡散がされた。 https://x.com/7OuqAXeL9r58674/status/2071257332626...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "781850a91e074f2208ff"
+    },
+    {
       "title": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
       "url": "https://togetter.com/li/2716570",
       "source": "Hatena Bookmark Hotentry IT",
@@ -747,19 +863,20 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 43 km SW of Ovalle, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta18",
+      "title": "M 4.8 - Izu Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta20",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-04T03:46:57.820+00:00",
-      "fetched_at": "2026-07-04T04:05:19+00:00",
-      "summary": "DYFI? - III Time 2026-07-04 03:09:33 UTC 2026-07-04 03:09:33 UTC at epicenter Location 30.913°S 71.479°W Depth 49.84 km (30.97 mi)",
+      "published_at": "2026-07-04T05:24:00.040+00:00",
+      "fetched_at": "2026-07-04T05:27:46+00:00",
+      "summary": "Time 2026-07-04 05:03:52 UTC 2026-07-04 05:03:52 UTC at epicenter Location 32.089°N 142.461°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -780,7 +897,28 @@
         "HD",
         "LOW"
       ],
-      "id": "66f81ef179bb3960d8d3"
+      "id": "8b3365321aef1fe72daf"
+    },
+    {
+      "title": "高市批判の際にAIによる加工画像がちょくちょく紛れてる - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/04/030000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T23:22:40+00:00",
+      "fetched_at": "2026-07-04T05:27:46+00:00",
+      "summary": "メモ的に書いておく。6月26日に山梨で震度6弱の地震が発生した際の高市の会見について、その声が弱々しく聞こえたとした動画が拡散したりした。それに対して酔っぱらっているのではという解釈がなされ、それが後に動画からの切り抜き画像が添えられて拡散がされた。 https://x.com/7OuqAXeL9r58674/status/2071257332626...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "781850a91e074f2208ff"
     }
   ],
   "source_errors": [],
