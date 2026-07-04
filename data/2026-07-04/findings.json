@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-04T20:12:24+00:00",
-    "fetched_at": "2026-07-04T20:12:09+00:00",
+    "published_at": "2026-07-04T22:42:12+00:00",
+    "fetched_at": "2026-07-04T22:41:56+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "d9f6e6e2f1e1d372b9a4"
+    "id": "87198adb89cbee72bc97"
   },
   {
     "title": "openai/codex-plugin-cc",
@@ -551,6 +551,42 @@
     "id": "cad81bb07b3f4887c34b"
   },
   {
+    "title": "M 4.5 - Pagan region, Northern Mariana Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6h",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-04T22:29:56.040+00:00",
+    "fetched_at": "2026-07-04T22:41:56+00:00",
+    "summary": "Time 2026-07-04 22:12:53 UTC 2026-07-04 22:12:53 UTC at epicenter Location 18.895°N 145.799°E Depth 187.79 km (116.69 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0c8d5f0ab586c23177f7"
+  },
+  {
     "title": "M 4.6 - off the coast of Central America",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4u",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -891,6 +927,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8f32e80d2127429ec024"
+  },
+  {
+    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと - Qiita",
+    "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T04:06:56+00:00",
+    "fetched_at": "2026-07-04T22:41:56+00:00",
+    "summary": "TL;DR Q: バイブコーディングで本当にアプリをリリースできるのか？ A: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。 AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました AIは「コードを書くこと」を代替できますが、「何を確認...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b7f8646c84ecb4d62579"
   },
   {
     "title": "ローカルLLMで「Pi」エージェントを動かす",
