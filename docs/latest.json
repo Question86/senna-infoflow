@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T08:33:05+00:00",
-  "run_id": "2026-07-04T08:33:05+00:00",
+  "generated_at": "2026-07-04T09:27:57+00:00",
+  "run_id": "2026-07-04T09:27:57+00:00",
   "date": "2026-07-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 5,
-    "observe": 13,
+    "medium": 7,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -165,6 +165,80 @@
           "PINS"
         ],
         "id": "7c7a0bcd932a622562e9"
+      },
+      {
+        "title": "M 5.0 - 64 km W of Tobelo, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta34",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-04T09:17:20.040+00:00",
+        "fetched_at": "2026-07-04T09:27:33+00:00",
+        "summary": "Time 2026-07-04 09:02:14 UTC 2026-07-04 09:02:14 UTC at epicenter Location 1.787°N 127.436°E Depth 128.16 km (79.63 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "67cc192f8729035ed6e0"
+      },
+      {
+        "title": "M 5.1 - 264 km W of Abepura, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-04T09:13:54.040+00:00",
+        "fetched_at": "2026-07-04T09:27:33+00:00",
+        "summary": "Time 2026-07-04 08:55:54 UTC 2026-07-04 08:55:54 UTC at epicenter Location 2.513°S 138.253°E Depth 39.45 km (24.51 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1d3f3b01ba18195be4cd"
       },
       {
         "title": "M 4.8 - Izu Islands, Japan region",
@@ -388,6 +462,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c9d3a4a3dc79ec234b1"
+      },
+      {
+        "title": "Understanding is the new bottleneck",
+        "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-03T10:11:40+00:00",
+        "fetched_at": "2026-07-04T09:27:33+00:00",
+        "summary": "July 2026 Understanding is the new bottleneck This is a written version of a talk I gave at the AI Engineer conference in July 2026, also shared as a tweet thread. Hot take: I think it's still important to understand the code that our agents write! In this talk I'll explain why that's the case, a...",
+        "matched_keywords": [
+          "agent",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cad81bb07b3f4887c34b"
       },
       {
         "title": "M 5.1 - 135 km N of Lae, Papua New Guinea",
@@ -707,6 +804,80 @@
       "id": "7c7a0bcd932a622562e9"
     },
     {
+      "title": "M 5.0 - 64 km W of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta34",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T09:17:20.040+00:00",
+      "fetched_at": "2026-07-04T09:27:33+00:00",
+      "summary": "Time 2026-07-04 09:02:14 UTC 2026-07-04 09:02:14 UTC at epicenter Location 1.787°N 127.436°E Depth 128.16 km (79.63 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "67cc192f8729035ed6e0"
+    },
+    {
+      "title": "M 5.1 - 264 km W of Abepura, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T09:13:54.040+00:00",
+      "fetched_at": "2026-07-04T09:27:33+00:00",
+      "summary": "Time 2026-07-04 08:55:54 UTC 2026-07-04 08:55:54 UTC at epicenter Location 2.513°S 138.253°E Depth 39.45 km (24.51 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1d3f3b01ba18195be4cd"
+    },
+    {
       "title": "M 4.8 - Izu Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta20",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -928,6 +1099,29 @@
       "id": "2c9d3a4a3dc79ec234b1"
     },
     {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-03T10:11:40+00:00",
+      "fetched_at": "2026-07-04T09:27:33+00:00",
+      "summary": "July 2026 Understanding is the new bottleneck This is a written version of a talk I gave at the AI Engineer conference in July 2026, also shared as a tweet thread. Hot take: I think it's still important to understand the code that our agents write! In this talk I'll explain why that's the case, a...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cad81bb07b3f4887c34b"
+    },
+    {
       "title": "M 5.1 - 135 km N of Lae, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1107,25 +1301,20 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-04T08:32:53+00:00",
-      "fetched_at": "2026-07-04T08:32:39+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "M 5.0 - 64 km W of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta34",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-04T09:17:20.040+00:00",
+      "fetched_at": "2026-07-04T09:27:33+00:00",
+      "summary": "Time 2026-07-04 09:02:14 UTC 2026-07-04 09:02:14 UTC at epicenter Location 1.787°N 127.436°E Depth 128.16 km (79.63 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1146,22 +1335,23 @@
         "HD",
         "LOW"
       ],
-      "id": "74cc83d4a4db836864f3"
+      "id": "67cc192f8729035ed6e0"
     },
     {
-      "title": "M 5.1 - 135 km N of Lae, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x",
+      "title": "M 5.1 - 264 km W of Abepura, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-04T08:04:52.040+00:00",
-      "fetched_at": "2026-07-04T08:32:39+00:00",
-      "summary": "Time 2026-07-04 07:50:23 UTC 2026-07-04 07:50:23 UTC at epicenter Location 5.505°S 147.103°E Depth 182.78 km (113.57 mi)",
+      "published_at": "2026-07-04T09:13:54.040+00:00",
+      "fetched_at": "2026-07-04T09:27:33+00:00",
+      "summary": "Time 2026-07-04 08:55:54 UTC 2026-07-04 08:55:54 UTC at epicenter Location 2.513°S 138.253°E Depth 39.45 km (24.51 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1182,28 +1372,30 @@
         "HD",
         "LOW"
       ],
-      "id": "38c4737f5da0e8436ae2"
+      "id": "1d3f3b01ba18195be4cd"
     },
     {
-      "title": "とある部長のObsidian",
-      "url": "https://zenn.dev/canly/articles/173479ac3e9824",
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-03T13:44:43+00:00",
-      "fetched_at": "2026-07-04T08:32:39+00:00",
-      "summary": "まえがき カンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。 AIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています。今回は実務というよりはその周辺にあるタスクやふりかえりに焦点をあて、どの...",
+      "published_at": "2026-07-03T10:11:40+00:00",
+      "fetched_at": "2026-07-04T09:27:33+00:00",
+      "summary": "July 2026 Understanding is the new bottleneck This is a written version of a talk I gave at the AI Engineer conference in July 2026, also shared as a tweet thread. Hot take: I think it's still important to understand the code that our agents write! In this talk I'll explain why that's the case, a...",
       "matched_keywords": [
+        "agent",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8f32e80d2127429ec024"
+      "id": "cad81bb07b3f4887c34b"
     }
   ],
   "source_errors": [],
