@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-04T18:14:40+00:00_
+_Generiert: 2026-07-04T19:10:03+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-07-04T18:14:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
-- **GDACS: Green flood alert in Ukraine** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104001)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Ukraine
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901)
   - Quelle: GDACS
   - Zeit: ``
@@ -63,7 +59,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-04T17:23:25+00:00`, fetched `2026-07-04T17:23:10+00:00`
+  - Zeit: published `2026-07-04T19:09:51+00:00`, fetched `2026-07-04T19:09:35+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
