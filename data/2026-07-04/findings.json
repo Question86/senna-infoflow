@@ -42,6 +42,183 @@
     "id": "68533bc854e9a97bd8fb"
   },
   {
+    "title": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-04T02:43:26+00:00",
+    "summary": "Use Codex from Claude Code to review code or delegate tasks. Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the workflow they already have. What You Get /codex:review for a normal read-only Codex review /codex:adversarial-review for a steerable challenge review /codex:re…",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "OpenAI",
+      "Public Health",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "8ad9ee6965332cd8bffa"
+  },
+  {
+    "title": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-04T02:43:26+00:00",
+    "summary": "Chrome DevTools for coding agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analy…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Automatisierung",
+      "GitHub Trending",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "7c7a0bcd932a622562e9"
+  },
+  {
+    "title": "M 5.2 - 24 km SW of Balangonan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-04T02:41:09.040+00:00",
+    "fetched_at": "2026-07-04T02:43:26+00:00",
+    "summary": "Time 2026-07-04 02:21:23 UTC 2026-07-04 02:21:23 UTC at epicenter Location 5.429°N 125.181°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "00e2e74ab48e55c3d158"
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-04T02:43:26+00:00",
+    "summary": "Free and Open Source, Distributed, RESTful Search Engine Elasticsearch Elasticsearch is a distributed search and analytics engine, scalable data store and vector database optimized for speed and relevance on production-scale workloads. Elasticsearch is the foundation of Elastic’s open Stack platform. Search in near real-time over massive datasets, perform vector searches, integrate with generative AI applications, a…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Open Source"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8152222606573b3720b6"
+  },
+  {
+    "title": "actions/checkout",
+    "url": "https://github.com/actions/checkout",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-04T02:43:26+00:00",
+    "summary": "Action for checking out a repo Checkout v7 What's new Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by pull_request_target or workflow_run . These triggers run with the base repository's GITHUB_TOKEN , secrets, and runner access, where executing a fork's code commonly leads to \"pwn request\" vulnerabilities. To opt in after reviewi…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Actions",
+      "GitHub Trending"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "GitHub Actions (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cdcf21b2181ef023dc5c"
+  },
+  {
     "title": "中国アリババ、米アンソロピックのプログラミングAIを利用禁止に - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -98,6 +275,27 @@
       "LOW"
     ],
     "id": "1e3b46b3d1fa2a7150b6"
+  },
+  {
+    "title": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
+    "url": "https://togetter.com/li/2716570",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T16:53:13+00:00",
+    "fetched_at": "2026-07-04T02:43:26+00:00",
+    "summary": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a8083bf6e251c82b6953"
   },
   {
     "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
