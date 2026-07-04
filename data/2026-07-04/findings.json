@@ -599,6 +599,27 @@
     "id": "1e3b46b3d1fa2a7150b6"
   },
   {
+    "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる - Qiita",
+    "url": "https://qiita.com/maaaashi/items/6eefccb7361f64607865",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-04T05:08:44+00:00",
+    "fetched_at": "2026-07-04T13:54:10+00:00",
+    "summary": "先日、こんな投稿を見かけました。 ¡Histórico! Nuevo método HTTP para el estándar. Se llama QUERY y es una alternativa a GET y POST （新しいHTTPメソッドが標準に。名前は QUERY で、GETとPOSTの代替になる） 新しいHTTPメソッド QUERY が、ついに \"Proposed Standard\" になったという話題です。 仕様は RFC 1000...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "996f274062a5d8835523"
+  },
+  {
     "title": "高市批判の際にAIによる加工画像がちょくちょく紛れてる - 電脳塵芥",
     "url": "https://nou-yunyun.hatenablog.com/entry/2026/07/04/030000",
     "source": "Hatena Bookmark Hotentry IT",
