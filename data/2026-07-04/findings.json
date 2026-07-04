@@ -455,6 +455,42 @@
     "id": "cad81bb07b3f4887c34b"
   },
   {
+    "title": "M 5.1 - southern Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-04T14:28:10.040+00:00",
+    "fetched_at": "2026-07-04T14:31:54+00:00",
+    "summary": "Time 2026-07-04 14:12:22 UTC 2026-07-04 14:12:22 UTC at epicenter Location 45.688°S 14.652°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7ce62d3339da436a8162"
+  },
+  {
     "title": "M 5.0 - Reykjanes Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -597,6 +633,27 @@
       "LOW"
     ],
     "id": "1e3b46b3d1fa2a7150b6"
+  },
+  {
+    "title": "現在の日本語のIT用語は横文字ばかりだが、初期の頃は日本IBMが超頑張って意訳した用語が雑誌に出てくると奇異とかバカにされていた話…シャットダウンが「遮断」は秀逸",
+    "url": "https://togetter.com/li/2716883",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-04T11:05:44+00:00",
+    "fetched_at": "2026-07-04T14:31:54+00:00",
+    "summary": "KOIZUKA Akihiko @koizuka 現在の日本語のIT用語がやたらと横文字なのは、インターネット時代の流入速度の問題もあるけど 初期の日本IBMなんかが超頑張って意訳してた用語が、雑誌とかに出てくると奇異とか馬鹿にされてて、カタカナに塗り替えられていったんだよね IBM PC-DOS/Vのマニュアルも5あたりで屈してしまった.....",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "37d0b645d376ffbfd563"
   },
   {
     "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる - Qiita",
