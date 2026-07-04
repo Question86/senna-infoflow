@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-04T01:42:13+00:00",
-    "fetched_at": "2026-07-04T01:41:58+00:00",
+    "published_at": "2026-07-04T08:32:53+00:00",
+    "fetched_at": "2026-07-04T08:32:39+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "68533bc854e9a97bd8fb"
+    "id": "74cc83d4a4db836864f3"
   },
   {
     "title": "openai/codex-plugin-cc",
@@ -358,6 +358,42 @@
     "id": "2c9d3a4a3dc79ec234b1"
   },
   {
+    "title": "M 5.1 - 135 km N of Lae, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-04T08:04:52.040+00:00",
+    "fetched_at": "2026-07-04T08:32:39+00:00",
+    "summary": "Time 2026-07-04 07:50:23 UTC 2026-07-04 07:50:23 UTC at epicenter Location 5.505°S 147.103°E Depth 182.78 km (113.57 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "38c4737f5da0e8436ae2"
+  },
+  {
     "title": "M 4.5 - Fiji region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta0n",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -434,6 +470,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a8083bf6e251c82b6953"
+  },
+  {
+    "title": "とある部長のObsidian",
+    "url": "https://zenn.dev/canly/articles/173479ac3e9824",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T13:44:43+00:00",
+    "fetched_at": "2026-07-04T08:32:39+00:00",
+    "summary": "まえがき カンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。 AIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています。今回は実務というよりはその周辺にあるタスクやふりかえりに焦点をあて、どの...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f32e80d2127429ec024"
   },
   {
     "title": "ローカルLLMで「Pi」エージェントを動かす",
