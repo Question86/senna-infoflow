@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-04T22:42:25+00:00_
+_Generiert: 2026-07-04T23:09:44+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -186,14 +186,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 長年の「iPhone」ユーザーである筆者にとって、かつては新品で輝いていたiPhoneが、24時間365日、壁のコンセントやワイヤレス充電器につないでおかなければならない役立たずの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - Pagan region, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6h)
+- **M 4.5 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta6j)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-04T22:29:56.040+00:00`, fetched `2026-07-04T22:41:56+00:00`
+  - Zeit: published `2026-07-04T22:44:25.040+00:00`, fetched `2026-07-04T23:09:18+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-04 22:12:53 UTC 2026-07-04 22:12:53 UTC at epicenter Location 18.895°N 145.799°E Depth 187.79 km (116.69 mi)
+  - Kurz: Time 2026-07-04 22:26:56 UTC 2026-07-04 22:26:56 UTC at epicenter Location 21.186°S 179.240°W Depth 624.49 km (388.04 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
