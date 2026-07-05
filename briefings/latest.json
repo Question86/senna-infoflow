@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T12:04:56+00:00",
-  "run_id": "2026-07-05T12:04:56+00:00",
+  "generated_at": "2026-07-05T12:41:17+00:00",
+  "run_id": "2026-07-05T12:41:17+00:00",
   "date": "2026-07-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -154,6 +154,42 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 4.5 - 71 km W of Ovalle, Chile",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta95",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-05T12:26:28.040+00:00",
+        "fetched_at": "2026-07-05T12:40:51+00:00",
+        "summary": "Time 2026-07-05 11:57:27 UTC 2026-07-05 11:57:27 UTC at epicenter Location 30.659°S 71.937°W Depth 17.68 km (10.98 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "75cdc1148a3640fe781b"
+      },
       {
         "title": "M 5.3 - 71 km S of Severo-Kuril’sk, Russia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86",
@@ -443,6 +479,42 @@
       "id": "edeee62bb74af92e6851"
     },
     {
+      "title": "M 4.5 - 71 km W of Ovalle, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta95",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-05T12:26:28.040+00:00",
+      "fetched_at": "2026-07-05T12:40:51+00:00",
+      "summary": "Time 2026-07-05 11:57:27 UTC 2026-07-05 11:57:27 UTC at epicenter Location 30.659°S 71.937°W Depth 17.68 km (10.98 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "75cdc1148a3640fe781b"
+    },
+    {
       "title": "M 5.3 - 71 km S of Severo-Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -607,25 +679,40 @@
   ],
   "new_findings": [
     {
-      "title": "システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経",
-      "url": "https://agnozingdays.hatenablog.com/entry/2026/07/05/170000",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - 71 km W of Ovalle, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta95",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-05T09:49:47+00:00",
-      "fetched_at": "2026-07-05T12:04:30+00:00",
-      "summary": "読むのがホネな技術書やビジネス書を取り上げて2週間の読書期限を課して読んでアウトプットする仮想読書会「デッドライン読書会」の第91回。同僚と読書期限を約束することによって積読が確実に減るという仕組み。過去記事はこちら。 今回とりあげるのは「エンジニアリング戦略の作り方 ―エンジニアリングの難局を打破す...",
+      "published_at": "2026-07-05T12:26:28.040+00:00",
+      "fetched_at": "2026-07-05T12:40:51+00:00",
+      "summary": "Time 2026-07-05 11:57:27 UTC 2026-07-05 11:57:27 UTC at epicenter Location 30.659°S 71.937°W Depth 17.68 km (10.98 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "efa56d7886bae7b1db11"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "75cdc1148a3640fe781b"
     }
   ],
   "source_errors": [],
