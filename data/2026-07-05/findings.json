@@ -159,6 +159,28 @@
     "id": "75cdc1148a3640fe781b"
   },
   {
+    "title": "ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum",
+    "url": "https://xenospectrum.com/pxpipe-claude-token-image-compression/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-05T10:24:29+00:00",
+    "fetched_at": "2026-07-05T13:12:44+00:00",
+    "summary": "この記事のポイント 何が起きた: Claude Codeの入力コンテキストをPNG画像に変換し、トークン費用を約6割削減するローカルプロキシ「pxpipe」が登場した。なぜ重要か: テキストの従量課金に対し、画像はピクセルサイズに基づく固定課金というAIモデルの料金体系のギャップを突き、新たなコスト最適化の力学を提示した。...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "411e6d67fe2aba4fae8c"
+  },
+  {
     "title": "M 5.3 - 71 km S of Severo-Kuril’sk, Russia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86",
     "source": "USGS M4.5+ Earthquakes Past Hour",

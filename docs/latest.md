@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T12:41:17+00:00_
+_Generiert: 2026-07-05T13:13:11+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+12 neue relevante Treffer. Stärkstes Signal: „もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-05 11:57:27 UTC 2026-07-05 11:57:27 UTC at epicenter Location 30.659°S 71.937°W Depth 17.68 km (10.98 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum** — Score 10, observation — [Quelle](https://xenospectrum.com/pxpipe-claude-token-image-compression/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-05T10:24:29+00:00`, fetched `2026-07-05T13:12:44+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: この記事のポイント 何が起きた: Claude Codeの入力コンテキストをPNG画像に変換し、トークン費用を約6割削減するローカルプロキシ「pxpipe」が登場した。なぜ重要か: テキストの従量課金に対し、画像はピクセルサイズに基づく固定課金というAIモデルの料金体系のギャップを突き、新たなコスト最適化の力学を提示した。...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 71 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-05T07:51:47.040+00:00`, fetched `2026-07-05T08:04:59+00:00`
@@ -77,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「知性が豊富にあるとき、意志には価値がある」 かつて、「AIが人間の仕事を奪う」と声高に叫ばれていた。しかしいま、実際にはこれとは真逆の事態が起こっている。 米テクノロジー企業「アクティブトラック」が、AIを導入した376の企業と1万人の従業員のデジタル活動を調査したところ、AI導入以前と比べて、メールや業...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NECは即決、富士通は後に土下座、シャープは「10円やったらこうたるわ」…1978年、Microsoft BASICの営業で国内メーカーを回った西和彦氏が明かす各社の反応が濃すぎる** — Score 5, observation — [Quelle](https://togetter.com/li/2717051)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-05T00:32:10+00:00`, fetched `2026-07-05T02:51:54+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 西 和彦 Kazuhiko Nishi @nishikazuhiko 1978年に アスキーマイクロソフトとして BASICのソフトウェアを持って 国内企業を回った時に 受けた対応 ４８年前なので秘密保持契約は失効しています 各社の反応 日本電気 面白いからやりましょう NEC PC8000誕生 渡辺さん 沖電気 もっと詳しくお願いします OKI if800誕生...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
