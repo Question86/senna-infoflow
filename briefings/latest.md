@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T05:48:02+00:00_
+_Generiert: 2026-07-05T06:57:42+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+6 neue relevante Treffer. Stärkstes Signal: „もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 西 和彦 Kazuhiko Nishi @nishikazuhiko 1978年に アスキーマイクロソフトとして BASICのソフトウェアを持って 国内企業を回った時に 受けた対応 ４８年前なので秘密保持契約は失効しています 各社の反応 日本電気 面白いからやりましょう NEC PC8000誕生 渡辺さん 沖電気 もっと詳しくお願いします OKI if800誕生...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **三重県、複数部署でＵＳＢメモリーから「マルウェア」検知…６０００個以上？あり調査継続中** — Score 5, observation — [Quelle](https://www.yomiuri.co.jp/national/20260704-GYT1T00027/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-04T11:35:29+00:00`, fetched `2026-07-05T06:57:14+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【読売新聞】 陸上自衛隊がマルウェア（悪意あるプログラム）に感染したＵＳＢメモリーを昨年２月まで使用していた問題を受け、三重県は３日複数の部署のＵＳＢメモリーからマルウェアが検知されたと明らかにした。県は独自の調査を継続中だが現時点
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用** — Score 5, observation — [Quelle](https://zenn.dev/yui/articles/740da24e9ee419)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
