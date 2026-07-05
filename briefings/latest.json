@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:06:05+00:00",
-  "run_id": "2026-07-05T21:06:05+00:00",
+  "generated_at": "2026-07-05T21:34:12+00:00",
+  "run_id": "2026-07-05T21:34:12+00:00",
   "date": "2026-07-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 2,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 5,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-05T19:39:04+00:00",
-        "fetched_at": "2026-07-05T19:38:50+00:00",
+        "published_at": "2026-07-05T21:34:01+00:00",
+        "fetched_at": "2026-07-05T21:33:47+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3056a5c02abfdc645198"
+        "id": "e80c0f932176c52d0cfd"
       },
       {
         "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -510,6 +510,28 @@
         "id": "c1842c12469f5f13c7f7"
       },
       {
+        "title": "スタートアップをとりまく思想 - 🐴 (馬)",
+        "url": "https://blog.takaumada.com/entry/startup-thought-2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-05T10:27:15+00:00",
+        "fetched_at": "2026-07-05T21:33:47+00:00",
+        "summary": "なぜいま、スタートアップと思想なのか 日本で「シリコンバレー」と聞いて思い浮かぶのは、GAFAのような巨大テック企業か、「失敗を恐れず挑戦する起業家精神」といったビジネス書的なイメージではないでしょうか。 しかし、いまアメリカのテック業界で起きていること、そしてシリコンバレーが世界から注目されている理...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b724fa8cde3e7620456f"
+      },
+      {
         "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
         "url": "https://anond.hatelabo.jp/20260705205433",
         "source": "Hatena Bookmark Hotentry IT",
@@ -706,8 +728,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-05T19:39:04+00:00",
-      "fetched_at": "2026-07-05T19:38:50+00:00",
+      "published_at": "2026-07-05T21:34:01+00:00",
+      "fetched_at": "2026-07-05T21:33:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -741,7 +763,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3056a5c02abfdc645198"
+      "id": "e80c0f932176c52d0cfd"
     },
     {
       "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -1180,6 +1202,28 @@
       "id": "c1842c12469f5f13c7f7"
     },
     {
+      "title": "スタートアップをとりまく思想 - 🐴 (馬)",
+      "url": "https://blog.takaumada.com/entry/startup-thought-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T10:27:15+00:00",
+      "fetched_at": "2026-07-05T21:33:47+00:00",
+      "summary": "なぜいま、スタートアップと思想なのか 日本で「シリコンバレー」と聞いて思い浮かぶのは、GAFAのような巨大テック企業か、「失敗を恐れず挑戦する起業家精神」といったビジネス書的なイメージではないでしょうか。 しかし、いまアメリカのテック業界で起きていること、そしてシリコンバレーが世界から注目されている理...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b724fa8cde3e7620456f"
+    },
+    {
       "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
       "url": "https://anond.hatelabo.jp/20260705205433",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1369,7 +1413,72 @@
       "id": "ea76ad7931a9a67c1274"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-05T21:34:01+00:00",
+      "fetched_at": "2026-07-05T21:33:47+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e80c0f932176c52d0cfd"
+    },
+    {
+      "title": "スタートアップをとりまく思想 - 🐴 (馬)",
+      "url": "https://blog.takaumada.com/entry/startup-thought-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T10:27:15+00:00",
+      "fetched_at": "2026-07-05T21:33:47+00:00",
+      "summary": "なぜいま、スタートアップと思想なのか 日本で「シリコンバレー」と聞いて思い浮かぶのは、GAFAのような巨大テック企業か、「失敗を恐れず挑戦する起業家精神」といったビジネス書的なイメージではないでしょうか。 しかし、いまアメリカのテック業界で起きていること、そしてシリコンバレーが世界から注目されている理...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b724fa8cde3e7620456f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

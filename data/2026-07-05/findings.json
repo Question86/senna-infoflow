@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-05T19:39:04+00:00",
-    "fetched_at": "2026-07-05T19:38:50+00:00",
+    "published_at": "2026-07-05T21:34:01+00:00",
+    "fetched_at": "2026-07-05T21:33:47+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "3056a5c02abfdc645198"
+    "id": "e80c0f932176c52d0cfd"
   },
   {
     "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -476,6 +476,28 @@
       "LOW"
     ],
     "id": "c1842c12469f5f13c7f7"
+  },
+  {
+    "title": "スタートアップをとりまく思想 - 🐴 (馬)",
+    "url": "https://blog.takaumada.com/entry/startup-thought-2026",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-05T10:27:15+00:00",
+    "fetched_at": "2026-07-05T21:33:47+00:00",
+    "summary": "なぜいま、スタートアップと思想なのか 日本で「シリコンバレー」と聞いて思い浮かぶのは、GAFAのような巨大テック企業か、「失敗を恐れず挑戦する起業家精神」といったビジネス書的なイメージではないでしょうか。 しかし、いまアメリカのテック業界で起きていること、そしてシリコンバレーが世界から注目されている理...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b724fa8cde3e7620456f"
   },
   {
     "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
