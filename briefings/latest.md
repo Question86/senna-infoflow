@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T10:54:22+00:00_
+_Generiert: 2026-07-05T11:31:38+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+9 neue relevante Treffer. Stärkstes Signal: „もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-05 07:37:07 UTC 2026-07-05 07:37:07 UTC at epicenter Location 50.040°N 156.001°E Depth 82.94 km (51.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 | AIという車があっても、自分の足で走りたい** — Score 5, observation — [Quelle](https://courrier.jp/news/archives/450760/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-05T00:41:16+00:00`, fetched `2026-07-05T11:31:13+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「知性が豊富にあるとき、意志には価値がある」 かつて、「AIが人間の仕事を奪う」と声高に叫ばれていた。しかしいま、実際にはこれとは真逆の事態が起こっている。 米テクノロジー企業「アクティブトラック」が、AIを導入した376の企業と1万人の従業員のデジタル活動を調査したところ、AI導入以前と比べて、メールや業...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NECは即決、富士通は後に土下座、シャープは「10円やったらこうたるわ」…1978年、Microsoft BASICの営業で国内メーカーを回った西和彦氏が明かす各社の反応が濃すぎる** — Score 5, observation — [Quelle](https://togetter.com/li/2717051)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-05T00:32:10+00:00`, fetched `2026-07-05T02:51:54+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【読売新聞】 陸上自衛隊がマルウェア（悪意あるプログラム）に感染したＵＳＢメモリーを昨年２月まで使用していた問題を受け、三重県は３日複数の部署のＵＳＢメモリーからマルウェアが検知されたと明らかにした。県は独自の調査を継続中だが現時点
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用** — Score 5, observation — [Quelle](https://zenn.dev/yui/articles/740da24e9ee419)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-04T11:32:30+00:00`, fetched `2026-07-05T01:47:38+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Claude Fable 5、今までのモデルと比べても頭ひとつ飛び出るぐらい賢いですよね。 以前出た時にすぐメインモデルに設定して、実装からデバッグから雑務まで全部やらせた結果、トークンが凄い勢いで食われていくので対策しました。 Fable 5 の賢さは活かしつつトークンは食わせないようにオーケストレーターに徹...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
