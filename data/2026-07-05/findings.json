@@ -220,5 +220,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "62f5a79d1f6e82fa5713"
+  },
+  {
+    "title": "「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita",
+    "url": "https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T04:15:32+00:00",
+    "fetched_at": "2026-07-05T10:05:46+00:00",
+    "summary": "以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea76ad7931a9a67c1274"
   }
 ]
