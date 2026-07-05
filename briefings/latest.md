@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T02:52:20+00:00_
+_Generiert: 2026-07-05T04:20:48+00:00_
 
 ## Kurzlage
 
@@ -29,18 +29,8 @@ _Generiert: 2026-07-05T02:52:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549862)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fb5be743ed0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
