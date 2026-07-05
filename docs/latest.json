@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T16:10:44+00:00",
-  "run_id": "2026-07-05T16:10:44+00:00",
+  "generated_at": "2026-07-05T16:37:59+00:00",
+  "run_id": "2026-07-05T16:37:59+00:00",
   "date": "2026-07-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 2,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 4,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-05T16:10:34+00:00",
-        "fetched_at": "2026-07-05T16:10:18+00:00",
+        "published_at": "2026-07-05T16:37:46+00:00",
+        "fetched_at": "2026-07-05T16:37:30+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "fb2ef194c283edb5a78a"
+        "id": "c687a0fb3f9a990b31fc"
       },
       {
         "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -473,6 +473,27 @@
         "id": "c1842c12469f5f13c7f7"
       },
       {
+        "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
+        "url": "https://anond.hatelabo.jp/20260705205433",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-05T11:55:48+00:00",
+        "fetched_at": "2026-07-05T16:37:30+00:00",
+        "summary": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上に「あの人を見てみたい」「自分も載せてほしい」という声をいただいており、大変ありがたい一方で、掲載が追いついていません。 現在、順番待ちのリクエストが500件を超えています。 「まだ？」と思われている方、お待たせして申し訳ありません。 ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0329db39287a1cc87518"
+      },
+      {
         "title": "システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経",
         "url": "https://agnozingdays.hatenablog.com/entry/2026/07/05/170000",
         "source": "Hatena Bookmark Hotentry IT",
@@ -648,8 +669,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-05T16:10:34+00:00",
-      "fetched_at": "2026-07-05T16:10:18+00:00",
+      "published_at": "2026-07-05T16:37:46+00:00",
+      "fetched_at": "2026-07-05T16:37:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -683,7 +704,7 @@
         "HD",
         "LOW"
       ],
-      "id": "fb2ef194c283edb5a78a"
+      "id": "c687a0fb3f9a990b31fc"
     },
     {
       "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -1085,6 +1106,27 @@
       "id": "c1842c12469f5f13c7f7"
     },
     {
+      "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
+      "url": "https://anond.hatelabo.jp/20260705205433",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T11:55:48+00:00",
+      "fetched_at": "2026-07-05T16:37:30+00:00",
+      "summary": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上に「あの人を見てみたい」「自分も載せてほしい」という声をいただいており、大変ありがたい一方で、掲載が追いついていません。 現在、順番待ちのリクエストが500件を超えています。 「まだ？」と思われている方、お待たせして申し訳ありません。 ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0329db39287a1cc87518"
+    },
+    {
       "title": "システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経",
       "url": "https://agnozingdays.hatenablog.com/entry/2026/07/05/170000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1259,8 +1301,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-05T16:10:34+00:00",
-      "fetched_at": "2026-07-05T16:10:18+00:00",
+      "published_at": "2026-07-05T16:37:46+00:00",
+      "fetched_at": "2026-07-05T16:37:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1294,79 +1336,28 @@
         "HD",
         "LOW"
       ],
-      "id": "fb2ef194c283edb5a78a"
+      "id": "c687a0fb3f9a990b31fc"
     },
     {
-      "title": "M 5.0 - 106 km NW of Coquimbo, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
+      "url": "https://anond.hatelabo.jp/20260705205433",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-05T16:09:50.040+00:00",
-      "fetched_at": "2026-07-05T16:10:18+00:00",
-      "summary": "Time 2026-07-05 15:53:33 UTC 2026-07-05 15:53:33 UTC at epicenter Location 29.196°S 72.011°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-05T11:55:48+00:00",
+      "fetched_at": "2026-07-05T16:37:30+00:00",
+      "summary": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上に「あの人を見てみたい」「自分も載せてほしい」という声をいただいており、大変ありがたい一方で、掲載が追いついていません。 現在、順番待ちのリクエストが500件を超えています。 「まだ？」と思われている方、お待たせして申し訳ありません。 ...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e134133306c739c91d63"
-    },
-    {
-      "title": "M 5.0 - 26 km NNW of Mianzhu, Deyang, Sichuan, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taaa",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-05T15:59:10.905+00:00",
-      "fetched_at": "2026-07-05T16:10:18+00:00",
-      "summary": "DYFI? - III Time 2026-07-05 15:30:13 UTC 2026-07-05 15:30:13 UTC at epicenter Location 31.565°N 104.126°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "1d1cb3a081b2cb8b67b7"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0329db39287a1cc87518"
     }
   ],
   "source_errors": [],
