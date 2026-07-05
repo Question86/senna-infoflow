@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-05T21:34:01+00:00",
-    "fetched_at": "2026-07-05T21:33:47+00:00",
+    "published_at": "2026-07-05T23:22:54+00:00",
+    "fetched_at": "2026-07-05T23:22:39+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e80c0f932176c52d0cfd"
+    "id": "5fd222b5f6b79dd79abf"
   },
   {
     "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -200,6 +200,53 @@
       "LOW"
     ],
     "id": "9774d7f11330ccc75f9f"
+  },
+  {
+    "title": "GitHub - UniClipboard/UniClipboard: Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.",
+    "url": "https://github.com/UniClipboard/UniClipboard",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-05T10:53:43+00:00",
+    "fetched_at": "2026-07-05T23:22:39+00:00",
+    "summary": "Cross-platform: First-class support on Windows, macOS, and Linux — your clipboard works wherever you do. iPhone and Android can join as a companion (see below). Cross-network sync: Real-time sync on the same Wi-Fi, across different home/office networks, or across the internet, with automatic NAT ...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: local-first"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "6da505e955bce3118929"
   },
   {
     "title": "M 5.8 - 274 km SE of Levuka, Fiji",

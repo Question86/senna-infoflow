@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T22:54:03+00:00",
-  "run_id": "2026-07-05T22:54:03+00:00",
+  "generated_at": "2026-07-05T23:23:06+00:00",
+  "run_id": "2026-07-05T23:23:06+00:00",
   "date": "2026-07-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 2,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 19,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-05T21:34:01+00:00",
-        "fetched_at": "2026-07-05T21:33:47+00:00",
+        "published_at": "2026-07-05T23:22:54+00:00",
+        "fetched_at": "2026-07-05T23:22:39+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e80c0f932176c52d0cfd"
+        "id": "5fd222b5f6b79dd79abf"
       },
       {
         "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -230,6 +230,53 @@
           "LOW"
         ],
         "id": "9774d7f11330ccc75f9f"
+      },
+      {
+        "title": "GitHub - UniClipboard/UniClipboard: Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.",
+        "url": "https://github.com/UniClipboard/UniClipboard",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-05T10:53:43+00:00",
+        "fetched_at": "2026-07-05T23:22:39+00:00",
+        "summary": "Cross-platform: First-class support on Windows, macOS, and Linux — your clipboard works wherever you do. iPhone and Android can join as a companion (see below). Cross-network sync: Real-time sync on the same Wi-Fi, across different home/office networks, or across the internet, with automatic NAT ...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: local-first"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "6da505e955bce3118929"
       }
     ],
     "observe": [
@@ -749,8 +796,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-05T21:34:01+00:00",
-      "fetched_at": "2026-07-05T21:33:47+00:00",
+      "published_at": "2026-07-05T23:22:54+00:00",
+      "fetched_at": "2026-07-05T23:22:39+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -784,7 +831,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e80c0f932176c52d0cfd"
+      "id": "5fd222b5f6b79dd79abf"
     },
     {
       "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
@@ -945,6 +992,53 @@
         "LOW"
       ],
       "id": "9774d7f11330ccc75f9f"
+    },
+    {
+      "title": "GitHub - UniClipboard/UniClipboard: Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.",
+      "url": "https://github.com/UniClipboard/UniClipboard",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T10:53:43+00:00",
+      "fetched_at": "2026-07-05T23:22:39+00:00",
+      "summary": "Cross-platform: First-class support on Windows, macOS, and Linux — your clipboard works wherever you do. iPhone and Android can join as a companion (see below). Cross-network sync: Real-time sync on the same Wi-Fi, across different home/office networks, or across the internet, with automatic NAT ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: local-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "6da505e955bce3118929"
     },
     {
       "title": "M 5.8 - 274 km SE of Levuka, Fiji",
@@ -1457,25 +1551,93 @@
   ],
   "new_findings": [
     {
-      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
-      "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-05T23:22:54+00:00",
+      "fetched_at": "2026-07-05T23:22:39+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5fd222b5f6b79dd79abf"
+    },
+    {
+      "title": "GitHub - UniClipboard/UniClipboard: Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.",
+      "url": "https://github.com/UniClipboard/UniClipboard",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-05T01:01:02+00:00",
-      "fetched_at": "2026-07-05T22:53:32+00:00",
-      "summary": "Bug指摘の欠陥相関0.51は、Style指摘の0.04の約13倍。同じ「1件のレビューコメント」でも、効きめが1桁違う。 「nit:が多いレビューほどコードが歪む」という逆説 集計の途中で、不気味な相関に気づいた。nit: (Style系) が多いPRほど、3ヶ月後の欠陥相関がむしろ高い。Style指摘の自己相関ではなく、他カテゴリの欠陥相...",
+      "published_at": "2026-07-05T10:53:43+00:00",
+      "fetched_at": "2026-07-05T23:22:39+00:00",
+      "summary": "Cross-platform: First-class support on Windows, macOS, and Linux — your clipboard works wherever you do. iPhone and Android can join as a companion (see below). Cross-network sync: Real-time sync on the same Wi-Fi, across different home/office networks, or across the internet, with automatic NAT ...",
       "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d383f0e89b48717370d0"
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: local-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "6da505e955bce3118929"
     }
   ],
   "source_errors": [],
