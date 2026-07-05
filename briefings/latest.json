@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T22:28:24+00:00",
-  "run_id": "2026-07-05T22:28:24+00:00",
+  "generated_at": "2026-07-05T22:54:03+00:00",
+  "run_id": "2026-07-05T22:54:03+00:00",
   "date": "2026-07-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 1,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 5,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -593,6 +593,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8bb2e0aaf9dbd2242dad"
+      },
+      {
+        "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+        "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-05T01:01:02+00:00",
+        "fetched_at": "2026-07-05T22:53:32+00:00",
+        "summary": "Bug指摘の欠陥相関0.51は、Style指摘の0.04の約13倍。同じ「1件のレビューコメント」でも、効きめが1桁違う。 「nit:が多いレビューほどコードが歪む」という逆説 集計の途中で、不気味な相関に気づいた。nit: (Style系) が多いPRほど、3ヶ月後の欠陥相関がむしろ高い。Style指摘の自己相関ではなく、他カテゴリの欠陥相...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d383f0e89b48717370d0"
       },
       {
         "title": "AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 | AIという車があっても、自分の足で走りたい",
@@ -1287,6 +1308,27 @@
       "id": "8bb2e0aaf9dbd2242dad"
     },
     {
+      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+      "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T01:01:02+00:00",
+      "fetched_at": "2026-07-05T22:53:32+00:00",
+      "summary": "Bug指摘の欠陥相関0.51は、Style指摘の0.04の約13倍。同じ「1件のレビューコメント」でも、効きめが1桁違う。 「nit:が多いレビューほどコードが歪む」という逆説 集計の途中で、不気味な相関に気づいた。nit: (Style系) が多いPRほど、3ヶ月後の欠陥相関がむしろ高い。Style指摘の自己相関ではなく、他カテゴリの欠陥相...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d383f0e89b48717370d0"
+    },
+    {
       "title": "AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 | AIという車があっても、自分の足で走りたい",
       "url": "https://courrier.jp/news/archives/450760/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1413,7 +1455,29 @@
       "id": "ea76ad7931a9a67c1274"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+      "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T01:01:02+00:00",
+      "fetched_at": "2026-07-05T22:53:32+00:00",
+      "summary": "Bug指摘の欠陥相関0.51は、Style指摘の0.04の約13倍。同じ「1件のレビューコメント」でも、効きめが1桁違う。 「nit:が多いレビューほどコードが歪む」という逆説 集計の途中で、不気味な相関に気づいた。nit: (Style系) が多いPRほど、3ヶ月後の欠陥相関がむしろ高い。Style指摘の自己相関ではなく、他カテゴリの欠陥相...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d383f0e89b48717370d0"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
