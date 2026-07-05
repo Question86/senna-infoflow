@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T13:57:55+00:00_
+_Generiert: 2026-07-05T14:37:56+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 読むのがホネな技術書やビジネス書を取り上げて2週間の読書期限を課して読んでアウトプットする仮想読書会「デッドライン読書会」の第91回。同僚と読書期限を約束することによって積読が確実に減るという仕組み。過去記事はこちら。 今回とりあげるのは「エンジニアリング戦略の作り方 ―エンジニアリングの難局を打破す...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 | AIという車があっても、自分の足で走りたい** — Score 5, observation — [Quelle](https://courrier.jp/news/archives/450760/)
+- **そうだ、時計作ろう - 重力に縋るな** — Score 5, observation — [Quelle](https://sksat.hatenablog.com/entry/pico-gnssdo)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-05T00:41:16+00:00`, fetched `2026-07-05T11:31:13+00:00`
+  - Zeit: published `2026-07-05T07:19:40+00:00`, fetched `2026-07-05T14:37:30+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「知性が豊富にあるとき、意志には価値がある」 かつて、「AIが人間の仕事を奪う」と声高に叫ばれていた。しかしいま、実際にはこれとは真逆の事態が起こっている。 米テクノロジー企業「アクティブトラック」が、AIを導入した376の企業と1万人の従業員のデジタル活動を調査したところ、AI導入以前と比べて、メールや業...
+  - Kurz: みなさん時間測ってますか？ 僕はパスタ茹でる時とかに測ります。 また、時間の間隔だけでなく、正確な時刻を知ったり、正確な時刻に合わせて何かアクションをしたい時があります。 たとえば JST 2026年06月21日22時23分24秒きっかりに数十 ns の精度でパスタを茹で始めたい時などがあると思います。 そんな時に便利なの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
