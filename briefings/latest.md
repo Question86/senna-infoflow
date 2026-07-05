@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T15:40:53+00:00_
+_Generiert: 2026-07-05T16:10:44+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,22 @@ _Generiert: 2026-07-05T15:40:53+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fcc56718950>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549862)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -49,7 +63,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-05T13:57:44+00:00`, fetched `2026-07-05T13:57:30+00:00`
+  - Zeit: published `2026-07-05T16:10:34+00:00`, fetched `2026-07-05T16:10:18+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -95,23 +109,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - II Time 2026-07-05 14:22:26 UTC 2026-07-05 14:22:26 UTC at epicenter Location 19.981°S 179.030°W Depth 685.69 km (426.07 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 26 km NNW of Mianzhu, Deyang, Sichuan, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000taa2)
+- **M 5.0 - 106 km NW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-05T15:35:28.330+00:00`, fetched `2026-07-05T15:40:24+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-07-05 15:03:31 UTC 2026-07-05 15:03:31 UTC at epicenter Location 31.546°N 104.088°E Depth 45.55 km (28.30 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 98 km NW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9n)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-05T15:01:01.040+00:00`, fetched `2026-07-05T15:07:51+00:00`
+  - Zeit: published `2026-07-05T16:09:50.040+00:00`, fetched `2026-07-05T16:10:18+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-05 14:42:04 UTC 2026-07-05 14:42:04 UTC at epicenter Location 29.233°S 71.939°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-05 15:53:33 UTC 2026-07-05 15:53:33 UTC at epicenter Location 29.196°S 72.011°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.0 - 26 km NNW of Mianzhu, Deyang, Sichuan, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000taaa)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-05T15:59:10.905+00:00`, fetched `2026-07-05T16:10:18+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-07-05 15:30:13 UTC 2026-07-05 15:30:13 UTC at epicenter Location 31.565°N 104.126°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum** — Score 10, observation — [Quelle](https://xenospectrum.com/pxpipe-claude-token-image-compression/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
