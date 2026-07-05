@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-05T14:37:56+00:00_
+_Generiert: 2026-07-05T15:08:17+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-05T14:37:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901)
   - Quelle: GDACS
   - Zeit: ``
@@ -41,6 +45,10 @@ _Generiert: 2026-07-05T14:37:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.
+- **USGS earthquake M5.8 - 274 km SE of Levuka, Fiji** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9m)
+  - Quelle: USGS
+  - Zeit: `2026-07-05T14:22:26+00:00`
+  - Kurz: M5.8 - 274 km SE of Levuka, Fiji. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -96,6 +104,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.8 - 274 km SE of Levuka, Fiji** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-05T14:52:49.674+00:00`, fetched `2026-07-05T15:07:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - II Time 2026-07-05 14:22:26 UTC 2026-07-05 14:22:26 UTC at epicenter Location 19.981°S 179.030°W Depth 685.69 km (426.07 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.0 - 98 km NW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9n)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-05T15:01:01.040+00:00`, fetched `2026-07-05T15:07:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-05 14:42:04 UTC 2026-07-05 14:42:04 UTC at epicenter Location 29.233°S 71.939°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 71 km W of Ovalle, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta95)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-05T12:26:28.040+00:00`, fetched `2026-07-05T12:40:51+00:00`
@@ -114,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: この記事のポイント 何が起きた: Claude Codeの入力コンテキストをPNG画像に変換し、トークン費用を約6割削減するローカルプロキシ「pxpipe」が登場した。なぜ重要か: テキストの従量課金に対し、画像はピクセルサイズに基づく固定課金というAIモデルの料金体系のギャップを突き、新たなコスト最適化の力学を提示した。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 71 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-05T07:51:47.040+00:00`, fetched `2026-07-05T08:04:59+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-05 07:37:07 UTC 2026-07-05 07:37:07 UTC at epicenter Location 50.040°N 156.001°E Depth 82.94 km (51.53 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経** — Score 5, observation — [Quelle](https://agnozingdays.hatenablog.com/entry/2026/07/05/170000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-05T09:49:47+00:00`, fetched `2026-07-05T12:04:30+00:00`
