@@ -1,1 +1,97 @@
-[]
+[
+  {
+    "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan",
+    "url": "https://www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-03T03:57:00+00:00",
+    "fetched_at": "2026-07-05T01:47:38+00:00",
+    "summary": "ループとは何か？ループとは、AIエージェントを自律的に反復させるシステムで、これを使えばユーザーはいちいちプロンプトを書く手間から解放される。代表例が「/goal（ゴール）」コマンドだ。これはアンソロピック（Anthropic）のClaude CodeやオープンAIのCodexといったAIツールに対し、段階を追ってその都度プロンプ...",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "bdea0357fec8a20c47af"
+  },
+  {
+    "title": ".env に API キーを書きたくないので 軽いCLI を作った",
+    "url": "https://zenn.dev/trknhr/articles/42c20e11812217",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-04T02:26:11+00:00",
+    "fetched_at": "2026-07-05T01:47:38+00:00",
+    "summary": "OPENAI_API_KEY=sk-... DATABASE_URL=postgres://... これは昔からある普通の運用ですが、AI agent をローカルで動かすことが増えてから少し気になるようになりました。 AI agent にリポジトリを触らせるということは、かなり雑に言うと「別の人に自分の作業ディレクトリを触ってもらう」ことに近いです。もちろん agent...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 21,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "edeee62bb74af92e6851"
+  },
+  {
+    "title": "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
+    "url": "https://zenn.dev/yui/articles/740da24e9ee419",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-04T11:32:30+00:00",
+    "fetched_at": "2026-07-05T01:47:38+00:00",
+    "summary": "はじめに Claude Fable 5、今までのモデルと比べても頭ひとつ飛び出るぐらい賢いですよね。 以前出た時にすぐメインモデルに設定して、実装からデバッグから雑務まで全部やらせた結果、トークンが凄い勢いで食われていくので対策しました。 Fable 5 の賢さは活かしつつトークンは食わせないようにオーケストレーターに徹...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "62f5a79d1f6e82fa5713"
+  }
+]
