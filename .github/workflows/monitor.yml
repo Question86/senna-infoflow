@@ -60,13 +60,13 @@ jobs:
             echo "No one-shot resurface marker present."
           fi
 
-      - name: Run hardened monitor as visible main feed
+       - name: Run hardened monitor as visible main feed
         id: hardened
         timeout-minutes: 5
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
+          USER_AGENT: senna-inflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 6
         run: |
           echo "Running normal hardened monitor as visible broad feed mainline."
@@ -88,6 +88,14 @@ jobs:
         run: |
           echo "Running always-on global security/economy watchdog overlay."
           python scripts/global_watchdogs.py
+
+      - name: Write compact ChatGPT handoff
+        if: always()
+        timeout-minutes: 1
+        continue-on-error: true
+        run: |
+          echo "Writing compact first-read handoff for ChatGPT/GitHub tool access."
+          python scripts/write_chat_handoff.py
 
       - name: Restore full dashboard UI from protected commit
         run: |
