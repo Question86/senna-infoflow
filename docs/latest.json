@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:54:52+00:00",
-  "run_id": "2026-07-06T01:54:52+00:00",
+  "generated_at": "2026-07-06T03:08:33+00:00",
+  "run_id": "2026-07-06T03:08:33+00:00",
   "date": "2026-07-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,183 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 12,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 1,
-    "observe": 5,
+    "medium": 5,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "When AI agents start acting on our behalf, security gets more complicated",
+        "url": "https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T02:00:49+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "For many Southeast Asian businesses, the promise of AI agents is easy to understand. A bank wants to resolve customer issues faster. A hospital wants to reduce administrative load. An e-commerce platform wants to automate repetitive inquiries from sellers. A logistics company wants systems that can coordinate routes, documents, and customer updates with less manual […] The post When AI agents start acting on our beh…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Security",
+          "Southeast Asia",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "f23d12990aaf1ea90a31"
+      },
+      {
+        "title": "asgeirtj/system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. As seen in The Washington Post: See the hidden rules behind AI. Then use them to rewrite this article. (May 11, 2026) System Prompts Leaks T…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "95f596f8b684cafa38d0"
+      },
+      {
+        "title": "AI and accessibility: The untapped solution to the cybersecurity skills gap",
+        "url": "https://e27.co/ai-and-accessibility-the-untapped-solution-to-the-cybersecurity-skills-gap-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T03:00:59+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "The cybersecurity industry faces a paradox. At the very moment when artificial intelligence, geopolitical tensions, ransomware operations, and digital transformation are increasing global cyber risks, organisations continue to struggle with one fundamental problem: there are not enough cybersecurity professionals. For years, the industry has attempted to solve this challenge by expanding training programmes, increas…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Security"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00e72407453a1e6fd19d"
+      },
+      {
+        "title": "alirezarezvani/claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 35…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "ba63e9b59c3e5c35622e"
+      },
       {
         "title": "Funded: AI is having its moment, climate is having a crisis. SEA can’t afford to confuse the two",
         "url": "https://e27.co/funded-ai-is-having-its-moment-climate-is-having-a-crisis-sea-cant-afford-to-confuse-the-two-20260704/",
@@ -55,6 +221,50 @@
     ],
     "observe": [
       {
+        "title": "Stop training your team: Why your rapid loop needs architecture, not coaching",
+        "url": "https://e27.co/stop-training-your-team-why-your-rapid-loop-needs-architecture-not-coaching-20260623/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T02:15:09+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "In the race to adopt AI, most startups are making a classic category error: they are trying to “coach” their way to speed. We see founders pouring capital into prompt engineering workshops and AI literacy seminars, yet the needle isn’t moving. The reason is simple: your talent isn’t the bottleneck—your organisational architecture is. According to […] The post Stop training your team: Why your rapid loop needs archit…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "0304d32d775d087014b0"
+      },
+      {
         "title": "What building an AI food intelligence app taught us about Southeast Asia’s nutrition problem",
         "url": "https://e27.co/what-building-an-ai-food-intelligence-app-taught-us-about-southeast-asias-nutrition-problem-20260702/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -77,6 +287,64 @@
         "id": "47331cdb152895575adf"
       },
       {
+        "title": "rommapp/romm",
+        "url": "https://github.com/rommapp/romm",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "A beautiful, powerful, self-hosted rom manager and player. A beautiful, powerful, self-hosted ROM manager and player. Overview RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators. Features Scan and enhance your game…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Public Health"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "baefca5fb0f775f21aae"
+      },
+      {
+        "title": "M 4.7 - 91 km WNW of Tamarindo, Costa Rica",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tacl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-06T02:58:04.040+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "Time 2026-07-06 02:37:31 UTC 2026-07-06 02:37:31 UTC at epicenter Location 10.750°N 86.543°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f761abf3a1522793f3ce"
+      },
+      {
         "title": "SFから持ち帰ったAIエンジニアリングの現在地 〜AI Engineer World's Fair 2026 参加レポート〜｜kagaya",
         "url": "https://note.com/r_kaga/n/n12bc279182d6",
         "source": "Hatena Bookmark Hotentry IT",
@@ -97,6 +365,138 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "baf54dc41e7b022382a7"
+      },
+      {
+        "title": "Leonxlnx/taste-skill",
+        "url": "https://github.com/Leonxlnx/taste-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop Taste Skill The Anti-Slop Frontend Framework for AI Agents Sponsors Emil Kowalski · animations.dev Become a sponsor Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (we…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Watchgraph:ai_agents_workflow",
+          "Webentwicklung"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote boilerplate (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "a6736b54cb0e3a87e7b8"
+      },
+      {
+        "title": "The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era",
+        "url": "https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T02:45:38+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "At GTC Taipei this year, Jensen Huang did what he always does: he launched a dozen products — the Vera Rubin platform, a standalone Vera CPU, RTX Spark, the Alpamayo driving model, a humanoid robotics stack. Investors picked over the spec sheets, and the headlines moved on. But strip all of it away, and what’s […] The post The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era appeared first on e…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4437ffb9466147044c36"
+      },
+      {
+        "title": "Bangladesh’s startup ecosystem is entering a new phase of investability",
+        "url": "https://e27.co/bangladeshs-startup-ecosystem-is-entering-a-new-phase-of-investability-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T02:30:08+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "Bangladesh has always been easy to describe and harder to underwrite. The market is large. The consumer base is young. Digital behaviour is already visible across payments, commerce, education, health, agriculture, and logistics. But for investors, market size was never the only question. The real question was sharper: Can capital enter, scale, and exit with […] The post Bangladesh’s startup ecosystem is entering a…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "cf1b132f689321439117"
+      },
+      {
+        "title": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
+        "url": "https://www.watch.impress.co.jp/docs/series/nishida/2122208.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-05T23:29:52+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4edb0ff21a775dece8e0"
       },
       {
         "title": "初めてゲーミングPC作った時絶対にキラキラ光らせない普通のPCっぽいやつを心掛けて作り、これで完璧だなと思って電源入れたら一番金かけたGPUが光りだして絶望した",
@@ -141,6 +541,26 @@
         "id": "41e90def72cc39466cd5"
       },
       {
+        "title": "The half-job era in growth teams",
+        "url": "https://e27.co/the-half-job-era-in-growth-teams-20260702/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T02:15:52+00:00",
+        "fetched_at": "2026-07-06T03:08:06+00:00",
+        "summary": "For years, growth followed one default assumption: if you want to scale, split the team. Media buyer, creative, analyst, attribution, growth PM, specialisation all the way down. Every problem could be solved by adding a specific role to the pipeline. But over the last two years, something worth naming is happening. Growth isn’t less important. […] The post The half-job era in growth teams appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "86756dcb77da537f55a2"
+      },
+      {
         "title": "Why PMs should shadow customer support weekly",
         "url": "https://e27.co/why-pms-should-shadow-customer-support-weekly-20260704/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -163,6 +583,172 @@
     ]
   },
   "findings": [
+    {
+      "title": "When AI agents start acting on our behalf, security gets more complicated",
+      "url": "https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:00:49+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "For many Southeast Asian businesses, the promise of AI agents is easy to understand. A bank wants to resolve customer issues faster. A hospital wants to reduce administrative load. An e-commerce platform wants to automate repetitive inquiries from sellers. A logistics company wants systems that can coordinate routes, documents, and customer updates with less manual […] The post When AI agents start acting on our beh…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security",
+        "Southeast Asia",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "f23d12990aaf1ea90a31"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. As seen in The Washington Post: See the hidden rules behind AI. Then use them to rewrite this article. (May 11, 2026) System Prompts Leaks T…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "95f596f8b684cafa38d0"
+    },
+    {
+      "title": "AI and accessibility: The untapped solution to the cybersecurity skills gap",
+      "url": "https://e27.co/ai-and-accessibility-the-untapped-solution-to-the-cybersecurity-skills-gap-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T03:00:59+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "The cybersecurity industry faces a paradox. At the very moment when artificial intelligence, geopolitical tensions, ransomware operations, and digital transformation are increasing global cyber risks, organisations continue to struggle with one fundamental problem: there are not enough cybersecurity professionals. For years, the industry has attempted to solve this challenge by expanding training programmes, increas…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00e72407453a1e6fd19d"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 35…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "ba63e9b59c3e5c35622e"
+    },
     {
       "title": "Funded: AI is having its moment, climate is having a crisis. SEA can’t afford to confuse the two",
       "url": "https://e27.co/funded-ai-is-having-its-moment-climate-is-having-a-crisis-sea-cant-afford-to-confuse-the-two-20260704/",
@@ -187,6 +773,50 @@
       "id": "748be27565eee9eae8eb"
     },
     {
+      "title": "Stop training your team: Why your rapid loop needs architecture, not coaching",
+      "url": "https://e27.co/stop-training-your-team-why-your-rapid-loop-needs-architecture-not-coaching-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:15:09+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "In the race to adopt AI, most startups are making a classic category error: they are trying to “coach” their way to speed. We see founders pouring capital into prompt engineering workshops and AI literacy seminars, yet the needle isn’t moving. The reason is simple: your talent isn’t the bottleneck—your organisational architecture is. According to […] The post Stop training your team: Why your rapid loop needs archit…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "0304d32d775d087014b0"
+    },
+    {
       "title": "What building an AI food intelligence app taught us about Southeast Asia’s nutrition problem",
       "url": "https://e27.co/what-building-an-ai-food-intelligence-app-taught-us-about-southeast-asias-nutrition-problem-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -209,6 +839,64 @@
       "id": "47331cdb152895575adf"
     },
     {
+      "title": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "A beautiful, powerful, self-hosted rom manager and player. A beautiful, powerful, self-hosted ROM manager and player. Overview RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators. Features Scan and enhance your game…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Public Health"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "baefca5fb0f775f21aae"
+    },
+    {
+      "title": "M 4.7 - 91 km WNW of Tamarindo, Costa Rica",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tacl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:58:04.040+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Time 2026-07-06 02:37:31 UTC 2026-07-06 02:37:31 UTC at epicenter Location 10.750°N 86.543°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f761abf3a1522793f3ce"
+    },
+    {
       "title": "SFから持ち帰ったAIエンジニアリングの現在地 〜AI Engineer World's Fair 2026 参加レポート〜｜kagaya",
       "url": "https://note.com/r_kaga/n/n12bc279182d6",
       "source": "Hatena Bookmark Hotentry IT",
@@ -229,6 +917,138 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "baf54dc41e7b022382a7"
+    },
+    {
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop Taste Skill The Anti-Slop Frontend Framework for AI Agents Sponsors Emil Kowalski · animations.dev Become a sponsor Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (we…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote boilerplate (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "a6736b54cb0e3a87e7b8"
+    },
+    {
+      "title": "The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era",
+      "url": "https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:45:38+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "At GTC Taipei this year, Jensen Huang did what he always does: he launched a dozen products — the Vera Rubin platform, a standalone Vera CPU, RTX Spark, the Alpamayo driving model, a humanoid robotics stack. Investors picked over the spec sheets, and the headlines moved on. But strip all of it away, and what’s […] The post The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era appeared first on e…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4437ffb9466147044c36"
+    },
+    {
+      "title": "Bangladesh’s startup ecosystem is entering a new phase of investability",
+      "url": "https://e27.co/bangladeshs-startup-ecosystem-is-entering-a-new-phase-of-investability-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:30:08+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Bangladesh has always been easy to describe and harder to underwrite. The market is large. The consumer base is young. Digital behaviour is already visible across payments, commerce, education, health, agriculture, and logistics. But for investors, market size was never the only question. The real question was sharper: Can capital enter, scale, and exit with […] The post Bangladesh’s startup ecosystem is entering a…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "cf1b132f689321439117"
+    },
+    {
+      "title": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
+      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2122208.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-05T23:29:52+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4edb0ff21a775dece8e0"
     },
     {
       "title": "初めてゲーミングPC作った時絶対にキラキラ光らせない普通のPCっぽいやつを心掛けて作り、これで完璧だなと思って電源入れたら一番金かけたGPUが光りだして絶望した",
@@ -273,6 +1093,26 @@
       "id": "41e90def72cc39466cd5"
     },
     {
+      "title": "The half-job era in growth teams",
+      "url": "https://e27.co/the-half-job-era-in-growth-teams-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:15:52+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "For years, growth followed one default assumption: if you want to scale, split the team. Media buyer, creative, analyst, attribution, growth PM, specialisation all the way down. Every problem could be solved by adding a specific role to the pipeline. But over the last two years, something worth naming is happening. Growth isn’t less important. […] The post The half-job era in growth teams appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "86756dcb77da537f55a2"
+    },
+    {
       "title": "Why PMs should shadow customer support weekly",
       "url": "https://e27.co/why-pms-should-shadow-customer-support-weekly-20260704/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -295,57 +1135,392 @@
   ],
   "new_findings": [
     {
-      "title": "What building an AI food intelligence app taught us about Southeast Asia’s nutrition problem",
-      "url": "https://e27.co/what-building-an-ai-food-intelligence-app-taught-us-about-southeast-asias-nutrition-problem-20260702/",
+      "title": "When AI agents start acting on our behalf, security gets more complicated",
+      "url": "https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-06T01:45:03+00:00",
-      "fetched_at": "2026-07-06T01:54:24+00:00",
-      "summary": "When my wife Pauline and I started building Naturegrade, we weren’t trying to launch a startup. We were trying to solve a problem that had frustrated us for years. As a food blogger, I spent more than a decade reviewing restaurants, studying ingredients, and observing how people made food choices. The more I learned, the […] The post What building an AI food intelligence app taught us about Southeast Asia’s nutritio…",
+      "published_at": "2026-07-06T02:00:49+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "For many Southeast Asian businesses, the promise of AI agents is easy to understand. A bank wants to resolve customer issues faster. A hospital wants to reduce administrative load. An e-commerce platform wants to automate repetitive inquiries from sellers. A logistics company wants systems that can coordinate routes, documents, and customer updates with less manual […] The post When AI agents start acting on our beh…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security",
+        "Southeast Asia",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "f23d12990aaf1ea90a31"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. As seen in The Washington Post: See the hidden rules behind AI. Then use them to rewrite this article. (May 11, 2026) System Prompts Leaks T…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "95f596f8b684cafa38d0"
+    },
+    {
+      "title": "AI and accessibility: The untapped solution to the cybersecurity skills gap",
+      "url": "https://e27.co/ai-and-accessibility-the-untapped-solution-to-the-cybersecurity-skills-gap-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T03:00:59+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "The cybersecurity industry faces a paradox. At the very moment when artificial intelligence, geopolitical tensions, ransomware operations, and digital transformation are increasing global cyber risks, organisations continue to struggle with one fundamental problem: there are not enough cybersecurity professionals. For years, the industry has attempted to solve this challenge by expanding training programmes, increas…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00e72407453a1e6fd19d"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 35…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "ba63e9b59c3e5c35622e"
+    },
+    {
+      "title": "Stop training your team: Why your rapid loop needs architecture, not coaching",
+      "url": "https://e27.co/stop-training-your-team-why-your-rapid-loop-needs-architecture-not-coaching-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:15:09+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "In the race to adopt AI, most startups are making a classic category error: they are trying to “coach” their way to speed. We see founders pouring capital into prompt engineering workshops and AI literacy seminars, yet the needle isn’t moving. The reason is simple: your talent isn’t the bottleneck—your organisational architecture is. According to […] The post Stop training your team: Why your rapid loop needs archit…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "Southeast Asia"
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "0304d32d775d087014b0"
+    },
+    {
+      "title": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "A beautiful, powerful, self-hosted rom manager and player. A beautiful, powerful, self-hosted ROM manager and player. Overview RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators. Features Scan and enhance your game…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Public Health"
       ],
       "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "47331cdb152895575adf"
+      "id": "baefca5fb0f775f21aae"
     },
     {
-      "title": "SFから持ち帰ったAIエンジニアリングの現在地 〜AI Engineer World's Fair 2026 参加レポート〜｜kagaya",
-      "url": "https://note.com/r_kaga/n/n12bc279182d6",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - 91 km WNW of Tamarindo, Costa Rica",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tacl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-05T23:27:06+00:00",
-      "fetched_at": "2026-07-06T01:54:24+00:00",
-      "summary": "SFから持ち帰ったAIエンジニアリングの現在地 〜AI Engineer World's Fair 2026 参加レポート〜 会場の空気をひとことで言うと、「AIをどう使うか」ではなく、「AIにどう任せるか」でした。 セッション初日のメイントラックの名前はSoftware Factories。AIエージェントの集団に開発の仕事を任せる、という話です。 6,000...",
+      "published_at": "2026-07-06T02:58:04.040+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Time 2026-07-06 02:37:31 UTC 2026-07-06 02:37:31 UTC at epicenter Location 10.750°N 86.543°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f761abf3a1522793f3ce"
+    },
+    {
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop Taste Skill The Anti-Slop Frontend Framework for AI Agents Sponsors Emil Kowalski · animations.dev Become a sponsor Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (we…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote boilerplate (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "a6736b54cb0e3a87e7b8"
+    },
+    {
+      "title": "The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era",
+      "url": "https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:45:38+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "At GTC Taipei this year, Jensen Huang did what he always does: he launched a dozen products — the Vera Rubin platform, a standalone Vera CPU, RTX Spark, the Alpamayo driving model, a humanoid robotics stack. Investors picked over the spec sheets, and the headlines moved on. But strip all of it away, and what’s […] The post The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era appeared first on e…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "baf54dc41e7b022382a7"
+      "id": "4437ffb9466147044c36"
     },
     {
-      "title": "[本日の一品]Temuで買った500円のウォーターサーバーが実用性皆無でも物理法則の最高教材になった",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2122270.html",
+      "title": "Bangladesh’s startup ecosystem is entering a new phase of investability",
+      "url": "https://e27.co/bangladeshs-startup-ecosystem-is-entering-a-new-phase-of-investability-20260702/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T02:30:08+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "Bangladesh has always been easy to describe and harder to underwrite. The market is large. The consumer base is young. Digital behaviour is already visible across payments, commerce, education, health, agriculture, and logistics. But for investors, market size was never the only question. The real question was sharper: Can capital enter, scale, and exit with […] The post Bangladesh’s startup ecosystem is entering a…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "cf1b132f689321439117"
+    },
+    {
+      "title": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
+      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2122208.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-05T17:55:00+00:00",
-      "fetched_at": "2026-07-06T01:54:24+00:00",
-      "summary": "[本日の一品]Temuで買った500円のウォーターサーバーが実用性皆無でも物理法則の最高教材になった",
+      "published_at": "2026-07-05T23:29:52+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -357,27 +1532,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "41e90def72cc39466cd5"
+      "id": "4edb0ff21a775dece8e0"
     },
     {
-      "title": "Why PMs should shadow customer support weekly",
-      "url": "https://e27.co/why-pms-should-shadow-customer-support-weekly-20260704/",
+      "title": "The half-job era in growth teams",
+      "url": "https://e27.co/the-half-job-era-in-growth-teams-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-06T01:20:11+00:00",
-      "fetched_at": "2026-07-06T01:54:24+00:00",
-      "summary": "Inside most companies, the product is discussed in its intended form. Teams talk about the workflow, the value proposition, the release objective, the target persona, and the outcome the feature is meant to unlock. All of that is necessary, but it creates a dangerous habit. Product leaders start relating to the product through design intent […] The post Why PMs should shadow customer support weekly appeared first on…",
+      "published_at": "2026-07-06T02:15:52+00:00",
+      "fetched_at": "2026-07-06T03:08:06+00:00",
+      "summary": "For years, growth followed one default assumption: if you want to scale, split the team. Media buyer, creative, analyst, attribution, growth PM, specialisation all the way down. Every problem could be solved by adding a specific role to the pipeline. But over the last two years, something worth naming is happening. Growth isn’t less important. […] The post The half-job era in growth teams appeared first on e27 .",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
       "relevance_score": 4,
       "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fd5427bce9ad4830e5da"
+      "id": "86756dcb77da537f55a2"
     }
   ],
   "source_errors": [],
