@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-06T04:43:17+00:00_
+_Generiert: 2026-07-06T06:16:58+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -172,14 +172,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote boilerplate (x0.45)
   - Kurz: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop Taste Skill The Anti-Slop Frontend Framework for AI Agents Sponsors Emil Kowalski · animations.dev Become a sponsor Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (we…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era** — Score 8, observation — [Quelle](https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/)
+- **Analysis: SEA’s June funding spike masks a narrow recovery in VC funding** — Score 8, observation — [Quelle](https://e27.co/analysis-seas-june-funding-spike-masks-a-narrow-recovery-in-vc-funding-20260706/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T02:45:38+00:00`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-07-06T05:47:55+00:00`, fetched `2026-07-06T06:16:32+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: At GTC Taipei this year, Jensen Huang did what he always does: he launched a dozen products — the Vera Rubin platform, a standalone Vera CPU, RTX Spark, the Alpamayo driving model, a humanoid robotics stack. Investors picked over the spec sheets, and the headlines moved on. But strip all of it away, and what’s […] The post The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era appeared first on e…
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s technology startups raised US$3.75 billion across 17 funding rounds in June 2026, marking a sharp rebound from May but also underlining how dependent the region’s headline venture numbers remain on a small number of outsized deals. According to data from Tracxn, total tech funding in the region rose 1,572 per cent from the […] The post Analysis: SEA’s June funding spike masks a narrow recovery in VC…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **中国AIがミュトスいぬ間に躍進 料金は20分の1、米企業も乗り換え - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN242Z50U6A620C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -190,14 +190,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 米アンソロピックが米政府の指示で先端AI（人工知能）「ミュトス」の提供を停止していた間に、中国AIに乗り換える米企業が増えた。中国企業のAIは誰でも使える「オープン型」で、料金はミュトスの20分の1とコスパが高い。技術覇権を狙う米国勢は警戒感を強める。「AI利用のコストを半減できた」。暗号資産交換大手の米コ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/series/nishida/2122208.html)
+- **手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/review/2122218.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-05T23:29:52+00:00`, fetched `2026-07-06T03:08:06+00:00`
+  - Zeit: published `2026-07-06T00:31:40+00:00`, fetched `2026-07-06T06:16:32+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】
+  - Kurz: 手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

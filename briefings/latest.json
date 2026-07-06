@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T04:43:17+00:00",
-  "run_id": "2026-07-06T04:43:17+00:00",
+  "generated_at": "2026-07-06T06:16:58+00:00",
+  "run_id": "2026-07-06T06:16:58+00:00",
   "date": "2026-07-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 6,
-    "observe": 15,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -457,6 +457,28 @@
         "id": "a6736b54cb0e3a87e7b8"
       },
       {
+        "title": "Analysis: SEA’s June funding spike masks a narrow recovery in VC funding",
+        "url": "https://e27.co/analysis-seas-june-funding-spike-masks-a-narrow-recovery-in-vc-funding-20260706/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T05:47:55+00:00",
+        "fetched_at": "2026-07-06T06:16:32+00:00",
+        "summary": "Southeast Asia’s technology startups raised US$3.75 billion across 17 funding rounds in June 2026, marking a sharp rebound from May but also underlining how dependent the region’s headline venture numbers remain on a small number of outsized deals. According to data from Tracxn, total tech funding in the region rose 1,572 per cent from the […] The post Analysis: SEA’s June funding spike masks a narrow recovery in VC…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e734e224f4bcfe768aa"
+      },
+      {
         "title": "The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era",
         "url": "https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -541,6 +563,27 @@
         "id": "1030e7796630b96feb93"
       },
       {
+        "title": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
+        "url": "https://forest.watch.impress.co.jp/docs/review/2122218.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-06T00:31:40+00:00",
+        "fetched_at": "2026-07-06T06:16:32+00:00",
+        "summary": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "25e586d7bc976eb998a5"
+      },
+      {
         "title": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
         "url": "https://www.watch.impress.co.jp/docs/series/nishida/2122208.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -602,6 +645,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "41e90def72cc39466cd5"
+      },
+      {
+        "title": "Why Bitcoin’s 1.23% gain means nothing without a break above US$65,000",
+        "url": "https://e27.co/why-bitcoins-1-23-gain-means-nothing-without-a-break-above-us65000-20260706/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-06T04:54:32+00:00",
+        "fetched_at": "2026-07-06T06:16:32+00:00",
+        "summary": "Bitcoin recorded a 1.23 per cent gain, settling at US$63,722.90 over the last 24 hours. This price action slightly outperformed the broader digital asset market, which advanced by 1.07 per cent during the same timeframe. The upward movement stems from a macro-driven shift in sentiment, as the leading cryptocurrency closely mirrored the beta of the […] The post Why Bitcoin’s 1.23% gain means nothing without a break a…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ed932e003d82c2e46c30"
       },
       {
         "title": "Transcelestial, Warpspace to test interoperable laser links for satellite networks",
@@ -1092,6 +1155,28 @@
       "id": "a6736b54cb0e3a87e7b8"
     },
     {
+      "title": "Analysis: SEA’s June funding spike masks a narrow recovery in VC funding",
+      "url": "https://e27.co/analysis-seas-june-funding-spike-masks-a-narrow-recovery-in-vc-funding-20260706/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T05:47:55+00:00",
+      "fetched_at": "2026-07-06T06:16:32+00:00",
+      "summary": "Southeast Asia’s technology startups raised US$3.75 billion across 17 funding rounds in June 2026, marking a sharp rebound from May but also underlining how dependent the region’s headline venture numbers remain on a small number of outsized deals. According to data from Tracxn, total tech funding in the region rose 1,572 per cent from the […] The post Analysis: SEA’s June funding spike masks a narrow recovery in VC…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e734e224f4bcfe768aa"
+    },
+    {
       "title": "The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era",
       "url": "https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1176,6 +1261,27 @@
       "id": "1030e7796630b96feb93"
     },
     {
+      "title": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
+      "url": "https://forest.watch.impress.co.jp/docs/review/2122218.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-06T00:31:40+00:00",
+      "fetched_at": "2026-07-06T06:16:32+00:00",
+      "summary": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "25e586d7bc976eb998a5"
+    },
+    {
       "title": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
       "url": "https://www.watch.impress.co.jp/docs/series/nishida/2122208.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1237,6 +1343,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "41e90def72cc39466cd5"
+    },
+    {
+      "title": "Why Bitcoin’s 1.23% gain means nothing without a break above US$65,000",
+      "url": "https://e27.co/why-bitcoins-1-23-gain-means-nothing-without-a-break-above-us65000-20260706/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T04:54:32+00:00",
+      "fetched_at": "2026-07-06T06:16:32+00:00",
+      "summary": "Bitcoin recorded a 1.23 per cent gain, settling at US$63,722.90 over the last 24 hours. This price action slightly outperformed the broader digital asset market, which advanced by 1.07 per cent during the same timeframe. The upward movement stems from a macro-driven shift in sentiment, as the leading cryptocurrency closely mirrored the beta of the […] The post Why Bitcoin’s 1.23% gain means nothing without a break a…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed932e003d82c2e46c30"
     },
     {
       "title": "Transcelestial, Warpspace to test interoperable laser links for satellite networks",
@@ -1301,87 +1427,67 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-06T04:43:04+00:00",
-      "fetched_at": "2026-07-06T04:42:49+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "Analysis: SEA’s June funding spike masks a narrow recovery in VC funding",
+      "url": "https://e27.co/analysis-seas-june-funding-spike-masks-a-narrow-recovery-in-vc-funding-20260706/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-06T05:47:55+00:00",
+      "fetched_at": "2026-07-06T06:16:32+00:00",
+      "summary": "Southeast Asia’s technology startups raised US$3.75 billion across 17 funding rounds in June 2026, marking a sharp rebound from May but also underlining how dependent the region’s headline venture numbers remain on a small number of outsized deals. According to data from Tracxn, total tech funding in the region rose 1,572 per cent from the […] The post Analysis: SEA’s June funding spike masks a narrow recovery in VC…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "funding",
+        "Southeast Asia"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e746e6ee657338e34ded"
-    },
-    {
-      "title": "中国AIがミュトスいぬ間に躍進 料金は20分の1、米企業も乗り換え - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN242Z50U6A620C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T03:34:26+00:00",
-      "fetched_at": "2026-07-06T04:42:49+00:00",
-      "summary": "米アンソロピックが米政府の指示で先端AI（人工知能）「ミュトス」の提供を停止していた間に、中国AIに乗り換える米企業が増えた。中国企業のAIは誰でも使える「オープン型」で、料金はミュトスの20分の1とコスパが高い。技術覇権を狙う米国勢は警戒感を強める。「AI利用のコストを半減できた」。暗号資産交換大手の米コ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1030e7796630b96feb93"
+      "id": "9e734e224f4bcfe768aa"
     },
     {
-      "title": "Transcelestial, Warpspace to test interoperable laser links for satellite networks",
-      "url": "https://e27.co/transcelestial-warpspace-to-test-interoperable-laser-links-for-satellite-networks-20260706/",
+      "title": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
+      "url": "https://forest.watch.impress.co.jp/docs/review/2122218.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-06T00:31:40+00:00",
+      "fetched_at": "2026-07-06T06:16:32+00:00",
+      "summary": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "25e586d7bc976eb998a5"
+    },
+    {
+      "title": "Why Bitcoin’s 1.23% gain means nothing without a break above US$65,000",
+      "url": "https://e27.co/why-bitcoins-1-23-gain-means-nothing-without-a-break-above-us65000-20260706/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-06T04:24:50+00:00",
-      "fetched_at": "2026-07-06T04:42:49+00:00",
-      "summary": "Singapore-based Transcelestial and Japan’s Warpspace have agreed to jointly demonstrate interoperability between their optical satellite communications systems. The move aims to address one of the less glamorous but commercially important barriers to building space-based data networks: whether systems from different vendors can actually talk to one another. The companies said the collaboration will cover ground-base…",
+      "published_at": "2026-07-06T04:54:32+00:00",
+      "fetched_at": "2026-07-06T06:16:32+00:00",
+      "summary": "Bitcoin recorded a 1.23 per cent gain, settling at US$63,722.90 over the last 24 hours. This price action slightly outperformed the broader digital asset market, which advanced by 1.07 per cent during the same timeframe. The upward movement stems from a macro-driven shift in sentiment, as the leading cryptocurrency closely mirrored the beta of the […] The post Why Bitcoin’s 1.23% gain means nothing without a break a…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
       "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "22c47a9908d9c4ceef16"
+      "id": "ed932e003d82c2e46c30"
     }
   ],
   "source_errors": [],
