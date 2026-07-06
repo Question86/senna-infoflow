@@ -32,6 +32,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Syntax check LLM handoff scripts
+        run: |
+          python -m py_compile scripts/write_chat_handoff.py
+          python -m py_compile scripts/write_memory_index.py
+
       - name: Prepare broad runtime source graph
         run: |
           python scripts/prepare_runtime_sources.py
@@ -60,13 +65,13 @@ jobs:
             echo "No one-shot resurface marker present."
           fi
 
-       - name: Run hardened monitor as visible main feed
+      - name: Run hardened monitor as visible main feed
         id: hardened
         timeout-minutes: 5
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_AGENT: senna-inflow/1.0 (+https://github.com/${{ github.repository }})
+          USER_AGENT: senna-infoflow/1.0 (+https://github.com/${{ github.repository }})
           MAX_ITEMS_PER_SOURCE: 6
         run: |
           echo "Running normal hardened monitor as visible broad feed mainline."
@@ -89,13 +94,14 @@ jobs:
           echo "Running always-on global security/economy watchdog overlay."
           python scripts/global_watchdogs.py
 
-      - name: Write compact ChatGPT handoff
+      - name: Write compact ChatGPT handoff and memory index
         if: always()
         timeout-minutes: 1
-        continue-on-error: true
+        continue-on-error: false
         run: |
-          echo "Writing compact first-read handoff for ChatGPT/GitHub tool access."
+          echo "Writing compact first-read handoff and memory index."
           python scripts/write_chat_handoff.py
+          python scripts/write_memory_index.py
 
       - name: Restore full dashboard UI from protected commit
         run: |
@@ -107,7 +113,7 @@ jobs:
           git config user.name "senna-infoflow[bot]"
           git config user.email "senna-infoflow[bot]@users.noreply.github.com"
 
-          git add briefings/ docs/ state/ data/ reports/ logs/ inbox/manual_notes.md
+          git add briefings/ docs/ state/ data/ reports/ logs/ memory/ inbox/manual_notes.md
 
           if git diff --cached --quiet; then
             echo "No generated feed changes to commit."
