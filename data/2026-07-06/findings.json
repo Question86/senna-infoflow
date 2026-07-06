@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-06T04:43:04+00:00",
+    "fetched_at": "2026-07-06T04:42:49+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e746e6ee657338e34ded"
+  },
+  {
     "title": "When AI agents start acting on our behalf, security gets more complicated",
     "url": "https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -446,6 +488,27 @@
     "id": "cf1b132f689321439117"
   },
   {
+    "title": "中国AIがミュトスいぬ間に躍進 料金は20分の1、米企業も乗り換え - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN242Z50U6A620C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-06T03:34:26+00:00",
+    "fetched_at": "2026-07-06T04:42:49+00:00",
+    "summary": "米アンソロピックが米政府の指示で先端AI（人工知能）「ミュトス」の提供を停止していた間に、中国AIに乗り換える米企業が増えた。中国企業のAIは誰でも使える「オープン型」で、料金はミュトスの20分の1とコスパが高い。技術覇権を狙う米国勢は警戒感を強める。「AI利用のコストを半減できた」。暗号資産交換大手の米コ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1030e7796630b96feb93"
+  },
+  {
     "title": "2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】",
     "url": "https://www.watch.impress.co.jp/docs/series/nishida/2122208.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -507,6 +570,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "41e90def72cc39466cd5"
+  },
+  {
+    "title": "Transcelestial, Warpspace to test interoperable laser links for satellite networks",
+    "url": "https://e27.co/transcelestial-warpspace-to-test-interoperable-laser-links-for-satellite-networks-20260706/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-06T04:24:50+00:00",
+    "fetched_at": "2026-07-06T04:42:49+00:00",
+    "summary": "Singapore-based Transcelestial and Japan’s Warpspace have agreed to jointly demonstrate interoperability between their optical satellite communications systems. The move aims to address one of the less glamorous but commercially important barriers to building space-based data networks: whether systems from different vendors can actually talk to one another. The companies said the collaboration will cover ground-base…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "22c47a9908d9c4ceef16"
   },
   {
     "title": "The half-job era in growth teams",

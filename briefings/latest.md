@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-06T03:08:33+00:00_
+_Generiert: 2026-07-06T04:43:17+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „When AI agents start acting on our behalf, security gets more complicated“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-06T04:43:04+00:00`, fetched `2026-07-06T04:42:49+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **When AI agents start acting on our behalf, security gets more complicated** — Score 23, opportunity — [Quelle](https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-06T02:00:49+00:00`, fetched `2026-07-06T03:08:06+00:00`
@@ -172,6 +181,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: At GTC Taipei this year, Jensen Huang did what he always does: he launched a dozen products — the Vera Rubin platform, a standalone Vera CPU, RTX Spark, the Alpamayo driving model, a humanoid robotics stack. Investors picked over the spec sheets, and the headlines moved on. But strip all of it away, and what’s […] The post The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era appeared first on e…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **中国AIがミュトスいぬ間に躍進 料金は20分の1、米企業も乗り換え - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN242Z50U6A620C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-06T03:34:26+00:00`, fetched `2026-07-06T04:42:49+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 米アンソロピックが米政府の指示で先端AI（人工知能）「ミュトス」の提供を停止していた間に、中国AIに乗り換える米企業が増えた。中国企業のAIは誰でも使える「オープン型」で、料金はミュトスの20分の1とコスパが高い。技術覇権を狙う米国勢は警戒感を強める。「AI利用のコストを半減できた」。暗号資産交換大手の米コ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/series/nishida/2122208.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-05T23:29:52+00:00`, fetched `2026-07-06T03:08:06+00:00`
@@ -181,20 +199,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2028年ディスク生産中止 SIEが決断した「ゲームディスク流通」終了の背景【西田宗千佳のイマトミライ】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **初めてゲーミングPC作った時絶対にキラキラ光らせない普通のPCっぽいやつを心掛けて作り、これで完璧だなと思って電源入れたら一番金かけたGPUが光りだして絶望した** — Score 5, observation — [Quelle](https://togetter.com/li/2717421)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-05T22:29:53+00:00`, fetched `2026-07-06T01:08:09+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 初めてゲーミングPC作った時絶対にキラキラ光らせない普通のPCっぽいやつを心掛けて作り、これで完璧だなと思って電源入れたら一番金かけたGPUが光りだして絶望した
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
