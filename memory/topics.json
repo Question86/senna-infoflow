@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T09:18:08+00:00",
+  "generated_at": "2026-07-07T10:30:38+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-07T02:45:12+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/"
+      },
+      {
+        "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T10:21:33+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/"
       },
       {
         "title": "addyosmani/agent-skills",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-06T10:19:55+00:00",
         "relevance_score": 12,
         "url": "https://japan.cnet.com/article/35250128/"
-      },
-      {
-        "title": "Tech businesses should play the AI field rather than bet on a single winner",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T01:45:19+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/tech-businesses-should-play-the-ai-field-rather-than-bet-on-a-single-winner-20260705/"
       }
     ],
     "general": [
@@ -221,6 +221,13 @@
     ],
     "github": [
       {
+        "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T10:21:33+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/"
+      },
+      {
         "title": "addyosmani/agent-skills",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -291,6 +298,13 @@
         "published_at": "2026-07-06T14:40:21+00:00",
         "relevance_score": 12,
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html"
+      },
+      {
+        "title": "China’s AI boom is creating a different kind of entrepreneur",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-07T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "Ecosystem Roundup: Can Antler’s “One Asia” thesis survive the AI hype cycle?",

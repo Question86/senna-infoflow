@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-07T09:18:08+00:00_
+_Generated: 2026-07-07T10:30:38+00:00_
 
 ## Status
-- status: `warning`
-- findings: `49`
+- status: `normal`
+- findings: `51`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-07T09:18:08+00:00_
 - url: https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/
 - summary: Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen…
 
-### 4. addyosmani/agent-skills
-- source: GitHub Trending RSS All Languages Daily
+### 4. Agentic AI ambitions in Singapore run into legacy systems and data quality gaps
+- source: e27 Asia Startup and Tech Feed
 - score: `17`
-- published: `None`
-- url: https://github.com/addyosmani/agent-skills
-- summary: Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are pa…
+- published: `2026-07-07T10:21:33+00:00`
+- url: https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/
+- summary: Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Rep…
 
 ### 5. How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia
 - source: e27 Asia Startup and Tech Feed

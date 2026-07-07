@@ -104,6 +104,28 @@
     "id": "41a35648efb44e10b588"
   },
   {
+    "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+    "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:21:33+00:00",
+    "fetched_at": "2026-07-07T10:30:12+00:00",
+    "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Report” found that 78 per cent of the city-state’s IT leaders say a lack of real-time data infrastructure […] The post Agentic AI ambitions in Singapore run into l…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "20f2c68d06ee6707c3ea"
+  },
+  {
     "title": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -521,6 +543,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f7dcb1223736b1814d2d"
+  },
+  {
+    "title": "China’s AI boom is creating a different kind of entrepreneur",
+    "url": "https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:00:00+00:00",
+    "fetched_at": "2026-07-07T10:30:12+00:00",
+    "summary": "Backed by the state, Chinese workers are using AI to deal with limited resources and drive innovation to compete with Silicon Valley.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "faea922c46a762b84b55"
   },
   {
     "title": "M 5.0 - Reykjanes Ridge",

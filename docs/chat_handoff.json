@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-07T09:18:08+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-07-07T10:30:38+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 2,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 9,
-    "observe": 40
+    "medium": 10,
+    "observe": 41
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "addyosmani/agent-skills",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": null,
+      "published_at": "2026-07-07T10:21:33+00:00",
       "relevance_score": 17,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "summary": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are pa…",
+      "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
+      "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Rep…",
       "section": "medium"
     },
     {

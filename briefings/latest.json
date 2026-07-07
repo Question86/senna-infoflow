@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-07T09:18:08+00:00",
-  "run_id": "2026-07-07T09:18:08+00:00",
+  "generated_at": "2026-07-07T10:30:38+00:00",
+  "run_id": "2026-07-07T10:30:38+00:00",
   "date": "2026-07-07",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 2,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 9,
-    "observe": 40,
-    "source_errors": 1
+    "medium": 10,
+    "observe": 41,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -132,6 +132,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "41a35648efb44e10b588"
+      },
+      {
+        "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+        "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T10:21:33+00:00",
+        "fetched_at": "2026-07-07T10:30:12+00:00",
+        "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Report” found that 78 per cent of the city-state’s IT leaders say a lack of real-time data infrastructure […] The post Agentic AI ambitions in Singapore run into l…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20f2c68d06ee6707c3ea"
       },
       {
         "title": "addyosmani/agent-skills",
@@ -553,6 +575,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f7dcb1223736b1814d2d"
+      },
+      {
+        "title": "China’s AI boom is creating a different kind of entrepreneur",
+        "url": "https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T10:00:00+00:00",
+        "fetched_at": "2026-07-07T10:30:12+00:00",
+        "summary": "Backed by the state, Chinese workers are using AI to deal with limited resources and drive innovation to compete with Silicon Valley.",
+        "matched_keywords": [
+          "AI/KI"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "faea922c46a762b84b55"
       },
       {
         "title": "M 5.0 - Reykjanes Ridge",
@@ -1367,6 +1409,28 @@
       "id": "41a35648efb44e10b588"
     },
     {
+      "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+      "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T10:21:33+00:00",
+      "fetched_at": "2026-07-07T10:30:12+00:00",
+      "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Report” found that 78 per cent of the city-state’s IT leaders say a lack of real-time data infrastructure […] The post Agentic AI ambitions in Singapore run into l…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20f2c68d06ee6707c3ea"
+    },
+    {
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1784,6 +1848,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f7dcb1223736b1814d2d"
+    },
+    {
+      "title": "China’s AI boom is creating a different kind of entrepreneur",
+      "url": "https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T10:00:00+00:00",
+      "fetched_at": "2026-07-07T10:30:12+00:00",
+      "summary": "Backed by the state, Chinese workers are using AI to deal with limited resources and drive innovation to compete with Silicon Valley.",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "faea922c46a762b84b55"
     },
     {
       "title": "M 5.0 - Reykjanes Ridge",
@@ -2493,91 +2577,49 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - Reykjanes Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-07T08:47:29.040+00:00",
-      "fetched_at": "2026-07-07T09:17:33+00:00",
-      "summary": "Time 2026-07-07 08:30:56 UTC 2026-07-07 08:30:56 UTC at epicenter Location 59.477°N 30.368°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "fd43d01ea663845ac85b"
-    },
-    {
-      "title": "Food delivery’s old consolidation model is cracking in East Asia",
-      "url": "https://e27.co/food-deliverys-old-consolidation-model-is-cracking-in-east-asia-20260707/",
+      "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+      "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-07T08:27:52+00:00",
-      "fetched_at": "2026-07-07T09:17:33+00:00",
-      "summary": "Momentum Works has released a new report on East Asia’s food delivery sector, arguing that the region is entering its biggest leadership shift in more than a decade as Delivery Hero’s acquisition-led expansion model comes under pressure from Asian operators with deeper operating playbooks. The Singapore-headquartered venture outfit said in its “Food Delivery Platforms in […] The post Food delivery’s old consolidatio…",
+      "published_at": "2026-07-07T10:21:33+00:00",
+      "fetched_at": "2026-07-07T10:30:12+00:00",
+      "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Report” found that 78 per cent of the city-state’s IT leaders say a lack of real-time data infrastructure […] The post Agentic AI ambitions in Singapore run into l…",
       "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c25407c0120c4e2a6ca8"
+      "id": "20f2c68d06ee6707c3ea"
     },
     {
-      "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "China’s AI boom is creating a different kind of entrepreneur",
+      "url": "https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-07T01:27:27+00:00",
-      "fetched_at": "2026-07-07T09:17:33+00:00",
-      "summary": "米Anthropicは7月6日（現地時間）、LLMの内部に、人間の意識研究でいう「グローバルワークスペース」に似た構造が自然発生していることを発見したと発表した。この構造を「J-space」と名付け、これを読み解く新手法「Jacobian lens」（以下、略称の「J-lens」）を公開。この名称は、発見に用いた数学的概念「Jacobian」...",
+      "published_at": "2026-07-07T10:00:00+00:00",
+      "fetched_at": "2026-07-07T10:30:12+00:00",
+      "summary": "Backed by the state, Chinese workers are using AI to deal with limited resources and drive innovation to compete with Silicon Valley.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3d9c4c61631033833ace"
+      "id": "faea922c46a762b84b55"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "reliefweb_mindanao_recovery_watch",
-      "source_name": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "error": "HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
