@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-07T06:50:08+00:00",
+  "generated_at": "2026-07-07T08:01:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 1,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 8,
+    "medium": 9,
     "observe": 37
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
+    {
+      "title": "M 5.4 - 162 km NNW of Tobelo, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-07T07:51:29.127+00:00",
+      "relevance_score": 19,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-07 07:16:26 UTC 2026-07-07 07:16:26 UTC at epicenter Location 3.124°N 127.557°E Depth 36.82 km (22.88 mi)",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 17,
       "url": "https://github.com/addyosmani/agent-skills",
       "summary": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are pa…",
-      "section": "medium"
-    },
-    {
-      "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T12:39:21+00:00",
-      "relevance_score": 15,
-      "url": "https://note.com/zephel01/n/n0d53c62dca07",
-      "summary": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...",
       "section": "medium"
     },
     {
