@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T15:00:45+00:00_
+_Generiert: 2026-07-07T15:58:19+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+62 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-07T13:11:45+00:00`, fetched `2026-07-07T13:11:30+00:00`
+  - Zeit: published `2026-07-07T15:58:07+00:00`, fetched `2026-07-07T15:57:52+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.0); recent (+1.0)
   - Kurz: Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Restrict who can dismiss reviews in rulesets** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-07T15:15:54+00:00`, fetched `2026-07-07T15:57:52+00:00`
+  - Treffer: GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+6.2); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now restrict who can dismiss pull request reviews directly in GitHub repository rulesets. This capability is generally available and gives you precise control over who can clear an… The post Restrict who can dismiss reviews in rulesets appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **China’s AI boom is creating a different kind of entrepreneur** — Score 9, observation — [Quelle](https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-07T10:00:00+00:00`, fetched `2026-07-07T10:30:12+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-07 08:30:56 UTC 2026-07-07 08:30:56 UTC at epicenter Location 59.477°N 30.368°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-07T06:13:04.040+00:00`, fetched `2026-07-07T06:49:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-07 05:55:40 UTC 2026-07-07 05:55:40 UTC at epicenter Location 59.511°N 30.248°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen

@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T15:00:45+00:00",
+  "generated_at": "2026-07-07T15:58:19+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-07T13:11:45+00:00",
+        "published_at": "2026-07-07T15:58:07+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -126,6 +126,13 @@
         "url": "https://anond.hatelabo.jp/20260707183302"
       },
       {
+        "title": "KDDIのISP事業者向けメールシステムへの不正アクセスについてまとめてみた - piyolog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T09:26:43+00:00",
+        "relevance_score": 5,
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112"
+      },
+      {
         "title": "Windows 11で空き容量が0バイトになる恐れ 影響を確認して速やかに対策を",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-07T09:24:03+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-07T08:28:42+00:00",
         "relevance_score": 5,
         "url": "https://ascii.jp/elem/000/004/416/4416397/"
-      },
-      {
-        "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-07T01:28:26+00:00",
-        "relevance_score": 5,
-        "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html"
       }
     ],
     "economy": [
@@ -235,6 +235,13 @@
         "url": "https://github.com/addyosmani/agent-skills"
       },
       {
+        "title": "Restrict who can dismiss reviews in rulesets",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-07T15:15:54+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets"
+      },
+      {
         "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-06T08:03:01+00:00",
@@ -247,6 +254,20 @@
         "published_at": "2026-07-07T01:15:54+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
+      },
+      {
+        "title": "GitHub Copilot app available to all",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-07T15:10:14+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all"
+      },
+      {
+        "title": "Copilot Billing Preview app will be retired on August 3",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-07T14:51:13+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3"
       },
       {
         "title": "Food delivery’s old consolidation model is cracking in East Asia",
