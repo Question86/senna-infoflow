@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T02:40:29+00:00_
+_Generiert: 2026-07-07T04:05:08+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „addyosmani/agent-skills“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „How to fix corporate AI training: A practical guide“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **How to fix corporate AI training: A practical guide** — Score 19, observation — [Quelle](https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-07T02:45:12+00:00`, fetched `2026-07-07T04:04:42+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen Zs sat through my […] The post How to fix corporate AI training: A practical guide appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **addyosmani/agent-skills** — Score 17, opportunity — [Quelle](https://github.com/addyosmani/agent-skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-07T02:39:58+00:00`
@@ -136,6 +145,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Cloudflareに独自ドメインのメールクライアントを構築した** — Score 12, observation — [Quelle](https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-06T17:15:46+00:00`, fetched `2026-07-07T04:04:42+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: sh1maのブログです
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-07-06T14:40:21+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -235,20 +253,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年7月7日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260707-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-07T02:19:27+00:00`, fetched `2026-07-07T02:39:58+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年7月7日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

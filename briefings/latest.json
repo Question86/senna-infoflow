@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T02:40:29+00:00",
-  "run_id": "2026-07-07T02:40:29+00:00",
+  "generated_at": "2026-07-07T04:05:08+00:00",
+  "run_id": "2026-07-07T04:05:08+00:00",
   "date": "2026-07-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 4,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 5,
-    "observe": 27,
+    "medium": 6,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "How to fix corporate AI training: A practical guide",
+        "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T02:45:12+00:00",
+        "fetched_at": "2026-07-07T04:04:42+00:00",
+        "summary": "Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen Zs sat through my […] The post How to fix corporate AI training: A practical guide appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Content-Chance",
+          "Public Health"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "41a35648efb44e10b588"
+      },
       {
         "title": "addyosmani/agent-skills",
         "url": "https://github.com/addyosmani/agent-skills",
@@ -231,6 +254,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "267411cc139ac8a55080"
+      },
+      {
+        "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
+        "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-06T17:15:46+00:00",
+        "fetched_at": "2026-07-07T04:04:42+00:00",
+        "summary": "sh1maのブログです",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04bd16aa8f350deb485a"
       },
       {
         "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -574,6 +620,26 @@
         "id": "14fd00c869af9fb76a10"
       },
       {
+        "title": "The integration tax: Why your best-of-breed martech stack may be costing more than it earns",
+        "url": "https://e27.co/the-integration-tax-why-your-best-of-breed-martech-stack-may-be-costing-more-than-it-earns-20260705/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T02:50:09+00:00",
+        "fetched_at": "2026-07-07T04:04:42+00:00",
+        "summary": "There is an uncomfortable line of thinking making the rounds in marketing operations circles, and it deserves a wider audience here in Asia: the single best tool in your stack may quietly cost you more than your worst-performing campaign. That sounds like a provocation. It is closer to arithmetic. A recent martech piece on why […] The post The integration tax: Why your best-of-breed martech stack may be costing more…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc3a06bc8d8387802352"
+      },
+      {
         "title": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-260707-01",
         "source": "Japan Digital Agency News RSS",
@@ -739,6 +805,65 @@
         "id": "6e543fb4008d0885f761"
       },
       {
+        "title": "Bitcoin rebounded as tensions in the Strait of Hormuz faded",
+        "url": "https://e27.co/bitcoin-rebounded-as-tensions-in-the-strait-of-hormuz-faded-20260707/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T03:42:26+00:00",
+        "fetched_at": "2026-07-07T04:04:42+00:00",
+        "summary": "The global financial landscape on July 7, 2026, presents a complex environment of sector rotations and shifting macroeconomic sentiments. Technology shares and semiconductor companies face notable downward pressure today as investors actively move capital into alternative sectors to position their portfolios for the second half of the year. This broader market transition directly impacts digital […] The post Bitcoin…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers",
+          "Watchgraph:shipping_chokepoints_supply_chain"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, shipping_chokepoints_supply_chain (+6.0); watchgraph demote portfolio (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers",
+          "shipping_chokepoints_supply_chain"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital",
+          "shipping_chokepoints_supply_chain: Hormuz"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "CCJ",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ",
+          "MAERSK-B.CO",
+          "ZIM",
+          "MATX",
+          "WMT",
+          "TGT",
+          "AMZN",
+          "ENB",
+          "SU"
+        ],
+        "id": "8cc1c7ebf71d145f34da"
+      },
+      {
         "title": "Why reach doesn’t equal credibility in the creator economy",
         "url": "https://e27.co/why-reach-doesnt-equal-credibility-in-the-creator-economy-20260705/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -781,6 +906,29 @@
     ]
   },
   "findings": [
+    {
+      "title": "How to fix corporate AI training: A practical guide",
+      "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T02:45:12+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen Zs sat through my […] The post How to fix corporate AI training: A practical guide appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "Public Health"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41a35648efb44e10b588"
+    },
     {
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
@@ -981,6 +1129,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "267411cc139ac8a55080"
+    },
+    {
+      "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
+      "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-06T17:15:46+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "sh1maのブログです",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04bd16aa8f350deb485a"
     },
     {
       "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -1324,6 +1495,26 @@
       "id": "14fd00c869af9fb76a10"
     },
     {
+      "title": "The integration tax: Why your best-of-breed martech stack may be costing more than it earns",
+      "url": "https://e27.co/the-integration-tax-why-your-best-of-breed-martech-stack-may-be-costing-more-than-it-earns-20260705/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T02:50:09+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "There is an uncomfortable line of thinking making the rounds in marketing operations circles, and it deserves a wider audience here in Asia: the single best tool in your stack may quietly cost you more than your worst-performing campaign. That sounds like a provocation. It is closer to arithmetic. A recent martech piece on why […] The post The integration tax: Why your best-of-breed martech stack may be costing more…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc3a06bc8d8387802352"
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260707-01",
       "source": "Japan Digital Agency News RSS",
@@ -1489,6 +1680,65 @@
       "id": "6e543fb4008d0885f761"
     },
     {
+      "title": "Bitcoin rebounded as tensions in the Strait of Hormuz faded",
+      "url": "https://e27.co/bitcoin-rebounded-as-tensions-in-the-strait-of-hormuz-faded-20260707/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T03:42:26+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "The global financial landscape on July 7, 2026, presents a complex environment of sector rotations and shifting macroeconomic sentiments. Technology shares and semiconductor companies face notable downward pressure today as investors actively move capital into alternative sectors to position their portfolios for the second half of the year. This broader market transition directly impacts digital […] The post Bitcoin…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers",
+        "Watchgraph:shipping_chokepoints_supply_chain"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, shipping_chokepoints_supply_chain (+6.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers",
+        "shipping_chokepoints_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital",
+        "shipping_chokepoints_supply_chain: Hormuz"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ",
+        "MAERSK-B.CO",
+        "ZIM",
+        "MATX",
+        "WMT",
+        "TGT",
+        "AMZN",
+        "ENB",
+        "SU"
+      ],
+      "id": "8cc1c7ebf71d145f34da"
+    },
+    {
       "title": "Why reach doesn’t equal credibility in the creator economy",
       "url": "https://e27.co/why-reach-doesnt-equal-credibility-in-the-creator-economy-20260705/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1531,242 +1781,129 @@
   ],
   "new_findings": [
     {
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "How to fix corporate AI training: A practical guide",
+      "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────…",
+      "published_at": "2026-07-07T02:45:12+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen Zs sat through my […] The post How to fix corporate AI training: A practical guide appeared first on e27 .",
       "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "Public Health"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41a35648efb44e10b588"
+    },
+    {
+      "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
+      "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-06T17:15:46+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "sh1maのブログです",
+      "matched_keywords": [
+        "agent",
         "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "80f127507af1f2854d5f"
-    },
-    {
-      "title": "Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU93316066/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-07T11:15:15+09:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "11217cdcbb15aee0f09e"
-    },
-    {
-      "title": "HP Deskjet 2800プリンターシリーズにおける認証不備の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90409906/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-07T11:15:00+09:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ec3e6a43cfd2e00dc897"
-    },
-    {
-      "title": "How to capture AI’s gains without wrecking your company",
-      "url": "https://e27.co/how-to-capture-ais-gains-without-wrecking-your-company-20260705/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-07T02:00:27+00:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "Anthropic, Meta, Block and Klarna show why the main barrier to AI productivity is organisational design, not model capability. Executives have largely stopped asking whether their companies should use AI. The real question is how aggressively they should deploy it — and, more importantly, how quickly they should remove people once AI appears capable of […] The post How to capture AI’s gains without wrecking your com…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Content-Chance"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d2665af21a648c33c115"
+      "id": "04bd16aa8f350deb485a"
     },
     {
-      "title": "How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia",
-      "url": "https://e27.co/how-vietnam-is-emerging-as-a-leading-ai-builder-ecosystem-in-southeast-asia-20260705/",
+      "title": "The integration tax: Why your best-of-breed martech stack may be costing more than it earns",
+      "url": "https://e27.co/the-integration-tax-why-your-best-of-breed-martech-stack-may-be-costing-more-than-it-earns-20260705/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-07T02:30:48+00:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "Over the past two years, I have visited Vietnam several times to run workshops, hackathons, and developer community programs. I first went to Ho Chi Minh City in June 2024 for Tech in Asia. Since then, I have returned multiple times for developer events, community sessions, and most recently Lotus Hacks in March 2026. I […] The post How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia appeared…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "efddbc89b3dc70dda2e4"
-    },
-    {
-      "title": "Tech businesses should play the AI field rather than bet on a single winner",
-      "url": "https://e27.co/tech-businesses-should-play-the-ai-field-rather-than-bet-on-a-single-winner-20260705/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-07T01:45:19+00:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "Some in the technology industry believe businesses should pick one or two artificial intelligence winners and focus their AI budgets on them. I believe that’s exactly the wrong advice, especially for organisations in South-east Asia. I base that conclusion on three observations. First, no single AI tool is best at everything, and sometimes a less […] The post Tech businesses should play the AI field rather than bet…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4821b0b685920f18b6d3"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260707-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-07T02:19:27+00:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
+      "published_at": "2026-07-07T02:50:09+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "There is an uncomfortable line of thinking making the rounds in marketing operations circles, and it deserves a wider audience here in Asia: the single best tool in your stack may quietly cost you more than your worst-performing campaign. That sounds like a provocation. It is closer to arithmetic. A recent martech piece on why […] The post The integration tax: Why your best-of-breed martech stack may be costing more…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
       "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "27797785025f25ca3529"
+      "id": "fc3a06bc8d8387802352"
     },
     {
-      "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita",
-      "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-05T19:50:07+00:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "1Password のログイン時、マスターパスワードは 1Password のサーバに一度も送信されていません。 少し前まで、私はこれを知りませんでした。パスワードマネージャーなのだから、当然サーバがマスターパスワードを受け取るのだろうと思っていたのです。それで暗号化された金庫を開いていると。しかし違いました。 サーバ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e91d8f18986c7f6a8ca2"
-    },
-    {
-      "title": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. π RuView See through walls with WiFi Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6e543fb4008d0885f761"
-    },
-    {
-      "title": "Why reach doesn’t equal credibility in the creator economy",
-      "url": "https://e27.co/why-reach-doesnt-equal-credibility-in-the-creator-economy-20260705/",
+      "title": "Bitcoin rebounded as tensions in the Strait of Hormuz faded",
+      "url": "https://e27.co/bitcoin-rebounded-as-tensions-in-the-strait-of-hormuz-faded-20260707/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-07T02:15:26+00:00",
-      "fetched_at": "2026-07-07T02:39:58+00:00",
-      "summary": "After working in the content creator space for so long, especially since I was growing day-traders/investor-types, I started getting good at it. What I didn’t understand then was the difference between an audience and a business. They feel identical when things are going well; one is an asset, the other is a distraction. Attention is […] The post Why reach doesn’t equal credibility in the creator economy appeared fi…",
+      "published_at": "2026-07-07T03:42:26+00:00",
+      "fetched_at": "2026-07-07T04:04:42+00:00",
+      "summary": "The global financial landscape on July 7, 2026, presents a complex environment of sector rotations and shifting macroeconomic sentiments. Technology shares and semiconductor companies face notable downward pressure today as investors actively move capital into alternative sectors to position their portfolios for the second half of the year. This broader market transition directly impacts digital […] The post Bitcoin…",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers",
+        "Watchgraph:shipping_chokepoints_supply_chain"
       ],
       "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, shipping_chokepoints_supply_chain (+6.0); watchgraph demote portfolio (x0.45)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "54337eb3de33443d0219"
+      "watchgraph_modules": [
+        "capitals_power_centers",
+        "shipping_chokepoints_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital",
+        "shipping_chokepoints_supply_chain: Hormuz"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "CCJ",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ",
+        "MAERSK-B.CO",
+        "ZIM",
+        "MATX",
+        "WMT",
+        "TGT",
+        "AMZN",
+        "ENB",
+        "SU"
+      ],
+      "id": "8cc1c7ebf71d145f34da"
     }
   ],
   "source_errors": [],

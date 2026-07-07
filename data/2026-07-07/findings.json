@@ -1,5 +1,28 @@
 [
   {
+    "title": "How to fix corporate AI training: A practical guide",
+    "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-07T02:45:12+00:00",
+    "fetched_at": "2026-07-07T04:04:42+00:00",
+    "summary": "Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen Zs sat through my […] The post How to fix corporate AI training: A practical guide appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Content-Chance",
+      "Public Health"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "41a35648efb44e10b588"
+  },
+  {
     "title": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -199,6 +222,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "267411cc139ac8a55080"
+  },
+  {
+    "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
+    "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-06T17:15:46+00:00",
+    "fetched_at": "2026-07-07T04:04:42+00:00",
+    "summary": "sh1maのブログです",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "04bd16aa8f350deb485a"
   },
   {
     "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -542,6 +588,26 @@
     "id": "14fd00c869af9fb76a10"
   },
   {
+    "title": "The integration tax: Why your best-of-breed martech stack may be costing more than it earns",
+    "url": "https://e27.co/the-integration-tax-why-your-best-of-breed-martech-stack-may-be-costing-more-than-it-earns-20260705/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-07T02:50:09+00:00",
+    "fetched_at": "2026-07-07T04:04:42+00:00",
+    "summary": "There is an uncomfortable line of thinking making the rounds in marketing operations circles, and it deserves a wider audience here in Asia: the single best tool in your stack may quietly cost you more than your worst-performing campaign. That sounds like a provocation. It is closer to arithmetic. A recent martech piece on why […] The post The integration tax: Why your best-of-breed martech stack may be costing more…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fc3a06bc8d8387802352"
+  },
+  {
     "title": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-260707-01",
     "source": "Japan Digital Agency News RSS",
@@ -705,6 +771,65 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6e543fb4008d0885f761"
+  },
+  {
+    "title": "Bitcoin rebounded as tensions in the Strait of Hormuz faded",
+    "url": "https://e27.co/bitcoin-rebounded-as-tensions-in-the-strait-of-hormuz-faded-20260707/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-07T03:42:26+00:00",
+    "fetched_at": "2026-07-07T04:04:42+00:00",
+    "summary": "The global financial landscape on July 7, 2026, presents a complex environment of sector rotations and shifting macroeconomic sentiments. Technology shares and semiconductor companies face notable downward pressure today as investors actively move capital into alternative sectors to position their portfolios for the second half of the year. This broader market transition directly impacts digital […] The post Bitcoin…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers",
+      "Watchgraph:shipping_chokepoints_supply_chain"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, shipping_chokepoints_supply_chain (+6.0); watchgraph demote portfolio (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers",
+      "shipping_chokepoints_supply_chain"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital",
+      "shipping_chokepoints_supply_chain: Hormuz"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "CCJ",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ",
+      "MAERSK-B.CO",
+      "ZIM",
+      "MATX",
+      "WMT",
+      "TGT",
+      "AMZN",
+      "ENB",
+      "SU"
+    ],
+    "id": "8cc1c7ebf71d145f34da"
   },
   {
     "title": "Why reach doesn’t equal credibility in the creator economy",

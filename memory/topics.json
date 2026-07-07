@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T02:40:29+00:00",
+  "generated_at": "2026-07-07T04:05:08+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "How to fix corporate AI training: A practical guide",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:45:12+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/"
+      },
       {
         "title": "addyosmani/agent-skills",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -40,6 +47,13 @@
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html"
       },
       {
+        "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T17:15:46+00:00",
+        "relevance_score": 12,
+        "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/"
+      },
+      {
         "title": "中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-06T10:19:55+00:00",
@@ -59,6 +73,43 @@
         "published_at": "2026-07-06T10:00:00+00:00",
         "relevance_score": 10,
         "url": "https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      }
+    ],
+    "economy": [
+      {
+        "title": "How to fix corporate AI training: A practical guide",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:45:12+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/"
+      },
+      {
+        "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-06T15:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm"
+      },
+      {
+        "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-06T14:40:21+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html"
+      },
+      {
+        "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-06T08:03:01+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/"
+      },
+      {
+        "title": "Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T01:30:34+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/"
       },
       {
         "title": "Human value in the AI era is not what most people think",
@@ -68,11 +119,32 @@
         "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
       },
       {
-        "title": "AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-06T15:40:18+00:00",
-        "relevance_score": 8,
-        "url": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html"
+        "title": "The integration tax: Why your best-of-breed martech stack may be costing more than it earns",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:50:09+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/the-integration-tax-why-your-best-of-breed-martech-stack-may-be-costing-more-than-it-earns-20260705/"
+      },
+      {
+        "title": "ruvnet/RuView",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      {
+        "title": "Bitcoin rebounded as tensions in the Strait of Hormuz faded",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T03:42:26+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-rebounded-as-tensions-in-the-strait-of-hormuz-faded-20260707/"
+      },
+      {
+        "title": "Why reach doesn’t equal credibility in the creator economy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:15:26+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-reach-doesnt-equal-credibility-in-the-creator-economy-20260705/"
       }
     ],
     "github": [
@@ -140,6 +212,13 @@
         "published_at": "2026-07-06T08:55:55+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/"
+      },
+      {
+        "title": "Bitcoin rebounded as tensions in the Strait of Hormuz faded",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T03:42:26+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-rebounded-as-tensions-in-the-strait-of-hormuz-faded-20260707/"
       }
     ],
     "security": [
@@ -191,64 +270,6 @@
         "published_at": "2026-07-06T10:48:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html"
-      }
-    ],
-    "economy": [
-      {
-        "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-07-06T15:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm"
-      },
-      {
-        "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-07-06T14:40:21+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html"
-      },
-      {
-        "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-06T08:03:01+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/"
-      },
-      {
-        "title": "Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T01:30:34+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/"
-      },
-      {
-        "title": "Human value in the AI era is not what most people think",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T01:15:54+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
-      },
-      {
-        "title": "ruvnet/RuView",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/ruvnet/RuView"
-      },
-      {
-        "title": "Why reach doesn’t equal credibility in the creator economy",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T02:15:26+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-reach-doesnt-equal-credibility-in-the-creator-economy-20260705/"
-      },
-      {
-        "title": "The first mover myth: Why being first rarely means winning",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T01:00:35+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-first-mover-myth-why-being-first-rarely-means-winning-20260706/"
       }
     ],
     "general": [
