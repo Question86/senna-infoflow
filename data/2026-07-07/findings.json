@@ -523,6 +523,42 @@
     "id": "f7dcb1223736b1814d2d"
   },
   {
+    "title": "M 5.0 - Reykjanes Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-07T08:47:29.040+00:00",
+    "fetched_at": "2026-07-07T09:17:33+00:00",
+    "summary": "Time 2026-07-07 08:30:56 UTC 2026-07-07 08:30:56 UTC at epicenter Location 59.477°N 30.368°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "fd43d01ea663845ac85b"
+  },
+  {
     "title": "M 5.3 - Reykjanes Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -826,6 +862,26 @@
     "id": "14fd00c869af9fb76a10"
   },
   {
+    "title": "Food delivery’s old consolidation model is cracking in East Asia",
+    "url": "https://e27.co/food-deliverys-old-consolidation-model-is-cracking-in-east-asia-20260707/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-07T08:27:52+00:00",
+    "fetched_at": "2026-07-07T09:17:33+00:00",
+    "summary": "Momentum Works has released a new report on East Asia’s food delivery sector, arguing that the region is entering its biggest leadership shift in more than a decade as Delivery Hero’s acquisition-led expansion model comes under pressure from Asian operators with deeper operating playbooks. The Singapore-headquartered venture outfit said in its “Food Delivery Platforms in […] The post Food delivery’s old consolidatio…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c25407c0120c4e2a6ca8"
+  },
+  {
     "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」を策定しました",
     "url": "https://www.digital.go.jp/news/3579c42d-b11c-4756-b66e-3d3e35175623",
     "source": "Japan Digital Agency News RSS",
@@ -945,6 +1001,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1edefb578150fca043d"
+  },
+  {
+    "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:27:27+00:00",
+    "fetched_at": "2026-07-07T09:17:33+00:00",
+    "summary": "米Anthropicは7月6日（現地時間）、LLMの内部に、人間の意識研究でいう「グローバルワークスペース」に似た構造が自然発生していることを発見したと発表した。この構造を「J-space」と名付け、これを読み解く新手法「Jacobian lens」（以下、略称の「J-lens」）を公開。この名称は、発見に用いた数学的概念「Jacobian」...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d9c4c61631033833ace"
   },
   {
     "title": "不正アクセスによるバンダイチャンネル大量退会についてまとめてみた - piyolog",
