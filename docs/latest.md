@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T01:02:57+00:00_
+_Generiert: 2026-07-07T01:42:41+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
+22 neue relevante Treffer. Stärkstes Signal: „16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01“ aus Hatena Bookmark Hotentry IT (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -105,6 +105,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Qapita is an ESOP platform for startups through to listed companies, helping founders unlock the Power of Ownership for their stakeholders. Qapita’s focus aligns with a growing global trend: as startups stay private for longer, the complexity of managing cap tables, liquidity events, and investor reporting has created a surge in demand for various ESOP […] The post Qapita launches ESOP SPV for Singapore-incorporated…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis** — Score 8, observation — [Quelle](https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-07T01:30:34+00:00`, fetched `2026-07-07T01:42:05+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: In the global venture theatre, there is a persistent myth that capital is the primary protagonist. We are conditioned to believe that if we simply pour enough liquidity into an emerging market, innovation will inevitably scale, and prosperity will follow. In Bangladesh, however, this narrative is colliding with a sobering reality. Despite a surge of […] The post Why money won’t save Bangladesh’s startups: The ecosys…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Human value in the AI era is not what most people think** — Score 8, observation — [Quelle](https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-07T01:15:54+00:00`, fetched `2026-07-07T01:42:05+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Every AI conversation seems to begin with the same question: what can AI do better than humans? It is an understandable question since AI can now analyse information quickly, summarise long reports, generate first drafts, support customer service, and automate tasks that used to take hours. For many companies, the appeal is immediate. If a […] The post Human value in the AI era is not what most people think appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞** — Score 8, observation — [Quelle](https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-06T15:40:18+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -132,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Antler is backing Chinese founders building away from China** — Score 7, observation — [Quelle](https://e27.co/why-antler-is-backing-chinese-founders-building-away-from-china-20260706/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T07:30:32+00:00`, fetched `2026-07-07T01:02:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph demote demo (x0.45)
-  - Kurz: The venture capital world is awash with AI hype. Every fund claims to back the next frontier. Few can point to companies that have crossed from demo to dollars in under a year. Antler, the global early-stage VC with a growing Asia footprint, is making that claim and backing it with numbers. Jussi Salovaara, co-founder […] The post Why Antler is backing Chinese founders building away from China appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **医療DXに関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/healthcare-dx)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-06T22:55:27+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -150,15 +159,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 医療DXに関するダッシュボードを公開しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **HeyMax First offers upfront miles, but the economics will face a real-world test** — Score 6, observation — [Quelle](https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T08:55:55+00:00`, fetched `2026-07-07T01:02:30+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore-based travel rewards startup HeyMax has launched HeyMax First, a membership product that gives users access to miles before they have earned them, in a bid to reshape how frequent travellers think about redemption. The product allows members to draw down up to one million Max Miles upfront and use them for flight or hotel […] The post HeyMax First offers upfront miles, but the economics will face a real-wo…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -167,3 +167,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fc1fe2e3610>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

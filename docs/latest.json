@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-07T01:02:57+00:00",
-  "run_id": "2026-07-07T01:02:57+00:00",
+  "generated_at": "2026-07-07T01:42:41+00:00",
+  "run_id": "2026-07-07T01:42:41+00:00",
   "date": "2026-07-07",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 20,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 2,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 1,
-    "observe": 19,
-    "source_errors": 0
+    "observe": 21,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -247,6 +247,69 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f7d866ed04e8f7794c0b"
+      },
+      {
+        "title": "Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis",
+        "url": "https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T01:30:34+00:00",
+        "fetched_at": "2026-07-07T01:42:05+00:00",
+        "summary": "In the global venture theatre, there is a persistent myth that capital is the primary protagonist. We are conditioned to believe that if we simply pour enough liquidity into an emerging market, innovation will inevitably scale, and prosperity will follow. In Bangladesh, however, this narrative is colliding with a sobering reality. Despite a surge of […] The post Why money won’t save Bangladesh’s startups: The ecosys…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "b651072a1cf1781b3e00"
+      },
+      {
+        "title": "Human value in the AI era is not what most people think",
+        "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-07T01:15:54+00:00",
+        "fetched_at": "2026-07-07T01:42:05+00:00",
+        "summary": "Every AI conversation seems to begin with the same question: what can AI do better than humans? It is an understandable question since AI can now analyse information quickly, summarise long reports, generate first drafts, support customer service, and automate tasks that used to take hours. For many companies, the appeal is immediate. If a […] The post Human value in the AI era is not what most people think appeared…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6038cdd03924f68e00f8"
       },
       {
         "title": "AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞",
@@ -698,6 +761,69 @@
       "id": "f7d866ed04e8f7794c0b"
     },
     {
+      "title": "Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis",
+      "url": "https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T01:30:34+00:00",
+      "fetched_at": "2026-07-07T01:42:05+00:00",
+      "summary": "In the global venture theatre, there is a persistent myth that capital is the primary protagonist. We are conditioned to believe that if we simply pour enough liquidity into an emerging market, innovation will inevitably scale, and prosperity will follow. In Bangladesh, however, this narrative is colliding with a sobering reality. Despite a surge of […] The post Why money won’t save Bangladesh’s startups: The ecosys…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "b651072a1cf1781b3e00"
+    },
+    {
+      "title": "Human value in the AI era is not what most people think",
+      "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T01:15:54+00:00",
+      "fetched_at": "2026-07-07T01:42:05+00:00",
+      "summary": "Every AI conversation seems to begin with the same question: what can AI do better than humans? It is an understandable question since AI can now analyse information quickly, summarise long reports, generate first drafts, support customer service, and automate tasks that used to take hours. For many companies, the appeal is immediate. If a […] The post Human value in the AI era is not what most people think appeared…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6038cdd03924f68e00f8"
+    },
+    {
       "title": "AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞",
       "url": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -929,300 +1055,19 @@
   ],
   "new_findings": [
     {
-      "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
-      "url": "https://note.com/zephel01/n/n0d53c62dca07",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T12:39:21+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dcc26e8a5a40edb73429"
-    },
-    {
-      "title": "Philip R. Lane: AI and monetary policy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-07-06T18:30:00+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Philip R. Lane: AI and monetary policy",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "15fff375dccebc767d14"
-    },
-    {
-      "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-07-06T15:00:00+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "267411cc139ac8a55080"
-    },
-    {
-      "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-07-06T14:40:21+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d4b804db9acbe2c645fb"
-    },
-    {
-      "title": "中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ",
-      "url": "https://japan.cnet.com/article/35250128/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T10:19:55+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Morning Postが報じた。 報道によると、バイトダンスはAIアプリ「豆包（Doubao）」でエージェント機能を7月15日に終了する。アリババ...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b12799c726547a3fc07b"
-    },
-    {
-      "title": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-06T06:42:00+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "38303a57c4017c1602f5"
-    },
-    {
-      "title": "博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11023-3abe8-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-06T06:25:00+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb2fdc4af68072e05db0"
-    },
-    {
-      "title": "China’s web novel platforms embraced AI. Now they are fighting it",
-      "url": "https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-06T10:00:00+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Sites from Tencent, ByteDance, and Baidu set curbs like daily word limits for authors and stricter standards to combat poor-quality automated fiction.",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c06ae319b4ad0564c4cc"
-    },
-    {
-      "title": "Coolify: Kritische Lücken können Remote-Angriffe ermöglichen",
-      "url": "https://www.heise.de/news/Coolify-Kritische-Luecken-koennen-Remote-Angriffe-ermoeglichen-11354554.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-06T09:42:00.000+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f7dcb1223736b1814d2d"
-    },
-    {
-      "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
-      "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/",
+      "title": "Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis",
+      "url": "https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-06T08:03:01+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Qapita is an ESOP platform for startups through to listed companies, helping founders unlock the Power of Ownership for their stakeholders. Qapita’s focus aligns with a growing global trend: as startups stay private for longer, the complexity of managing cap tables, liquidity events, and investor reporting has created a surge in demand for various ESOP […] The post Qapita launches ESOP SPV for Singapore-incorporated…",
+      "published_at": "2026-07-07T01:30:34+00:00",
+      "fetched_at": "2026-07-07T01:42:05+00:00",
+      "summary": "In the global venture theatre, there is a persistent myth that capital is the primary protagonist. We are conditioned to believe that if we simply pour enough liquidity into an emerging market, innovation will inevitably scale, and prosperity will follow. In Bangladesh, however, this narrative is colliding with a sobering reality. Despite a surge of […] The post Why money won’t save Bangladesh’s startups: The ecosys…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f7d866ed04e8f7794c0b"
-    },
-    {
-      "title": "AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T15:40:18+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "中国湖北省武漢市で6月、野生のキノコを食べた9歳の少年が、一時は生死の境をさまよう出来事があった。AI（人工知能）で「安全」と判断されたが、猛毒の成分を持つキノコだったという。中国共産党系の地元紙「…",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ce2b6b04c7161168db1a"
-    },
-    {
-      "title": "OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken",
-      "url": "https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-06T13:19:00.000+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Aktuelle Versionen der Open-Source-Firewall-Distribution schließen mehrere Einfallstore. Eine als kritisch bewertete Lücke macht das Update besonders dringlich.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "91b58c9f42b7f73ea0ee"
-    },
-    {
-      "title": "Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
-      "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-06T10:48:00.000+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4a5e9e3ab717fa1d0a2f"
-    },
-    {
-      "title": "Why Antler is backing Chinese founders building away from China",
-      "url": "https://e27.co/why-antler-is-backing-chinese-founders-building-away-from-china-20260706/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-06T07:30:32+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "The venture capital world is awash with AI hype. Every fund claims to back the next frontier. Few can point to companies that have crossed from demo to dollars in under a year. Antler, the global early-stage VC with a growing Asia footprint, is making that claim and backing it with numbers. Jussi Salovaara, co-founder […] The post Why Antler is backing Chinese founders building away from China appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder",
         "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph demote demo (x0.45)",
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
@@ -1249,133 +1094,38 @@
         "EWC",
         "EWZ"
       ],
-      "id": "14fd00c869af9fb76a10"
+      "id": "b651072a1cf1781b3e00"
     },
     {
-      "title": "医療DXに関するダッシュボードを公開しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-06T22:55:27+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "医療DXに関するダッシュボードを公開しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d79e920e5c60c0563b3b"
-    },
-    {
-      "title": "HeyMax First offers upfront miles, but the economics will face a real-world test",
-      "url": "https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/",
+      "title": "Human value in the AI era is not what most people think",
+      "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-06T08:55:55+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "Singapore-based travel rewards startup HeyMax has launched HeyMax First, a membership product that gives users access to miles before they have earned them, in a bid to reshape how frequent travellers think about redemption. The product allows members to draw down up to one million Max Miles upfront and use them for flight or hotel […] The post HeyMax First offers upfront miles, but the economics will face a real-wo…",
+      "published_at": "2026-07-07T01:15:54+00:00",
+      "fetched_at": "2026-07-07T01:42:05+00:00",
+      "summary": "Every AI conversation seems to begin with the same question: what can AI do better than humans? It is an understandable question since AI can now analyse information quickly, summarise long reports, generate first drafts, support customer service, and automate tasks that used to take hours. For many companies, the appeal is immediate. If a […] The post Human value in the AI era is not what most people think appeared…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fcba6137bcedaa172058"
-    },
-    {
-      "title": "不正アクセスによるバンダイチャンネル大量退会についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/012552",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T22:07:22+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "株式会社バンダイナムコフィルムワークスは、動画配信サービス「バンダイチャンネル」で不正アクセスにより会員が意図せず大量に退会処理される障害が発生し、大量の会員情報が漏えいした可能性があると公表しました。その後、2026年6月と7月の2段階にわたり、この不正アクセスの疑いとして埼玉県所沢市在住の少年が警視...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f1480ab36ce4253127bb"
-    },
-    {
-      "title": "ソフトウェアの見積もり - kawasima",
-      "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation=",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T14:19:22+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "ソフトウェアの工数見積もりは40年以上にわたって研究されてきた古いテーマで、入門書も実践書も数多い。だが現場で広く流布する「常識」の多くは、一次資料まで遡ると実証根拠が確認できない。確率分布が書ける前提で精度を磨いてきた見積もり研究は、確率分布が原理的に書けない領域から来る大幅超過には対応していな...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b7890a3a96f0f8f82b9d"
-    },
-    {
-      "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすればいい」という意見が出るが、IT業界関係者的には「要りません」という話→「知識と技術は後付けできても倫理観はネ…」",
-      "url": "https://togetter.com/li/2717678",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T14:17:51+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "電ファミニコゲーマー @denfaminicogame 「バンダイチャンネル」に生成AIで不正アクセスを繰り返し会員約4万6000人退会させたか。15歳高校生を逮捕──国内メディア報じる news.denfaminicogamer.jp/news/260706q 自作プログラムを悪用しアカウント登録を勝手に解除させたほか、サービスを一時停止の対応を取らせたとして...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6fe79392a269f69821b8"
-    },
-    {
-      "title": "The first mover myth: Why being first rarely means winning",
-      "url": "https://e27.co/the-first-mover-myth-why-being-first-rarely-means-winning-20260706/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-07T01:00:35+00:00",
-      "fetched_at": "2026-07-07T01:02:30+00:00",
-      "summary": "The idea that “first mover always wins” is one of the most seductive myths in business. It sounds logical: if you’re first, you grab the market, define the rules, and lock everyone else out. But history, from the Industrial Age to today’s startups, tells a very different story. Being first rarely guarantees dominance. Being best, […] The post The first mover myth: Why being first rarely means winning appeared first…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e107fab2a93882504a03"
+      "id": "6038cdd03924f68e00f8"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fc1fe2e3610>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
