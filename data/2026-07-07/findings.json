@@ -173,6 +173,29 @@
     "id": "80f127507af1f2854d5f"
   },
   {
+    "title": "Bowman, Opening Remarks on Sound Practices for Artificial Intelligence",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-07-07T11:00:00+00:00",
+    "fetched_at": "2026-07-07T11:29:50+00:00",
+    "summary": "Speech At the Financial Stability Board Virtual Outreach Event",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "96f9b2587438bb3bcf7e"
+  },
+  {
     "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
     "url": "https://note.com/zephel01/n/n0d53c62dca07",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1022,6 +1045,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "fcba6137bcedaa172058"
+  },
+  {
+    "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
+    "url": "https://ascii.jp/elem/000/004/416/4416397/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T08:28:42+00:00",
+    "fetched_at": "2026-07-07T11:29:50+00:00",
+    "summary": "世界的なメモリの価格高騰が続く中、怒った米国のユーザーたちが訴訟に踏み切った。 米国の個人14人と法人3社が2026年6月25日、半導体大手3社が不当にメモリ（DRAM）の価格を引き上げるカルテルを形成したとして、米国カリフォルニア州北部地区連邦地裁に訴えを起こした。提訴されたのは韓国のサムスン電子、SKハイニッ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0bd6e16022ef1220b6d6"
   },
   {
     "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",

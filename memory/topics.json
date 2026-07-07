@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T10:30:38+00:00",
+  "generated_at": "2026-07-07T11:30:16+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 17,
         "url": "https://github.com/addyosmani/agent-skills"
+      },
+      {
+        "title": "Bowman, Opening Remarks on Sound Practices for Artificial Intelligence",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-07T11:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm"
       },
       {
         "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-06T17:15:46+00:00",
         "relevance_score": 12,
         "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/"
-      },
-      {
-        "title": "中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-06T10:19:55+00:00",
-        "relevance_score": 12,
-        "url": "https://japan.cnet.com/article/35250128/"
       }
     ],
     "general": [
@@ -119,6 +119,13 @@
         "url": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx"
       },
       {
+        "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T08:28:42+00:00",
+        "relevance_score": 5,
+        "url": "https://ascii.jp/elem/000/004/416/4416397/"
+      },
+      {
         "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-07T01:28:26+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-06T14:19:22+00:00",
         "relevance_score": 5,
         "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation="
-      },
-      {
-        "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-05T19:50:07+00:00",
-        "relevance_score": 5,
-        "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564"
       }
     ],
     "economy": [
