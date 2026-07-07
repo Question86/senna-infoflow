@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T13:11:57+00:00",
+  "generated_at": "2026-07-07T13:57:04+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,20 @@
         "url": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx"
       },
       {
+        "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T09:38:18+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260707183302"
+      },
+      {
+        "title": "Windows 11で空き容量が0バイトになる恐れ 影響を確認して速やかに対策を",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T09:24:03+00:00",
+        "relevance_score": 5,
+        "url": "https://news.mynavi.jp/techplus/article/20260707-4672951/"
+      },
+      {
         "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-07T08:28:42+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-07-07T01:28:26+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html"
-      },
-      {
-        "title": "不正アクセスによるバンダイチャンネル大量退会についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-06T22:07:22+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/012552"
-      },
-      {
-        "title": "ソフトウェアの見積もり - kawasima",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-06T14:19:22+00:00",
-        "relevance_score": 5,
-        "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation="
       }
     ],
     "economy": [
