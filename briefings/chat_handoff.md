@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-07T20:28:41+00:00_
+_Generated: 2026-07-07T21:04:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `73`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-07T19:06:02+00:00`
+- published: `2026-07-07T21:04:48+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-07T20:28:41+00:00_
 - url: https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/
 - summary: Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Rep…
 
-### 5. How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia
+### 5. M 4.9 - 88 km WNW of Hicks Bay, New Zealand
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-07T21:02:51.988+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tasa
+- summary: PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-07-07 20:33:15 UTC 2026-07-07 20:33:15 UTC at epicenter Location 37.217°S 177.429°E Depth 121.41 km (75.44 mi)
+
+### 6. How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-07T02:30:48+00:00`
 - url: https://e27.co/how-vietnam-is-emerging-as-a-leading-ai-builder-ecosystem-in-southeast-asia-20260705/
 - summary: Over the past two years, I have visited Vietnam several times to run workshops, hackathons, and developer community programs. I first went to Ho Chi Minh City in June 2024 for Tech in Asia. Since then, I have returned multiple times for developer events, comm…
 
-### 6. Philip R. Lane: AI and monetary policy
+### 7. Philip R. Lane: AI and monetary policy
 - source: ECB Press Releases Speeches Interviews
 - score: `13`
 - published: `2026-07-06T18:30:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html
 - summary: Philip R. Lane: AI and monetary policy
 
-### 7. Waller, Two Thoughts on the Transmission of Monetary Policy
+### 8. Waller, Two Thoughts on the Transmission of Monetary Policy
 - source: Federal Reserve Speeches and Testimony
 - score: `13`
 - published: `2026-07-06T15:00:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
 - summary: Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy
-
-### 8. Apache Jena Fusekiにおけるパストラバーサルの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `13`
-- published: `2025-07-30T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN90566559/
-- summary: The Apache Software Foundationが提供するJena Fusekiには、パストラバーサルの脆弱性が存在します。
 
 END OF DOCUMENT
