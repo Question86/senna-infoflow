@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-07T04:05:08+00:00_
+_Generated: 2026-07-07T05:29:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `39`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-07T04:05:08+00:00_
 - url: https://note.com/zephel01/n/n0d53c62dca07
 - summary: 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...
 
-### 4. Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性
+### 4. 複数のセイコーエプソン製プリンターおよびスキャナーのWeb Configにおけるクロスサイトリクエストフォージェリの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-07-07T11:15:15+09:00`
-- url: https://jvn.jp/vu/JVNVU93316066/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-07-07T14:00:00+09:00`
+- url: https://jvn.jp/jp/JVN87285119/
+- summary: 複数のセイコーエプソン製プリンターおよびスキャナーに搭載されているWeb Configには、クロスサイトリクエストフォージェリの脆弱性が存在します。
 
 ### 5. How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia
 - source: e27 Asia Startup and Tech Feed

@@ -93,6 +93,28 @@
     "id": "dcc26e8a5a40edb73429"
   },
   {
+    "title": "複数のセイコーエプソン製プリンターおよびスキャナーのWeb Configにおけるクロスサイトリクエストフォージェリの脆弱性",
+    "url": "https://jvn.jp/jp/JVN87285119/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-07T14:00:00+09:00",
+    "fetched_at": "2026-07-07T05:29:29+00:00",
+    "summary": "複数のセイコーエプソン製プリンターおよびスキャナーに搭載されているWeb Configには、クロスサイトリクエストフォージェリの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4a1f50baa784a868c884"
+  },
+  {
     "title": "Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93316066/",
     "source": "JVN Japan Vulnerability Notes",
@@ -398,6 +420,42 @@
     "id": "f7dcb1223736b1814d2d"
   },
   {
+    "title": "M 5.0 - Reykjanes Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takw",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-07T05:15:56.040+00:00",
+    "fetched_at": "2026-07-07T05:29:29+00:00",
+    "summary": "Time 2026-07-07 05:00:43 UTC 2026-07-07 05:00:43 UTC at epicenter Location 59.463°N 30.251°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0f0daec97eecd319e94e"
+  },
+  {
     "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
     "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -666,6 +724,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "fcba6137bcedaa172058"
+  },
+  {
+    "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:28:26+00:00",
+    "fetched_at": "2026-07-07T05:29:29+00:00",
+    "summary": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c1edefb578150fca043d"
   },
   {
     "title": "不正アクセスによるバンダイチャンネル大量退会についてまとめてみた - piyolog",

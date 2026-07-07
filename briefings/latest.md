@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T04:05:08+00:00_
+_Generiert: 2026-07-07T05:29:54+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „How to fix corporate AI training: A practical guide“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+39 neue relevante Treffer. Stärkstes Signal: „How to fix corporate AI training: A practical guide“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **複数のセイコーエプソン製プリンターおよびスキャナーのWeb Configにおけるクロスサイトリクエストフォージェリの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN87285119/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-07T14:00:00+09:00`, fetched `2026-07-07T05:29:29+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 複数のセイコーエプソン製プリンターおよびスキャナーに搭載されているWeb Configには、クロスサイトリクエストフォージェリの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93316066/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-07T11:15:15+09:00`, fetched `2026-07-07T02:39:58+00:00`
@@ -217,6 +226,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.0); recent (+1.0)
   - Kurz: Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000takw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-07T05:15:56.040+00:00`, fetched `2026-07-07T05:29:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-07 05:00:43 UTC 2026-07-07 05:00:43 UTC at epicenter Location 59.463°N 30.251°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Qapita launches ESOP SPV for Singapore-incorporated entities** — Score 9, observation — [Quelle](https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-06T08:03:01+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -243,15 +261,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Aktuelle Versionen der Open-Source-Firewall-Distribution schließen mehrere Einfallstore. Eine als kritisch bewertete Lücke macht das Update besonders dringlich.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab** — Score 7, observation — [Quelle](https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-06T10:48:00.000+00:00`, fetched `2026-07-07T01:02:30+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
