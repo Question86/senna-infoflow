@@ -6,18 +6,15 @@ ROOT = Path(__file__).resolve().parents[1]
 BRIEFINGS = ROOT / "briefings"
 DOCS = ROOT / "docs"
 
-
 def load_json(path, default):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         return default
 
-
 def clip(value, limit=260):
     text = "" if value is None else " ".join(str(value).split())
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
-
 
 def compact(item):
     return {
@@ -30,17 +27,13 @@ def compact(item):
         "summary": clip(item.get("summary")),
     }
 
-
 def top_items(latest):
     out = []
-    sections = latest.get("sections") if istance(latest, dict) else {}
+    sections = latest.get("sections") if isinstance(latest, dict) else {}
     if isinstance(sections, dict):
         for section in ("high", "medium", "observe"):
             values = [x for x in (sections.get(section) or []) if isinstance(x, dict)]
-            values.sort(
-                key=lambda x: (float(x.get("relevance_score") or 0), str(x.get("published_at") or "")),
-                reverse=True,
-            )
+            values.sort(key=lambda x: (float(x.get("relevance_score") or 0), str(x.get("published_at") or "")), reverse=True)
             for item in values[:4]:
                 row = compact(item)
                 row["section"] = section
@@ -51,17 +44,15 @@ def top_items(latest):
         out = [compact(x) for x in findings[:12]]
     return out[:12]
 
-
 def main():
     latest = load_json(BRIEFINGS / "latest.json", {})
     health = load_json(BRIEFINGS / "health.json", {})
     counts = latest.get("counts") if isinstance(latest, dict) else {}
     if not isinstance(counts, dict):
         counts = {}
-    coverage = latest.get("coverage") if istance(latest, dict) else {}
+    coverage = latest.get("coverage") if isinstance(latest, dict) else {}
     if not isinstance(coverage, dict):
         coverage = {}
-
     handoff = {
         "schema_version": 1,
         "doc_type": "senna.chat_handoff",
@@ -80,42 +71,23 @@ def main():
         "top_signals": top_items(latest),
         "next_read_order": [
             "briefings/chat_handoff.json",
+            "memory/index.json",
             "briefings/health.json",
-            "briefings/source_manifest.json",
             "briefings/latest.json only if deeper inspection is needed",
         ],
     }
-
     for base in (BRIEFINGS, DOCS):
         base.mkdir(parents=True, exist_ok=True)
         (base / "chat_handoff.json").write_text(json.dumps(handoff, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        lines = [
-            "# Senna Chat Handoff",
-            "",
-            f"_Generated: {handoff.get('generated_at')}_",
-            "",
-            "## Status",
-            f"- status: `{handoff.get('status')}`",
-            f"- findings: `{handoff['counts'].get('displayed_findings')}`",
-            "",
-            "## Top Signals",
-        ]
+        lines = ["# Senna Chat Handoff", "", f"_Generated: {handoff.get('generated_at')}_", "", "## Status",
+                 f"- status: `{handoff.get('status')}`", f"- findings: `{handoff['counts'].get('displayed_findings')}`", "", "## Top Signals"]
         for i, item in enumerate(handoff["top_signals"], 1):
-            lines += [
-                "",
-                f"### {i}. {item.get('title') or 'Untitled'}",
-                f"- source: {item.get('source)}",
-                f"- score: `{item.get('relevance_score')}`",
-                f"- published: `{item.get('published_at')}`",
-                f"- url: {item.get('url') or ''}",
-                f"- summary: {item.get('summary') or ''}",
-            ]
+            lines += ["", f"### {i}. {item.get('title') or 'Untitled'}", f"- source: {item.get('source') or 'unknown'}",
+                      f"- score: `{item.get('relevance_score')}`", f"- published: `{item.get('published_at')}`",
+                      f"- url: {item.get('url') or ''}", f"- summary: {item.get('summary') or ''}"]
         lines += ["", "END OF DOCUMENT", ""]
         (base / "chat_handoff.md").write_text("\n".join(lines), encoding="utf-8")
-
-    print("Wrote compact ChatGPT handoff.")
-
-
+    print(f"Wrote compact ChatGPT handoff with {len(handoff['top_signals'])} top signal(s).")
 
 if __name__ == "__main__":
     main()
