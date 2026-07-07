@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T06:17:01+00:00",
+  "generated_at": "2026-07-07T01:03:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,11 +64,21 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.",
-        "summary": "Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 250 thousand in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 250 thousand in MMI&gt;=IV.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549862",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550395",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Volcanic eruption is on going for Etna in Italy",
+        "summary": "Volcanic eruption is on going for Etna in Italy",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000142",
         "published_at": "",
         "metrics": {}
       },
@@ -79,26 +89,6 @@
         "summary": "Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877",
         "published_at": "",
         "metrics": {}
       }

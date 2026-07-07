@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.memory.topics",
+  "generated_at": "2026-07-07T01:02:57+00:00",
+  "topics": {
+    "ai": [
+      {
+        "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T12:39:21+00:00",
+        "relevance_score": 15,
+        "url": "https://note.com/zephel01/n/n0d53c62dca07"
+      },
+      {
+        "title": "Philip R. Lane: AI and monetary policy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-06T18:30:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html"
+      },
+      {
+        "title": "中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T10:19:55+00:00",
+        "relevance_score": 12,
+        "url": "https://japan.cnet.com/article/35250128/"
+      },
+      {
+        "title": "China’s web novel platforms embraced AI. Now they are fighting it",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-07-06T10:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T15:40:18+00:00",
+        "relevance_score": 8,
+        "url": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html"
+      },
+      {
+        "title": "Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T10:48:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html"
+      },
+      {
+        "title": "Why Antler is backing Chinese founders building away from China",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-06T07:30:32+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/why-antler-is-backing-chinese-founders-building-away-from-china-20260706/"
+      },
+      {
+        "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすればいい」という意見が出るが、IT業界関係者的には「要りません」という話→「知識と技術は後付けできても倫理観はネ…」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T14:17:51+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2717678"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Philip R. Lane: AI and monetary policy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-07-06T18:30:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html"
+      },
+      {
+        "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-06T15:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm"
+      },
+      {
+        "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-06T14:40:21+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html"
+      },
+      {
+        "title": "HeyMax First offers upfront miles, but the economics will face a real-world test",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-06T08:55:55+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-07-06T15:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm"
+      },
+      {
+        "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-06T14:40:21+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html"
+      },
+      {
+        "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-06T08:03:01+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/"
+      },
+      {
+        "title": "The first mover myth: Why being first rarely means winning",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T01:00:35+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-first-mover-myth-why-being-first-rarely-means-winning-20260706/"
+      }
+    ],
+    "security": [
+      {
+        "title": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-07-06T06:42:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html"
+      },
+      {
+        "title": "博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-07-06T06:25:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11023-3abe8-1.html"
+      },
+      {
+        "title": "Coolify: Kritische Lücken können Remote-Angriffe ermöglichen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T09:42:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Coolify-Kritische-Luecken-koennen-Remote-Angriffe-ermoeglichen-11354554.html"
+      },
+      {
+        "title": "OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T13:19:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html"
+      },
+      {
+        "title": "Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T10:48:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-06T08:03:01+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/"
+      }
+    ],
+    "general": [
+      {
+        "title": "医療DXに関するダッシュボードを公開しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-06T22:55:27+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx"
+      },
+      {
+        "title": "不正アクセスによるバンダイチャンネル大量退会についてまとめてみた - piyolog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T22:07:22+00:00",
+        "relevance_score": 5,
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/012552"
+      },
+      {
+        "title": "ソフトウェアの見積もり - kawasima",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-06T14:19:22+00:00",
+        "relevance_score": 5,
+        "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation="
+      }
+    ]
+  }
+}

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-06T06:16:58+00:00_
+_Generiert: 2026-07-07T01:02:57+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,22 +29,18 @@ _Generiert: 2026-07-06T06:16:58+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-23`
   - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549862)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 250 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550395)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:120.932km) in Indonesia 03/07/2026 02:31 UTC, 720 thousand in MMI&gt;=IV.
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 250 thousand in MMI&gt;=IV.
+- **GDACS: Volcanic eruption is on going for Etna in Italy** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000142)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Etna in Italy
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549901)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:75.804km) in Russia 03/07/2026 08:22 UTC, Few people affected in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1549877)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Japan 03/07/2026 04:04 UTC, 560 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -61,149 +57,156 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-06T04:43:04+00:00`, fetched `2026-07-06T04:42:49+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **When AI agents start acting on our behalf, security gets more complicated** — Score 23, opportunity — [Quelle](https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T02:00:49+00:00`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Security, Southeast Asia, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: For many Southeast Asian businesses, the promise of AI agents is easy to understand. A bank wants to resolve customer issues faster. A hospital wants to reduce administrative load. An e-commerce platform wants to automate repetitive inquiries from sellers. A logistics company wants systems that can coordinate routes, documents, and customer updates with less manual […] The post When AI agents start acting on our beh…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **asgeirtj/system_prompts_leaks** — Score 23, risk — [Quelle](https://github.com/asgeirtj/system_prompts_leaks)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. As seen in The Washington Post: See the hidden rules behind AI. Then use them to rewrite this article. (May 11, 2026) System Prompts Leaks T…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI and accessibility: The untapped solution to the cybersecurity skills gap** — Score 22, risk — [Quelle](https://e27.co/ai-and-accessibility-the-untapped-solution-to-the-cybersecurity-skills-gap-20260702/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T03:00:59+00:00`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Security
+- **16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01** — Score 15, observation — [Quelle](https://note.com/zephel01/n/n0d53c62dca07)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-06T12:39:21+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The cybersecurity industry faces a paradox. At the very moment when artificial intelligence, geopolitical tensions, ransomware operations, and digital transformation are increasing global cyber risks, organisations continue to struggle with one fundamental problem: there are not enough cybersecurity professionals. For years, the industry has attempted to solve this challenge by expanding training programmes, increas…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **alirezarezvani/claude-skills** — Score 20, observation — [Quelle](https://github.com/alirezarezvani/claude-skills)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 35…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Funded: AI is having its moment, climate is having a crisis. SEA can’t afford to confuse the two** — Score 17, observation — [Quelle](https://e27.co/funded-ai-is-having-its-moment-climate-is-having-a-crisis-sea-cant-afford-to-confuse-the-two-20260704/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T01:00:01+00:00`, fetched `2026-07-06T01:08:09+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: I’ve lived across Southeast Asia long enough to know what the heat feels like in five different cities. Jakarta. Ho Chi Minh City. Singapore. Kuala Lumpur. Manila. They all feel different. But they’re all on the same clock. I’m not a climate scientist. I’m not a fund manager with a climate mandate. I’m someone who […] The post Funded: AI is having its moment, climate is having a crisis. SEA can’t afford to confuse t…
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **Stop training your team: Why your rapid loop needs architecture, not coaching** — Score 12, observation — [Quelle](https://e27.co/stop-training-your-team-why-your-rapid-loop-needs-architecture-not-coaching-20260623/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T02:15:09+00:00`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: In the race to adopt AI, most startups are making a classic category error: they are trying to “coach” their way to speed. We see founders pouring capital into prompt engineering workshops and AI literacy seminars, yet the needle isn’t moving. The reason is simple: your talent isn’t the bottleneck—your organisational architecture is. According to […] The post Stop training your team: Why your rapid loop needs archit…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What building an AI food intelligence app taught us about Southeast Asia’s nutrition problem** — Score 10, observation — [Quelle](https://e27.co/what-building-an-ai-food-intelligence-app-taught-us-about-southeast-asias-nutrition-problem-20260702/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T01:45:03+00:00`, fetched `2026-07-06T01:54:24+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+- **Philip R. Lane: AI and monetary policy** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-06T18:30:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: AI/KI, Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: When my wife Pauline and I started building Naturegrade, we weren’t trying to launch a startup. We were trying to solve a problem that had frustrated us for years. As a food blogger, I spent more than a decade reviewing restaurants, studying ingredients, and observing how people made food choices. The more I learned, the […] The post What building an AI food intelligence app taught us about Southeast Asia’s nutritio…
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Philip R. Lane: AI and monetary policy
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **rommapp/romm** — Score 10, observation — [Quelle](https://github.com/rommapp/romm)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Public Health
+- **Waller, Two Thoughts on the Transmission of Monetary Policy** — Score 13, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-07-06T15:00:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: Macro/Policy, speech, testimony
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
-  - Kurz: A beautiful, powerful, self-hosted rom manager and player. A beautiful, powerful, self-hosted ROM manager and player. Overview RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators. Features Scan and enhance your game…
+  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-07-06T14:40:21+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 91 km WNW of Tamarindo, Costa Rica** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tacl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-06T02:58:04.040+00:00`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-06 02:37:31 UTC 2026-07-06 02:37:31 UTC at epicenter Location 10.750°N 86.543°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **SFから持ち帰ったAIエンジニアリングの現在地 〜AI Engineer World's Fair 2026 参加レポート〜｜kagaya** — Score 9, observation — [Quelle](https://note.com/r_kaga/n/n12bc279182d6)
+- **中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ** — Score 12, observation — [Quelle](https://japan.cnet.com/article/35250128/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-05T23:27:06+00:00`, fetched `2026-07-06T01:54:24+00:00`
+  - Zeit: published `2026-07-06T10:19:55+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: 中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Morning Postが報じた。 報道によると、バイトダンスはAIアプリ「豆包（Doubao）」でエージェント機能を7月15日に終了する。アリババ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **博格資訊管理顧問｜博格管理系統 - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-07-06T06:42:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 博格資訊管理顧問｜博格管理系統 - 存在2個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11023-3abe8-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-07-06T06:25:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **China’s web novel platforms embraced AI. Now they are fighting it** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-06T10:00:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Sites from Tencent, ByteDance, and Baidu set curbs like daily word limits for authors and stricter standards to combat poor-quality automated fiction.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Coolify: Kritische Lücken können Remote-Angriffe ermöglichen** — Score 10, observation — [Quelle](https://www.heise.de/news/Coolify-Kritische-Luecken-koennen-Remote-Angriffe-ermoeglichen-11354554.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-06T09:42:00.000+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.0); recent (+1.0)
+  - Kurz: Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Qapita launches ESOP SPV for Singapore-incorporated entities** — Score 9, observation — [Quelle](https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-06T08:03:01+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Qapita is an ESOP platform for startups through to listed companies, helping founders unlock the Power of Ownership for their stakeholders. Qapita’s focus aligns with a growing global trend: as startups stay private for longer, the complexity of managing cap tables, liquidity events, and investor reporting has created a surge in demand for various ESOP […] The post Qapita launches ESOP SPV for Singapore-incorporated…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞** — Score 8, observation — [Quelle](https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-06T15:40:18+00:00`, fetched `2026-07-07T01:02:30+00:00`
   - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: SFから持ち帰ったAIエンジニアリングの現在地 〜AI Engineer World's Fair 2026 参加レポート〜 会場の空気をひとことで言うと、「AIをどう使うか」ではなく、「AIにどう任せるか」でした。 セッション初日のメイントラックの名前はSoftware Factories。AIエージェントの集団に開発の仕事を任せる、という話です。 6,000...
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 中国湖北省武漢市で6月、野生のキノコを食べた9歳の少年が、一時は生死の境をさまよう出来事があった。AI（人工知能）で「安全」と判断されたが、猛毒の成分を持つキノコだったという。中国共産党系の地元紙「…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Leonxlnx/taste-skill** — Score 9, opportunity — [Quelle](https://github.com/Leonxlnx/taste-skill)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-06T03:08:06+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow, Webentwicklung
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote boilerplate (x0.45)
-  - Kurz: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop Taste Skill The Anti-Slop Frontend Framework for AI Agents Sponsors Emil Kowalski · animations.dev Become a sponsor Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (we…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Analysis: SEA’s June funding spike masks a narrow recovery in VC funding** — Score 8, observation — [Quelle](https://e27.co/analysis-seas-june-funding-spike-masks-a-narrow-recovery-in-vc-funding-20260706/)
+- **OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken** — Score 7, observation — [Quelle](https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-06T13:19:00.000+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Aktuelle Versionen der Open-Source-Firewall-Distribution schließen mehrere Einfallstore. Eine als kritisch bewertete Lücke macht das Update besonders dringlich.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab** — Score 7, observation — [Quelle](https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-06T10:48:00.000+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Antler is backing Chinese founders building away from China** — Score 7, observation — [Quelle](https://e27.co/why-antler-is-backing-chinese-founders-building-away-from-china-20260706/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-06T05:47:55+00:00`, fetched `2026-07-06T06:16:32+00:00`
-  - Treffer: APAC Trend Radar, funding, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s technology startups raised US$3.75 billion across 17 funding rounds in June 2026, marking a sharp rebound from May but also underlining how dependent the region’s headline venture numbers remain on a small number of outsized deals. According to data from Tracxn, total tech funding in the region rose 1,572 per cent from the […] The post Analysis: SEA’s June funding spike masks a narrow recovery in VC…
+  - Zeit: published `2026-07-06T07:30:32+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph demote demo (x0.45)
+  - Kurz: The venture capital world is awash with AI hype. Every fund claims to back the next frontier. Few can point to companies that have crossed from demo to dollars in under a year. Antler, the global early-stage VC with a growing Asia footprint, is making that claim and backing it with numbers. Jussi Salovaara, co-founder […] The post Why Antler is backing Chinese founders building away from China appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **中国AIがミュトスいぬ間に躍進 料金は20分の1、米企業も乗り換え - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN242Z50U6A620C2000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-06T03:34:26+00:00`, fetched `2026-07-06T04:42:49+00:00`
-  - Treffer: Hatena, hotentry
+- **医療DXに関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/healthcare-dx)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-06T22:55:27+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 米アンソロピックが米政府の指示で先端AI（人工知能）「ミュトス」の提供を停止していた間に、中国AIに乗り換える米企業が増えた。中国企業のAIは誰でも使える「オープン型」で、料金はミュトスの20分の1とコスパが高い。技術覇権を狙う米国勢は警戒感を強める。「AI利用のコストを半減できた」。暗号資産交換大手の米コ...
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 医療DXに関するダッシュボードを公開しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/review/2122218.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-06T00:31:40+00:00`, fetched `2026-07-06T06:16:32+00:00`
-  - Treffer: Hatena, hotentry
+- **HeyMax First offers upfront miles, but the economics will face a real-world test** — Score 6, observation — [Quelle](https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-06T08:55:55+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore-based travel rewards startup HeyMax has launched HeyMax First, a membership product that gives users access to miles before they have earned them, in a bid to reshape how frequent travellers think about redemption. The product allows members to draw down up to one million Max Miles upfront and use them for flight or hotel […] The post HeyMax First offers upfront miles, but the economics will face a real-wo…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
