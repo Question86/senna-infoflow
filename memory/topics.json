@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T15:58:19+00:00",
+  "generated_at": "2026-07-07T16:50:58+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-07T15:58:07+00:00",
+        "published_at": "2026-07-07T16:50:47+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -256,6 +256,13 @@
         "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
       },
       {
+        "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-07T16:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/"
+      },
+      {
         "title": "GitHub Copilot app available to all",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-07T15:10:14+00:00",
@@ -333,6 +340,13 @@
         "published_at": "2026-07-07T05:50:36+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ecosystem-roundup-can-antlers-one-asia-thesis-survive-the-ai-hype-cycle-20260707/"
+      },
+      {
+        "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-07T16:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/"
       },
       {
         "title": "HeyMax First offers upfront miles, but the economics will face a real-world test",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T15:58:19+00:00",
-  "run_id": "2026-07-07T15:58:19+00:00",
+  "generated_at": "2026-07-07T16:50:58+00:00",
+  "run_id": "2026-07-07T16:50:58+00:00",
   "date": "2026-07-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 3,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
     "medium": 11,
-    "observe": 51,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-07T15:58:07+00:00",
-        "fetched_at": "2026-07-07T15:57:52+00:00",
+        "published_at": "2026-07-07T16:50:47+00:00",
+        "fetched_at": "2026-07-07T16:50:32+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "6a00a0112ae942dff31f"
+        "id": "200582297fb246c07eb3"
       },
       {
         "title": "M 5.4 - 162 km NNW of Tobelo, Indonesia",
@@ -896,6 +896,27 @@
         "id": "ce2b6b04c7161168db1a"
       },
       {
+        "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+        "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-07T16:00:00+00:00",
+        "fetched_at": "2026-07-07T16:50:32+00:00",
+        "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ca3dd1f02c9d82f0d9d"
+      },
+      {
         "title": "Zimbra Collaboration Suite: Kritische Lücke macht Classic Web Client angreifbar",
         "url": "https://www.heise.de/news/Zimbra-Collaboration-Suite-Kritische-Luecke-macht-Classic-Web-Client-angreifbar-11356522.html",
         "source": "heise Security Alerts",
@@ -1288,6 +1309,27 @@
         "id": "43ea674785d971190b56"
       },
       {
+        "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+        "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-07T05:01:55+00:00",
+        "fetched_at": "2026-07-07T16:50:32+00:00",
+        "summary": "本記事では、最新のAIエージェントを使いこなすためのテクニックについて、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「FableレベルのAIを使いこなすため」のガイド記事[1]について、日...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c2d9303eec9c00c12d76"
+      },
+      {
         "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
         "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1541,8 +1583,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-07T15:58:07+00:00",
-      "fetched_at": "2026-07-07T15:57:52+00:00",
+      "published_at": "2026-07-07T16:50:47+00:00",
+      "fetched_at": "2026-07-07T16:50:32+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1576,7 +1618,7 @@
         "HD",
         "LOW"
       ],
-      "id": "6a00a0112ae942dff31f"
+      "id": "200582297fb246c07eb3"
     },
     {
       "title": "M 5.4 - 162 km NNW of Tobelo, Indonesia",
@@ -2401,6 +2443,27 @@
       "id": "ce2b6b04c7161168db1a"
     },
     {
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "fetched_at": "2026-07-07T16:50:32+00:00",
+      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ca3dd1f02c9d82f0d9d"
+    },
+    {
       "title": "Zimbra Collaboration Suite: Kritische Lücke macht Classic Web Client angreifbar",
       "url": "https://www.heise.de/news/Zimbra-Collaboration-Suite-Kritische-Luecke-macht-Classic-Web-Client-angreifbar-11356522.html",
       "source": "heise Security Alerts",
@@ -2793,6 +2856,27 @@
       "id": "43ea674785d971190b56"
     },
     {
+      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T05:01:55+00:00",
+      "fetched_at": "2026-07-07T16:50:32+00:00",
+      "summary": "本記事では、最新のAIエージェントを使いこなすためのテクニックについて、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「FableレベルのAIを使いこなすため」のガイド記事[1]について、日...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c2d9303eec9c00c12d76"
+    },
+    {
       "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3045,8 +3129,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-07T15:58:07+00:00",
-      "fetched_at": "2026-07-07T15:57:52+00:00",
+      "published_at": "2026-07-07T16:50:47+00:00",
+      "fetched_at": "2026-07-07T16:50:32+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3080,79 +3164,37 @@
         "HD",
         "LOW"
       ],
-      "id": "6a00a0112ae942dff31f"
+      "id": "200582297fb246c07eb3"
     },
     {
-      "title": "Restrict who can dismiss reviews in rulesets",
-      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "source": "GitHub Changelog Atom",
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-07T15:15:54+00:00",
-      "fetched_at": "2026-07-07T15:57:52+00:00",
-      "summary": "You can now restrict who can dismiss pull request reviews directly in GitHub repository rulesets. This capability is generally available and gives you precise control over who can clear an… The post Restrict who can dismiss reviews in rulesets appeared first on The GitHub Blog .",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "fetched_at": "2026-07-07T16:50:32+00:00",
+      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
       "matched_keywords": [
         "GitHub",
-        "Public Health"
+        "Open Source"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Public Health (+6.2); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 7,
+      "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "52f2f663c48640d7f30a"
+      "id": "0ca3dd1f02c9d82f0d9d"
     },
     {
-      "title": "GitHub Copilot app available to all",
-      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-07T15:10:14+00:00",
-      "fetched_at": "2026-07-07T15:57:52+00:00",
-      "summary": "The GitHub Copilot app is now available on every Copilot plan. Sign in with your GitHub account to start agent-driven development from your desktop. Available on macOS, Windows, and Linux… The post GitHub Copilot app available to all appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "778aac2dcbe73fbee32d"
-    },
-    {
-      "title": "Copilot Billing Preview app will be retired on August 3",
-      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-07T14:51:13+00:00",
-      "fetched_at": "2026-07-07T15:57:52+00:00",
-      "summary": "The Copilot Billing Preview app will be retired on August 3, 2026. If you use it to review your GitHub Copilot spend, you can get even greater visibility directly in… The post Copilot Billing Preview app will be retired on August 3 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "75fb3f850bffe034e891"
-    },
-    {
-      "title": "KDDIのISP事業者向けメールシステムへの不正アクセスについてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
+      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-07T09:26:43+00:00",
-      "fetched_at": "2026-07-07T15:57:52+00:00",
-      "summary": "2026年6月23日、KDDI株式会社は、同社がISP事業者向けに提供するメールシステムが不正アクセスを受け、STNet・JCOMなど6社のメールサービスに関する情報の一部が外部に漏えいした可能性があると公表しました。その後、総務省による報告徴収や、関連が疑われるフィッシングメールに関する注意喚起も行われています。ここ...",
+      "published_at": "2026-07-07T05:01:55+00:00",
+      "fetched_at": "2026-07-07T16:50:32+00:00",
+      "summary": "本記事では、最新のAIエージェントを使いこなすためのテクニックについて、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「FableレベルのAIを使いこなすため」のガイド記事[1]について、日...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3164,7 +3206,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a0bbd1c988d6a23202b6"
+      "id": "c2d9303eec9c00c12d76"
     }
   ],
   "source_errors": [],

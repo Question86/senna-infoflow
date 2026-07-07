@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-07T15:58:07+00:00",
-    "fetched_at": "2026-07-07T15:57:52+00:00",
+    "published_at": "2026-07-07T16:50:47+00:00",
+    "fetched_at": "2026-07-07T16:50:32+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "6a00a0112ae942dff31f"
+    "id": "200582297fb246c07eb3"
   },
   {
     "title": "M 5.4 - 162 km NNW of Tobelo, Indonesia",
@@ -864,6 +864,27 @@
     "id": "ce2b6b04c7161168db1a"
   },
   {
+    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-07T16:00:00+00:00",
+    "fetched_at": "2026-07-07T16:50:32+00:00",
+    "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ca3dd1f02c9d82f0d9d"
+  },
+  {
     "title": "Zimbra Collaboration Suite: Kritische Lücke macht Classic Web Client angreifbar",
     "url": "https://www.heise.de/news/Zimbra-Collaboration-Suite-Kritische-Luecke-macht-Classic-Web-Client-angreifbar-11356522.html",
     "source": "heise Security Alerts",
@@ -1254,6 +1275,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "43ea674785d971190b56"
+  },
+  {
+    "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+    "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T05:01:55+00:00",
+    "fetched_at": "2026-07-07T16:50:32+00:00",
+    "summary": "本記事では、最新のAIエージェントを使いこなすためのテクニックについて、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「FableレベルのAIを使いこなすため」のガイド記事[1]について、日...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c2d9303eec9c00c12d76"
   },
   {
     "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
