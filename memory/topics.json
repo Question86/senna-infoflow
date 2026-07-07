@@ -1,15 +1,36 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T01:42:41+00:00",
+  "generated_at": "2026-07-07T02:40:29+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "addyosmani/agent-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 17,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
       {
         "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-06T12:39:21+00:00",
         "relevance_score": 15,
         "url": "https://note.com/zephel01/n/n0d53c62dca07"
+      },
+      {
+        "title": "How to capture AI’s gains without wrecking your company",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:00:27+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/how-to-capture-ais-gains-without-wrecking-your-company-20260705/"
+      },
+      {
+        "title": "How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:30:48+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/how-vietnam-is-emerging-as-a-leading-ai-builder-ecosystem-in-southeast-asia-20260705/"
       },
       {
         "title": "Philip R. Lane: AI and monetary policy",
@@ -24,6 +45,13 @@
         "published_at": "2026-07-06T10:19:55+00:00",
         "relevance_score": 12,
         "url": "https://japan.cnet.com/article/35250128/"
+      },
+      {
+        "title": "Tech businesses should play the AI field rather than bet on a single winner",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T01:45:19+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/tech-businesses-should-play-the-ai-field-rather-than-bet-on-a-single-winner-20260705/"
       },
       {
         "title": "China’s web novel platforms embraced AI. Now they are fighting it",
@@ -45,30 +73,46 @@
         "published_at": "2026-07-06T15:40:18+00:00",
         "relevance_score": 8,
         "url": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "addyosmani/agent-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 17,
+        "url": "https://github.com/addyosmani/agent-skills"
       },
       {
-        "title": "Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-06T10:48:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html"
-      },
-      {
-        "title": "Why Antler is backing Chinese founders building away from China",
+        "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-06T07:30:32+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/why-antler-is-backing-chinese-founders-building-away-from-china-20260706/"
+        "published_at": "2026-07-06T08:03:01+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/"
       },
       {
-        "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすればいい」という意見が出るが、IT業界関係者的には「要りません」という話→「知識と技術は後付けできても倫理観はネ…」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-06T14:17:51+00:00",
+        "title": "Human value in the AI era is not what most people think",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T01:15:54+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
+      },
+      {
+        "title": "ruvnet/RuView",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
         "relevance_score": 5,
-        "url": "https://togetter.com/li/2717678"
+        "url": "https://github.com/ruvnet/RuView"
       }
     ],
     "geopolitics": [
+      {
+        "title": "addyosmani/agent-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 17,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
       {
         "title": "Philip R. Lane: AI and monetary policy",
         "source": "ECB Press Releases Speeches Interviews",
@@ -96,6 +140,57 @@
         "published_at": "2026-07-06T08:55:55+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-07T11:15:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU93316066/"
+      },
+      {
+        "title": "HP Deskjet 2800プリンターシリーズにおける認証不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-07T11:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90409906/"
+      },
+      {
+        "title": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-07-06T06:42:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html"
+      },
+      {
+        "title": "博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-07-06T06:25:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11023-3abe8-1.html"
+      },
+      {
+        "title": "Coolify: Kritische Lücken können Remote-Angriffe ermöglichen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T09:42:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Coolify-Kritische-Luecken-koennen-Remote-Angriffe-ermoeglichen-11354554.html"
+      },
+      {
+        "title": "OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T13:19:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html"
+      },
+      {
+        "title": "Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-06T10:48:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html"
       }
     ],
     "economy": [
@@ -135,6 +230,20 @@
         "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
       },
       {
+        "title": "ruvnet/RuView",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      {
+        "title": "Why reach doesn’t equal credibility in the creator economy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T02:15:26+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-reach-doesnt-equal-credibility-in-the-creator-economy-20260705/"
+      },
+      {
         "title": "The first mover myth: Why being first rarely means winning",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-07T01:00:35+00:00",
@@ -142,60 +251,14 @@
         "url": "https://e27.co/the-first-mover-myth-why-being-first-rarely-means-winning-20260706/"
       }
     ],
-    "security": [
-      {
-        "title": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-07-06T06:42:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html"
-      },
-      {
-        "title": "博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-07-06T06:25:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11023-3abe8-1.html"
-      },
-      {
-        "title": "Coolify: Kritische Lücken können Remote-Angriffe ermöglichen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-06T09:42:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Coolify-Kritische-Luecken-koennen-Remote-Angriffe-ermoeglichen-11354554.html"
-      },
-      {
-        "title": "OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-06T13:19:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html"
-      },
-      {
-        "title": "Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-06T10:48:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html"
-      }
-    ],
-    "github": [
-      {
-        "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-06T08:03:01+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/"
-      },
-      {
-        "title": "Human value in the AI era is not what most people think",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T01:15:54+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/"
-      }
-    ],
     "general": [
+      {
+        "title": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-07T02:19:27+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260707-01"
+      },
       {
         "title": "医療DXに関するダッシュボードを公開しました",
         "source": "Japan Digital Agency News RSS",
@@ -216,6 +279,13 @@
         "published_at": "2026-07-06T14:19:22+00:00",
         "relevance_score": 5,
         "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation="
+      },
+      {
+        "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-05T19:50:07+00:00",
+        "relevance_score": 5,
+        "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564"
       }
     ]
   }

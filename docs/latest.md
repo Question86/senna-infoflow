@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T01:42:41+00:00_
+_Generiert: 2026-07-07T02:40:29+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01“ aus Hatena Bookmark Hotentry IT (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+32 neue relevante Treffer. Stärkstes Signal: „addyosmani/agent-skills“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **addyosmani/agent-skills** — Score 17, opportunity — [Quelle](https://github.com/addyosmani/agent-skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-07T02:39:58+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01** — Score 15, observation — [Quelle](https://note.com/zephel01/n/n0d53c62dca07)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-06T12:39:21+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -21,9 +30,45 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93316066/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-07T11:15:15+09:00`, fetched `2026-07-07T02:39:58+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **HP Deskjet 2800プリンターシリーズにおける認証不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90409906/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-07T11:15:00+09:00`, fetched `2026-07-07T02:39:58+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How to capture AI’s gains without wrecking your company** — Score 14, observation — [Quelle](https://e27.co/how-to-capture-ais-gains-without-wrecking-your-company-20260705/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-07T02:00:27+00:00`, fetched `2026-07-07T02:39:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Anthropic, Meta, Block and Klarna show why the main barrier to AI productivity is organisational design, not model capability. Executives have largely stopped asking whether their companies should use AI. The real question is how aggressively they should deploy it — and, more importantly, how quickly they should remove people once AI appears capable of […] The post How to capture AI’s gains without wrecking your com…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia** — Score 13, opportunity — [Quelle](https://e27.co/how-vietnam-is-emerging-as-a-leading-ai-builder-ecosystem-in-southeast-asia-20260705/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-07T02:30:48+00:00`, fetched `2026-07-07T02:39:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Over the past two years, I have visited Vietnam several times to run workshops, hackathons, and developer community programs. I first went to Ho Chi Minh City in June 2024 for Tech in Asia. Since then, I have returned multiple times for developer events, community sessions, and most recently Lotus Hacks in March 2026. I […] The post How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia appeared…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Philip R. Lane: AI and monetary policy** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-06T18:30:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -78,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Tech businesses should play the AI field rather than bet on a single winner** — Score 10, observation — [Quelle](https://e27.co/tech-businesses-should-play-the-ai-field-rather-than-bet-on-a-single-winner-20260705/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-07T01:45:19+00:00`, fetched `2026-07-07T02:39:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
+  - Kurz: Some in the technology industry believe businesses should pick one or two artificial intelligence winners and focus their AI budgets on them. I believe that’s exactly the wrong advice, especially for organisations in South-east Asia. I base that conclusion on three observations. First, no single AI tool is best at everything, and sometimes a less […] The post Tech businesses should play the AI field rather than bet…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **China’s web novel platforms embraced AI. Now they are fighting it** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-06T10:00:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -104,24 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Qapita is an ESOP platform for startups through to listed companies, helping founders unlock the Power of Ownership for their stakeholders. Qapita’s focus aligns with a growing global trend: as startups stay private for longer, the complexity of managing cap tables, liquidity events, and investor reporting has created a surge in demand for various ESOP […] The post Qapita launches ESOP SPV for Singapore-incorporated…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why money won’t save Bangladesh’s startups: The ecosystem readiness crisis** — Score 8, observation — [Quelle](https://e27.co/why-money-wont-save-bangladeshs-startups-the-ecosystem-readiness-crisis-20260704/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-07T01:30:34+00:00`, fetched `2026-07-07T01:42:05+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: In the global venture theatre, there is a persistent myth that capital is the primary protagonist. We are conditioned to believe that if we simply pour enough liquidity into an emerging market, innovation will inevitably scale, and prosperity will follow. In Bangladesh, however, this narrative is colliding with a sobering reality. Despite a surge of […] The post Why money won’t save Bangladesh’s startups: The ecosys…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Human value in the AI era is not what most people think** — Score 8, observation — [Quelle](https://e27.co/human-value-in-the-ai-era-is-not-what-most-people-think-20260704/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-07T01:15:54+00:00`, fetched `2026-07-07T01:42:05+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Every AI conversation seems to begin with the same question: what can AI do better than humans? It is an understandable question since AI can now analyse information quickly, summarise long reports, generate first drafts, support customer service, and automate tasks that used to take hours. For many companies, the appeal is immediate. If a […] The post Human value in the AI era is not what most people think appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞** — Score 8, observation — [Quelle](https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -150,24 +186,22 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **医療DXに関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/healthcare-dx)
+- **松本大臣記者会見（令和8年7月7日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260707-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-06T22:55:27+00:00`, fetched `2026-07-07T01:02:30+00:00`
+  - Zeit: published `2026-07-07T02:19:27+00:00`, fetched `2026-07-07T02:39:58+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 医療DXに関するダッシュボードを公開しました
+  - Kurz: 松本大臣記者会見（令和8年7月7日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fc1fe2e3610>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

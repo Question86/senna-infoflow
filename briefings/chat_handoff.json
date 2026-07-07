@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-07T01:42:41+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-07-07T02:40:29+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 10,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
-    "medium": 1,
-    "observe": 21
+    "medium": 5,
+    "observe": 27
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "addyosmani/agent-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 17,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are pa…",
+      "section": "medium"
+    },
     {
       "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
       "source": "Hatena Bookmark Hotentry IT",
@@ -23,6 +33,36 @@
       "url": "https://note.com/zephel01/n/n0d53c62dca07",
       "summary": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...",
       "section": "medium"
+    },
+    {
+      "title": "Tenda製品の複数のファームウェアにおけるセキュリティ上問題のある隠し機能の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-07T11:15:15+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU93316066/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "HP Deskjet 2800プリンターシリーズにおける認証不備の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-07T11:15:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU90409906/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-07T02:30:48+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/how-vietnam-is-emerging-as-a-leading-ai-builder-ecosystem-in-southeast-asia-20260705/",
+      "summary": "Over the past two years, I have visited Vietnam several times to run workshops, hackathons, and developer community programs. I first went to Ho Chi Minh City in June 2024 for Tech in Asia. Since then, I have returned multiple times for developer events, comm…",
+      "section": "observe"
     },
     {
       "title": "Philip R. Lane: AI and monetary policy",
@@ -52,16 +92,6 @@
       "relevance_score": 12,
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html",
       "summary": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "section": "observe"
-    },
-    {
-      "title": "中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-06T10:19:55+00:00",
-      "relevance_score": 12,
-      "url": "https://japan.cnet.com/article/35250128/",
-      "summary": "中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Morning Postが報じた。 報道によると、バイトダンスはAIアプリ「豆包（Doubao）」でエージェント機能を7月15日に終了する。アリババ...",
       "section": "observe"
     }
   ],

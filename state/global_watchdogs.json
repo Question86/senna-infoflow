@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T01:42:43+00:00",
+  "generated_at": "2026-07-07T02:40:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2025-67038"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550528",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
