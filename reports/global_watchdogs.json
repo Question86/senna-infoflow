@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T18:21:00+00:00",
+  "generated_at": "2026-07-07T19:06:16+00:00",
   "sections": {
     "global_security": [
       {
@@ -41,6 +41,18 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2026-48282 Adobe ColdFusion",
+        "summary": "Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Adobe ColdFusion Path Traversal Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-07",
+        "metrics": {
+          "cve": "CVE-2026-48282"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2026-45659 Microsoft SharePoint Server",
         "summary": "Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability",
         "source": "CISA KEV",
@@ -48,18 +60,6 @@
         "published_at": "2026-07-01",
         "metrics": {
           "cve": "CVE-2026-45659"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-48558 SimpleHelp  SimpleHelp",
-        "summary": "Known exploited vulnerability. Added 2026-06-29. Due 2026-07-02. SimpleHelp Authentication Bypass Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-06-29",
-        "metrics": {
-          "cve": "CVE-2026-48558"
         }
       },
       {

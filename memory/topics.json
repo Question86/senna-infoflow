@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T18:20:57+00:00",
+  "generated_at": "2026-07-07T19:06:13+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-07T18:20:44+00:00",
+        "published_at": "2026-07-07T19:06:02+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -54,6 +54,13 @@
         "url": "https://e27.co/how-to-capture-ais-gains-without-wrecking-your-company-20260705/"
       },
       {
+        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-07T00:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/australian-payments-plus"
+      },
+      {
         "title": "How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-07T02:30:48+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-06T18:30:00+00:00",
         "relevance_score": 13,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html"
-      },
-      {
-        "title": "Secret scanning extended metadata and multipart validation",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-07T16:43:04+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation"
       }
     ],
     "general": [
@@ -82,6 +82,13 @@
         "published_at": "2026-07-07T07:51:29.127+00:00",
         "relevance_score": 19,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg"
+      },
+      {
+        "title": "M 5.3 - 10 km WSW of Orotina, Costa Rica",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-07T19:01:10.438+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc"
       },
       {
         "title": "M 5.0 - Reykjanes Ridge",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-07T09:26:43+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112"
-      },
-      {
-        "title": "Windows 11で空き容量が0バイトになる恐れ 影響を確認して速やかに対策を",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-07T09:24:03+00:00",
-        "relevance_score": 5,
-        "url": "https://news.mynavi.jp/techplus/article/20260707-4672951/"
       }
     ],
     "economy": [

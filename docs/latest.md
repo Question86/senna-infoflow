@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T18:20:57+00:00_
+_Generiert: 2026-07-07T19:06:13+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+70 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-07T18:20:44+00:00`, fetched `2026-07-07T18:20:27+00:00`
+  - Zeit: published `2026-07-07T19:06:02+00:00`, fetched `2026-07-07T19:05:47+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -110,6 +110,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
   - Kurz: Anthropic, Meta, Block and Klarna show why the main barrier to AI productivity is organisational design, not model capability. Executives have largely stopped asking whether their companies should use AI. The real question is how aggressively they should deploy it — and, more importantly, how quickly they should remove people once AI appears capable of […] The post How to capture AI’s gains without wrecking your com…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Australian Payments Plus moves faster with ChatGPT and Codex** — Score 14, observation — [Quelle](https://openai.com/index/australian-payments-plus)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-07T00:00:00+00:00`, fetched `2026-07-07T19:05:47+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -240,15 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.0); recent (+1.0)
   - Kurz: Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Restrict who can dismiss reviews in rulesets** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-07T15:15:54+00:00`, fetched `2026-07-07T15:57:52+00:00`
-  - Treffer: GitHub, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Public Health (+6.2); GitHub (+2.0); recent (+1.0)
-  - Kurz: You can now restrict who can dismiss pull request reviews directly in GitHub repository rulesets. This capability is generally available and gives you precise control over who can clear an… The post Restrict who can dismiss reviews in rulesets appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 10 km WSW of Orotina, Costa Rica** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-07T19:01:10.438+00:00`, fetched `2026-07-07T19:05:47+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-07-07 18:11:32 UTC 2026-07-07 18:11:32 UTC at epicenter Location 9.864°N 84.604°W Depth 47.78 km (29.69 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
