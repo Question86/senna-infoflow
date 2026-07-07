@@ -394,6 +394,27 @@
     "id": "800a86b8fd726e7631b5"
   },
   {
+    "title": "Secret scanning extended metadata and multipart validation",
+    "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-07T16:43:04+00:00",
+    "fetched_at": "2026-07-07T17:34:29+00:00",
+    "summary": "To help you understand ownership and impact of a leaked secret, GitHub secret scanning surfaces enriched metadata for supported secret types. Extended metadata checks are now generally available, including support… The post Secret scanning extended metadata and multipart validation appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a8d5e1aecd44742186de"
+  },
+  {
     "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
     "url": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T16:50:58+00:00_
+_Generiert: 2026-07-07T17:34:55+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationが提供するJena Fusekiには、パストラバーサルの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Secret scanning extended metadata and multipart validation** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-07T16:43:04+00:00`, fetched `2026-07-07T17:34:29+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: To help you understand ownership and impact of a leaked secret, GitHub secret scanning surfaces enriched metadata for supported secret types. Extended metadata checks are now generally available, including support… The post Secret scanning extended metadata and multipart validation appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cloudflareに独自ドメインのメールクライアントを構築した** — Score 12, observation — [Quelle](https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-06T17:15:46+00:00`, fetched `2026-07-07T04:04:42+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Backed by the state, Chinese workers are using AI to deal with limited resources and drive innovation to compete with Silicon Valley.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-07T08:47:29.040+00:00`, fetched `2026-07-07T09:17:33+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-07 08:30:56 UTC 2026-07-07 08:30:56 UTC at epicenter Location 59.477°N 30.368°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
