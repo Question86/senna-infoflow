@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T22:33:55+00:00",
+  "generated_at": "2026-07-07T22:57:28+00:00",
   "topics": {
     "ai": [
       {
@@ -105,11 +105,32 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tasa"
       },
       {
+        "title": "M 4.6 - 13 km SSE of Yibin, China",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-07T22:47:22.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tati"
+      },
+      {
         "title": "M 5.1 - 14 km W of Changning, China",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-07T22:28:51.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd"
+      },
+      {
+        "title": "情報処理技術者試験の大幅刷新--資格からスキル証明へ転換",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T02:32:36+00:00",
+        "relevance_score": 10,
+        "url": "https://japan.zdnet.com/article/35250106/"
+      },
+      {
+        "title": "M 4.8 - 12 km ESE of Karakenja, Tajikistan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-07T22:56:41.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatn"
       },
       {
         "title": "M 5.3 - 10 km WSW of Orotina, Costa Rica",
@@ -124,27 +145,6 @@
         "published_at": "2026-07-07T08:47:29.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm"
-      },
-      {
-        "title": "M 5.3 - Reykjanes Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-07T06:13:04.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
-      },
-      {
-        "title": "M 5.0 - Reykjanes Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-07T05:15:56.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takw"
-      },
-      {
-        "title": "松本大臣記者会見（令和8年7月7日）動画を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-07T02:19:27+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/speech/minister-260707-01"
       }
     ],
     "economy": [
@@ -270,6 +270,13 @@
         "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/"
       },
       {
+        "title": "わずか5MBのAIモデルをウェブサイトに組み込んでユーザーにローカル操作させられる「ternlight」が登場、ウェブサイトにAIを活用した検索機能などを追加可能",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T14:04:25+00:00",
+        "relevance_score": 7,
+        "url": "https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/"
+      },
+      {
         "title": "GitHub Copilot app available to all",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-07T15:10:14+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-07-07T14:51:13+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3"
-      },
-      {
-        "title": "Food delivery’s old consolidation model is cracking in East Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-07T08:27:52+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/food-deliverys-old-consolidation-model-is-cracking-in-east-asia-20260707/"
       }
     ],
     "geopolitics": [

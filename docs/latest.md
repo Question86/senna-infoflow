@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T22:33:55+00:00_
+_Generiert: 2026-07-07T22:57:28+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: 中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Morning Postが報じた。 報道によると、バイトダンスはAIアプリ「豆包（Doubao）」でエージェント機能を7月15日に終了する。アリババ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 13 km SSE of Yibin, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tati)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-07T22:47:22.040+00:00`, fetched `2026-07-07T22:56:58+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-07 22:22:13 UTC 2026-07-07 22:22:13 UTC at epicenter Location 28.657°N 104.712°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 14 km W of Changning, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-07T22:28:51.040+00:00`, fetched `2026-07-07T22:33:29+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-07 22:12:29 UTC 2026-07-07 22:12:29 UTC at epicenter Location 28.590°N 104.772°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 298 km SSE of Ushuaia, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tar3)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-07T18:20:25.040+00:00`, fetched `2026-07-07T18:20:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-07 17:39:56 UTC 2026-07-07 17:39:56 UTC at epicenter Location 57.354°S 66.818°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **博格資訊管理顧問｜博格管理系統 - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
@@ -258,6 +258,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 博格資訊管理顧問｜ERP App - Use of Hard-coded Credentials
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **情報処理技術者試験の大幅刷新--資格からスキル証明へ転換** — Score 10, observation — [Quelle](https://japan.zdnet.com/article/35250106/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-07T02:32:36+00:00`, fetched `2026-07-07T22:56:58+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 2027年度に情報処理推進機構（IPA）の情報処理技術者試験が大きく様変わりする。経済産業省とIPAは、応用情報技術者試験・高度試験を中心とした試験体系を見直し、試験区分の再...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Tech businesses should play the AI field rather than bet on a single winner** — Score 10, observation — [Quelle](https://e27.co/tech-businesses-should-play-the-ai-field-rather-than-bet-on-a-single-winner-20260705/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-07T01:45:19+00:00`, fetched `2026-07-07T02:39:58+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: Some in the technology industry believe businesses should pick one or two artificial intelligence winners and focus their AI budgets on them. I believe that’s exactly the wrong advice, especially for organisations in South-east Asia. I base that conclusion on three observations. First, no single AI tool is best at everything, and sometimes a less […] The post Tech businesses should play the AI field rather than bet…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **China’s web novel platforms embraced AI. Now they are fighting it** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-06T10:00:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Sites from Tencent, ByteDance, and Baidu set curbs like daily word limits for authors and stricter standards to combat poor-quality automated fiction.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
