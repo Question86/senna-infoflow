@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T13:57:04+00:00",
-  "run_id": "2026-07-07T13:57:04+00:00",
+  "generated_at": "2026-07-07T15:00:45+00:00",
+  "run_id": "2026-07-07T15:00:45+00:00",
   "date": "2026-07-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 1,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
     "medium": 11,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1181,6 +1181,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0bd6e16022ef1220b6d6"
+      },
+      {
+        "title": "AIコーディング時代の生き抜き方",
+        "url": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-07T05:10:52+00:00",
+        "fetched_at": "2026-07-07T15:00:19+00:00",
+        "summary": "生成AIを活用したコーディングはかなり広く使われるようになり、プログラマーは開発スタイルを大幅に変える必要があることは共通の認識になりつつある。一方で、今後どのようなアプローチで開発スタイルを変更していくかは議論の余地がありまだ明確な答えが出揃っていない段階に思える。 …という書き出しで以前個人サイ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "43ea674785d971190b56"
       },
       {
         "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
@@ -2583,6 +2604,27 @@
       "id": "0bd6e16022ef1220b6d6"
     },
     {
+      "title": "AIコーディング時代の生き抜き方",
+      "url": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T05:10:52+00:00",
+      "fetched_at": "2026-07-07T15:00:19+00:00",
+      "summary": "生成AIを活用したコーディングはかなり広く使われるようになり、プログラマーは開発スタイルを大幅に変える必要があることは共通の認識になりつつある。一方で、今後どのようなアプローチで開発スタイルを変更していくかは議論の余地がありまだ明確な答えが出揃っていない段階に思える。 …という書き出しで以前個人サイ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43ea674785d971190b56"
+    },
+    {
       "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2831,13 +2873,13 @@
   ],
   "new_findings": [
     {
-      "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
-      "url": "https://anond.hatelabo.jp/20260707183302",
+      "title": "AIコーディング時代の生き抜き方",
+      "url": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-07T09:38:18+00:00",
-      "fetched_at": "2026-07-07T13:56:37+00:00",
-      "summary": "お父さんは元オタクで、私の名前が実は昔のアニメやゲームキャラの名前が由来と知って高校の頃、軽く幻滅したけど元ネタの作品と曲は綺麗だからさらに無性に複雑な気分になった程度にそういう環境で生まれ育って、 一緒に大学進学した友達から誘われて、割合時間のわりにバイト代がいいから始めて、そんなに経験年数はな...",
+      "published_at": "2026-07-07T05:10:52+00:00",
+      "fetched_at": "2026-07-07T15:00:19+00:00",
+      "summary": "生成AIを活用したコーディングはかなり広く使われるようになり、プログラマーは開発スタイルを大幅に変える必要があることは共通の認識になりつつある。一方で、今後どのようなアプローチで開発スタイルを変更していくかは議論の余地がありまだ明確な答えが出揃っていない段階に思える。 …という書き出しで以前個人サイ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2849,28 +2891,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "35c15f033059f752b03b"
-    },
-    {
-      "title": "Windows 11で空き容量が0バイトになる恐れ 影響を確認して速やかに対策を",
-      "url": "https://news.mynavi.jp/techplus/article/20260707-4672951/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-07T09:24:03+00:00",
-      "fetched_at": "2026-07-07T13:56:37+00:00",
-      "summary": "Windows Latestは7月6日(現地時間)、「Microsoft admits a Windows 11 bug is eating up to 500GB of storage, verify if you are affected」において、Windows 11がストレージを勝手に数百GB消費する不具合の影響を受けているかどうかを確認する方法を伝えた。 これはCapabilityAccessManagerサービスのデータベースフ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee591f10246aa0c4e38d"
+      "id": "43ea674785d971190b56"
     }
   ],
   "source_errors": [],
