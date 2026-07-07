@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-07T05:29:54+00:00_
+_Generated: 2026-07-07T06:50:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `45`
 
 ## Top Signals
 
-### 1. How to fix corporate AI training: A practical guide
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-07-07T06:49:55+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. How to fix corporate AI training: A practical guide
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-07-07T02:45:12+00:00`
 - url: https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/
 - summary: Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen…
 
-### 2. addyosmani/agent-skills
+### 3. addyosmani/agent-skills
 - source: GitHub Trending RSS All Languages Daily
 - score: `17`
 - published: `None`
 - url: https://github.com/addyosmani/agent-skills
 - summary: Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are pa…
 
-### 3. 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01
+### 4. 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01
 - source: Hatena Bookmark Hotentry IT
 - score: `15`
 - published: `2026-07-06T12:39:21+00:00`
 - url: https://note.com/zephel01/n/n0d53c62dca07
 - summary: 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版) このノートは「手元の 16GB の Mac やノート PC で、Claude Code をローカル LLM で動かしたい」という人向けの実用ガイドです。2026 年 4〜7 月の X / Reddit(r/LocalLLaMA)の議論を調査した...
-
-### 4. 複数のセイコーエプソン製プリンターおよびスキャナーのWeb Configにおけるクロスサイトリクエストフォージェリの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-07-07T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN87285119/
-- summary: 複数のセイコーエプソン製プリンターおよびスキャナーに搭載されているWeb Configには、クロスサイトリクエストフォージェリの脆弱性が存在します。
 
 ### 5. How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-07-07T05:29:54+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
 - summary: Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy
 
-### 8. Cloudflareに独自ドメインのメールクライアントを構築した
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-07-06T17:15:46+00:00`
-- url: https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/
-- summary: sh1maのブログです
+### 8. Apache Jena Fusekiにおけるパストラバーサルの脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `13`
+- published: `2025-07-30T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN90566559/
+- summary: The Apache Software Foundationが提供するJena Fusekiには、パストラバーサルの脆弱性が存在します。
 
 END OF DOCUMENT

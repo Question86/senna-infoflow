@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-07T05:29:54+00:00",
+  "generated_at": "2026-07-07T06:50:08+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-07T06:49:55+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "How to fix corporate AI training: A practical guide",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-07T01:45:19+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/tech-businesses-should-play-the-ai-field-rather-than-bet-on-a-single-winner-20260705/"
-      },
-      {
-        "title": "China’s web novel platforms embraced AI. Now they are fighting it",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-07-06T10:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "economy": [
@@ -200,11 +200,25 @@
         "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm"
       },
       {
+        "title": "Apache Jena Fusekiにおけるパストラバーサルの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2025-07-30T12:00:00+09:00",
+        "relevance_score": 13,
+        "url": "https://jvn.jp/jp/JVN90566559/"
+      },
+      {
         "title": "Announcing 20260059 (MRO,liquidity providing), for 7 days deadline 09:30",
         "source": "ECB Open Market Operations and Communication",
         "published_at": "2026-07-06T14:40:21+00:00",
         "relevance_score": 12,
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html"
+      },
+      {
+        "title": "Ecosystem Roundup: Can Antler’s “One Asia” thesis survive the AI hype cycle?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-07T05:50:36+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ecosystem-roundup-can-antlers-one-asia-thesis-survive-the-ai-hype-cycle-20260707/"
       },
       {
         "title": "HeyMax First offers upfront miles, but the economics will face a real-world test",
@@ -244,6 +258,13 @@
         "url": "https://jvn.jp/vu/JVNVU90409906/"
       },
       {
+        "title": "Apache Jena Fusekiにおけるパストラバーサルの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2025-07-30T12:00:00+09:00",
+        "relevance_score": 13,
+        "url": "https://jvn.jp/jp/JVN90566559/"
+      },
+      {
         "title": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
         "published_at": "2026-07-06T06:42:00+00:00",
@@ -280,6 +301,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.3 - Reykjanes Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-07T06:13:04.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
+      },
       {
         "title": "M 5.0 - Reykjanes Ridge",
         "source": "USGS M4.5+ Earthquakes Past Hour",

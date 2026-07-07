@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T05:29:57+00:00",
+  "generated_at": "2026-07-07T06:50:10+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2025-67038"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in New Zealand",
+        "summary": "Green flood alert in New Zealand",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104006",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

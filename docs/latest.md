@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T05:29:54+00:00_
+_Generiert: 2026-07-07T06:50:08+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „How to fix corporate AI training: A practical guide“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-07T06:49:55+00:00`, fetched `2026-07-07T06:49:40+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How to fix corporate AI training: A practical guide** — Score 19, observation — [Quelle](https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-07T02:45:12+00:00`, fetched `2026-07-07T04:04:42+00:00`
@@ -105,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Apache Jena Fusekiにおけるパストラバーサルの脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN90566559/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2025-07-30T12:00:00+09:00`, fetched `2026-07-07T06:49:40+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: The Apache Software Foundationが提供するJena Fusekiには、パストラバーサルの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cloudflareに独自ドメインのメールクライアントを構築した** — Score 12, observation — [Quelle](https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-06T17:15:46+00:00`, fetched `2026-07-07T04:04:42+00:00`
@@ -177,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.0); recent (+1.0)
   - Kurz: Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-07T06:13:04.040+00:00`, fetched `2026-07-07T06:49:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-07 05:55:40 UTC 2026-07-07 05:55:40 UTC at epicenter Location 59.511°N 30.248°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000takw)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-07T05:15:56.040+00:00`, fetched `2026-07-07T05:29:29+00:00`
@@ -195,30 +222,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Qapita is an ESOP platform for startups through to listed companies, helping founders unlock the Power of Ownership for their stakeholders. Qapita’s focus aligns with a growing global trend: as startups stay private for longer, the complexity of managing cap tables, liquidity events, and investor reporting has created a surge in demand for various ESOP […] The post Qapita launches ESOP SPV for Singapore-incorporated…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞** — Score 8, observation — [Quelle](https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-06T15:40:18+00:00`, fetched `2026-07-07T01:02:30+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 中国湖北省武漢市で6月、野生のキノコを食べた9歳の少年が、一時は生死の境をさまよう出来事があった。AI（人工知能）で「安全」と判断されたが、猛毒の成分を持つキノコだったという。中国共産党系の地元紙「…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken** — Score 7, observation — [Quelle](https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-06T13:19:00.000+00:00`, fetched `2026-07-07T01:02:30+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Aktuelle Versionen der Open-Source-Firewall-Distribution schließen mehrere Einfallstore. Eine als kritisch bewertete Lücke macht das Update besonders dringlich.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
