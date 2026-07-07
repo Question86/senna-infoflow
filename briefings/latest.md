@@ -1,14 +1,26 @@
 # Senna Briefing
 
-_Generiert: 2026-07-07T17:34:55+00:00_
+_Generiert: 2026-07-07T18:20:57+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+67 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-48908 JoomShaper SP Page Builder** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-07`
+  - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability
+- **CISA KEV: CVE-2026-55255 Langflow Langflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-07`
+  - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Langflow Authorization Bypass Through User-Controlled Key Vulnerability
+- **CISA KEV: CVE-2026-56290 Joomlack Page Builder** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-07`
+  - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
 - **CISA KEV: CVE-2026-45659 Microsoft SharePoint Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-01`
@@ -17,18 +29,6 @@ _Generiert: 2026-07-07T17:34:55+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-06-29`
   - Kurz: Known exploited vulnerability. Added 2026-06-29. Due 2026-07-02. SimpleHelp Authentication Bypass Vulnerability
-- **CISA KEV: CVE-2026-12569 PTC Windchill and FlexPLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-25`
-  - Kurz: Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. PTC Windchill and FlexPLM Improper Input Validation Vulnerability
-- **CISA KEV: CVE-2026-20230 Cisco Unified Communications Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-25`
-  - Kurz: Known exploited vulnerability. Added 2026-06-25. Due 2026-06-28. Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability
-- **CISA KEV: CVE-2025-67038 Lantronix EDS5000** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-06-23`
-  - Kurz: Known exploited vulnerability. Added 2026-06-23. Due 2026-06-26. Lantronix EDS5000 Code Injection Vulnerability
 - **GDACS: Green flood alert in New Zealand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104006)
   - Quelle: GDACS
   - Zeit: ``
@@ -67,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-07T16:50:47+00:00`, fetched `2026-07-07T16:50:32+00:00`
+  - Zeit: published `2026-07-07T18:20:44+00:00`, fetched `2026-07-07T18:20:27+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -239,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: 中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Morning Postが報じた。 報道によると、バイトダンスはAIアプリ「豆包（Doubao）」でエージェント機能を7月15日に終了する。アリババ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 298 km SSE of Ushuaia, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tar3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-07T18:20:25.040+00:00`, fetched `2026-07-07T18:20:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-07 17:39:56 UTC 2026-07-07 17:39:56 UTC at epicenter Location 57.354°S 66.818°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **博格資訊管理顧問｜博格管理系統 - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11025-fa1d9-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-07-06T06:42:00+00:00`, fetched `2026-07-07T01:02:30+00:00`
@@ -292,15 +301,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Public Health (+6.2); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now restrict who can dismiss pull request reviews directly in GitHub repository rulesets. This capability is generally available and gives you precise control over who can clear an… The post Restrict who can dismiss reviews in rulesets appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **China’s AI boom is creating a different kind of entrepreneur** — Score 9, observation — [Quelle](https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-07T10:00:00+00:00`, fetched `2026-07-07T10:30:12+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Backed by the state, Chinese workers are using AI to deal with limited resources and drive innovation to compete with Silicon Valley.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

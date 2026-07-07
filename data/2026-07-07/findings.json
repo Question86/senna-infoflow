@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-07T16:50:47+00:00",
-    "fetched_at": "2026-07-07T16:50:32+00:00",
+    "published_at": "2026-07-07T18:20:44+00:00",
+    "fetched_at": "2026-07-07T18:20:27+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "200582297fb246c07eb3"
+    "id": "4598d5098a2d91f8045e"
   },
   {
     "title": "M 5.4 - 162 km NNW of Tobelo, Indonesia",
@@ -480,6 +480,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b12799c726547a3fc07b"
+  },
+  {
+    "title": "M 4.9 - 298 km SSE of Ushuaia, Argentina",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tar3",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-07T18:20:25.040+00:00",
+    "fetched_at": "2026-07-07T18:20:27+00:00",
+    "summary": "Time 2026-07-07 17:39:56 UTC 2026-07-07 17:39:56 UTC at epicenter Location 57.354°S 66.818°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e050cefbca2eee429a72"
   },
   {
     "title": "博格資訊管理顧問｜博格管理系統 - 存在2個漏洞",
@@ -1191,6 +1227,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "fcba6137bcedaa172058"
+  },
+  {
+    "title": "陸上自衛隊が使用したマルウェア入りUSBメモリについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T16:01:39+00:00",
+    "fetched_at": "2026-07-07T18:20:27+00:00",
+    "summary": "防衛省・陸上自衛隊は、中部方面総監部(兵庫県伊丹市)が使用していたUSBメモリについて、2025年2月にマルウェアが含まれていることを検知した事例があったと公表しました。確認されたマルウェアによる情報の窃取や外部への通信、システムへの拡散は確認されておらず、陸自システムへの影響や外部への情報流出もなかった...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "703865db69f1ef3c9587"
   },
   {
     "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
