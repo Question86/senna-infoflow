@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T11:30:19+00:00",
+  "generated_at": "2026-07-07T12:17:55+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,61 +61,12 @@
         "metrics": {
           "cve": "CVE-2025-67038"
         }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in New Zealand",
-        "summary": "Green flood alert in New Zealand",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104006",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550528",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 250 thousand in MMI&gt;=IV.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 250 thousand in MMI&gt;=IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550395",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Volcanic eruption is on going for Etna in Italy",
-        "summary": "Volcanic eruption is on going for Etna in Italy",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000142",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259",
-        "published_at": "",
-        "metrics": {}
       }
     ],
     "global_economy": []
   },
   "source_errors": [
+    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f0edfcbd690>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
