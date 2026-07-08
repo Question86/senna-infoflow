@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T22:29:18+00:00",
-  "run_id": "2026-07-08T22:29:18+00:00",
+  "generated_at": "2026-07-08T22:52:16+00:00",
+  "run_id": "2026-07-08T22:52:16+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 128
+      "configured_public_sources_only": 129
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 128,
-    "displayed_findings": 128,
+    "new_relevant_findings": 1,
+    "today_file_total": 129,
+    "displayed_findings": 129,
     "high": 0,
     "medium": 56,
-    "observe": 72,
+    "observe": 73,
     "source_errors": 0
   },
   "sections": {
@@ -2963,6 +2963,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cb0cc1a050755eaab296"
+      },
+      {
+        "title": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2123524.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T09:41:37+00:00",
+        "fetched_at": "2026-07-08T22:51:46+00:00",
+        "summary": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fa259991b0d9335f8b04"
       },
       {
         "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",
@@ -6148,6 +6169,27 @@
       "id": "cb0cc1a050755eaab296"
     },
     {
+      "title": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2123524.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:41:37+00:00",
+      "fetched_at": "2026-07-08T22:51:46+00:00",
+      "summary": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fa259991b0d9335f8b04"
+    },
+    {
       "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",
       "url": "https://goldhead.hatenablog.com/entry/2026/07/08/125954",
       "source": "Hatena Bookmark Hotentry IT",
@@ -6397,76 +6439,13 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T22:29:08+00:00",
-      "fetched_at": "2026-07-08T22:28:49+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ffdd33036fff5d983e3c"
-    },
-    {
-      "title": "Deploy managed Copilot settings via MDM in VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-08T20:38:56+00:00",
-      "fetched_at": "2026-07-08T22:28:49+00:00",
-      "summary": "Enterprise administrators can now deliver managed GitHub Copilot settings directly to devices through native mobile device management (MDM) and file-based configuration, in addition to the existing server-managed channel. This is… The post Deploy managed Copilot settings via MDM in VS Code and CLI appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d7facd1fe24c334d7580"
-    },
-    {
-      "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
-      "url": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+      "title": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2123524.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-07T21:10:09+00:00",
-      "fetched_at": "2026-07-08T22:28:49+00:00",
-      "summary": "前回、Fable 5をトークン破産させずに使い倒す方法について書きました。 簡単にいうとオーケストレーターに Fable 5をおいて、スコープ切り、設計、委譲、最終レビューを任せ、手を動かす実装・テスト・シッピング・コードレビューは Opus と Sonnet のサブエージェントが担う形式です。高いモデルが計画と判断を、安い...",
+      "published_at": "2026-07-08T09:41:37+00:00",
+      "fetched_at": "2026-07-08T22:51:46+00:00",
+      "summary": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -6478,7 +6457,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a57e374a08c421b6bbd7"
+      "id": "fa259991b0d9335f8b04"
     }
   ],
   "source_errors": [],
