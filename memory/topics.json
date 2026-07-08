@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T14:05:01+00:00",
+  "generated_at": "2026-07-08T14:57:28+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-08T10:47:19+00:00",
+        "published_at": "2026-07-08T14:57:17+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -184,6 +184,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-06-29T00:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/"
+      },
+      {
         "title": "Version 1.1: Cisco Firewalls mit persistenter Malware infiziert",
         "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
         "published_at": "2026-04-24T10:10:00+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-07-08T11:51:40+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2242"
-      },
-      {
-        "title": "[NEU] [hoch] X.Org X11 und Xwayland: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T11:21:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240"
       }
     ],
     "github": [

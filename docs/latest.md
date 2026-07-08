@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T14:05:01+00:00_
+_Generiert: 2026-07-08T14:57:28+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-08T10:47:19+00:00`, fetched `2026-07-08T10:47:00+00:00`
+  - Zeit: published `2026-07-08T14:57:17+00:00`, fetched `2026-07-08T14:56:58+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)** — Score 16, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-06-29T00:00:00+00:00`, fetched `2026-07-08T14:56:58+00:00`
+  - Treffer: avis, CERT-FR, Linux, Microsoft, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.1: Cisco Firewalls mit persistenter Malware infiziert** — Score 16, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-279568-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-04-24T10:10:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Citrix (+2.5)
   - Kurz: Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'équipement est vulnérable s'il est configuré en tant que...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **富士電機製Pupsmanのインストーラにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN62347140/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-08T12:00:00+09:00`, fetched `2026-07-08T03:31:04+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian data centre market is on track to reach US$30.47 billion by 2030, growing at […] The post Southeast Asia’s AI buildout is racing toward a power wall appeared fi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-06-29T00:00:00+00:00`, fetched `2026-07-08T14:56:58+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
@@ -257,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Debian (26 juin 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0809/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-06-26T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-263373-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`

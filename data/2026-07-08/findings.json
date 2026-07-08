@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-08T10:47:19+00:00",
-    "fetched_at": "2026-07-08T10:47:00+00:00",
+    "published_at": "2026-07-08T14:57:17+00:00",
+    "fetched_at": "2026-07-08T14:56:58+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "66545898a324a92c1003"
+    "id": "8d525b80993233c23085"
   },
   {
     "title": "The vision-based shift: Transforming construction safety with AI",
@@ -448,6 +448,32 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a1701bbef3d8bfa2b037"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-06-29T00:00:00+00:00",
+    "fetched_at": "2026-07-08T14:56:58+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aa05409c2cf6d423b3b4"
   },
   {
     "title": "Version 1.1: Cisco Firewalls mit persistenter Malware infiziert",
@@ -1339,6 +1365,31 @@
     "id": "4fc6e220f82f84c898d0"
   },
   {
+    "title": "Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-06-29T00:00:00+00:00",
+    "fetched_at": "2026-07-08T14:56:58+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e9e2fea284152157ea45"
+  },
+  {
     "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html",
     "source": "ECB Open Market Operations and Communication",
@@ -1694,6 +1745,30 @@
     "id": "e0734c7fa081e76ffffe"
   },
   {
+    "title": "Multiples vulnérabilités dans Mattermost Server (29 juin 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0813/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-06-29T00:00:00+00:00",
+    "fetched_at": "2026-07-08T14:56:58+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5bb41b59cf63895f9d37"
+  },
+  {
     "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1800,6 +1875,28 @@
       "LOW"
     ],
     "id": "40a2181ade53a9fdc16a"
+  },
+  {
+    "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
+    "url": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T07:55:06+00:00",
+    "fetched_at": "2026-07-08T14:56:58+00:00",
+    "summary": "この記事は長いです。長い癖に具体的に自分が使っているdocker composeなどの設定までは記載していません。そこまで書くとさらにとんでもなく長い記事になってしまうと思ったためです。あくまで思想としてどのように最近開発環境を考えているのかを伝えられたらと思っています。コンテナ開発における環境に悩んでいる方...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fe80f9e69b8e0c2a6ed9"
   },
   {
     "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",

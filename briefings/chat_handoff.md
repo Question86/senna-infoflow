@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-08T14:05:01+00:00_
+_Generated: 2026-07-08T14:57:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `97`
+- findings: `101`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-08T10:47:19+00:00`
+- published: `2026-07-08T14:57:17+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-08T14:05:01+00:00_
 - url: https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/
 - summary: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian…
 
-### 7. Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-06-29T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
+
+### 8. Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-07-08T08:15:24+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html
 - summary: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. MUFG aims to become AI-native with OpenAI
-- source: OpenAI News RSS
-- score: `12`
-- published: `2026-07-07T00:00:00+00:00`
-- url: https://openai.com/index/mufg
-- summary: MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
 
 END OF DOCUMENT
