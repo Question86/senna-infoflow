@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T16:55:57+00:00_
+_Generiert: 2026-07-08T17:29:39+00:00_
 
 ## Kurzlage
 
-108 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+111 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。 本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Helping K–12 educators build practical AI skills** — Score 17, observation — [Quelle](https://openai.com/index/k-12-educators-practical-skills)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-08T10:00:00+00:00`, fetched `2026-07-08T17:29:10+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)
+  - Kurz: OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-08T07:17:17+00:00`, fetched `2026-07-08T07:26:26+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-08 08:36:06 UTC 2026-07-08 08:36:06 UTC at epicenter Location 1.811°N 127.440°E Depth 141.09 km (87.67 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門** — Score 15, observation — [Quelle](https://blog.asial.co.jp/6980/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-08T00:59:01+00:00`, fetched `2026-07-08T05:38:45+00:00`
-  - Treffer: AI Agents, AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: エンジニアの又川です。 Anthropic の最上位モデル Claude Fable 5、もう使っていますか？ 7 月に入ってから、Claude Code にはこんなお知らせが表示されるようになりました。 ▎ Fable 5 is back. ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. ▎ If you hit your limit, you c...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -185,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing GPT-Live** — Score 12, observation — [Quelle](https://openai.com/index/introducing-gpt-live)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-08T00:00:00+00:00`, fetched `2026-07-08T17:29:10+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MUFG aims to become AI-native with OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/mufg)
   - Quelle: OpenAI News RSS / `rss`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); VPN (+2.5)
   - Kurz: Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Data centers should benefit the cities that power them** — Score 10, observation — [Quelle](https://restofworld.org/2026/data-centers-cities-communities-benefits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-08T10:00:00+00:00`, fetched `2026-07-08T10:47:00+00:00`
-  - Treffer: Africa, AI/KI, Asia, Latin America
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Asia (+2.0); Africa (+2.0); Latin America (+2.0); recent (+1.0)
-  - Kurz: Cities in Asia, Africa, and Latin America must ensure AI infrastructure development benefits local communities and leads to sustainable economic growth.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

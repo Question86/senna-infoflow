@@ -259,6 +259,28 @@
     "id": "e8e91b4705212fdac5f7"
   },
   {
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-08T10:00:00+00:00",
+    "fetched_at": "2026-07-08T17:29:10+00:00",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "daa1bbdc48ef96ac547c"
+  },
+  {
     "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1479,6 +1501,27 @@
     "id": "f469558b361836173e4e"
   },
   {
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-08T00:00:00+00:00",
+    "fetched_at": "2026-07-08T17:29:10+00:00",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c712a75e425ee0e568a9"
+  },
+  {
     "title": "MUFG aims to become AI-native with OpenAI",
     "url": "https://openai.com/index/mufg",
     "source": "OpenAI News RSS",
@@ -2510,6 +2553,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c8c878b72537d7580203"
+  },
+  {
+    "title": "Announcing TypeScript 7.0 - TypeScript",
+    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T16:28:33+00:00",
+    "fetched_at": "2026-07-08T17:29:10+00:00",
+    "summary": "As you can see, these codebases get a better speedup from dedicating more cores, but results will differ across projects and underlying machines. On the other hand, on machines with fewer CPU cores and less memory (e.g. CI runners) you may want to decrease this number to avoid unnecessary or inci...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f86ccf955a9ca664d78"
   },
   {
     "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",

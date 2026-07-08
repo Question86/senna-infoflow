@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T16:55:57+00:00",
+  "generated_at": "2026-07-08T17:29:39+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://zenn.dev/layerx/articles/9f25ec86a31730"
       },
       {
+        "title": "Helping K–12 educators build practical AI skills",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-07-08T10:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://openai.com/index/k-12-educators-practical-skills"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-08T07:17:17+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2023-07-19T00:00:00+00:00",
         "relevance_score": 15,
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
-      },
-      {
-        "title": "npm install-time security and GAT bypass2fa deprecation",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-08T15:00:40+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation"
       }
     ],
     "security": [
@@ -349,11 +349,11 @@
         "url": "https://www.digital.go.jp/policies/dmp"
       },
       {
-        "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",
+        "title": "Announcing TypeScript 7.0 - TypeScript",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-08T04:30:39+00:00",
+        "published_at": "2026-07-08T16:28:33+00:00",
         "relevance_score": 5,
-        "url": "https://goldhead.hatenablog.com/entry/2026/07/08/125954"
+        "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
       }
     ],
     "economy": [
