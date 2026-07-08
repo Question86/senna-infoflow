@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T19:44:16+00:00",
+  "generated_at": "2026-07-08T20:15:11+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-08T18:03:47+00:00",
+        "published_at": "2026-07-08T20:15:00+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -263,6 +263,13 @@
         "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api"
       },
       {
+        "title": "GitHub Copilot in Visual Studio Code, June 2026 releases",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T18:24:55+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases"
+      },
+      {
         "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-08T09:45:22+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-07-08T00:05:35+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise"
-      },
-      {
-        "title": "setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-08T17:05:06+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes"
       }
     ],
     "general": [
@@ -356,11 +356,11 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv"
       },
       {
-        "title": "デジタルマーケットプレイス（DMP）の「DMP活用ガイドブック」を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-08T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/dmp"
+        "title": "PostgreSQLをクラスタ化した分散DBでスケーリングと高可用性を実現する「Multigres v0.1」アルファ版が登場",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-08T15:51:17+00:00",
+        "relevance_score": 8,
+        "url": "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html"
       }
     ],
     "economy": [

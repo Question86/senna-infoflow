@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-08T18:03:47+00:00",
-    "fetched_at": "2026-07-08T18:03:27+00:00",
+    "published_at": "2026-07-08T20:15:00+00:00",
+    "fetched_at": "2026-07-08T20:14:41+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "91e21e42199ab771599d"
+    "id": "87a9fa05808bd6dbafaa"
   },
   {
     "title": "The vision-based shift: Transforming construction safety with AI",
@@ -1849,6 +1849,27 @@
     "id": "35804def1fdd6ff84c6d"
   },
   {
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-08T13:00:00+00:00",
+    "fetched_at": "2026-07-08T20:14:41+00:00",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ce9ec7fd4647b44f8e7"
+  },
+  {
     "title": "Data centers should benefit the cities that power them",
     "url": "https://restofworld.org/2026/data-centers-cities-communities-benefits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
@@ -2226,6 +2247,28 @@
     "id": "3befeddd8f020464d335"
   },
   {
+    "title": "PostgreSQLをクラスタ化した分散DBでスケーリングと高可用性を実現する「Multigres v0.1」アルファ版が登場",
+    "url": "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T15:51:17+00:00",
+    "fetched_at": "2026-07-08T20:14:41+00:00",
+    "summary": "PostgreSQLをクラスタ化した分散DBでスケーリングと高可用性を実現する「Multigres v0.1」アルファ版が登場 PostgreSQLをベースにしたBaaS（Backend as a Service）の「Supabase」を開発し提供しているSupabase社は、複数のPostgreSQLをクラスタ化することでデータベースの水平スケールと高可用性などを実現するオープン...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Webentwicklung"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f7c1c2d34b50703065f"
+  },
+  {
     "title": "CERT betont Wichtigkeit: Security-Patch für Geoinformationssystem-Plattform",
     "url": "https://www.heise.de/news/ArcGIS-Enterprise-Wichtiger-Patch-sichert-Geoinformationssystem-Plattform-ab-11357947.html",
     "source": "heise Security Alerts",
@@ -2462,6 +2505,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9c3a3e2a06e550e9f7a0"
+  },
+  {
+    "title": "GitHub Copilot in Visual Studio Code, June 2026 releases",
+    "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-08T18:24:55+00:00",
+    "fetched_at": "2026-07-08T20:14:41+00:00",
+    "summary": "This changelog covers VS Code v1.123 through v1.127, shipped throughout June and early July 2026. The latest VS Code releases build on the Copilot experience developers use every day, making… The post GitHub Copilot in Visual Studio Code, June 2026 releases appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ad76e59bd6852076f922"
   },
   {
     "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
