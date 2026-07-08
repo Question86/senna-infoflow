@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T08:17:27+00:00",
-  "run_id": "2026-07-08T08:17:27+00:00",
+  "generated_at": "2026-07-08T09:11:35+00:00",
+  "run_id": "2026-07-08T09:11:35+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 8,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 33,
-    "observe": 38,
+    "medium": 40,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -408,6 +408,43 @@
         "id": "133bf896bf762b7582b8"
       },
       {
+        "title": "M 4.8 - 64 km W of Tobelo, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-08T08:50:25.040+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Time 2026-07-08 08:36:06 UTC 2026-07-08 08:36:06 UTC at epicenter Location 1.811°N 127.440°E Depth 141.09 km (87.67 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2fb07c6c5ba16cf93f37"
+      },
+      {
         "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
         "url": "https://blog.asial.co.jp/6980/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -497,6 +534,144 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bc661cf4f13660a277ad"
+      },
+      {
+        "title": "[NEU] [mittel] wget: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T09:06:41+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in wget ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e823c2606e2e9b98319d"
+      },
+      {
+        "title": "[NEU] [niedrig] FreeType: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2234",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T09:06:40+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FreeType ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "62b13b3d4c35131d4387"
+      },
+      {
+        "title": "[NEU] [mittel] Composer: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2235",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T09:06:40+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Sicherheitsmechanismen zu umgehen, um beliebige Dateien zu schreiben oder um Informationen offenzulegen. Zur erfolgreichen Ausnutzung sind teilweise bestimmte Konfigurationen erforderlich.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6a0ff41023584680a83c"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Ausführung von Aktionen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T09:06:39+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM WebSphere Application Server ausnutzen, um beliebige Aktionen auf dem Server auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "87db7a8382971af590cd"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2233",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T09:06:39+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e8378c616121db7d99b8"
+      },
+      {
+        "title": "[NEU] [mittel] Django: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2231",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T08:41:40+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Django ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen und Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "405d5e39157e23ccf2c0"
       },
       {
         "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -1256,6 +1431,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "35804def1fdd6ff84c6d"
+      },
+      {
+        "title": "Singapore’s AI adoption problem is not worker resistance, but weak execution",
+        "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-08T08:44:55+00:00",
+        "fetched_at": "2026-07-08T09:11:06+00:00",
+        "summary": "Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per cent of the island nation’s desk workers use AI as a core part of […] The post Singapore’s AI adoption problem is not worker resistance, bu…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e0734c7fa081e76ffffe"
       },
       {
         "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
@@ -2167,6 +2363,43 @@
       "id": "133bf896bf762b7582b8"
     },
     {
+      "title": "M 4.8 - 64 km W of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:50:25.040+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Time 2026-07-08 08:36:06 UTC 2026-07-08 08:36:06 UTC at epicenter Location 1.811°N 127.440°E Depth 141.09 km (87.67 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2fb07c6c5ba16cf93f37"
+    },
+    {
       "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
       "url": "https://blog.asial.co.jp/6980/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2256,6 +2489,144 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bc661cf4f13660a277ad"
+    },
+    {
+      "title": "[NEU] [mittel] wget: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:06:41+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in wget ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e823c2606e2e9b98319d"
+    },
+    {
+      "title": "[NEU] [niedrig] FreeType: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2234",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:06:40+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FreeType ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "62b13b3d4c35131d4387"
+    },
+    {
+      "title": "[NEU] [mittel] Composer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2235",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:06:40+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Sicherheitsmechanismen zu umgehen, um beliebige Dateien zu schreiben oder um Informationen offenzulegen. Zur erfolgreichen Ausnutzung sind teilweise bestimmte Konfigurationen erforderlich.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6a0ff41023584680a83c"
+    },
+    {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Ausführung von Aktionen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:06:39+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM WebSphere Application Server ausnutzen, um beliebige Aktionen auf dem Server auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "87db7a8382971af590cd"
+    },
+    {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2233",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:06:39+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e8378c616121db7d99b8"
+    },
+    {
+      "title": "[NEU] [mittel] Django: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2231",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:41:40+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Django ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "405d5e39157e23ccf2c0"
     },
     {
       "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -3015,6 +3386,27 @@
       "id": "35804def1fdd6ff84c6d"
     },
     {
+      "title": "Singapore’s AI adoption problem is not worker resistance, but weak execution",
+      "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:44:55+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per cent of the island nation’s desk workers use AI as a core part of […] The post Singapore’s AI adoption problem is not worker resistance, bu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0734c7fa081e76ffffe"
+    },
+    {
       "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3545,25 +3937,20 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T08:17:11+00:00",
-      "fetched_at": "2026-07-08T08:16:44+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "M 4.8 - 64 km W of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:50:25.040+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Time 2026-07-08 08:36:06 UTC 2026-07-08 08:36:06 UTC at epicenter Location 1.811°N 127.440°E Depth 141.09 km (87.67 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -3584,16 +3971,16 @@
         "HD",
         "LOW"
       ],
-      "id": "f2c0ac38b996c9f02b1a"
+      "id": "2fb07c6c5ba16cf93f37"
     },
     {
-      "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0548",
+      "title": "[NEU] [mittel] wget: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T08:06:39+00:00",
-      "fetched_at": "2026-07-08T08:16:44+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-07-08T09:06:41+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in wget ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3607,16 +3994,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "925b77c55fde0709e749"
+      "id": "e823c2606e2e9b98319d"
     },
     {
-      "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1776",
+      "title": "[NEU] [mittel] Composer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2235",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T08:01:53+00:00",
-      "fetched_at": "2026-07-08T08:16:44+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, um einen Denial of Service durchzuführen, und um falsche Informationen darzustellen.",
+      "published_at": "2026-07-08T09:06:40+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Sicherheitsmechanismen zu umgehen, um beliebige Dateien zu schreiben oder um Informationen offenzulegen. Zur erfolgreichen Ausnutzung sind teilweise bestimmte Konfigurationen erforderlich.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3630,16 +4017,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4e52bac8646585f236cc"
+      "id": "6a0ff41023584680a83c"
     },
     {
-      "title": "[UPDATE] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1995",
+      "title": "[NEU] [niedrig] FreeType: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2234",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T08:01:39+00:00",
-      "fetched_at": "2026-07-08T08:16:44+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX und NGINX NGINX Plus ausnutzen, um Daten zu manipulieren, beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-07-08T09:06:40+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FreeType ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3653,16 +4040,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f3d0ad5d72cd6dca3046"
+      "id": "62b13b3d4c35131d4387"
     },
     {
-      "title": "[UPDATE] [mittel] OpenSC: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1769",
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2233",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T07:32:21+00:00",
-      "fetched_at": "2026-07-08T08:16:44+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSC ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-07-08T09:06:39+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3676,16 +4063,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b436e9ae8bad49ffcf3a"
+      "id": "e8378c616121db7d99b8"
     },
     {
-      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1760",
+      "title": "[NEU] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Ausführung von Aktionen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T07:32:21+00:00",
-      "fetched_at": "2026-07-08T08:16:44+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um einen Denial of Service Zustand herbeizuführen, um Informationen offenzulegen und um Sicherheitsmechanismen zu umgehen.",
+      "published_at": "2026-07-08T09:06:39+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM WebSphere Application Server ausnutzen, um beliebige Aktionen auf dem Server auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3699,7 +4086,51 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b72b98f1e2bc1fbc6404"
+      "id": "87db7a8382971af590cd"
+    },
+    {
+      "title": "[NEU] [mittel] Django: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2231",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:41:40+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Django ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "405d5e39157e23ccf2c0"
+    },
+    {
+      "title": "Singapore’s AI adoption problem is not worker resistance, but weak execution",
+      "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:44:55+00:00",
+      "fetched_at": "2026-07-08T09:11:06+00:00",
+      "summary": "Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per cent of the island nation’s desk workers use AI as a core part of […] The post Singapore’s AI adoption problem is not worker resistance, bu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0734c7fa081e76ffffe"
     }
   ],
   "source_errors": [],

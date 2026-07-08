@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T08:17:27+00:00_
+_Generiert: 2026-07-08T09:11:35+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -111,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Firewall (+2.5)
   - Kurz: Version 1.1: Cisco Firewalls mit persistenter Malware infiziert
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.8 - 64 km W of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-08T08:50:25.040+00:00`, fetched `2026-07-08T09:11:06+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-08 08:36:06 UTC 2026-07-08 08:36:06 UTC at epicenter Location 1.811°N 127.440°E Depth 141.09 km (87.67 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門** — Score 15, observation — [Quelle](https://blog.asial.co.jp/6980/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-08T00:59:01+00:00`, fetched `2026-07-08T05:38:45+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How to build a startup team in 2026: The 3 roles every founder needs** — Score 14, observation — [Quelle](https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-08T01:45:46+00:00`, fetched `2026-07-08T02:17:34+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0)
-  - Kurz: Most founders build their team in the wrong order. They hire for the function they understand best, then patch the gaps with whoever they can find. A technical founder hires more engineers. A product founder hires more product people. The team grows in the direction of the founder’s blind spots, being made deeper, not shallower. […] The post How to build a startup team in 2026: The 3 roles every founder needs appear…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -267,6 +267,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); VPN (+2.5)
   - Kurz: Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore’s AI adoption problem is not worker resistance, but weak execution** — Score 10, observation — [Quelle](https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-08T08:44:55+00:00`, fetched `2026-07-08T09:11:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per cent of the island nation’s desk workers use AI as a core part of […] The post Singapore’s AI adoption problem is not worker resistance, bu…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-08T04:33:21.040+00:00`, fetched `2026-07-08T04:39:46+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle** — Score 9, observation — [Quelle](https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-08T02:30:42+00:00`, fetched `2026-07-08T03:31:04+00:00`
-  - Treffer: APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Founders tend to rely on anecdotes in choosing a fundraising vehicle. As tax advisors, we see plenty of costly mistakes: the entity at the top of your cap table sets the rules for how interest is taxed when you borrow, how your team is taxed on its equity, and how an eventual exit is treated. […] The post Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

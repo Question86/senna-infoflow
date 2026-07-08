@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T08:17:27+00:00",
+  "generated_at": "2026-07-08T09:11:35+00:00",
   "topics": {
     "ai": [
       {
@@ -205,18 +205,18 @@
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       },
       {
-        "title": "[NEU] [mittel] xwiki: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] wget: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:26:40+00:00",
+        "published_at": "2026-07-08T09:06:41+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2224"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236"
       },
       {
-        "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] FreeType: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:26:40+00:00",
+        "published_at": "2026-07-08T09:06:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2223"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2234"
       }
     ],
     "github": [
@@ -256,37 +256,14 @@
         "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise"
       }
     ],
-    "economy": [
-      {
-        "title": "Southeast Asia’s AI buildout is racing toward a power wall",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T03:00:53+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/"
-      },
-      {
-        "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-07-08T08:15:24+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html"
-      },
-      {
-        "title": "Why Asia already knows how the AI economy ends",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T01:30:24+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/why-asia-already-knows-how-the-ai-economy-ends-20260706/"
-      },
-      {
-        "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T05:16:22+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-bitcoins-record-on-chain-activity-is-not-the-price-guarantee-you-think-it-is-20260708/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 4.8 - 64 km W of Tobelo, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-08T08:50:25.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx"
+      },
       {
         "title": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
         "source": "Japan Digital Agency News RSS",
@@ -342,6 +319,36 @@
         "published_at": "2026-07-08T02:00:59+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/beyond-combat-how-pve-technology-is-reshaping-modern-gaming-20260706/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Southeast Asia’s AI buildout is racing toward a power wall",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T03:00:53+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/"
+      },
+      {
+        "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-08T08:15:24+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html"
+      },
+      {
+        "title": "Why Asia already knows how the AI economy ends",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T01:30:24+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/why-asia-already-knows-how-the-ai-economy-ends-20260706/"
+      },
+      {
+        "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T05:16:22+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-bitcoins-record-on-chain-activity-is-not-the-price-guarantee-you-think-it-is-20260708/"
       }
     ]
   }
