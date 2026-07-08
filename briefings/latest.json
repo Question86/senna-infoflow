@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T20:43:40+00:00",
-  "run_id": "2026-07-08T20:43:40+00:00",
+  "generated_at": "2026-07-08T21:10:45+00:00",
+  "run_id": "2026-07-08T21:10:45+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 120
+      "configured_public_sources_only": 122
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 120,
-    "displayed_findings": 120,
+    "today_file_total": 122,
+    "displayed_findings": 122,
     "high": 0,
-    "medium": 53,
-    "observe": 67,
+    "medium": 54,
+    "observe": 68,
     "source_errors": 0
   },
   "sections": {
@@ -574,6 +574,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "133bf896bf762b7582b8"
+      },
+      {
+        "title": "M 4.9 - 69 km NE of Sulangan, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-08T20:49:28.040+00:00",
+        "fetched_at": "2026-07-08T21:10:16+00:00",
+        "summary": "Time 2026-07-08 20:32:04 UTC 2026-07-08 20:32:04 UTC at epicenter Location 11.319°N 126.335°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "48c154b909beb280dd65"
       },
       {
         "title": "M 4.8 - 64 km W of Tobelo, Indonesia",
@@ -1879,6 +1916,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "35804def1fdd6ff84c6d"
+      },
+      {
+        "title": "祖先はナチスだったか、AIで検索可能に 1200万枚の党員カード活用 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGR05BWD0V00C26A6000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T14:11:20+00:00",
+        "fetched_at": "2026-07-08T21:10:16+00:00",
+        "summary": "【ベルリン=杜師康佑】ドイツの有力紙ツァイトが人工知能（AI）を用いて構築したナチス党員の検索エンジンが国際的な注目を集めている。氏名などを入力すれば、祖先が党員だったかを確かめられる。欧州でポピュリズムが台頭する中、身近な存在の過去を通じて社会のあり方を再考する機会を提供している。ツァイトが4月に...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "05754d6a28b7417066ac"
       },
       {
         "title": "Separating signal from noise in coding evaluations",
@@ -3549,6 +3608,43 @@
       "id": "133bf896bf762b7582b8"
     },
     {
+      "title": "M 4.9 - 69 km NE of Sulangan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T20:49:28.040+00:00",
+      "fetched_at": "2026-07-08T21:10:16+00:00",
+      "summary": "Time 2026-07-08 20:32:04 UTC 2026-07-08 20:32:04 UTC at epicenter Location 11.319°N 126.335°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "48c154b909beb280dd65"
+    },
+    {
       "title": "M 4.8 - 64 km W of Tobelo, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4852,6 +4948,28 @@
       "id": "35804def1fdd6ff84c6d"
     },
     {
+      "title": "祖先はナチスだったか、AIで検索可能に 1200万枚の党員カード活用 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGR05BWD0V00C26A6000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T14:11:20+00:00",
+      "fetched_at": "2026-07-08T21:10:16+00:00",
+      "summary": "【ベルリン=杜師康佑】ドイツの有力紙ツァイトが人工知能（AI）を用いて構築したナチス党員の検索エンジンが国際的な注目を集めている。氏名などを入力すれば、祖先が党員だったかを確かめられる。欧州でポピュリズムが台頭する中、身近な存在の過去を通じて社会のあり方を再考する機会を提供している。ツァイトが4月に...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05754d6a28b7417066ac"
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI News RSS",
@@ -5973,25 +6091,20 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T20:43:28+00:00",
-      "fetched_at": "2026-07-08T20:43:09+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "M 4.9 - 69 km NE of Sulangan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T20:49:28.040+00:00",
+      "fetched_at": "2026-07-08T21:10:16+00:00",
+      "summary": "Time 2026-07-08 20:32:04 UTC 2026-07-08 20:32:04 UTC at epicenter Location 11.319°N 126.335°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -6012,30 +6125,29 @@
         "HD",
         "LOW"
       ],
-      "id": "cbdfed29348f7404dbfb"
+      "id": "48c154b909beb280dd65"
     },
     {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI News RSS",
+      "title": "祖先はナチスだったか、AIで検索可能に 1200万枚の党員カード活用 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGR05BWD0V00C26A6000000/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-08T13:30:00+00:00",
-      "fetched_at": "2026-07-08T20:43:09+00:00",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "published_at": "2026-07-08T14:11:20+00:00",
+      "fetched_at": "2026-07-08T21:10:16+00:00",
+      "summary": "【ベルリン=杜師康佑】ドイツの有力紙ツァイトが人工知能（AI）を用いて構築したナチス党員の検索エンジンが国際的な注目を集めている。氏名などを入力すれば、祖先が党員だったかを確かめられる。欧州でポピュリズムが台頭する中、身近な存在の過去を通じて社会のあり方を再考する機会を提供している。ツァイトが4月に...",
       "matched_keywords": [
         "AI/KI",
-        "OpenAI",
-        "safety",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+7.5); safety (+2.0); recent (+1.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2421441a3749c2dcf9f5"
+      "id": "05754d6a28b7417066ac"
     }
   ],
   "source_errors": [],

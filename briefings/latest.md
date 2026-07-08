@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T20:43:40+00:00_
+_Generiert: 2026-07-08T21:10:45+00:00_
 
 ## Kurzlage
 
-120 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+122 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -191,14 +191,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Firewall (+2.5)
   - Kurz: Version 1.1: Cisco Firewalls mit persistenter Malware infiziert
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 64 km W of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx)
+- **M 4.9 - 69 km NE of Sulangan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz31)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-08T08:50:25.040+00:00`, fetched `2026-07-08T09:11:06+00:00`
+  - Zeit: published `2026-07-08T20:49:28.040+00:00`, fetched `2026-07-08T21:10:16+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-08 08:36:06 UTC 2026-07-08 08:36:06 UTC at epicenter Location 1.811°N 127.440°E Depth 141.09 km (87.67 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-08 20:32:04 UTC 2026-07-08 20:32:04 UTC at epicenter Location 11.319°N 126.335°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
