@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T06:33:40+00:00",
+  "generated_at": "2026-07-08T07:27:00+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://github.com/TencentCloud/CubeSandbox"
       },
       {
+        "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T07:17:17+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009"
+      },
+      {
         "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-08T00:59:01+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-03-25T08:51:39+00:00",
         "relevance_score": 14,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-004/"
-      },
-      {
-        "title": "MadsLorentzen/ai-job-search",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/MadsLorentzen/ai-job-search"
       }
     ],
     "security": [
@@ -98,11 +98,25 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-008/"
       },
       {
+        "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T07:17:17+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-08T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU92734392/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T07:17:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
@@ -131,20 +145,6 @@
         "published_at": "2023-07-19T00:00:00+00:00",
         "relevance_score": 15,
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
-      },
-      {
-        "title": "富士電機製Pupsmanのインストーラにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-08T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN62347140/"
-      },
-      {
-        "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T05:41:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966"
       }
     ],
     "geopolitics": [
@@ -265,6 +265,13 @@
         "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/"
       },
       {
+        "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-07-08T08:15:24+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html"
+      },
+      {
         "title": "Why Asia already knows how the AI economy ends",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-08T01:30:24+00:00",
@@ -307,6 +314,13 @@
         "published_at": "2026-07-08T01:16:29+00:00",
         "relevance_score": 5,
         "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84"
+      },
+      {
+        "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T12:02:43+00:00",
+        "relevance_score": 5,
+        "url": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html"
       },
       {
         "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",

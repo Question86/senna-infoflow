@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:33:42+00:00",
+  "generated_at": "2026-07-08T07:27:03+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-45659"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Finland",
+        "summary": "Green flood alert in Finland",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104008",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

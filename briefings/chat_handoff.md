@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-08T06:33:40+00:00_
+_Generated: 2026-07-08T07:27:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `66`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-07-08T06:33:40+00:00_
 - url: https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/
 - summary: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian…
 
-### 6. MUFG aims to become AI-native with OpenAI
+### 6. Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-07-08T08:15:24+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html
+- summary: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. MUFG aims to become AI-native with OpenAI
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-07-07T00:00:00+00:00`
 - url: https://openai.com/index/mufg
 - summary: MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
 
-### 7. Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen
+### 8. Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen
 - source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `12`
 - published: `2026-05-07T15:45:00+00:00`
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-255045-1032_bits.html
 - summary: Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen
-
-### 8. 2026-005: High Vulnerability in the Linux Kernel ("Copy Fail")
-- source: CERT-EU Security Advisories
-- score: `12`
-- published: `2026-04-30T11:25:30+00:00`
-- url: https://cert.europa.eu/publications/security-advisories/2026-005/
-- summary: On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named "Copy Fail", was publicly disclosed. The vulnerability affects every mainstream Linux distributions shipping a kernel built since 2017.…
 
 END OF DOCUMENT

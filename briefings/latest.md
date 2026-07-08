@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T06:33:40+00:00_
+_Generiert: 2026-07-08T07:27:00+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-07-08T06:33:40+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-01`
   - Kurz: Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
+- **GDACS: Green flood alert in Finland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104008)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Finland
 - **GDACS: Green flood alert in New Zealand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104006)
   - Quelle: GDACS
   - Zeit: ``
@@ -119,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-08T07:17:17+00:00`, fetched `2026-07-08T07:26:26+00:00`
+  - Treffer: APAC Trend Radar, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92734392/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-08T09:00:00+09:00`, fetched `2026-07-08T00:06:32+00:00`
@@ -128,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-08T07:17:18+00:00`, fetched `2026-07-08T07:26:26+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-07T11:36:39+00:00`, fetched `2026-07-08T00:24:22+00:00`
@@ -136,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen oder einen Denial-of-Service-Zustand herbeizuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] Red Hat Enterprise Linux (python-pip): Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-07T11:26:39+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebige Dateien zu überschreiben und möglicherweise beliebigen Code auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.1: Cisco Firewalls mit persistenter Malware infiziert** — Score 16, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-279568-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
@@ -182,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-08T05:41:40+00:00`, fetched `2026-07-08T06:33:09+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in QNAP NAS ausnutzen, um sich erhöhte Berechtigungen zu verschaffen, um Sicherheitsmechanismen zu umgehen, um einen Denial of Service Zustand herbeizuführen, um beliebige Befehle auszuführen, um Informationen offenzulegen oder nicht näher spezifizierte Auswirkungen zu erzielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to build a startup team in 2026: The 3 roles every founder needs** — Score 14, observation — [Quelle](https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-08T01:45:46+00:00`, fetched `2026-07-08T02:17:34+00:00`
@@ -211,6 +215,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian data centre market is on track to reach US$30.47 billion by 2030, growing at […] The post Southeast Asia’s AI buildout is racing toward a power wall appeared fi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-07-08T08:15:24+00:00`, fetched `2026-07-08T07:26:26+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MUFG aims to become AI-native with OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/mufg)
   - Quelle: OpenAI News RSS / `rss`
@@ -328,15 +341,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Founders tend to rely on anecdotes in choosing a fundraising vehicle. As tax advisors, we see plenty of costly mistakes: the entity at the top of your cap table sets the rules for how interest is taxed when you borrow, how your team is taxed on its equity, and how an eventual exit is treated. […] The post Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore already has the ingredients for world-class founders, now we need the culture to match** — Score 9, observation — [Quelle](https://e27.co/singapore-already-has-the-ingredients-for-world-class-founders-now-we-need-the-culture-to-match-20260705/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-08T01:15:50+00:00`, fetched `2026-07-08T01:26:54+00:00`
-  - Treffer: APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: There is a fond joke in Singapore’s startup circles: give us a bold idea, and we will hand it back with a business plan, a risk register, and a steering committee, all before anyone has shipped version one. It is told with affection, and like the best jokes, it carries a grain of truth. We […] The post Singapore already has the ingredients for world-class founders, now we need the culture to match appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

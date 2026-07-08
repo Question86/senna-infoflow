@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T06:33:40+00:00",
-  "run_id": "2026-07-08T06:33:40+00:00",
+  "generated_at": "2026-07-08T07:27:00+00:00",
+  "run_id": "2026-07-08T07:27:00+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 66
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 8,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
-    "medium": 22,
-    "observe": 36,
+    "medium": 28,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -265,6 +265,30 @@
         "id": "e5d6aa9f0f49b377b509"
       },
       {
+        "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T07:17:17+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "03e3095679b6ae569c62"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
         "url": "https://jvn.jp/vu/JVNVU92734392/",
         "source": "JVN Japan Vulnerability Notes",
@@ -286,6 +310,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bb408b3be3c06fa1a357"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T07:17:18+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6872181cb31cd73098bf"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
@@ -449,6 +497,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bc661cf4f13660a277ad"
+      },
+      {
+        "title": "[UPDATE] [hoch] FasterXML Jackson: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2058",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T07:17:40+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Schutzmechanismen und Autorisierungsregeln zu umgehen, Daten zu manipulieren, Informationen offenzulegen oder einen Denial-of-Service zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6388364d7c02d2ed61f5"
+      },
+      {
+        "title": "[UPDATE] [mittel] libxml2: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2037",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T07:17:39+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "813e8e04793e04d41f1a"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2039",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T07:17:39+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7960ddd1b35d6c749465"
+      },
+      {
+        "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2008",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-08T07:17:16+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen oder potentiell Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b52d534f2fcfa715e504"
       },
       {
         "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
@@ -690,6 +830,28 @@
           "EWZ"
         ],
         "id": "4fc6e220f82f84c898d0"
+      },
+      {
+        "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-07-08T08:15:24+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f469558b361836173e4e"
       },
       {
         "title": "MUFG aims to become AI-native with OpenAI",
@@ -1366,6 +1528,27 @@
         "id": "672062e1cf54797d34f9"
       },
       {
+        "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
+        "url": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-07T12:02:43+00:00",
+        "fetched_at": "2026-07-08T07:26:26+00:00",
+        "summary": "2,3年前にUdemyさんで、変革プロジェクトをリードする方法論について合計24時間のシリーズ講座を発表した。 いま講座の一つを見たら受講生が2万人を超えていたので、それなりの人気コンテンツの様だ。 基本的にこれまで書いた4冊ほどの教科書を整理し直したもの（書いた順番により、複数の教科書をまたがった説明もある...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04cac0a723acd5a5d9d4"
+      },
+      {
         "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
         "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1726,6 +1909,30 @@
       "id": "e5d6aa9f0f49b377b509"
     },
     {
+      "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:17+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03e3095679b6ae569c62"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
       "url": "https://jvn.jp/vu/JVNVU92734392/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1747,6 +1954,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bb408b3be3c06fa1a357"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:18+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6872181cb31cd73098bf"
     },
     {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
@@ -1910,6 +2141,98 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bc661cf4f13660a277ad"
+    },
+    {
+      "title": "[UPDATE] [hoch] FasterXML Jackson: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2058",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:40+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Schutzmechanismen und Autorisierungsregeln zu umgehen, Daten zu manipulieren, Informationen offenzulegen oder einen Denial-of-Service zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6388364d7c02d2ed61f5"
+    },
+    {
+      "title": "[UPDATE] [mittel] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2037",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:39+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "813e8e04793e04d41f1a"
+    },
+    {
+      "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2039",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:39+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7960ddd1b35d6c749465"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2008",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:16+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen oder potentiell Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b52d534f2fcfa715e504"
     },
     {
       "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
@@ -2149,6 +2472,28 @@
         "EWZ"
       ],
       "id": "4fc6e220f82f84c898d0"
+    },
+    {
+      "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:15:24+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f469558b361836173e4e"
     },
     {
       "title": "MUFG aims to become AI-native with OpenAI",
@@ -2825,6 +3170,27 @@
       "id": "672062e1cf54797d34f9"
     },
     {
+      "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T12:02:43+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "2,3年前にUdemyさんで、変革プロジェクトをリードする方法論について合計24時間のシリーズ講座を発表した。 いま講座の一つを見たら受講生が2万人を超えていたので、それなりの人気コンテンツの様だ。 基本的にこれまで書いた4冊ほどの教科書を整理し直したもの（書いた順番により、複数の教科書をまたがった説明もある...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04cac0a723acd5a5d9d4"
+    },
+    {
       "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
       "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2949,13 +3315,61 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966",
+      "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T05:41:40+00:00",
-      "fetched_at": "2026-07-08T06:33:09+00:00",
-      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in QNAP NAS ausnutzen, um sich erhöhte Berechtigungen zu verschaffen, um Sicherheitsmechanismen zu umgehen, um einen Denial of Service Zustand herbeizuführen, um beliebige Befehle auszuführen, um Informationen offenzulegen oder nicht näher spezifizierte Auswirkungen zu erzielen.",
+      "published_at": "2026-07-08T07:17:17+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03e3095679b6ae569c62"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:18+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6872181cb31cd73098bf"
+    },
+    {
+      "title": "[UPDATE] [hoch] FasterXML Jackson: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2058",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:40+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Schutzmechanismen und Autorisierungsregeln zu umgehen, Daten zu manipulieren, Informationen offenzulegen oder einen Denial-of-Service zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2969,48 +3383,119 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0af469c669a1a91c66b7"
+      "id": "6388364d7c02d2ed61f5"
     },
     {
-      "title": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
-      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2039",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T06:00:00+00:00",
-      "fetched_at": "2026-07-08T06:33:09+00:00",
-      "summary": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
+      "published_at": "2026-07-08T07:17:39+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bfc79da9ede056dcd086"
+      "id": "7960ddd1b35d6c749465"
     },
     {
-      "title": "デジタルマーケットプレイス（DMP）の「DMP活用ガイドブック」を更新しました",
-      "url": "https://www.digital.go.jp/policies/dmp",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [mittel] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2037",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-08T06:00:00+00:00",
-      "fetched_at": "2026-07-08T06:33:09+00:00",
-      "summary": "デジタルマーケットプレイス（DMP）の「DMP活用ガイドブック」を更新しました",
+      "published_at": "2026-07-08T07:17:39+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5828e693df0567dab4c5"
+      "id": "813e8e04793e04d41f1a"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2008",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-08T07:17:16+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen oder potentiell Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b52d534f2fcfa715e504"
+    },
+    {
+      "title": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-07-08T08:15:24+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f469558b361836173e4e"
+    },
+    {
+      "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T12:02:43+00:00",
+      "fetched_at": "2026-07-08T07:26:26+00:00",
+      "summary": "2,3年前にUdemyさんで、変革プロジェクトをリードする方法論について合計24時間のシリーズ講座を発表した。 いま講座の一つを見たら受講生が2万人を超えていたので、それなりの人気コンテンツの様だ。 基本的にこれまで書いた4冊ほどの教科書を整理し直したもの（書いた順番により、複数の教科書をまたがった説明もある...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04cac0a723acd5a5d9d4"
     }
   ],
   "source_errors": [],
