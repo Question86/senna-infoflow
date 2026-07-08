@@ -28,7 +28,9 @@ jobs:
       - name: Build comparative intelligence handoff
         run: |
           python -m py_compile scripts/write_intelligence_layer.py
+          python -m py_compile scripts/harden_intelligence_outputs.py
           python scripts/write_intelligence_layer.py
+          python scripts/harden_intelligence_outputs.py
 
       - name: Commit intelligence layer outputs
         run: |
