@@ -1,0 +1,49 @@
+schema_version: 1
+principle: "Source credibility is useful; source dominance is dangerous."
+
+limits:
+  max_major_media_share: 0.35
+  max_single_host_share: 0.25
+  max_vendor_or_repo_share: 0.30
+  max_unknown_class_share: 0.20
+  min_early_signal_share: 0.08
+  min_cross_source_hot_share: 0.25
+
+classes:
+  mainstream: [major_media, tier2_major_news]
+  vendor_or_self: [vendor, vendor_feed, repo, tier5_generic_repo, odds_proxy]
+  institutional: [central_bank, policy_institution, emergency_official, tier1_official]
+  broad_sensor: [global_media_monitor, specialist, tier3_specialist, social, tier4_platform_social]
+
+signals:
+  high_signal_terms:
+    - actively exploited
+    - exploited in the wild
+    - cisa kev
+    - zero-day
+    - emergency patch
+    - evacuation order
+    - port closure
+    - pipeline outage
+    - blackout
+    - state of emergency
+    - central bank emergency
+    - market halted
+    - trading suspended
+  early_signal_terms:
+    - wildfire
+    - forest fire
+    - flood
+    - drought
+    - blackout
+    - port closure
+    - strike
+    - protest
+    - pipeline outage
+    - supply chain
+    - outage
+    - evacuation
+    - unrest
+    - shortage
+    - local
+    - regional
