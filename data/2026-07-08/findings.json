@@ -1903,6 +1903,26 @@
     "id": "9a247211cf0dec71bac6"
   },
   {
+    "title": "CERT betont Wichtigkeit: Security-Patch für Geoinformationssystem-Plattform",
+    "url": "https://www.heise.de/news/ArcGIS-Enterprise-Wichtiger-Patch-sichert-Geoinformationssystem-Plattform-ab-11357947.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-08T12:43:00.000+00:00",
+    "fetched_at": "2026-07-08T13:18:29+00:00",
+    "summary": "Admins, die Esris Juni-Patch noch nicht eingespielt haben, sollten dies angesichts einzelner zielgerichteter Angriffe und einem aktuellen Warnhinweis nachholen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5394dbabd726b773792a"
+  },
+  {
     "title": "Add review cycles and time to adoption phases in the usage API",
     "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
     "source": "GitHub Changelog Atom",
