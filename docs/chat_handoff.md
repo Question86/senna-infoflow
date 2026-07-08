@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-08T01:27:22+00:00_
+_Generated: 2026-07-08T02:18:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `44`
 
 ## Top Signals
 
-### 1. Updates | ReliefWeb
+### 1. The vision-based shift: Transforming construction safety with AI
+- source: e27 Asia Startup and Tech Feed
+- score: `23`
+- published: `2026-07-08T01:45:10+00:00`
+- url: https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/
+- summary: There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project mana…
+
+### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
 - published: `2026-07-08T01:27:12+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. 2026-007: Critical Vulnerability in Windows Netlogon
+### 3. 2026-007: Critical Vulnerability in Windows Netlogon
 - source: CERT-EU Security Advisories
 - score: `22`
 - published: `2026-06-10T08:47:08+00:00`
 - url: https://cert.europa.eu/publications/security-advisories/2026-007/
 - summary: On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network. According…
 
-### 3. 2026-006: Critical Vulnerability in PAN-OS
+### 4. 2026-006: Critical Vulnerability in PAN-OS
 - source: CERT-EU Security Advisories
 - score: `22`
 - published: `2026-05-06T10:44:32+00:00`
 - url: https://cert.europa.eu/publications/security-advisories/2026-006/
 - summary: On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this…
-
-### 4. 2026-008: Critical vulnerabilities in Ivanti Sentry
-- source: CERT-EU Security Advisories
-- score: `18`
-- published: `2026-06-10T13:55:39+00:00`
-- url: https://cert.europa.eu/publications/security-advisories/2026-008/
-- summary: On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device.
 
 ### 5. MUFG aims to become AI-native with OpenAI
 - source: OpenAI News RSS

@@ -1,5 +1,43 @@
 [
   {
+    "title": "The vision-based shift: Transforming construction safety with AI",
+    "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:45:10+00:00",
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project management platforms. All that visual data. All those AI cameras. But the accidents kept happening […] The post The vision-based shift: Transforming construction sa…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Public Health",
+      "Watchgraph:agriculture_food_fertilizer"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "agriculture_food_fertilizer"
+    ],
+    "watchgraph_reasons": [
+      "agriculture_food_fertilizer: corn"
+    ],
+    "market_context": [
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "667c2c427f68c5597a80"
+  },
+  {
     "title": "Updates | ReliefWeb",
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
@@ -112,6 +150,54 @@
       "S"
     ],
     "id": "68647c4f95015683d970"
+  },
+  {
+    "title": "TencentCloud/CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. CubeSandbox Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents 中文文档 · Quick Start · Documentation · Changelog · X(Twitter) Cube Sandbox is a high-performance, out-of-the-box secure sandbox service built on RustVMM and KVM. It supports both single-node deployment and easy scaling to multi-node clusters. It is compatible with the E2B…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Watchgraph:ai_agents_workflow",
+      "Webentwicklung"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "6b0a67a37d4d68b810c3"
   },
   {
     "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
@@ -290,6 +376,28 @@
     "id": "beb791ac8bc244e8ac16"
   },
   {
+    "title": "How to build a startup team in 2026: The 3 roles every founder needs",
+    "url": "https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:45:46+00:00",
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "Most founders build their team in the wrong order. They hire for the function they understand best, then patch the gaps with whoever they can find. A technical founder hires more engineers. A product founder hires more product people. The team grows in the direction of the founder’s blind spots, being made deeper, not shallower. […] The post How to build a startup team in 2026: The 3 roles every founder needs appear…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Content-Chance",
+      "founder"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3da3cbc08d7553a5faad"
+  },
+  {
     "title": "[NEU] [mittel] xwiki: Schwachstelle ermöglicht Offenlegung von Informationen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2224",
     "source": "BSI CERT-Bund Security Advisories",
@@ -415,6 +523,29 @@
       "S"
     ],
     "id": "f79835c5b03d23861d14"
+  },
+  {
+    "title": "MadsLorentzen/ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. AI Job Search An AI-powered job application framework built on Claude Code . Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews. Note: This is an in…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b475b8ab84de7f2b52bb"
   },
   {
     "title": "MUFG aims to become AI-native with OpenAI",
@@ -729,6 +860,27 @@
     "id": "9a247211cf0dec71bac6"
   },
   {
+    "title": "Why Asia already knows how the AI economy ends",
+    "url": "https://e27.co/why-asia-already-knows-how-the-ai-economy-ends-20260706/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:30:24+00:00",
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "There is a comfortable assumption running through most conversations about artificial intelligence: that it will flatten the world. That a capable enough model, trained once, will serve a customer in Jakarta as easily as one in Frankfurt, and that the frictions that made global expansion slow and costly will quietly dissolve. Half of that is […] The post Why Asia already knows how the AI economy ends appeared first…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9c944cb92bd2963fd4b0"
+  },
+  {
     "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
     "url": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
     "source": "Hatena Bookmark Hotentry IT",
@@ -905,5 +1057,67 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c8c878b72537d7580203"
+  },
+  {
+    "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
+    "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T08:24:18+00:00",
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "めっちゃカメレオン、流行ってますね 真っ白な体に絵を描いてステージに擬態する、新感覚のかくれんぼゲーム『めっちゃカメレオン』。 気づいたら世界的ヒットですよ この記事執筆時点で 1500 万本突破ってやばすぎないですか？ 780円 × 約1500万本 ≒ 120億円 超 同時接続 ピーク約20万人 作ったのは2人で、開発期間約 2...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f537bded4b89ed902b64"
+  },
+  {
+    "title": "Beyond combat: How PvE technology is reshaping modern gaming",
+    "url": "https://e27.co/beyond-combat-how-pve-technology-is-reshaping-modern-gaming-20260706/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T02:00:59+00:00",
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "For decades, discussions about gaming innovation have largely centred around competitive multiplayer experiences. Esports tournaments, ranked ladders, and player-versus-player (PvP) combat dominate headlines and streaming platforms. Yet behind the scenes, another genre has quietly become one of the gaming industry’s biggest technological showcases: Player versus Environment (PvE). PvE is often misunderstood as “the…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4a542ff48f12931d0358"
+  },
+  {
+    "title": "Why most enterprise AI in APAC is still stuck in the proof-of-concept room",
+    "url": "https://e27.co/why-most-enterprise-ai-in-apac-is-still-stuck-in-the-proof-of-concept-room-20260706/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T02:15:45+00:00",
+    "fetched_at": "2026-07-08T02:17:34+00:00",
+    "summary": "I have the same conversation with technology leaders across the region often enough that the setup is now familiar. The lab is running, the board has seen the demos, and budgets have been approved and renewed. When I ask how many of those projects are in live operation, the answer is usually one or two, […] The post Why most enterprise AI in APAC is still stuck in the proof-of-concept room appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "61484fad3c3d17128d50"
   }
 ]
