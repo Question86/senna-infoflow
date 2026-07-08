@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-08T21:38:20Z",
+  "generated_at": "2026-07-08T22:07:00Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:36:39+00:00",
-      "age_days": 1.42,
+      "age_days": 1.44,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:26:39+00:00",
-      "age_days": 1.42,
+      "age_days": 1.44,
       "topics": [
         "security"
       ],
@@ -65,11 +65,11 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-06-10T13:55:39+00:00",
-      "age_days": 28.32,
+      "age_days": 28.34,
       "topics": [
         "security"
       ],
-      "dynamics_score": 32.44,
+      "dynamics_score": 32.43,
       "raw_band": "krass",
       "dynamic_band": "krass",
       "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:21:40+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -112,11 +112,40 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in X.Org X11 und Xwayland ausnutzen, um einen Denial of Service zu verursachen oder potentiell beliebigen Programmcode auszuführen."
     },
     {
+      "title": "Innersource security advisories are generally available",
+      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-07-08T21:30:35+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "GitHub Advanced Security enterprise customers can now publish internal security advisories. Innersource advisories work similarly to GitHub’s open source advisories, but their visibility is restricted to repositories owned by the… The post Innersource security advisories are generally available appeared first on The G…"
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:56:39+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -142,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1252",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -168,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -194,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:51:40+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -220,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:46:39+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -242,37 +271,11 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Foxit PDF Editor und Foxit PDF Reader ausnutzen, um seine Privilegien zu erhöhen, einen Denial of Service zu verursachen, Code auszuführen und Informationen offenzulegen."
     },
     {
-      "title": "[UPDATE] [hoch] PostgreSQL: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1544",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-08T10:31:42+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in PostgreSQL ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
       "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
       "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-03-23T19:03:59+00:00",
-      "age_days": 107.11,
+      "age_days": 107.13,
       "topics": [
         "security"
       ],
@@ -301,7 +304,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-05-06T10:44:32+00:00",
-      "age_days": 63.45,
+      "age_days": 63.47,
       "topics": [
         "ai",
         "security"
