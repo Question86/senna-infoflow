@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T18:39:09+00:00_
+_Generiert: 2026-07-08T19:06:23+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,6 @@ _Generiert: 2026-07-08T18:39:09+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-01`
   - Kurz: Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green flood alert in Finland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104008)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Finland
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,10 +45,6 @@ _Generiert: 2026-07-08T18:39:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Etna in Italy
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.
 
 ## Wirtschaft global
 
