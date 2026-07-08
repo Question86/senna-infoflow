@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-08T09:57:29Z",
-  "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-07-08T10:00:53Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -65,7 +65,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-06-10T13:55:39+00:00",
-      "age_days": 27.83,
+      "age_days": 27.84,
       "topics": [
         "security"
       ],
@@ -85,86 +85,6 @@
         "aging penalty -2.4 for 27.8d old signal"
       ],
       "summary": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
-    },
-    {
-      "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-      "source": "CERT-EU Security Advisories",
-      "published_at": "2026-03-23T19:03:59+00:00",
-      "age_days": 106.62,
-      "topics": [
-        "axiom",
-        "security"
-      ],
-      "dynamics_score": 32.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active, exploitation, code",
-        "security high-signal: active, exploitation, code, citrix",
-        "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 106.6d old signal"
-      ],
-      "summary": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations. At the time of writing, there is no public evidence of acti…"
-    },
-    {
-      "title": "2026-006: Critical Vulnerability in PAN-OS",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-      "source": "CERT-EU Security Advisories",
-      "published_at": "2026-05-06T10:44:32+00:00",
-      "age_days": 62.97,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active, exploitation, critical",
-        "security high-signal: active, exploitation, critical, unauthenticated",
-        "aging penalty -8.0 for 63.0d old signal"
-      ],
-      "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this vulnerability. It is strongly recommended updating affected…"
-    },
-    {
-      "title": "[NEU] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Ausführung von Aktionen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-08T09:06:39+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM WebSphere Application Server ausnutzen, um beliebige Aktionen auf dem Server auszuführen."
     },
     {
       "title": "[UPDATE] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen",
@@ -217,82 +137,6 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSC ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
-      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2008",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-08T07:17:16+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen oder potentiell Code auszuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-08T05:41:40+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth"
-      ],
-      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in QNAP NAS ausnutzen, um sich erhöhte Berechtigungen zu verschaffen, um Sicherheitsmechanismen zu umgehen, um einen Denial of Service Zustand herbeizuführen, um beliebige Befehle auszuführen, um Informationen offenzulegen oder nicht n…"
-    },
-    {
-      "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2223",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-07T11:26:40+00:00",
-      "age_days": 0.94,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
-    },
-    {
       "title": "[UPDATE] [hoch] HCL BigFix Compliance (Ruby): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2117",
       "source": "BSI CERT-Bund Security Advisories",
@@ -316,6 +160,168 @@
         "security high-signal: code"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in HCL BigFix Compliance ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Ausführung von Aktionen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-08T09:06:39+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM WebSphere Application Server ausnutzen, um beliebige Aktionen auf dem Server auszuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2008",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-08T07:17:16+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen oder potentiell Code auszuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-08T05:41:40+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in QNAP NAS ausnutzen, um sich erhöhte Berechtigungen zu verschaffen, um Sicherheitsmechanismen zu umgehen, um einen Denial of Service Zustand herbeizuführen, um beliebige Befehle auszuführen, um Informationen offenzulegen oder nicht n…"
+    },
+    {
+      "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2223",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-07T11:26:40+00:00",
+      "age_days": 0.94,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
+    },
+    {
+      "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-03-23T19:03:59+00:00",
+      "age_days": 106.62,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, code",
+        "security high-signal: active, exploitation, code, citrix",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 106.6d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations. At the time of writing, there is no public evidence of acti…"
+    },
+    {
+      "title": "2026-006: Critical Vulnerability in PAN-OS",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-05-06T10:44:32+00:00",
+      "age_days": 62.97,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, critical",
+        "security high-signal: active, exploitation, critical, unauthenticated",
+        "aging penalty -8.0 for 63.0d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this vulnerability. It is strongly recommended updating affected…"
     }
   ],
   "read_order": [
@@ -324,5 +330,12 @@
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/latest.json if details are needed"
-  ]
+  ],
+  "counts": {
+    "bands_after_gate_recheck": {
+      "krass": 6,
+      "strong": 4,
+      "watch": 2
+    }
+  }
 }
