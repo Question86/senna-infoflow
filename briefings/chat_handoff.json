@@ -1,97 +1,37 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-07T23:41:50+00:00",
+  "generated_at": "2026-07-08T00:06:58+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 14,
-    "observe": 65
+    "medium": 1,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-07T23:21:06+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-08T09:00:00+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU92734392/",
+      "summary": "2026年07月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
     },
     {
-      "title": "M 5.4 - 162 km NNW of Tobelo, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-07T07:51:29.127+00:00",
-      "relevance_score": 19,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-07 07:16:26 UTC 2026-07-07 07:16:26 UTC at epicenter Location 3.124°N 127.557°E Depth 36.82 km (22.88 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "How to fix corporate AI training: A practical guide",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-07T02:45:12+00:00",
-      "relevance_score": 19,
-      "url": "https://e27.co/how-to-fix-corporate-ai-training-a-practical-guide-20260705/",
-      "summary": "Here is what nobody tells you about corporate AI training: the staff who need it most are often not the ones showing up, and the ones who do show up often already know more than the curriculum assumes. In a class I ran in 2025, a group of Millennials and Gen…",
-      "section": "medium"
-    },
-    {
-      "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-07T10:21:33+00:00",
-      "relevance_score": 17,
-      "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
-      "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s “2026 Data Streaming Rep…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.9 - 88 km WNW of Hicks Bay, New Zealand",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-07T21:02:51.988+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tasa",
-      "summary": "PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-07-07 20:33:15 UTC 2026-07-07 20:33:15 UTC at epicenter Location 37.217°S 177.429°E Depth 121.41 km (75.44 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "How Vietnam is emerging as a leading AI builder ecosystem in Southeast Asia",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-07T02:30:48+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/how-vietnam-is-emerging-as-a-leading-ai-builder-ecosystem-in-southeast-asia-20260705/",
-      "summary": "Over the past two years, I have visited Vietnam several times to run workshops, hackathons, and developer community programs. I first went to Ho Chi Minh City in June 2024 for Tech in Asia. Since then, I have returned multiple times for developer events, comm…",
-      "section": "observe"
-    },
-    {
-      "title": "Philip R. Lane: AI and monetary policy",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-07-06T18:30:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
-      "summary": "Philip R. Lane: AI and monetary policy",
-      "section": "observe"
-    },
-    {
-      "title": "Waller, Two Thoughts on the Transmission of Monetary Policy",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-07-06T15:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm",
-      "summary": "Speech At &quot;Challenges for Monetary Policy Transmission in a Changing World,&quot; a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "section": "observe"
     }
   ],
