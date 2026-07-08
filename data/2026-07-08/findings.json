@@ -152,6 +152,53 @@
     "id": "68647c4f95015683d970"
   },
   {
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-08T21:11:56+00:00",
+    "fetched_at": "2026-07-08T22:03:19+00:00",
+    "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "Copilot",
+      "GitHub",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.5); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: agentic workflow"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "97e87569ada151a5a59d"
+  },
+  {
     "title": "TencentCloud/CubeSandbox",
     "url": "https://github.com/TencentCloud/CubeSandbox",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -687,6 +734,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "beb791ac8bc244e8ac16"
+  },
+  {
+    "title": "Innersource security advisories are generally available",
+    "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-08T21:30:35+00:00",
+    "fetched_at": "2026-07-08T22:03:19+00:00",
+    "summary": "GitHub Advanced Security enterprise customers can now publish internal security advisories. Innersource advisories work similarly to GitHub’s open source advisories, but their visibility is restricted to repositories owned by the… The post Innersource security advisories are generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Open Source",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+7.5); Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "08aa12aa2b7a75c15604"
   },
   {
     "title": "npm install-time security and GAT bypass2fa deprecation",
@@ -2759,6 +2828,27 @@
     "id": "c8c878b72537d7580203"
   },
   {
+    "title": "Enterprise-managed OpenTelemetry export for VS Code and CLI",
+    "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-08T20:50:07+00:00",
+    "fetched_at": "2026-07-08T22:03:19+00:00",
+    "summary": "Organizations can now mandate where GitHub Copilot sends OpenTelemetry (OTel) data, so telemetry flows to an approved collector without each developer setting OTEL_* environment variables. The configuration is delivered through… The post Enterprise-managed OpenTelemetry export for VS Code and CLI appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b62b7b71f8dbd1d101b9"
+  },
+  {
     "title": "setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
     "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
     "source": "GitHub Changelog Atom",
@@ -2799,6 +2889,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7f86ccf955a9ca664d78"
+  },
+  {
+    "title": "Apple、次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットが非サポートとなるため、ユーザーに対しボリュームをAPFSで再フォーマット＆復号化しバックアップを取るように指示。",
+    "url": "https://applech2.com/archives/20260708-macos-28-encrypted-mac-os-extended-disks.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T10:58:17+00:00",
+    "fetched_at": "2026-07-08T22:03:19+00:00",
+    "summary": "Appleが次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットを非サポートとするため、ユーザーに対しボリュームをAPFSで再フォーマット＆復号化しバックアップを取るように指示しています。詳 […] The post Apple、次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットが非サポートとなるため、ユ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cb0cc1a050755eaab296"
   },
   {
     "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",

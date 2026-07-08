@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T21:10:45+00:00",
+  "generated_at": "2026-07-08T22:03:48+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-05-06T10:44:32+00:00",
         "relevance_score": 22,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-006/"
+      },
+      {
+        "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-08T21:11:56+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"
       },
       {
         "title": "TencentCloud/CubeSandbox",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-08T00:59:01+00:00",
         "relevance_score": 15,
         "url": "https://blog.asial.co.jp/6980/"
-      },
-      {
-        "title": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2023-07-19T00:00:00+00:00",
-        "relevance_score": 15,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       }
     ],
     "security": [
@@ -221,11 +221,25 @@
     ],
     "github": [
       {
+        "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-08T21:11:56+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"
+      },
+      {
         "title": "TencentCloud/CubeSandbox",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/TencentCloud/CubeSandbox"
+      },
+      {
+        "title": "Innersource security advisories are generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T21:30:35+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available"
       },
       {
         "title": "npm install-time security and GAT bypass2fa deprecation",
@@ -275,20 +289,6 @@
         "published_at": "2026-07-08T09:45:22+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent"
-      },
-      {
-        "title": "GitHub Mobile: Live notifications for Copilot CLI sessions",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-08T09:45:09+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions"
-      },
-      {
-        "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-08T00:05:35+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise"
       }
     ],
     "general": [
