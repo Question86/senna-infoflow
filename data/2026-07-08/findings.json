@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-08T14:57:17+00:00",
-    "fetched_at": "2026-07-08T14:56:58+00:00",
+    "published_at": "2026-07-08T18:03:47+00:00",
+    "fetched_at": "2026-07-08T18:03:27+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "8d525b80993233c23085"
+    "id": "91e21e42199ab771599d"
   },
   {
     "title": "The vision-based shift: Transforming construction safety with AI",
@@ -2168,6 +2168,26 @@
     "id": "9a247211cf0dec71bac6"
   },
   {
+    "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+    "source": "Federal Reserve Monetary Policy Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-07-08T18:00:00+00:00",
+    "fetched_at": "2026-07-08T18:03:27+00:00",
+    "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3befeddd8f020464d335"
+  },
+  {
     "title": "CERT betont Wichtigkeit: Security-Patch für Geoinformationssystem-Plattform",
     "url": "https://www.heise.de/news/ArcGIS-Enterprise-Wichtiger-Patch-sichert-Geoinformationssystem-Plattform-ab-11357947.html",
     "source": "heise Security Alerts",
@@ -2595,6 +2615,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6896605418efaa0a49be"
+  },
+  {
+    "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+    "url": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:47:52+00:00",
+    "fetched_at": "2026-07-08T18:03:27+00:00",
+    "summary": "AIエージェントが既存のソフトウェアビジネスの価値を奪う「SaaS is Dead」（SaaSの死）の次に名指しされたのは、SIer（システムインテグレーター）だった。 2月初旬、米Anthropicがナレッジワーカー向けの自律型AIエージェント（人間の代わりに自分で考えて業務をこなすAIアシスタント）機能「Claude Cowork」の業務プ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7bb9e305aeac601af5a6"
   },
   {
     "title": "ソフトウェア設計における抽象とメタの違い - kawasima",

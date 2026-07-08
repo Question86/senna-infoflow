@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T17:29:39+00:00",
-  "run_id": "2026-07-08T17:29:39+00:00",
+  "generated_at": "2026-07-08T18:03:58+00:00",
+  "run_id": "2026-07-08T18:03:58+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 111
+      "configured_public_sources_only": 113
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 111,
-    "displayed_findings": 111,
+    "today_file_total": 113,
+    "displayed_findings": 113,
     "high": 0,
     "medium": 53,
-    "observe": 58,
+    "observe": 60,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-08T14:57:17+00:00",
-        "fetched_at": "2026-07-08T14:56:58+00:00",
+        "published_at": "2026-07-08T18:03:47+00:00",
+        "fetched_at": "2026-07-08T18:03:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "8d525b80993233c23085"
+        "id": "91e21e42199ab771599d"
       },
       {
         "title": "The vision-based shift: Transforming construction safety with AI",
@@ -2200,6 +2200,26 @@
         "id": "9a247211cf0dec71bac6"
       },
       {
+        "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-07-08T18:00:00+00:00",
+        "fetched_at": "2026-07-08T18:03:27+00:00",
+        "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3befeddd8f020464d335"
+      },
+      {
         "title": "CERT betont Wichtigkeit: Security-Patch für Geoinformationssystem-Plattform",
         "url": "https://www.heise.de/news/ArcGIS-Enterprise-Wichtiger-Patch-sichert-Geoinformationssystem-Plattform-ab-11357947.html",
         "source": "heise Security Alerts",
@@ -2629,6 +2649,27 @@
         "id": "6896605418efaa0a49be"
       },
       {
+        "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T01:47:52+00:00",
+        "fetched_at": "2026-07-08T18:03:27+00:00",
+        "summary": "AIエージェントが既存のソフトウェアビジネスの価値を奪う「SaaS is Dead」（SaaSの死）の次に名指しされたのは、SIer（システムインテグレーター）だった。 2月初旬、米Anthropicがナレッジワーカー向けの自律型AIエージェント（人間の代わりに自分で考えて業務をこなすAIアシスタント）機能「Claude Cowork」の業務プ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7bb9e305aeac601af5a6"
+      },
+      {
         "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
         "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2800,8 +2841,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-08T14:57:17+00:00",
-      "fetched_at": "2026-07-08T14:56:58+00:00",
+      "published_at": "2026-07-08T18:03:47+00:00",
+      "fetched_at": "2026-07-08T18:03:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2835,7 +2876,7 @@
         "HD",
         "LOW"
       ],
-      "id": "8d525b80993233c23085"
+      "id": "91e21e42199ab771599d"
     },
     {
       "title": "The vision-based shift: Transforming construction safety with AI",
@@ -4964,6 +5005,26 @@
       "id": "9a247211cf0dec71bac6"
     },
     {
+      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-08T18:00:00+00:00",
+      "fetched_at": "2026-07-08T18:03:27+00:00",
+      "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3befeddd8f020464d335"
+    },
+    {
       "title": "CERT betont Wichtigkeit: Security-Patch für Geoinformationssystem-Plattform",
       "url": "https://www.heise.de/news/ArcGIS-Enterprise-Wichtiger-Patch-sichert-Geoinformationssystem-Plattform-ab-11357947.html",
       "source": "heise Security Alerts",
@@ -5393,6 +5454,27 @@
       "id": "6896605418efaa0a49be"
     },
     {
+      "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T01:47:52+00:00",
+      "fetched_at": "2026-07-08T18:03:27+00:00",
+      "summary": "AIエージェントが既存のソフトウェアビジネスの価値を奪う「SaaS is Dead」（SaaSの死）の次に名指しされたのは、SIer（システムインテグレーター）だった。 2月初旬、米Anthropicがナレッジワーカー向けの自律型AIエージェント（人間の代わりに自分で考えて業務をこなすAIアシスタント）機能「Claude Cowork」の業務プ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7bb9e305aeac601af5a6"
+    },
+    {
       "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
       "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5559,56 +5641,75 @@
   ],
   "new_findings": [
     {
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-08T10:00:00+00:00",
-      "fetched_at": "2026-07-08T17:29:10+00:00",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-08T18:03:47+00:00",
+      "fetched_at": "2026-07-08T18:03:27+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "91e21e42199ab771599d"
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-08T18:00:00+00:00",
+      "fetched_at": "2026-07-08T18:03:27+00:00",
+      "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "daa1bbdc48ef96ac547c"
+      "id": "3befeddd8f020464d335"
     },
     {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-08T00:00:00+00:00",
-      "fetched_at": "2026-07-08T17:29:10+00:00",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c712a75e425ee0e568a9"
-    },
-    {
-      "title": "Announcing TypeScript 7.0 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-08T16:28:33+00:00",
-      "fetched_at": "2026-07-08T17:29:10+00:00",
-      "summary": "As you can see, these codebases get a better speedup from dedicating more cores, but results will differ across projects and underlying machines. On the other hand, on machines with fewer CPU cores and less memory (e.g. CI runners) you may want to decrease this number to avoid unnecessary or inci...",
+      "published_at": "2026-07-08T01:47:52+00:00",
+      "fetched_at": "2026-07-08T18:03:27+00:00",
+      "summary": "AIエージェントが既存のソフトウェアビジネスの価値を奪う「SaaS is Dead」（SaaSの死）の次に名指しされたのは、SIer（システムインテグレーター）だった。 2月初旬、米Anthropicがナレッジワーカー向けの自律型AIエージェント（人間の代わりに自分で考えて業務をこなすAIアシスタント）機能「Claude Cowork」の業務プ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -5620,7 +5721,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7f86ccf955a9ca664d78"
+      "id": "7bb9e305aeac601af5a6"
     }
   ],
   "source_errors": [],

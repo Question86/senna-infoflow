@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T17:29:39+00:00",
+  "generated_at": "2026-07-08T18:03:58+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-08T14:57:17+00:00",
+        "published_at": "2026-07-08T18:03:47+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -370,6 +370,13 @@
         "published_at": "2026-07-08T08:15:24+00:00",
         "relevance_score": 12,
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "published_at": "2026-07-08T18:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
       },
       {
         "title": "Why Asia already knows how the AI economy ends",
