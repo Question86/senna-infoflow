@@ -1,17 +1,17 @@
 # Senna Source Manifest
 
-_Generated: 2026-07-08T00:06:31+00:00_
+_Generated: 2026-07-08T00:24:22+00:00_
 
 Scope: actual runtime sources after base + hot + macro overlay merge.
 
 ## Counts
 
-- Configured sources: `44`
-- Active sources: `36`
+- Configured sources: `49`
+- Active sources: `41`
 
 ### By lane
 
-- base: `5`
+- base: `10`
 - hot: `20`
 - macro_policy: `11`
 
@@ -20,7 +20,7 @@ Scope: actual runtime sources after base + hot + macro overlay merge.
 - github_search: `1`
 - hackernews: `1`
 - manual_note: `1`
-- rss: `32`
+- rss: `37`
 - webpage_check: `1`
 
 ## Sources by lane
@@ -31,6 +31,11 @@ Scope: actual runtime sources after base + hot + macro overlay merge.
 - `github_blog_atom` — GitHub Blog Atom / `rss` / class `-` / host `github.blog` / from `config/sources.yaml`
 - `github_changelog_atom` — GitHub Changelog Atom / `rss` / class `-` / host `github.blog` / from `config/sources.yaml`
 - `heise_security_atom` — heise Security Alerts / `rss` / class `-` / host `www.heise.de` / from `config/sources.yaml`
+- `bsi_cert_bund_advisories` — BSI CERT-Bund Security Advisories / `rss` / class `germany_security_advisory` / host `wid.cert-bund.de` / from `config/sources.yaml`
+- `bsi_cert_bund_csw` — BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss` / class `germany_security_advisory` / host `www.bsi.bund.de` / from `config/sources.yaml`
+- `cert_eu_security_advisories` — CERT-EU Security Advisories / `rss` / class `europe_security_advisory` / host `cert.europa.eu` / from `config/sources.yaml`
+- `cert_fr_alerts` — CERT-FR Alertes / `rss` / class `europe_security_advisory` / host `www.cert.ssi.gouv.fr` / from `config/sources.yaml`
+- `cert_fr_advisories` — CERT-FR Avis de sécurité / `rss` / class `europe_security_advisory` / host `www.cert.ssi.gouv.fr` / from `config/sources.yaml`
 - `manual_notes` — Manual Notes Inbox / `manual_note` / class `-` / host `-` / from `config/sources.yaml`
 
 ### hot

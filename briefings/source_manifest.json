@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-08T00:06:31+00:00",
+  "generated_at": "2026-07-08T00:24:22+00:00",
   "scope": "actual runtime sources after base + hot + macro overlay merge",
   "source_files": [
     "config/sources.yaml",
@@ -18,17 +18,17 @@
     ]
   },
   "counts": {
-    "configured_sources": 44,
-    "active_sources": 36,
+    "configured_sources": 49,
+    "active_sources": 41,
     "by_type": {
       "github_search": 1,
       "hackernews": 1,
       "manual_note": 1,
-      "rss": 32,
+      "rss": 37,
       "webpage_check": 1
     },
     "by_lane": {
-      "base": 5,
+      "base": 10,
       "hot": 20,
       "macro_policy": 11
     },
@@ -38,7 +38,9 @@
       "asia_tech_media": 1,
       "central_bank": 8,
       "central_bank_network": 3,
+      "europe_security_advisory": 3,
       "geoscience_institute": 1,
+      "germany_security_advisory": 2,
       "global_south_tech_media": 1,
       "humanitarian_recovery_watch": 1,
       "japan_social_link_radar": 1,
@@ -127,6 +129,56 @@
       "source_class": null,
       "host": "www.heise.de",
       "max_items": 5,
+      "runtime_source_file": "config/sources.yaml"
+    },
+    {
+      "id": "bsi_cert_bund_advisories",
+      "name": "BSI CERT-Bund Security Advisories",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "germany_security_advisory",
+      "host": "wid.cert-bund.de",
+      "max_items": 6,
+      "runtime_source_file": "config/sources.yaml"
+    },
+    {
+      "id": "bsi_cert_bund_csw",
+      "name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "germany_security_advisory",
+      "host": "www.bsi.bund.de",
+      "max_items": 6,
+      "runtime_source_file": "config/sources.yaml"
+    },
+    {
+      "id": "cert_eu_security_advisories",
+      "name": "CERT-EU Security Advisories",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "europe_security_advisory",
+      "host": "cert.europa.eu",
+      "max_items": 6,
+      "runtime_source_file": "config/sources.yaml"
+    },
+    {
+      "id": "cert_fr_alerts",
+      "name": "CERT-FR Alertes",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "europe_security_advisory",
+      "host": "www.cert.ssi.gouv.fr",
+      "max_items": 6,
+      "runtime_source_file": "config/sources.yaml"
+    },
+    {
+      "id": "cert_fr_advisories",
+      "name": "CERT-FR Avis de sécurité",
+      "type": "rss",
+      "lane": "base",
+      "source_class": "europe_security_advisory",
+      "host": "www.cert.ssi.gouv.fr",
+      "max_items": 6,
       "runtime_source_file": "config/sources.yaml"
     },
     {

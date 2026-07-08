@@ -1,19 +1,49 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-08T00:06:58+00:00",
+  "generated_at": "2026-07-08T00:24:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 31,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
-    "medium": 1,
-    "observe": 1
+    "medium": 14,
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-06-10T08:47:08+00:00",
+      "relevance_score": 22,
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+      "summary": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network. According…",
+      "section": "medium"
+    },
+    {
+      "title": "2026-006: Critical Vulnerability in PAN-OS",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-05-06T10:44:32+00:00",
+      "relevance_score": 22,
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+      "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this…",
+      "section": "medium"
+    },
+    {
+      "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-06-10T13:55:39+00:00",
+      "relevance_score": 18,
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+      "summary": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device.",
+      "section": "medium"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
       "source": "JVN Japan Vulnerability Notes",
@@ -32,6 +62,36 @@
       "relevance_score": 12,
       "url": "https://openai.com/index/mufg",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "section": "observe"
+    },
+    {
+      "title": "Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-05-07T15:45:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-255045-1032_bits.html",
+      "summary": "Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen",
+      "section": "observe"
+    },
+    {
+      "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-04-30T11:25:30+00:00",
+      "relevance_score": 12,
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+      "summary": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed. The vulnerability affects every mainstream Linux distributions shipping a kernel built since 2017.…",
+      "section": "observe"
+    },
+    {
+      "title": "Vulnérabilité dans Apache Struts 2 (13 décembre 2023)",
+      "source": "CERT-FR Alertes",
+      "source_type": "rss",
+      "published_at": "2023-12-13T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
+      "summary": "Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique CVE-2023-50164 concernant le cadriciel Struts 2. Cette vulnérabilité permet à un attaquant non authentifié de téléverser une porte dérobée sur un serveur vulnérable,…",
       "section": "observe"
     }
   ],
