@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-08T11:22:18Z",
+  "generated_at": "2026-07-08T12:01:19Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:36:39+00:00",
-      "age_days": 0.99,
+      "age_days": 1.02,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:26:39+00:00",
-      "age_days": 1.0,
+      "age_days": 1.02,
       "topics": [
         "security"
       ],
@@ -65,11 +65,11 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-06-10T13:55:39+00:00",
-      "age_days": 27.89,
+      "age_days": 27.92,
       "topics": [
         "security"
       ],
-      "dynamics_score": 32.59,
+      "dynamics_score": 32.58,
       "raw_band": "krass",
       "dynamic_band": "krass",
       "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
@@ -87,11 +87,11 @@
       "summary": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
     },
     {
-      "title": "[UPDATE] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1995",
+      "title": "[NEU] [hoch] X.Org X11 und Xwayland: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-08T08:01:39+00:00",
-      "age_days": 0.14,
+      "published_at": "2026-07-08T11:21:40+00:00",
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -109,39 +109,40 @@
         "high terms: code",
         "security high-signal: code"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX und NGINX NGINX Plus ausnutzen, um Daten zu manipulieren, beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in X.Org X11 und Xwayland ausnutzen, um einen Denial of Service zu verursachen oder potentiell beliebigen Programmcode auszuführen."
     },
     {
-      "title": "[UPDATE] [mittel] OpenSC: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1769",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-08T07:32:21+00:00",
-      "age_days": 0.16,
+      "published_at": "2026-07-08T10:56:39+00:00",
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
-      "dynamics_score": 31.0,
+      "dynamics_score": 24.9,
       "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": true,
+      "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code"
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSC ausnutzen, um beliebigen Programmcode auszuführen."
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um seine Privilegien zu eskalieren oder nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise Denial-of-Service-Angriffe, Speicherbeschädigungen oder die Offenlegung von Informationen."
     },
     {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1252",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -167,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -193,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:46:39+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -219,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:42+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -245,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T09:06:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -271,7 +272,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-03-23T19:03:59+00:00",
-      "age_days": 106.68,
+      "age_days": 106.71,
       "topics": [
         "security"
       ],
@@ -300,7 +301,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-05-06T10:44:32+00:00",
-      "age_days": 63.03,
+      "age_days": 63.05,
       "topics": [
         "ai",
         "security"
@@ -318,7 +319,7 @@
       "why": [
         "high terms: active, exploitation, critical",
         "security high-signal: active, exploitation, critical, unauthenticated",
-        "aging penalty -8.0 for 63.0d old signal",
+        "aging penalty -8.0 for 63.1d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this vulnerability. It is strongly recommended updating affected…"
@@ -333,8 +334,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 5,
-      "strong": 5,
+      "krass": 4,
+      "strong": 6,
       "watch": 2
     }
   }
