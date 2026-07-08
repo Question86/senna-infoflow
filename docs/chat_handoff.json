@@ -113,7 +113,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-07T11:36:39+00:00",
-        "age_days": 0.93,
+        "age_days": 0.95,
         "topics": [
           "security"
         ],
@@ -138,7 +138,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-07T11:26:39+00:00",
-        "age_days": 0.94,
+        "age_days": 0.96,
         "topics": [
           "security"
         ],
@@ -163,11 +163,11 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
         "source": "CERT-EU Security Advisories",
         "published_at": "2026-06-10T13:55:39+00:00",
-        "age_days": 27.84,
+        "age_days": 27.86,
         "topics": [
           "security"
         ],
-        "dynamics_score": 32.61,
+        "dynamics_score": 32.6,
         "raw_band": "krass",
         "dynamic_band": "krass",
         "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
@@ -180,7 +180,7 @@
         "why": [
           "high terms: active, exploitation, critical",
           "security high-signal: active, exploitation, critical, unauthenticated",
-          "aging penalty -2.4 for 27.8d old signal"
+          "aging penalty -2.4 for 27.9d old signal"
         ],
         "summary": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
       },
@@ -189,7 +189,7 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
         "source": "CERT-EU Security Advisories",
         "published_at": "2026-03-23T19:03:59+00:00",
-        "age_days": 106.62,
+        "age_days": 106.64,
         "topics": [
           "axiom",
           "security"
@@ -217,7 +217,7 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
         "source": "CERT-EU Security Advisories",
         "published_at": "2026-05-06T10:44:32+00:00",
-        "age_days": 62.97,
+        "age_days": 62.99,
         "topics": [
           "ai",
           "security"
