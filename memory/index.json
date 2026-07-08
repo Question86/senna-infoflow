@@ -30,11 +30,17 @@
     "briefings/latest.json only if deeper inspection is required"
   ],
   "intelligence_layer": {
-    "schema_version": 1,
-    "generated_at": "2026-07-08T09:32:40Z",
+    "schema_version": 2,
+    "generated_at": "2026-07-08T09:57:29Z",
     "dynamic_band_counts": {
-      "krass": 1,
-      "quiet": 3
-    }
+      "krass": 17,
+      "strong": 23
+    },
+    "gates": [
+      "krass requires cross-source/identity/official high-signal",
+      "stale single-source non-official max watch after 14d",
+      "single-source AI hype brake",
+      "official security high-signal boost"
+    ]
   }
 }
