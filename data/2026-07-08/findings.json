@@ -2575,6 +2575,27 @@
     "id": "c8c878b72537d7580203"
   },
   {
+    "title": "setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+    "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:05:06+00:00",
+    "fetched_at": "2026-07-08T18:38:37+00:00",
+    "summary": "The actions/setup-java v5.5.0 release adds cryptographic signature verification for downloaded JDKs, support for a new distribution, and several quality-of-life improvements for Maven users. Here’s what changed since v5.4.0. Verify JDK… The post setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); Actions (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f60c64e16da7edcdfd2"
+  },
+  {
     "title": "Announcing TypeScript 7.0 - TypeScript",
     "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
     "source": "Hatena Bookmark Hotentry IT",
