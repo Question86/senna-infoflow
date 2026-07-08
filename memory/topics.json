@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T11:27:28+00:00",
+  "generated_at": "2026-07-08T12:02:59+00:00",
   "topics": {
     "ai": [
       {
@@ -205,18 +205,18 @@
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       },
       {
+        "title": "[NEU] [hoch] IBM Operational Decision Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T11:51:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2242"
+      },
+      {
         "title": "[NEU] [hoch] X.Org X11 und Xwayland: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-08T11:21:40+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240"
-      },
-      {
-        "title": "[NEU] [hoch] Foxit PDF Editor und PDF Reader: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T10:46:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241"
       }
     ],
     "github": [
@@ -279,6 +279,20 @@
         "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26"
       },
       {
+        "title": "M 5.2 - 109 km SW of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-08T12:00:37.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
+      },
+      {
+        "title": "M 5.0 - 110 km SE of Kimbe, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-08T11:42:36.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawr"
+      },
+      {
         "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-08T04:33:21.040+00:00",
@@ -312,20 +326,6 @@
         "published_at": "2026-07-07T08:24:18+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e"
-      },
-      {
-        "title": "Every job in your GBS needs an upgrade, so does every person in it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T02:45:51+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/every-job-in-your-gbs-needs-an-upgrade-so-does-every-person-in-it-20260707/"
-      },
-      {
-        "title": "Beyond combat: How PvE technology is reshaping modern gaming",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T02:00:59+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/beyond-combat-how-pve-technology-is-reshaping-modern-gaming-20260706/"
       }
     ],
     "economy": [
