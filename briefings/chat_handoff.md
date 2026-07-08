@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-08T19:06:23+00:00_
+_Generated: 2026-07-08T19:44:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `114`
+- findings: `116`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-08T19:06:23+00:00_
 - url: https://cert.europa.eu/publications/security-advisories/2026-006/
 - summary: On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this…
 
-### 5. M 5.8 - 91 km SSW of Isangel, Vanuatu
+### 5. M 5.5 - Balleny Islands region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-08T19:38:55.634+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b
+- summary: PAGER - GREEN ShakeMap - I Time 2026-07-08 19:07:10 UTC 2026-07-08 19:07:10 UTC at epicenter Location 61.779°S 154.887°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.8 - 91 km SSW of Isangel, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-08T10:27:36.593+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-08 09:50:23 UTC 2026-07-08 09:50:23 UTC at epicenter Location 20.256°S 168.835°E Depth 10.00 km (6.21 mi)
 
-### 6. Southeast Asia’s AI buildout is racing toward a power wall
+### 7. Southeast Asia’s AI buildout is racing toward a power wall
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-08T03:00:53+00:00`
 - url: https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/
 - summary: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian…
 
-### 7. Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)
+### 8. Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)
 - source: CERT-FR Avis de sécurité
 - score: `13`
 - published: `2026-06-29T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
-
-### 8. Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
-- score: `12`
-- published: `2026-07-08T08:15:24+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html
-- summary: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T19:06:23+00:00_
+_Generiert: 2026-07-08T19:44:16+00:00_
 
 ## Kurzlage
 
-114 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+116 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-07-08T19:06:23+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-01`
   - Kurz: Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Balleny Islands Region 08/07/2026 19:07 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550840)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Balleny Islands Region 08/07/2026 19:07 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,6 +49,10 @@ _Generiert: 2026-07-08T19:06:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Etna in Italy
+- **USGS earthquake M5.5 - Balleny Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b)
+  - Quelle: USGS
+  - Zeit: `2026-07-08T19:07:10+00:00`
+  - Kurz: M5.5 - Balleny Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -199,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.5 - Balleny Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-08T19:38:55.634+00:00`, fetched `2026-07-08T19:43:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-07-08 19:07:10 UTC 2026-07-08 19:07:10 UTC at epicenter Location 61.779°S 154.887°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.8 - 91 km SSW of Isangel, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-08T10:27:36.593+00:00`, fetched `2026-07-08T10:47:00+00:00`
@@ -324,15 +341,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-263373-1032_bits.html)
-  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
-  - Zeit: published `2026-06-09T07:20:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: ausgenutzt, BSI, CERT-Bund, Cyber-Sicherheitswarnung, VPN
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); VPN (+2.5)
-  - Kurz: Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
