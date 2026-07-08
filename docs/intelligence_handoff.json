@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-08T20:40:00Z",
+  "generated_at": "2026-07-08T21:07:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:36:39+00:00",
-      "age_days": 1.38,
+      "age_days": 1.4,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:26:39+00:00",
-      "age_days": 1.38,
+      "age_days": 1.4,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-06-10T13:55:39+00:00",
-      "age_days": 28.28,
+      "age_days": 28.3,
       "topics": [
         "security"
       ],
@@ -82,7 +82,7 @@
       "why": [
         "high terms: active, exploitation, critical",
         "security high-signal: active, exploitation, critical, unauthenticated",
-        "aging penalty -2.5 for 28.3d old signal"
+        "aging penalty -2.6 for 28.3d old signal"
       ],
       "summary": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
     },
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:21:40+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:56:39+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -142,7 +142,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1252",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:51:40+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -220,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:46:39+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:42+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-03-23T19:03:59+00:00",
-      "age_days": 107.07,
+      "age_days": 107.09,
       "topics": [
         "security"
       ],
@@ -301,7 +301,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-05-06T10:44:32+00:00",
-      "age_days": 63.41,
+      "age_days": 63.43,
       "topics": [
         "ai",
         "security"
