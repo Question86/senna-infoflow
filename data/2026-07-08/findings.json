@@ -666,6 +666,28 @@
     "id": "9a247211cf0dec71bac6"
   },
   {
+    "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
+    "url": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T15:02:55+00:00",
+    "fetched_at": "2026-07-08T00:52:34+00:00",
+    "summary": "はじめに AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！ ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02a12485d2b076b74295"
+  },
+  {
     "title": "Multiples vulnérabilités dans les produits IBM (26 juin 2026)",
     "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
     "source": "CERT-FR Avis de sécurité",
