@@ -1923,6 +1923,28 @@
     "id": "5394dbabd726b773792a"
   },
   {
+    "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+    "url": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T07:02:34+00:00",
+    "fetched_at": "2026-07-08T14:04:24+00:00",
+    "summary": "こんにちは。Ai Workforce事業部でAIエージェントのためのデータ基盤を開発している uphy です。業務では複数のプロジェクトを並走させているのですが、今回は個人のタスク管理についてお話しします。 タスク管理は、この5年ほどMarkdownベースでわりとライトにやってきました。プロジェクトごとにTODOリストのノートを...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "703b3c53d3b17434885c"
+  },
+  {
     "title": "Add review cycles and time to adoption phases in the usage API",
     "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
     "source": "GitHub Changelog Atom",
@@ -2204,6 +2226,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c8c878b72537d7580203"
+  },
+  {
+    "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",
+    "url": "https://goldhead.hatenablog.com/entry/2026/07/08/125954",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T04:30:39+00:00",
+    "fetched_at": "2026-07-08T14:04:24+00:00",
+    "summary": "月曜日、会社を休んだ。休んで、家の大掃除をした。大掃除だ。おれの部屋はゴミ屋敷未満ちらかった部屋以上だ。もうおれの手には負えないとなった。彼女の助言もありプロの手を借りることにした。掃除に関しては彼女もプロもすごかった。そのあたりについてはまた別にしっかり書く。 プロへの依頼はくらしのマーケット経...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6896605418efaa0a49be"
   },
   {
     "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
