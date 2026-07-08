@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T14:57:28+00:00",
-  "run_id": "2026-07-08T14:57:28+00:00",
+  "generated_at": "2026-07-08T15:46:57+00:00",
+  "run_id": "2026-07-08T15:46:57+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 101
+      "configured_public_sources_only": 104
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 101,
-    "displayed_findings": 101,
+    "new_relevant_findings": 3,
+    "today_file_total": 104,
+    "displayed_findings": 104,
     "high": 0,
-    "medium": 50,
-    "observe": 51,
+    "medium": 51,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -263,6 +263,30 @@
           "S"
         ],
         "id": "e5d6aa9f0f49b377b509"
+      },
+      {
+        "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+        "url": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T13:10:31+00:00",
+        "fetched_at": "2026-07-08T15:46:23+00:00",
+        "summary": "Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。 本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e8e91b4705212fdac5f7"
       },
       {
         "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
@@ -1801,6 +1825,42 @@
         "id": "5bb41b59cf63895f9d37"
       },
       {
+        "title": "M 4.5 - 7 km NNW of Ābdānān, Iran",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tazy",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-08T15:46:23.040+00:00",
+        "fetched_at": "2026-07-08T15:46:23+00:00",
+        "summary": "Time 2026-07-08 15:22:34 UTC 2026-07-08 15:22:34 UTC at epicenter Location 33.058°N 47.394°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "022803cf0b137b455af0"
+      },
+      {
         "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2228,6 +2288,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e063d3183b692141f94a"
+      },
+      {
+        "title": "Foxit-Entwickler schließen Schwachstellen in PDF Reader und Editor",
+        "url": "https://www.heise.de/news/Foxit-Entwickler-schliessen-Schwachstellen-in-PDF-Reader-und-Editor-11358393.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-08T15:16:00.000+00:00",
+        "fetched_at": "2026-07-08T15:46:23+00:00",
+        "summary": "Nicht kritisch, aber zahlreich: Aktuelle Sicherheitsupdates dichten Foxits PDF Reader und Editor gegen eine lange Lückenliste ab.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6e227f5f8fa73bb66434"
       },
       {
         "title": "LINE MAN RIDE targets 3,000 EV drivers as Thailand’s ride-hailing economics shift",
@@ -2778,6 +2858,30 @@
         "S"
       ],
       "id": "e5d6aa9f0f49b377b509"
+    },
+    {
+      "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+      "url": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T13:10:31+00:00",
+      "fetched_at": "2026-07-08T15:46:23+00:00",
+      "summary": "Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。 本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e8e91b4705212fdac5f7"
     },
     {
       "title": "[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen",
@@ -4314,6 +4418,42 @@
       "id": "5bb41b59cf63895f9d37"
     },
     {
+      "title": "M 4.5 - 7 km NNW of Ābdānān, Iran",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tazy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T15:46:23.040+00:00",
+      "fetched_at": "2026-07-08T15:46:23+00:00",
+      "summary": "Time 2026-07-08 15:22:34 UTC 2026-07-08 15:22:34 UTC at epicenter Location 33.058°N 47.394°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "022803cf0b137b455af0"
+    },
+    {
       "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4743,6 +4883,26 @@
       "id": "e063d3183b692141f94a"
     },
     {
+      "title": "Foxit-Entwickler schließen Schwachstellen in PDF Reader und Editor",
+      "url": "https://www.heise.de/news/Foxit-Entwickler-schliessen-Schwachstellen-in-PDF-Reader-und-Editor-11358393.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-08T15:16:00.000+00:00",
+      "fetched_at": "2026-07-08T15:46:23+00:00",
+      "summary": "Nicht kritisch, aber zahlreich: Aktuelle Sicherheitsupdates dichten Foxits PDF Reader und Editor gegen eine lange Lückenliste ab.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6e227f5f8fa73bb66434"
+    },
+    {
       "title": "LINE MAN RIDE targets 3,000 EV drivers as Thailand’s ride-hailing economics shift",
       "url": "https://e27.co/line-man-ride-targets-3000-ev-drivers-as-thailands-ride-hailing-economics-shift-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -5057,25 +5217,43 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T14:57:17+00:00",
-      "fetched_at": "2026-07-08T14:56:58+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+      "url": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T13:10:31+00:00",
+      "fetched_at": "2026-07-08T15:46:23+00:00",
+      "summary": "Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。 本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します...",
       "matched_keywords": [
-        "APAC Trend Radar",
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e8e91b4705212fdac5f7"
+    },
+    {
+      "title": "M 4.5 - 7 km NNW of Ābdānān, Iran",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tazy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T15:46:23.040+00:00",
+      "fetched_at": "2026-07-08T15:46:23+00:00",
+      "summary": "Time 2026-07-08 15:22:34 UTC 2026-07-08 15:22:34 UTC at epicenter Location 33.058°N 47.394°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -5096,104 +5274,27 @@
         "HD",
         "LOW"
       ],
-      "id": "8d525b80993233c23085"
+      "id": "022803cf0b137b455af0"
     },
     {
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "Foxit-Entwickler schließen Schwachstellen in PDF Reader und Editor",
+      "url": "https://www.heise.de/news/Foxit-Entwickler-schliessen-Schwachstellen-in-PDF-Reader-und-Editor-11358393.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-06-29T00:00:00+00:00",
-      "fetched_at": "2026-07-08T14:56:58+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published_at": "2026-07-08T15:16:00.000+00:00",
+      "fetched_at": "2026-07-08T15:46:23+00:00",
+      "summary": "Nicht kritisch, aber zahlreich: Aktuelle Sicherheitsupdates dichten Foxits PDF Reader und Editor gegen eine lange Lückenliste ab.",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
+        "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "aa05409c2cf6d423b3b4"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-29T00:00:00+00:00",
-      "fetched_at": "2026-07-08T14:56:58+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e9e2fea284152157ea45"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mattermost Server (29 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0813/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-29T00:00:00+00:00",
-      "fetched_at": "2026-07-08T14:56:58+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5bb41b59cf63895f9d37"
-    },
-    {
-      "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
-      "url": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-08T07:55:06+00:00",
-      "fetched_at": "2026-07-08T14:56:58+00:00",
-      "summary": "この記事は長いです。長い癖に具体的に自分が使っているdocker composeなどの設定までは記載していません。そこまで書くとさらにとんでもなく長い記事になってしまうと思ったためです。あくまで思想としてどのように最近開発環境を考えているのかを伝えられたらと思っています。コンテナ開発における環境に悩んでいる方...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fe80f9e69b8e0c2a6ed9"
+      "id": "6e227f5f8fa73bb66434"
     }
   ],
   "source_errors": [],

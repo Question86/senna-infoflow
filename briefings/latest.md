@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T14:57:28+00:00_
+_Generiert: 2026-07-08T15:46:57+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,30 +29,8 @@ _Generiert: 2026-07-08T14:57:28+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-01`
   - Kurz: Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green flood alert in Finland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104008)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Finland
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550528)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 850 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550395)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 850 thousand in MMI&gt;=IV.
-- **GDACS: Volcanic eruption is on going for Etna in Italy** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000142)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Etna in Italy
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f09006be7d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -123,6 +101,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった** — Score 17, observation — [Quelle](https://zenn.dev/layerx/articles/9f25ec86a31730)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-08T13:10:31+00:00`, fetched `2026-07-08T15:46:23+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。 本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-08T07:17:17+00:00`, fetched `2026-07-08T07:26:26+00:00`
@@ -195,15 +182,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: エンジニアの又川です。 Anthropic の最上位モデル Claude Fable 5、もう使っていますか？ 7 月に入ってから、Claude Code にはこんなお知らせが表示されるようになりました。 ▎ Fable 5 is back. ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. ▎ If you hit your limit, you c...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)** — Score 15, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2023-07-19T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: alerte, CERT-FR, Citrix, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Citrix (+2.5)
-  - Kurz: Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'équipement est vulnérable s'il est configuré en tant que...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
