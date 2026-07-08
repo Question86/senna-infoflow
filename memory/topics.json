@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T00:53:04+00:00",
+  "generated_at": "2026-07-08T01:27:22+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-08T01:27:12+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "2026-007: Critical Vulnerability in Windows Netlogon",
         "source": "CERT-EU Security Advisories",
@@ -66,13 +73,6 @@
         "published_at": "2023-10-17T00:00:00+00:00",
         "relevance_score": 12,
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (26 juin 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-06-26T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/"
       }
     ],
     "security": [

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T00:53:04+00:00_
+_Generiert: 2026-07-08T01:27:22+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „2026-007: Critical Vulnerability in Windows Netlogon“ aus CERT-EU Security Advisories (Score 22, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-08T01:27:12+00:00`, fetched `2026-07-08T01:26:54+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-007: Critical Vulnerability in Windows Netlogon** — Score 22, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-007/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-06-10T08:47:08+00:00`, fetched `2026-07-08T00:24:22+00:00`
@@ -185,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); VPN (+2.5)
   - Kurz: Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore already has the ingredients for world-class founders, now we need the culture to match** — Score 9, observation — [Quelle](https://e27.co/singapore-already-has-the-ingredients-for-world-class-founders-now-we-need-the-culture-to-match-20260705/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-08T01:15:50+00:00`, fetched `2026-07-08T01:26:54+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: There is a fond joke in Singapore’s startup circles: give us a bold idea, and we will hand it back with a business plan, a risk register, and a steering committee, all before anyone has shipped version one. It is told with affection, and like the best jokes, it carries a grain of truth. We […] The post Singapore already has the ingredients for world-class founders, now we need the culture to match appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **APIもDBも東京なのに、全クエリが太平洋横断していた話** — Score 8, observation — [Quelle](https://zenn.dev/avaintelligence/articles/b7d4743a448485)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

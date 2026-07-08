@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-08T01:27:12+00:00",
+    "fetched_at": "2026-07-08T01:26:54+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "ee6959874dfa20e61abb"
+  },
+  {
     "title": "2026-007: Critical Vulnerability in Windows Netlogon",
     "url": "https://cert.europa.eu/publications/security-advisories/2026-007/",
     "source": "CERT-EU Security Advisories",
@@ -641,6 +683,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35804def1fdd6ff84c6d"
+  },
+  {
+    "title": "Singapore already has the ingredients for world-class founders, now we need the culture to match",
+    "url": "https://e27.co/singapore-already-has-the-ingredients-for-world-class-founders-now-we-need-the-culture-to-match-20260705/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:15:50+00:00",
+    "fetched_at": "2026-07-08T01:26:54+00:00",
+    "summary": "There is a fond joke in Singapore’s startup circles: give us a bold idea, and we will hand it back with a business plan, a risk register, and a steering committee, all before anyone has shipped version one. It is told with affection, and like the best jokes, it carries a grain of truth. We […] The post Singapore already has the ingredients for world-class founders, now we need the culture to match appeared first on…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f848f706c009761b7db7"
   },
   {
     "title": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (23 octobre 2023)",
