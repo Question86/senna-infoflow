@@ -18,12 +18,23 @@
   },
   "files": {
     "topics": "memory/topics.json",
-    "index_md": "memory/index.md"
+    "index_md": "memory/index.md",
+    "dynamics": "memory/dynamics.json",
+    "intelligence_handoff": "briefings/intelligence_handoff.json",
+    "repo_memory_candidates": "memory/real_memory_candidates.json"
   },
   "read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "memory/topics.json",
     "briefings/latest.json only if deeper inspection is required"
-  ]
+  ],
+  "intelligence_layer": {
+    "schema_version": 1,
+    "generated_at": "2026-07-08T05:39:33Z",
+    "dynamic_band_counts": {
+      "krass": 1,
+      "quiet": 3
+    }
+  }
 }
