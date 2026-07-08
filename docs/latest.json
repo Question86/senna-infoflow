@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T23:20:47+00:00",
-  "run_id": "2026-07-08T23:20:47+00:00",
+  "generated_at": "2026-07-08T23:44:54+00:00",
+  "run_id": "2026-07-08T23:44:54+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 130,
     "displayed_findings": 130,
     "high": 0,
@@ -6479,29 +6479,7 @@
       "id": "61484fad3c3d17128d50"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-08T17:01:22+00:00",
-      "fetched_at": "2026-07-08T23:20:17+00:00",
-      "summary": "Drop a folder or zip. See your site live on Cloudflare's global network in seconds.",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c884f13721d4cfef824"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
