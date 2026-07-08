@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T03:31:40+00:00",
-  "run_id": "2026-07-08T03:31:40+00:00",
+  "generated_at": "2026-07-08T04:40:16+00:00",
+  "run_id": "2026-07-08T04:40:16+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 2,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
     "medium": 20,
-    "observe": 29,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -914,6 +914,42 @@
         "id": "35804def1fdd6ff84c6d"
       },
       {
+        "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-08T04:33:21.040+00:00",
+        "fetched_at": "2026-07-08T04:39:46+00:00",
+        "summary": "Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "43fc387a5d654e27b9c2"
+      },
+      {
         "title": "Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle",
         "url": "https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1198,6 +1234,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c8c878b72537d7580203"
+      },
+      {
+        "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
+        "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T01:16:29+00:00",
+        "fetched_at": "2026-07-08T04:39:46+00:00",
+        "summary": "ソフトウェアは、現実世界をそのまま扱えない。 たとえば、ある町の地図を描くとする。同じ町でも、目的が違えば描き方はまるで変わる。 路線図は、駅と乗り換えさえ分かればよい。だから、実際の線路の曲がりも、駅どうしの距離のばらつきも捨てて、等間隔に並んだ駅とまっすぐな線だけを残す。 道路地図は逆で、道の形...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "672062e1cf54797d34f9"
       },
       {
         "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
@@ -2167,6 +2224,42 @@
       "id": "35804def1fdd6ff84c6d"
     },
     {
+      "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T04:33:21.040+00:00",
+      "fetched_at": "2026-07-08T04:39:46+00:00",
+      "summary": "Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "43fc387a5d654e27b9c2"
+    },
+    {
       "title": "Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle",
       "url": "https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2453,6 +2546,27 @@
       "id": "c8c878b72537d7580203"
     },
     {
+      "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
+      "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T01:16:29+00:00",
+      "fetched_at": "2026-07-08T04:39:46+00:00",
+      "summary": "ソフトウェアは、現実世界をそのまま扱えない。 たとえば、ある町の地図を描くとする。同じ町でも、目的が違えば描き方はまるで変わる。 路線図は、駅と乗り換えさえ分かればよい。だから、実際の線路の曲がりも、駅どうしの距離のばらつきも捨てて、等間隔に並んだ駅とまっすぐな線だけを残す。 道路地図は逆で、道の形...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "672062e1cf54797d34f9"
+    },
+    {
       "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
       "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2537,25 +2651,19 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T03:31:27+00:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T04:33:21.040+00:00",
+      "fetched_at": "2026-07-08T04:39:46+00:00",
+      "summary": "Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2576,136 +2684,28 @@
         "HD",
         "LOW"
       ],
-      "id": "57e9135c58e458916995"
+      "id": "43fc387a5d654e27b9c2"
     },
     {
-      "title": "富士電機製Pupsmanのインストーラにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN62347140/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-08T12:00:00+09:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
-      "summary": "富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bc661cf4f13660a277ad"
-    },
-    {
-      "title": "Southeast Asia’s AI buildout is racing toward a power wall",
-      "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-08T03:00:53+00:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
-      "summary": "Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian data centre market is on track to reach US$30.47 billion by 2030, growing at […] The post Southeast Asia’s AI buildout is racing toward a power wall appeared fi…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "4fc6e220f82f84c898d0"
-    },
-    {
-      "title": "Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle",
-      "url": "https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-08T02:30:42+00:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
-      "summary": "Founders tend to rely on anecdotes in choosing a fundraising vehicle. As tax advisors, we see plenty of costly mistakes: the entity at the top of your cap table sets the rules for how interest is taxed when you borrow, how your team is taxed on its equity, and how an eventual exit is treated. […] The post Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle a…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9dbb6c07a0ecd132743a"
-    },
-    {
-      "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
-      "url": "https://togetter.com/li/2718162",
+      "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
+      "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-08T01:37:18+00:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
-      "summary": "DeNA会長・南場智子のAI活用術5選がヤバかった AIを「便利な調べもの相手」として開いているなら、その実力の半分も引き出せていません。文章の要約、アイデア出し、壁打ち。確かに便利です。しかしそれは、他の誰でもできる使い方にすぎません。本当の価値は… 銀次 | AI×効率化@masaki_aihack 銀次 | AI×効率化 @masaki...",
+      "published_at": "2026-07-08T01:16:29+00:00",
+      "fetched_at": "2026-07-08T04:39:46+00:00",
+      "summary": "ソフトウェアは、現実世界をそのまま扱えない。 たとえば、ある町の地図を描くとする。同じ町でも、目的が違えば描き方はまるで変わる。 路線図は、駅と乗り換えさえ分かればよい。だから、実際の線路の曲がりも、駅どうしの距離のばらつきも捨てて、等間隔に並んだ駅とまっすぐな線だけを残す。 道路地図は逆で、道の形...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a62f040da774fc60567b"
-    },
-    {
-      "title": "Every job in your GBS needs an upgrade, so does every person in it",
-      "url": "https://e27.co/every-job-in-your-gbs-needs-an-upgrade-so-does-every-person-in-it-20260707/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-08T02:45:51+00:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
-      "summary": "The finance analyst I hired five years ago and the finance analyst I need today aren’t the same person. Same title. Same place on the org chart. But if I look honestly at what the role actually requires now versus what it required when I last wrote the job description, I’m looking at two different […] The post Every job in your GBS needs an upgrade, so does every person in it appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "20940a66fe2b279d5b7e"
+      "id": "672062e1cf54797d34f9"
     }
   ],
   "source_errors": [],

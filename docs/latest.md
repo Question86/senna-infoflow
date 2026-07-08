@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T03:31:40+00:00_
+_Generiert: 2026-07-08T04:40:16+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -249,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); VPN (+2.5)
   - Kurz: Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-08T04:33:21.040+00:00`, fetched `2026-07-08T04:39:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle** — Score 9, observation — [Quelle](https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-08T02:30:42+00:00`, fetched `2026-07-08T03:31:04+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: DeNA会長・南場智子のAI活用術5選がヤバかった AIを「便利な調べもの相手」として開いているなら、その実力の半分も引き出せていません。文章の要約、アイデア出し、壁打ち。確かに便利です。しかしそれは、他の誰でもできる使い方にすぎません。本当の価値は… 銀次 | AI×効率化@masaki_aihack 銀次 | AI×効率化 @masaki...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **APIもDBも東京なのに、全クエリが太平洋横断していた話** — Score 8, observation — [Quelle](https://zenn.dev/avaintelligence/articles/b7d4743a448485)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-07T15:02:55+00:00`, fetched `2026-07-08T00:52:34+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！ ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -882,6 +882,42 @@
     "id": "35804def1fdd6ff84c6d"
   },
   {
+    "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-08T04:33:21.040+00:00",
+    "fetched_at": "2026-07-08T04:39:46+00:00",
+    "summary": "Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "43fc387a5d654e27b9c2"
+  },
+  {
     "title": "Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle",
     "url": "https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1166,6 +1202,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c8c878b72537d7580203"
+  },
+  {
+    "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
+    "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:16:29+00:00",
+    "fetched_at": "2026-07-08T04:39:46+00:00",
+    "summary": "ソフトウェアは、現実世界をそのまま扱えない。 たとえば、ある町の地図を描くとする。同じ町でも、目的が違えば描き方はまるで変わる。 路線図は、駅と乗り換えさえ分かればよい。だから、実際の線路の曲がりも、駅どうしの距離のばらつきも捨てて、等間隔に並んだ駅とまっすぐな線だけを残す。 道路地図は逆で、道の形...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "672062e1cf54797d34f9"
   },
   {
     "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
