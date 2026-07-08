@@ -4,34 +4,45 @@
 
 Das System ist kein vollständiger Nachrichtendienst und behauptet nicht, die Welt vollständig zu überwachen. Es liest nur konfigurierte, öffentliche, freigegebene Quellen. Keine privaten Accounts. Keine Logins. Keine Paywall-/Datenbank-Umgehung. Kein Scraping gegen klare Verbote.
 
-## Aktueller Grundsatz
+## Grundsatz
 
 Nicht jeder Feed ist gleich wertvoll.
 
-Ein offizieller großer Emittent wie FED, EZB oder BIS bekommt Glaubwürdigkeit, aber keine automatische Ranking-Dominanz. Ein kleiner frühes Signal, etwa ein lokaler Waldbrand, ein Blackout, ein Streik oder eine Lieferkettenstörung, bleibt sichtbar, wenn es konkret, neu oder dynamisch ist.
-
-Kurz:
+Ein offizieller großer Emittent wie FED, EZB, BIS, CISA oder NOAA bekommt Glaubwürdigkeit, aber keine automatische Ranking-Dominanz. Ein kleiner frühes Signal, etwa ein lokaler Waldbrand, ein Blackout, ein Streik, ein Port-/Pipeline-Ausfall, ein Repo-Security-Hinweis oder eine Lieferkettenstörung, bleibt sichtbar, wenn es konkret, neu oder dynamisch ist.
 
 ```text
-Glaubwürdigkeit ja.
+Glaubwrdigkeit ja.
 Megaphon-Dominanz nein.
 Kleine Anfangsdynamiken bleiben sichtbar.
 Vendor-/Eigenfeeds zählen nicht wie Weltlage.
 ```
 
-## Was überwacht wird
+## Architektur in einem Satz
+
+```text
+konfigurierte öffentliche Quellen
+↓ Lane-Merge
+↓ Fetch mit Budget/Timeout
+↓ Dedup & Tagespool
+↓ Debias
+↓ Netzwerk-/Resonanzranking
+↓ Health/Manifest/Briefings
+↓ Handoff für Senna
+```
+
+Die ausführliche Architektur liegt in [`docs/architecture.md` (docs/architecture.md).
+
+## Quellen und Lanes
 
 Die Quellen entstehen im Workflow aus mehreren Konfigurationsdateien:
 
 ```text
-config/sources.yaml        # Basisquellen
-config/hot_sources.yaml    # schnelle 5-Minuten-Lane
-config/macro_sources.yaml  # Wirtschaft / Politik / Makro, 15-Minuten-Lane oder manuell
+config/sources.yaml          # Basisquellen
+config/hot_sources.yaml      #  schnelle 5-Minuten-Lane
+config/macro_sources.yaml    # Wirtschaft / Politik / Makro, 15-Minuten-Lane oder manuell
 ```
 
-Die alte Aussage „nur config/sources.yaml“ war falsch beziehungsweise veraltet. Im laufenden GitHub-Action-Run werden Hot- und Macro-Overlays temporär in `config/sources.yaml` gemerged.
-
-Nach jedem Lauf schreibt das System zusätzlich:
+Im laufenden GitHub-Action-Run werden Hot- und Macro-Overlays temporär in `config/sources.yaml` gemerged. Nach jedem Lauf schreibt das System zusätzlich:
 
 ```text
 briefings/source_manifest.json
@@ -54,7 +65,7 @@ Typische Quellen:
 - manuelle öffentliche Hinweise
 - ausgewählte öffentliche Risiko-/Odds-Proxies, sofern abrufbar
 
-Diese Lane ist schnell, aber anfällig für Spezialfeed-Bias.
+Diese Lane ist schnell, aber anfällig für Spezialfeed-Bias. Deshalb wird sie durch Debias, Resonanzranking und Source-Governance begrenzt.
 
 ### Macro-/Policy-Lane
 
@@ -68,7 +79,7 @@ Typische Quellen:
 - OECD
 - GDELT-Makro-/Politik-Sensoren
 
-Diese Lane soll Wirtschaft, Politik, Zinsen, Zentralbanken, Sanktionen, Märkte, Wahlen, Unruhe und globale Policy-Signale ergänzen.
+Diese Lane ergänzt Wirtschaft, Politik, Zinsen, Zentralbanken, Sanktionen, Märkte, Wahlen, Unruhe und globale Policy-Signale. Sie darf wichtig sein, aber nicht allein das Lagebild dominieren.
 
 ## Unterstützte Quellentypen
 
@@ -81,64 +92,9 @@ Diese Lane soll Wirtschaft, Politik, Zinsen, Zentralbanken, Sanktionen, Märkte,
 | `webpage_check` | Einzelne Webseiten höflich und begrenzt prüfen |
 | `manual_note` | Von User Yps freigegebene Hinweise aus Inbox-Dateien |
 
-## Bias-Regeln
+## Vorsortierung und Ranking
 
-Das System behandelt Quellen nicht mehr flach.
-
-### Vendor-/Eigenfeeds
-
-Snyk, PortSwigger und ähnliche Vendor-Feeds sind nützlich, aber nicht neutral. Sie senden stark über ihre eigene Domäne.
-
-Deshalb gilt:
-
-```text
-Vendor-/Self-Feeds bleiben sichtbar,
-werden aber ohne unabhängiges Hochsignal gecappt.
-```
-
-Beispiele für Hochsignal:
-
-- actively exploited
-- exploited in the wild
-- CISA KEV
-- zero-day
-- emergency patch
-
-### GitHub-Repo-Signale
-
-Ein einzelnes GitHub-Repository ist ein Frühindikator, aber kein Weltlage-Beweis.
-
-```text
-Single-platform GitHub repo signals bleiben sichtbar,
-dominieren aber ohne Resonanz nicht das Ranking.
-```
-
-### Odds-/Prediction-Proxies
-
-Öffentliche Odds-Seiten sind Stimmungs-/Erwartungsproxies, keine Wahrheit und keine Handlungsempfehlung.
-
-```text
-Odds-Proxies werden ohne externe Bestätigung gecappt.
-Keine Wettberatung.
-```
-
-### Falsch-positive Keywords
-
-Das System hat eine Debias-Schicht:
-
-```text
-scripts/debias_findings_postprocess.py
-```
-
-Sie korrigiert unter anderem:
-
-- `repo` darf nicht `report.aspx` als GitHub matchen
-- `Who will win` darf nicht automatisch als WHO/Public-Health-Signal zählen
-- Vendor-/GitHub-/Odds-Signale werden als solche gekennzeichnet und begrenzt
-
-## Ranking-Schichten
-
-Relevanz entsteht aus mehreren Komponenten:
+Relevanz entsteht aus mehreren Schichten:
 
 ```text
 keyword score
@@ -149,35 +105,87 @@ keyword score
 + momentum
 + baseline deviation
 + early-signal bonus
+- duplicate/noise pressure
 - dominance penalty
 - source-bias caps
 ```
 
-Die Resonanzlogik liegt in:
+Wichtige Dateien:
 
 ```text
+scripts/debias_findings_postprocess.py
+scripts/network_hub_postprocess.py
 scripts/resonance_rank_postprocess.py
+scripts/source_quality_guard.py
 config/resonance_ranking.yaml
+config/source_governance.yaml
 ```
+
+### Bias-Regeln
+Vendor-/Eigenfeeds, einzelne GitHub-Repos, Odds-/Prediction-Proxies und Social-/Platform-Signale bleiben sichtbar, werden aber ohne unabhängige Bestätigung oder klare Hochsignal-Begriffe begrenzt.
+
+Beispiele für Hochsignal:
+
+- actively exploited
+- exploited in the wild
+- CISA KEV
+- zero-day
+- emergency patch
+- evacuation order
+- port closure
+- pipeline outage
+- central bank emergency
+
+Die Regel ist absichtlich streng:
+
+
+```text
+Ein Feed darf früh warnen.
+Er darf ohne Resonanz nicht die Welt erklären.
+```
+
+## Source-Governance
+
+`config/source_governance.yaml` definiert, welche Degeneration das Repo vermeiden soll:
+
+- zu viele generische Mainstream-/Major-Media-Quellen;
+- zu starke Single-Host-oder Single-Class-Dominanz;
+- zu viele Vendor-/Repo-/Odds-Signale ohne Gegenquelle;
+- unklare oder fehlende Source-Klassen;
+- fehlende Early-Signal-Abdeckung.
+
+`scripts/source_quality_guard.py` wertet nach jedem Run Manifest, Netzerk und Briefing aus und schreibt:
+
+
+```text
+briefings/source_quality.json
+briefings/source_quality.md
+```
+
+Der Guard ist eine Frühwarnschicht. Er bricht den Workflow nicht bei jedem Warnsignal, aber macht Degeneration sichtbar.
 
 ## Wichtige Outputs
 
+
 ```text
-briefings/latest.json          # aktueller Delta-Run
-briefings/latest.md            # menschenlesbare Kurzlage
-briefings/network.json         # Cluster / Network Hub / Resonanzranking
+briefings/latest.json           # aktueller Dashboard-/Tagespool
+briefings/latest.md             # menschenlesbare Kurzlage
+briefings/network.json          # Cluster / Network Hub / Resonanzranking
 briefings/breaking.md          # Hot-/Breaking-Signale
-briefings/source_manifest.json # aktive Quellen nach Overlay-Merge
-briefings/source_manifest.md   # lesbare Quellenübersicht
-reports/latest_atom.md         # kanonischer Run-Atom
-data/YYYY-MM-DD/findings.json  # Tagesfundus
-state/seen.json                # Dedup-State
-state/velocity.json            # Momentum-State
+briefings/source_manifest.json  # aktive Quellen nach Overlay-Merge
+briefings/source_manifest.md    # lesbare Quellenübersicht
+briefings/source_quality.json   # Source-Governance-Auswertung
+briefings/source_quality.md     #  lesbare Source-Governance-Auswertung
+reports/latest_atom.md          # kanonischer Run-Atom
+data/YYYY-MM-DD/findings.json   # Tagesfundus
+state/seen.json                 # Dedup-State
+state/velocity.json             # Momentum-State
 ```
 
 ## GitHub Actions
 
 Workflow:
+
 
 ```text
 .github/workflows/monitor.yml
@@ -185,8 +193,10 @@ Workflow:
 
 Takt:
 
+
 ```text
 */5 * * * *
+
 ```
 
 Governance:
@@ -196,8 +206,12 @@ Job timeout: 8 Minuten
 Monitor timeout: 5 Minuten
 Hot-Lane: alle 5 Minuten
 Macro-Lane: alle 15 Minuten oder manuell
-MAX_ITEMS_PER_SOURCE: 12
+MAX_ITEMS_PER_SOURCE: 6 im Scheduled-Run
+HTTP timeout: 8 Sekunden
+HTTP retry attempts: 1 im Scheduled-Run
 ```
+
+Der Scheduled-Run ist absichtlich knapp budgetiert. Breite entsteht nicht durch massenhaft Items pro Feed, sondern durch bessere Quellmischung, Resonanz, Momentum und Baseline-Abweichung.
 
 ## Grenzen
 
@@ -218,13 +232,26 @@ Nicht erlaubt:
 
 Für aktuelle Lage zuerst lesen:
 
+
 ```text
 briefings/latest.json
 briefings/network.json
+briefings/source_quality.json
 briefings/source_manifest.json
 reports/latest_atom.md
 ```
 
 Nicht aus `README.md` ableiten, welche Quellen im letzten Run aktiv waren. Dafür ist `briefings/source_manifest.json` da.
+
+## Ausbaurichtung
+
+Vorwärts geht dieses Repo nicht durch mehr generische Feeds, sondern durch bessere Sensorik:
+
+1. mehr kleine, konkrete Frühindikatoren mit klarer Klasse;
+2. bessere Cross-Source-Bestätigung;
+3. stärkere Baseline-/Momentum-Modelle;
+4. transparente Source-Qualität pro Run;
+5. weniger Single-Host-, Vendor- und Mainstream-Dominanz;
+6. bessere Handoffs für kurze, handlungsfähige Briefings.
 
 END OF DOCUMENT
