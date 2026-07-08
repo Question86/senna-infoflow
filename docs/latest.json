@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:02:59+00:00",
-  "run_id": "2026-07-08T12:02:59+00:00",
+  "generated_at": "2026-07-08T12:46:00+00:00",
+  "run_id": "2026-07-08T12:46:00+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
     "medium": 49,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1724,6 +1724,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e0734c7fa081e76ffffe"
+      },
+      {
+        "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-08T12:42:01.040+00:00",
+        "fetched_at": "2026-07-08T12:45:31+00:00",
+        "summary": "Time 2026-07-08 12:18:59 UTC 2026-07-08 12:18:59 UTC at epicenter Location 23.555°S 174.972°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "9fb786eb385d8637eebe"
       },
       {
         "title": "M 5.2 - 109 km SW of Isangel, Vanuatu",
@@ -4043,6 +4079,42 @@
       "id": "e0734c7fa081e76ffffe"
     },
     {
+      "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T12:42:01.040+00:00",
+      "fetched_at": "2026-07-08T12:45:31+00:00",
+      "summary": "Time 2026-07-08 12:18:59 UTC 2026-07-08 12:18:59 UTC at epicenter Location 23.555°S 174.972°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9fb786eb385d8637eebe"
+    },
+    {
       "title": "M 5.2 - 109 km SW of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4665,59 +4737,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] IBM Operational Decision Manager: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2242",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-08T11:51:40+00:00",
-      "fetched_at": "2026-07-08T12:02:30+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM Operational Decision Manager ausnutzen, um Sicherheitsbeschränkungen zu umgehen, um einen Denial of Service zu verursachen und Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c56c7e6c8d2b5a1b6150"
-    },
-    {
-      "title": "[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1919",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-08T11:27:00+00:00",
-      "fetched_at": "2026-07-08T12:02:30+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d61b21b6a5d0a1b9ea52"
-    },
-    {
-      "title": "M 5.2 - 109 km SW of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt",
+      "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-08T12:00:37.040+00:00",
-      "fetched_at": "2026-07-08T12:02:30+00:00",
-      "summary": "Time 2026-07-08 11:42:51 UTC 2026-07-08 11:42:51 UTC at epicenter Location 20.352°S 168.689°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-08T12:42:01.040+00:00",
+      "fetched_at": "2026-07-08T12:45:31+00:00",
+      "summary": "Time 2026-07-08 12:18:59 UTC 2026-07-08 12:18:59 UTC at epicenter Location 23.555°S 174.972°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -4744,43 +4770,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ede272ee3f989224dc36"
-    },
-    {
-      "title": "M 5.0 - 110 km SE of Kimbe, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-08T11:42:36.040+00:00",
-      "fetched_at": "2026-07-08T12:02:30+00:00",
-      "summary": "Time 2026-07-08 11:23:04 UTC 2026-07-08 11:23:04 UTC at epicenter Location 6.183°S 150.910°E Depth 25.51 km (15.85 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "40a2181ade53a9fdc16a"
+      "id": "9fb786eb385d8637eebe"
     }
   ],
   "source_errors": [],
