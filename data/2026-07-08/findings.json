@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-08T20:15:00+00:00",
-    "fetched_at": "2026-07-08T20:14:41+00:00",
+    "published_at": "2026-07-08T20:43:28+00:00",
+    "fetched_at": "2026-07-08T20:43:09+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "87a9fa05808bd6dbafaa"
+    "id": "cbdfed29348f7404dbfb"
   },
   {
     "title": "The vision-based shift: Transforming construction safety with AI",
@@ -1994,6 +1994,29 @@
       "LOW"
     ],
     "id": "022803cf0b137b455af0"
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-08T13:30:00+00:00",
+    "fetched_at": "2026-07-08T20:43:09+00:00",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety",
+      "Security"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+7.5); safety (+2.0); recent (+1.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2421441a3749c2dcf9f5"
   },
   {
     "title": "M 5.4 - 245 km S of ‘Ohonua, Tonga",
