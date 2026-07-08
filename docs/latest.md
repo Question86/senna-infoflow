@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T02:18:11+00:00_
+_Generiert: 2026-07-08T03:31:40+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „The vision-based shift: Transforming construction safety with AI“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-07-08T03:31:27+00:00`, fetched `2026-07-08T03:31:04+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The vision-based shift: Transforming construction safety with AI** — Score 23, observation — [Quelle](https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-08T01:45:10+00:00`, fetched `2026-07-08T02:17:34+00:00`
@@ -21,15 +30,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project management platforms. All that visual data. All those AI cameras. But the accidents kept happening […] The post The vision-based shift: Transforming construction sa…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-08T01:27:12+00:00`, fetched `2026-07-08T01:26:54+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-007: Critical Vulnerability in Windows Netlogon** — Score 22, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-007/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-06-10T08:47:08+00:00`, fetched `2026-07-08T00:24:22+00:00`
@@ -111,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Citrix (+2.5)
   - Kurz: Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'équipement est vulnérable s'il est configuré en tant que...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **富士電機製Pupsmanのインストーラにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN62347140/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-08T12:00:00+09:00`, fetched `2026-07-08T03:31:04+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How to build a startup team in 2026: The 3 roles every founder needs** — Score 14, observation — [Quelle](https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-08T01:45:46+00:00`, fetched `2026-07-08T02:17:34+00:00`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia’s AI buildout is racing toward a power wall** — Score 13, observation — [Quelle](https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-08T03:00:53+00:00`, fetched `2026-07-08T03:31:04+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian data centre market is on track to reach US$30.47 billion by 2030, growing at […] The post Southeast Asia’s AI buildout is racing toward a power wall appeared fi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MUFG aims to become AI-native with OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/mufg)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-07T00:00:00+00:00`, fetched `2026-07-08T00:06:32+00:00`
@@ -231,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); VPN (+2.5)
   - Kurz: Version 1.0: Check Point Remote Access VPN und Mobile Access - Aktiv ausgenutzte Schwachstelle ermöglicht Aufbau von VPN-Sessions ohne Authentifizierung
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle** — Score 9, observation — [Quelle](https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-08T02:30:42+00:00`, fetched `2026-07-08T03:31:04+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Founders tend to rely on anecdotes in choosing a fundraising vehicle. As tax advisors, we see plenty of costly mistakes: the entity at the top of your cap table sets the rules for how interest is taxed when you borrow, how your team is taxed on its equity, and how an eventual exit is treated. […] The post Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore already has the ingredients for world-class founders, now we need the culture to match** — Score 9, observation — [Quelle](https://e27.co/singapore-already-has-the-ingredients-for-world-class-founders-now-we-need-the-culture-to-match-20260705/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-08T01:15:50+00:00`, fetched `2026-07-08T01:26:54+00:00`
@@ -240,14 +267,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: There is a fond joke in Singapore’s startup circles: give us a bold idea, and we will hand it back with a business plan, a risk register, and a steering committee, all before anyone has shipped version one. It is told with affection, and like the best jokes, it carries a grain of truth. We […] The post Singapore already has the ingredients for world-class founders, now we need the culture to match appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Asia already knows how the AI economy ends** — Score 8, observation — [Quelle](https://e27.co/why-asia-already-knows-how-the-ai-economy-ends-20260706/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-08T01:30:24+00:00`, fetched `2026-07-08T02:17:34+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう** — Score 8, observation — [Quelle](https://togetter.com/li/2718162)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-08T01:37:18+00:00`, fetched `2026-07-08T03:31:04+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: There is a comfortable assumption running through most conversations about artificial intelligence: that it will flatten the world. That a capable enough model, trained once, will serve a customer in Jakarta as easily as one in Frankfurt, and that the frictions that made global expansion slow and costly will quietly dissolve. Half of that is […] The post Why Asia already knows how the AI economy ends appeared first…
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: DeNA会長・南場智子のAI活用術5選がヤバかった AIを「便利な調べもの相手」として開いているなら、その実力の半分も引き出せていません。文章の要約、アイデア出し、壁打ち。確かに便利です。しかしそれは、他の誰でもできる使い方にすぎません。本当の価値は… 銀次 | AI×効率化@masaki_aihack 銀次 | AI×効率化 @masaki...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **APIもDBも東京なのに、全クエリが太平洋横断していた話** — Score 8, observation — [Quelle](https://zenn.dev/avaintelligence/articles/b7d4743a448485)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -258,29 +285,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！ ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコードでもDBのチューニング不足...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Version 1.0: cPanel und WHM - Aktiv ausgenutzte Schwachstelle ermöglicht Umgehen der Authentifizierung** — Score 8, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-246817-1032_bits.html)
-  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
-  - Zeit: published `2026-04-30T09:20:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: ausgenutzt, BSI, CERT-Bund, Cyber-Sicherheitswarnung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5)
-  - Kurz: Version 1.0: cPanel und WHM - Aktiv ausgenutzte Schwachstelle ermöglicht Umgehen der Authentifizierung
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Kimi K2.7 now available for Copilot Business and Enterprise** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-08T00:05:35+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: On July 1, 2026, we announced Kimi K2.7 would be available to Copilot Pro, Pro+, and Max plans. The model is now additionally available on Copilot Business and Copilot Enterprise… The post Kimi K2.7 now available for Copilot Business and Enterprise appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten

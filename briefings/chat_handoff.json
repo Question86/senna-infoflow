@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-08T02:18:11+00:00",
+  "generated_at": "2026-07-08T03:31:40+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 6,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 19,
-    "observe": 25
+    "medium": 20,
+    "observe": 29
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Updates | ReliefWeb",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-08T03:31:27+00:00",
+      "relevance_score": 23,
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
     {
       "title": "The vision-based shift: Transforming construction safety with AI",
       "source": "e27 Asia Startup and Tech Feed",
@@ -22,16 +32,6 @@
       "relevance_score": 23,
       "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/",
       "summary": "There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project mana…",
-      "section": "medium"
-    },
-    {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T01:27:12+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "section": "medium"
     },
     {
@@ -53,6 +53,16 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
       "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this…",
       "section": "medium"
+    },
+    {
+      "title": "Southeast Asia’s AI buildout is racing toward a power wall",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T03:00:53+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/",
+      "summary": "Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian…",
+      "section": "observe"
     },
     {
       "title": "MUFG aims to become AI-native with OpenAI",
@@ -83,16 +93,6 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-005/",
       "summary": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed. The vulnerability affects every mainstream Linux distributions shipping a kernel built since 2017.…",
       "section": "observe"
-    },
-    {
-      "title": "Vulnérabilité dans Apache Struts 2 (13 décembre 2023)",
-      "source": "CERT-FR Alertes",
-      "source_type": "rss",
-      "published_at": "2023-12-13T00:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
-      "summary": "Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique CVE-2023-50164 concernant le cadriciel Struts 2. Cette vulnérabilité permet à un attaquant non authentifié de téléverser une porte dérobée sur un serveur vulnérable,…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,91 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.74.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "",
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 33.74,
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Nicht automatisch handeln. Erst sichern, dann vergleichen; die Steilheit ist der Befund.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 2.95,
-        "why": [
-          "momentum delta +2",
-          "baseline z_hint 2.95"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-        "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-        "source": "",
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 9.5,
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-        "source": "",
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 9.5,
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-        "url": "https://toyokeizai.net/articles/-/948348?display=b",
-        "source": "",
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 9.5,
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

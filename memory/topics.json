@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T02:18:11+00:00",
+  "generated_at": "2026-07-08T03:31:40+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-08T03:31:27+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "The vision-based shift: Transforming construction safety with AI",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-08T01:45:10+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/"
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-08T01:27:12+00:00",
-        "relevance_score": 23,
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
       {
         "title": "2026-007: Critical Vulnerability in Windows Netlogon",
@@ -68,11 +68,11 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search"
       },
       {
-        "title": "MUFG aims to become AI-native with OpenAI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-07-07T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/index/mufg"
+        "title": "Southeast Asia’s AI buildout is racing toward a power wall",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T03:00:53+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/"
       }
     ],
     "security": [
@@ -133,18 +133,18 @@
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       },
       {
+        "title": "富士電機製Pupsmanのインストーラにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-08T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN62347140/"
+      },
+      {
         "title": "How to build a startup team in 2026: The 3 roles every founder needs",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-08T01:45:46+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/"
-      },
-      {
-        "title": "[NEU] [mittel] xwiki: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:26:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2224"
       }
     ],
     "geopolitics": [
@@ -251,6 +251,13 @@
     ],
     "economy": [
       {
+        "title": "Southeast Asia’s AI buildout is racing toward a power wall",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T03:00:53+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/"
+      },
+      {
         "title": "Why Asia already knows how the AI economy ends",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-08T01:30:24+00:00",
@@ -265,6 +272,13 @@
         "published_at": "2026-07-07T08:24:18+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e"
+      },
+      {
+        "title": "Every job in your GBS needs an upgrade, so does every person in it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T02:45:51+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/every-job-in-your-gbs-needs-an-upgrade-so-does-every-person-in-it-20260707/"
       },
       {
         "title": "Beyond combat: How PvE technology is reshaping modern gaming",

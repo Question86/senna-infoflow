@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-08T03:31:27+00:00",
+    "fetched_at": "2026-07-08T03:31:04+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "57e9135c58e458916995"
+  },
+  {
     "title": "The vision-based shift: Transforming construction safety with AI",
     "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -36,48 +78,6 @@
       "soy"
     ],
     "id": "667c2c427f68c5597a80"
-  },
-  {
-    "title": "Updates | ReliefWeb",
-    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "source": "ReliefWeb Mindanao Recovery Watch",
-    "source_type": "webpage_check",
-    "published_at": "2026-07-08T01:27:12+00:00",
-    "fetched_at": "2026-07-08T01:26:54+00:00",
-    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-    "matched_keywords": [
-      "APAC Trend Radar",
-      "Climate/Disaster Infrastructure",
-      "General Santos",
-      "Glan",
-      "recovery",
-      "relief",
-      "Sarangani",
-      "Watchgraph:earthquakes_tsunami"
-    ],
-    "relevance_score": 23,
-    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "earthquakes_tsunami"
-    ],
-    "watchgraph_reasons": [
-      "earthquakes_tsunami: earthquake"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "CAT",
-      "VMC",
-      "MLM",
-      "HOLN.SW",
-      "HD",
-      "LOW"
-    ],
-    "id": "ee6959874dfa20e61abb"
   },
   {
     "title": "2026-007: Critical Vulnerability in Windows Netlogon",
@@ -376,6 +376,28 @@
     "id": "beb791ac8bc244e8ac16"
   },
   {
+    "title": "富士電機製Pupsmanのインストーラにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN62347140/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-08T12:00:00+09:00",
+    "fetched_at": "2026-07-08T03:31:04+00:00",
+    "summary": "富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bc661cf4f13660a277ad"
+  },
+  {
     "title": "How to build a startup team in 2026: The 3 roles every founder needs",
     "url": "https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -546,6 +568,50 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b475b8ab84de7f2b52bb"
+  },
+  {
+    "title": "Southeast Asia’s AI buildout is racing toward a power wall",
+    "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T03:00:53+00:00",
+    "fetched_at": "2026-07-08T03:31:04+00:00",
+    "summary": "Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian data centre market is on track to reach US$30.47 billion by 2030, growing at […] The post Southeast Asia’s AI buildout is racing toward a power wall appeared fi…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "4fc6e220f82f84c898d0"
   },
   {
     "title": "MUFG aims to become AI-native with OpenAI",
@@ -816,6 +882,27 @@
     "id": "35804def1fdd6ff84c6d"
   },
   {
+    "title": "Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle",
+    "url": "https://e27.co/delaware-c-corp-cayman-exempted-company-or-singapore-pte-ltd-a-tax-advisors-view-on-the-fundraising-vehicle-20260706/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T02:30:42+00:00",
+    "fetched_at": "2026-07-08T03:31:04+00:00",
+    "summary": "Founders tend to rely on anecdotes in choosing a fundraising vehicle. As tax advisors, we see plenty of costly mistakes: the entity at the top of your cap table sets the rules for how interest is taxed when you borrow, how your team is taxed on its equity, and how an eventual exit is treated. […] The post Delaware C Corp, Cayman exempted company or Singapore Pte Ltd: A tax advisor’s view on the fundraising vehicle a…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9dbb6c07a0ecd132743a"
+  },
+  {
     "title": "Singapore already has the ingredients for world-class founders, now we need the culture to match",
     "url": "https://e27.co/singapore-already-has-the-ingredients-for-world-class-founders-now-we-need-the-culture-to-match-20260705/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -858,6 +945,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9a247211cf0dec71bac6"
+  },
+  {
+    "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
+    "url": "https://togetter.com/li/2718162",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T01:37:18+00:00",
+    "fetched_at": "2026-07-08T03:31:04+00:00",
+    "summary": "DeNA会長・南場智子のAI活用術5選がヤバかった AIを「便利な調べもの相手」として開いているなら、その実力の半分も引き出せていません。文章の要約、アイデア出し、壁打ち。確かに便利です。しかしそれは、他の誰でもできる使い方にすぎません。本当の価値は… 銀次 | AI×効率化@masaki_aihack 銀次 | AI×効率化 @masaki...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a62f040da774fc60567b"
   },
   {
     "title": "Why Asia already knows how the AI economy ends",
@@ -1078,6 +1187,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f537bded4b89ed902b64"
+  },
+  {
+    "title": "Every job in your GBS needs an upgrade, so does every person in it",
+    "url": "https://e27.co/every-job-in-your-gbs-needs-an-upgrade-so-does-every-person-in-it-20260707/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-08T02:45:51+00:00",
+    "fetched_at": "2026-07-08T03:31:04+00:00",
+    "summary": "The finance analyst I hired five years ago and the finance analyst I need today aren’t the same person. Same title. Same place on the org chart. But if I look honestly at what the role actually requires now versus what it required when I last wrote the job description, I’m looking at two different […] The post Every job in your GBS needs an upgrade, so does every person in it appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "20940a66fe2b279d5b7e"
   },
   {
     "title": "Beyond combat: How PvE technology is reshaping modern gaming",
