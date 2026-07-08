@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T10:47:31+00:00",
+  "generated_at": "2026-07-08T11:27:28+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T10:56:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-08T10:31:41+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-08T07:17:18+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031"
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:36:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225"
       }
     ],
     "geopolitics": [
@@ -205,18 +205,18 @@
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       },
       {
+        "title": "[NEU] [hoch] X.Org X11 und Xwayland: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T11:21:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240"
+      },
+      {
         "title": "[NEU] [hoch] Foxit PDF Editor und PDF Reader: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-08T10:46:39+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241"
-      },
-      {
-        "title": "[NEU] [mittel] wget: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T09:06:41+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236"
       }
     ],
     "github": [
