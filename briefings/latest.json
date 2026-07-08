@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T04:40:16+00:00",
-  "run_id": "2026-07-08T04:40:16+00:00",
+  "generated_at": "2026-07-08T05:39:15+00:00",
+  "run_id": "2026-07-08T05:39:15+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 5,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 20,
-    "observe": 31,
+    "medium": 21,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-08T03:31:27+00:00",
-        "fetched_at": "2026-07-08T03:31:04+00:00",
+        "published_at": "2026-07-08T05:39:03+00:00",
+        "fetched_at": "2026-07-08T05:38:45+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "57e9135c58e458916995"
+        "id": "5ba9ae9243a8fdd59f53"
       },
       {
         "title": "The vision-based shift: Transforming construction safety with AI",
@@ -358,6 +358,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "133bf896bf762b7582b8"
+      },
+      {
+        "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
+        "url": "https://blog.asial.co.jp/6980/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T00:59:01+00:00",
+        "fetched_at": "2026-07-08T05:38:45+00:00",
+        "summary": "エンジニアの又川です。 Anthropic の最上位モデル Claude Fable 5、もう使っていますか？ 7 月に入ってから、Claude Code にはこんなお知らせが表示されるようになりました。 ▎ Fable 5 is back. ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. ▎ If you hit your limit, you c...",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5febcda250ee09307a13"
       },
       {
         "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
@@ -1015,6 +1038,28 @@
         "id": "9a247211cf0dec71bac6"
       },
       {
+        "title": "Add review cycles and time to adoption phases in the usage API",
+        "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-08T04:53:01+00:00",
+        "fetched_at": "2026-07-08T05:38:45+00:00",
+        "summary": "The Copilot usage metrics API now reports two additional code-review velocity metrics for each AI adoption phase, extending the adoption phase cohorts fields available in the enterprise and organization reports.… The post Add review cycles and time to adoption phases in the usage API appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0aec4c804a1b076924f"
+      },
+      {
         "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
         "url": "https://togetter.com/li/2718162",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1278,6 +1323,46 @@
         "id": "f537bded4b89ed902b64"
       },
       {
+        "title": "The US$500 fix that could unlock a lifetime: How MiracleFeet is closing Asia’s clubfoot gap",
+        "url": "https://e27.co/the-us500-fix-that-could-unlock-a-lifetime-how-miraclefeet-is-closing-asias-clubfoot-gap-20260708/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-08T05:21:21+00:00",
+        "fetched_at": "2026-07-08T05:38:45+00:00",
+        "summary": "There is a number that Justin McCarthy cannot put down. Close to eight million people alive today are living with a permanent disability caused by untreated clubfoot, a condition in which a baby’s foot or feet turn inward and downward at birth. The fix costs roughly US$500 per child. The math, therefore, is not the […] The post The US$500 fix that could unlock a lifetime: How MiracleFeet is closing Asia’s clubfoot g…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e777446fe7820a68f764"
+      },
+      {
+        "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",
+        "url": "https://e27.co/why-bitcoins-record-on-chain-activity-is-not-the-price-guarantee-you-think-it-is-20260708/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-08T05:16:22+00:00",
+        "fetched_at": "2026-07-08T05:38:45+00:00",
+        "summary": "Bitcoin has retreated by 0.52 per cent over a 24h period, sliding to US$63,593.12 and underperforming a generally flat broader market. This downward movement stems primarily from a firm technical rejection at key resistance zones alongside cooling momentum following a strong weekly rally. Sellers emerged to halt the July advance, which had reached 8.4 per […] The post Why Bitcoin’s record on chain activity is not th…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3959f9154b3673267f5d"
+      },
+      {
         "title": "Every job in your GBS needs an upgrade, so does every person in it",
         "url": "https://e27.co/every-job-in-your-gbs-needs-an-upgrade-so-does-every-person-in-it-20260707/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1346,8 +1431,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-08T03:31:27+00:00",
-      "fetched_at": "2026-07-08T03:31:04+00:00",
+      "published_at": "2026-07-08T05:39:03+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1381,7 +1466,7 @@
         "HD",
         "LOW"
       ],
-      "id": "57e9135c58e458916995"
+      "id": "5ba9ae9243a8fdd59f53"
     },
     {
       "title": "The vision-based shift: Transforming construction safety with AI",
@@ -1670,6 +1755,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "133bf896bf762b7582b8"
+    },
+    {
+      "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
+      "url": "https://blog.asial.co.jp/6980/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T00:59:01+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "エンジニアの又川です。 Anthropic の最上位モデル Claude Fable 5、もう使っていますか？ 7 月に入ってから、Claude Code にはこんなお知らせが表示されるようになりました。 ▎ Fable 5 is back. ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. ▎ If you hit your limit, you c...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5febcda250ee09307a13"
     },
     {
       "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
@@ -2325,6 +2433,28 @@
       "id": "9a247211cf0dec71bac6"
     },
     {
+      "title": "Add review cycles and time to adoption phases in the usage API",
+      "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-08T04:53:01+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "The Copilot usage metrics API now reports two additional code-review velocity metrics for each AI adoption phase, extending the adoption phase cohorts fields available in the enterprise and organization reports.… The post Add review cycles and time to adoption phases in the usage API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0aec4c804a1b076924f"
+    },
+    {
       "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
       "url": "https://togetter.com/li/2718162",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2588,6 +2718,46 @@
       "id": "f537bded4b89ed902b64"
     },
     {
+      "title": "The US$500 fix that could unlock a lifetime: How MiracleFeet is closing Asia’s clubfoot gap",
+      "url": "https://e27.co/the-us500-fix-that-could-unlock-a-lifetime-how-miraclefeet-is-closing-asias-clubfoot-gap-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T05:21:21+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "There is a number that Justin McCarthy cannot put down. Close to eight million people alive today are living with a permanent disability caused by untreated clubfoot, a condition in which a baby’s foot or feet turn inward and downward at birth. The fix costs roughly US$500 per child. The math, therefore, is not the […] The post The US$500 fix that could unlock a lifetime: How MiracleFeet is closing Asia’s clubfoot g…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e777446fe7820a68f764"
+    },
+    {
+      "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",
+      "url": "https://e27.co/why-bitcoins-record-on-chain-activity-is-not-the-price-guarantee-you-think-it-is-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T05:16:22+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "Bitcoin has retreated by 0.52 per cent over a 24h period, sliding to US$63,593.12 and underperforming a generally flat broader market. This downward movement stems primarily from a firm technical rejection at key resistance zones alongside cooling momentum following a strong weekly rally. Sellers emerged to halt the July advance, which had reached 8.4 per […] The post Why Bitcoin’s record on chain activity is not th…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3959f9154b3673267f5d"
+    },
+    {
       "title": "Every job in your GBS needs an upgrade, so does every person in it",
       "url": "https://e27.co/every-job-in-your-gbs-needs-an-upgrade-so-does-every-person-in-it-20260707/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2651,19 +2821,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-08T04:33:21.040+00:00",
-      "fetched_at": "2026-07-08T04:39:46+00:00",
-      "summary": "Time 2026-07-08 04:21:46 UTC 2026-07-08 04:21:46 UTC at epicenter Location 71.119°N 7.130°W Depth 10.00 km (6.21 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-08T05:39:03+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2684,28 +2860,92 @@
         "HD",
         "LOW"
       ],
-      "id": "43fc387a5d654e27b9c2"
+      "id": "5ba9ae9243a8fdd59f53"
     },
     {
-      "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
-      "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
+      "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
+      "url": "https://blog.asial.co.jp/6980/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-08T01:16:29+00:00",
-      "fetched_at": "2026-07-08T04:39:46+00:00",
-      "summary": "ソフトウェアは、現実世界をそのまま扱えない。 たとえば、ある町の地図を描くとする。同じ町でも、目的が違えば描き方はまるで変わる。 路線図は、駅と乗り換えさえ分かればよい。だから、実際の線路の曲がりも、駅どうしの距離のばらつきも捨てて、等間隔に並んだ駅とまっすぐな線だけを残す。 道路地図は逆で、道の形...",
+      "published_at": "2026-07-08T00:59:01+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "エンジニアの又川です。 Anthropic の最上位モデル Claude Fable 5、もう使っていますか？ 7 月に入ってから、Claude Code にはこんなお知らせが表示されるようになりました。 ▎ Fable 5 is back. ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. ▎ If you hit your limit, you c...",
       "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "672062e1cf54797d34f9"
+      "id": "5febcda250ee09307a13"
+    },
+    {
+      "title": "Add review cycles and time to adoption phases in the usage API",
+      "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-08T04:53:01+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "The Copilot usage metrics API now reports two additional code-review velocity metrics for each AI adoption phase, extending the adoption phase cohorts fields available in the enterprise and organization reports.… The post Add review cycles and time to adoption phases in the usage API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0aec4c804a1b076924f"
+    },
+    {
+      "title": "The US$500 fix that could unlock a lifetime: How MiracleFeet is closing Asia’s clubfoot gap",
+      "url": "https://e27.co/the-us500-fix-that-could-unlock-a-lifetime-how-miraclefeet-is-closing-asias-clubfoot-gap-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T05:21:21+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "There is a number that Justin McCarthy cannot put down. Close to eight million people alive today are living with a permanent disability caused by untreated clubfoot, a condition in which a baby’s foot or feet turn inward and downward at birth. The fix costs roughly US$500 per child. The math, therefore, is not the […] The post The US$500 fix that could unlock a lifetime: How MiracleFeet is closing Asia’s clubfoot g…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e777446fe7820a68f764"
+    },
+    {
+      "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",
+      "url": "https://e27.co/why-bitcoins-record-on-chain-activity-is-not-the-price-guarantee-you-think-it-is-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-08T05:16:22+00:00",
+      "fetched_at": "2026-07-08T05:38:45+00:00",
+      "summary": "Bitcoin has retreated by 0.52 per cent over a 24h period, sliding to US$63,593.12 and underperforming a generally flat broader market. This downward movement stems primarily from a firm technical rejection at key resistance zones alongside cooling momentum following a strong weekly rally. Sellers emerged to halt the July advance, which had reached 8.4 per […] The post Why Bitcoin’s record on chain activity is not th…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3959f9154b3673267f5d"
     }
   ],
   "source_errors": [],

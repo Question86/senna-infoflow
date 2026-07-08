@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T04:40:16+00:00",
+  "generated_at": "2026-07-08T05:39:15+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-08T03:31:27+00:00",
+        "published_at": "2026-07-08T05:39:03+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -40,6 +40,13 @@
         "url": "https://github.com/TencentCloud/CubeSandbox"
       },
       {
+        "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-08T00:59:01+00:00",
+        "relevance_score": 15,
+        "url": "https://blog.asial.co.jp/6980/"
+      },
+      {
         "title": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)",
         "source": "CERT-FR Alertes",
         "published_at": "2023-07-19T00:00:00+00:00",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/MadsLorentzen/ai-job-search"
-      },
-      {
-        "title": "Southeast Asia’s AI buildout is racing toward a power wall",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T03:00:53+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/"
       }
     ],
     "security": [
@@ -242,6 +242,13 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search"
       },
       {
+        "title": "Add review cycles and time to adoption phases in the usage API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T04:53:01+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api"
+      },
+      {
         "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-08T00:05:35+00:00",
@@ -263,6 +270,13 @@
         "published_at": "2026-07-08T01:30:24+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/why-asia-already-knows-how-the-ai-economy-ends-20260706/"
+      },
+      {
+        "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T05:16:22+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-bitcoins-record-on-chain-activity-is-not-the-price-guarantee-you-think-it-is-20260708/"
       }
     ],
     "general": [

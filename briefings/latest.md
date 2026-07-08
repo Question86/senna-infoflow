@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T04:40:16+00:00_
+_Generiert: 2026-07-08T05:39:15+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -67,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-08T03:31:27+00:00`, fetched `2026-07-08T03:31:04+00:00`
+  - Zeit: published `2026-07-08T05:39:03+00:00`, fetched `2026-07-08T05:38:45+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -155,6 +155,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Firewall (+2.5)
   - Kurz: Version 1.1: Cisco Firewalls mit persistenter Malware infiziert
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門** — Score 15, observation — [Quelle](https://blog.asial.co.jp/6980/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-08T00:59:01+00:00`, fetched `2026-07-08T05:38:45+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: エンジニアの又川です。 Anthropic の最上位モデル Claude Fable 5、もう使っていますか？ 7 月に入ってから、Claude Code にはこんなお知らせが表示されるようになりました。 ▎ Fable 5 is back. ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. ▎ If you hit your limit, you c...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)** — Score 15, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/)
   - Quelle: CERT-FR Alertes / `rss`
   - Zeit: published `2023-07-19T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
@@ -190,15 +199,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xwiki ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MadsLorentzen/ai-job-search** — Score 14, observation — [Quelle](https://github.com/MadsLorentzen/ai-job-search)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-08T02:17:34+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. AI Job Search An AI-powered job application framework built on Claude Code . Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews. Note: This is an in…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -329,14 +329,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: There is a fond joke in Singapore’s startup circles: give us a bold idea, and we will hand it back with a business plan, a risk register, and a steering committee, all before anyone has shipped version one. It is told with affection, and like the best jokes, it carries a grain of truth. We […] The post Singapore already has the ingredients for world-class founders, now we need the culture to match appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう** — Score 8, observation — [Quelle](https://togetter.com/li/2718162)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-08T01:37:18+00:00`, fetched `2026-07-08T03:31:04+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+- **Add review cycles and time to adoption phases in the usage API** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-08T04:53:01+00:00`, fetched `2026-07-08T05:38:45+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: DeNA会長・南場智子のAI活用術5選がヤバかった AIを「便利な調べもの相手」として開いているなら、その実力の半分も引き出せていません。文章の要約、アイデア出し、壁打ち。確かに便利です。しかしそれは、他の誰でもできる使い方にすぎません。本当の価値は… 銀次 | AI×効率化@masaki_aihack 銀次 | AI×効率化 @masaki...
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: The Copilot usage metrics API now reports two additional code-review velocity metrics for each AI adoption phase, extending the adoption phase cohorts fields available in the enterprise and organization reports.… The post Add review cycles and time to adoption phases in the usage API appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
