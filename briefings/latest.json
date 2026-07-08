@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T22:03:48+00:00",
-  "run_id": "2026-07-08T22:03:48+00:00",
+  "generated_at": "2026-07-08T22:29:18+00:00",
+  "run_id": "2026-07-08T22:29:18+00:00",
   "date": "2026-07-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 126
+      "configured_public_sources_only": 128
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 126,
-    "displayed_findings": 126,
+    "new_relevant_findings": 3,
+    "today_file_total": 128,
+    "displayed_findings": 128,
     "high": 0,
     "medium": 56,
-    "observe": 70,
+    "observe": 72,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-08T20:43:28+00:00",
-        "fetched_at": "2026-07-08T20:43:09+00:00",
+        "published_at": "2026-07-08T22:29:08+00:00",
+        "fetched_at": "2026-07-08T22:28:49+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "cbdfed29348f7404dbfb"
+        "id": "ffdd33036fff5d983e3c"
       },
       {
         "title": "The vision-based shift: Transforming construction safety with AI",
@@ -2690,6 +2690,27 @@
         "id": "9c3a3e2a06e550e9f7a0"
       },
       {
+        "title": "Deploy managed Copilot settings via MDM in VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-08T20:38:56+00:00",
+        "fetched_at": "2026-07-08T22:28:49+00:00",
+        "summary": "Enterprise administrators can now deliver managed GitHub Copilot settings directly to devices through native mobile device management (MDM) and file-based configuration, in addition to the existing server-managed channel. This is… The post Deploy managed Copilot settings via MDM in VS Code and CLI appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d7facd1fe24c334d7580"
+      },
+      {
         "title": "GitHub Copilot in Visual Studio Code, June 2026 releases",
         "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
         "source": "GitHub Changelog Atom",
@@ -3007,6 +3028,27 @@
         "id": "672062e1cf54797d34f9"
       },
       {
+        "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+        "url": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-07T21:10:09+00:00",
+        "fetched_at": "2026-07-08T22:28:49+00:00",
+        "summary": "前回、Fable 5をトークン破産させずに使い倒す方法について書きました。 簡単にいうとオーケストレーターに Fable 5をおいて、スコープ切り、設計、委譲、最終レビューを任せ、手を動かす実装・テスト・シッピング・コードレビューは Opus と Sonnet のサブエージェントが担う形式です。高いモデルが計画と判断を、安い...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a57e374a08c421b6bbd7"
+      },
+      {
         "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
         "url": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -3177,8 +3219,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-08T20:43:28+00:00",
-      "fetched_at": "2026-07-08T20:43:09+00:00",
+      "published_at": "2026-07-08T22:29:08+00:00",
+      "fetched_at": "2026-07-08T22:28:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3212,7 +3254,7 @@
         "HD",
         "LOW"
       ],
-      "id": "cbdfed29348f7404dbfb"
+      "id": "ffdd33036fff5d983e3c"
     },
     {
       "title": "The vision-based shift: Transforming construction safety with AI",
@@ -5831,6 +5873,27 @@
       "id": "9c3a3e2a06e550e9f7a0"
     },
     {
+      "title": "Deploy managed Copilot settings via MDM in VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-08T20:38:56+00:00",
+      "fetched_at": "2026-07-08T22:28:49+00:00",
+      "summary": "Enterprise administrators can now deliver managed GitHub Copilot settings directly to devices through native mobile device management (MDM) and file-based configuration, in addition to the existing server-managed channel. This is… The post Deploy managed Copilot settings via MDM in VS Code and CLI appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d7facd1fe24c334d7580"
+    },
+    {
       "title": "GitHub Copilot in Visual Studio Code, June 2026 releases",
       "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
       "source": "GitHub Changelog Atom",
@@ -6148,6 +6211,27 @@
       "id": "672062e1cf54797d34f9"
     },
     {
+      "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+      "url": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T21:10:09+00:00",
+      "fetched_at": "2026-07-08T22:28:49+00:00",
+      "summary": "前回、Fable 5をトークン破産させずに使い倒す方法について書きました。 簡単にいうとオーケストレーターに Fable 5をおいて、スコープ切り、設計、委譲、最終レビューを任せ、手を動かす実装・テスト・シッピング・コードレビューは Opus と Sonnet のサブエージェントが担う形式です。高いモデルが計画と判断を、安い...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a57e374a08c421b6bbd7"
+    },
+    {
       "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
       "url": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -6313,103 +6397,76 @@
   ],
   "new_findings": [
     {
-      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-08T21:11:56+00:00",
-      "fetched_at": "2026-07-08T22:03:19+00:00",
-      "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-08T22:29:08+00:00",
+      "fetched_at": "2026-07-08T22:28:49+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Copilot",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.5); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "ai_agents_workflow"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: agentic workflow"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "97e87569ada151a5a59d"
+      "id": "ffdd33036fff5d983e3c"
     },
     {
-      "title": "Innersource security advisories are generally available",
-      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "title": "Deploy managed Copilot settings via MDM in VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-08T21:30:35+00:00",
-      "fetched_at": "2026-07-08T22:03:19+00:00",
-      "summary": "GitHub Advanced Security enterprise customers can now publish internal security advisories. Innersource advisories work similarly to GitHub’s open source advisories, but their visibility is restricted to repositories owned by the… The post Innersource security advisories are generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+7.5); Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "08aa12aa2b7a75c15604"
-    },
-    {
-      "title": "Enterprise-managed OpenTelemetry export for VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-08T20:50:07+00:00",
-      "fetched_at": "2026-07-08T22:03:19+00:00",
-      "summary": "Organizations can now mandate where GitHub Copilot sends OpenTelemetry (OTel) data, so telemetry flows to an approved collector without each developer setting OTEL_* environment variables. The configuration is delivered through… The post Enterprise-managed OpenTelemetry export for VS Code and CLI appeared first on The GitHub Blog .",
+      "published_at": "2026-07-08T20:38:56+00:00",
+      "fetched_at": "2026-07-08T22:28:49+00:00",
+      "summary": "Enterprise administrators can now deliver managed GitHub Copilot settings directly to devices through native mobile device management (MDM) and file-based configuration, in addition to the existing server-managed channel. This is… The post Deploy managed Copilot settings via MDM in VS Code and CLI appeared first on The GitHub Blog .",
       "matched_keywords": [
         "Copilot",
         "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b62b7b71f8dbd1d101b9"
+      "id": "d7facd1fe24c334d7580"
     },
     {
-      "title": "Apple、次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットが非サポートとなるため、ユーザーに対しボリュームをAPFSで再フォーマット＆復号化しバックアップを取るように指示。",
-      "url": "https://applech2.com/archives/20260708-macos-28-encrypted-mac-os-extended-disks.html",
+      "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+      "url": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-08T10:58:17+00:00",
-      "fetched_at": "2026-07-08T22:03:19+00:00",
-      "summary": "Appleが次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットを非サポートとするため、ユーザーに対しボリュームをAPFSで再フォーマット＆復号化しバックアップを取るように指示しています。詳 […] The post Apple、次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットが非サポートとなるため、ユ...",
+      "published_at": "2026-07-07T21:10:09+00:00",
+      "fetched_at": "2026-07-08T22:28:49+00:00",
+      "summary": "前回、Fable 5をトークン破産させずに使い倒す方法について書きました。 簡単にいうとオーケストレーターに Fable 5をおいて、スコープ切り、設計、委譲、最終レビューを任せ、手を動かす実装・テスト・シッピング・コードレビューは Opus と Sonnet のサブエージェントが担う形式です。高いモデルが計画と判断を、安い...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -6421,7 +6478,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cb0cc1a050755eaab296"
+      "id": "a57e374a08c421b6bbd7"
     }
   ],
   "source_errors": [],
