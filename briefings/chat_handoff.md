@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-08T09:11:35+00:00_
+_Generated: 2026-07-08T10:47:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `87`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-08T08:17:11+00:00`
+- published: `2026-07-08T10:47:19+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-08T09:11:35+00:00_
 - url: https://cert.europa.eu/publications/security-advisories/2026-006/
 - summary: On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this…
 
-### 5. Southeast Asia’s AI buildout is racing toward a power wall
+### 5. M 5.8 - 91 km SSW of Isangel, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-08T10:27:36.593+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-07-08 09:50:23 UTC 2026-07-08 09:50:23 UTC at epicenter Location 20.256°S 168.835°E Depth 10.00 km (6.21 mi)
+
+### 6. Southeast Asia’s AI buildout is racing toward a power wall
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-08T03:00:53+00:00`
 - url: https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/
 - summary: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian…
 
-### 6. Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-07-08T08:15:24+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html
 - summary: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. MUFG aims to become AI-native with OpenAI
+### 8. MUFG aims to become AI-native with OpenAI
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-07-07T00:00:00+00:00`
 - url: https://openai.com/index/mufg
 - summary: MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
-
-### 8. Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen
-- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
-- score: `12`
-- published: `2026-05-07T15:45:00+00:00`
-- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-255045-1032_bits.html
-- summary: Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen
 
 END OF DOCUMENT

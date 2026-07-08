@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-08T09:11:35+00:00",
+  "generated_at": "2026-07-08T10:47:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 9,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
-    "medium": 40,
-    "observe": 39
+    "medium": 45,
+    "observe": 42
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-08T08:17:11+00:00",
+      "published_at": "2026-07-08T10:47:19+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.8 - 91 km SSW of Isangel, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-08T10:27:36.593+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-08 09:50:23 UTC 2026-07-08 09:50:23 UTC at epicenter Location 20.256°S 168.835°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "Southeast Asia’s AI buildout is racing toward a power wall",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://openai.com/index/mufg",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "section": "observe"
-    },
-    {
-      "title": "Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "published_at": "2026-05-07T15:45:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-255045-1032_bits.html",
-      "summary": "Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,145 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:36:39+00:00",
-        "age_days": 0.95,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen oder einen Denial-of-Service-Zustand herbeizuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (python-pip): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:26:39+00:00",
-        "age_days": 0.96,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebige Dateien zu überschreiben und möglicherweise beliebigen Code auszuführen."
-      },
-      {
-        "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-06-10T13:55:39+00:00",
-        "age_days": 27.86,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.6,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, unauthenticated",
-          "aging penalty -2.4 for 27.9d old signal"
-        ],
-        "summary": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
-      },
-      {
-        "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-03-23T19:03:59+00:00",
-        "age_days": 106.64,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, code",
-          "security high-signal: active, exploitation, code, citrix",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 106.6d old signal"
-        ],
-        "summary": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations. At the time of writing, there is no public evidence of acti…"
-      },
-      {
-        "title": "2026-006: Critical Vulnerability in PAN-OS",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-05-06T10:44:32+00:00",
-        "age_days": 62.99,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, unauthenticated",
-          "aging penalty -8.0 for 63.0d old signal"
-        ],
-        "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this vulnerability. It is strongly recommended updating affected…"
-      }
-    ]
-  }
+  ]
 }

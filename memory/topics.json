@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T09:11:35+00:00",
+  "generated_at": "2026-07-08T10:47:31+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-08T08:17:11+00:00",
+        "published_at": "2026-07-08T10:47:19+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -105,6 +105,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T10:31:41+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1454"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T10:31:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1252"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T10:31:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-08T09:00:00+09:00",
@@ -124,27 +145,6 @@
         "published_at": "2026-07-07T11:36:39+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225"
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (python-pip): Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:26:39+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222"
-      },
-      {
-        "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-03-23T19:03:59+00:00",
-        "relevance_score": 15,
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-003/"
-      },
-      {
-        "title": "[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (19 juillet 2023)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2023-07-19T00:00:00+00:00",
-        "relevance_score": 15,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       }
     ],
     "geopolitics": [
@@ -205,18 +205,18 @@
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       },
       {
+        "title": "[NEU] [hoch] Foxit PDF Editor und PDF Reader: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T10:46:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241"
+      },
+      {
         "title": "[NEU] [mittel] wget: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-08T09:06:41+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236"
-      },
-      {
-        "title": "[NEU] [niedrig] FreeType: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T09:06:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2234"
       }
     ],
     "github": [
@@ -263,6 +263,13 @@
         "published_at": "2026-07-08T08:50:25.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tavx"
+      },
+      {
+        "title": "M 5.8 - 91 km SSW of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-08T10:27:36.593+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe"
       },
       {
         "title": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
@@ -342,6 +349,13 @@
         "published_at": "2026-07-08T01:30:24+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/why-asia-already-knows-how-the-ai-economy-ends-20260706/"
+      },
+      {
+        "title": "LINE MAN RIDE targets 3,000 EV drivers as Thailand’s ride-hailing economics shift",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-08T10:01:14+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/line-man-ride-targets-3000-ev-drivers-as-thailands-ride-hailing-economics-shift-20260708/"
       },
       {
         "title": "Why Bitcoin’s record on chain activity is not the price guarantee you think it is",

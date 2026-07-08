@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:11:38+00:00",
+  "generated_at": "2026-07-08T10:47:34+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,11 +74,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in New Zealand",
-        "summary": "Green flood alert in New Zealand",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104006",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772",
         "published_at": "",
         "metrics": {}
       },
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 91 km SSW of Isangel, Vanuatu",
+        "summary": "M5.8 - 91 km SSW of Isangel, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe",
+        "published_at": "2026-07-08T09:50:23+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "green",
+          "sig": 518.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
