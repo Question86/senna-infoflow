@@ -1,0 +1,43 @@
+name: Senna Intelligence Layer
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: senna-intelligence-layer
+  cancel-in-progress: true
+
+jobs:
+  intelligence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Build comparative intelligence handoff
+        run: |
+          python -m py_compile scripts/write_intelligence_layer.py
+          python scripts/write_intelligence_layer.py
+
+      - name: Commit intelligence layer outputs
+        run: |
+          git config user.name "senna-infoflow[bot]"
+          git config user.email "senna-infoflow[bot]@users.noreply.github.com"
+          git add briefings/ docs/ memory/
+          if git diff --cached --quiet; then
+            echo "No intelligence layer changes to commit."
+          else
+            git commit -m "chore: update Senna intelligence layer"
+            git push
+          fi
