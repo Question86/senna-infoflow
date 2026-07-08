@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-08T23:07:03Z",
+  "generated_at": "2026-07-08T23:36:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:36:39+00:00",
-      "age_days": 1.48,
+      "age_days": 1.5,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:26:39+00:00",
-      "age_days": 1.49,
+      "age_days": 1.51,
       "topics": [
         "security"
       ],
@@ -72,11 +72,11 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-008/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-06-10T13:55:39+00:00",
-      "age_days": 28.38,
+      "age_days": 28.4,
       "topics": [
         "security"
       ],
-      "dynamics_score": 32.42,
+      "dynamics_score": 32.41,
       "raw_band": "krass",
       "dynamic_band": "krass",
       "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2240",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:21:40+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1995",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T08:01:39+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1769",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T07:32:21+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2117",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:21:42+00:00",
-      "age_days": 1.49,
+      "age_days": 1.51,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://jvn.jp/jp/JVN62347140/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-08T12:00:00+09:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1919",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:27:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2236",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T09:06:41+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -270,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2234",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T09:06:40+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -294,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2235",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T09:06:40+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -318,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2233",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T09:06:39+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -342,7 +342,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2231",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T08:41:40+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -366,7 +366,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0548",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T08:06:39+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -390,7 +390,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1776",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T08:01:53+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -414,7 +414,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1760",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T07:32:21+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -438,7 +438,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2058",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T07:17:40+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -462,7 +462,7 @@
       "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-08T21:30:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -491,7 +491,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:56:39+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -517,7 +517,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1252",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -543,7 +543,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:40+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -569,7 +569,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T11:51:40+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -595,7 +595,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:46:39+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -621,7 +621,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:42+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -647,7 +647,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2232",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T09:06:39+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -673,7 +673,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2008",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T07:17:16+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -699,7 +699,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T05:41:40+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -725,7 +725,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2223",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-07T11:26:40+00:00",
-      "age_days": 1.49,
+      "age_days": 1.51,
       "topics": [
         "ai",
         "security"
@@ -752,7 +752,7 @@
       "url": "https://restofworld.org/2026/data-centers-cities-communities-benefits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-08T10:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -779,7 +779,7 @@
       "url": "https://openai.com/index/government-national-security-partnerships",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-08T13:30:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security"
@@ -807,7 +807,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1454",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T10:31:41+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -832,7 +832,7 @@
       "url": "https://jvn.jp/vu/JVNVU92734392/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-08T09:00:00+09:00",
-      "age_days": 0.96,
+      "age_days": 0.98,
       "topics": [
         "security"
       ],
@@ -857,7 +857,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2031",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-08T07:17:18+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -882,7 +882,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-08T06:00:00+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -908,7 +908,7 @@
       "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-08T08:44:55+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -934,7 +934,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-07-08T21:11:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -961,7 +961,7 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-08T02:17:34+00:00",
-      "age_days": 0.87,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -987,7 +987,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-003/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-03-23T19:03:59+00:00",
-      "age_days": 107.17,
+      "age_days": 107.19,
       "topics": [
         "security"
       ],
@@ -1016,7 +1016,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-05-06T10:44:32+00:00",
-      "age_days": 63.52,
+      "age_days": 63.54,
       "topics": [
         "ai",
         "security"
