@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "doc_type": "senna.memory.real_memory_candidates",
+  "generated_at": "2026-07-08T02:09:19Z",
+  "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
+  "keep": [
+    {
+      "type": "strategic_preference",
+      "text": "User Yps wants Senna to compare event dynamics against memory/baselines, not merely list feed items."
+    },
+    {
+      "type": "architecture",
+      "text": "Senna should read intelligence_handoff, dynamics, chat_handoff, memory index, network, velocity and baseline before a Lageurteil."
+    }
+  ],
+  "current_dynamic_memory_candidates": [
+    {
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    }
+  ]
+}
