@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T05:39:15+00:00_
+_Generiert: 2026-07-08T06:33:40+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -182,6 +182,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士電機株式会社が提供するPupsmanのインストーラには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-08T05:41:40+00:00`, fetched `2026-07-08T06:33:09+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in QNAP NAS ausnutzen, um sich erhöhte Berechtigungen zu verschaffen, um Sicherheitsmechanismen zu umgehen, um einen Denial of Service Zustand herbeizuführen, um beliebige Befehle auszuführen, um Informationen offenzulegen oder nicht näher spezifizierte Auswirkungen zu erzielen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to build a startup team in 2026: The 3 roles every founder needs** — Score 14, observation — [Quelle](https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-08T01:45:46+00:00`, fetched `2026-07-08T02:17:34+00:00`
@@ -190,15 +199,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+6.2); founder (+2.5); recent (+1.0)
   - Kurz: Most founders build their team in the wrong order. They hire for the function they understand best, then patch the gaps with whoever they can find. A technical founder hires more engineers. A product founder hires more product people. The team grows in the direction of the founder’s blind spots, being made deeper, not shallower. […] The post How to build a startup team in 2026: The 3 roles every founder needs appear…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] xwiki: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2224)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-07T11:26:40+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xwiki ausnutzen, um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -266,6 +266,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
   - Kurz: \[Mise à jour du 26 juillet 2023\] Publication du correctif de sécurité par l'éditeur Le 26 juillet 2023, l'éditeur a publié un correctif de sécurité \[1\] pour cette vulnérabilité immatriculée CVE-2023-37580. Il est donc fortement recommandé de déployer le correctif P41 pour toutes les versions...
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-08T06:00:00+00:00`, fetched `2026-07-08T06:33:09+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (26 juin 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-06-26T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
@@ -328,15 +337,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: There is a fond joke in Singapore’s startup circles: give us a bold idea, and we will hand it back with a business plan, a risk register, and a steering committee, all before anyone has shipped version one. It is told with affection, and like the best jokes, it carries a grain of truth. We […] The post Singapore already has the ingredients for world-class founders, now we need the culture to match appeared first on…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Add review cycles and time to adoption phases in the usage API** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-08T04:53:01+00:00`, fetched `2026-07-08T05:38:45+00:00`
-  - Treffer: AI/KI, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: The Copilot usage metrics API now reports two additional code-review velocity metrics for each AI adoption phase, extending the adoption phase cohorts fields available in the enterprise and organization reports.… The post Add review cycles and time to adoption phases in the usage API appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

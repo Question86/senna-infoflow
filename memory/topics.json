@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T05:39:15+00:00",
+  "generated_at": "2026-07-08T06:33:40+00:00",
   "topics": {
     "ai": [
       {
@@ -140,11 +140,11 @@
         "url": "https://jvn.jp/jp/JVN62347140/"
       },
       {
-        "title": "How to build a startup team in 2026: The 3 roles every founder needs",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-08T01:45:46+00:00",
+        "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-08T05:41:40+00:00",
         "relevance_score": 14,
-        "url": "https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966"
       }
     ],
     "geopolitics": [
@@ -281,11 +281,25 @@
     ],
     "general": [
       {
+        "title": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-08T06:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26"
+      },
+      {
         "title": "M 4.7 - 61 km ENE of Olonkinbyen, Svalbard and Jan Mayen",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-08T04:33:21.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tauv"
+      },
+      {
+        "title": "デジタルマーケットプレイス（DMP）の「DMP活用ガイドブック」を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-08T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/dmp"
       },
       {
         "title": "ソフトウェア設計における抽象とメタの違い - kawasima",

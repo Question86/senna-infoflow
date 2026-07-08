@@ -421,6 +421,29 @@
     "id": "bc661cf4f13660a277ad"
   },
   {
+    "title": "[UPDATE] [mittel] QNAP NAS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1966",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-08T05:41:40+00:00",
+    "fetched_at": "2026-07-08T06:33:09+00:00",
+    "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in QNAP NAS ausnutzen, um sich erhöhte Berechtigungen zu verschaffen, um Sicherheitsmechanismen zu umgehen, um einen Denial of Service Zustand herbeizuführen, um beliebige Befehle auszuführen, um Informationen offenzulegen oder nicht näher spezifizierte Auswirkungen zu erzielen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0af469c669a1a91c66b7"
+  },
+  {
     "title": "How to build a startup team in 2026: The 3 roles every founder needs",
     "url": "https://e27.co/how-to-build-a-startup-team-in-2026-the-3-roles-every-founder-needs-20260616/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -783,6 +806,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1efc93cfcaad8a037f67"
+  },
+  {
+    "title": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
+    "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:00:00+00:00",
+    "fetched_at": "2026-07-08T06:33:09+00:00",
+    "summary": "アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bfc79da9ede056dcd086"
   },
   {
     "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (26 juin 2026)",
@@ -1160,6 +1204,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e063d3183b692141f94a"
+  },
+  {
+    "title": "デジタルマーケットプレイス（DMP）の「DMP活用ガイドブック」を更新しました",
+    "url": "https://www.digital.go.jp/policies/dmp",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:00:00+00:00",
+    "fetched_at": "2026-07-08T06:33:09+00:00",
+    "summary": "デジタルマーケットプレイス（DMP）の「DMP活用ガイドブック」を更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5828e693df0567dab4c5"
   },
   {
     "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
