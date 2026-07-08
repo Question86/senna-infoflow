@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-08T07:27:00+00:00",
+  "generated_at": "2026-07-08T08:17:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 6,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
-    "medium": 28,
+    "medium": 33,
     "observe": 38
   },
   "source_errors_count": 0,
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-08T05:39:03+00:00",
+      "published_at": "2026-07-08T08:17:11+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -100,91 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.74.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "",
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 33.74,
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Nicht automatisch handeln. Erst sichern, dann vergleichen; die Steilheit ist der Befund.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 2.95,
-        "why": [
-          "momentum delta +2",
-          "baseline z_hint 2.95"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-        "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-        "source": "",
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 9.5,
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-        "source": "",
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 9.5,
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-        "url": "https://toyokeizai.net/articles/-/948348?display=b",
-        "source": "",
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 9.5,
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
