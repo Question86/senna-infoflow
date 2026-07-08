@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T15:46:57+00:00_
+_Generiert: 2026-07-08T16:22:32+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+108 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,30 @@ _Generiert: 2026-07-08T15:46:57+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-01`
   - Kurz: Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f09006be7d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in Finland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104008)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Finland
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550528)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Chile 07/07/2026 01:26 UTC, Few people affected in MMI&gt;=II.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 850 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550395)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:35km) in Philippines 06/07/2026 08:11 UTC, 850 thousand in MMI&gt;=IV.
+- **GDACS: Volcanic eruption is on going for Etna in Italy** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000142)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Etna in Italy
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550259)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:685.692km) in Fiji Islands Region 05/07/2026 14:22 UTC, Few people affected in 100km.
 
 ## Wirtschaft global
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-08T15:46:57+00:00",
+  "generated_at": "2026-07-08T16:22:32+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/"
       },
       {
-        "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:26:40+00:00",
+        "title": "npm install-time security and GAT bypass2fa deprecation",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T15:00:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2223"
+        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation"
       }
     ],
     "security": [
@@ -228,6 +228,13 @@
         "url": "https://github.com/TencentCloud/CubeSandbox"
       },
       {
+        "title": "npm install-time security and GAT bypass2fa deprecation",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T15:00:40+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation"
+      },
+      {
         "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
         "source": "CERT-EU Security Advisories",
         "published_at": "2026-03-25T08:51:39+00:00",
@@ -242,11 +249,32 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search"
       },
       {
+        "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-08T16:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/"
+      },
+      {
         "title": "Add review cycles and time to adoption phases in the usage API",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-07-08T04:53:01+00:00",
         "relevance_score": 8,
         "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api"
+      },
+      {
+        "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T09:45:22+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent"
+      },
+      {
+        "title": "GitHub Mobile: Live notifications for Copilot CLI sessions",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-08T09:45:09+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions"
       },
       {
         "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
