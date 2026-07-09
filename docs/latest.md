@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T05:30:08+00:00_
+_Generiert: 2026-07-09T06:49:56+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,13 +14,22 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-09T02:40:15+00:00`, fetched `2026-07-09T02:39:56+00:00`
+  - Zeit: published `2026-07-09T06:49:44+00:00`, fetched `2026-07-09T06:49:26+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams** — Score 20, opportunity — [Quelle](https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-09T05:58:24+00:00`, fetched `2026-07-09T06:49:26+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, funding, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: Sprouts.ai, a Palo Alto-based startup building AI agents for enterprise revenue teams, has raised US$9 million in pre-Series A funding, as investors continue to back software companies trying to automate parts of the B2B sales and marketing stack. The round was co-led by True Global Ventures and Accel, with participation from Kickstart Ventures, the corporate […] The post Sprouts.ai raises US$9M to build AI revenue…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Why the US tech rebound matters for SEA’s AI and venture ecosystem** — Score 17, observation — [Quelle](https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-09T04:29:58+00:00`, fetched `2026-07-09T05:29:37+00:00`
@@ -39,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capital (VC), failure is the statistical norm. Most startups wither; a rare few soar. Yet […] The post When startups fail, should VCs go to jail? appeared first on…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-09T05:46:40+00:00`, fetched `2026-07-09T06:49:26+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Verursachung einerDenial-of-Service-Angriff, die Umgehung von Sicherheitsmaßnahmen sowie die Änderung und Offenlegung von Daten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TencentCloud/TencentDB-Agent-Memory** — Score 16, opportunity — [Quelle](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-09T02:39:56+00:00`
@@ -48,15 +66,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文 ✨ Highlights TencentDB Agent Memory = symbolic short-term memory + layered long-term memory. Symbolic short-term memory offloads heavy tool logs and condenses…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build** — Score 15, risk — [Quelle](https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-09T01:45:16+00:00`, fetched `2026-07-09T02:39:56+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security
+- **Adalo App Builderにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99220646/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-09T15:45:00+09:00`, fetched `2026-07-09T06:49:26+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scope 3, supplier data, packaging, water, chemicals, circularity, EPR and verification. The message for Southeast Asia’s startup ecosystem […] The post From ESG das…
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1829)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-09T05:46:40+00:00`, fetched `2026-07-09T06:49:26+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Wazuh Manager ausnutzen, um seine Privilegien zu erhöhen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -123,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Declarative Continuous Deployment for Kubernetes Releases: Code: Social: Argo CD - Declarative Continuous Delivery for Kubernetes What is Argo CD? Argo CD is a declarative GitOps continuous delivery tool for Kubernetes. Why Argo CD? Application definitions, configurations, and environments should be declarative and version controlled. Application deployment and lifecycle management should be automated, auditable, an…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-09T06:00:00+00:00`, fetched `2026-07-09T06:49:26+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「技術的負債に向き合うConference 2026」公式サイト** — Score 5, opportunity — [Quelle](https://technical-debt-con.findy-tools.io/2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-08T22:46:01+00:00`, fetched `2026-07-09T02:39:56+00:00`
@@ -154,8 +190,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

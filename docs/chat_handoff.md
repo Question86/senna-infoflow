@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-09T05:30:08+00:00_
+_Generated: 2026-07-09T06:49:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `27`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-09T02:40:15+00:00`
+- published: `2026-07-09T06:49:44+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. Why the US tech rebound matters for SEA’s AI and venture ecosystem
+### 2. Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams
+- source: e27 Asia Startup and Tech Feed
+- score: `20`
+- published: `2026-07-09T05:58:24+00:00`
+- url: https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/
+- summary: Sprouts.ai, a Palo Alto-based startup building AI agents for enterprise revenue teams, has raised US$9 million in pre-Series A funding, as investors continue to back software companies trying to automate parts of the B2B sales and marketing stack. The round w…
+
+### 3. Why the US tech rebound matters for SEA’s AI and venture ecosystem
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-07-09T04:29:58+00:00`
 - url: https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/
 - summary: The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose ac…
 
-### 3. When startups fail, should VCs go to jail?
+### 4. When startups fail, should VCs go to jail?
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-07-09T02:45:27+00:00`
 - url: https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/
 - summary: On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capi…
-
-### 4. TencentCloud/TencentDB-Agent-Memory
-- source: GitHub Trending RSS All Languages Daily
-- score: `16`
-- published: `None`
-- url: https://github.com/TencentCloud/TencentDB-Agent-Memory
-- summary: TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文…
 
 ### 5. mvanhorn/last30days-skill
 - source: GitHub Trending RSS All Languages Daily

@@ -1,15 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T05:30:08+00:00",
+  "generated_at": "2026-07-09T06:49:56+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-09T02:40:15+00:00",
+        "published_at": "2026-07-09T06:49:44+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T05:58:24+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/"
       },
       {
         "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
@@ -66,53 +73,16 @@
         "published_at": "2026-07-09T02:00:52+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/"
-      },
-      {
-        "title": "Nium acquires Cypher as fiat and stablecoin payments converge",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-09T03:43:01+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/nium-acquires-cypher-as-fiat-and-stablecoin-payments-converge-20260709/"
-      }
-    ],
-    "github": [
-      {
-        "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-09T04:29:58+00:00",
-        "relevance_score": 17,
-        "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/"
-      },
-      {
-        "title": "TencentCloud/TencentDB-Agent-Memory",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
-      },
-      {
-        "title": "mvanhorn/last30days-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/mvanhorn/last30days-skill"
-      },
-      {
-        "title": "prisma/prisma",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/prisma/prisma"
-      },
-      {
-        "title": "argoproj/argo-cd",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/argoproj/argo-cd"
       }
     ],
     "economy": [
+      {
+        "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T05:58:24+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/"
+      },
       {
         "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
         "source": "e27 Asia Startup and Tech Feed",
@@ -161,9 +131,23 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/prisma/prisma"
+      },
+      {
+        "title": "Why US$1.4 billion in Bitcoin longs could drag Bitcoin down to US$53,500?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T06:11:55+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-us1-4-billion-in-bitcoin-longs-could-drag-bitcoin-down-to-us53500-20260709/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T05:58:24+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/"
+      },
       {
         "title": "The next phase of business: We are moving to AI crews",
         "source": "e27 Asia Startup and Tech Feed",
@@ -172,11 +156,85 @@
         "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/"
       },
       {
+        "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-09T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief"
+      },
+      {
+        "title": "Why US$1.4 billion in Bitcoin longs could drag Bitcoin down to US$53,500?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T06:11:55+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-us1-4-billion-in-bitcoin-longs-could-drag-bitcoin-down-to-us53500-20260709/"
+      },
+      {
         "title": "Founding a company is not a career move",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-09T03:00:46+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/founding-a-company-is-not-a-career-move-20260708/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T04:29:58+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/"
+      },
+      {
+        "title": "TencentCloud/TencentDB-Agent-Memory",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      },
+      {
+        "title": "mvanhorn/last30days-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/mvanhorn/last30days-skill"
+      },
+      {
+        "title": "prisma/prisma",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/prisma/prisma"
+      },
+      {
+        "title": "argoproj/argo-cd",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/argoproj/argo-cd"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T05:46:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143"
+      },
+      {
+        "title": "Adalo App Builderにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-09T15:45:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99220646/"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T05:46:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1829"
       }
     ],
     "general": [
