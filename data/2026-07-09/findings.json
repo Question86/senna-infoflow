@@ -193,6 +193,30 @@
     "id": "31dafcd5a224049e48f4"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (ruby: net-imap): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2163",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T11:31:40+00:00",
+    "fetched_at": "2026-07-09T12:24:33+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8dbdbe99b0c45e2a9b01"
+  },
+  {
     "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
     "source": "BSI CERT-Bund Security Advisories",
@@ -426,6 +450,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1edba35595d85fb062a0"
+  },
+  {
+    "title": "[UPDATE] [mittel] LibreOffice: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1393",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T11:31:40+00:00",
+    "fetched_at": "2026-07-09T12:24:33+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in LibreOffice ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "de76804fc9f40b47df82"
+  },
+  {
+    "title": "[UPDATE] [hoch] Ruby und Ruby on Rails (erb gem): Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1187",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T11:31:39+00:00",
+    "fetched_at": "2026-07-09T12:24:33+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby und Ruby on Rails ausnutzen, um Sicherheitsmaßnahmen zu umgehen und so beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ae571f1ebd3324e972c"
   },
   {
     "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
@@ -849,6 +919,42 @@
     "id": "55774b050a356dff9317"
   },
   {
+    "title": "M 4.6 - 87 km S of Kuril’sk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-09T12:23:21.040+00:00",
+    "fetched_at": "2026-07-09T12:24:33+00:00",
+    "summary": "Time 2026-07-09 11:58:39 UTC 2026-07-09 11:58:39 UTC at epicenter Location 44.441°N 147.887°E Depth 110.67 km (68.77 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "57fc93c6d7178569da6b"
+  },
+  {
     "title": "Most Southeast Asian startups sound the same, that is not an accident",
     "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -995,6 +1101,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1316c9c2a933e5279c47"
+  },
+  {
+    "title": "Chrome-Browser & ChromeOS LTS : Updates schließen teils kritische Lücken",
+    "url": "https://www.heise.de/news/Chrome-Browser-ChromeOS-LTS-Updates-schliessen-teils-kritische-Luecken-11359376.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-09T12:01:00.000+00:00",
+    "fetched_at": "2026-07-09T12:24:33+00:00",
+    "summary": "Fur Windows, macOS, Linux und die Android-Version des Chrome-Browsers sind Sicherheitsupdates verfügbar. Auch die LTS-Fassung von ChromeOS wurde abgedichtet.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6145574d323a6dde9624"
   },
   {
     "title": "Your next nurse may monitor you from the Philippines",

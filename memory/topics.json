@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T11:31:29+00:00",
+  "generated_at": "2026-07-09T12:25:08+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/"
       },
       {
+        "title": "[UPDATE] [hoch] Ruby und Ruby on Rails (erb gem): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T11:31:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1187"
+      },
+      {
         "title": "[NEU] [hoch] LiteLLM: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T10:21:39+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-09T03:52:12+00:00",
         "relevance_score": 13,
         "url": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code"
-      },
-      {
-        "title": "mvanhorn/last30days-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/mvanhorn/last30days-skill"
       }
     ],
     "economy": [
@@ -228,6 +228,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2267"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (ruby: net-imap): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T11:31:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2163"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T09:12:12+00:00",
@@ -277,18 +284,11 @@
         "url": "https://jvn.jp/vu/JVNVU99220646/"
       },
       {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] LibreOffice: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-09T10:41:39+00:00",
+        "published_at": "2026-07-09T11:31:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2265"
-      },
-      {
-        "title": "[NEU] [hoch] LiteLLM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-09T10:21:39+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2263"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1393"
       }
     ],
     "github": [
@@ -335,6 +335,13 @@
         "published_at": "2026-07-09T00:03:02.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z"
+      },
+      {
+        "title": "M 4.6 - 87 km S of Kuril’sk, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-09T12:23:21.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66"
       },
       {
         "title": "Most Southeast Asian startups sound the same, that is not an accident",
