@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-09T01:42:12Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-07-09T02:40:45Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “mvanhorn/last30days-skill” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,68 @@
   ],
   "top_dynamics": [
     {
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-09T02:39:56+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: pipeline",
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last…"
+    },
+    {
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-09T02:39:56+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local, pipeline",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文 ✨ Highlights TencentDB Agent Memory = symbolic short-term m…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 19.99,
+      "age_days": 20.03,
       "topics": [
         "ai"
       ],
@@ -39,11 +96,123 @@
       "summary": ""
     },
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-07-09T02:40:15+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
+    {
+      "title": "From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build",
+      "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-09T01:45:16+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, chain",
+        "high terms: execution",
+        "security high-signal: execution",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scope 3, supplier data, packaging, water, chemicals, circularity…"
+    },
+    {
+      "title": "Why traditional hiring won’t work for APAC’s AI roles",
+      "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-09T01:30:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "I have stopped being surprised when a client tells me they have the budget, the use cases, and a talent plan that falls apart the moment someone actually tries to execute it. This is the reality of the APAC technology talent market in 2026, and it is considerably more uncomfortable than most boardroom conversations ac…"
+    },
+    {
+      "title": "The next phase of business: We are moving to AI crews",
+      "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-09T01:00:19+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For the last two decades, software has been the foundation of how we build businesses. Need accounting? Buy accounting software. Need marketing? Buy a CRM. Need project management? Buy another tool. Every business became a collection of software subscriptions stitched together with APIs and automation. For years, that…"
+    },
+    {
       "title": "M 5.0 - 1 km NNW of Xunchang, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-09T00:03:02.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -64,11 +233,84 @@
       "summary": "Time 2026-07-08 23:44:13 UTC 2026-07-08 23:44:13 UTC at epicenter Location 28.471°N 104.707°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "「技術的負債に向き合うConference 2026」公式サイト",
+      "url": "https://technical-debt-con.findy-tools.io/2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-08T22:46:01+00:00",
+      "age_days": 0.16,
+      "topics": [],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "2026/9/16(水) 17(木)オンライン開催！ 『Taming Your Dragon』著者やt-wada(和田卓人)氏が基調講演で登壇。#技術的負債con_findy"
+    },
+    {
+      "title": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-09T02:39:56+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, kubernetes",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Declarative Continuous Deployment for Kubernetes Releases: Code: Social: Argo CD - Declarative Continuous Delivery for Kubernetes What is Argo CD? Argo CD is a declarative GitOps continuous delivery tool for Kubernetes. Why Argo CD? Application definitions, configurations, and environments should be declarative and ve…"
+    },
+    {
+      "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-08T21:46:52+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "2026年6月8日、独立行政法人国立病院機構は、北海道医療センターと北海道がんセンターが廃棄処分を委託していたハードディスク(HDD)の一部が適切に破砕されないままインターネットオークションに流出し、患者・職員の個人情報が外部に漏えいした可能性があると公表しました。同日、機構は廃棄物処理業者を刑事告発したこ..."
+    },
+    {
       "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
       "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T13:22:28+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -86,83 +328,6 @@
         "no strong comparative reason"
       ],
       "summary": "ここでいう「方式」は、単にアーキテクチャ名を選ぶことではありません。書籍で扱われる業務ロジックの実装方法や技術方式を踏まえて、業務ロジックをどこに置くか、どのアーキテクチャで支えるか、どのテスト方針で守るかをまとめて判断する、という意味で使っています。 どちらも、入力条件に基づいて判断材料を整理す..."
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 18.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 2.79,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -6.7 for 19.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 18.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 2.79,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -6.7 for 19.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 18.95,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -6.7 for 19.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -174,9 +339,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 1,
-      "quiet": 4
+      "strong": 7,
+      "watch": 2,
+      "quiet": 3
     }
   }
 }
