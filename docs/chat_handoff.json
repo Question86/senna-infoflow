@@ -113,7 +113,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T09:12:12+00:00",
-        "age_days": 0.01,
+        "age_days": 0.06,
         "topics": [
           "security"
         ],
@@ -138,7 +138,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T09:12:10+00:00",
-        "age_days": 0.01,
+        "age_days": 0.06,
         "topics": [
           "security"
         ],
@@ -163,7 +163,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T07:46:39+00:00",
-        "age_days": 0.07,
+        "age_days": 0.12,
         "topics": [
           "security"
         ],
@@ -188,7 +188,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T05:46:40+00:00",
-        "age_days": 0.16,
+        "age_days": 0.2,
         "topics": [
           "security"
         ],
@@ -213,7 +213,7 @@
         "url": "https://github.com/mvanhorn/last30days-skill",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": "2026-07-09T02:39:56+00:00",
-        "age_days": 0.28,
+        "age_days": 0.33,
         "topics": [
           "ai",
           "infra",
