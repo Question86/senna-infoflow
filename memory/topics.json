@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T22:10:17+00:00",
+  "generated_at": "2026-07-09T22:43:56+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-09T21:40:13+00:00",
+        "published_at": "2026-07-09T22:43:45+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -365,6 +365,13 @@
     ],
     "general": [
       {
+        "title": "M 4.5 - 145 km NNW of Ternate, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-09T22:40:53.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szaw"
+      },
+      {
         "title": "M 5.0 - 19 km ENE of Abuyog, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-09T17:12:09.040+00:00",
@@ -426,13 +433,6 @@
         "published_at": "2026-07-09T09:12:59+00:00",
         "relevance_score": 5,
         "url": "https://car.watch.impress.co.jp/docs/news/2123922.html"
-      },
-      {
-        "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-09T09:07:51+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html"
       }
     ]
   }
