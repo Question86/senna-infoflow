@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T17:15:39+00:00",
-  "run_id": "2026-07-09T17:15:39+00:00",
+  "generated_at": "2026-07-09T17:58:45+00:00",
+  "run_id": "2026-07-09T17:58:45+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 2,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
-    "medium": 31,
-    "observe": 47,
+    "medium": 32,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -556,6 +556,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ab5c70cf6f07b911d49e"
+      },
+      {
+        "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-09T16:41:29+00:00",
+        "fetched_at": "2026-07-09T17:58:15+00:00",
+        "summary": "OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8dac4ca1a604eef3487"
       },
       {
         "title": "Adalo App Builderにおける複数の脆弱性",
@@ -1313,6 +1335,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4087db03293cbdc09920"
+      },
+      {
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-09T10:00:00+00:00",
+        "fetched_at": "2026-07-09T17:58:15+00:00",
+        "summary": "Details about the OpenAI Bio Bounty program",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "da057bf969488b8ee57d"
       },
       {
         "title": "ChatGPT is now a partner for your most ambitious work",
@@ -2480,6 +2522,28 @@
       "id": "ab5c70cf6f07b911d49e"
     },
     {
+      "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-09T16:41:29+00:00",
+      "fetched_at": "2026-07-09T17:58:15+00:00",
+      "summary": "OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8dac4ca1a604eef3487"
+    },
+    {
       "title": "Adalo App Builderにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99220646/",
       "source": "JVN Japan Vulnerability Notes",
@@ -3235,6 +3299,26 @@
       "id": "4087db03293cbdc09920"
     },
     {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "fetched_at": "2026-07-09T17:58:15+00:00",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da057bf969488b8ee57d"
+    },
+    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "source": "OpenAI News RSS",
@@ -3871,113 +3955,35 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-09T17:15:28+00:00",
-      "fetched_at": "2026-07-09T17:15:08+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "81af3593f278b3439388"
-    },
-    {
-      "title": "M 5.0 - 19 km ENE of Abuyog, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-09T17:12:09.040+00:00",
-      "fetched_at": "2026-07-09T17:15:08+00:00",
-      "summary": "Time 2026-07-09 16:46:49 UTC 2026-07-09 16:46:49 UTC at epicenter Location 10.809°N 125.179°E Depth 103.89 km (64.56 mi)",
+      "published_at": "2026-07-09T16:41:29+00:00",
+      "fetched_at": "2026-07-09T17:58:15+00:00",
+      "summary": "OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "04336feca5e940a62e99"
-    },
-    {
-      "title": "How GitHub gave every repository a durable owner",
-      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-09T16:29:37+00:00",
-      "fetched_at": "2026-07-09T17:15:08+00:00",
-      "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner appeared first on The GitHub Blog .",
-      "matched_keywords": [
+        "Copilot",
         "GitHub",
-        "Security"
+        "OpenAI"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); GitHub (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f674482f115e6339ae41"
+      "id": "b8dac4ca1a604eef3487"
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
       "source": "OpenAI News RSS",
       "source_type": "rss",
       "published_at": "2026-07-09T10:00:00+00:00",
-      "fetched_at": "2026-07-09T17:15:08+00:00",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "fetched_at": "2026-07-09T17:58:15+00:00",
+      "summary": "Details about the OpenAI Bio Bounty program",
       "matched_keywords": [
         "OpenAI"
       ],
@@ -3988,48 +3994,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4087db03293cbdc09920"
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "fetched_at": "2026-07-09T17:15:08+00:00",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a5b6d7a38030765e9ac6"
-    },
-    {
-      "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表 | gihyo.jp",
-      "url": "https://gihyo.jp/article/2026/07/flint",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-09T12:28:37+00:00",
-      "fetched_at": "2026-07-09T17:15:08+00:00",
-      "summary": "Microsoft Research⁠⁠、AI時代のグラフ作成を支援する中間言語「Flint」を発表 Microsoft Researchは2026年7月8日、AIエージェントによるグラフ作成を支援する中間言語「Flint」を発表した。Flintは、AIエージェントが扱いやすく、人間も確認・編集しやすい短いチャート仕様を、Vega-Lite、Apache ECharts、Chart.js向け...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "96400a5d1eb81692d32d"
+      "id": "da057bf969488b8ee57d"
     }
   ],
   "source_errors": [],

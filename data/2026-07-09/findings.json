@@ -528,6 +528,28 @@
     "id": "ab5c70cf6f07b911d49e"
   },
   {
+    "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-09T16:41:29+00:00",
+    "fetched_at": "2026-07-09T17:58:15+00:00",
+    "summary": "OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "OpenAI"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b8dac4ca1a604eef3487"
+  },
+  {
     "title": "Adalo App Builderにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU99220646/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1281,6 +1303,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4087db03293cbdc09920"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:00:00+00:00",
+    "fetched_at": "2026-07-09T17:58:15+00:00",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da057bf969488b8ee57d"
   },
   {
     "title": "ChatGPT is now a partner for your most ambitious work",

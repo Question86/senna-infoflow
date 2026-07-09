@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T17:15:39+00:00",
+  "generated_at": "2026-07-09T17:58:45+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/"
       },
       {
+        "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-09T16:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot"
+      },
+      {
         "title": "[UPDATE] [hoch] Ruby und Ruby on Rails (erb gem): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T11:31:39+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-09T10:21:39+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2263"
-      },
-      {
-        "title": "Why traditional hiring won’t work for APAC’s AI roles",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-09T01:30:53+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/"
       }
     ],
     "economy": [
@@ -305,6 +305,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      },
+      {
+        "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-09T16:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot"
       },
       {
         "title": "mvanhorn/last30days-skill",
