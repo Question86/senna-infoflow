@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-09T20:32:01Z",
+  "generated_at": "2026-07-09T21:09:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T07:46:39+00:00",
-      "age_days": 0.53,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T11:31:39+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -66,7 +66,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2265",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:41:39+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:21:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:12+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -142,7 +142,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:10+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T05:46:40+00:00",
-      "age_days": 0.61,
+      "age_days": 0.64,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "ai",
         "infra",
@@ -223,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2263",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:21:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security"
@@ -250,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T07:11:39+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -276,7 +276,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T06:56:39+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -302,7 +302,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1829",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T05:46:40+00:00",
-      "age_days": 0.61,
+      "age_days": 0.64,
       "topics": [
         "security"
       ],
