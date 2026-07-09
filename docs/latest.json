@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T15:32:47+00:00",
-  "run_id": "2026-07-09T15:32:47+00:00",
+  "generated_at": "2026-07-09T16:25:38+00:00",
+  "run_id": "2026-07-09T16:25:38+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 11,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 3,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 30,
-    "observe": 41,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-09T15:32:34+00:00",
-        "fetched_at": "2026-07-09T15:32:14+00:00",
+        "published_at": "2026-07-09T16:25:20+00:00",
+        "fetched_at": "2026-07-09T16:25:02+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "ff10162a3b2b477931ca"
+        "id": "6bf76d1c1c8908424888"
       },
       {
         "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -1602,6 +1602,27 @@
         "id": "febd1d3aaffc758a7c30"
       },
       {
+        "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-09T08:11:31+00:00",
+        "fetched_at": "2026-07-09T16:25:02+00:00",
+        "summary": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力（1/4 ページ） 2026年はスマートグラスというカテゴリーの製品が豊作だ。その多くがメガネのレンズをディスプレイとして情報を映し出せるというもので、AIとの連携機能もある。スマートフ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5f63c26b2975fc12de8d"
+      },
+      {
         "title": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
         "url": "https://internet.watch.impress.co.jp/docs/news/2123845.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1749,6 +1770,26 @@
         "id": "464d2bc9a02f9bee207b"
       },
       {
+        "title": "Organization-level targeting for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-09T15:54:01+00:00",
+        "fetched_at": "2026-07-09T16:25:02+00:00",
+        "summary": "Organization owners can now target a subset of repositories when enabling or disabling GitHub Code Quality, rather than applying it to every repository at once. This gives you more granular… The post Organization-level targeting for GitHub Code Quality appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e6994d56e5f899c67791"
+      },
+      {
         "title": "Why US$1.4 billion in Bitcoin longs could drag Bitcoin down to US$53,500?",
         "url": "https://e27.co/why-us1-4-billion-in-bitcoin-longs-could-drag-bitcoin-down-to-us53500-20260709/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1796,8 +1837,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-09T15:32:34+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
+      "published_at": "2026-07-09T16:25:20+00:00",
+      "fetched_at": "2026-07-09T16:25:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1831,7 +1872,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ff10162a3b2b477931ca"
+      "id": "6bf76d1c1c8908424888"
     },
     {
       "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -3362,6 +3403,27 @@
       "id": "febd1d3aaffc758a7c30"
     },
     {
+      "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T08:11:31+00:00",
+      "fetched_at": "2026-07-09T16:25:02+00:00",
+      "summary": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力（1/4 ページ） 2026年はスマートグラスというカテゴリーの製品が豊作だ。その多くがメガネのレンズをディスプレイとして情報を映し出せるというもので、AIとの連携機能もある。スマートフ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5f63c26b2975fc12de8d"
+    },
+    {
       "title": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
       "url": "https://internet.watch.impress.co.jp/docs/news/2123845.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3509,6 +3571,26 @@
       "id": "464d2bc9a02f9bee207b"
     },
     {
+      "title": "Organization-level targeting for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-09T15:54:01+00:00",
+      "fetched_at": "2026-07-09T16:25:02+00:00",
+      "summary": "Organization owners can now target a subset of repositories when enabling or disabling GitHub Code Quality, rather than applying it to every repository at once. This gives you more granular… The post Organization-level targeting for GitHub Code Quality appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e6994d56e5f899c67791"
+    },
+    {
       "title": "Why US$1.4 billion in Bitcoin longs could drag Bitcoin down to US$53,500?",
       "url": "https://e27.co/why-us1-4-billion-in-bitcoin-longs-could-drag-bitcoin-down-to-us53500-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3555,8 +3637,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-09T15:32:34+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
+      "published_at": "2026-07-09T16:25:20+00:00",
+      "fetched_at": "2026-07-09T16:25:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3590,233 +3672,48 @@
         "HD",
         "LOW"
       ],
-      "id": "ff10162a3b2b477931ca"
+      "id": "6bf76d1c1c8908424888"
     },
     {
-      "title": "Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-29T00:00:00+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Climate/Disaster Infrastructure",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ab5c70cf6f07b911d49e"
-    },
-    {
-      "title": "n8n: CERT-Bund veröffentlicht Warnmeldung zu kürzlich beseitigten Schwachstellen",
-      "url": "https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-09T14:27:00.000+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.",
-      "matched_keywords": [
-        "Automatisierung",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+6.0); Automatisierung (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2e01932048f86b971490"
-    },
-    {
-      "title": "ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2123665.html",
+      "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-09T08:47:43+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施",
+      "published_at": "2026-07-09T08:11:31+00:00",
+      "fetched_at": "2026-07-09T16:25:02+00:00",
+      "summary": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力（1/4 ページ） 2026年はスマートグラスというカテゴリーの製品が豊作だ。その多くがメガネのレンズをディスプレイとして情報を映し出せるというもので、AIとの連携機能もある。スマートフ...",
       "matched_keywords": [
         "Hatena",
-        "hotentry",
-        "OpenAI"
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d8d029675dd402da5978"
+      "id": "5f63c26b2975fc12de8d"
     },
     {
-      "title": "【つぶやき】人が書いたskillとかcommandに愛着が湧かない - UGA Boxxx",
-      "url": "https://uga-box.hatenablog.com/entry/2026/02/03/000000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-09T06:40:03+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "人が書いたClaudeCodeのskillとかcommandに愛着が湧かないという意見を聞いた これはチーム開発する上で、モチベーションの低下（誰かがやってくれる）に繋がりそうな新しい課題かも この辺りをChatGPTにぼんやり相談 愛着が湧かない理由 自分の意思決定の痕跡がない skill / command は設計思想やトレードオフの集合体 ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed46239b048e5f34bce3"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7b30fecbab48394ec847"
-    },
-    {
-      "title": "Vulnérabilité dans Mozilla Firefox (01 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0820/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "54bd1f88365c77801d1f"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Adobe ColdFusion (01 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0821/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "23e798f0f426fcda15b5"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Apple (30 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0818/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "29bf7947ef3c65e784c4"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Synology MailPlus Server (30 juin 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synology MailPlus Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7466c7820f34e80c68f4"
-    },
-    {
-      "title": "Ask Copilot for a repository overview",
-      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "title": "Organization-level targeting for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-09T14:25:33+00:00",
-      "fetched_at": "2026-07-09T15:32:14+00:00",
-      "summary": "You can now ask GitHub Copilot for a high-level overview of any repository you’re exploring for the first time. When you visit the home page of a repository you haven’t… The post Ask Copilot for a repository overview appeared first on The GitHub Blog .",
+      "published_at": "2026-07-09T15:54:01+00:00",
+      "fetched_at": "2026-07-09T16:25:02+00:00",
+      "summary": "Organization owners can now target a subset of repositories when enabling or disabling GitHub Code Quality, rather than applying it to every repository at once. This gives you more granular… The post Organization-level targeting for GitHub Code Quality appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Copilot",
         "GitHub"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "711ff312d57c5311abca"
+      "id": "e6994d56e5f899c67791"
     }
   ],
   "source_errors": [],

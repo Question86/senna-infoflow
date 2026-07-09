@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-09T15:32:34+00:00",
-    "fetched_at": "2026-07-09T15:32:14+00:00",
+    "published_at": "2026-07-09T16:25:20+00:00",
+    "fetched_at": "2026-07-09T16:25:02+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ff10162a3b2b477931ca"
+    "id": "6bf76d1c1c8908424888"
   },
   {
     "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -1570,6 +1570,27 @@
     "id": "febd1d3aaffc758a7c30"
   },
   {
+    "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T08:11:31+00:00",
+    "fetched_at": "2026-07-09T16:25:02+00:00",
+    "summary": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力（1/4 ページ） 2026年はスマートグラスというカテゴリーの製品が豊作だ。その多くがメガネのレンズをディスプレイとして情報を映し出せるというもので、AIとの連携機能もある。スマートフ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5f63c26b2975fc12de8d"
+  },
+  {
     "title": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
     "url": "https://internet.watch.impress.co.jp/docs/news/2123845.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1715,6 +1736,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "464d2bc9a02f9bee207b"
+  },
+  {
+    "title": "Organization-level targeting for GitHub Code Quality",
+    "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-09T15:54:01+00:00",
+    "fetched_at": "2026-07-09T16:25:02+00:00",
+    "summary": "Organization owners can now target a subset of repositories when enabling or disabling GitHub Code Quality, rather than applying it to every repository at once. This gives you more granular… The post Organization-level targeting for GitHub Code Quality appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e6994d56e5f899c67791"
   },
   {
     "title": "Why US$1.4 billion in Bitcoin longs could drag Bitcoin down to US$53,500?",

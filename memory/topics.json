@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T15:32:47+00:00",
+  "generated_at": "2026-07-09T16:25:38+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-09T15:32:34+00:00",
+        "published_at": "2026-07-09T16:25:20+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -340,6 +340,13 @@
         "published_at": "2026-07-09T14:25:33+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview"
+      },
+      {
+        "title": "Organization-level targeting for GitHub Code Quality",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-09T15:54:01+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality"
       }
     ],
     "general": [
