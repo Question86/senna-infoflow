@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T23:11:39+00:00_
+_Generiert: 2026-07-09T23:41:27+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+90 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents** — Score 16, observation — [Quelle](https://www.onorca.dev/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-04-04T12:31:55+00:00`, fetched `2026-07-09T23:40:57+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5)
+  - Kurz: The command center for AI coding agents.Orca brings the whole AI engineering workflow into one app: multiple worktrees, multiple terminals, markdown editing and viewing, PDF and image previews, diffs, PR and CI review, fast file search, and agent status tracking. It is not just a terminal for Cla...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TencentCloud/TencentDB-Agent-Memory** — Score 16, opportunity — [Quelle](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

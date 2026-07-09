@@ -361,6 +361,30 @@
     "id": "af3e94463c7d2f97baad"
   },
   {
+    "title": "Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents",
+    "url": "https://www.onorca.dev/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-04-04T12:31:55+00:00",
+    "fetched_at": "2026-07-09T23:40:57+00:00",
+    "summary": "The command center for AI coding agents.Orca brings the whole AI engineering workflow into one app: multiple worktrees, multiple terminals, markdown editing and viewing, PDF and image previews, diffs, PR and CI review, fast file search, and agent status tracking. It is not just a terminal for Cla...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c5c9738eb26abb58fe25"
+  },
+  {
     "title": "TencentCloud/TencentDB-Agent-Memory",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -1786,6 +1810,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "96400a5d1eb81692d32d"
+  },
+  {
+    "title": "HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた",
+    "url": "https://gigazine.net/news/20260709-cloudflare-drop/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:42:04+00:00",
+    "fetched_at": "2026-07-09T23:40:57+00:00",
+    "summary": "CDN大手のCloudflareが「Cloudflare Drop」という静的サイトデプロイサービスを2026年7月8日にリリースしました。HTMLファイルなどをドラッグ＆ドロップするだけでCloudflareのCDNを用いたウェブサイト公開が可能で、アカウント作成せずとも60分間の期限付き公開を試せるとのこと。興味深いので使ってみました。 Cloudfl...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dea90052623fa3249d68"
   },
   {
     "title": "三菱自動車、京都工場でHighlandersのヒューマノイドロボット量産化を検討 2027年の早いタイミングで生産開始へ",
