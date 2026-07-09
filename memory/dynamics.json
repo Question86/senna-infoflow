@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-09T13:21:47Z",
+  "generated_at": "2026-07-09T13:39:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 18,
-      "strong": 14,
-      "watch": 4,
-      "quiet": 4
+      "strong": 15,
+      "watch": 5,
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 28,
-      "watch": 4,
-      "quiet": 4
+      "strong": 29,
+      "watch": 5,
+      "quiet": 2
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T07:46:39+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T11:31:39+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2265",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:41:39+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:21:39+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU99220646/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-09T15:45:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1393",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T11:31:40+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2262",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:16:41+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0044",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:11+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:11+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -245,7 +245,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -271,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -297,7 +297,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T05:46:40+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -323,7 +323,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "infra",
@@ -352,7 +352,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2263",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:21:39+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -379,7 +379,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T07:11:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -405,7 +405,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T06:56:39+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -431,7 +431,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1829",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T05:46:40+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -457,7 +457,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T11:31:40+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -482,7 +482,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:12:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -507,7 +507,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T09:11:49+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -532,7 +532,7 @@
       "url": "https://restofworld.org/2026/u-s-healthcare-philippines-remote-nurses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-09T10:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -559,7 +559,7 @@
       "url": "https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T05:58:24+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -587,7 +587,7 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "infra"
@@ -615,7 +615,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 20.47,
+      "age_days": 20.49,
       "topics": [
         "ai"
       ],
@@ -643,7 +643,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-09T11:31:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro",
@@ -672,7 +672,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:46:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -698,7 +698,7 @@
       "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:45:16+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security",
@@ -727,7 +727,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T07:06:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -754,7 +754,7 @@
       "url": "https://www.heise.de/news/Chrome-Browser-ChromeOS-LTS-Updates-schliessen-teils-kritische-Luecken-11359376.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-09T12:01:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -779,7 +779,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2266",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-09T10:46:39+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -800,11 +800,36 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um beliebige Dateien zu lesen und zu schreiben, sowie Informationen offenzulegen und Sicherheitsmechanismen zu umgehen."
     },
     {
+      "title": "M 5.1 - 50 km SW of Shirahama, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-09T13:27:06.617+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - III Time 2026-07-09 12:58:57 UTC 2026-07-09 12:58:57 UTC at epicenter Location 33.343°N 134.985°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Why traditional hiring won’t work for APAC’s AI roles",
       "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:30:53+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -831,7 +856,7 @@
       "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:00:19+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -858,7 +883,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-09T00:03:02.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -883,7 +908,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-09T12:23:21.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -908,7 +933,7 @@
       "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-07-09T11:30:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -932,7 +957,7 @@
       "url": "https://technical-debt-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T22:46:01+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -951,11 +976,35 @@
       "summary": "2026/9/16(水) 17(木)オンライン開催！ 『Taming Your Dragon』著者やt-wada(和田卓人)氏が基調講演で登壇。#技術的負債con_findy"
     },
     {
+      "title": "M 5.1 - 59 km NNE of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-09T13:07:51.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-09 12:52:56 UTC 2026-07-09 12:52:56 UTC at epicenter Location 14.569°S 167.326°E Depth 160.24 km (99.57 mi)"
+    },
+    {
       "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp",
       "url": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-09T03:52:12+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -981,7 +1030,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-09T09:07:51+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -999,57 +1048,6 @@
         "high terms: 10"
       ],
       "summary": "三菱自動車工業と、東京大学発ロボットスタートアップのHighlanders（東京都豊島区）は7月9日、ヒューマノイドロボットの共同開発と量産化に向けた基本合意書を締結したと発表した。自動車メーカーとヒューマノイドロボット開発企業による量産化を含む協業は初めてという。 両社は基本合意に基づき、三菱自動車の工場で..."
-    },
-    {
-      "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
-      "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-09T04:29:58+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose across headline categories, the IPO market reopened, and new u…"
-    },
-    {
-      "title": "When startups fail, should VCs go to jail?",
-      "url": "https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-09T02:45:27+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capital (VC), failure is the statistical norm. Most startups wit…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
