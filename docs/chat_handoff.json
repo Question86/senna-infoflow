@@ -1,97 +1,37 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-08T23:44:54+00:00",
+  "generated_at": "2026-07-09T00:12:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 130,
-    "displayed_findings": 130,
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 56,
-    "observe": 74
+    "medium": 0,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-08T22:29:08+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "section": "medium"
-    },
-    {
-      "title": "The vision-based shift: Transforming construction safety with AI",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-08T01:45:10+00:00",
-      "relevance_score": 23,
-      "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/",
-      "summary": "There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project mana…",
-      "section": "medium"
-    },
-    {
-      "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-06-10T08:47:08+00:00",
-      "relevance_score": 22,
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-      "summary": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network. According…",
-      "section": "medium"
-    },
-    {
-      "title": "2026-006: Critical Vulnerability in PAN-OS",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-05-06T10:44:32+00:00",
-      "relevance_score": 22,
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-      "summary": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this…",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.5 - Balleny Islands region",
+      "title": "M 5.0 - 1 km NNW of Xunchang, China",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-08T19:38:55.634+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b",
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-08 19:07:10 UTC 2026-07-08 19:07:10 UTC at epicenter Location 61.779°S 154.887°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-09T00:03:02.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
+      "summary": "Time 2026-07-08 23:44:13 UTC 2026-07-08 23:44:13 UTC at epicenter Location 28.471°N 104.707°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     },
     {
-      "title": "M 5.8 - 91 km SSW of Isangel, Vanuatu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-08T10:27:36.593+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-08 09:50:23 UTC 2026-07-08 09:50:23 UTC at epicenter Location 20.256°S 168.835°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Southeast Asia’s AI buildout is racing toward a power wall",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-08T03:00:53+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/",
-      "summary": "Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian…",
-      "section": "observe"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-06-29T00:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "published_at": "2026-07-08T13:22:28+00:00",
+      "relevance_score": 5,
+      "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
+      "summary": "ここでいう「方式」は、単にアーキテクチャ名を選ぶことではありません。書籍で扱われる業務ロジックの実装方法や技術方式を踏まえて、業務ロジックをどこに置くか、どのアーキテクチャで支えるか、どのテスト方針で守るかをまとめて判断する、という意味で使っています。 どちらも、入力条件に基づいて判断材料を整理す...",
       "section": "observe"
     }
   ],
@@ -100,142 +40,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Innersource security advisories are generally available” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=39.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Innersource security advisories are generally available",
-        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-08T21:30:35+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 39.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "GitHub Advanced Security enterprise customers can now publish internal security advisories. Innersource advisories work similarly to GitHub’s open source advisories, but their visibility is restricted to repositories owned by the… The post Innersource security advisories are generally available appeared first on The G…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T10:56:39+00:00",
-        "age_days": 0.55,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um seine Privilegien zu eskalieren oder nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise Denial-of-Service-Angriffe, Speicherbeschädigungen oder die Offenlegung von Informationen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1252",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T10:31:40+00:00",
-        "age_days": 0.57,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, andere nicht näher spezifizierte Auswirkungen zu verursachen und möglicherweise Code auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-08T10:31:40+00:00",
-        "age_days": 0.57,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: root",
-          "security high-signal: root"
-        ],
-        "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Root-Rechte zu erlangen, um Sicherheitsmechanismen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Auswirkungen unbestimmter Art zu erzielen."
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2225",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-07T11:36:39+00:00",
-        "age_days": 1.52,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen oder einen Denial-of-Service-Zustand herbeizuführen."
-      }
-    ]
-  }
+  ]
 }

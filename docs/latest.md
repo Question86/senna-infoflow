@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-08T23:44:54+00:00_
+_Generiert: 2026-07-09T00:12:30+00:00_
 
 ## Kurzlage
 
-130 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+2 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 1 km NNW of Xunchang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 ## Priorität Hoch
 
@@ -12,285 +12,32 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-08T22:29:08+00:00`, fetched `2026-07-08T22:28:49+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The vision-based shift: Transforming construction safety with AI** — Score 23, observation — [Quelle](https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-08T01:45:10+00:00`, fetched `2026-07-08T02:17:34+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, Public Health, Watchgraph:agriculture_food_fertilizer
-  - Watchgraph: agriculture_food_fertilizer
-  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
-  - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project management platforms. All that visual data. All those AI cameras. But the accidents kept happening […] The post The vision-based shift: Transforming construction sa…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026-007: Critical Vulnerability in Windows Netlogon** — Score 22, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-007/)
-  - Quelle: CERT-EU Security Advisories / `rss`
-  - Zeit: published `2026-06-10T08:47:08+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: CERT-EU, CodeQL/Dependabot, Microsoft, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); Microsoft (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network. According to The Centre for Cybersecurity Belgium (CCB), this vulnerability is currently exploited by threat actors. It is strongly recommended updating affected Windows…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **2026-006: Critical Vulnerability in PAN-OS** — Score 22, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-006/)
-  - Quelle: CERT-EU Security Advisories / `rss`
-  - Zeit: published `2026-05-06T10:44:32+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: CERT-EU, CodeQL/Dependabot, patch, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); patch (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges. Palo Alto observed limited exploitation of this vulnerability. It is strongly recommended updating affected appliances as soon as patches will be available, and to apply workarounds and mitigation in the mean…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Automating cross-repo documentation with GitHub Agentic Workflows** — Score 20, opportunity — [Quelle](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-07-08T21:11:56+00:00`, fetched `2026-07-08T22:03:19+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.5); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
-  - Kurz: Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **TencentCloud/CubeSandbox** — Score 19, opportunity — [Quelle](https://github.com/TencentCloud/CubeSandbox)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-08T02:17:34+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow, Webentwicklung
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. CubeSandbox Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents 中文文档 · Quick Start · Documentation · Changelog · X(Twitter) Cube Sandbox is a high-performance, out-of-the-box secure sandbox service built on RustVMM and KVM. It supports both single-node deployment and easy scaling to multi-node clusters. It is compatible with the E2B…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **2026-008: Critical vulnerabilities in Ivanti Sentry** — Score 18, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-008/)
-  - Quelle: CERT-EU Security Advisories / `rss`
-  - Zeit: published `2026-06-10T13:55:39+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: CERT-EU, CodeQL/Dependabot, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった** — Score 17, observation — [Quelle](https://zenn.dev/layerx/articles/9f25ec86a31730)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-08T13:10:31+00:00`, fetched `2026-07-08T15:46:23+00:00`
-  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。 本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Helping K–12 educators build practical AI skills** — Score 17, observation — [Quelle](https://openai.com/index/k-12-educators-practical-skills)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-08T10:00:00+00:00`, fetched `2026-07-08T17:29:10+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)
-  - Kurz: OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Google Cloud Platform (GKE containerd): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-08T07:17:17+00:00`, fetched `2026-07-08T07:26:26+00:00`
-  - Treffer: APAC Trend Radar, BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1656)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-08T10:56:39+00:00`, fetched `2026-07-08T11:26:59+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um seine Privilegien zu eskalieren oder nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise Denial-of-Service-Angriffe, Speicherbeschädigungen oder die Offenlegung von Informationen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1454)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-08T10:31:41+00:00`, fetched `2026-07-08T10:47:00+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年07月07日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92734392/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-08T09:00:00+09:00`, fetched `2026-07-08T00:06:32+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年07月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)** — Score 16, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-06-29T00:00:00+00:00`, fetched `2026-07-08T14:56:58+00:00`
-  - Treffer: avis, CERT-FR, Linux, Microsoft, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Version 1.1: Cisco Firewalls mit persistenter Malware infiziert** — Score 16, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-279568-1032_bits.html)
-  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
-  - Zeit: published `2026-04-24T10:10:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, Firewall, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Firewall (+2.5)
-  - Kurz: Version 1.1: Cisco Firewalls mit persistenter Malware infiziert
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **M 5.5 - Balleny Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b)
+- **M 5.0 - 1 km NNW of Xunchang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-08T19:38:55.634+00:00`, fetched `2026-07-08T19:43:44+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Zeit: published `2026-07-09T00:03:02.040+00:00`, fetched `2026-07-09T00:12:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-07-08 19:07:10 UTC 2026-07-08 19:07:10 UTC at epicenter Location 61.779°S 154.887°E Depth 10.00 km (6.21 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-08 23:44:13 UTC 2026-07-08 23:44:13 UTC at epicenter Location 28.471°N 104.707°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.8 - 91 km SSW of Isangel, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-08T10:27:36.593+00:00`, fetched `2026-07-08T10:47:00+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-08 09:50:23 UTC 2026-07-08 09:50:23 UTC at epicenter Location 20.256°S 168.835°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Southeast Asia’s AI buildout is racing toward a power wall** — Score 13, observation — [Quelle](https://e27.co/southeast-asias-ai-buildout-is-racing-toward-a-power-wall-20260707/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-08T03:00:53+00:00`, fetched `2026-07-08T03:31:04+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Southeast Asia is in the middle of one of the most significant infrastructure buildouts in its history. Hyperscalers, cloud providers, and sovereign AI initiatives are pouring capital into data centres at a pace the region has never seen. The Southeast Asian data centre market is on track to reach US$30.47 billion by 2030, growing at […] The post Southeast Asia’s AI buildout is racing toward a power wall appeared fi…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-06-29T00:00:00+00:00`, fetched `2026-07-08T14:56:58+00:00`
-  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
+- **設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた** — Score 5, observation — [Quelle](https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-08T13:22:28+00:00`, fetched `2026-07-09T00:12:02+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-07-08T08:15:24+00:00`, fetched `2026-07-08T07:26:26+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260060 (OT,liquidity providing), for 7 days deadline 09:45
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Introducing GPT-Live** — Score 12, observation — [Quelle](https://openai.com/index/introducing-gpt-live)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-08T00:00:00+00:00`, fetched `2026-07-08T17:29:10+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
-  - Kurz: A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MUFG aims to become AI-native with OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/mufg)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-07T00:00:00+00:00`, fetched `2026-07-08T00:06:32+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)
-  - Kurz: MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen** — Score 12, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-255045-1032_bits.html)
-  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
-  - Zeit: published `2026-05-07T15:45:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, Ivanti, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Ivanti (+2.5); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Version 1.0: Ivanti EPMM: Systeme über neue Schwachstelle angegriffen
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026-005: High Vulnerability in the Linux Kernel ("Copy Fail")** — Score 12, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-005/)
-  - Quelle: CERT-EU Security Advisories / `rss`
-  - Zeit: published `2026-04-30T11:25:30+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: CERT-EU, Linux, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); CERT-EU (+2.0); Linux (+2.5)
-  - Kurz: On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named "Copy Fail", was publicly disclosed. The vulnerability affects every mainstream Linux distributions shipping a kernel built since 2017. A public proof-of-concept exploit has been released. As of the date of this advisory, no distribution has shipped a fixed kernel package. The mainline fix was c…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Vulnérabilité dans Apache Struts 2 (13 décembre 2023)** — Score 12, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2023-12-13T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: alerte, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
-  - Kurz: Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique CVE-2023-50164 concernant le cadriciel Struts 2. Cette vulnérabilité permet à un attaquant non authentifié de téléverser une porte dérobée sur un serveur vulnérable, et ainsi exécuter du code arbitraire à...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[MàJ] Multiples vulnérabilités dans Cisco IOS XE (17 octobre 2023)** — Score 12, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2023-10-17T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: alerte, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
-  - Kurz: \[Mise à jour du 02 novembre 2023\] La version 17.3.8a est disponible. \[Mise à jour du 31 octobre 2023\] Les détails techniques de la vulnérabilité CVE-2023-20198 sont désormais disponibles publiquement. Cette vulnérabilité était déjà massivement exploitée. Tous les équipements exposant...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[MàJ] Vulnérabilité dans Zimbra Collaboration Suite (17 juillet 2023)** — Score 12, mixed — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-007/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2023-07-17T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: alerte, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
-  - Kurz: \[Mise à jour du 26 juillet 2023\] Publication du correctif de sécurité par l'éditeur Le 26 juillet 2023, l'éditeur a publié un correctif de sécurité \[1\] pour cette vulnérabilité immatriculée CVE-2023-37580. Il est donc fortement recommandé de déployer le correctif P41 pour toutes les versions...
-  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- **アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/19486d47-c024-4289-899d-4358c8c34b26)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-08T06:00:00+00:00`, fetched `2026-07-08T06:33:09+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: アジャイル開発に関する有識者検討会（第6回）の会議資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de SUSE (26 juin 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-06-26T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Red Hat (26 juin 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0808/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-06-26T00:00:00+00:00`, fetched `2026-07-08T00:24:22+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ここでいう「方式」は、単にアーキテクチャ名を選ぶことではありません。書籍で扱われる業務ロジックの実装方法や技術方式を踏まえて、業務ロジックをどこに置くか、どのアーキテクチャで支えるか、どのテスト方針で守るかをまとめて判断する、という意味で使っています。 どちらも、入力条件に基づいて判断材料を整理す...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
