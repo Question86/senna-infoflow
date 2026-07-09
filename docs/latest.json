@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T06:49:56+00:00",
-  "run_id": "2026-07-09T06:49:56+00:00",
+  "generated_at": "2026-07-09T08:03:42+00:00",
+  "run_id": "2026-07-09T08:03:42+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 6,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
-    "medium": 10,
-    "observe": 17,
+    "medium": 14,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -199,6 +199,30 @@
         "id": "31dafcd5a224049e48f4"
       },
       {
+        "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T07:46:39+00:00",
+        "fetched_at": "2026-07-09T08:03:13+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bdf4365a0a9345ea49e"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
         "source": "BSI CERT-Bund Security Advisories",
@@ -312,6 +336,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1edba35595d85fb062a0"
+      },
+      {
+        "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T07:11:39+00:00",
+        "fetched_at": "2026-07-09T08:03:13+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um falsche Informationen darzustellen, einen Cross-Site-Scripting-Angriff zu starten und Daten zu verändern.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "61fec0c5df9a265caca7"
+      },
+      {
+        "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T07:06:39+00:00",
+        "fetched_at": "2026-07-09T08:03:13+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um Angriffe wie Cross-Site Scripting (XSS), SQL-Injection, Privilegienerweiterung, Umgehung der Authentifizierung, Path Traversal, Local File Inclusion (LFI) und unbefugten Zugriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e5a920cc57e9455e7f3f"
+      },
+      {
+        "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T06:56:39+00:00",
+        "fetched_at": "2026-07-09T08:03:13+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in NATS Server ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5426356abaf483d6542c"
       },
       {
         "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
@@ -633,6 +726,27 @@
         "id": "bdacac15c779ca3e32fb"
       },
       {
+        "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+        "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-09T04:20:23+00:00",
+        "fetched_at": "2026-07-09T08:03:13+00:00",
+        "summary": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "de341ed3a1cfea9125f9"
+      },
+      {
         "title": "「技術的負債に向き合うConference 2026」公式サイト",
         "url": "https://technical-debt-con.findy-tools.io/2026",
         "source": "Hatena Bookmark Hotentry IT",
@@ -694,6 +808,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c3fbeda414bbb4ec5f31"
+      },
+      {
+        "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+        "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T21:28:49+00:00",
+        "fetched_at": "2026-07-09T08:03:13+00:00",
+        "summary": "「Cloudflare Tunnel」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです。「自宅サーバー」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえ、Cloudflare Accessと組み合わせれば複数ユーザーでの認証も設定可能です。今回はまずCloudflare Tunnelでローカル...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "13acc65e5370fbee5b95"
       },
       {
         "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
@@ -929,6 +1064,30 @@
       "id": "31dafcd5a224049e48f4"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T07:46:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bdf4365a0a9345ea49e"
+    },
+    {
       "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1042,6 +1201,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1edba35595d85fb062a0"
+    },
+    {
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T07:11:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um falsche Informationen darzustellen, einen Cross-Site-Scripting-Angriff zu starten und Daten zu verändern.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "61fec0c5df9a265caca7"
+    },
+    {
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T07:06:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um Angriffe wie Cross-Site Scripting (XSS), SQL-Injection, Privilegienerweiterung, Umgehung der Authentifizierung, Path Traversal, Local File Inclusion (LFI) und unbefugten Zugriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e5a920cc57e9455e7f3f"
+    },
+    {
+      "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T06:56:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in NATS Server ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5426356abaf483d6542c"
     },
     {
       "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
@@ -1361,6 +1589,27 @@
       "id": "bdacac15c779ca3e32fb"
     },
     {
+      "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T04:20:23+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de341ed3a1cfea9125f9"
+    },
+    {
       "title": "「技術的負債に向き合うConference 2026」公式サイト",
       "url": "https://technical-debt-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1422,6 +1671,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c3fbeda414bbb4ec5f31"
+    },
+    {
+      "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+      "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T21:28:49+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "「Cloudflare Tunnel」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです。「自宅サーバー」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえ、Cloudflare Accessと組み合わせれば複数ユーザーでの認証も設定可能です。今回はまずCloudflare Tunnelでローカル...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "13acc65e5370fbee5b95"
     },
     {
       "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
@@ -1487,102 +1757,13 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-09T06:49:44+00:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "4cf1535d9462b42c1d7d"
-    },
-    {
-      "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
-      "url": "https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-09T05:58:24+00:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "Sprouts.ai, a Palo Alto-based startup building AI agents for enterprise revenue teams, has raised US$9 million in pre-Series A funding, as investors continue to back software companies trying to automate parts of the B2B sales and marketing stack. The round was co-led by True Global Ventures and Accel, with participation from Kickstart Ventures, the corporate […] The post Sprouts.ai raises US$9M to build AI revenue…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "funding",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "c88a74321826382a7f1f"
-    },
-    {
-      "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
+      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T05:46:40+00:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Verursachung einerDenial-of-Service-Angriff, die Umgehung von Sicherheitsmaßnahmen sowie die Änderung und Offenlegung von Daten.",
+      "published_at": "2026-07-09T07:46:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1597,38 +1778,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "af3e94463c7d2f97baad"
+      "id": "3bdf4365a0a9345ea49e"
     },
     {
-      "title": "Adalo App Builderにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99220646/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-09T15:45:00+09:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1edba35595d85fb062a0"
-    },
-    {
-      "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1829",
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T05:46:40+00:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Wazuh Manager ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-07-09T07:11:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um falsche Informationen darzustellen, einen Cross-Site-Scripting-Angriff zu starten und Daten zu verändern.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1642,47 +1801,95 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "554f54d002f45ec1bbc6"
+      "id": "61fec0c5df9a265caca7"
     },
     {
-      "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
-      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T06:00:00+00:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
+      "published_at": "2026-07-09T07:06:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um Angriffe wie Cross-Site Scripting (XSS), SQL-Injection, Privilegienerweiterung, Umgehung der Authentifizierung, Path Traversal, Local File Inclusion (LFI) und unbefugten Zugriff durchzuführen.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bdacac15c779ca3e32fb"
+      "id": "e5a920cc57e9455e7f3f"
     },
     {
-      "title": "Why US$1.4 billion in Bitcoin longs could drag Bitcoin down to US$53,500?",
-      "url": "https://e27.co/why-us1-4-billion-in-bitcoin-longs-could-drag-bitcoin-down-to-us53500-20260709/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T06:11:55+00:00",
-      "fetched_at": "2026-07-09T06:49:26+00:00",
-      "summary": "Bitcoin recently experienced a 1.94 per cent decline over a 24-hour period, settling at US$62,359.14. This downward movement underperformed a slightly weaker broader market. The mainstream narrative often attributes such drops to random market sentiment or fleeting panic. A deeper analysis reveals a precise combination of macroeconomic shocks and derivatives mechanics driving this specific price […] The post Why US$…",
+      "published_at": "2026-07-09T06:56:39+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in NATS Server ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e3df8a87865278ab5aa7"
+      "id": "5426356abaf483d6542c"
+    },
+    {
+      "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T04:20:23+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de341ed3a1cfea9125f9"
+    },
+    {
+      "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+      "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T21:28:49+00:00",
+      "fetched_at": "2026-07-09T08:03:13+00:00",
+      "summary": "「Cloudflare Tunnel」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです。「自宅サーバー」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえ、Cloudflare Accessと組み合わせれば複数ユーザーでの認証も設定可能です。今回はまずCloudflare Tunnelでローカル...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "13acc65e5370fbee5b95"
     }
   ],
   "source_errors": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T06:49:56+00:00",
+  "generated_at": "2026-07-09T08:03:42+00:00",
   "topics": {
     "ai": [
       {
@@ -216,6 +216,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T07:46:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T05:46:40+00:00",
@@ -228,6 +235,27 @@
         "published_at": "2026-07-09T15:45:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99220646/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T07:11:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891"
+      },
+      {
+        "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T07:06:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688"
+      },
+      {
+        "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T06:56:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132"
       },
       {
         "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
@@ -253,6 +281,13 @@
         "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/"
       },
       {
+        "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T04:20:23+00:00",
+        "relevance_score": 5,
+        "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html"
+      },
+      {
         "title": "「技術的負債に向き合うConference 2026」公式サイト",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-08T22:46:01+00:00",
@@ -265,6 +300,13 @@
         "published_at": "2026-07-08T21:46:52+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821"
+      },
+      {
+        "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-08T21:28:49+00:00",
+        "relevance_score": 5,
+        "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/"
       },
       {
         "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
