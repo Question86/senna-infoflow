@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T04:05:00+00:00",
-  "run_id": "2026-07-09T04:05:00+00:00",
+  "generated_at": "2026-07-09T05:30:08+00:00",
+  "run_id": "2026-07-09T05:30:08+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 2,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 5,
-    "observe": 14,
+    "medium": 6,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -70,6 +70,43 @@
           "LOW"
         ],
         "id": "bf51f77e779fdd617115"
+      },
+      {
+        "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+        "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-09T04:29:58+00:00",
+        "fetched_at": "2026-07-09T05:29:37+00:00",
+        "summary": "The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose across headline categories, the IPO market reopened, and new unicorns emerged. […] The post Why the US tech rebound matters for SEA’s AI and venture ecosystem app…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "funding",
+          "Watchgraph:agriculture_food_fertilizer"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "agriculture_food_fertilizer"
+        ],
+        "watchgraph_reasons": [
+          "agriculture_food_fertilizer: corn"
+        ],
+        "market_context": [
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "id": "10ca20a0f24c2d558b4f"
       },
       {
         "title": "When startups fail, should VCs go to jail?",
@@ -481,6 +518,27 @@
         "id": "6cce34461a3cda4a89e8"
       },
       {
+        "title": "Rewriting Bun in Rust | Bun Blog",
+        "url": "https://bun.com/blog/bun-in-rust",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-08T22:42:11+00:00",
+        "fetched_at": "2026-07-09T05:29:37+00:00",
+        "summary": "Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic. I used a pre-release version of Claude Fable 5 for much of the Rust rewrite. Bun started as a line-for-line port of esbuild's JavaScript & TypeScript transpiler from Go to Zig. I wrote my f...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d832c5dc412b2898827a"
+      },
+      {
         "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
         "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
         "source": "Hatena Bookmark Hotentry IT",
@@ -586,6 +644,43 @@
         "LOW"
       ],
       "id": "bf51f77e779fdd617115"
+    },
+    {
+      "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+      "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-09T04:29:58+00:00",
+      "fetched_at": "2026-07-09T05:29:37+00:00",
+      "summary": "The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose across headline categories, the IPO market reopened, and new unicorns emerged. […] The post Why the US tech rebound matters for SEA’s AI and venture ecosystem app…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "funding",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "10ca20a0f24c2d558b4f"
     },
     {
       "title": "When startups fail, should VCs go to jail?",
@@ -995,6 +1090,27 @@
       "id": "6cce34461a3cda4a89e8"
     },
     {
+      "title": "Rewriting Bun in Rust | Bun Blog",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-08T22:42:11+00:00",
+      "fetched_at": "2026-07-09T05:29:37+00:00",
+      "summary": "Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic. I used a pre-release version of Claude Fable 5 for much of the Rust rewrite. Bun started as a line-for-line port of esbuild's JavaScript & TypeScript transpiler from Go to Zig. I wrote my f...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d832c5dc412b2898827a"
+    },
+    {
       "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1059,108 +1175,62 @@
   ],
   "new_findings": [
     {
-      "title": "When startups fail, should VCs go to jail?",
-      "url": "https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/",
+      "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+      "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-09T02:45:27+00:00",
-      "fetched_at": "2026-07-09T04:04:32+00:00",
-      "summary": "On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capital (VC), failure is the statistical norm. Most startups wither; a rare few soar. Yet […] The post When startups fail, should VCs go to jail? appeared first on…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Reputationsrisiko",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "31dafcd5a224049e48f4"
-    },
-    {
-      "title": "Nium acquires Cypher as fiat and stablecoin payments converge",
-      "url": "https://e27.co/nium-acquires-cypher-as-fiat-and-stablecoin-payments-converge-20260709/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-09T03:43:01+00:00",
-      "fetched_at": "2026-07-09T04:04:32+00:00",
-      "summary": "Nium has acquired Cypher, a crypto-native non-custodial wallet and card issuing company, as the Singapore and San Francisco co-headquartered payments infrastructure firm pushes further into stablecoin-backed settlement and on-chain money movement. The companies did not disclose the financial terms of the transaction. Also Read: Nium bets on a future where stablecoins swipe like credit cards […] The post Nium acquire…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba696e2d462406497699"
-    },
-    {
-      "title": "The future of marketing isn’t about AI, it’s about judgment",
-      "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-09T03:15:36+00:00",
-      "fetched_at": "2026-07-09T04:04:32+00:00",
-      "summary": "During a recent interview, I was asked a question that many marketers are hearing more frequently these days. “How much of a marketer’s job do you think AI can replace?” I paused and replied, “About 50 per cent.” The interviewer immediately followed up with another question. “Why not 100 per cent?” At the time, I […] The post The future of marketing isn’t about AI, it’s about judgment appeared first on e27 .",
+      "published_at": "2026-07-09T04:29:58+00:00",
+      "fetched_at": "2026-07-09T05:29:37+00:00",
+      "summary": "The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose across headline categories, the IPO market reopened, and new unicorns emerged. […] The post Why the US tech rebound matters for SEA’s AI and venture ecosystem app…",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "funding",
+        "Watchgraph:agriculture_food_fertilizer"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "05bc0f329bf6ab32b877"
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "10ca20a0f24c2d558b4f"
     },
     {
-      "title": "Founding a company is not a career move",
-      "url": "https://e27.co/founding-a-company-is-not-a-career-move-20260708/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Rewriting Bun in Rust | Bun Blog",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-09T03:00:46+00:00",
-      "fetched_at": "2026-07-09T04:04:32+00:00",
-      "summary": "When I was twelve, I walked around my uncle’s warehouse in the Netherlands. He’d started a jewellery import business and grown it into a big business. I stood there thinking: he started with nothing and built all of this, that’s what I want to do! I also noticed the Porsche. And the house. I wanted […] The post Founding a company is not a career move appeared first on e27 .",
+      "published_at": "2026-07-08T22:42:11+00:00",
+      "fetched_at": "2026-07-09T05:29:37+00:00",
+      "summary": "Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic. I used a pre-release version of Claude Fable 5 for much of the Rust rewrite. Bun started as a line-for-line port of esbuild's JavaScript & TypeScript transpiler from Go to Zig. I wrote my f...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1eae3f2564dc3ee5f22f"
+      "id": "d832c5dc412b2898827a"
     }
   ],
   "source_errors": [],

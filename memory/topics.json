@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T04:05:00+00:00",
+  "generated_at": "2026-07-09T05:30:08+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-09T02:40:15+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T04:29:58+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/"
       },
       {
         "title": "When startups fail, should VCs go to jail?",
@@ -66,16 +73,16 @@
         "published_at": "2026-07-09T03:43:01+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/nium-acquires-cypher-as-fiat-and-stablecoin-payments-converge-20260709/"
-      },
-      {
-        "title": "The future of marketing isn’t about AI, it’s about judgment",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-09T03:15:36+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/"
       }
     ],
     "github": [
+      {
+        "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T04:29:58+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/"
+      },
       {
         "title": "TencentCloud/TencentDB-Agent-Memory",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -106,6 +113,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T04:29:58+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/"
+      },
       {
         "title": "Why traditional hiring won’t work for APAC’s AI roles",
         "source": "e27 Asia Startup and Tech Feed",

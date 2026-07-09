@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-09T04:05:00+00:00_
+_Generated: 2026-07-09T05:30:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-09T04:05:00+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. When startups fail, should VCs go to jail?
+### 2. Why the US tech rebound matters for SEA’s AI and venture ecosystem
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-07-09T04:29:58+00:00`
+- url: https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/
+- summary: The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose ac…
+
+### 3. When startups fail, should VCs go to jail?
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-07-09T02:45:27+00:00`
 - url: https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/
 - summary: On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capi…
 
-### 3. TencentCloud/TencentDB-Agent-Memory
+### 4. TencentCloud/TencentDB-Agent-Memory
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/TencentCloud/TencentDB-Agent-Memory
 - summary: TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文…
-
-### 4. From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-07-09T01:45:16+00:00`
-- url: https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/
-- summary: Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scop…
 
 ### 5. mvanhorn/last30days-skill
 - source: GitHub Trending RSS All Languages Daily

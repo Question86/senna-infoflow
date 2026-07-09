@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T04:05:00+00:00_
+_Generiert: 2026-07-09T05:30:08+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Why the US tech rebound matters for SEA’s AI and venture ecosystem** — Score 17, observation — [Quelle](https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-09T04:29:58+00:00`, fetched `2026-07-09T05:29:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose across headline categories, the IPO market reopened, and new unicorns emerged. […] The post Why the US tech rebound matters for SEA’s AI and venture ecosystem app…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When startups fail, should VCs go to jail?** — Score 17, risk — [Quelle](https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-09T02:45:27+00:00`, fetched `2026-07-09T04:04:32+00:00`
@@ -101,15 +110,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scope 3, supplier data, packaging, water, chemicals, circularity, EPR and verification. The message for Southeast Asia’s startup ecosystem […] The post From ESG das…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Why traditional hiring won’t work for APAC’s AI roles** — Score 14, opportunity — [Quelle](https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-09T01:30:53+00:00`, fetched `2026-07-09T02:39:56+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Produktidee
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+6.0); recent (+1.0)
-  - Kurz: I have stopped being surprised when a client tells me they have the budget, the use cases, and a talent plan that falls apart the moment someone actually tries to execute it. This is the reality of the APAC technology talent market in 2026, and it is considerably more uncomfortable than most boardroom conversations acknowledge. ManpowerGroup surveyed more than […] The post Why traditional hiring won’t work for APAC’…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
@@ -185,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026/9/16(水) 17(木)オンライン開催！ 『Taming Your Dragon』著者やt-wada(和田卓人)氏が基調講演で登壇。#技術的負債con_findy
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Rewriting Bun in Rust | Bun Blog** — Score 5, observation — [Quelle](https://bun.com/blog/bun-in-rust)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-08T22:42:11+00:00`, fetched `2026-07-09T05:29:37+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic. I used a pre-release version of Claude Fable 5 for much of the Rust rewrite. Bun started as a line-for-line port of esbuild's JavaScript & TypeScript transpiler from Go to Zig. I wrote my f...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/07/09/052821)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-08T21:46:52+00:00`, fetched `2026-07-09T02:39:56+00:00`
@@ -194,19 +203,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年6月8日、独立行政法人国立病院機構は、北海道医療センターと北海道がんセンターが廃棄処分を委託していたハードディスク(HDD)の一部が適切に破砕されないままインターネットオークションに流出し、患者・職員の個人情報が外部に漏えいした可能性があると公表しました。同日、機構は廃棄物処理業者を刑事告発したこ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた** — Score 5, observation — [Quelle](https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-08T13:22:28+00:00`, fetched `2026-07-09T00:12:02+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ここでいう「方式」は、単にアーキテクチャ名を選ぶことではありません。書籍で扱われる業務ロジックの実装方法や技術方式を踏まえて、業務ロジックをどこに置くか、どのアーキテクチャで支えるか、どのテスト方針で守るかをまとめて判断する、という意味で使っています。 どちらも、入力条件に基づいて判断材料を整理す...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
