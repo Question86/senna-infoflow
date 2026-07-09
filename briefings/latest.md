@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T19:55:45+00:00_
+_Generiert: 2026-07-09T20:31:47+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -208,6 +208,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Automatisierung (+5.0); recent (+1.0)
   - Kurz: Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — Score 12, observation — [Quelle](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-09T13:00:00+00:00`, fetched `2026-07-09T20:31:14+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施** — Score 12, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2123665.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-09T08:47:43+00:00`, fetched `2026-07-09T15:32:14+00:00`
@@ -306,15 +315,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
   - Kurz: If you have read enough Southeast Asian startup pitch decks, you have already read all of them. Customer-centric, tech-driven, regionally focused and purpose-led. The language is interchangeable because the thinking behind it is. Not because founders are lazy, but because they are solving for the wrong problem at the wrong time. Differentiation in this region […] The post Most Southeast Asian startups sound the same…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Meeting of 10-11 June 2026** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-09T11:30:00+00:00`, fetched `2026-07-09T11:30:58+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Meeting of 10-11 June 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

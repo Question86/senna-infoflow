@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-09T19:55:45+00:00_
+_Generated: 2026-07-09T20:31:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `84`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-09T19:55:45+00:00_
 - url: https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html
 - summary: Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.
 
-### 8. ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施
-- source: Hatena Bookmark Hotentry IT
+### 8. GPT-5.6 is now the preferred model in Microsoft 365 Copilot
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-07-09T08:47:43+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2123665.html
-- summary: ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施
+- published: `2026-07-09T13:00:00+00:00`
+- url: https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
+- summary: Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 
 END OF DOCUMENT
