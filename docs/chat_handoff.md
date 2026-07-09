@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-09T14:21:56+00:00_
+_Generated: 2026-07-09T15:32:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `71`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-09T14:21:43+00:00`
+- published: `2026-07-09T15:32:34+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-09T14:21:56+00:00_
 - url: https://github.com/mvanhorn/last30days-skill
 - summary: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the curr…
 
-### 7. The next phase of business: We are moving to AI crews
-- source: e27 Asia Startup and Tech Feed
+### 7. n8n: CERT-Bund veröffentlicht Warnmeldung zu kürzlich beseitigten Schwachstellen
+- source: heise Security Alerts
 - score: `12`
-- published: `2026-07-09T01:00:19+00:00`
-- url: https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/
-- summary: For the last two decades, software has been the foundation of how we build businesses. Need accounting? Buy accounting software. Need marketing? Buy a CRM. Need project management? Buy another tool. Every business became a collection of software subscriptions…
+- published: `2026-07-09T14:27:00.000+00:00`
+- url: https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html
+- summary: Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.
 
-### 8. The AI-quantum collision: Navigating the 2026 infrastructure inflection point
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-07-09T02:00:52+00:00`
-- url: https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/
-- summary: As of June 2026, the strategic conversation has graduated from speculative debates over “model capabilities” to the cold reality of the material world. The “New Physics of Capital” is no longer about the elegance of your transformer architecture; it is govern…
+### 8. ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-07-09T08:47:43+00:00`
+- url: https://forest.watch.impress.co.jp/docs/news/2123665.html
+- summary: ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施
 
 END OF DOCUMENT

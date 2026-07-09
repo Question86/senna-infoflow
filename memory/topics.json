@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T14:21:56+00:00",
+  "generated_at": "2026-07-09T15:32:47+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-09T14:21:43+00:00",
+        "published_at": "2026-07-09T15:32:34+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -47,6 +47,13 @@
         "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/"
       },
       {
+        "title": "Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-06-29T00:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/"
+      },
+      {
         "title": "[UPDATE] [hoch] Ruby und Ruby on Rails (erb gem): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-09T11:31:39+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-09T01:30:53+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/"
-      },
-      {
-        "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-09T03:52:12+00:00",
-        "relevance_score": 13,
-        "url": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code"
       }
     ],
     "economy": [
@@ -198,6 +198,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2262"
       },
       {
+        "title": "n8n: CERT-Bund veröffentlicht Warnmeldung zu kürzlich beseitigten Schwachstellen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-09T14:27:00.000+00:00",
+        "relevance_score": 12,
+        "url": "https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html"
+      },
+      {
         "title": "The next phase of business: We are moving to AI crews",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-09T01:00:19+00:00",
@@ -205,18 +212,11 @@
         "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/"
       },
       {
-        "title": "Meeting of 10-11 June 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-09T11:30:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html"
-      },
-      {
-        "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-09T10:46:39+00:00",
-        "relevance_score": 6,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2266"
+        "title": "Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-06-30T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/"
       }
     ],
     "security": [
@@ -333,6 +333,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/argoproj/argo-cd"
+      },
+      {
+        "title": "Ask Copilot for a repository overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-09T14:25:33+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview"
       }
     ],
     "general": [
@@ -342,6 +349,20 @@
         "published_at": "2026-07-09T13:27:06.617+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n"
+      },
+      {
+        "title": "ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T08:47:43+00:00",
+        "relevance_score": 12,
+        "url": "https://forest.watch.impress.co.jp/docs/news/2123665.html"
+      },
+      {
+        "title": "【つぶやき】人が書いたskillとかcommandに愛着が湧かない - UGA Boxxx",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T06:40:03+00:00",
+        "relevance_score": 11,
+        "url": "https://uga-box.hatenablog.com/entry/2026/02/03/000000"
       },
       {
         "title": "M 5.0 - 1 km NNW of Xunchang, China",
@@ -391,20 +412,6 @@
         "published_at": "2026-07-09T04:20:23+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html"
-      },
-      {
-        "title": "「技術的負債に向き合うConference 2026」公式サイト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-08T22:46:01+00:00",
-        "relevance_score": 5,
-        "url": "https://technical-debt-con.findy-tools.io/2026"
-      },
-      {
-        "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-08T21:46:52+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821"
       }
     ]
   }

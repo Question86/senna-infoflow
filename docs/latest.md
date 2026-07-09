@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T14:21:56+00:00_
+_Generiert: 2026-07-09T15:32:47+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+71 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-09T14:21:43+00:00`, fetched `2026-07-09T14:21:23+00:00`
+  - Zeit: published `2026-07-09T15:32:34+00:00`, fetched `2026-07-09T15:32:14+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-07-09 12:58:57 UTC 2026-07-09 12:58:57 UTC at epicenter Location 33.343°N 134.985°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)** — Score 15, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-06-29T00:00:00+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: avis, CERT-FR, Climate/Disaster Infrastructure, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Adalo App Builderにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99220646/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-09T15:45:00+09:00`, fetched `2026-07-09T06:49:26+00:00`
@@ -123,6 +132,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last30days/SKILL.md , which is the source of truth for the latest command and setup behavior. Claude Cod…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **n8n: CERT-Bund veröffentlicht Warnmeldung zu kürzlich beseitigten Schwachstellen** — Score 12, observation — [Quelle](https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-09T14:27:00.000+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: Automatisierung, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); recent (+1.0)
+  - Kurz: Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施** — Score 12, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2123665.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-09T08:47:43+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The next phase of business: We are moving to AI crews** — Score 12, opportunity — [Quelle](https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-09T01:00:19+00:00`, fetched `2026-07-09T02:39:56+00:00`
@@ -132,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For the last two decades, software has been the foundation of how we build businesses. Need accounting? Buy accounting software. Need marketing? Buy a CRM. Need project management? Buy another tool. Every business became a collection of software subscriptions stitched together with APIs and automation. For years, that worked. But I believe we’re quietly entering […] The post The next phase of business: We are moving…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **【つぶやき】人が書いたskillとかcommandに愛着が湧かない - UGA Boxxx** — Score 11, observation — [Quelle](https://uga-box.hatenablog.com/entry/2026/02/03/000000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-09T06:40:03+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 人が書いたClaudeCodeのskillとかcommandに愛着が湧かないという意見を聞いた これはチーム開発する上で、モチベーションの低下（誰かがやってくれる）に繋がりそうな新しい課題かも この辺りをChatGPTにぼんやり相談 愛着が湧かない理由 自分の意思決定の痕跡がない skill / command は設計思想やトレードオフの集合体 ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI-quantum collision: Navigating the 2026 infrastructure inflection point** — Score 11, observation — [Quelle](https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-09T02:00:52+00:00`, fetched `2026-07-09T02:39:56+00:00`
@@ -150,23 +186,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-08 23:44:13 UTC 2026-07-08 23:44:13 UTC at epicenter Location 28.471°N 104.707°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」** — Score 11, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-08T23:12:08+00:00`, fetched `2026-07-09T14:21:23+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
+- **Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-06-30T00:00:00+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: モデルに特定の動作を禁止する指示は、AIの創造性を制限する――米Anthropicでコーディングエージェント「Claude Code」の開発に携わるタリク・シヒパー氏は7月1日（現地時間）、AIエンジニア向けイベントの講演でこう述べ、最上位モデル「Claude Fable 5」（以下、Fable 5）を含む同社の直近のモデルを利用する上で、AIの...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Yamanote.fun** — Score 10, observation — [Quelle](https://www.yamanote.fun/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-09T00:16:17+00:00`, fetched `2026-07-09T09:16:46+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
-  - Kurz: These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete auditory experience of Tokyo's favourite railway loop. Each direction has its own distinct set of station melodies, so your journey sounds different whet...
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 59 km NNE of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -204,41 +231,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Meeting of 10-11 June 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **prisma/prisma** — Score 8, observation — [Quelle](https://github.com/prisma/prisma)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-09T02:39:56+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+- **Vulnérabilité dans Mozilla Firefox (01 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0820/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-01T00:00:00+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB Prisma Quickstart • Website • Docs • Examples • Blog • Discord • Twitter • Youtube What is Prisma? Prisma ORM is a next-generation ORM that consists of these tools: Prisma Client : Auto-generated and type-safe query builder for Node.js & TypeScript Prisma Migrate : Declarative data modeling & migrat…
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **argoproj/argo-cd** — Score 8, observation — [Quelle](https://github.com/argoproj/argo-cd)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-09T02:39:56+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+- **Multiples vulnérabilités dans Adobe ColdFusion (01 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0821/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-01T00:00:00+00:00`, fetched `2026-07-09T15:32:14+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Declarative Continuous Deployment for Kubernetes Releases: Code: Social: Argo CD - Declarative Continuous Delivery for Kubernetes What is Argo CD? Argo CD is a declarative GitOps continuous delivery tool for Kubernetes. Why Argo CD? Application definitions, configurations, and environments should be declarative and version controlled. Application deployment and lifecycle management should be automated, auditable, an…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Chrome-Browser & ChromeOS LTS : Updates schließen teils kritische Lücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Browser-ChromeOS-LTS-Updates-schliessen-teils-kritische-Luecken-11359376.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-09T12:01:00.000+00:00`, fetched `2026-07-09T12:24:33+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Fur Windows, macOS, Linux und die Android-Version des Chrome-Browsers sind Sicherheitsupdates verfügbar. Auch die LTS-Fassung von ChromeOS wurde abgedichtet.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Your next nurse may monitor you from the Philippines** — Score 7, observation — [Quelle](https://restofworld.org/2026/u-s-healthcare-philippines-remote-nurses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-09T10:00:00+00:00`, fetched `2026-07-09T11:30:58+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: U.S. hospitals are increasingly hiring Filipino nurses for remote roles to fill staffing gaps and for cost savings, but the practice may be aggravating shortages in the Philippines.
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
