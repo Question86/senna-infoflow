@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-09T02:40:45Z",
+  "generated_at": "2026-07-09T04:10:15Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “mvanhorn/last30days-skill” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.0,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "infra",
@@ -44,7 +44,7 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.0,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "infra"
@@ -72,7 +72,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 20.03,
+      "age_days": 20.09,
       "topics": [
         "ai"
       ],
@@ -100,7 +100,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-09T02:40:15+00:00",
-      "age_days": 0.0,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro",
@@ -129,7 +129,7 @@
       "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:45:16+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security",
@@ -158,7 +158,7 @@
       "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:30:53+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -185,7 +185,7 @@
       "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:00:19+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -212,7 +212,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-09T00:03:02.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -237,7 +237,7 @@
       "url": "https://technical-debt-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T22:46:01+00:00",
-      "age_days": 0.16,
+      "age_days": 0.23,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -256,11 +256,63 @@
       "summary": "2026/9/16(水) 17(木)オンライン開催！ 『Taming Your Dragon』著者やt-wada(和田卓人)氏が基調講演で登壇。#技術的負債con_findy"
     },
     {
+      "title": "When startups fail, should VCs go to jail?",
+      "url": "https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-09T02:45:27+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capital (VC), failure is the statistical norm. Most startups wit…"
+    },
+    {
+      "title": "The future of marketing isn’t about AI, it’s about judgment",
+      "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-09T03:15:36+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "During a recent interview, I was asked a question that many marketers are hearing more frequently these days. “How much of a marketer’s job do you think AI can replace?” I paused and replied, “About 50 per cent.” The interviewer immediately followed up with another question. “Why not 100 per cent?” At the time, I […]…"
+    },
+    {
       "title": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.0,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -280,54 +332,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Declarative Continuous Deployment for Kubernetes Releases: Code: Social: Argo CD - Declarative Continuous Delivery for Kubernetes What is Argo CD? Argo CD is a declarative GitOps continuous delivery tool for Kubernetes. Why Argo CD? Application definitions, configurations, and environments should be declarative and ve…"
-    },
-    {
-      "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-08T21:46:52+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "2026年6月8日、独立行政法人国立病院機構は、北海道医療センターと北海道がんセンターが廃棄処分を委託していたハードディスク(HDD)の一部が適切に破砕されないままインターネットオークションに流出し、患者・職員の個人情報が外部に漏えいした可能性があると公表しました。同日、機構は廃棄物処理業者を刑事告発したこ..."
-    },
-    {
-      "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
-      "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-08T13:22:28+00:00",
-      "age_days": 0.55,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ここでいう「方式」は、単にアーキテクチャ名を選ぶことではありません。書籍で扱われる業務ロジックの実装方法や技術方式を踏まえて、業務ロジックをどこに置くか、どのアーキテクチャで支えるか、どのテスト方針で守るかをまとめて判断する、という意味で使っています。 どちらも、入力条件に基づいて判断材料を整理す..."
     }
   ],
   "read_order": [
