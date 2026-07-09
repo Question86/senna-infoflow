@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T17:58:45+00:00",
-  "run_id": "2026-07-09T17:58:45+00:00",
+  "generated_at": "2026-07-09T18:41:32+00:00",
+  "run_id": "2026-07-09T18:41:32+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 1,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
     "medium": 32,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -1824,6 +1824,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "de341ed3a1cfea9125f9"
+      },
+      {
+        "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
+        "url": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-09T03:52:39+00:00",
+        "fetched_at": "2026-07-09T18:41:01+00:00",
+        "summary": "SpaceXAIの開発するAIチャットボットであるGrokが生成した児童性的虐待コンテンツ(CSAM)を巡り、複数の被害者少女が同社を提訴しています。この訴状から、継娘の性的な画像を7000枚も作成した男性が自殺していたことが明らかになりました。 Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot hi...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "103a3805ab49a207be02"
       },
       {
         "title": "「技術的負債に向き合うConference 2026」公式サイト",
@@ -3788,6 +3809,27 @@
       "id": "de341ed3a1cfea9125f9"
     },
     {
+      "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
+      "url": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T03:52:39+00:00",
+      "fetched_at": "2026-07-09T18:41:01+00:00",
+      "summary": "SpaceXAIの開発するAIチャットボットであるGrokが生成した児童性的虐待コンテンツ(CSAM)を巡り、複数の被害者少女が同社を提訴しています。この訴状から、継娘の性的な画像を7000枚も作成した男性が自殺していたことが明らかになりました。 Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot hi...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "103a3805ab49a207be02"
+    },
+    {
       "title": "「技術的負債に向き合うConference 2026」公式サイト",
       "url": "https://technical-debt-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3955,46 +3997,25 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "source": "GitHub Changelog Atom",
+      "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
+      "url": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-09T16:41:29+00:00",
-      "fetched_at": "2026-07-09T17:58:15+00:00",
-      "summary": "OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "published_at": "2026-07-09T03:52:39+00:00",
+      "fetched_at": "2026-07-09T18:41:01+00:00",
+      "summary": "SpaceXAIの開発するAIチャットボットであるGrokが生成した児童性的虐待コンテンツ(CSAM)を巡り、複数の被害者少女が同社を提訴しています。この訴状から、継娘の性的な画像を7000枚も作成した男性が自殺していたことが明らかになりました。 Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot hi...",
       "matched_keywords": [
-        "Copilot",
-        "GitHub",
-        "OpenAI"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b8dac4ca1a604eef3487"
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "fetched_at": "2026-07-09T17:58:15+00:00",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "da057bf969488b8ee57d"
+      "id": "103a3805ab49a207be02"
     }
   ],
   "source_errors": [],
