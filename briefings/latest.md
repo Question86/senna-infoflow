@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T13:28:54+00:00_
+_Generiert: 2026-07-09T14:21:56+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -63,7 +63,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-09T11:31:17+00:00`, fetched `2026-07-09T11:30:58+00:00`
+  - Zeit: published `2026-07-09T14:21:43+00:00`, fetched `2026-07-09T14:21:23+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -199,6 +199,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-08 23:44:13 UTC 2026-07-08 23:44:13 UTC at epicenter Location 28.471°N 104.707°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」** — Score 11, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-08T23:12:08+00:00`, fetched `2026-07-09T14:21:23+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: モデルに特定の動作を禁止する指示は、AIの創造性を制限する――米Anthropicでコーディングエージェント「Claude Code」の開発に携わるタリク・シヒパー氏は7月1日（現地時間）、AIエンジニア向けイベントの講演でこう述べ、最上位モデル「Claude Fable 5」（以下、Fable 5）を含む同社の直近のモデルを利用する上で、AIの...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Yamanote.fun** — Score 10, observation — [Quelle](https://www.yamanote.fun/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-09T00:16:17+00:00`, fetched `2026-07-09T09:16:46+00:00`
@@ -243,15 +252,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Meeting of 10-11 June 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される** — Score 8, observation — [Quelle](https://gigazine.net/news/20260709-gitlost/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-09T05:22:55+00:00`, fetched `2026-07-09T13:28:23+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: GitHubの公開リポジトリに投稿されたIssueへ悪意ある指示を紛れ込ませることで、AIエージェントに非公開リポジトリの内容を公開コメントとして投稿させるプロンプトインジェクションの脆弱(ぜいじゃく)性「GitLost」をセキュリティ企業のNoma Labsが報告しました。攻撃者は認証情報やリポジトリへのアクセス権を持ってい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **prisma/prisma** — Score 8, observation — [Quelle](https://github.com/prisma/prisma)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
