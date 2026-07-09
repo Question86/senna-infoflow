@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T16:25:38+00:00",
-  "run_id": "2026-07-09T16:25:38+00:00",
+  "generated_at": "2026-07-09T17:15:39+00:00",
+  "run_id": "2026-07-09T17:15:39+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 6,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
-    "medium": 30,
-    "observe": 43,
+    "medium": 31,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-09T16:25:20+00:00",
-        "fetched_at": "2026-07-09T16:25:02+00:00",
+        "published_at": "2026-07-09T17:15:28+00:00",
+        "fetched_at": "2026-07-09T17:15:08+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "6bf76d1c1c8908424888"
+        "id": "81af3593f278b3439388"
       },
       {
         "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -436,6 +436,43 @@
           "PINS"
         ],
         "id": "9ea199700c19983b3bbd"
+      },
+      {
+        "title": "M 5.0 - 19 km ENE of Abuyog, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-09T17:12:09.040+00:00",
+        "fetched_at": "2026-07-09T17:15:08+00:00",
+        "summary": "Time 2026-07-09 16:46:49 UTC 2026-07-09 16:46:49 UTC at epicenter Location 10.809°N 125.179°E Depth 103.89 km (64.56 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "04336feca5e940a62e99"
       },
       {
         "title": "M 5.1 - 50 km SW of Shirahama, Japan",
@@ -1077,6 +1114,27 @@
         "id": "573901a20a71a6d510a6"
       },
       {
+        "title": "How GitHub gave every repository a durable owner",
+        "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-09T16:29:37+00:00",
+        "fetched_at": "2026-07-09T17:15:08+00:00",
+        "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f674482f115e6339ae41"
+      },
+      {
         "title": "Yamanote.fun",
         "url": "https://www.yamanote.fun/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1235,6 +1293,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dfdf9481374d725542a6"
+      },
+      {
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-09T10:00:00+00:00",
+        "fetched_at": "2026-07-09T17:15:08+00:00",
+        "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4087db03293cbdc09920"
+      },
+      {
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-09T10:00:00+00:00",
+        "fetched_at": "2026-07-09T17:15:08+00:00",
+        "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a5b6d7a38030765e9ac6"
       },
       {
         "title": "GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される",
@@ -1581,6 +1679,27 @@
         "id": "bdacac15c779ca3e32fb"
       },
       {
+        "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表 | gihyo.jp",
+        "url": "https://gihyo.jp/article/2026/07/flint",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-09T12:28:37+00:00",
+        "fetched_at": "2026-07-09T17:15:08+00:00",
+        "summary": "Microsoft Research⁠⁠、AI時代のグラフ作成を支援する中間言語「Flint」を発表 Microsoft Researchは2026年7月8日、AIエージェントによるグラフ作成を支援する中間言語「Flint」を発表した。Flintは、AIエージェントが扱いやすく、人間も確認・編集しやすい短いチャート仕様を、Vega-Lite、Apache ECharts、Chart.js向け...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96400a5d1eb81692d32d"
+      },
+      {
         "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
         "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1837,8 +1956,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-09T16:25:20+00:00",
-      "fetched_at": "2026-07-09T16:25:02+00:00",
+      "published_at": "2026-07-09T17:15:28+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1872,7 +1991,7 @@
         "HD",
         "LOW"
       ],
-      "id": "6bf76d1c1c8908424888"
+      "id": "81af3593f278b3439388"
     },
     {
       "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -2239,6 +2358,43 @@
         "PINS"
       ],
       "id": "9ea199700c19983b3bbd"
+    },
+    {
+      "title": "M 5.0 - 19 km ENE of Abuyog, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-09T17:12:09.040+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "Time 2026-07-09 16:46:49 UTC 2026-07-09 16:46:49 UTC at epicenter Location 10.809°N 125.179°E Depth 103.89 km (64.56 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "04336feca5e940a62e99"
     },
     {
       "title": "M 5.1 - 50 km SW of Shirahama, Japan",
@@ -2878,6 +3034,27 @@
       "id": "573901a20a71a6d510a6"
     },
     {
+      "title": "How GitHub gave every repository a durable owner",
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-09T16:29:37+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f674482f115e6339ae41"
+    },
+    {
       "title": "Yamanote.fun",
       "url": "https://www.yamanote.fun/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3036,6 +3213,46 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "dfdf9481374d725542a6"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4087db03293cbdc09920"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5b6d7a38030765e9ac6"
     },
     {
       "title": "GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される",
@@ -3382,6 +3599,27 @@
       "id": "bdacac15c779ca3e32fb"
     },
     {
+      "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/07/flint",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T12:28:37+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "Microsoft Research⁠⁠、AI時代のグラフ作成を支援する中間言語「Flint」を発表 Microsoft Researchは2026年7月8日、AIエージェントによるグラフ作成を支援する中間言語「Flint」を発表した。Flintは、AIエージェントが扱いやすく、人間も確認・編集しやすい短いチャート仕様を、Vega-Lite、Apache ECharts、Chart.js向け...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96400a5d1eb81692d32d"
+    },
+    {
       "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
       "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3637,8 +3875,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-09T16:25:20+00:00",
-      "fetched_at": "2026-07-09T16:25:02+00:00",
+      "published_at": "2026-07-09T17:15:28+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3672,16 +3910,114 @@
         "HD",
         "LOW"
       ],
-      "id": "6bf76d1c1c8908424888"
+      "id": "81af3593f278b3439388"
     },
     {
-      "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
+      "title": "M 5.0 - 19 km ENE of Abuyog, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-09T17:12:09.040+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "Time 2026-07-09 16:46:49 UTC 2026-07-09 16:46:49 UTC at epicenter Location 10.809°N 125.179°E Depth 103.89 km (64.56 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "04336feca5e940a62e99"
+    },
+    {
+      "title": "How GitHub gave every repository a durable owner",
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-09T16:29:37+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f674482f115e6339ae41"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4087db03293cbdc09920"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5b6d7a38030765e9ac6"
+    },
+    {
+      "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/07/flint",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-09T08:11:31+00:00",
-      "fetched_at": "2026-07-09T16:25:02+00:00",
-      "summary": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力（1/4 ページ） 2026年はスマートグラスというカテゴリーの製品が豊作だ。その多くがメガネのレンズをディスプレイとして情報を映し出せるというもので、AIとの連携機能もある。スマートフ...",
+      "published_at": "2026-07-09T12:28:37+00:00",
+      "fetched_at": "2026-07-09T17:15:08+00:00",
+      "summary": "Microsoft Research⁠⁠、AI時代のグラフ作成を支援する中間言語「Flint」を発表 Microsoft Researchは2026年7月8日、AIエージェントによるグラフ作成を支援する中間言語「Flint」を発表した。Flintは、AIエージェントが扱いやすく、人間も確認・編集しやすい短いチャート仕様を、Vega-Lite、Apache ECharts、Chart.js向け...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3693,27 +4029,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5f63c26b2975fc12de8d"
-    },
-    {
-      "title": "Organization-level targeting for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-09T15:54:01+00:00",
-      "fetched_at": "2026-07-09T16:25:02+00:00",
-      "summary": "Organization owners can now target a subset of repositories when enabling or disabling GitHub Code Quality, rather than applying it to every repository at once. This gives you more granular… The post Organization-level targeting for GitHub Code Quality appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e6994d56e5f899c67791"
+      "id": "96400a5d1eb81692d32d"
     }
   ],
   "source_errors": [],
