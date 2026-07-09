@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T12:25:08+00:00",
+  "generated_at": "2026-07-09T13:28:54+00:00",
   "topics": {
     "ai": [
       {
@@ -314,6 +314,13 @@
         "url": "https://github.com/mvanhorn/last30days-skill"
       },
       {
+        "title": "GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T05:22:55+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20260709-gitlost/"
+      },
+      {
         "title": "prisma/prisma",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -330,11 +337,25 @@
     ],
     "general": [
       {
+        "title": "M 5.1 - 50 km SW of Shirahama, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-09T13:27:06.617+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n"
+      },
+      {
         "title": "M 5.0 - 1 km NNW of Xunchang, China",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-09T00:03:02.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z"
+      },
+      {
+        "title": "M 5.1 - 59 km NNE of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-09T13:07:51.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m"
       },
       {
         "title": "M 4.6 - 87 km S of Kuril’sk, Russia",
@@ -358,6 +379,13 @@
         "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html"
       },
       {
+        "title": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T06:37:22+00:00",
+        "relevance_score": 5,
+        "url": "https://internet.watch.impress.co.jp/docs/news/2123845.html"
+      },
+      {
         "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-09T04:20:23+00:00",
@@ -377,20 +405,6 @@
         "published_at": "2026-07-08T21:46:52+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821"
-      },
-      {
-        "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-08T21:28:49+00:00",
-        "relevance_score": 5,
-        "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/"
-      },
-      {
-        "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-08T13:22:28+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab"
       }
     ]
   }

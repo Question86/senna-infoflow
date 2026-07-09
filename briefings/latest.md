@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T12:25:08+00:00_
+_Generiert: 2026-07-09T13:28:54+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -133,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文 ✨ Highlights TencentDB Agent Memory = symbolic short-term memory + layered long-term memory. Symbolic short-term memory offloads heavy tool logs and condenses…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.1 - 50 km SW of Shirahama, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-09T13:27:06.617+00:00`, fetched `2026-07-09T13:28:23+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-07-09 12:58:57 UTC 2026-07-09 12:58:57 UTC at epicenter Location 33.343°N 134.985°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Adalo App Builderにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99220646/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-09T15:45:00+09:00`, fetched `2026-07-09T06:49:26+00:00`
@@ -199,6 +208,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete auditory experience of Tokyo's favourite railway loop. Each direction has its own distinct set of station melodies, so your journey sounds different whet...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 59 km NNE of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-09T13:07:51.040+00:00`, fetched `2026-07-09T13:28:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-09 12:52:56 UTC 2026-07-09 12:52:56 UTC at epicenter Location 14.569°S 167.326°E Depth 160.24 km (99.57 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 87 km S of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-09T12:23:21.040+00:00`, fetched `2026-07-09T12:24:33+00:00`
@@ -225,6 +243,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Meeting of 10-11 June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される** — Score 8, observation — [Quelle](https://gigazine.net/news/20260709-gitlost/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-09T05:22:55+00:00`, fetched `2026-07-09T13:28:23+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHubの公開リポジトリに投稿されたIssueへ悪意ある指示を紛れ込ませることで、AIエージェントに非公開リポジトリの内容を公開コメントとして投稿させるプロンプトインジェクションの脆弱(ぜいじゃく)性「GitLost」をセキュリティ企業のNoma Labsが報告しました。攻撃者は認証情報やリポジトリへのアクセス権を持ってい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **prisma/prisma** — Score 8, observation — [Quelle](https://github.com/prisma/prisma)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -261,24 +288,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: U.S. hospitals are increasingly hiring Filipino nurses for remote roles to fill staffing gaps and for cost savings, but the practice may be aggravating shortages in the Philippines.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] rclone: Mehrere Schwachstellen** — Score 6, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2266)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-09T10:46:39+00:00`, fetched `2026-07-09T11:30:58+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um beliebige Dateien zu lesen und zu schreiben, sowie Informationen offenzulegen und Sicherheitsmechanismen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-09T06:00:00+00:00`, fetched `2026-07-09T06:49:26+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

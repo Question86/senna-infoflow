@@ -408,6 +408,43 @@
     "id": "9ea199700c19983b3bbd"
   },
   {
+    "title": "M 5.1 - 50 km SW of Shirahama, Japan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-09T13:27:06.617+00:00",
+    "fetched_at": "2026-07-09T13:28:23+00:00",
+    "summary": "DYFI? - III Time 2026-07-09 12:58:57 UTC 2026-07-09 12:58:57 UTC at epicenter Location 33.343°N 134.985°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "17ed2c10b1fc7ec96ce5"
+  },
+  {
     "title": "From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build",
     "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -919,6 +956,42 @@
     "id": "55774b050a356dff9317"
   },
   {
+    "title": "M 5.1 - 59 km NNE of Port-Olry, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-09T13:07:51.040+00:00",
+    "fetched_at": "2026-07-09T13:28:23+00:00",
+    "summary": "Time 2026-07-09 12:52:56 UTC 2026-07-09 12:52:56 UTC at epicenter Location 14.569°S 167.326°E Depth 160.24 km (99.57 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8da95135507a83edf05a"
+  },
+  {
     "title": "M 4.6 - 87 km S of Kuril’sk, Russia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz66",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -995,6 +1068,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "dfdf9481374d725542a6"
+  },
+  {
+    "title": "GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される",
+    "url": "https://gigazine.net/news/20260709-gitlost/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T05:22:55+00:00",
+    "fetched_at": "2026-07-09T13:28:23+00:00",
+    "summary": "GitHubの公開リポジトリに投稿されたIssueへ悪意ある指示を紛れ込ませることで、AIエージェントに非公開リポジトリの内容を公開コメントとして投稿させるプロンプトインジェクションの脆弱(ぜいじゃく)性「GitLost」をセキュリティ企業のNoma Labsが報告しました。攻撃者は認証情報やリポジトリへのアクセス権を持ってい...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aebf55643e717d5e791b"
   },
   {
     "title": "Nium acquires Cypher as fiat and stablecoin payments converge",
@@ -1225,6 +1320,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "febd1d3aaffc758a7c30"
+  },
+  {
+    "title": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2123845.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T06:37:22+00:00",
+    "fetched_at": "2026-07-09T13:28:23+00:00",
+    "summary": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d6ed649e612b2b066e5"
   },
   {
     "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
