@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T08:03:42+00:00",
-  "run_id": "2026-07-09T08:03:42+00:00",
+  "generated_at": "2026-07-09T09:17:18+00:00",
+  "run_id": "2026-07-09T09:17:18+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 8,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 14,
-    "observe": 19,
+    "medium": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -199,6 +199,102 @@
         "id": "31dafcd5a224049e48f4"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T09:12:12+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0b3c3e0d615c9aa56e4f"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2765",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T09:12:10+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "44beca6e3a4e973d946b"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T09:12:10+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "662bc6fc5ab6813a7e34"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2747",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T09:11:49+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder weitere, nicht spezifizierte Auswirkungen zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8efe81c3cfc966db1ae3"
+      },
+      {
         "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
         "source": "BSI CERT-Bund Security Advisories",
@@ -336,6 +432,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1edba35595d85fb062a0"
+      },
+      {
+        "title": "[UPDATE] [mittel] libtasn1: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0044",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T09:12:11+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libtasn1 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6860c87038af4061e273"
+      },
+      {
+        "title": "[UPDATE] [mittel] CoreDNS: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0047",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-09T09:12:11+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "43ce94c2948cc9afa5da"
       },
       {
         "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
@@ -578,6 +720,28 @@
         "id": "a022a2c2920d26924319"
       },
       {
+        "title": "Yamanote.fun",
+        "url": "https://www.yamanote.fun/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-09T00:16:17+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete auditory experience of Tokyo's favourite railway loop. Each direction has its own distinct set of station melodies, so your journey sounds different whet...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "55774b050a356dff9317"
+      },
+      {
         "title": "Most Southeast Asian startups sound the same, that is not an accident",
         "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -704,6 +868,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1316c9c2a933e5279c47"
+      },
+      {
+        "title": "QAI Ventures backs four startups in first Singapore quantum accelerator cohort",
+        "url": "https://e27.co/qai-ventures-backs-four-startups-in-first-singapore-quantum-accelerator-cohort-20260709/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-09T08:10:01+00:00",
+        "fetched_at": "2026-07-09T09:16:46+00:00",
+        "summary": "QAI Ventures has launched the first cohort of its Singapore Quantum Accelerator, a five-month programme backed by Enterprise Singapore that aims to help quantum and advanced computing startups enter the Asia-Pacific market. The venture firm, which focuses on quantum technologies and advanced computing, selected four startups from 63 applications across 12 countries. Each company will […] The post QAI Ventures backs…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b144f22bc0b9a5294073"
       },
       {
         "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
@@ -1064,6 +1248,102 @@
       "id": "31dafcd5a224049e48f4"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:12+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0b3c3e0d615c9aa56e4f"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2765",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:10+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "44beca6e3a4e973d946b"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:10+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "662bc6fc5ab6813a7e34"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2747",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:11:49+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder weitere, nicht spezifizierte Auswirkungen zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8efe81c3cfc966db1ae3"
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1201,6 +1481,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1edba35595d85fb062a0"
+    },
+    {
+      "title": "[UPDATE] [mittel] libtasn1: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0044",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:11+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libtasn1 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6860c87038af4061e273"
+    },
+    {
+      "title": "[UPDATE] [mittel] CoreDNS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:11+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43ce94c2948cc9afa5da"
     },
     {
       "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
@@ -1441,6 +1767,28 @@
       "id": "a022a2c2920d26924319"
     },
     {
+      "title": "Yamanote.fun",
+      "url": "https://www.yamanote.fun/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T00:16:17+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete auditory experience of Tokyo's favourite railway loop. Each direction has its own distinct set of station melodies, so your journey sounds different whet...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "55774b050a356dff9317"
+    },
+    {
       "title": "Most Southeast Asian startups sound the same, that is not an accident",
       "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1567,6 +1915,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1316c9c2a933e5279c47"
+    },
+    {
+      "title": "QAI Ventures backs four startups in first Singapore quantum accelerator cohort",
+      "url": "https://e27.co/qai-ventures-backs-four-startups-in-first-singapore-quantum-accelerator-cohort-20260709/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-09T08:10:01+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "QAI Ventures has launched the first cohort of its Singapore Quantum Accelerator, a five-month programme backed by Enterprise Singapore that aims to help quantum and advanced computing startups enter the Asia-Pacific market. The venture firm, which focuses on quantum technologies and advanced computing, selected four startups from 63 applications across 12 countries. Each company will […] The post QAI Ventures backs…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b144f22bc0b9a5294073"
     },
     {
       "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
@@ -1757,37 +2125,109 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T07:46:39+00:00",
-      "fetched_at": "2026-07-09T08:03:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-07-09T09:12:12+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Microsoft",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3bdf4365a0a9345ea49e"
+      "id": "0b3c3e0d615c9aa56e4f"
     },
     {
-      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T07:11:39+00:00",
-      "fetched_at": "2026-07-09T08:03:13+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um falsche Informationen darzustellen, einen Cross-Site-Scripting-Angriff zu starten und Daten zu verändern.",
+      "published_at": "2026-07-09T09:12:10+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "662bc6fc5ab6813a7e34"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2765",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:10+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "44beca6e3a4e973d946b"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2747",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:11:49+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder weitere, nicht spezifizierte Auswirkungen zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8efe81c3cfc966db1ae3"
+    },
+    {
+      "title": "[UPDATE] [mittel] CoreDNS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-09T09:12:11+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1801,16 +2241,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "61fec0c5df9a265caca7"
+      "id": "43ce94c2948cc9afa5da"
     },
     {
-      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688",
+      "title": "[UPDATE] [mittel] libtasn1: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0044",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-09T07:06:39+00:00",
-      "fetched_at": "2026-07-09T08:03:13+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um Angriffe wie Cross-Site Scripting (XSS), SQL-Injection, Privilegienerweiterung, Umgehung der Authentifizierung, Path Traversal, Local File Inclusion (LFI) und unbefugten Zugriff durchzuführen.",
+      "published_at": "2026-07-09T09:12:11+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libtasn1 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1824,72 +2264,49 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e5a920cc57e9455e7f3f"
+      "id": "6860c87038af4061e273"
     },
     {
-      "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-09T06:56:39+00:00",
-      "fetched_at": "2026-07-09T08:03:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in NATS Server ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5426356abaf483d6542c"
-    },
-    {
-      "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+      "title": "Yamanote.fun",
+      "url": "https://www.yamanote.fun/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-09T04:20:23+00:00",
-      "fetched_at": "2026-07-09T08:03:13+00:00",
-      "summary": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "published_at": "2026-07-09T00:16:17+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete auditory experience of Tokyo's favourite railway loop. Each direction has its own distinct set of station melodies, so your journey sounds different whet...",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "de341ed3a1cfea9125f9"
+      "id": "55774b050a356dff9317"
     },
     {
-      "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
-      "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "QAI Ventures backs four startups in first Singapore quantum accelerator cohort",
+      "url": "https://e27.co/qai-ventures-backs-four-startups-in-first-singapore-quantum-accelerator-cohort-20260709/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-08T21:28:49+00:00",
-      "fetched_at": "2026-07-09T08:03:13+00:00",
-      "summary": "「Cloudflare Tunnel」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです。「自宅サーバー」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえ、Cloudflare Accessと組み合わせれば複数ユーザーでの認証も設定可能です。今回はまずCloudflare Tunnelでローカル...",
+      "published_at": "2026-07-09T08:10:01+00:00",
+      "fetched_at": "2026-07-09T09:16:46+00:00",
+      "summary": "QAI Ventures has launched the first cohort of its Singapore Quantum Accelerator, a five-month programme backed by Enterprise Singapore that aims to help quantum and advanced computing startups enter the Asia-Pacific market. The venture firm, which focuses on quantum technologies and advanced computing, selected four startups from 63 applications across 12 countries. Each company will […] The post QAI Ventures backs…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "13acc65e5370fbee5b95"
+      "id": "b144f22bc0b9a5294073"
     }
   ],
   "source_errors": [],
