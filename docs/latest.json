@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T18:41:32+00:00",
-  "run_id": "2026-07-09T18:41:32+00:00",
+  "generated_at": "2026-07-09T19:14:08+00:00",
+  "run_id": "2026-07-09T19:14:08+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 32,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1201,6 +1201,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7b30fecbab48394ec847"
+      },
+      {
+        "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-07-09T19:00:00+00:00",
+        "fetched_at": "2026-07-09T19:13:36+00:00",
+        "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9561c8ae5b659f8a55f2"
       },
       {
         "title": "M 5.1 - 59 km NNE of Port-Olry, Vanuatu",
@@ -3186,6 +3206,26 @@
       "id": "7b30fecbab48394ec847"
     },
     {
+      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-09T19:00:00+00:00",
+      "fetched_at": "2026-07-09T19:13:36+00:00",
+      "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9561c8ae5b659f8a55f2"
+    },
+    {
       "title": "M 5.1 - 59 km NNE of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3997,25 +4037,24 @@
   ],
   "new_findings": [
     {
-      "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
-      "url": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases",
       "source_type": "rss",
-      "published_at": "2026-07-09T03:52:39+00:00",
-      "fetched_at": "2026-07-09T18:41:01+00:00",
-      "summary": "SpaceXAIの開発するAIチャットボットであるGrokが生成した児童性的虐待コンテンツ(CSAM)を巡り、複数の被害者少女が同社を提訴しています。この訴状から、継娘の性的な画像を7000枚も作成した男性が自殺していたことが明らかになりました。 Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot hi...",
+      "published_at": "2026-07-09T19:00:00+00:00",
+      "fetched_at": "2026-07-09T19:13:36+00:00",
+      "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "103a3805ab49a207be02"
+      "id": "9561c8ae5b659f8a55f2"
     }
   ],
   "source_errors": [],

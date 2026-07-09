@@ -1171,6 +1171,26 @@
     "id": "7b30fecbab48394ec847"
   },
   {
+    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+    "source": "Federal Reserve Monetary Policy Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-07-09T19:00:00+00:00",
+    "fetched_at": "2026-07-09T19:13:36+00:00",
+    "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9561c8ae5b659f8a55f2"
+  },
+  {
     "title": "M 5.1 - 59 km NNE of Port-Olry, Vanuatu",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m",
     "source": "USGS M4.5+ Earthquakes Past Hour",
