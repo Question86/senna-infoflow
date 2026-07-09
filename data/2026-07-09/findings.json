@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-09T06:49:44+00:00",
-    "fetched_at": "2026-07-09T06:49:26+00:00",
+    "published_at": "2026-07-09T11:31:17+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "4cf1535d9462b42c1d7d"
+    "id": "c778174990b07d103bdc"
   },
   {
     "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -87,6 +87,30 @@
       "PINS"
     ],
     "id": "c88a74321826382a7f1f"
+  },
+  {
+    "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2267",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:46:40+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Daten zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "Automatisierung",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4c223417f9459088e8da"
   },
   {
     "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
@@ -404,6 +428,98 @@
     "id": "1edba35595d85fb062a0"
   },
   {
+    "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2265",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:41:39+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Code auszuführen, Cross-Site-Scripting durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b1b128208d7b70b5d082"
+  },
+  {
+    "title": "[NEU] [hoch] LiteLLM: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2263",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:21:39+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in LiteLLM ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Code auszuführen und um Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "50812dc1fc0a7c47acac"
+  },
+  {
+    "title": "[NEU] [hoch] FreeRDP: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2264",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:21:39+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "070cc05da5b2ad137ff1"
+  },
+  {
+    "title": "[NEU] [hoch] Progress Software MOVEit: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2262",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:16:41+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Progress Software MOVEit ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um einen Cross-Site Scripting Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "800ff9c5ce887049f065"
+  },
+  {
     "title": "[UPDATE] [mittel] libtasn1: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0044",
     "source": "BSI CERT-Bund Security Advisories",
@@ -562,6 +678,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c8f66c86ec6a5a93f75c"
+  },
+  {
+    "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp",
+    "url": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T03:52:12+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Anthropic⁠⁠、Claude CodeでAIエージェントを活用するループ設計を紹介 AnthropicのClaude Codeチームは2026年6月30日、AIコーディングエージェントを使う際のループの考え方を紹介する記事「Getting started with loops」を公開した。この記事ではループを「エージェントが停止条件を満たすまで作業サイクルを繰り返す...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7a388cb9d3e4025a84d1"
   },
   {
     "title": "mvanhorn/last30days-skill",
@@ -732,6 +871,26 @@
     "id": "91fae50899c8ef5e4d4f"
   },
   {
+    "title": "Meeting of 10-11 June 2026",
+    "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-09T11:30:00+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Meeting of 10-11 June 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dfdf9481374d725542a6"
+  },
+  {
     "title": "Nium acquires Cypher as fiat and stablecoin payments converge",
     "url": "https://e27.co/nium-acquires-cypher-as-fiat-and-stablecoin-payments-converge-20260709/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -838,6 +997,26 @@
     "id": "1316c9c2a933e5279c47"
   },
   {
+    "title": "Your next nurse may monitor you from the Philippines",
+    "url": "https://restofworld.org/2026/u-s-healthcare-philippines-remote-nurses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:00:00+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "U.S. hospitals are increasingly hiring Filipino nurses for remote roles to fill staffing gaps and for cost savings, but the practice may be aggravating shortages in the Philippines.",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45c1f8cbbc653db90895"
+  },
+  {
     "title": "QAI Ventures backs four startups in first Singapore quantum accelerator cohort",
     "url": "https://e27.co/qai-ventures-backs-four-startups-in-first-singapore-quantum-accelerator-cohort-20260709/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -858,6 +1037,29 @@
     "id": "b144f22bc0b9a5294073"
   },
   {
+    "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2266",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-09T10:46:39+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um beliebige Dateien zu lesen und zu schreiben, sowie Informationen offenzulegen und Sicherheitsmechanismen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ab48c9bbaa4d9508d69a"
+  },
+  {
     "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
     "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
     "source": "Japan Digital Agency News RSS",
@@ -876,6 +1078,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bdacac15c779ca3e32fb"
+  },
+  {
+    "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T09:07:51+00:00",
+    "fetched_at": "2026-07-09T11:30:58+00:00",
+    "summary": "三菱自動車工業と、東京大学発ロボットスタートアップのHighlanders（東京都豊島区）は7月9日、ヒューマノイドロボットの共同開発と量産化に向けた基本合意書を締結したと発表した。自動車メーカーとヒューマノイドロボット開発企業による量産化を含む協業は初めてという。 両社は基本合意に基づき、三菱自動車の工場で...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "febd1d3aaffc758a7c30"
   },
   {
     "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
