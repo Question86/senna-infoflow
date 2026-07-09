@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-09T02:40:27+00:00_
+_Generated: 2026-07-09T04:05:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `19`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-09T02:40:27+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. TencentCloud/TencentDB-Agent-Memory
+### 2. When startups fail, should VCs go to jail?
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-07-09T02:45:27+00:00`
+- url: https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/
+- summary: On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capi…
+
+### 3. TencentCloud/TencentDB-Agent-Memory
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/TencentCloud/TencentDB-Agent-Memory
 - summary: TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文…
 
-### 3. From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build
+### 4. From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-07-09T01:45:16+00:00`
 - url: https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/
 - summary: Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scop…
-
-### 4. Why traditional hiring won’t work for APAC’s AI roles
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-07-09T01:30:53+00:00`
-- url: https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/
-- summary: I have stopped being surprised when a client tells me they have the budget, the use cases, and a talent plan that falls apart the moment someone actually tries to execute it. This is the reality of the APAC technology talent market in 2026, and it is consider…
 
 ### 5. mvanhorn/last30days-skill
 - source: GitHub Trending RSS All Languages Daily

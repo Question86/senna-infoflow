@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-09T02:40:27+00:00",
+  "generated_at": "2026-07-09T04:05:00+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-09T02:40:15+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "When startups fail, should VCs go to jail?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T02:45:27+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/"
       },
       {
         "title": "TencentCloud/TencentDB-Agent-Memory",
@@ -54,25 +61,18 @@
         "url": "https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/"
       },
       {
-        "title": "A step-by-step framework to build your AI adoption roadmap for B2C service businesses",
+        "title": "Nium acquires Cypher as fiat and stablecoin payments converge",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-09T02:15:58+00:00",
+        "published_at": "2026-07-09T03:43:01+00:00",
         "relevance_score": 8,
-        "url": "https://e27.co/a-step-by-step-framework-to-build-your-ai-adoption-roadmap-for-b2c-service-businesses-20260708/"
+        "url": "https://e27.co/nium-acquires-cypher-as-fiat-and-stablecoin-payments-converge-20260709/"
       },
       {
-        "title": "prisma/prisma",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
+        "title": "The future of marketing isn’t about AI, it’s about judgment",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T03:15:36+00:00",
         "relevance_score": 8,
-        "url": "https://github.com/prisma/prisma"
-      },
-      {
-        "title": "argoproj/argo-cd",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/argoproj/argo-cd"
+        "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/"
       }
     ],
     "github": [
@@ -135,6 +135,13 @@
         "url": "https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/"
       },
       {
+        "title": "The future of marketing isn’t about AI, it’s about judgment",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T03:15:36+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/"
+      },
+      {
         "title": "prisma/prisma",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -149,6 +156,13 @@
         "published_at": "2026-07-09T01:00:19+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/"
+      },
+      {
+        "title": "Founding a company is not a career move",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-09T03:00:46+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/founding-a-company-is-not-a-career-move-20260708/"
       }
     ],
     "general": [

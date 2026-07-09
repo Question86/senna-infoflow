@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-09T02:40:27+00:00_
+_Generiert: 2026-07-09T04:05:00+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **When startups fail, should VCs go to jail?** — Score 17, risk — [Quelle](https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-09T02:45:27+00:00`, fetched `2026-07-09T04:04:32+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capital (VC), failure is the statistical norm. Most startups wither; a rare few soar. Yet […] The post When startups fail, should VCs go to jail? appeared first on…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **TencentCloud/TencentDB-Agent-Memory** — Score 16, opportunity — [Quelle](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
