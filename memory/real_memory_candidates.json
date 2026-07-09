@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-09T05:40:51Z",
+  "generated_at": "2026-07-09T09:30:10Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,39 +23,44 @@
   ],
   "current_dynamic_memory_candidates": [
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "mvanhorn/last30days-skill",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+      "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "Updates | ReliefWeb",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Why traditional hiring won’t work for APAC’s AI roles",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "The next phase of business: We are moving to AI crews",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+      "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }
   ]
 }

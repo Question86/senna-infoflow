@@ -100,5 +100,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T09:12:12+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T09:12:10+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T07:46:39+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, code",
+          "security high-signal: angriffe, code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulös…"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-09T05:46:40+00:00",
+        "age_days": 0.16,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Verursachung einerDenial-of-Service-Angriff, die Umgehung von Sicherheitsmaßnahmen sowie die Änderung und O…"
+      },
+      {
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-07-09T02:39:56+00:00",
+        "age_days": 0.28,
+        "topics": [
+          "ai",
+          "infra",
+          "macro"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: pipeline",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last…"
+      }
+    ]
+  }
 }

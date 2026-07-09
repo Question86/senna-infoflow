@@ -1,29 +1,205 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-09T05:40:51Z",
+  "generated_at": "2026-07-09T09:30:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 40,
     "bands": {
-      "krass": 2,
-      "strong": 5,
+      "krass": 12,
+      "strong": 9,
       "watch": 2,
-      "quiet": 16
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "krass": 1,
+      "strong": 20,
       "watch": 2,
-      "quiet": 16
+      "quiet": 17
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2200",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T07:46:39+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulös…"
+    },
+    {
+      "title": "Adalo App Builderにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99220646/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-09T15:45:00+09:00",
+      "age_days": 0.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "[UPDATE] [mittel] libtasn1: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0044",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T09:12:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libtasn1 ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] CoreDNS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T09:12:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0086",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T09:12:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2868",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T09:12:10+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
+    },
+    {
+      "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2143",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T05:46:40+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Verursachung einerDenial-of-Service-Angriff, die Umgehung von Sicherheitsmaßnahmen sowie die Änderung und O…"
+    },
     {
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "infra",
@@ -48,11 +224,167 @@
       "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last…"
     },
     {
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1891",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T07:11:39+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um falsche Informationen darzustellen, einen Cross-Site-Scripting-Angriff zu starten und Daten zu verändern."
+    },
+    {
+      "title": "[UPDATE] [hoch] NATS Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2132",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T06:56:39+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in NATS Server ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
+      "title": "[UPDATE] [kritisch] Wazuh Manager: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1829",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T05:46:40+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Wazuh Manager ausnutzen, um seine Privilegien zu erhöhen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2765",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T09:12:10+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2747",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T09:11:49+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder weitere, nicht spezifizierte Auswirkungen zu erlangen."
+    },
+    {
+      "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
+      "url": "https://e27.co/sprouts-ai-raises-us9m-to-build-ai-revenue-agents-for-enterprise-sales-teams-20260709/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-09T05:58:24+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: palo, alto",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Sprouts.ai, a Palo Alto-based startup building AI agents for enterprise revenue teams, has raised US$9 million in pre-Series A funding, as investors continue to back software companies trying to automate parts of the B2B sales and marketing stack. The round was co-led by True Global Ventures and Accel, with participat…"
+    },
+    {
       "title": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "infra"
@@ -80,7 +412,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 20.15,
+      "age_days": 20.31,
       "topics": [
         "ai"
       ],
@@ -107,8 +439,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-09T02:40:15+00:00",
-      "age_days": 0.13,
+      "published_at": "2026-07-09T06:49:44+00:00",
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro",
@@ -137,7 +469,7 @@
       "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:45:16+00:00",
-      "age_days": 0.16,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security",
@@ -162,11 +494,38 @@
       "summary": "Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scope 3, supplier data, packaging, water, chemicals, circularity…"
     },
     {
+      "title": "[UPDATE] [mittel] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1688",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-09T07:06:39+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: angriffe, auth",
+        "security high-signal: angriffe, auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um Angriffe wie Cross-Site Scripting (XSS), SQL-Injection, Privilegienerweiterung, Umgehung der Authentifizierung, Path Traversal, Local File Inclusion (LFI) und unbefugten Zugriff durchzuführen."
+    },
+    {
       "title": "Why traditional hiring won’t work for APAC’s AI roles",
       "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:30:53+00:00",
-      "age_days": 0.17,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -193,7 +552,7 @@
       "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:00:19+00:00",
-      "age_days": 0.19,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -220,7 +579,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-09T00:03:02.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -245,7 +604,7 @@
       "url": "https://technical-debt-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T22:46:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.45,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -268,7 +627,7 @@
       "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T04:29:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -294,7 +653,7 @@
       "url": "https://e27.co/when-startups-fail-should-vcs-go-to-jail-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T02:45:27+00:00",
-      "age_days": 0.12,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -315,11 +674,35 @@
       "summary": "On June 18th, an Indonesian court sentenced four venture capital executives to prison for investments that turned sour. They were not punished for fraud or personal enrichment, but for backing a startup that collapsed. In the high-stakes world of venture capital (VC), failure is the statistical norm. Most startups wit…"
     },
     {
+      "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-09T06:00:00+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） の情報を掲載しました"
+    },
+    {
       "title": "The future of marketing isn’t about AI, it’s about judgment",
       "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T03:15:36+00:00",
-      "age_days": 0.1,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -346,7 +729,7 @@
       "url": "https://github.com/argoproj/argo-cd",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -368,11 +751,35 @@
       "summary": "Declarative Continuous Deployment for Kubernetes Releases: Code: Social: Argo CD - Declarative Continuous Delivery for Kubernetes What is Argo CD? Argo CD is a declarative GitOps continuous delivery tool for Kubernetes. Why Argo CD? Application definitions, configurations, and environments should be declarative and ve…"
     },
     {
+      "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-09T04:20:23+00:00",
+      "age_days": 0.22,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】"
+    },
+    {
       "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T21:46:52+00:00",
-      "age_days": 0.33,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -392,11 +799,35 @@
       "summary": "2026年6月8日、独立行政法人国立病院機構は、北海道医療センターと北海道がんセンターが廃棄処分を委託していたハードディスク(HDD)の一部が適切に破砕されないままインターネットオークションに流出し、患者・職員の個人情報が外部に漏えいした可能性があると公表しました。同日、機構は廃棄物処理業者を刑事告発したこ..."
     },
     {
+      "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+      "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-08T21:28:49+00:00",
+      "age_days": 0.5,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「Cloudflare Tunnel」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです。「自宅サーバー」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえ、Cloudflare Accessと組み合わせれば複数ユーザーでの認証も設定可能です。今回はまずCloudflare Tunnelでローカル..."
+    },
+    {
       "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
       "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T13:22:28+00:00",
-      "age_days": 0.68,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -420,7 +851,7 @@
       "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T01:15:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -446,7 +877,7 @@
       "url": "https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T02:00:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -472,7 +903,7 @@
       "url": "https://e27.co/nium-acquires-cypher-as-fiat-and-stablecoin-payments-converge-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T03:43:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -498,11 +929,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 19.12,
+      "age_days": 19.28,
       "topics": [
         "general"
       ],
-      "dynamics_score": 2.66,
+      "dynamics_score": 2.54,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -514,7 +945,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -6.8 for 19.1d old signal"
+        "aging penalty -7.0 for 19.3d old signal"
       ],
       "summary": ""
     },
@@ -523,11 +954,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 19.12,
+      "age_days": 19.28,
       "topics": [
         "general"
       ],
-      "dynamics_score": 2.66,
+      "dynamics_score": 2.54,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -539,16 +970,41 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -6.8 for 19.1d old signal"
+        "aging penalty -7.0 for 19.3d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "Yamanote.fun",
+      "url": "https://www.yamanote.fun/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-09T00:16:17+00:00",
+      "age_days": 0.38,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete auditory experience of Tokyo's favourite railway loop. Each direction has its own distinct set of station melodies, so your journey sounds different whet..."
     },
     {
       "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 19.12,
+      "age_days": 19.28,
       "topics": [
         "ai"
       ],
@@ -565,7 +1021,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -6.8 for 19.1d old signal",
+        "aging penalty -7.0 for 19.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -575,7 +1031,7 @@
       "url": "https://e27.co/a-step-by-step-framework-to-build-your-ai-adoption-roadmap-for-b2c-service-businesses-20260708/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-09T02:15:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -594,83 +1050,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Stop asking “how do I use AI?” Start asking “what is actually breaking my business.” I have had some version of this conversation dozens of times. A service business owner tells me they want to use AI. I ask what they are hoping to solve. There is a pause. Then: “We want to be more […] The post A step-by-step framewor…"
-    },
-    {
-      "title": "prisma/prisma",
-      "url": "https://github.com/prisma/prisma",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-09T02:39:56+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB Prisma Quickstart • Website • Docs • Examples • Blog • Discord • Twitter • Youtube What is Prisma? Prisma ORM is a next-generation ORM that consists of these tools: Prisma Client : Auto-generated and…"
-    },
-    {
-      "title": "Rewriting Bun in Rust | Bun Blog",
-      "url": "https://bun.com/blog/bun-in-rust",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-08T22:42:11+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic. I used a pre-release version of Claude Fable 5 for much of the Rust rewrite. Bun started as a line-for-line port of esbuild's JavaScript & TypeScript transpiler from Go to Zig. I wrote my f..."
-    },
-    {
-      "title": "Founding a company is not a career move",
-      "url": "https://e27.co/founding-a-company-is-not-a-career-move-20260708/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-09T03:00:46+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "When I was twelve, I walked around my uncle’s warehouse in the Netherlands. He’d started a jewellery import business and grown it into a big business. I stood there thinking: he started with nothing and built all of this, that’s what I want to do! I also noticed the Porsche. And the house. I wanted […] The post Foundi…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “mvanhorn/last30days-skill” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
