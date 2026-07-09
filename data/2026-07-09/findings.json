@@ -1,5 +1,226 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-09T02:40:15+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "bf51f77e779fdd617115"
+  },
+  {
+    "title": "TencentCloud/TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Agents remember,Humans innovate. Highlights · Overview · Core Technology · Features · Quick Start English · 简体中文 ✨ Highlights TencentDB Agent Memory = symbolic short-term memory + layered long-term memory. Symbolic short-term memory offloads heavy tool logs and condenses…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "9ea199700c19983b3bbd"
+  },
+  {
+    "title": "From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build",
+    "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T01:45:16+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "Most large companies now have sustainability targets. The harder problem is no longer target-setting. It is delivery. That was the clearest takeaway from a recent panel on turning supply chain sustainability targets into execution. The discussion covered Scope 3, supplier data, packaging, water, chemicals, circularity, EPR and verification. The message for Southeast Asia’s startup ecosystem […] The post From ESG das…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Supply Chain Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Supply Chain Security (+8.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2aa06b2e84d2d9ee1df9"
+  },
+  {
+    "title": "Why traditional hiring won’t work for APAC’s AI roles",
+    "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T01:30:53+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "I have stopped being surprised when a client tells me they have the budget, the use cases, and a talent plan that falls apart the moment someone actually tries to execute it. This is the reality of the APAC technology talent market in 2026, and it is considerably more uncomfortable than most boardroom conversations acknowledge. ManpowerGroup surveyed more than […] The post Why traditional hiring won’t work for APAC’…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Produktidee"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c8f66c86ec6a5a93f75c"
+  },
+  {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last30days/SKILL.md , which is the source of truth for the latest command and setup behavior. Claude Cod…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d8c6985583838fd7b0d"
+  },
+  {
+    "title": "The next phase of business: We are moving to AI crews",
+    "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T01:00:19+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "For the last two decades, software has been the foundation of how we build businesses. Need accounting? Buy accounting software. Need marketing? Buy a CRM. Need project management? Buy another tool. Every business became a collection of software subscriptions stitched together with APIs and automation. For years, that worked. But I believe we’re quietly entering […] The post The next phase of business: We are moving…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Automatisierung"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1c656e604cf0356ff290"
+  },
+  {
+    "title": "The AI-quantum collision: Navigating the 2026 infrastructure inflection point",
+    "url": "https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T02:00:52+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "As of June 2026, the strategic conversation has graduated from speculative debates over “model capabilities” to the cold reality of the material world. The “New Physics of Capital” is no longer about the elegance of your transformer architecture; it is governed by the hard physical constraints of firm power, isotopic purity, and the management of […] The post The AI-quantum collision: Navigating the 2026 infrastruct…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "ece7880335d8a64a3924"
+  },
+  {
     "title": "M 5.0 - 1 km NNW of Xunchang, China",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -34,6 +255,135 @@
       "LOW"
     ],
     "id": "a022a2c2920d26924319"
+  },
+  {
+    "title": "Most Southeast Asian startups sound the same, that is not an accident",
+    "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T01:15:54+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "If you have read enough Southeast Asian startup pitch decks, you have already read all of them. Customer-centric, tech-driven, regionally focused and purpose-led. The language is interchangeable because the thinking behind it is. Not because founders are lazy, but because they are solving for the wrong problem at the wrong time. Differentiation in this region […] The post Most Southeast Asian startups sound the same…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "Southeast Asia"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "91fae50899c8ef5e4d4f"
+  },
+  {
+    "title": "A step-by-step framework to build your AI adoption roadmap for B2C service businesses",
+    "url": "https://e27.co/a-step-by-step-framework-to-build-your-ai-adoption-roadmap-for-b2c-service-businesses-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-09T02:15:58+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "Stop asking “how do I use AI?” Start asking “what is actually breaking my business.” I have had some version of this conversation dozens of times. A service business owner tells me they want to use AI. I ask what they are hoping to solve. There is a pause. Then: “We want to be more […] The post A step-by-step framework to build your AI adoption roadmap for B2C service businesses appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f9dcb3ad67a8995cdd7a"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB Prisma Quickstart • Website • Docs • Examples • Blog • Discord • Twitter • Youtube What is Prisma? Prisma ORM is a next-generation ORM that consists of these tools: Prisma Client : Auto-generated and type-safe query builder for Node.js & TypeScript Prisma Migrate : Declarative data modeling & migrat…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7681815ee93d19bdc63f"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "Declarative Continuous Deployment for Kubernetes Releases: Code: Social: Argo CD - Declarative Continuous Delivery for Kubernetes What is Argo CD? Argo CD is a declarative GitOps continuous delivery tool for Kubernetes. Why Argo CD? Application definitions, configurations, and environments should be declarative and version controlled. Application deployment and lifecycle management should be automated, auditable, an…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1316c9c2a933e5279c47"
+  },
+  {
+    "title": "「技術的負債に向き合うConference 2026」公式サイト",
+    "url": "https://technical-debt-con.findy-tools.io/2026",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T22:46:01+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "2026/9/16(水) 17(木)オンライン開催！ 『Taming Your Dragon』著者やt-wada(和田卓人)氏が基調講演で登壇。#技術的負債con_findy",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6cce34461a3cda4a89e8"
+  },
+  {
+    "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T21:46:52+00:00",
+    "fetched_at": "2026-07-09T02:39:56+00:00",
+    "summary": "2026年6月8日、独立行政法人国立病院機構は、北海道医療センターと北海道がんセンターが廃棄処分を委託していたハードディスク(HDD)の一部が適切に破砕されないままインターネットオークションに流出し、患者・職員の個人情報が外部に漏えいした可能性があると公表しました。同日、機構は廃棄物処理業者を刑事告発したこ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c3fbeda414bbb4ec5f31"
   },
   {
     "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
