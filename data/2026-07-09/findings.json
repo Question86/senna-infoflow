@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-09T22:43:45+00:00",
-    "fetched_at": "2026-07-09T22:43:23+00:00",
+    "published_at": "2026-07-09T23:11:28+00:00",
+    "fetched_at": "2026-07-09T23:11:09+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "b9dccd355d3931ecb498"
+    "id": "fb5e8b4aaac9310b3032"
   },
   {
     "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -1828,6 +1828,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "febd1d3aaffc758a7c30"
+  },
+  {
+    "title": "ほんまこういう奴殺したくなるんだけどさ。",
+    "url": "https://anond.hatelabo.jp/20260709170241",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T08:14:03+00:00",
+    "fetched_at": "2026-07-09T23:11:09+00:00",
+    "summary": "anond:20260709092321 男性用小便器が少し減ってもいいじゃない よくねーよ 多少混むことになるだろうけど、回転率が非常に高いからそれほど不便はしないだろう。何百人規模の研修の休憩中にホテルのトイレで待っても数分だし。 数分も待ちたくないから立小便形式を受け容れてるんじゃん それより女性の長蛇の列を少しで...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "510b6965aee30265f396"
   },
   {
     "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",

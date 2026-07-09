@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T22:43:56+00:00",
-  "run_id": "2026-07-09T22:43:56+00:00",
+  "generated_at": "2026-07-09T23:11:39+00:00",
+  "run_id": "2026-07-09T23:11:39+00:00",
   "date": "2026-07-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "new_relevant_findings": 2,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 0,
     "medium": 33,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-09T22:43:45+00:00",
-        "fetched_at": "2026-07-09T22:43:23+00:00",
+        "published_at": "2026-07-09T23:11:28+00:00",
+        "fetched_at": "2026-07-09T23:11:09+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b9dccd355d3931ecb498"
+        "id": "fb5e8b4aaac9310b3032"
       },
       {
         "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -1862,6 +1862,27 @@
         "id": "febd1d3aaffc758a7c30"
       },
       {
+        "title": "ほんまこういう奴殺したくなるんだけどさ。",
+        "url": "https://anond.hatelabo.jp/20260709170241",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-09T08:14:03+00:00",
+        "fetched_at": "2026-07-09T23:11:09+00:00",
+        "summary": "anond:20260709092321 男性用小便器が少し減ってもいいじゃない よくねーよ 多少混むことになるだろうけど、回転率が非常に高いからそれほど不便はしないだろう。何百人規模の研修の休憩中にホテルのトイレで待っても数分だし。 数分も待ちたくないから立小便形式を受け容れてるんじゃん それより女性の長蛇の列を少しで...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "510b6965aee30265f396"
+      },
+      {
         "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
         "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2160,8 +2181,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-09T22:43:45+00:00",
-      "fetched_at": "2026-07-09T22:43:23+00:00",
+      "published_at": "2026-07-09T23:11:28+00:00",
+      "fetched_at": "2026-07-09T23:11:09+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2195,7 +2216,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b9dccd355d3931ecb498"
+      "id": "fb5e8b4aaac9310b3032"
     },
     {
       "title": "Sprouts.ai raises US$9M to build AI revenue agents for enterprise sales teams",
@@ -3986,6 +4007,27 @@
       "id": "febd1d3aaffc758a7c30"
     },
     {
+      "title": "ほんまこういう奴殺したくなるんだけどさ。",
+      "url": "https://anond.hatelabo.jp/20260709170241",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-09T08:14:03+00:00",
+      "fetched_at": "2026-07-09T23:11:09+00:00",
+      "summary": "anond:20260709092321 男性用小便器が少し減ってもいいじゃない よくねーよ 多少混むことになるだろうけど、回転率が非常に高いからそれほど不便はしないだろう。何百人規模の研修の休憩中にホテルのトイレで待っても数分だし。 数分も待ちたくないから立小便形式を受け容れてるんじゃん それより女性の長蛇の列を少しで...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "510b6965aee30265f396"
+    },
+    {
       "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す サードパーティーアプリの環境も魅力",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4283,8 +4325,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-09T22:43:45+00:00",
-      "fetched_at": "2026-07-09T22:43:23+00:00",
+      "published_at": "2026-07-09T23:11:28+00:00",
+      "fetched_at": "2026-07-09T23:11:09+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4318,53 +4360,16 @@
         "HD",
         "LOW"
       ],
-      "id": "b9dccd355d3931ecb498"
+      "id": "fb5e8b4aaac9310b3032"
     },
     {
-      "title": "M 4.5 - 145 km NNW of Ternate, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szaw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-09T22:40:53.040+00:00",
-      "fetched_at": "2026-07-09T22:43:23+00:00",
-      "summary": "Time 2026-07-09 21:55:49 UTC 2026-07-09 21:55:49 UTC at epicenter Location 1.915°N 126.707°E Depth 22.68 km (14.09 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e9ac13de73f5432ef9c3"
-    },
-    {
-      "title": "AIがコードを書くほど、レビュー・セキュリティ・理解が追いつかなくなる——次のDevOpsボトルネックは「管理能力」だ",
-      "url": "https://techfeed.io/entries/6a4d8404fb2ec72bcd7fd86a",
+      "title": "ほんまこういう奴殺したくなるんだけどさ。",
+      "url": "https://anond.hatelabo.jp/20260709170241",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-09T01:13:07+00:00",
-      "fetched_at": "2026-07-09T22:43:23+00:00",
-      "summary": "AIがコードを書くほど、レビュー・セキュリティ・理解が追いつかなくなる——次のDevOpsボトルネックは「管理能力」だ",
+      "published_at": "2026-07-09T08:14:03+00:00",
+      "fetched_at": "2026-07-09T23:11:09+00:00",
+      "summary": "anond:20260709092321 男性用小便器が少し減ってもいいじゃない よくねーよ 多少混むことになるだろうけど、回転率が非常に高いからそれほど不便はしないだろう。何百人規模の研修の休憩中にホテルのトイレで待っても数分だし。 数分も待ちたくないから立小便形式を受け容れてるんじゃん それより女性の長蛇の列を少しで...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4376,7 +4381,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3171034d8fe6c243af28"
+      "id": "510b6965aee30265f396"
     }
   ],
   "source_errors": [],
