@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T08:51:42+00:00_
+_Generiert: 2026-07-10T10:03:52+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+59 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [mittel] IBM Langflow Desktop OSS: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2270)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-10T09:36:39+00:00`, fetched `2026-07-10T10:03:24+00:00`
+  - Treffer: BSI, CERT-Bund, Open Source, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein eintfernter Angreifer kann eine Schwachstelle in IBM Langflow Desktop OSS ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU94281476/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-10T11:00:00+09:00`, fetched `2026-07-10T02:28:01+00:00`
@@ -114,23 +123,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月09日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2063)
+- **[NEU] [UNGEPATCHT] [mittel] Kyocera Printer: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2273)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-10T08:16:40+00:00`, fetched `2026-07-10T08:51:13+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-07-10T09:41:40+00:00`, fetched `2026-07-10T10:03:24+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Kyocera Printer ausnutzen, um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1439)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-10T07:27:19+00:00`, fetched `2026-07-10T07:45:41+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+- **Ecosystem Roundup: RedDoorz’s IPO bet — buyouts over bricks** — Score 16, observation — [Quelle](https://e27.co/ecosystem-roundup-reddoorzs-ipo-bet-buyouts-over-bricks-20260710/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-10T09:31:35+00:00`, fetched `2026-07-10T10:03:24+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (LibRaw) ausnutzen, um beliebigen Programmcode auszuführen.
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: RedDoorz’z planned 2027 SGX mainboard listing marks a notable milestone for Southeast Asia’s budget hospitality sector, and its strategy deserves attention for its unconventional approach: using IPO proceeds primarily to fund acquisitions rather than organic growth. This M&A-first playbook, targeting profitable but tech-lagging hospitality businesses across Australia, India, and Southeast Asia, reflects a pragmatic…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **wonderwhy-er/DesktopCommanderMCP** — Score 16, observation — [Quelle](https://github.com/wonderwhy-er/DesktopCommanderMCP)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -171,6 +180,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **How Deutsche Telekom is rewiring telecommunications with AI** — Score 11, observation — [Quelle](https://openai.com/index/deutsche-telekom)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-10T07:00:00+00:00`, fetched `2026-07-10T10:03:24+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ax — the AI-era curl** — Score 11, risk — [Quelle](https://ax.yusuke.run/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-09T23:18:58+00:00`, fetched `2026-07-10T03:47:09+00:00`
@@ -225,14 +243,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
   - Kurz: It was a Sunday afternoon. A founder I know, running a company with 100 employees, revenue above US$50 million, was mid-pickleball when a message arrived: “Can you speak at our conference Tuesday morning?” He agreed. The conference was two flights away. What followed was two and a half hours across six browser tabs. Flight aggregators. […] The post Corporate travel in Southeast Asia was never broken, it was never bu…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/)
+- **「メールが届かなくても仕方ない」を普通にしませんか** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-09T22:25:27+00:00`, fetched `2026-07-10T01:34:04+00:00`
+  - Zeit: published `2026-07-10T07:44:25+00:00`, fetched `2026-07-10T10:03:24+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【シリコンバレー=山田航平】米メタはSNS「インスタグラム」の仕様を変更し、投稿画像を使って他人がAI画像を合成できる機能を標準搭載した。無断使用を拒否しない限りAIが勝手に素材として利用し続ける「オプトアウト方式」を採用し、有名人などから反発を招いている。メタは7日、画像生成に特化した生成AIモデル「Muse...
+  - Kurz: 筆者が最近頭を悩ませていることの1つが、親族宛てに届くフィッシング詐欺メールだ。もちろん今に始まった話ではない。ただ、メールや電話で問い合わせを受け、限られた情報を基に詐欺メールかどうかを回答する頻度が高まっている。 この記事は会員登録で続きをご覧いただけます申込は簡単3分！ 今すぐ会員登録（無料） ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VoltAgent/awesome-design-md** — Score 7, observation — [Quelle](https://github.com/VoltAgent/awesome-design-md)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

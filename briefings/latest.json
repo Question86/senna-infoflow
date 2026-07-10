@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T08:51:42+00:00",
-  "run_id": "2026-07-10T08:51:42+00:00",
+  "generated_at": "2026-07-10T10:03:52+00:00",
+  "run_id": "2026-07-10T10:03:52+00:00",
   "date": "2026-07-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 10,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 20,
-    "observe": 29,
+    "medium": 27,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -154,6 +154,30 @@
         "id": "d3a7f5bf9b433284b569"
       },
       {
+        "title": "[NEU] [mittel] IBM Langflow Desktop OSS: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2270",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:36:39+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "Ein eintfernter Angreifer kann eine Schwachstelle in IBM Langflow Desktop OSS ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Open Source",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b45a9e0d88cb4496e37a"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
         "url": "https://jvn.jp/vu/JVNVU94281476/",
         "source": "JVN Japan Vulnerability Notes",
@@ -175,6 +199,76 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7f633a1e5cb57e69d57b"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Kyocera Printer: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2273",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:41:40+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Kyocera Printer ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "147ca7bcdc5881553e71"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1700",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:41:39+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht näher spezifizierte Auswirkungen zu erzielen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "501a352191590fdbc929"
+      },
+      {
+        "title": "Ecosystem Roundup: RedDoorz’s IPO bet — buyouts over bricks",
+        "url": "https://e27.co/ecosystem-roundup-reddoorzs-ipo-bet-buyouts-over-bricks-20260710/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:31:35+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "RedDoorz’z planned 2027 SGX mainboard listing marks a notable milestone for Southeast Asia’s budget hospitality sector, and its strategy deserves attention for its unconventional approach: using IPO proceeds primarily to fund acquisitions rather than organic growth. This M&A-first playbook, targeting profitable but tech-lagging hospitality businesses across Australia, India, and Southeast Asia, reflects a pragmatic…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Markets/Capital Structure",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region australia: Australia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "52bf631bd774c360bbb5"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
@@ -402,6 +496,75 @@
         "id": "0fcbd4676ca424fa953a"
       },
       {
+        "title": "[NEU] [hoch] CPython: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2272",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:41:40+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ba796490713432bdb893"
+      },
+      {
+        "title": "[NEU] [mittel] CoreDNS: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2271",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:41:39+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2343c52b26ba30492e0c"
+      },
+      {
+        "title": "[UPDATE] [mittel] ClamAV: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2173",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-10T09:21:41+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ClamAV ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c1527c1dd0304e7c3b07"
+      },
+      {
         "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0297",
         "source": "BSI CERT-Bund Security Advisories",
@@ -587,6 +750,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "url": "https://openai.com/index/deutsche-telekom",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-10T07:00:00+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "91e2929738ed5d0fb874"
+      },
       {
         "title": "ax — the AI-era curl",
         "url": "https://ax.yusuke.run/",
@@ -795,6 +979,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d2aec0cd56bd8b5e84a3"
+      },
+      {
+        "title": "「メールが届かなくても仕方ない」を普通にしませんか",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T07:44:25+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "筆者が最近頭を悩ませていることの1つが、親族宛てに届くフィッシング詐欺メールだ。もちろん今に始まった話ではない。ただ、メールや電話で問い合わせを受け、限られた情報を基に詐欺メールかどうかを回答する頻度が高まっている。 この記事は会員登録で続きをご覧いただけます申込は簡単3分！ 今すぐ会員登録（無料） ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07be0f620d0efd5345eb"
       },
       {
         "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
@@ -1021,6 +1226,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66cb6e809df402e699b9"
+      },
+      {
+        "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアドバイスを実行した結果、病院で点滴2本打った人の顛末記",
+        "url": "https://togetter.com/li/2719026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T07:40:03+00:00",
+        "fetched_at": "2026-07-10T10:03:24+00:00",
+        "summary": "中村朝 @nakamura_asa #7119は急な病気やケガで「救急車を呼ぶべきか」「今すぐ病院に行くべきか」判断に迷った際に、医師や看護師などの専門家に電話で相談できる救急安心センター事業の共通番号だそうです。皆使ってね。 2026-07-09 04:26:15",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c5935a2dce99283fe955"
       },
       {
         "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
@@ -1336,6 +1562,30 @@
       "id": "d3a7f5bf9b433284b569"
     },
     {
+      "title": "[NEU] [mittel] IBM Langflow Desktop OSS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2270",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:36:39+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein eintfernter Angreifer kann eine Schwachstelle in IBM Langflow Desktop OSS ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Open Source",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b45a9e0d88cb4496e37a"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
       "url": "https://jvn.jp/vu/JVNVU94281476/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1357,6 +1607,76 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7f633a1e5cb57e69d57b"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Kyocera Printer: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2273",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:41:40+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Kyocera Printer ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "147ca7bcdc5881553e71"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1700",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:41:39+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht näher spezifizierte Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "501a352191590fdbc929"
+    },
+    {
+      "title": "Ecosystem Roundup: RedDoorz’s IPO bet — buyouts over bricks",
+      "url": "https://e27.co/ecosystem-roundup-reddoorzs-ipo-bet-buyouts-over-bricks-20260710/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:31:35+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "RedDoorz’z planned 2027 SGX mainboard listing marks a notable milestone for Southeast Asia’s budget hospitality sector, and its strategy deserves attention for its unconventional approach: using IPO proceeds primarily to fund acquisitions rather than organic growth. This M&A-first playbook, targeting profitable but tech-lagging hospitality businesses across Australia, India, and Southeast Asia, reflects a pragmatic…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region australia: Australia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52bf631bd774c360bbb5"
     },
     {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
@@ -1584,6 +1904,75 @@
       "id": "0fcbd4676ca424fa953a"
     },
     {
+      "title": "[NEU] [hoch] CPython: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2272",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:41:40+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ba796490713432bdb893"
+    },
+    {
+      "title": "[NEU] [mittel] CoreDNS: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2271",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:41:39+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2343c52b26ba30492e0c"
+    },
+    {
+      "title": "[UPDATE] [mittel] ClamAV: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2173",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:21:41+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ClamAV ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1527c1dd0304e7c3b07"
+    },
+    {
       "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0297",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1766,6 +2155,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c9c40a48b1f09feb3220"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-10T07:00:00+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "91e2929738ed5d0fb874"
     },
     {
       "title": "ax — the AI-era curl",
@@ -1975,6 +2385,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d2aec0cd56bd8b5e84a3"
+    },
+    {
+      "title": "「メールが届かなくても仕方ない」を普通にしませんか",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T07:44:25+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "筆者が最近頭を悩ませていることの1つが、親族宛てに届くフィッシング詐欺メールだ。もちろん今に始まった話ではない。ただ、メールや電話で問い合わせを受け、限られた情報を基に詐欺メールかどうかを回答する頻度が高まっている。 この記事は会員登録で続きをご覧いただけます申込は簡単3分！ 今すぐ会員登録（無料） ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07be0f620d0efd5345eb"
     },
     {
       "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
@@ -2203,6 +2634,27 @@
       "id": "66cb6e809df402e699b9"
     },
     {
+      "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアドバイスを実行した結果、病院で点滴2本打った人の顛末記",
+      "url": "https://togetter.com/li/2719026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T07:40:03+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "中村朝 @nakamura_asa #7119は急な病気やケガで「救急車を呼ぶべきか」「今すぐ病院に行くべきか」判断に迷った際に、医師や看護師などの専門家に電話で相談できる救急安心センター事業の共通番号だそうです。皆使ってね。 2026-07-09 04:26:15",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5935a2dce99283fe955"
+    },
+    {
       "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
       "url": "https://www.itmedia.co.jp/mobile/articles/2607/10/news097.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2391,13 +2843,61 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2063",
+      "title": "[NEU] [mittel] IBM Langflow Desktop OSS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2270",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-10T08:16:40+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.",
+      "published_at": "2026-07-10T09:36:39+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein eintfernter Angreifer kann eine Schwachstelle in IBM Langflow Desktop OSS ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Open Source",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b45a9e0d88cb4496e37a"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Kyocera Printer: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2273",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:41:40+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Kyocera Printer ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "147ca7bcdc5881553e71"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1700",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-10T09:41:39+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere nicht näher spezifizierte Auswirkungen zu erzielen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2412,53 +2912,38 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9691a101de54b90dd5f9"
+      "id": "501a352191590fdbc929"
     },
     {
-      "title": "M 4.9 - 96 km SW of Abepura, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Ecosystem Roundup: RedDoorz’s IPO bet — buyouts over bricks",
+      "url": "https://e27.co/ecosystem-roundup-reddoorzs-ipo-bet-buyouts-over-bricks-20260710/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-10T08:50:09.040+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "Time 2026-07-10 08:33:03 UTC 2026-07-10 08:33:03 UTC at epicenter Location 3.091°S 139.912°E Depth 37.82 km (23.50 mi)",
+      "published_at": "2026-07-10T09:31:35+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "RedDoorz’z planned 2027 SGX mainboard listing marks a notable milestone for Southeast Asia’s budget hospitality sector, and its strategy deserves attention for its unconventional approach: using IPO proceeds primarily to fund acquisitions rather than organic growth. This M&A-first playbook, targeting profitable but tech-lagging hospitality businesses across Australia, India, and Southeast Asia, reflects a pragmatic…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Markets/Capital Structure",
+        "Southeast Asia"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5d7b700046ac1670be40"
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region australia: Australia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52bf631bd774c360bbb5"
     },
     {
-      "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0297",
+      "title": "[NEU] [hoch] CPython: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2272",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-10T08:31:39+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Django ausnutzen, um SQL-Injektionen durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-07-10T09:41:40+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2472,16 +2957,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d60df94950f5e278e789"
+      "id": "ba796490713432bdb893"
     },
     {
-      "title": "[NEU] [mittel] MISP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2269",
+      "title": "[NEU] [mittel] CoreDNS: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2271",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-10T08:26:40+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MISP ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-10T09:41:39+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2495,16 +2980,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7b27d1d5459ed165c24a"
+      "id": "2343c52b26ba30492e0c"
     },
     {
-      "title": "[NEU] [hoch] RabbitMQ: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2268",
+      "title": "[UPDATE] [mittel] ClamAV: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2173",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-10T08:26:39+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-07-10T09:21:41+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ClamAV ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2518,39 +3003,58 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d4cdee4cffd180ab4b11"
+      "id": "c1527c1dd0304e7c3b07"
     },
     {
-      "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1880",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-10T08:21:39+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um potenziell beliebigen Code auszuführen, Sicherheitskontrollen zu umgehen, einen Denial-of-Service-Zustand zu verursachen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher beschriebene Angriffe durchzuführen.",
+      "published_at": "2026-07-10T07:00:00+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "OpenAI"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "646c347cf34d8db7c045"
+      "id": "91e2929738ed5d0fb874"
     },
     {
-      "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2607/10/news097.html",
+      "title": "「メールが届かなくても仕方ない」を普通にしませんか",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-10T04:23:29+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "UWB改札機をスマートフォンで通過する際の処理イメージ。駅構内に入ると設置されたBluetooth（BLE）ビーコンに反応してスマートフォンのUWB機能が有効になり、改札機がUWBの信号を元にした追跡と通過判定を行う（Nano Banana 2で作成） 今日、「Suica」に代表される日本国内の交通系ICカードの礎を作ったのはJR東日本で...",
+      "published_at": "2026-07-10T07:44:25+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "筆者が最近頭を悩ませていることの1つが、親族宛てに届くフィッシング詐欺メールだ。もちろん今に始まった話ではない。ただ、メールや電話で問い合わせを受け、限られた情報を基に詐欺メールかどうかを回答する頻度が高まっている。 この記事は会員登録で続きをご覧いただけます申込は簡単3分！ 今すぐ会員登録（無料） ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07be0f620d0efd5345eb"
+    },
+    {
+      "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアドバイスを実行した結果、病院で点滴2本打った人の顛末記",
+      "url": "https://togetter.com/li/2719026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T07:40:03+00:00",
+      "fetched_at": "2026-07-10T10:03:24+00:00",
+      "summary": "中村朝 @nakamura_asa #7119は急な病気やケガで「救急車を呼ぶべきか」「今すぐ病院に行くべきか」判断に迷った際に、医師や看護師などの専門家に電話で相談できる救急安心センター事業の共通番号だそうです。皆使ってね。 2026-07-09 04:26:15",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2562,28 +3066,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5e97946ca3bb01d874bb"
-    },
-    {
-      "title": "Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/07/10/5280.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-10T00:42:13+00:00",
-      "fetched_at": "2026-07-10T08:51:13+00:00",
-      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第151回）は、Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」や、動画から世界のしくみを学ぶAIモデル「Orca」を取り上げます。 また、NVIDIAがアリババの高性能AI「Qwen3.6」を軽量化した4ビットモデル...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "701a838123f48568df64"
+      "id": "c5935a2dce99283fe955"
     }
   ],
   "source_errors": [],
