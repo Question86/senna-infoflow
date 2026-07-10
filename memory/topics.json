@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T01:34:33+00:00",
+  "generated_at": "2026-07-10T02:28:35+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-10T02:28:22+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-10T01:12:04+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-10T00:07:29+00:00",
-        "relevance_score": 23,
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
       {
         "title": "Why patient intake is becoming healthcare’s most important AI use case",
@@ -26,6 +26,27 @@
         "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/"
       },
       {
+        "title": "wonderwhy-er/DesktopCommanderMCP",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+      },
+      {
+        "title": "iOfficeAI/OfficeCLI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      {
+        "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:00:02+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/"
+      },
+      {
         "title": "米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-09T22:46:07+00:00",
@@ -33,32 +54,25 @@
         "url": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/"
       },
       {
+        "title": "The future of CRM: AI-native, consolidated, and frictionless",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:45:50+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-future-of-crm-20260608/"
+      },
+      {
+        "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:15:37+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/"
+      },
+      {
         "title": "メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-09T22:25:27+00:00",
         "relevance_score": 7,
         "url": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/"
-      },
-      {
-        "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-10T00:53:38+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/"
-      },
-      {
-        "title": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-10T00:33:11+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/genai"
-      },
-      {
-        "title": "Product DNA testing: How features inherit traits from parent products",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T01:00:54+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/product-dna-testing-how-features-inherit-traits-from-parent-products-20260704/"
       }
     ],
     "economy": [
@@ -68,9 +82,104 @@
         "published_at": "2026-07-10T01:12:04+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
+      },
+      {
+        "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:00:02+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/"
+      },
+      {
+        "title": "The future of CRM: AI-native, consolidated, and frictionless",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:45:50+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-future-of-crm-20260608/"
+      },
+      {
+        "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:15:37+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/"
+      },
+      {
+        "title": "VoltAgent/awesome-design-md",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 7,
+        "url": "https://github.com/VoltAgent/awesome-design-md"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-10T11:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU94281476/"
+      },
+      {
+        "title": "Siemens製品に対するアップデート（2026年7月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-10T11:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU91295052/"
+      },
+      {
+        "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:15:37+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/"
+      }
+    ],
+    "github": [
+      {
+        "title": "wonderwhy-er/DesktopCommanderMCP",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+      },
+      {
+        "title": "iOfficeAI/OfficeCLI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      {
+        "title": "The future of CRM: AI-native, consolidated, and frictionless",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:45:50+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-future-of-crm-20260608/"
+      },
+      {
+        "title": "VoltAgent/awesome-design-md",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 7,
+        "url": "https://github.com/VoltAgent/awesome-design-md"
       }
     ],
     "general": [
+      {
+        "title": "Why Singapore’s Gen Z handles money differently and what it means for finance",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:00:46+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/why-singapores-gen-z-handles-money-differently-and-what-it-means-for-finance-20260708/"
+      },
+      {
+        "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-10T02:05:09+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260710-01"
+      },
       {
         "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",
         "source": "Hatena Bookmark Hotentry IT",

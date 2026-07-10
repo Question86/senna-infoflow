@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-07-10T02:28:22+00:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d689bafd592590f9f362"
+  },
+  {
     "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
     "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -35,48 +77,6 @@
     "id": "58e8f586d6e53a903ed7"
   },
   {
-    "title": "Updates | ReliefWeb",
-    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-    "source": "ReliefWeb Mindanao Recovery Watch",
-    "source_type": "webpage_check",
-    "published_at": "2026-07-10T00:07:29+00:00",
-    "fetched_at": "2026-07-10T00:07:10+00:00",
-    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-    "matched_keywords": [
-      "APAC Trend Radar",
-      "Climate/Disaster Infrastructure",
-      "General Santos",
-      "Glan",
-      "recovery",
-      "relief",
-      "Sarangani",
-      "Watchgraph:earthquakes_tsunami"
-    ],
-    "relevance_score": 23,
-    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-    "risk_or_opportunity": "risk",
-    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-    "watchgraph_modules": [
-      "earthquakes_tsunami"
-    ],
-    "watchgraph_reasons": [
-      "earthquakes_tsunami: earthquake"
-    ],
-    "market_context": [
-      "MUV2.DE",
-      "SREN.SW",
-      "RNR",
-      "WRB",
-      "CAT",
-      "VMC",
-      "MLM",
-      "HOLN.SW",
-      "HD",
-      "LOW"
-    ],
-    "id": "3b9ff22c75b43139086d"
-  },
-  {
     "title": "Why patient intake is becoming healthcare’s most important AI use case",
     "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -98,6 +98,167 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9f9797ebc809038bebcd"
+  },
+  {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
+    "url": "https://jvn.jp/vu/JVNVU94281476/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-10T11:00:00+09:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "2026年07月09日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f633a1e5cb57e69d57b"
+  },
+  {
+    "title": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI editors - while using host client subscriptions instead of API token costs. 🖥️ Try the Desktop Commander App (Beta) Want a better ex…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: MCP, MCP server"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "cb017bef79139f453ead"
+  },
+  {
+    "title": "iOfficeAI/OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. OfficeCLI OfficeCLI is the world's first and the best Office suite designed for AI agents. Give any AI agent full control over Word, Excel, and PowerPoint — in one line of code. Open-source. Single binary. No Office…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "c2d903c44a34ba816db7"
+  },
+  {
+    "title": "Siemens製品に対するアップデート（2026年7月）",
+    "url": "https://jvn.jp/vu/JVNVU91295052/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-07-10T11:00:15+09:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "Siemensから各製品向けのアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0fcbd4676ca424fa953a"
+  },
+  {
+    "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
+    "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T02:00:02+00:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "Atome Philippines has secured a PHP 5 billion (~US$88 million) wholesale facility from Asia United Bank, giving the digital finance platform local-currency funding to expand its consumer credit business in one of Southeast Asia’s most underbanked large markets. The facility will mainly support the Atome PayLater Anywhere Card, which the company says has now been […] The post Atome’s US$88M AUB facility tests the nex…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "funding",
+      "Southeast Asia"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "211fdc06cbc4afd81296"
   },
   {
     "title": "米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞",
@@ -122,6 +283,68 @@
     "id": "fa2a8cf14dde59dae65c"
   },
   {
+    "title": "The future of CRM: AI-native, consolidated, and frictionless",
+    "url": "https://e27.co/the-future-of-crm-20260608/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T01:45:50+00:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "Talk to anyone in sales, marketing, or ops long enough, and the CRM conversation runs in a loop. First, it’s “why are we paying this much for a system that basically does nothing?” Then the company adopts a new platform, and for a quarter or two there’s relief: the pipeline is clean, reports actually load, […] The post The future of CRM: AI-native, consolidated, and frictionless appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d2aec0cd56bd8b5e84a3"
+  },
+  {
+    "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
+    "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T02:15:37+00:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "An AI model judged too dangerous to release has exposed an uncomfortable truth: the legacy systems quietly running our banks, hospitals, and power grids are far more vulnerable than we let ourselves believe. The threat isn’t old code — it’s abandoned code. And the response isn’t a patch. It’s a fundamental rethink of how we […] The post “It works, don’t touch it” is now the most dangerous sentence in tech appeared f…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3919e86d159e8a740311"
+  },
+  {
+    "title": "Why Singapore’s Gen Z handles money differently and what it means for finance",
+    "url": "https://e27.co/why-singapores-gen-z-handles-money-differently-and-what-it-means-for-finance-20260708/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T02:00:46+00:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "After more than 16 years working as a financial advisor in Singapore, I’ve noticed a change that I didn’t expect to see this early. Some of the most financially engaged conversations I’m having today are not with people approaching retirement or preparing for their children’s education. They’re young adults in their late teens and early […] The post Why Singapore’s Gen Z handles money differently and what it means f…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "403bad9beb271c14bbd3"
+  },
+  {
     "title": "メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -141,6 +364,50 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d45e40e311977c0b0b89"
+  },
+  {
+    "title": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. Curated collection of DESIGN.md analysis by developer focused websites. Awesome DESIGN.md Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language. B…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Webentwicklung"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote awesome (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "805f2da60d361d45078d"
+  },
+  {
+    "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
+    "url": "https://www.digital.go.jp/speech/minister-260710-01",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-10T02:05:09+00:00",
+    "fetched_at": "2026-07-10T02:28:01+00:00",
+    "summary": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "708327d32aca73f1034c"
   },
   {
     "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
