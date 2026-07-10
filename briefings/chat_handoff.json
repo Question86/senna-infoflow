@@ -90,5 +90,149 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Why patient intake is becoming healthcare’s most important AI use case” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=27.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Why patient intake is becoming healthcare’s most important AI use case",
+        "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:00:15+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Across Southeast Asia, healthcare systems are facing mounting pressure. In Singapore, an ageing population is driving a sharp rise in chronic disease management and long-term care demand. In Malaysia, the ongoing migration of healthcare professionals overseas continues to strain both public and private hospitals. Acro…"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 21.0,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
+        "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:12:04+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: regional",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "The fraud officer I sat with in Yogyakarta last month had spent eleven years catching counterfeit invoices, suspicious wire transfers, and informal collusion patterns at a regional bank’s branch network. She is exceptionally good at her job. She has also spent the last three weeks trying to learn how to detect a deepf…"
+      },
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-10T00:07:29+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "ai",
+          "macro",
+          "disaster"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: earthquake",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+      },
+      {
+        "title": "Recommerce now half of Carousell’s biz: Is classifieds being quietly phased out?",
+        "url": "https://e27.co/recommerce-now-half-of-carousells-biz-is-classifieds-being-quietly-phased-out-20260709/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:00:39+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Thirteen years after launching as an upstart classifieds app, Carousell Group has finally hit positive EBITDA. FY25 revenue climbed 18 per cent to US$141 million, nearly tripling since FY21. At the same time, recommerce, the company’s resale-and-trade-in engine, grew 40 per cent to become 45 per cent of total revenue.…"
+      }
+    ]
+  }
 }
