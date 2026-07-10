@@ -147,6 +147,30 @@
     "id": "7f633a1e5cb57e69d57b"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2063",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T08:16:40+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9691a101de54b90dd5f9"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1439",
     "source": "BSI CERT-Bund Security Advisories",
@@ -289,6 +313,43 @@
     "id": "c2d903c44a34ba816db7"
   },
   {
+    "title": "M 4.9 - 96 km SW of Abepura, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-10T08:50:09.040+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "Time 2026-07-10 08:33:03 UTC 2026-07-10 08:33:03 UTC at epicenter Location 3.091°S 139.912°E Depth 37.82 km (23.50 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5d7b700046ac1670be40"
+  },
+  {
     "title": "Siemens製品に対するアップデート（2026年7月）",
     "url": "https://jvn.jp/vu/JVNVU91295052/",
     "source": "JVN Japan Vulnerability Notes",
@@ -309,6 +370,98 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0fcbd4676ca424fa953a"
+  },
+  {
+    "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0297",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T08:31:39+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Django ausnutzen, um SQL-Injektionen durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d60df94950f5e278e789"
+  },
+  {
+    "title": "[NEU] [mittel] MISP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2269",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T08:26:40+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MISP ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b27d1d5459ed165c24a"
+  },
+  {
+    "title": "[NEU] [hoch] RabbitMQ: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2268",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T08:26:39+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4cdee4cffd180ab4b11"
+  },
+  {
+    "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1880",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T08:21:39+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um potenziell beliebigen Code auszuführen, Sicherheitskontrollen zu umgehen, einen Denial-of-Service-Zustand zu verursachen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher beschriebene Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "646c347cf34d8db7c045"
   },
   {
     "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
@@ -838,6 +991,27 @@
     "id": "66cb6e809df402e699b9"
   },
   {
+    "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2607/10/news097.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T04:23:29+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "UWB改札機をスマートフォンで通過する際の処理イメージ。駅構内に入ると設置されたBluetooth（BLE）ビーコンに反応してスマートフォンのUWB機能が有効になり、改札機がUWBの信号を元にした追跡と通過判定を行う（Nano Banana 2で作成） 今日、「Suica」に代表される日本国内の交通系ICカードの礎を作ったのはJR東日本で...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5e97946ca3bb01d874bb"
+  },
+  {
     "title": "Windows Defenderにディスクを食い潰す穴が発見される",
     "url": "https://pc.watch.impress.co.jp/docs/news/2124087.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -878,6 +1052,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0e525c9656a406c264a9"
+  },
+  {
+    "title": "Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/07/10/5280.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T00:42:13+00:00",
+    "fetched_at": "2026-07-10T08:51:13+00:00",
+    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第151回）は、Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」や、動画から世界のしくみを学ぶAIモデル「Orca」を取り上げます。 また、NVIDIAがアリババの高性能AI「Qwen3.6」を軽量化した4ビットモデル...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "701a838123f48568df64"
   },
   {
     "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",
