@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T21:52:33+00:00",
-  "run_id": "2026-07-10T21:52:33+00:00",
+  "generated_at": "2026-07-10T22:16:43+00:00",
+  "run_id": "2026-07-10T22:16:43+00:00",
   "date": "2026-07-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "new_relevant_findings": 1,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 0,
     "medium": 35,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1442,6 +1442,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d2aec0cd56bd8b5e84a3"
+      },
+      {
+        "title": "Interview With Mitchell Hashimoto",
+        "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T00:48:35+00:00",
+        "fetched_at": "2026-07-10T22:16:13+00:00",
+        "summary": "Mitchell Hashimoto was behind Vagrant, Packer, Consul, Terraform, Vault, Nomad, Waypoint and now builds Ghostty and Vouch. In this interview, we talk about terminals, Zig and open source. You’ve been interviewed a lot. Why do people like to interview you? In interviews, everyone comes from a diff...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Open Source"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "36a7f8882f63d6a37183"
       },
       {
         "title": "Vulnérabilité dans FreeBSD (03 juillet 2026)",
@@ -3527,6 +3549,28 @@
       "id": "d2aec0cd56bd8b5e84a3"
     },
     {
+      "title": "Interview With Mitchell Hashimoto",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T00:48:35+00:00",
+      "fetched_at": "2026-07-10T22:16:13+00:00",
+      "summary": "Mitchell Hashimoto was behind Vagrant, Packer, Consul, Terraform, Vault, Nomad, Waypoint and now builds Ghostty and Vouch. In this interview, we talk about terminals, Zig and open source. You’ve been interviewed a lot. Why do people like to interview you? In interviews, everyone comes from a diff...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36a7f8882f63d6a37183"
+    },
+    {
       "title": "Vulnérabilité dans FreeBSD (03 juillet 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0830/",
       "source": "CERT-FR Avis de sécurité",
@@ -4195,7 +4239,30 @@
       "id": "a1832104ed49703426c9"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Interview With Mitchell Hashimoto",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T00:48:35+00:00",
+      "fetched_at": "2026-07-10T22:16:13+00:00",
+      "summary": "Mitchell Hashimoto was behind Vagrant, Packer, Consul, Terraform, Vault, Nomad, Waypoint and now builds Ghostty and Vouch. In this interview, we talk about terminals, Zig and open source. You’ve been interviewed a lot. Why do people like to interview you? In interviews, everyone comes from a diff...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36a7f8882f63d6a37183"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

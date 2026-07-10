@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T21:52:33+00:00",
+  "generated_at": "2026-07-10T22:16:43+00:00",
   "topics": {
     "ai": [
       {
@@ -277,18 +277,18 @@
         "url": "https://e27.co/the-future-of-crm-20260608/"
       },
       {
+        "title": "Interview With Mitchell Hashimoto",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T00:48:35+00:00",
+        "relevance_score": 8,
+        "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/"
+      },
+      {
         "title": "VoltAgent/awesome-design-md",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 7,
         "url": "https://github.com/VoltAgent/awesome-design-md"
-      },
-      {
-        "title": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-10T09:45:30+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions"
       }
     ],
     "geopolitics": [
