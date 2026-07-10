@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T05:09:22+00:00",
+  "generated_at": "2026-07-10T06:28:26+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://ax.yusuke.run/"
       },
       {
+        "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T06:06:49+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/"
+      },
+      {
         "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-10T02:00:02+00:00",
@@ -61,18 +68,11 @@
         "url": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/"
       },
       {
-        "title": "How creativity, commerce and AI collide in mid-2026 marketing mix",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T02:45:32+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/how-creativity-commerce-and-ai-collide-in-mid-2026-marketing-mix-20260709/"
-      },
-      {
-        "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T02:30:00+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-ai-stack-trap-why-more-ai-tools-arent-translating-into-more-growth-20260706/"
+        "title": "M 4.6 - 54 km WSW of Captain Cook, Hawaii",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-10T06:22:43.713+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000056"
       }
     ],
     "economy": [
@@ -82,6 +82,13 @@
         "published_at": "2026-07-10T01:12:04+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
+      },
+      {
+        "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T06:06:49+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/"
       },
       {
         "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
@@ -131,6 +138,13 @@
         "published_at": null,
         "relevance_score": 7,
         "url": "https://github.com/VoltAgent/awesome-design-md"
+      },
+      {
+        "title": "Why Bitcoin’s move to US$63K has nothing to do with crypto and everything to do with Iran",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T05:14:00+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-bitcoins-move-to-us63k-has-nothing-to-do-with-crypto-and-everything-to-do-with-iran-20260710/"
       }
     ],
     "security": [
@@ -223,6 +237,27 @@
         "published_at": "2026-07-10T02:00:46+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/why-singapores-gen-z-handles-money-differently-and-what-it-means-for-finance-20260708/"
+      },
+      {
+        "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-10T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription"
+      },
+      {
+        "title": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-10T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/digital_promotion_staff/curation"
+      },
+      {
+        "title": "オープンデータ伝道師一覧を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-10T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/resources/open_data"
       },
       {
         "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",

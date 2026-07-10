@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T05:09:22+00:00",
-  "run_id": "2026-07-10T05:09:22+00:00",
+  "generated_at": "2026-07-10T06:28:26+00:00",
+  "run_id": "2026-07-10T06:28:26+00:00",
   "date": "2026-07-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 6,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 9,
-    "observe": 20,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -341,6 +341,27 @@
         "id": "c263ca849ec42efb439a"
       },
       {
+        "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
+        "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-10T06:06:49+00:00",
+        "fetched_at": "2026-07-10T06:27:56+00:00",
+        "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipsos found that 76 per cent of Singapore investors surveyed use AI for finance and […] The post AI is reshaping Singapore wealth management, but not replacing the…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1814fba1aac27e253a7b"
+      },
+      {
         "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
         "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -383,6 +404,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fa2a8cf14dde59dae65c"
+      },
+      {
+        "title": "M 4.6 - 54 km WSW of Captain Cook, Hawaii",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000056",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-10T06:22:43.713+00:00",
+        "fetched_at": "2026-07-10T06:27:56+00:00",
+        "summary": "DYFI? - IV Time 2026-07-10 06:17:25 UTC 2026-07-10 06:17:25 UTC at epicenter Location 19.238°N 156.358°W Depth 7.25 km (4.50 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c1c967a50eef95251d89"
       },
       {
         "title": "Corporate travel in Southeast Asia was never broken, it was never built",
@@ -556,6 +613,66 @@
         "id": "805f2da60d361d45078d"
       },
       {
+        "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+        "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-10T06:00:00+00:00",
+        "fetched_at": "2026-07-10T06:27:56+00:00",
+        "summary": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b194f8277831afa5418"
+      },
+      {
+        "title": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+        "url": "https://www.digital.go.jp/policies/digital_promotion_staff/curation",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-10T06:00:00+00:00",
+        "fetched_at": "2026-07-10T06:27:56+00:00",
+        "summary": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c63a2ba9377f2a4662ef"
+      },
+      {
+        "title": "オープンデータ伝道師一覧を更新しました",
+        "url": "https://www.digital.go.jp/resources/open_data",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-10T06:00:00+00:00",
+        "fetched_at": "2026-07-10T06:27:56+00:00",
+        "summary": "オープンデータ伝道師一覧を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f46fa6537e5b580d08f"
+      },
+      {
         "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
         "url": "https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590",
         "source": "Japan Digital Agency News RSS",
@@ -697,6 +814,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7824695ed05ef44d1b54"
+      },
+      {
+        "title": "Why Bitcoin’s move to US$63K has nothing to do with crypto and everything to do with Iran",
+        "url": "https://e27.co/why-bitcoins-move-to-us63k-has-nothing-to-do-with-crypto-and-everything-to-do-with-iran-20260710/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-10T05:14:00+00:00",
+        "fetched_at": "2026-07-10T06:27:56+00:00",
+        "summary": "Bitcoin recently climbed 0.96 per cent to reach US$62,994.44 over the last 24 hours. This slight outperformance against a flat broader market highlights a profound shift in investor psychology. We currently witness a strong correlation between digital assets and traditional risk instruments. This dynamic proves that macroeconomic forces now dictate cryptocurrency price action far more […] The post Why Bitcoin’s move…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b740d85a85337d8018e6"
       },
       {
         "title": "Product DNA testing: How features inherit traits from parent products",
@@ -1051,6 +1188,27 @@
       "id": "c263ca849ec42efb439a"
     },
     {
+      "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
+      "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:06:49+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipsos found that 76 per cent of Singapore investors surveyed use AI for finance and […] The post AI is reshaping Singapore wealth management, but not replacing the…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1814fba1aac27e253a7b"
+    },
+    {
       "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
       "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1093,6 +1251,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fa2a8cf14dde59dae65c"
+    },
+    {
+      "title": "M 4.6 - 54 km WSW of Captain Cook, Hawaii",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000056",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:22:43.713+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "DYFI? - IV Time 2026-07-10 06:17:25 UTC 2026-07-10 06:17:25 UTC at epicenter Location 19.238°N 156.358°W Depth 7.25 km (4.50 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c1c967a50eef95251d89"
     },
     {
       "title": "Corporate travel in Southeast Asia was never broken, it was never built",
@@ -1266,6 +1460,66 @@
       "id": "805f2da60d361d45078d"
     },
     {
+      "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b194f8277831afa5418"
+    },
+    {
+      "title": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+      "url": "https://www.digital.go.jp/policies/digital_promotion_staff/curation",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c63a2ba9377f2a4662ef"
+    },
+    {
+      "title": "オープンデータ伝道師一覧を更新しました",
+      "url": "https://www.digital.go.jp/resources/open_data",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "オープンデータ伝道師一覧を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f46fa6537e5b580d08f"
+    },
+    {
       "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
       "url": "https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590",
       "source": "Japan Digital Agency News RSS",
@@ -1409,6 +1663,26 @@
       "id": "7824695ed05ef44d1b54"
     },
     {
+      "title": "Why Bitcoin’s move to US$63K has nothing to do with crypto and everything to do with Iran",
+      "url": "https://e27.co/why-bitcoins-move-to-us63k-has-nothing-to-do-with-crypto-and-everything-to-do-with-iran-20260710/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-10T05:14:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "Bitcoin recently climbed 0.96 per cent to reach US$62,994.44 over the last 24 hours. This slight outperformance against a flat broader market highlights a profound shift in investor psychology. We currently witness a strong correlation between digital assets and traditional risk instruments. This dynamic proves that macroeconomic forces now dictate cryptocurrency price action far more […] The post Why Bitcoin’s move…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b740d85a85337d8018e6"
+    },
+    {
       "title": "Product DNA testing: How features inherit traits from parent products",
       "url": "https://e27.co/product-dna-testing-how-features-inherit-traits-from-parent-products-20260704/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1451,60 +1725,70 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
+      "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-10T04:06:39+00:00",
-      "fetched_at": "2026-07-10T05:08:52+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-07-10T06:06:49+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipsos found that 76 per cent of Singapore investors surveyed use AI for finance and […] The post AI is reshaping Singapore wealth management, but not replacing the…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d3a7f5bf9b433284b569"
-    },
-    {
-      "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-10T04:01:40+00:00",
-      "fetched_at": "2026-07-10T05:08:52+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c9c40a48b1f09feb3220"
+      "id": "1814fba1aac27e253a7b"
     },
     {
-      "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
-      "url": "https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590",
+      "title": "M 4.6 - 54 km WSW of Captain Cook, Hawaii",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000056",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:22:43.713+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "DYFI? - IV Time 2026-07-10 06:17:25 UTC 2026-07-10 06:17:25 UTC at epicenter Location 19.238°N 156.358°W Depth 7.25 km (4.50 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c1c967a50eef95251d89"
+    },
+    {
+      "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
       "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-10T04:28:27+00:00",
-      "fetched_at": "2026-07-10T05:08:52+00:00",
-      "summary": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "電子処方箋の導入状況に関するダッシュボードを更新しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -1515,28 +1799,67 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3a3761d4c072f3b45fa7"
+      "id": "2b194f8277831afa5418"
     },
     {
-      "title": "AWSの強い権限は使い捨てに ── ZOZOがJITアクセスを全社導入した設計と運用 - ZOZO TECH BLOG",
-      "url": "https://techblog.zozo.com/entry/just-in-time-access-company-wide-rollout-at-zozo",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "オープンデータ伝道師一覧を更新しました",
+      "url": "https://www.digital.go.jp/resources/open_data",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-10T02:03:48+00:00",
-      "fetched_at": "2026-07-10T05:08:52+00:00",
-      "summary": "はじめに こんにちは、全社AWS管理部門の江島です。社内で利用されているAWS環境を全社横断的に管理する役割を担っています。 全社AWS管理部門では、AWSを安全に運用するために日頃からさまざまな取り組みを行っています。例えば、AWS本番環境へのアクセス管理においてIAM Identity Centerを活用し、定期的な棚卸しや申...",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "オープンデータ伝道師一覧を更新しました",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0e525c9656a406c264a9"
+      "id": "1f46fa6537e5b580d08f"
+    },
+    {
+      "title": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+      "url": "https://www.digital.go.jp/policies/digital_promotion_staff/curation",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c63a2ba9377f2a4662ef"
+    },
+    {
+      "title": "Why Bitcoin’s move to US$63K has nothing to do with crypto and everything to do with Iran",
+      "url": "https://e27.co/why-bitcoins-move-to-us63k-has-nothing-to-do-with-crypto-and-everything-to-do-with-iran-20260710/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-10T05:14:00+00:00",
+      "fetched_at": "2026-07-10T06:27:56+00:00",
+      "summary": "Bitcoin recently climbed 0.96 per cent to reach US$62,994.44 over the last 24 hours. This slight outperformance against a flat broader market highlights a profound shift in investor psychology. We currently witness a strong correlation between digital assets and traditional risk instruments. This dynamic proves that macroeconomic forces now dictate cryptocurrency price action far more […] The post Why Bitcoin’s move…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b740d85a85337d8018e6"
     }
   ],
   "source_errors": [],

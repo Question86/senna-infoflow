@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-10T05:09:22+00:00_
+_Generated: 2026-07-10T06:28:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `35`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-07-10T05:09:22+00:00_
 - url: https://ax.yusuke.run/
 - summary: The AI-era curl ax — fetch, discover, extract. One command.Local HTTP and HTML I/O for coding agents. One command instead of curl + throwaway Python — structured, token-cheap, capped by default, never silent.
 
-### 6. Atome’s US$88M AUB facility tests the next phase of Philippine BNPL
+### 6. AI is reshaping Singapore wealth management, but not replacing the adviser
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-07-10T06:06:49+00:00`
+- url: https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/
+- summary: Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipso…
+
+### 7. Atome’s US$88M AUB facility tests the next phase of Philippine BNPL
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-10T02:00:02+00:00`
 - url: https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/
 - summary: Atome Philippines has secured a PHP 5 billion (~US$88 million) wholesale facility from Asia United Bank, giving the digital finance platform local-currency funding to expand its consumer credit business in one of Southeast Asia’s most underbanked large market…
 
-### 7. 米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞
+### 8. 米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-07-09T22:46:07+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/
 - summary: 【ニューヨーク=内山瑞貴】米国企業の間で中国製の人工知能（AI）の利用が広がっている。米高性能AIの1%程度の料金で使えるモデルもあることから乗り換えが進み、特に業務ソフトにAIを組み込む際などに使うサービス「オープンルーター」では中国AI利用率が50%に迫っている。各社のAIモデルを自由に切り替えて使える「オ...
-
-### 8. Corporate travel in Southeast Asia was never broken, it was never built
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-07-10T02:45:50+00:00`
-- url: https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/
-- summary: It was a Sunday afternoon. A founder I know, running a company with 100 employees, revenue above US$50 million, was mid-pickleball when a message arrived: “Can you speak at our conference Tuesday morning?” He agreed. The conference was two flights away. What…
 
 END OF DOCUMENT
