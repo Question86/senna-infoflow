@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-10T03:01:10Z",
+  "generated_at": "2026-07-10T04:35:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデート（2026年7月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91295052/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-10T11:00:15+09:00",
-      "age_days": 0.04,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -35,11 +35,37 @@
       "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
     },
     {
+      "title": "How creativity, commerce and AI collide in mid-2026 marketing mix",
+      "url": "https://e27.co/how-creativity-commerce-and-ai-collide-in-mid-2026-marketing-mix-20260709/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-10T02:45:32+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "Mid-2026 has been a turning point for marketing. Technology, commerce and creative craft are jostling for equal billing, and the conversation has shifted from “what’s possible” to “what actually moves the business.” Below are the trends that are reshaping how brands plan, produce and prove marketing impact this year.…"
+    },
+    {
       "title": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-10T02:28:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -67,7 +93,7 @@
       "url": "https://jvn.jp/vu/JVNVU94281476/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-10T11:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -92,7 +118,7 @@
       "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T01:00:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -118,7 +144,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 21.04,
+      "age_days": 21.11,
       "topics": [
         "ai"
       ],
@@ -137,7 +163,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -0.0 for 21.0d old signal",
+        "aging penalty -0.0 for 21.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -146,8 +172,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-10T02:28:22+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-07-10T03:47:29+00:00",
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro",
@@ -176,7 +202,7 @@
       "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T01:12:04+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -204,7 +230,7 @@
       "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T02:15:37+00:00",
-      "age_days": 0.03,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -230,7 +256,7 @@
       "url": "https://e27.co/recommerce-now-half-of-carousells-biz-is-classifieds-being-quietly-phased-out-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T01:00:39+00:00",
-      "age_days": 0.08,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -251,11 +277,37 @@
       "summary": "Thirteen years after launching as an upstart classifieds app, Carousell Group has finally hit positive EBITDA. FY25 revenue climbed 18 per cent to US$141 million, nearly tripling since FY21. At the same time, recommerce, the company’s resale-and-trade-in engine, grew 40 per cent to become 45 per cent of total revenue.…"
     },
     {
+      "title": "Corporate travel in Southeast Asia was never broken, it was never built",
+      "url": "https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-10T02:45:50+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "It was a Sunday afternoon. A founder I know, running a company with 100 employees, revenue above US$50 million, was mid-pickleball when a message arrived: “Can you speak at our conference Tuesday morning?” He agreed. The conference was two flights away. What followed was two and a half hours across six browser tabs. F…"
+    },
+    {
       "title": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-10T02:28:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -275,57 +327,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI editors - while using host clien…"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260710-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-07-10T02:05:09+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "松本大臣記者会見（令和8年7月10日）動画を掲載しました"
-    },
-    {
-      "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
-      "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-10T02:00:02+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Atome Philippines has secured a PHP 5 billion (~US$88 million) wholesale facility from Asia United Bank, giving the digital finance platform local-currency funding to expand its consumer credit business in one of Southeast Asia’s most underbanked large markets. The facility will mainly support the Atome PayLater Anywh…"
     }
   ],
   "read_order": [
@@ -337,9 +338,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 1,
-      "quiet": 2
+      "strong": 11,
+      "watch": 1
     }
   }
 }
