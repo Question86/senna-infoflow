@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T15:35:11+00:00",
+  "generated_at": "2026-07-10T16:27:48+00:00",
   "topics": {
     "ai": [
       {
@@ -305,6 +305,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      {
+        "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-10T15:57:47+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"
       },
       {
         "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",

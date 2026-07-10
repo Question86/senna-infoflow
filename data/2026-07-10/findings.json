@@ -1182,6 +1182,28 @@
     "id": "c1c967a50eef95251d89"
   },
   {
+    "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+    "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-10T15:57:47+00:00",
+    "fetched_at": "2026-07-10T16:27:12+00:00",
+    "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c55e9ddab7ad19cbc52d"
+  },
+  {
     "title": "Corporate travel in Southeast Asia was never broken, it was never built",
     "url": "https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/",
     "source": "e27 Asia Startup and Tech Feed",
