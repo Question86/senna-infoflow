@@ -596,6 +596,43 @@
     "id": "c2d903c44a34ba816db7"
   },
   {
+    "title": "M 4.7 - 98 km WSW of Labuan, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szla",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-10T23:31:45.040+00:00",
+    "fetched_at": "2026-07-10T23:48:25+00:00",
+    "summary": "Time 2026-07-10 22:59:34 UTC 2026-07-10 22:59:34 UTC at epicenter Location 6.800°S 105.043°E Depth 31.05 km (19.29 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "536bc5a4214b09bf0344"
+  },
+  {
     "title": "Loop Engineeringで失敗しないためのハーネス設計",
     "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1900,6 +1937,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c5935a2dce99283fe955"
+  },
+  {
+    "title": "ミズノ、「ピックルボール」市場に参入 競技人口7倍に拡大",
+    "url": "https://www.watch.impress.co.jp/docs/news/2124158.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T06:37:38+00:00",
+    "fetched_at": "2026-07-10T23:48:25+00:00",
+    "summary": "ミズノ、「ピックルボール」市場に参入 競技人口7倍に拡大",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa56a0469f663fd9d96f"
   },
   {
     "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
