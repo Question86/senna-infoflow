@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-10T03:47:41+00:00_
+_Generated: 2026-07-10T05:09:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `29`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-10T03:47:41+00:00_
 - url: https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/
 - summary: Across Southeast Asia, healthcare systems are facing mounting pressure. In Singapore, an ageing population is driving a sharp rise in chronic disease management and long-term care demand. In Malaysia, the ongoing migration of healthcare professionals overseas…
 
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-07-10T11:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU94281476/
-- summary: 2026年07月09日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+### 4. [UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-07-10T04:06:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.
 
 ### 5. ax — the AI-era curl
 - source: Hatena Bookmark Hotentry IT

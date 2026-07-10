@@ -100,6 +100,30 @@
     "id": "9f9797ebc809038bebcd"
   },
   {
+    "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T04:06:39+00:00",
+    "fetched_at": "2026-07-10T05:08:52+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3a7f5bf9b433284b569"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
     "url": "https://jvn.jp/vu/JVNVU94281476/",
     "source": "JVN Japan Vulnerability Notes",
@@ -237,6 +261,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0fcbd4676ca424fa953a"
+  },
+  {
+    "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T04:01:40+00:00",
+    "fetched_at": "2026-07-10T05:08:52+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c9c40a48b1f09feb3220"
   },
   {
     "title": "ax — the AI-era curl",
@@ -477,6 +524,26 @@
     "id": "805f2da60d361d45078d"
   },
   {
+    "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
+    "url": "https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-10T04:28:27+00:00",
+    "fetched_at": "2026-07-10T05:08:52+00:00",
+    "summary": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3a3761d4c072f3b45fa7"
+  },
+  {
     "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-260710-01",
     "source": "Japan Digital Agency News RSS",
@@ -535,6 +602,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "66cb6e809df402e699b9"
+  },
+  {
+    "title": "AWSの強い権限は使い捨てに ── ZOZOがJITアクセスを全社導入した設計と運用 - ZOZO TECH BLOG",
+    "url": "https://techblog.zozo.com/entry/just-in-time-access-company-wide-rollout-at-zozo",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T02:03:48+00:00",
+    "fetched_at": "2026-07-10T05:08:52+00:00",
+    "summary": "はじめに こんにちは、全社AWS管理部門の江島です。社内で利用されているAWS環境を全社横断的に管理する役割を担っています。 全社AWS管理部門では、AWSを安全に運用するために日頃からさまざまな取り組みを行っています。例えば、AWS本番環境へのアクセス管理においてIAM Identity Centerを活用し、定期的な棚卸しや申...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0e525c9656a406c264a9"
   },
   {
     "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T03:47:41+00:00",
+  "generated_at": "2026-07-10T05:09:22+00:00",
   "topics": {
     "ai": [
       {
@@ -135,6 +135,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T04:06:39+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-10T11:00:00+09:00",
@@ -149,11 +156,27 @@
         "url": "https://jvn.jp/vu/JVNVU91295052/"
       },
       {
+        "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T04:01:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048"
+      },
+      {
         "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-10T02:15:37+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T04:06:39+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976"
       }
     ],
     "github": [
@@ -207,6 +230,13 @@
         "published_at": "2026-07-10T02:05:09+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260710-01"
+      },
+      {
+        "title": "AWSの強い権限は使い捨てに ── ZOZOがJITアクセスを全社導入した設計と運用 - ZOZO TECH BLOG",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T02:03:48+00:00",
+        "relevance_score": 5,
+        "url": "https://techblog.zozo.com/entry/just-in-time-access-company-wide-rollout-at-zozo"
       },
       {
         "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",

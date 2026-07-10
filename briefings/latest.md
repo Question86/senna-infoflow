@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T03:47:41+00:00_
+_Generiert: 2026-07-10T05:09:22+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+7.5); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
   - Kurz: Across Southeast Asia, healthcare systems are facing mounting pressure. In Singapore, an ageing population is driving a sharp rise in chronic disease management and long-term care demand. In Malaysia, the ongoing migration of healthcare professionals overseas continues to strain both public and private hospitals. Across the region, clinics are handling higher patient volumes with limited […] The post Why patient int…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation** — Score 18, risk — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-10T04:06:39+00:00`, fetched `2026-07-10T05:08:52+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU94281476/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-10T11:00:00+09:00`, fetched `2026-07-10T02:28:01+00:00`
@@ -124,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Siemensから各製品向けのアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-10T04:01:40+00:00`, fetched `2026-07-10T05:08:52+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -190,6 +208,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote awesome (x0.45)
   - Kurz: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. Curated collection of DESIGN.md analysis by developer focused websites. Awesome DESIGN.md Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language. B…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-10T04:28:27+00:00`, fetched `2026-07-10T05:08:52+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年7月10日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260710-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-10T02:05:09+00:00`, fetched `2026-07-10T02:28:01+00:00`
@@ -207,15 +234,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ガバメントAI「源内」商標およびブランドガイドラインを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-10T00:33:11+00:00`, fetched `2026-07-10T00:56:25+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ガバメントAI「源内」商標およびブランドガイドラインを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
