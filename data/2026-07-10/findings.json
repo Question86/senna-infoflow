@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-10T11:10:41+00:00",
-    "fetched_at": "2026-07-10T11:10:23+00:00",
+    "published_at": "2026-07-10T13:43:25+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "8d87262cad9b68902f73"
+    "id": "097be9330b4eb7b97b39"
   },
   {
     "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
@@ -837,6 +837,28 @@
     "id": "c9c40a48b1f09feb3220"
   },
   {
+    "title": "Korea’s startup ecosystem is training founders, not just funding them",
+    "url": "https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T11:28:10+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
+    "summary": "Startup ecosystems teach founders what progress looks like. The question is whether they teach founders to become better at navigating the ecosystem, or better at building companies that can survive outside it. Few countries illustrate this more clearly than South Korea. Over the past two decades, Korea has built an extensive, publicly backed startup support […] The post Korea’s startup ecosystem is training founder…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder",
+      "funding"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.5); funding (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "71f972cc1a7c5a7ccdcf"
+  },
+  {
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "url": "https://openai.com/index/deutsche-telekom",
     "source": "OpenAI News RSS",
@@ -1065,6 +1087,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d2aec0cd56bd8b5e84a3"
+  },
+  {
+    "title": "Older adults know AI is slop. They just like it",
+    "url": "https://restofworld.org/2026/china-seniors-ai-slop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T13:00:00+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
+    "summary": "AI-generated singers, children, and even virtual lovers are providing seniors with comfort and companionship.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c54b4f76dd340ade85ff"
+  },
+  {
+    "title": "Global exposure isn’t global readiness: What Asian startups must prove before expanding",
+    "url": "https://e27.co/global-exposure-isnt-global-readiness-what-asian-startups-must-prove-before-expanding-20260710/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T11:39:35+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
+    "summary": "For many startups across Asia, international expansion begins with excitement. An overseas exhibition, government-backed delegation, foreign investor meeting, or promising distributor conversation can make global growth feel suddenly within reach. These opportunities matter. They can open doors that would otherwise take years to access. They help founders meet potential partners, understand unfamiliar markets, and s…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33a7b7539543b1277bf2"
   },
   {
     "title": "「メールが届かなくても仕方ない」を普通にしませんか",
@@ -1335,6 +1398,27 @@
     "id": "66cb6e809df402e699b9"
   },
   {
+    "title": "安いエアコンが消える？ 「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T09:25:47+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
+    "summary": "2027年4月から適用される新しい省エネ基準により、安いエアコンが売り場から消えるのではないかと話題になっている、いわゆる「エアコン2027年問題」。資源エネルギー庁は「基準値を満たさない製品の製造・出荷を禁止するものではない」としているが、実際のところメーカーは安価なエアコンを作り続けられるのだろうか。...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ca8b049f9617c1055c8"
+  },
+  {
     "title": "「熱中症っぽいとき、AIに頼るのは危ないので病院行け」実際にAIに丸投げしてアドバイスを実行した結果、病院で点滴2本打った人の顛末記",
     "url": "https://togetter.com/li/2719026",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1375,6 +1459,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5e97946ca3bb01d874bb"
+  },
+  {
+    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
+    "url": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T03:47:12+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
+    "summary": "TL;DR メールの受信は Cloudflare Email Routing メールの送信は Cloudflare Email Sending メールの閲覧・作成には普段使っているGmailを利用 CloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！ 独自ドメインのメールアドレスにお金かけたくない問題 個人開発をやっているとポコポコ独...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a27ea8c824e95890df1"
   },
   {
     "title": "Windows Defenderにディスクを食い潰す穴が発見される",
@@ -1480,6 +1585,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7824695ed05ef44d1b54"
+  },
+  {
+    "title": "【無料】 ObsidianはAIの記憶保管には向いていない｜松濤Vimmer",
+    "url": "https://note.com/shotovim/n/n40164f5b555c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T17:34:15+00:00",
+    "fetched_at": "2026-07-10T13:43:05+00:00",
+    "summary": "AI活用で一番効くのは、細かいTipsを知っていることよりも、あとからAIに渡せる文脈がどれだけ残っているかなんじゃないか、ということです。 AIの長期記憶や会話の保存、Obsidianのvaultに置くより独自のシステムを組んだほうがAI親和性が高い。 Gizmodoの動画でも言われたけどvaultは人間向けのノートで、AIが毎回読む...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e9075fb53ff78daed5c4"
   },
   {
     "title": "Why Bitcoin’s move to US$63K has nothing to do with crypto and everything to do with Iran",

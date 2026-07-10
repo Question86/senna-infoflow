@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-10T11:10:52+00:00_
+_Generated: 2026-07-10T13:43:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `71`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-10T11:10:41+00:00`
+- published: `2026-07-10T13:43:25+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-10T11:10:52+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.
 
-### 5. How Deutsche Telekom is rewiring telecommunications with AI
+### 5. Korea’s startup ecosystem is training founders, not just funding them
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-07-10T11:28:10+00:00`
+- url: https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/
+- summary: Startup ecosystems teach founders what progress looks like. The question is whether they teach founders to become better at navigating the ecosystem, or better at building companies that can survive outside it. Few countries illustrate this more clearly than…
+
+### 6. How Deutsche Telekom is rewiring telecommunications with AI
 - source: OpenAI News RSS
 - score: `11`
 - published: `2026-07-10T07:00:00+00:00`
 - url: https://openai.com/index/deutsche-telekom
 - summary: How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
 
-### 6. ax — the AI-era curl
+### 7. ax — the AI-era curl
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-07-09T23:18:58+00:00`
 - url: https://ax.yusuke.run/
 - summary: The AI-era curl ax — fetch, discover, extract. One command.Local HTTP and HTML I/O for coding agents. One command instead of curl + throwaway Python — structured, token-cheap, capped by default, never silent.
 
-### 7. AI is reshaping Singapore wealth management, but not replacing the adviser
+### 8. AI is reshaping Singapore wealth management, but not replacing the adviser
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-10T06:06:49+00:00`
 - url: https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/
 - summary: Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipso…
-
-### 8. Atome’s US$88M AUB facility tests the next phase of Philippine BNPL
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-10T02:00:02+00:00`
-- url: https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/
-- summary: Atome Philippines has secured a PHP 5 billion (~US$88 million) wholesale facility from Asia United Bank, giving the digital finance platform local-currency funding to expand its consumer credit business in one of Southeast Asia’s most underbanked large market…
 
 END OF DOCUMENT

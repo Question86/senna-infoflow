@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T11:10:52+00:00_
+_Generiert: 2026-07-10T13:43:37+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+71 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-10T11:10:41+00:00`, fetched `2026-07-10T11:10:23+00:00`
+  - Zeit: published `2026-07-10T13:43:25+00:00`, fetched `2026-07-10T13:43:05+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Korea’s startup ecosystem is training founders, not just funding them** — Score 12, observation — [Quelle](https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-10T11:28:10+00:00`, fetched `2026-07-10T13:43:05+00:00`
+  - Treffer: APAC Trend Radar, founder, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); funding (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)
+  - Kurz: Startup ecosystems teach founders what progress looks like. The question is whether they teach founders to become better at navigating the ecosystem, or better at building companies that can survive outside it. Few countries illustrate this more clearly than South Korea. Over the past two decades, Korea has built an extensive, publicly backed startup support […] The post Korea’s startup ecosystem is training founder…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Deutsche Telekom is rewiring telecommunications with AI** — Score 11, observation — [Quelle](https://openai.com/index/deutsche-telekom)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-10T07:00:00+00:00`, fetched `2026-07-10T10:03:24+00:00`
@@ -177,15 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-07-10 06:17:25 UTC 2026-07-10 06:17:25 UTC at epicenter Location 19.238°N 156.358°W Depth 7.25 km (4.50 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Corporate travel in Southeast Asia was never broken, it was never built** — Score 8, opportunity — [Quelle](https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-10T02:45:50+00:00`, fetched `2026-07-10T03:47:09+00:00`
-  - Treffer: APAC Trend Radar, founder, Southeast Asia
+- **Older adults know AI is slop. They just like it** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-seniors-ai-slop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-10T13:00:00+00:00`, fetched `2026-07-10T13:43:05+00:00`
+  - Treffer: AI/KI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
-  - Kurz: It was a Sunday afternoon. A founder I know, running a company with 100 employees, revenue above US$50 million, was mid-pickleball when a message arrived: “Can you speak at our conference Tuesday morning?” He agreed. The conference was two flights away. What followed was two and a half hours across six browser tabs. Flight aggregators. […] The post Corporate travel in Southeast Asia was never broken, it was never bu…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: AI-generated singers, children, and even virtual lovers are providing seniors with comfort and companionship.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「メールが届かなくても仕方ない」を普通にしませんか** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-10T07:44:25+00:00`, fetched `2026-07-10T10:03:24+00:00`

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-10T11:10:52+00:00",
+  "generated_at": "2026-07-10T13:43:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 7,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 32,
-    "observe": 33
+    "observe": 39
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-10T11:10:41+00:00",
+      "published_at": "2026-07-10T13:43:25+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Korea’s startup ecosystem is training founders, not just funding them",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-10T11:28:10+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/",
+      "summary": "Startup ecosystems teach founders what progress looks like. The question is whether they teach founders to become better at navigating the ecosystem, or better at building companies that can survive outside it. Few countries illustrate this more clearly than…",
+      "section": "observe"
+    },
+    {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "source": "OpenAI News RSS",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
       "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipso…",
       "section": "observe"
-    },
-    {
-      "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-10T02:00:02+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/",
-      "summary": "Atome Philippines has secured a PHP 5 billion (~US$88 million) wholesale facility from Asia United Bank, giving the digital finance platform local-currency funding to expand its consumer credit business in one of Southeast Asia’s most underbanked large market…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “iOfficeAI/OfficeCLI” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "iOfficeAI/OfficeCLI",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-10T02:28:01+00:00",
-        "age_days": 0.44,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. OfficeCLI OfficeCLI is the world's first and the best Office suite designed for AI agents. Give any AI agent full co…"
-      },
-      {
-        "title": "[NEU] [mittel] Samsung Android: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2275",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T10:56:39+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2063",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T08:16:40+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1439",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T07:27:19+00:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (LibRaw) ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [mittel] DENX U-Boot: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und DoS",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2276",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T11:06:39+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer mit physischem Zugriff kann mehrere Schwachstellen in DENX U-Boot ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen und einen Denial-of-Service-Zustand auszulösen."
-      }
-    ]
-  }
+  ]
 }
