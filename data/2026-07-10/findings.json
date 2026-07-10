@@ -1,5 +1,40 @@
 [
   {
+    "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
+    "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T01:12:04+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "The fraud officer I sat with in Yogyakarta last month had spent eleven years catching counterfeit invoices, suspicious wire transfers, and informal collusion patterns at a regional bank’s branch network. She is exceptionally good at her job. She has also spent the last three weeks trying to learn how to detect a deepfake — and […] The post The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN insti…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Content-Chance",
+      "Reputationsrisiko",
+      "Watchgraph:narrative_social_reputation"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "narrative_social_reputation"
+    ],
+    "watchgraph_reasons": [
+      "narrative_social_reputation: deepfake"
+    ],
+    "market_context": [
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "58e8f586d6e53a903ed7"
+  },
+  {
     "title": "Updates | ReliefWeb",
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
@@ -42,6 +77,72 @@
     "id": "3b9ff22c75b43139086d"
   },
   {
+    "title": "Why patient intake is becoming healthcare’s most important AI use case",
+    "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T01:00:15+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "Across Southeast Asia, healthcare systems are facing mounting pressure. In Singapore, an ageing population is driving a sharp rise in chronic disease management and long-term care demand. In Malaysia, the ongoing migration of healthcare professionals overseas continues to strain both public and private hospitals. Across the region, clinics are handling higher patient volumes with limited […] The post Why patient int…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Produktidee",
+      "Southeast Asia"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+7.5); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9f9797ebc809038bebcd"
+  },
+  {
+    "title": "米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T22:46:07+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "【ニューヨーク=内山瑞貴】米国企業の間で中国製の人工知能（AI）の利用が広がっている。米高性能AIの1%程度の料金で使えるモデルもあることから乗り換えが進み、特に業務ソフトにAIを組み込む際などに使うサービス「オープンルーター」では中国AI利用率が50%に迫っている。各社のAIモデルを自由に切り替えて使える「オ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa2a8cf14dde59dae65c"
+  },
+  {
+    "title": "メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T22:25:27+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "【シリコンバレー=山田航平】米メタはSNS「インスタグラム」の仕様を変更し、投稿画像を使って他人がAI画像を合成できる機能を標準搭載した。無断使用を拒否しない限りAIが勝手に素材として利用し続ける「オプトアウト方式」を採用し、有名人などから反発を招いている。メタは7日、画像生成に特化した生成AIモデル「Muse...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d45e40e311977c0b0b89"
+  },
+  {
     "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
     "url": "https://www.digital.go.jp/",
     "source": "Japan Digital Agency News RSS",
@@ -82,6 +183,27 @@
     "id": "66cb6e809df402e699b9"
   },
   {
+    "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",
+    "url": "https://ics.media/entry/260709/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T23:49:29+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "テキスト演出では、見た目だけでなく読み上げや選択、コピーへの影響などアクセシビリティにも注意が必要です。元のテキストが読み取りやすい構造で残るか、装飾のための文字が選択やコピーの邪魔にならないかを確認しておくと安心です。 slot-text slot-textは、短いUIラベルをスロットのように切り替えるライブラリで...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6a1657baa9f7bbfd41d"
+  },
+  {
     "title": "官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱",
     "url": "https://forest.watch.impress.co.jp/docs/news/2123857.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -101,5 +223,45 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7824695ed05ef44d1b54"
+  },
+  {
+    "title": "Product DNA testing: How features inherit traits from parent products",
+    "url": "https://e27.co/product-dna-testing-how-features-inherit-traits-from-parent-products-20260704/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T01:00:54+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "Product teams like to talk about features as if each one begins with a fresh question. A need appears, a team investigates it, a decision gets made, and a new capability is brought into the world through careful judgement. That is the official version. The real version is messier and more revealing. Most features are […] The post Product DNA testing: How features inherit traits from parent products appeared first on…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "64c93c791f6b2405509f"
+  },
+  {
+    "title": "Recommerce now half of Carousell’s biz: Is classifieds being quietly phased out?",
+    "url": "https://e27.co/recommerce-now-half-of-carousells-biz-is-classifieds-being-quietly-phased-out-20260709/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-10T01:00:39+00:00",
+    "fetched_at": "2026-07-10T01:34:04+00:00",
+    "summary": "Thirteen years after launching as an upstart classifieds app, Carousell Group has finally hit positive EBITDA. FY25 revenue climbed 18 per cent to US$141 million, nearly tripling since FY21. At the same time, recommerce, the company’s resale-and-trade-in engine, grew 40 per cent to become 45 per cent of total revenue. The group now runs 29 […] The post Recommerce now half of Carousell’s biz: Is classifieds being qui…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3df810c5006a312bb4dc"
   }
 ]

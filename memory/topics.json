@@ -1,15 +1,43 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T00:56:55+00:00",
+  "generated_at": "2026-07-10T01:34:33+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:12:04+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
+      },
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "published_at": "2026-07-10T00:07:29+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Why patient intake is becoming healthcare’s most important AI use case",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:00:15+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/"
+      },
+      {
+        "title": "米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T22:46:07+00:00",
+        "relevance_score": 10,
+        "url": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/"
+      },
+      {
+        "title": "メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T22:25:27+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/"
       },
       {
         "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
@@ -24,15 +52,45 @@
         "published_at": "2026-07-10T00:33:11+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/genai"
+      },
+      {
+        "title": "Product DNA testing: How features inherit traits from parent products",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:00:54+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/product-dna-testing-how-features-inherit-traits-from-parent-products-20260704/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:12:04+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
       }
     ],
     "general": [
+      {
+        "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T23:49:29+00:00",
+        "relevance_score": 5,
+        "url": "https://ics.media/entry/260709/"
+      },
       {
         "title": "官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-09T23:48:40+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/news/2123857.html"
+      },
+      {
+        "title": "Recommerce now half of Carousell’s biz: Is classifieds being quietly phased out?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:00:39+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/recommerce-now-half-of-carousells-biz-is-classifieds-being-quietly-phased-out-20260709/"
       }
     ]
   }
