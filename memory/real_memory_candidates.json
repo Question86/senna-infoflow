@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-10T08:38:29Z",
+  "generated_at": "2026-07-10T09:55:58Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -28,37 +28,37 @@
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[NEU] [mittel] MISP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[NEU] [hoch] RabbitMQ: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Vercel Next.js: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Schwachstelle ermöglicht Offenlegung von Informationen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }
