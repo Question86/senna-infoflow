@@ -147,6 +147,54 @@
     "id": "7f633a1e5cb57e69d57b"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1439",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T07:27:19+00:00",
+    "fetched_at": "2026-07-10T07:45:41+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (LibRaw) ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b671d604fdc83810c9f1"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1409",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T07:27:18+00:00",
+    "fetched_at": "2026-07-10T07:45:41+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libsoup) ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4cca91d746da2f3b33a7"
+  },
+  {
     "title": "wonderwhy-er/DesktopCommanderMCP",
     "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -261,6 +309,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0fcbd4676ca424fa953a"
+  },
+  {
+    "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1437",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T07:27:19+00:00",
+    "fetched_at": "2026-07-10T07:45:41+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "539a265856368fb76d41"
+  },
+  {
+    "title": "[UPDATE] [hoch] Vercel Next.js: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1401",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T07:27:17+00:00",
+    "fetched_at": "2026-07-10T07:45:41+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Vercel Next.js ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4d5218372dd0ea807dc7"
+  },
+  {
+    "title": "[UPDATE] [mittel] Netty: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1372",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-10T07:27:16+00:00",
+    "fetched_at": "2026-07-10T07:45:41+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "060c68158624fc428ed3"
   },
   {
     "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
@@ -719,6 +836,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "66cb6e809df402e699b9"
+  },
+  {
+    "title": "Windows Defenderにディスクを食い潰す穴が発見される",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2124087.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T03:36:56+00:00",
+    "fetched_at": "2026-07-10T07:45:41+00:00",
+    "summary": "Windows Defenderにディスクを食い潰す穴が発見される",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d6030ec5c724185f60e"
   },
   {
     "title": "AWSの強い権限は使い捨てに ── ZOZOがJITアクセスを全社導入した設計と運用 - ZOZO TECH BLOG",

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-10T06:28:26+00:00",
+  "generated_at": "2026-07-10T07:46:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 6,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 9,
-    "observe": 26
+    "medium": 14,
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “iOfficeAI/OfficeCLI” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "iOfficeAI/OfficeCLI",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-10T02:28:01+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. OfficeCLI OfficeCLI is the world's first and the best Office suite designed for AI agents. Give any AI agent full co…"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T04:01:40+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T04:06:39+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen."
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月09日）",
-        "url": "https://jvn.jp/vu/JVNVU94281476/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-10T11:00:00+09:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月09日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Why patient intake is becoming healthcare’s most important AI use case",
-        "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T01:00:15+00:00",
-        "age_days": 0.27,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Across Southeast Asia, healthcare systems are facing mounting pressure. In Singapore, an ageing population is driving a sharp rise in chronic disease management and long-term care demand. In Malaysia, the ongoing migration of healthcare professionals overseas continues to strain both public and private hospitals. Acro…"
-      }
-    ]
-  }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T06:28:26+00:00",
+  "generated_at": "2026-07-10T07:46:12+00:00",
   "topics": {
     "ai": [
       {
@@ -163,11 +163,46 @@
         "url": "https://jvn.jp/vu/JVNVU94281476/"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T07:27:19+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1439"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T07:27:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1409"
+      },
+      {
         "title": "Siemens製品に対するアップデート（2026年7月）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-10T11:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91295052/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T07:27:19+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1437"
+      },
+      {
+        "title": "[UPDATE] [hoch] Vercel Next.js: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T07:27:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1401"
+      },
+      {
+        "title": "[UPDATE] [mittel] Netty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-10T07:27:16+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1372"
       },
       {
         "title": "[UPDATE] [kritisch] Flowise: Mehrere Schwachstellen",
@@ -265,6 +300,13 @@
         "published_at": "2026-07-10T02:05:09+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260710-01"
+      },
+      {
+        "title": "Windows Defenderにディスクを食い潰す穴が発見される",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T03:36:56+00:00",
+        "relevance_score": 5,
+        "url": "https://pc.watch.impress.co.jp/docs/news/2124087.html"
       },
       {
         "title": "AWSの強い権限は使い捨てに ── ZOZOがJITアクセスを全社導入した設計と運用 - ZOZO TECH BLOG",
