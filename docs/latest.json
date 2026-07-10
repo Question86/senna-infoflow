@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T23:03:54+00:00",
-  "run_id": "2026-07-10T23:03:54+00:00",
+  "generated_at": "2026-07-10T23:27:36+00:00",
+  "run_id": "2026-07-10T23:27:36+00:00",
   "date": "2026-07-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 89
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 89,
-    "displayed_findings": 89,
+    "new_relevant_findings": 2,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 0,
-    "medium": 36,
+    "medium": 37,
     "observe": 53,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-10T13:43:25+00:00",
-        "fetched_at": "2026-07-10T13:43:05+00:00",
+        "published_at": "2026-07-10T23:27:25+00:00",
+        "fetched_at": "2026-07-10T23:27:08+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "097be9330b4eb7b97b39"
+        "id": "09f619457c6daa285ba5"
       },
       {
         "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
@@ -624,6 +624,30 @@
           "PINS"
         ],
         "id": "c2d903c44a34ba816db7"
+      },
+      {
+        "title": "Loop Engineeringで失敗しないためのハーネス設計",
+        "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T15:09:34+00:00",
+        "fetched_at": "2026-07-10T23:27:08+00:00",
+        "summary": "「動きました！」（動いてない） 「全テストパスしました！」（通るように書いたテストが、通っただけ） 「完了しました ✅」（何も完了していない） AI coding agent を業務で使っている人なら、どれか一つは見覚えがあるはずです。私は全部、見覚えがあります。これは個人の体験談だけの話でもありません。 Claude Cod...",
+        "matched_keywords": [
+          "agent",
+          "AI/KI",
+          "Automatisierung",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.0); Automatisierung (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c161e196bad248825ee1"
       },
       {
         "title": "M 4.9 - 96 km SW of Abepura, Indonesia",
@@ -2165,8 +2189,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-10T13:43:25+00:00",
-      "fetched_at": "2026-07-10T13:43:05+00:00",
+      "published_at": "2026-07-10T23:27:25+00:00",
+      "fetched_at": "2026-07-10T23:27:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2200,7 +2224,7 @@
         "HD",
         "LOW"
       ],
-      "id": "097be9330b4eb7b97b39"
+      "id": "09f619457c6daa285ba5"
     },
     {
       "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
@@ -2755,6 +2779,30 @@
         "PINS"
       ],
       "id": "c2d903c44a34ba816db7"
+    },
+    {
+      "title": "Loop Engineeringで失敗しないためのハーネス設計",
+      "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T15:09:34+00:00",
+      "fetched_at": "2026-07-10T23:27:08+00:00",
+      "summary": "「動きました！」（動いてない） 「全テストパスしました！」（通るように書いたテストが、通っただけ） 「完了しました ✅」（何も完了していない） AI coding agent を業務で使っている人なら、どれか一つは見覚えがあるはずです。私は全部、見覚えがあります。これは個人の体験談だけの話でもありません。 Claude Cod...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Automatisierung",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); Automatisierung (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c161e196bad248825ee1"
     },
     {
       "title": "M 4.9 - 96 km SW of Abepura, Indonesia",
@@ -4287,7 +4335,74 @@
       "id": "a1832104ed49703426c9"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-10T23:27:25+00:00",
+      "fetched_at": "2026-07-10T23:27:08+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "09f619457c6daa285ba5"
+    },
+    {
+      "title": "Loop Engineeringで失敗しないためのハーネス設計",
+      "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T15:09:34+00:00",
+      "fetched_at": "2026-07-10T23:27:08+00:00",
+      "summary": "「動きました！」（動いてない） 「全テストパスしました！」（通るように書いたテストが、通っただけ） 「完了しました ✅」（何も完了していない） AI coding agent を業務で使っている人なら、どれか一つは見覚えがあるはずです。私は全部、見覚えがあります。これは個人の体験談だけの話でもありません。 Claude Cod...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Automatisierung",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); Automatisierung (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c161e196bad248825ee1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
