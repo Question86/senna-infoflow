@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T21:02:11+00:00",
-  "run_id": "2026-07-10T21:02:11+00:00",
+  "generated_at": "2026-07-10T21:30:16+00:00",
+  "run_id": "2026-07-10T21:30:16+00:00",
   "date": "2026-07-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 1,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 35,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -1095,6 +1095,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3b9c80f07fd4f85678a5"
+      },
+      {
+        "title": "「Windows」PCにサードパーティー製ウイルス対策ソフトはまだ必要か",
+        "url": "https://japan.zdnet.com/article/35250124/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T07:48:01+00:00",
+        "fetched_at": "2026-07-10T21:29:45+00:00",
+        "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftの誰かが4月、「Windows Learning Center」で文書を公開し、全く異論の余地のない主張を示した。「多くの『Windows 11』ユーザーにとって、『Microsoft Defender Anti...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9edfc850fcd2f1869814"
       },
       {
         "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
@@ -3158,6 +3180,28 @@
       "id": "3b9c80f07fd4f85678a5"
     },
     {
+      "title": "「Windows」PCにサードパーティー製ウイルス対策ソフトはまだ必要か",
+      "url": "https://japan.zdnet.com/article/35250124/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T07:48:01+00:00",
+      "fetched_at": "2026-07-10T21:29:45+00:00",
+      "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftの誰かが4月、「Windows Learning Center」で文書を公開し、全く異論の余地のない主張を示した。「多くの『Windows 11』ユーザーにとって、『Microsoft Defender Anti...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9edfc850fcd2f1869814"
+    },
+    {
       "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
       "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -4153,48 +4197,26 @@
   ],
   "new_findings": [
     {
-      "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "source": "GitHub Changelog Atom",
+      "title": "「Windows」PCにサードパーティー製ウイルス対策ソフトはまだ必要か",
+      "url": "https://japan.zdnet.com/article/35250124/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-10T20:40:56+00:00",
-      "fetched_at": "2026-07-10T21:01:40+00:00",
-      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.0, which adds support for Kotlin 2.4.0,… The post CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection appeared first on The GitHub Blog .",
+      "published_at": "2026-07-10T07:48:01+00:00",
+      "fetched_at": "2026-07-10T21:29:45+00:00",
+      "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftの誰かが4月、「Windows Learning Center」で文書を公開し、全く異論の余地のない主張を示した。「多くの『Windows 11』ユーザーにとって、『Microsoft Defender Anti...",
       "matched_keywords": [
-        "AI/KI",
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "651a0f39aec1bf642212"
-    },
-    {
-      "title": "Clearer names for secret scanning detector types",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-10T20:06:10+00:00",
-      "fetched_at": "2026-07-10T21:01:40+00:00",
-      "summary": "To make secret scanning easier to understand, we’re updating the names we use for our detector types to better reflect how each one finds secrets. This is a naming change… The post Clearer names for secret scanning detector types appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba42224f1b789affd3d1"
+      "id": "9edfc850fcd2f1869814"
     }
   ],
   "source_errors": [],

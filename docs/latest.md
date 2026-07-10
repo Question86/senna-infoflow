@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T21:02:11+00:00_
+_Generiert: 2026-07-10T21:30:16+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「Windows」PCにサードパーティー製ウイルス対策ソフトはまだ必要か** — Score 10, observation — [Quelle](https://japan.zdnet.com/article/35250124/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-10T07:48:01+00:00`, fetched `2026-07-10T21:29:45+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftの誰かが4月、「Windows Learning Center」で文書を公開し、全く異論の余地のない主張を示した。「多くの『Windows 11』ユーザーにとって、『Microsoft Defender Anti...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI is reshaping Singapore wealth management, but not replacing the adviser** — Score 10, observation — [Quelle](https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-10T06:06:49+00:00`, fetched `2026-07-10T06:27:56+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Per-user states for multi-user budgets in the REST API** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-10T15:07:23+00:00`, fetched `2026-07-10T18:53:08+00:00`
-  - Treffer: GitHub, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Public Health (+5.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: You can now retrieve every user’s progress against a multi-user budget from a single REST API endpoint. This makes it much faster to find who is close to their limit… The post Per-user states for multi-user budgets in the REST API appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
