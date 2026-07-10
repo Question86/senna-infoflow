@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T18:20:10+00:00_
+_Generiert: 2026-07-10T18:53:40+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -271,6 +271,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - west of Macquarie Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-10T18:46:29.040+00:00`, fetched `2026-07-10T18:53:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-10 18:26:44 UTC 2026-07-10 18:26:44 UTC at epicenter Location 53.169°S 140.361°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 123 km SSW of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szg8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-10T14:20:18.040+00:00`, fetched `2026-07-10T14:39:52+00:00`
@@ -298,6 +307,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Per-user states for multi-user budgets in the REST API** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-10T15:07:23+00:00`, fetched `2026-07-10T18:53:08+00:00`
+  - Treffer: GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now retrieve every user’s progress against a multi-user budget from a single REST API endpoint. This makes it much faster to find who is close to their limit… The post Per-user states for multi-user budgets in the REST API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Older adults know AI is slop. They just like it** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-seniors-ai-slop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-10T13:00:00+00:00`, fetched `2026-07-10T13:43:05+00:00`
@@ -306,24 +324,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: AI-generated singers, children, and even virtual lovers are providing seniors with comfort and companionship.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「メールが届かなくても仕方ない」を普通にしませんか** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-10T07:44:25+00:00`, fetched `2026-07-10T10:03:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 筆者が最近頭を悩ませていることの1つが、親族宛てに届くフィッシング詐欺メールだ。もちろん今に始まった話ではない。ただ、メールや電話で問い合わせを受け、限られた情報を基に詐欺メールかどうかを回答する頻度が高まっている。 この記事は会員登録で続きをご覧いただけます申込は簡単3分！ 今すぐ会員登録（無料） ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VoltAgent/awesome-design-md** — Score 7, observation — [Quelle](https://github.com/VoltAgent/awesome-design-md)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-10T02:28:01+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote awesome (x0.45)
-  - Kurz: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. Curated collection of DESIGN.md analysis by developer focused websites. Awesome DESIGN.md Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language. B…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

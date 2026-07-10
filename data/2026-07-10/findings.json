@@ -1110,6 +1110,42 @@
     "id": "6feca08385ea600d41ad"
   },
   {
+    "title": "M 5.0 - west of Macquarie Island",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-10T18:46:29.040+00:00",
+    "fetched_at": "2026-07-10T18:53:08+00:00",
+    "summary": "Time 2026-07-10 18:26:44 UTC 2026-07-10 18:26:44 UTC at epicenter Location 53.169°S 140.361°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "91d98224a4c3c9952c30"
+  },
+  {
     "title": "M 4.5 - 123 km SSW of Isangel, Vanuatu",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szg8",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1202,6 +1238,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c55e9ddab7ad19cbc52d"
+  },
+  {
+    "title": "Per-user states for multi-user budgets in the REST API",
+    "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-10T15:07:23+00:00",
+    "fetched_at": "2026-07-10T18:53:08+00:00",
+    "summary": "You can now retrieve every user’s progress against a multi-user budget from a single REST API endpoint. This makes it much faster to find who is close to their limit… The post Per-user states for multi-user budgets in the REST API appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Public Health"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eafcd112810e593b0aa6"
   },
   {
     "title": "Corporate travel in Southeast Asia was never broken, it was never built",
