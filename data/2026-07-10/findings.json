@@ -77,6 +77,29 @@
     "id": "58e8f586d6e53a903ed7"
   },
   {
+    "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+    "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-10T20:40:56+00:00",
+    "fetched_at": "2026-07-10T21:01:40+00:00",
+    "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.0, which adds support for Kotlin 2.4.0,… The post CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "651a0f39aec1bf642212"
+  },
+  {
     "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita",
     "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971",
     "source": "Hatena Bookmark Hotentry IT",
@@ -905,6 +928,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c9c40a48b1f09feb3220"
+  },
+  {
+    "title": "Clearer names for secret scanning detector types",
+    "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-10T20:06:10+00:00",
+    "fetched_at": "2026-07-10T21:01:40+00:00",
+    "summary": "To make secret scanning easier to understand, we’re updating the names we use for our detector types to better reflect how each one finds secrets. This is a naming change… The post Clearer names for secret scanning detector types appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ba42224f1b789affd3d1"
   },
   {
     "title": "Korea’s startup ecosystem is training founders, not just funding them",

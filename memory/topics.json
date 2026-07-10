@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T19:26:27+00:00",
+  "generated_at": "2026-07-10T21:02:11+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-10T01:12:04+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
+      },
+      {
+        "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-10T20:40:56+00:00",
+        "relevance_score": 22,
+        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection"
       },
       {
         "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-10T11:28:10+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/"
-      },
-      {
-        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-07-10T07:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://openai.com/index/deutsche-telekom"
       }
     ],
     "economy": [
@@ -149,6 +149,13 @@
     ],
     "security": [
       {
+        "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-10T20:40:56+00:00",
+        "relevance_score": 22,
+        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection"
+      },
+      {
         "title": "[UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-10T04:06:39+00:00",
@@ -210,13 +217,78 @@
         "published_at": "2026-07-10T09:41:39+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1700"
+      }
+    ],
+    "github": [
+      {
+        "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-10T20:40:56+00:00",
+        "relevance_score": 22,
+        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection"
       },
       {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-10T08:16:40+00:00",
+        "title": "wonderwhy-er/DesktopCommanderMCP",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
         "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2063"
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+      },
+      {
+        "title": "iOfficeAI/OfficeCLI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      {
+        "title": "Clearer names for secret scanning detector types",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-10T20:06:10+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types"
+      },
+      {
+        "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-10T15:57:47+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"
+      },
+      {
+        "title": "Per-user states for multi-user budgets in the REST API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-10T15:07:23+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api"
+      },
+      {
+        "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:30:00+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-ai-stack-trap-why-more-ai-tools-arent-translating-into-more-growth-20260706/"
+      },
+      {
+        "title": "The future of CRM: AI-native, consolidated, and frictionless",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T01:45:50+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-future-of-crm-20260608/"
+      },
+      {
+        "title": "VoltAgent/awesome-design-md",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 7,
+        "url": "https://github.com/VoltAgent/awesome-design-md"
+      },
+      {
+        "title": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-10T09:45:30+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions"
       }
     ],
     "geopolitics": [
@@ -289,71 +361,6 @@
         "published_at": "2026-07-10T07:00:00+00:00",
         "relevance_score": 11,
         "url": "https://openai.com/index/deutsche-telekom"
-      }
-    ],
-    "github": [
-      {
-        "title": "wonderwhy-er/DesktopCommanderMCP",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
-      },
-      {
-        "title": "iOfficeAI/OfficeCLI",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/iOfficeAI/OfficeCLI"
-      },
-      {
-        "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-07-10T15:57:47+00:00",
-        "relevance_score": 8,
-        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"
-      },
-      {
-        "title": "Per-user states for multi-user budgets in the REST API",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-10T15:07:23+00:00",
-        "relevance_score": 8,
-        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api"
-      },
-      {
-        "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T02:30:00+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-ai-stack-trap-why-more-ai-tools-arent-translating-into-more-growth-20260706/"
-      },
-      {
-        "title": "The future of CRM: AI-native, consolidated, and frictionless",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T01:45:50+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-future-of-crm-20260608/"
-      },
-      {
-        "title": "VoltAgent/awesome-design-md",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 7,
-        "url": "https://github.com/VoltAgent/awesome-design-md"
-      },
-      {
-        "title": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-10T09:45:30+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions"
-      },
-      {
-        "title": "New pull requests dashboard is now generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-09T20:48:29+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available"
       }
     ],
     "general": [

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T19:26:27+00:00_
+_Generiert: 2026-07-10T21:02:11+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,18 @@ _Generiert: 2026-07-10T19:26:27+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f6841756ed0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Balleny Islands Region 08/07/2026 19:07 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550840)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Balleny Islands Region 08/07/2026 19:07 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -65,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The fraud officer I sat with in Yogyakarta last month had spent eleven years catching counterfeit invoices, suspicious wire transfers, and informal collusion patterns at a regional bank’s branch network. She is exceptionally good at her job. She has also spent the last three weeks trying to learn how to detect a deepfake — and […] The post The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN insti…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection** — Score 22, observation — [Quelle](https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-10T20:40:56+00:00`, fetched `2026-07-10T21:01:40+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.0, which adds support for Kotlin 2.4.0,… The post CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita** — Score 22, observation — [Quelle](https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-10T08:27:48+00:00`, fetched `2026-07-10T14:39:52+00:00`
@@ -176,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Clearer names for secret scanning detector types** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-10T20:06:10+00:00`, fetched `2026-07-10T21:01:40+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: To make secret scanning easier to understand, we’re updating the names we use for our detector types to better reflect how each one finds secrets. This is a naming change… The post Clearer names for secret scanning detector types appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Korea’s startup ecosystem is training founders, not just funding them** — Score 12, observation — [Quelle](https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-10T11:28:10+00:00`, fetched `2026-07-10T13:43:05+00:00`
@@ -301,15 +329,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Public Health (+5.0); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now retrieve every user’s progress against a multi-user budget from a single REST API endpoint. This makes it much faster to find who is close to their limit… The post Per-user states for multi-user budgets in the REST API appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Older adults know AI is slop. They just like it** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-seniors-ai-slop/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-10T13:00:00+00:00`, fetched `2026-07-10T13:43:05+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: AI-generated singers, children, and even virtual lovers are providing seniors with comfort and companionship.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
