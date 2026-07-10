@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-10T16:27:51+00:00",
+  "generated_at": "2026-07-10T17:09:04+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-56291 Balbooa Forms",
+        "summary": "Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-10",
+        "metrics": {
+          "cve": "CVE-2026-56291"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-48939 iCagenda iCagenda",
+        "summary": "Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-10",
+        "metrics": {
+          "cve": "CVE-2026-48939"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-07-07",
         "metrics": {
           "cve": "CVE-2026-56290"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-48282 Adobe ColdFusion",
-        "summary": "Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Adobe ColdFusion Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-07",
-        "metrics": {
-          "cve": "CVE-2026-48282"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-45659 Microsoft SharePoint Server",
-        "summary": "Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-01",
-        "metrics": {
-          "cve": "CVE-2026-45659"
         }
       },
       {

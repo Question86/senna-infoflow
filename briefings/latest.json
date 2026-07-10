@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:27:48+00:00",
-  "run_id": "2026-07-10T16:27:48+00:00",
+  "generated_at": "2026-07-10T17:09:01+00:00",
+  "run_id": "2026-07-10T17:09:01+00:00",
   "date": "2026-07-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 82,
     "displayed_findings": 82,
     "high": 0,
@@ -3949,30 +3949,7 @@
       "id": "a1832104ed49703426c9"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-10T15:57:47+00:00",
-      "fetched_at": "2026-07-10T16:27:12+00:00",
-      "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c55e9ddab7ad19cbc52d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T16:27:48+00:00_
+_Generiert: 2026-07-10T17:09:01+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-07-10T16:27:48+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-56291 Balbooa Forms** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-10`
+  - Kurz: Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability
+- **CISA KEV: CVE-2026-48939 iCagenda iCagenda** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-10`
+  - Kurz: Known exploited vulnerability. Added 2026-07-10. Due 2026-07-13. iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability
 - **CISA KEV: CVE-2026-48908 JoomShaper SP Page Builder** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
@@ -21,14 +29,6 @@ _Generiert: 2026-07-10T16:27:48+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
-- **CISA KEV: CVE-2026-48282 Adobe ColdFusion** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-07`
-  - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Adobe ColdFusion Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-45659 Microsoft SharePoint Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-01`
-  - Kurz: Known exploited vulnerability. Added 2026-07-01. Due 2026-07-04. Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
 - **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
   - Quelle: GDACS
   - Zeit: ``
