@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T22:16:43+00:00",
+  "generated_at": "2026-07-10T22:39:33+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-07-10T08:27:48+00:00",
         "relevance_score": 22,
         "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971"
+      },
+      {
+        "title": "「AIデスキリング」が始まった…生産性向上の影で、AIは人間の思考とスキルを静かにむしばんでいる | Business Insider Japan",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T02:18:16+00:00",
+        "relevance_score": 19,
+        "url": "https://www.businessinsider.jp/article/2606-ai-deskilling-impact-on-worker-skills-productivity/"
       },
       {
         "title": "Why patient intake is becoming healthcare’s most important AI use case",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-10T11:58:18+00:00",
         "relevance_score": 14,
         "url": "https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru"
-      },
-      {
-        "title": "Korea’s startup ecosystem is training founders, not just funding them",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T11:28:10+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/koreas-startup-ecosystem-is-training-founders-not-just-funding-them-20260710/"
       }
     ],
     "economy": [
