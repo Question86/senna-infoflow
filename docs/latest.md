@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T00:07:41+00:00_
+_Generiert: 2026-07-10T00:56:55+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -24,7 +24,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について** — Score 6, observation — [Quelle](https://www.digital.go.jp/)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-10T00:53:38+00:00`, fetched `2026-07-10T00:56:25+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ガバメントAI「源内」商標およびブランドガイドラインを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-10T00:33:11+00:00`, fetched `2026-07-10T00:56:25+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI「源内」商標およびブランドガイドラインを掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2123857.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-09T23:48:40+00:00`, fetched `2026-07-10T00:56:25+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

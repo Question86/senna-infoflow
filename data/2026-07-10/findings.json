@@ -40,5 +40,66 @@
       "LOW"
     ],
     "id": "3b9ff22c75b43139086d"
+  },
+  {
+    "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
+    "url": "https://www.digital.go.jp/",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-10T00:53:38+00:00",
+    "fetched_at": "2026-07-10T00:56:25+00:00",
+    "summary": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a9f217b8463d21229cb8"
+  },
+  {
+    "title": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
+    "url": "https://www.digital.go.jp/policies/genai",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-10T00:33:11+00:00",
+    "fetched_at": "2026-07-10T00:56:25+00:00",
+    "summary": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "66cb6e809df402e699b9"
+  },
+  {
+    "title": "官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2123857.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-09T23:48:40+00:00",
+    "fetched_at": "2026-07-10T00:56:25+00:00",
+    "summary": "官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7824695ed05ef44d1b54"
   }
 ]
