@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-10T11:01:04Z",
+  "generated_at": "2026-07-10T12:10:48Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 15,
+      "krass": 20,
       "strong": 17,
-      "watch": 2,
-      "quiet": 5
+      "watch": 2
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 31,
-      "watch": 2,
-      "quiet": 5
+      "strong": 36,
+      "watch": 2
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1439",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T07:27:19+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T08:21:39+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -75,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU91295052/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-10T11:00:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -99,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2272",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T09:41:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -123,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2271",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T09:41:39+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -147,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2173",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T09:21:41+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -171,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1372",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T07:27:16+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -195,7 +193,7 @@
       "url": "https://e27.co/how-creativity-commerce-and-ai-collide-in-mid-2026-marketing-mix-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T02:45:32+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -221,7 +219,7 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-10T02:28:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -245,11 +243,37 @@
       "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. OfficeCLI OfficeCLI is the world's first and the best Office suite designed for AI agents. Give any AI agent full co…"
     },
     {
+      "title": "[NEU] [mittel] Samsung Android: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2275",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-10T10:56:39+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-IO-Compress): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2063",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T08:16:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -271,11 +295,37 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
     },
     {
+      "title": "[NEU] [mittel] DENX U-Boot: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2276",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-10T11:06:39+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer mit physischem Zugriff kann mehrere Schwachstellen in DENX U-Boot ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen und einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0297",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T08:31:39+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -301,7 +351,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2269",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T08:26:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -327,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2268",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T08:26:39+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -353,7 +403,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1437",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T07:27:19+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -379,7 +429,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1401",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T07:27:17+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -405,7 +455,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T04:01:40+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -431,7 +481,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T04:06:39+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -456,7 +506,7 @@
       "url": "https://jvn.jp/vu/JVNVU94281476/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-10T11:00:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -477,11 +527,86 @@
       "summary": "2026年07月09日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3251",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-10T10:41:40+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher bekannte Auswirkungen zu erzielen.."
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1625",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-10T10:41:39+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1188",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-10T10:41:39+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] Kyocera Printer: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2273",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T09:41:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -506,7 +631,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1700",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T09:41:39+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -531,7 +656,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1409",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T07:27:18+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -556,7 +681,7 @@
       "url": "https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T01:00:15+00:00",
-      "age_days": 0.42,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -582,7 +707,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 21.38,
+      "age_days": 21.43,
       "topics": [
         "ai"
       ],
@@ -610,8 +735,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-10T03:47:29+00:00",
-      "age_days": 0.3,
+      "published_at": "2026-07-10T11:10:41+00:00",
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro",
@@ -640,7 +765,7 @@
       "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T01:12:04+00:00",
-      "age_days": 0.41,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -668,7 +793,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2270",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-10T09:36:39+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -694,7 +819,7 @@
       "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T02:15:37+00:00",
-      "age_days": 0.36,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -720,7 +845,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-10T06:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -745,7 +870,7 @@
       "url": "https://www.digital.go.jp/resources/open_data",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-10T06:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -770,7 +895,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-10T08:50:09.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -795,7 +920,7 @@
       "url": "https://e27.co/why-bitcoins-move-to-us63k-has-nothing-to-do-with-crypto-and-everything-to-do-with-iran-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T05:14:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -821,7 +946,7 @@
       "url": "https://e27.co/recommerce-now-half-of-carousells-biz-is-classifieds-being-quietly-phased-out-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T01:00:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -846,7 +971,7 @@
       "url": "https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T02:45:50+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "macro"
       ],
@@ -872,7 +997,7 @@
       "url": "https://e27.co/ecosystem-roundup-reddoorzs-ipo-bet-buyouts-over-bricks-20260710/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-10T09:31:35+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -899,7 +1024,7 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-10T02:28:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -919,133 +1044,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI editors - while using host clien…"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260710-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-07-10T02:05:09+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "松本大臣記者会見（令和8年7月10日）動画を掲載しました"
-    },
-    {
-      "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2607/10/news097.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T04:23:29+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "UWB改札機をスマートフォンで通過する際の処理イメージ。駅構内に入ると設置されたBluetooth（BLE）ビーコンに反応してスマートフォンのUWB機能が有効になり、改札機がUWBの信号を元にした追跡と通過判定を行う（Nano Banana 2で作成） 今日、「Suica」に代表される日本国内の交通系ICカードの礎を作ったのはJR東日本で..."
-    },
-    {
-      "title": "M 4.6 - 54 km WSW of Captain Cook, Hawaii",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75000056",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-10T06:22:43.713+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "DYFI? - IV Time 2026-07-10 06:17:25 UTC 2026-07-10 06:17:25 UTC at epicenter Location 19.238°N 156.358°W Depth 7.25 km (4.50 mi)"
-    },
-    {
-      "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
-      "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-10T06:06:49+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipsos found that 76 per cent of Singapore investors surveyed use…"
-    },
-    {
-      "title": "「メールが届かなくても仕方ない」を普通にしませんか",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-10T07:44:25+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "筆者が最近頭を悩ませていることの1つが、親族宛てに届くフィッシング詐欺メールだ。もちろん今に始まった話ではない。ただ、メールや電話で問い合わせを受け、限られた情報を基に詐欺メールかどうかを回答する頻度が高まっている。 この記事は会員登録で続きをご覧いただけます申込は簡単3分！ 今すぐ会員登録（無料） ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
