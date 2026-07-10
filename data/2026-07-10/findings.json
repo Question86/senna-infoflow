@@ -1913,5 +1913,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3df810c5006a312bb4dc"
+  },
+  {
+    "title": "New pull requests dashboard is now generally available",
+    "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-09T20:48:29+00:00",
+    "fetched_at": "2026-07-10T15:34:40+00:00",
+    "summary": "The refreshed pull requests dashboard is now generally available at github.com/pulls. It gives you a single home to track, prioritize, and act on the pull requests that need your attention,… The post New pull requests dashboard is now generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a1832104ed49703426c9"
   }
 ]

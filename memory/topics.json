@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T14:40:24+00:00",
+  "generated_at": "2026-07-10T15:35:11+00:00",
   "topics": {
     "ai": [
       {
@@ -333,6 +333,13 @@
         "published_at": "2026-07-10T09:45:30+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions"
+      },
+      {
+        "title": "New pull requests dashboard is now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-09T20:48:29+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available"
       }
     ],
     "general": [
