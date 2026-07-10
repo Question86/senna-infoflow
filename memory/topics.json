@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T13:43:37+00:00",
+  "generated_at": "2026-07-10T14:40:24+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-07-10T01:12:04+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/"
+      },
+      {
+        "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T08:27:48+00:00",
+        "relevance_score": 22,
+        "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971"
       },
       {
         "title": "Why patient intake is becoming healthcare’s most important AI use case",
@@ -47,6 +54,13 @@
         "url": "https://github.com/iOfficeAI/OfficeCLI"
       },
       {
+        "title": "Claude Codeとハーネスについて考えてみる",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T11:58:18+00:00",
+        "relevance_score": 14,
+        "url": "https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru"
+      },
+      {
         "title": "Korea’s startup ecosystem is training founders, not just funding them",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-10T11:28:10+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-10T07:00:00+00:00",
         "relevance_score": 11,
         "url": "https://openai.com/index/deutsche-telekom"
-      },
-      {
-        "title": "ax — the AI-era curl",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-09T23:18:58+00:00",
-        "relevance_score": 11,
-        "url": "https://ax.yusuke.run/"
-      },
-      {
-        "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T06:06:49+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/"
       }
     ],
     "economy": [
@@ -344,6 +344,34 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
       },
       {
+        "title": "M 4.5 - 123 km SSW of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-10T14:20:18.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szg8"
+      },
+      {
+        "title": "Vulnérabilité dans FreeBSD (03 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-03T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0830/"
+      },
+      {
+        "title": "Vulnérabilité dans CPython (02 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-02T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0828/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Mozilla Thunderbird (02 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-02T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0827/"
+      },
+      {
         "title": "「メールが届かなくても仕方ない」を普通にしませんか",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-10T07:44:25+00:00",
@@ -377,34 +405,6 @@
         "published_at": "2026-07-10T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/resources/open_data"
-      },
-      {
-        "title": "松本大臣記者会見（令和8年7月10日）動画を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-10T02:05:09+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/speech/minister-260710-01"
-      },
-      {
-        "title": "安いエアコンが消える？ 「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T09:25:47+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html"
-      },
-      {
-        "title": "スマホをタッチせずに改札もレジも通過 日本で広がる「UWBタッチレス決済」最前線",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T04:23:29+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2607/10/news097.html"
-      },
-      {
-        "title": "Windows Defenderにディスクを食い潰す穴が発見される",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T03:36:56+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/news/2124087.html"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-10T13:43:37+00:00_
+_Generated: 2026-07-10T14:40:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `80`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-10T13:43:37+00:00_
 - url: https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/
 - summary: The fraud officer I sat with in Yogyakarta last month had spent eleven years catching counterfeit invoices, suspicious wire transfers, and informal collusion patterns at a regional bank’s branch network. She is exceptionally good at her job. She has also spen…
 
-### 3. Why patient intake is becoming healthcare’s most important AI use case
+### 3. Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita
+- source: Hatena Bookmark Hotentry IT
+- score: `22`
+- published: `2026-07-10T08:27:48+00:00`
+- url: https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971
+- summary: こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセスを実行するときにどのように安全性を確認しているか」についてど...
+
+### 4. Why patient intake is becoming healthcare’s most important AI use case
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-07-10T01:00:15+00:00`
 - url: https://e27.co/why-patient-intake-is-becoming-healthcares-most-important-ai-use-case-20260701/
 - summary: Across Southeast Asia, healthcare systems are facing mounting pressure. In Singapore, an ageing population is driving a sharp rise in chronic disease management and long-term care demand. In Malaysia, the ongoing migration of healthcare professionals overseas…
-
-### 4. [UPDATE] [hoch] Microsoft Malware Protection Engine: Schwachstelle ermöglicht Privilegieneskalation
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-07-10T04:06:39+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1976
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Malware Protection Engine und Microsoft Defender ausnutzen, um seine Privilegien zu erhöhen.
 
 ### 5. Korea’s startup ecosystem is training founders, not just funding them
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-07-10T13:43:37+00:00_
 - url: https://ax.yusuke.run/
 - summary: The AI-era curl ax — fetch, discover, extract. One command.Local HTTP and HTML I/O for coding agents. One command instead of curl + throwaway Python — structured, token-cheap, capped by default, never silent.
 
-### 8. AI is reshaping Singapore wealth management, but not replacing the adviser
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-10T06:06:49+00:00`
-- url: https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/
-- summary: Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipso…
+### 8. Multiples vulnérabilités dans le noyau Linux de Red Hat (03 juillet 2026)
+- source: CERT-FR Avis de sécurité
+- score: `11`
+- published: `2026-07-03T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0832/
+- summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
 
 END OF DOCUMENT
