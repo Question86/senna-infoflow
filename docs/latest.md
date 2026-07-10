@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-10T02:28:35+00:00_
+_Generiert: 2026-07-10T03:47:41+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-10T02:28:22+00:00`, fetched `2026-07-10T02:28:01+00:00`
+  - Zeit: published `2026-07-10T03:47:29+00:00`, fetched `2026-07-10T03:47:09+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **ax — the AI-era curl** — Score 11, risk — [Quelle](https://ax.yusuke.run/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-09T23:18:58+00:00`, fetched `2026-07-10T03:47:09+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: The AI-era curl ax — fetch, discover, extract. One command.Local HTTP and HTML I/O for coding agents. One command instead of curl + throwaway Python — structured, token-cheap, capped by default, never silent.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Atome’s US$88M AUB facility tests the next phase of Philippine BNPL** — Score 10, observation — [Quelle](https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-10T02:00:02+00:00`, fetched `2026-07-10T02:28:01+00:00`
@@ -96,23 +105,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ニューヨーク=内山瑞貴】米国企業の間で中国製の人工知能（AI）の利用が広がっている。米高性能AIの1%程度の料金で使えるモデルもあることから乗り換えが進み、特に業務ソフトにAIを組み込む際などに使うサービス「オープンルーター」では中国AI利用率が50%に迫っている。各社のAIモデルを自由に切り替えて使える「オ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The future of CRM: AI-native, consolidated, and frictionless** — Score 8, observation — [Quelle](https://e27.co/the-future-of-crm-20260608/)
+- **Corporate travel in Southeast Asia was never broken, it was never built** — Score 8, opportunity — [Quelle](https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-10T01:45:50+00:00`, fetched `2026-07-10T02:28:01+00:00`
+  - Zeit: published `2026-07-10T02:45:50+00:00`, fetched `2026-07-10T03:47:09+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
+  - Kurz: It was a Sunday afternoon. A founder I know, running a company with 100 employees, revenue above US$50 million, was mid-pickleball when a message arrived: “Can you speak at our conference Tuesday morning?” He agreed. The conference was two flights away. What followed was two and a half hours across six browser tabs. Flight aggregators. […] The post Corporate travel in Southeast Asia was never broken, it was never bu…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **How creativity, commerce and AI collide in mid-2026 marketing mix** — Score 8, observation — [Quelle](https://e27.co/how-creativity-commerce-and-ai-collide-in-mid-2026-marketing-mix-20260709/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-10T02:45:32+00:00`, fetched `2026-07-10T03:47:09+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Talk to anyone in sales, marketing, or ops long enough, and the CRM conversation runs in a loop. First, it’s “why are we paying this much for a system that basically does nothing?” Then the company adopts a new platform, and for a quarter or two there’s relief: the pipeline is clean, reports actually load, […] The post The future of CRM: AI-native, consolidated, and frictionless appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **“It works, don’t touch it” is now the most dangerous sentence in tech** — Score 7, observation — [Quelle](https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-10T02:15:37+00:00`, fetched `2026-07-10T02:28:01+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: An AI model judged too dangerous to release has exposed an uncomfortable truth: the legacy systems quietly running our banks, hospitals, and power grids are far more vulnerable than we let ourselves believe. The threat isn’t old code — it’s abandoned code. And the response isn’t a patch. It’s a fundamental rethink of how we […] The post “It works, don’t touch it” is now the most dangerous sentence in tech appeared f…
+  - Kurz: Mid-2026 has been a turning point for marketing. Technology, commerce and creative craft are jostling for equal billing, and the conversation has shifted from “what’s possible” to “what actually moves the business.” Below are the trends that are reshaping how brands plan, produce and prove marketing impact this year. AI moved from theory to practice […] The post How creativity, commerce and AI collide in mid-2026 ma…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントAI「源内」商標およびブランドガイドラインを掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA** — Score 5, observation — [Quelle](https://ics.media/entry/260709/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-09T23:49:29+00:00`, fetched `2026-07-10T01:34:04+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: テキスト演出では、見た目だけでなく読み上げや選択、コピーへの影響などアクセシビリティにも注意が必要です。元のテキストが読み取りやすい構造で残るか、装飾のための文字が選択やコピーの邪魔にならないかを確認しておくと安心です。 slot-text slot-textは、短いUIラベルをスロットのように切り替えるライブラリで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

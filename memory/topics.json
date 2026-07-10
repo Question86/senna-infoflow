@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-10T02:28:35+00:00",
+  "generated_at": "2026-07-10T03:47:41+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-10T02:28:22+00:00",
+        "published_at": "2026-07-10T03:47:29+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -40,6 +40,13 @@
         "url": "https://github.com/iOfficeAI/OfficeCLI"
       },
       {
+        "title": "ax — the AI-era curl",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-09T23:18:58+00:00",
+        "relevance_score": 11,
+        "url": "https://ax.yusuke.run/"
+      },
+      {
         "title": "Atome’s US$88M AUB facility tests the next phase of Philippine BNPL",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-10T02:00:02+00:00",
@@ -54,25 +61,18 @@
         "url": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/"
       },
       {
-        "title": "The future of CRM: AI-native, consolidated, and frictionless",
+        "title": "How creativity, commerce and AI collide in mid-2026 marketing mix",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T01:45:50+00:00",
+        "published_at": "2026-07-10T02:45:32+00:00",
         "relevance_score": 8,
-        "url": "https://e27.co/the-future-of-crm-20260608/"
+        "url": "https://e27.co/how-creativity-commerce-and-ai-collide-in-mid-2026-marketing-mix-20260709/"
       },
       {
-        "title": "“It works, don’t touch it” is now the most dangerous sentence in tech",
+        "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-10T02:15:37+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/"
-      },
-      {
-        "title": "メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-09T22:25:27+00:00",
-        "relevance_score": 7,
-        "url": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/"
+        "published_at": "2026-07-10T02:30:00+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-ai-stack-trap-why-more-ai-tools-arent-translating-into-more-growth-20260706/"
       }
     ],
     "economy": [
@@ -89,6 +89,27 @@
         "published_at": "2026-07-10T02:00:02+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/"
+      },
+      {
+        "title": "Corporate travel in Southeast Asia was never broken, it was never built",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:45:50+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/"
+      },
+      {
+        "title": "How creativity, commerce and AI collide in mid-2026 marketing mix",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:45:32+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/how-creativity-commerce-and-ai-collide-in-mid-2026-marketing-mix-20260709/"
+      },
+      {
+        "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:30:00+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-ai-stack-trap-why-more-ai-tools-arent-translating-into-more-growth-20260706/"
       },
       {
         "title": "The future of CRM: AI-native, consolidated, and frictionless",
@@ -149,6 +170,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      {
+        "title": "The AI stack trap: Why more AI tools aren’t translating into more growth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-10T02:30:00+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-ai-stack-trap-why-more-ai-tools-arent-translating-into-more-growth-20260706/"
       },
       {
         "title": "The future of CRM: AI-native, consolidated, and frictionless",

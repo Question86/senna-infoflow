@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-10T02:28:35+00:00_
+_Generated: 2026-07-10T03:47:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `25`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-07-10T02:28:22+00:00`
+- published: `2026-07-10T03:47:29+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-10T02:28:35+00:00_
 - url: https://jvn.jp/vu/JVNVU94281476/
 - summary: 2026年07月09日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 5. Atome’s US$88M AUB facility tests the next phase of Philippine BNPL
+### 5. ax — the AI-era curl
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-07-09T23:18:58+00:00`
+- url: https://ax.yusuke.run/
+- summary: The AI-era curl ax — fetch, discover, extract. One command.Local HTTP and HTML I/O for coding agents. One command instead of curl + throwaway Python — structured, token-cheap, capped by default, never silent.
+
+### 6. Atome’s US$88M AUB facility tests the next phase of Philippine BNPL
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-10T02:00:02+00:00`
 - url: https://e27.co/atomes-us88m-aub-facility-tests-the-next-phase-of-philippine-bnpl-20260709/
 - summary: Atome Philippines has secured a PHP 5 billion (~US$88 million) wholesale facility from Asia United Bank, giving the digital finance platform local-currency funding to expand its consumer credit business in one of Southeast Asia’s most underbanked large market…
 
-### 6. 米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞
+### 7. 米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-07-09T22:46:07+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/
 - summary: 【ニューヨーク=内山瑞貴】米国企業の間で中国製の人工知能（AI）の利用が広がっている。米高性能AIの1%程度の料金で使えるモデルもあることから乗り換えが進み、特に業務ソフトにAIを組み込む際などに使うサービス「オープンルーター」では中国AI利用率が50%に迫っている。各社のAIモデルを自由に切り替えて使える「オ...
 
-### 7. The future of CRM: AI-native, consolidated, and frictionless
+### 8. Corporate travel in Southeast Asia was never broken, it was never built
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-07-10T01:45:50+00:00`
-- url: https://e27.co/the-future-of-crm-20260608/
-- summary: Talk to anyone in sales, marketing, or ops long enough, and the CRM conversation runs in a loop. First, it’s “why are we paying this much for a system that basically does nothing?” Then the company adopts a new platform, and for a quarter or two there’s relie…
-
-### 8. “It works, don’t touch it” is now the most dangerous sentence in tech
-- source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-07-10T02:15:37+00:00`
-- url: https://e27.co/it-works-dont-touch-it-is-now-the-most-dangerous-sentence-in-tech-20260709/
-- summary: An AI model judged too dangerous to release has exposed an uncomfortable truth: the legacy systems quietly running our banks, hospitals, and power grids are far more vulnerable than we let ourselves believe. The threat isn’t old code — it’s abandoned code. An…
+- published: `2026-07-10T02:45:50+00:00`
+- url: https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/
+- summary: It was a Sunday afternoon. A founder I know, running a company with 100 employees, revenue above US$50 million, was mid-pickleball when a message arrived: “Can you speak at our conference Tuesday morning?” He agreed. The conference was two flights away. What…
 
 END OF DOCUMENT
