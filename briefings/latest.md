@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T23:36:22+00:00_
+_Generiert: 2026-07-11T23:59:09+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO** — Score 20, observation — [Quelle](https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-11T05:42:34+00:00`, fetched `2026-07-11T23:58:40+00:00`
+  - Treffer: AI Agents, AI/KI, developer, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: [アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - 41 km S of Sarangani, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-11T11:23:39.703+00:00`, fetched `2026-07-11T11:27:30+00:00`
@@ -189,6 +198,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

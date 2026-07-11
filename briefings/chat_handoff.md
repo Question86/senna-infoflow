@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-11T23:36:22+00:00_
+_Generated: 2026-07-11T23:59:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-11T23:36:22+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. M 5.4 - 41 km S of Sarangani, Philippines
+### 2. [アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO
+- source: Hatena Bookmark Hotentry IT
+- score: `20`
+- published: `2026-07-11T05:42:34+00:00`
+- url: https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/
+- summary: [アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO
+
+### 3. M 5.4 - 41 km S of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-07-11T11:23:39.703+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-11 10:51:12 UTC 2026-07-11 10:51:12 UTC at epicenter Location 5.033°N 125.490°E Depth 57.10 km (35.48 mi)
 
-### 3. M 5.2 - 56 km SSW of Sarangani, Philippines
+### 4. M 5.2 - 56 km SSW of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-11T18:07:48.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri
 - summary: Time 2026-07-11 17:49:31 UTC 2026-07-11 17:49:31 UTC at epicenter Location 4.941°N 125.245°E Depth 61.68 km (38.33 mi)
-
-### 4. M 4.9 - 54 km NNW of Masohi, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-11T02:48:58.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5
-- summary: Time 2026-07-11 02:28:51 UTC 2026-07-11 02:28:51 UTC at epicenter Location 2.850°S 128.764°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 6.4 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour

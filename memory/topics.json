@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T23:36:22+00:00",
+  "generated_at": "2026-07-11T23:59:09+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-11T23:14:40+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T05:42:34+00:00",
+        "relevance_score": 20,
+        "url": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/"
       },
       {
         "title": "GitHub - yusukebe/ax: The AI-era curl",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/abseil/abseil-cpp"
-      },
-      {
-        "title": "Email Verification Protocol を理解しよう - r-weblife",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T12:33:31+00:00",
-        "relevance_score": 7,
-        "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745"
       }
     ],
     "general": [
