@@ -642,6 +642,27 @@
     "id": "3507df94bfebc37c4588"
   },
   {
+    "title": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE",
+    "url": "https://speakerdeck.com/kanny/shibui-sre",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-11T08:00:03+00:00",
+    "fetched_at": "2026-07-11T23:35:52+00:00",
+    "summary": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d2c13c54d3392988cad"
+  },
+  {
     "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
     "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html",
     "source": "Hatena Bookmark Hotentry IT",
