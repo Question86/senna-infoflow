@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T12:32:20+00:00_
+_Generiert: 2026-07-11T12:55:46+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-07-11T12:32:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:45.992km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551279)
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551279)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:45.992km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
 - **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
   - Quelle: GDACS
   - Zeit: ``
@@ -43,7 +43,7 @@ _Generiert: 2026-07-11T12:32:20+00:00_
   - Kurz: Green flood alert in Bangladesh
 - **USGS earthquake M6.4 - South Sandwich Islands region** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb)
   - Quelle: USGS
-  - Zeit: `2026-07-11T10:26:45+00:00`
+  - Zeit: `2026-07-11T10:26:42+00:00`
   - Kurz: M6.4 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
   - Quelle: GDACS
