@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-11T16:03:53Z_
+_Generated: 2026-07-11T16:31:15Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-07-11T02:14:10+00:00` / age_days `0.58`
+- Published: `2026-07-11T02:14:10+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `22.59`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `22.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -0.6 for 22.6d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-11T16:02:45+00:00` / age_days `0.0`
+- Published: `2026-07-11T16:02:45+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-11T11:23:39.703+00:00` / age_days `0.19`
+- Published: `2026-07-11T11:23:39.703+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-07-11T02:48:58.040+00:00` / age_days `0.55`
+- Published: `2026-07-11T02:48:58.040+00:00` / age_days `0.57`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-07-11T02:14:10+00:00` / age_days `0.58`
+- Published: `2026-07-11T02:14:10+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-07-11T11:00:47.513+00:00` / age_days `0.21`
+- Published: `2026-07-11T11:00:47.513+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-07-11T07:19:31.934+00:00` / age_days `0.36`
+- Published: `2026-07-11T07:19:31.934+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,17 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-07-11T08:16:48.040+00:00` / age_days `0.32`
+- Published: `2026-07-11T08:16:48.040+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq
 
+### M 5.1 - 89 km NE of Hihifo, Tonga
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-07-11T16:20:11.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0
+
 ### M 4.9 - 6 km S of Grębocice, Poland
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-11T07:02:25.623+00:00` / age_days `0.38`
+- Published: `2026-07-11T07:02:25.623+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-11T01:57:49.040+00:00` / age_days `0.59`
+- Published: `2026-07-11T01:57:49.040+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1
-
-### やさしいループエンジニアリング入門 | ドクセル
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-07-10T12:53:13+00:00` / age_days `1.13`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543
 
 END OF DOCUMENT
