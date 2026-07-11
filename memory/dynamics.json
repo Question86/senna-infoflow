@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-11T11:45:53Z",
+  "generated_at": "2026-07-11T12:15:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 26,
     "bands": {
       "strong": 8,
       "watch": 3,
-      "quiet": 14
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 8,
       "watch": 3,
-      "quiet": 14
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.41,
+      "age_days": 22.43,
       "topics": [
         "ai"
       ],
@@ -75,8 +75,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-11T11:01:15+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-07-11T11:48:22+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -105,7 +105,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:23:39.703+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -156,7 +156,7 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:00:47.513+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -206,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:19:31.934+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -231,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T08:16:48.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -256,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:02:25.623+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -281,7 +281,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T01:57:49.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -306,7 +306,7 @@
       "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T12:53:13+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -332,7 +332,7 @@
       "url": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T08:20:26+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -354,11 +354,35 @@
       "summary": "MetaがAIを使ってInstagram上の写真を編集する機能を廃止しました。 Meta removes controversial AI feature on Instagram after backlash | TechCrunch https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/ 現地時間の2026年7月7日、Metaは画像生成AIの「Muse Imag..."
     },
     {
+      "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-11T02:57:35+00:00",
+      "age_days": 0.39,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "4月、ある小型端末がSNSを中心に再び注目を集めた。ワンプッシュで日用品を注文できた「Amazon Dash Button（アマゾン・ダッシュ・ボタン）」だ。既に端末の販売およびサービスは終了しているが、買い忘れを防ぐ画期的な仕組みは多くの家庭で重宝された実績があり、現在もさまざまな視点で当時の存在意義が語られた。一..."
+    },
+    {
       "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
       "url": "https://togetter.com/li/2719204",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T23:14:22+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -382,7 +406,7 @@
       "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T17:14:42+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -407,7 +431,7 @@
       "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T12:33:31+00:00",
-      "age_days": 0.97,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -433,7 +457,7 @@
       "url": "https://github.com/mattpocock/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -458,7 +482,7 @@
       "url": "https://ai-2040.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T01:59:22+00:00",
-      "age_days": 1.41,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -483,11 +507,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.37,
+      "age_days": 21.39,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.97,
+      "dynamics_score": 0.96,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -508,11 +532,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.37,
+      "age_days": 21.39,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.97,
+      "dynamics_score": 0.96,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -533,7 +557,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.37,
+      "age_days": 21.39,
       "topics": [
         "ai"
       ],
@@ -560,7 +584,7 @@
       "url": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T11:08:57+00:00",
-      "age_days": 1.03,
+      "age_days": 1.05,
       "topics": [
         "ai"
       ],
@@ -585,7 +609,7 @@
       "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T06:15:46+00:00",
-      "age_days": 1.23,
+      "age_days": 1.25,
       "topics": [
         "ai"
       ],
@@ -610,7 +634,7 @@
       "url": "https://github.com/oven-sh/bun",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -635,7 +659,7 @@
       "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2025-05-02T04:15:16+00:00",
-      "age_days": 435.31,
+      "age_days": 435.33,
       "topics": [
         "ai"
       ],
