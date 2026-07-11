@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T11:01:29+00:00_
+_Generiert: 2026-07-11T11:28:03+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,14 +33,14 @@ _Generiert: 2026-07-11T11:01:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:45.992km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
-- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Guatemala
 - **GDACS: Green flood alert in Bangladesh** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Bangladesh
+- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Guatemala
 - **USGS earthquake M6.4 - South Sandwich Islands region** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb)
   - Quelle: USGS
   - Zeit: `2026-07-11T10:26:45+00:00`
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.4 - 41 km S of Sarangani, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-11T11:23:39.703+00:00`, fetched `2026-07-11T11:27:30+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-11 10:51:12 UTC 2026-07-11 10:51:12 UTC at epicenter Location 5.033°N 125.490°E Depth 57.10 km (35.48 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 54 km NNW of Masohi, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T11:01:32+00:00",
+  "generated_at": "2026-07-11T11:28:07+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,20 +75,20 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Guatemala",
-        "summary": "Green flood alert in Guatemala",
+        "title": "GDACS: Green flood alert in Bangladesh",
+        "summary": "Green flood alert in Bangladesh",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Bangladesh",
-        "summary": "Green flood alert in Bangladesh",
+        "title": "GDACS: Green flood alert in Guatemala",
+        "summary": "Green flood alert in Guatemala",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013",
         "published_at": "",
         "metrics": {}
       },
