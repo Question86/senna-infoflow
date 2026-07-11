@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T16:02:57+00:00",
+  "generated_at": "2026-07-11T16:25:14+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543"
       },
       {
+        "title": "M 5.1 - 89 km NE of Hihifo, Tonga",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-11T16:20:11.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
+      },
+      {
         "title": "M 4.9 - 6 km S of Grębocice, Poland",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-11T07:02:25.623+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-11T02:57:35+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html"
-      },
-      {
-        "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T23:14:22+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2719204"
       }
     ],
     "github": [
