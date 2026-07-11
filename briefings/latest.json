@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T18:15:34+00:00",
-  "run_id": "2026-07-11T18:15:34+00:00",
+  "generated_at": "2026-07-11T18:36:33+00:00",
+  "run_id": "2026-07-11T18:36:33+00:00",
   "date": "2026-07-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-11T17:55:44+00:00",
-        "fetched_at": "2026-07-11T17:55:24+00:00",
+        "published_at": "2026-07-11T18:36:23+00:00",
+        "fetched_at": "2026-07-11T18:36:04+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "6ad585ddc04331cdfd8c"
+        "id": "b258867261f73efdbc04"
       },
       {
         "title": "M 5.4 - 41 km S of Sarangani, Philippines",
@@ -762,8 +762,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-11T17:55:44+00:00",
-      "fetched_at": "2026-07-11T17:55:24+00:00",
+      "published_at": "2026-07-11T18:36:23+00:00",
+      "fetched_at": "2026-07-11T18:36:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -797,7 +797,7 @@
         "HD",
         "LOW"
       ],
-      "id": "6ad585ddc04331cdfd8c"
+      "id": "b258867261f73efdbc04"
     },
     {
       "title": "M 5.4 - 41 km S of Sarangani, Philippines",
@@ -1483,20 +1483,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 56 km SSW of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-11T18:07:48.040+00:00",
-      "fetched_at": "2026-07-11T18:15:03+00:00",
-      "summary": "Time 2026-07-11 17:49:31 UTC 2026-07-11 17:49:31 UTC at epicenter Location 4.941°N 125.245°E Depth 61.68 km (38.33 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-11T18:36:23+00:00",
+      "fetched_at": "2026-07-11T18:36:04+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1517,7 +1522,7 @@
         "HD",
         "LOW"
       ],
-      "id": "1cae0f486948353bf619"
+      "id": "b258867261f73efdbc04"
     }
   ],
   "source_errors": [],
