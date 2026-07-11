@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T17:55:56+00:00_
+_Generiert: 2026-07-11T18:15:34+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,12 +29,26 @@ _Generiert: 2026-07-11T17:55:56+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1551279)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
+- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Guatemala
+- **GDACS: Green flood alert in Bangladesh** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Bangladesh
 - **USGS earthquake M6.4 - South Sandwich Islands region** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb)
   - Quelle: USGS
   - Zeit: `2026-07-11T10:26:42+00:00`
   - Kurz: M6.4 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fa9793b3090>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
 
 ## Wirtschaft global
 
@@ -68,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-07-11 10:51:12 UTC 2026-07-11 10:51:12 UTC at epicenter Location 5.033°N 125.490°E Depth 57.10 km (35.48 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 56 km SSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-11T18:07:48.040+00:00`, fetched `2026-07-11T18:15:03+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-11 17:49:31 UTC 2026-07-11 17:49:31 UTC at epicenter Location 4.941°N 125.245°E Depth 61.68 km (38.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 54 km NNW of Masohi, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

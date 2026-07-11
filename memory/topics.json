@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T17:55:56+00:00",
+  "generated_at": "2026-07-11T18:15:34+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0"
       },
       {
+        "title": "M 5.2 - 56 km SSW of Sarangani, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-11T18:07:48.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
+      },
+      {
         "title": "M 4.9 - 54 km NNW of Masohi, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-11T02:48:58.040+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-11T01:57:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1"
-      },
-      {
-        "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-11T02:57:35+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html"
       }
     ],
     "github": [
