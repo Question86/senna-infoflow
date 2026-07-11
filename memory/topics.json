@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T00:10:45+00:00",
+  "generated_at": "2026-07-11T01:25:20+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-11T00:10:34+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Email Verification Protocol を理解しよう - r-weblife",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T12:33:31+00:00",
+        "relevance_score": 7,
+        "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745"
       }
     ]
   }

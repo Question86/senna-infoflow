@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T00:10:45+00:00_
+_Generiert: 2026-07-11T01:25:20+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+2 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,18 +29,8 @@ _Generiert: 2026-07-11T00:10:45+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-07`
   - Kurz: Known exploited vulnerability. Added 2026-07-07. Due 2026-07-10. Joomlack Page Builder Improper Access Control Vulnerability
-- **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000143)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Balleny Islands Region 08/07/2026 19:07 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550840)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Balleny Islands Region 08/07/2026 19:07 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1550772)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 08/07/2026 09:50 UTC, 10 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7ffbf20153d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -69,7 +59,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **Email Verification Protocol を理解しよう - r-weblife** — Score 7, observation — [Quelle](https://ritou.hatenablog.com/entry/2026/07/10/210745)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-10T12:33:31+00:00`, fetched `2026-07-11T01:24:51+00:00`
+  - Treffer: developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: ritouです。 Email Verification Protocol Origin Trial Email Verification ProtocolのOrigin Trialが始まったようです。 https://developer.chrome.com/blog/email-verification-protocol-origin-trial 「なんか便利そうな仕組みやな〜」とのんびり眺めるのではなく、ID管理の基本を用いて解像度を上げていきましょう...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

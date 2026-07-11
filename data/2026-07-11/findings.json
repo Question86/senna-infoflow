@@ -40,5 +40,27 @@
       "LOW"
     ],
     "id": "638d8e571ac41f436a3a"
+  },
+  {
+    "title": "Email Verification Protocol を理解しよう - r-weblife",
+    "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T12:33:31+00:00",
+    "fetched_at": "2026-07-11T01:24:51+00:00",
+    "summary": "ritouです。 Email Verification Protocol Origin Trial Email Verification ProtocolのOrigin Trialが始まったようです。 https://developer.chrome.com/blog/email-verification-protocol-origin-trial 「なんか便利そうな仕組みやな〜」とのんびり眺めるのではなく、ID管理の基本を用いて解像度を上げていきましょう...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8b829e962298cba9d566"
   }
 ]
