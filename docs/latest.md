@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T07:06:42+00:00_
+_Generiert: 2026-07-11T07:46:43+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+16 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - South Sandwich Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-11T07:19:31.934+00:00`, fetched `2026-07-11T07:46:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-11 06:52:27 UTC 2026-07-11 06:52:27 UTC at epicenter Location 59.633°S 26.294°W Depth 104.89 km (65.17 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **mattpocock/skills** — Score 11, observation — [Quelle](https://github.com/mattpocock/skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-11T02:14:10+00:00`
