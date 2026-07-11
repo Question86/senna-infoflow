@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T11:28:03+00:00",
+  "generated_at": "2026-07-11T11:48:33+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-11T11:01:15+00:00",
+        "published_at": "2026-07-11T11:48:22+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -133,18 +133,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1"
       },
       {
+        "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T02:57:35+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html"
+      },
+      {
         "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-10T23:14:22+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2719204"
-      },
-      {
-        "title": "総務省｜不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2025-05-02T04:15:16+00:00",
-        "relevance_score": 4,
-        "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html"
       }
     ],
     "github": [
