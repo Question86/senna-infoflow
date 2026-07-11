@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-11T06:19:24+00:00_
+_Generated: 2026-07-11T07:06:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-07-11T06:19:24+00:00_
 - url: https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543
 - summary: ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Development Center Corporation Boris Cherny Claude Code の責任者 ‹#›
 
-### 5. M 4.5 - 211 km NE of Santa Cruz das Flores, Portugal
+### 5. M 4.9 - 6 km S of Grębocice, Poland
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-07-11T07:02:25.623+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3
+- summary: DYFI? - III Time 2026-07-11 06:11:59 UTC 2026-07-11 06:11:59 UTC at epicenter Location 51.538°N 16.164°E Depth 10.00 km (6.21 mi)
+
+### 6. M 4.5 - 211 km NE of Santa Cruz das Flores, Portugal
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-07-11T01:57:49.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1
 - summary: Time 2026-07-11 01:33:17 UTC 2026-07-11 01:33:17 UTC at epicenter Location 40.941°N 29.564°W Depth 10.00 km (6.21 mi)
-
-### 6. AI 2040: Plan A
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-07-10T01:59:22+00:00`
-- url: https://ai-2040.com/
-- summary: Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than humans in every way. In AI 2027, we predicted that this would result in either extinction or irreversible co…
 
 END OF DOCUMENT
