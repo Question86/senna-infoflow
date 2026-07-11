@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-11T06:00:27Z",
+  "generated_at": "2026-07-11T06:58:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 18,
     "bands": {
       "strong": 5,
       "watch": 1,
-      "quiet": 10
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 1,
-      "quiet": 10
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.17,
+      "age_days": 22.21,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-11T02:14:27+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro",
@@ -105,7 +105,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -130,7 +130,7 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T01:57:49.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -176,11 +176,37 @@
       "summary": "Time 2026-07-11 01:33:17 UTC 2026-07-11 01:33:17 UTC at epicenter Location 40.941°N 29.564°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "やさしいループエンジニアリング入門 | ドクセル",
+      "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-10T12:53:13+00:00",
+      "age_days": 0.75,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Development Center Corporation Boris Cherny Claude Code の責任者 ‹#›"
+    },
+    {
       "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
       "url": "https://togetter.com/li/2719204",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T23:14:22+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -204,7 +230,7 @@
       "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T12:33:31+00:00",
-      "age_days": 0.73,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -230,7 +256,7 @@
       "url": "https://github.com/mattpocock/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -255,11 +281,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.13,
+      "age_days": 21.17,
       "topics": [
         "general"
       ],
-      "dynamics_score": 1.15,
+      "dynamics_score": 1.12,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -271,7 +297,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -8.3 for 21.1d old signal"
+        "aging penalty -8.4 for 21.2d old signal"
       ],
       "summary": ""
     },
@@ -280,11 +306,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.13,
+      "age_days": 21.17,
       "topics": [
         "general"
       ],
-      "dynamics_score": 1.15,
+      "dynamics_score": 1.12,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -296,7 +322,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -8.3 for 21.1d old signal"
+        "aging penalty -8.4 for 21.2d old signal"
       ],
       "summary": ""
     },
@@ -305,7 +331,7 @@
       "url": "https://ai-2040.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T01:59:22+00:00",
-      "age_days": 1.17,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
@@ -330,7 +356,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.13,
+      "age_days": 21.17,
       "topics": [
         "ai"
       ],
@@ -347,7 +373,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.3 for 21.1d old signal",
+        "aging penalty -8.4 for 21.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -357,7 +383,7 @@
       "url": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T11:08:57+00:00",
-      "age_days": 0.79,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -382,7 +408,7 @@
       "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T06:15:46+00:00",
-      "age_days": 0.99,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -407,7 +433,7 @@
       "url": "https://github.com/oven-sh/bun",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -426,6 +452,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast Ja…"
+    },
+    {
+      "title": "総務省｜不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～",
+      "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2025-05-02T04:15:16+00:00",
+      "age_days": 435.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 435.1d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "お知らせ 令和7年5月2日 （令和7年5月15日更新） 不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～ 昨今、都内周辺をはじめとする一部の都市において、不法無線局の疑いのある無線機器からの携帯電話サービスへの混信事案が発生しており、携帯電話が圏外と..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
