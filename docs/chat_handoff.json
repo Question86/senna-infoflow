@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-11T19:55:51+00:00",
+  "generated_at": "2026-07-11T20:15:34+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 4,
-    "observe": 22
+    "observe": 23
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "GitHub - yusukebe/ax: The AI-era curl",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T15:09:13+00:00",
+      "relevance_score": 13,
+      "url": "https://github.com/yusukebe/ax",
+      "summary": "The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, dete…",
+      "section": "observe"
+    },
+    {
       "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
       "summary": "はじめに こんにちは！GroovesでCrowd Agent開発組織のマネージャーをしています、鳥井です。本記事は、私が社内向けに書いた業務自動化／効率化に関するドキュメントを、公開用に再構成したものになります。 AI時代に入り、業務自動化／効率化が改めて脚光を浴びています。LLMを司令塔としたMCPやAgent Skillsの普及に...",
       "section": "observe"
-    },
-    {
-      "title": "M 5.1 - 129 km SW of Huarmey, Peru",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-11T08:16:48.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
-      "summary": "Time 2026-07-11 07:58:27 UTC 2026-07-11 07:58:27 UTC at epicenter Location 10.859°S 79.030°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,148 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "abseil/abseil-cpp",
-        "url": "https://github.com/abseil/abseil-cpp",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-11T02:14:10+00:00",
-        "age_days": 0.74,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code"
-        ],
-        "summary": "Abseil Common Libraries (C++) Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library. Table of Contents About Abseil Quickstart Building Abseil Support Codemap Releases License…"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 22.76,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -0.6 for 22.8d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-11T19:55:37+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai",
-          "macro",
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
-      },
-      {
-        "title": "jbeder/yaml-cpp",
-        "url": "https://github.com/jbeder/yaml-cpp",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-11T02:14:10+00:00",
-        "age_days": 0.74,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "A YAML parser and emitter in C++ yaml-cpp yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec . Usage See Tutorial and How to Emit YAML for reference. For the old API (until 0.5.0), see How To Parse A Document . How to Build yaml-cpp uses CMake to support cross-platform building. Install CMake (Res…"
-      },
-      {
-        "title": "M 5.4 - 41 km S of Sarangani, Philippines",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-11T11:23:39.703+00:00",
-        "age_days": 0.36,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-11 10:51:12 UTC 2026-07-11 10:51:12 UTC at epicenter Location 5.033°N 125.490°E Depth 57.10 km (35.48 mi)"
-      }
-    ]
-  }
+  ]
 }

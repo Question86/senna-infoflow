@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-11T19:55:51+00:00_
+_Generated: 2026-07-11T20:15:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-07-11T19:55:51+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc
 - summary: PAGER - GREEN ShakeMap - III Time 2026-07-11 06:52:27 UTC 2026-07-11 06:52:27 UTC at epicenter Location 59.633°S 26.294°W Depth 104.89 km (65.17 mi)
 
-### 7. AI時代でも変わらない、業務自動化／効率化の考え方
+### 7. GitHub - yusukebe/ax: The AI-era curl
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-07-10T15:09:13+00:00`
+- url: https://github.com/yusukebe/ax
+- summary: The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, dete…
+
+### 8. AI時代でも変わらない、業務自動化／効率化の考え方
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-07-10T17:14:42+00:00`
 - url: https://zenn.dev/grooves/articles/d0e1a182138ab0
 - summary: はじめに こんにちは！GroovesでCrowd Agent開発組織のマネージャーをしています、鳥井です。本記事は、私が社内向けに書いた業務自動化／効率化に関するドキュメントを、公開用に再構成したものになります。 AI時代に入り、業務自動化／効率化が改めて脚光を浴びています。LLMを司令塔としたMCPやAgent Skillsの普及に...
-
-### 8. M 5.1 - 129 km SW of Huarmey, Peru
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-11T08:16:48.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq
-- summary: Time 2026-07-11 07:58:27 UTC 2026-07-11 07:58:27 UTC at epicenter Location 10.859°S 79.030°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

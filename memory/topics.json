@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T19:55:51+00:00",
+  "generated_at": "2026-07-11T20:15:34+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-11T19:55:37+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "GitHub - yusukebe/ax: The AI-era curl",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T15:09:13+00:00",
+        "relevance_score": 13,
+        "url": "https://github.com/yusukebe/ax"
       },
       {
         "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-11T10:37:44+00:00",
         "relevance_score": 5,
         "url": "https://note.com/art_reflection/n/n7ffd5ce3320c"
-      },
-      {
-        "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-10T06:15:46+00:00",
-        "relevance_score": 5,
-        "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166"
       }
     ],
     "general": [
@@ -148,6 +148,13 @@
       }
     ],
     "github": [
+      {
+        "title": "GitHub - yusukebe/ax: The AI-era curl",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T15:09:13+00:00",
+        "relevance_score": 13,
+        "url": "https://github.com/yusukebe/ax"
+      },
       {
         "title": "mattpocock/skills",
         "source": "GitHub Trending RSS All Languages Daily",

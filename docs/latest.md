@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T19:55:51+00:00_
+_Generiert: 2026-07-11T20:15:34+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-11 06:52:27 UTC 2026-07-11 06:52:27 UTC at epicenter Location 59.633°S 26.294°W Depth 104.89 km (65.17 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub - yusukebe/ax: The AI-era curl** — Score 13, observation — [Quelle](https://github.com/yusukebe/ax)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-10T15:09:13+00:00`, fetched `2026-07-11T20:15:04+00:00`
+  - Treffer: agent, AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0)
+  - Kurz: The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, deterministically, with output shaped for ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI時代でも変わらない、業務自動化／効率化の考え方** — Score 12, observation — [Quelle](https://zenn.dev/grooves/articles/d0e1a182138ab0)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-10T17:14:42+00:00`, fetched `2026-07-11T10:06:39+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **やさしいループエンジニアリング入門 | ドクセル** — Score 10, observation — [Quelle](https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-10T12:53:13+00:00`, fetched `2026-07-11T06:18:54+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Development Center Corporation Boris Cherny Claude Code の責任者 ‹#›
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **abseil/abseil-cpp** — Score 8, observation — [Quelle](https://github.com/abseil/abseil-cpp)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

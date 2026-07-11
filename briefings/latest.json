@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:55:51+00:00",
-  "run_id": "2026-07-11T19:55:51+00:00",
+  "generated_at": "2026-07-11T20:15:34+00:00",
+  "run_id": "2026-07-11T20:15:34+00:00",
   "date": "2026-07-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 4,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -261,6 +261,30 @@
           "LOW"
         ],
         "id": "adcf7d96c32b3310f330"
+      },
+      {
+        "title": "GitHub - yusukebe/ax: The AI-era curl",
+        "url": "https://github.com/yusukebe/ax",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-10T15:09:13+00:00",
+        "fetched_at": "2026-07-11T20:15:04+00:00",
+        "summary": "The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, deterministically, with output shaped for ...",
+        "matched_keywords": [
+          "agent",
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "63e177b6951ece992c76"
       },
       {
         "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
@@ -989,6 +1013,30 @@
       "id": "adcf7d96c32b3310f330"
     },
     {
+      "title": "GitHub - yusukebe/ax: The AI-era curl",
+      "url": "https://github.com/yusukebe/ax",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T15:09:13+00:00",
+      "fetched_at": "2026-07-11T20:15:04+00:00",
+      "summary": "The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, deterministically, with output shaped for ...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "63e177b6951ece992c76"
+    },
+    {
       "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
       "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1483,46 +1531,28 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-11T19:55:37+00:00",
-      "fetched_at": "2026-07-11T19:55:17+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "GitHub - yusukebe/ax: The AI-era curl",
+      "url": "https://github.com/yusukebe/ax",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-10T15:09:13+00:00",
+      "fetched_at": "2026-07-11T20:15:04+00:00",
+      "summary": "The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, deterministically, with output shaped for ...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "agent",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "976f05868d73fff7b90a"
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "63e177b6951ece992c76"
     }
   ],
   "source_errors": [],
