@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T20:15:34+00:00",
-  "run_id": "2026-07-11T20:15:34+00:00",
+  "generated_at": "2026-07-11T20:33:21+00:00",
+  "run_id": "2026-07-11T20:33:21+00:00",
   "date": "2026-07-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1529,32 +1529,7 @@
       "id": "6b28940c5e94394e2c00"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub - yusukebe/ax: The AI-era curl",
-      "url": "https://github.com/yusukebe/ax",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-10T15:09:13+00:00",
-      "fetched_at": "2026-07-11T20:15:04+00:00",
-      "summary": "The AI-era curl: fetch, discover, extract. One command. ax is what a coding agent should reach for instead of curl piped into a throwaway parsing script. It fetches a page, helps the agent understand its structure, and extracts structured data — locally, deterministically, with output shaped for ...",
-      "matched_keywords": [
-        "agent",
-        "AI/KI",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63e177b6951ece992c76"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
