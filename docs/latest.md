@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T12:55:46+00:00_
+_Generiert: 2026-07-11T14:32:58+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-11T11:48:22+00:00`, fetched `2026-07-11T11:48:02+00:00`
+  - Zeit: published `2026-07-11T14:32:46+00:00`, fetched `2026-07-11T14:32:27+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Skills for Real Engineers. Straight from my .claude directory. Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while doing so, they take away your control and make bugs in the process hard to resolve. These skills are designed to be small, easy…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **無料でAI向けのブラウザ自動化ができる「Browser4」** — Score 10, observation — [Quelle](https://gigazine.net/news/20260711-browser4/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-11T04:31:28+00:00`, fetched `2026-07-11T14:32:27+00:00`
+  - Treffer: AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **やさしいループエンジニアリング入門 | ドクセル** — Score 10, observation — [Quelle](https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-10T12:53:13+00:00`, fetched `2026-07-11T06:18:54+00:00`
@@ -95,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Development Center Corporation Boris Cherny Claude Code の責任者 ‹#›
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI 2040: Plan A** — Score 9, observation — [Quelle](https://ai-2040.com/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-10T01:59:22+00:00`, fetched `2026-07-11T03:25:58+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than humans in every way. In AI 2027, we predicted that this would result in either extinction or irreversible concentration of power.1 Plan A is our p...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **abseil/abseil-cpp** — Score 8, observation — [Quelle](https://github.com/abseil/abseil-cpp)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

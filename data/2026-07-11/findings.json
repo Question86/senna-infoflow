@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-11T11:48:22+00:00",
-    "fetched_at": "2026-07-11T11:48:02+00:00",
+    "published_at": "2026-07-11T14:32:46+00:00",
+    "fetched_at": "2026-07-11T14:32:27+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "7f8f2cbd61d7ef5c9918"
+    "id": "5da6875eb09d2bd5a2f1"
   },
   {
     "title": "M 5.4 - 41 km S of Sarangani, Philippines",
@@ -275,6 +275,29 @@
     "id": "c5af4c1adaf1ec3df613"
   },
   {
+    "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+    "url": "https://gigazine.net/news/20260711-browser4/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-11T04:31:28+00:00",
+    "fetched_at": "2026-07-11T14:32:27+00:00",
+    "summary": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th...",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a0d0ab10d0cdfa91755e"
+  },
+  {
     "title": "やさしいループエンジニアリング入門 | ドクセル",
     "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
     "source": "Hatena Bookmark Hotentry IT",
@@ -477,6 +500,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8b829e962298cba9d566"
+  },
+  {
+    "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
+    "url": "https://note.com/art_reflection/n/n7ffd5ce3320c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-11T10:37:44+00:00",
+    "fetched_at": "2026-07-11T14:32:27+00:00",
+    "summary": "ここ最近、いかに「AIでAI臭くない文章を書かせられるか？」を試行錯誤しています。 書かれた文章は自分としてもそれなりに思考を凝らせたものとなっていますが、実のところそろそろアイディアが枯渇し、頭打ちになってきまし。 さて、この文章執筆は一応Fable、Sonnet5.0までを射程として検証しています。正直FableはAP...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3507df94bfebc37c4588"
   },
   {
     "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",

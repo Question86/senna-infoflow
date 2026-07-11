@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T12:55:46+00:00",
+  "generated_at": "2026-07-11T14:32:58+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-11T11:48:22+00:00",
+        "published_at": "2026-07-11T14:32:46+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T04:31:28+00:00",
+        "relevance_score": 10,
+        "url": "https://gigazine.net/news/20260711-browser4/"
       },
       {
         "title": "AI 2040: Plan A",
@@ -54,25 +61,18 @@
         "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745"
       },
       {
+        "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T10:37:44+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/art_reflection/n/n7ffd5ce3320c"
+      },
+      {
         "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった - Qiita",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-10T06:15:46+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166"
-      },
-      {
-        "title": "oven-sh/bun",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/oven-sh/bun"
-      },
-      {
-        "title": "jbeder/yaml-cpp",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 4,
-        "url": "https://github.com/jbeder/yaml-cpp"
       }
     ],
     "general": [
@@ -154,6 +154,13 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T04:31:28+00:00",
+        "relevance_score": 10,
+        "url": "https://gigazine.net/news/20260711-browser4/"
       },
       {
         "title": "ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】",

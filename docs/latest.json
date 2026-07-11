@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T12:55:46+00:00",
-  "run_id": "2026-07-11T12:55:46+00:00",
+  "generated_at": "2026-07-11T14:32:58+00:00",
+  "run_id": "2026-07-11T14:32:58+00:00",
   "date": "2026-07-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 3,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 3,
-    "observe": 19,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-07-11T11:48:22+00:00",
-        "fetched_at": "2026-07-11T11:48:02+00:00",
+        "published_at": "2026-07-11T14:32:46+00:00",
+        "fetched_at": "2026-07-11T14:32:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "7f8f2cbd61d7ef5c9918"
+        "id": "5da6875eb09d2bd5a2f1"
       },
       {
         "title": "M 5.4 - 41 km S of Sarangani, Philippines",
@@ -307,6 +307,29 @@
         "id": "c5af4c1adaf1ec3df613"
       },
       {
+        "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+        "url": "https://gigazine.net/news/20260711-browser4/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-11T04:31:28+00:00",
+        "fetched_at": "2026-07-11T14:32:27+00:00",
+        "summary": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th...",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a0d0ab10d0cdfa91755e"
+      },
+      {
         "title": "やさしいループエンジニアリング入門 | ドクセル",
         "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
         "source": "Hatena Bookmark Hotentry IT",
@@ -511,6 +534,27 @@
         "id": "8b829e962298cba9d566"
       },
       {
+        "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
+        "url": "https://note.com/art_reflection/n/n7ffd5ce3320c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-11T10:37:44+00:00",
+        "fetched_at": "2026-07-11T14:32:27+00:00",
+        "summary": "ここ最近、いかに「AIでAI臭くない文章を書かせられるか？」を試行錯誤しています。 書かれた文章は自分としてもそれなりに思考を凝らせたものとなっていますが、実のところそろそろアイディアが枯渇し、頭打ちになってきまし。 さて、この文章執筆は一応Fable、Sonnet5.0までを射程として検証しています。正直FableはAP...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3507df94bfebc37c4588"
+      },
+      {
         "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
         "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -645,8 +689,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-07-11T11:48:22+00:00",
-      "fetched_at": "2026-07-11T11:48:02+00:00",
+      "published_at": "2026-07-11T14:32:46+00:00",
+      "fetched_at": "2026-07-11T14:32:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -680,7 +724,7 @@
         "HD",
         "LOW"
       ],
-      "id": "7f8f2cbd61d7ef5c9918"
+      "id": "5da6875eb09d2bd5a2f1"
     },
     {
       "title": "M 5.4 - 41 km S of Sarangani, Philippines",
@@ -916,6 +960,29 @@
       "id": "c5af4c1adaf1ec3df613"
     },
     {
+      "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+      "url": "https://gigazine.net/news/20260711-browser4/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-11T04:31:28+00:00",
+      "fetched_at": "2026-07-11T14:32:27+00:00",
+      "summary": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th...",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0d0ab10d0cdfa91755e"
+    },
+    {
       "title": "やさしいループエンジニアリング入門 | ドクセル",
       "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1120,6 +1187,27 @@
       "id": "8b829e962298cba9d566"
     },
     {
+      "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
+      "url": "https://note.com/art_reflection/n/n7ffd5ce3320c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-11T10:37:44+00:00",
+      "fetched_at": "2026-07-11T14:32:27+00:00",
+      "summary": "ここ最近、いかに「AIでAI臭くない文章を書かせられるか？」を試行錯誤しています。 書かれた文章は自分としてもそれなりに思考を凝らせたものとなっていますが、実のところそろそろアイディアが枯渇し、頭打ちになってきまし。 さて、この文章執筆は一応Fable、Sonnet5.0までを射程として検証しています。正直FableはAP...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3507df94bfebc37c4588"
+    },
+    {
       "title": "誤爆で「ワインが20本も届いちゃう」 押せば注文できる“Amazon Dash Button ”とは何だったのか",
       "url": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1247,7 +1335,94 @@
       "id": "6b28940c5e94394e2c00"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-07-11T14:32:46+00:00",
+      "fetched_at": "2026-07-11T14:32:27+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5da6875eb09d2bd5a2f1"
+    },
+    {
+      "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+      "url": "https://gigazine.net/news/20260711-browser4/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-11T04:31:28+00:00",
+      "fetched_at": "2026-07-11T14:32:27+00:00",
+      "summary": "「Browser4」はターミナルからAIによるウェブブラウズ・自動化・スクレイピング・クロールといった処理を実現するCLIツールです。 platonai/Browser4: Browser4: a lightning-fast, coroutine-safe browser for your AI. https://github.com/platonai/Browser4 Browser4 - Enable AI to browse/automate/scrape/crawl th...",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0d0ab10d0cdfa91755e"
+    },
+    {
+      "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
+      "url": "https://note.com/art_reflection/n/n7ffd5ce3320c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-11T10:37:44+00:00",
+      "fetched_at": "2026-07-11T14:32:27+00:00",
+      "summary": "ここ最近、いかに「AIでAI臭くない文章を書かせられるか？」を試行錯誤しています。 書かれた文章は自分としてもそれなりに思考を凝らせたものとなっていますが、実のところそろそろアイディアが枯渇し、頭打ちになってきまし。 さて、この文章執筆は一応Fable、Sonnet5.0までを射程として検証しています。正直FableはAP...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3507df94bfebc37c4588"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
