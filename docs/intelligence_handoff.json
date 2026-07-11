@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-11T20:06:23Z",
+  "generated_at": "2026-07-11T20:29:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.76,
+      "age_days": 22.77,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-11T19:55:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:23:39.703+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -124,7 +124,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -149,7 +149,7 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:00:47.513+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -199,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:19:31.934+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T08:16:48.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -249,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T18:07:48.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -273,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T16:20:11.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -298,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:02:25.623+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
