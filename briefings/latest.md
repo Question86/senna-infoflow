@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T14:54:49+00:00_
+_Generiert: 2026-07-11T15:18:41+00:00_
 
 ## Kurzlage
 
@@ -33,14 +33,14 @@ _Generiert: 2026-07-11T14:54:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:26km) in South Sandwich Islands Region 11/07/2026 10:26 UTC, [unknown].
-- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Guatemala
 - **GDACS: Green flood alert in Bangladesh** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104015)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Bangladesh
+- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104013)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Guatemala
 - **USGS earthquake M6.4 - South Sandwich Islands region** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb)
   - Quelle: USGS
   - Zeit: `2026-07-11T10:26:42+00:00`
