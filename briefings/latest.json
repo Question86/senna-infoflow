@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:33:41+00:00",
-  "run_id": "2026-07-11T21:33:41+00:00",
+  "generated_at": "2026-07-11T21:55:29+00:00",
+  "run_id": "2026-07-11T21:55:29+00:00",
   "date": "2026-07-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -1571,29 +1571,7 @@
       "id": "6b28940c5e94394e2c00"
     }
   ],
-  "new_findings": [
-    {
-      "title": "LATERALでSQL実行時間を99.75%削減した話 - ANDPAD Tech Blog",
-      "url": "https://tech.andpad.co.jp/entry/2026/07/10/100000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-10T01:10:26+00:00",
-      "fetched_at": "2026-07-11T21:33:10+00:00",
-      "summary": "こんにちは！ 承認チームでGoエンジニアとしてインターンをしているunagamです。 最近は夏の旅行先として色々な場所を調べるのにハマっています。 今回はあまり馴染みのないSQLのLATERAL句で大幅にAPIを高速化できたので、その学びを共有したいと思います。 概要 APIのボトルネックだったSQLを、LATERAL を使って 94.7ms...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "362b89437e17a30ce1c9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
