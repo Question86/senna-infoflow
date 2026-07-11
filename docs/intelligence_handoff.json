@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-11T02:36:59Z",
+  "generated_at": "2026-07-11T03:51:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.03,
+      "age_days": 22.08,
       "topics": [
         "ai"
       ],
@@ -59,7 +59,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -0.4 for 22.0d old signal",
+        "aging penalty -0.4 for 22.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-11T02:14:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro",
@@ -94,11 +94,36 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "M 4.9 - 54 km NNW of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-11T02:48:58.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-11 02:28:51 UTC 2026-07-11 02:28:51 UTC at epicenter Location 2.850°S 128.764°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "jbeder/yaml-cpp",
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -123,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T01:57:49.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -148,7 +173,7 @@
       "url": "https://togetter.com/li/2719204",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T23:14:22+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -172,7 +197,7 @@
       "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T12:33:31+00:00",
-      "age_days": 0.59,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -198,7 +223,7 @@
       "url": "https://github.com/mattpocock/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -223,11 +248,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 20.99,
+      "age_days": 21.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 1.26,
+      "dynamics_score": 1.22,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -239,7 +264,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -8.2 for 21.0d old signal"
+        "aging penalty -8.3 for 21.0d old signal"
       ],
       "summary": ""
     },
@@ -248,11 +273,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 20.99,
+      "age_days": 21.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 1.26,
+      "dynamics_score": 1.22,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -264,47 +289,20 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -8.2 for 21.0d old signal"
+        "aging penalty -8.3 for 21.0d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 20.99,
+      "published_at": "2026-07-10T01:59:22+00:00",
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.2 for 21.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
+      "dynamics_score": 1.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -318,7 +316,7 @@
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast Ja…"
+      "summary": "Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than humans in every way. In AI 2027, we predicted that this would result in either extinction or irreversible concentration of power.1 Plan A is our p..."
     }
   ],
   "read_order": [
@@ -330,9 +328,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 1,
-      "quiet": 7
+      "quiet": 6
     }
   }
 }
