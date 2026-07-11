@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-11T03:26:31+00:00_
+_Generated: 2026-07-11T04:33:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `12`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-07-11T03:26:31+00:00_
 - url: https://ai-2040.com/
 - summary: Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than humans in every way. In AI 2027, we predicted that this would result in either extinction or irreversible co…
 
-### 6. abseil/abseil-cpp
-- source: GitHub Trending RSS All Languages Daily
+### 6. ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】
+- source: Hatena Bookmark Hotentry IT
 - score: `8`
-- published: `None`
-- url: https://github.com/abseil/abseil-cpp
-- summary: Abseil Common Libraries (C++) Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library. Table of Contents About Abseil…
+- published: `2026-07-10T11:08:57+00:00`
+- url: https://zenn.dev/sonicgarden/articles/682b080ec34a37
+- summary: 対象読者: ISMSの活動に関わっているみなさん キーワード: ISO/IEC 27001、リスクアセスメント、情報資産管理、ドキュメント管理の自動化 はじめに ISMS（情報セキュリティマネジメントシステム、ISO/IEC 27001）を運用していると、避けて通れないのが大量のドキュメント管理です。 リスクアセスメント表 情報資産管理台...
 
 END OF DOCUMENT

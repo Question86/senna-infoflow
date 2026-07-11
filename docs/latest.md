@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-11T03:26:31+00:00_
+_Generiert: 2026-07-11T04:33:02+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+12 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than humans in every way. In AI 2027, we predicted that this would result in either extinction or irreversible concentration of power.1 Plan A is our p...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】** — Score 8, observation — [Quelle](https://zenn.dev/sonicgarden/articles/682b080ec34a37)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-10T11:08:57+00:00`, fetched `2026-07-11T04:32:31+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: 対象読者: ISMSの活動に関わっているみなさん キーワード: ISO/IEC 27001、リスクアセスメント、情報資産管理、ドキュメント管理の自動化 はじめに ISMS（情報セキュリティマネジメントシステム、ISO/IEC 27001）を運用していると、避けて通れないのが大量のドキュメント管理です。 リスクアセスメント表 情報資産管理台...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **abseil/abseil-cpp** — Score 8, observation — [Quelle](https://github.com/abseil/abseil-cpp)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-11T02:14:10+00:00`
@@ -77,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: ritouです。 Email Verification Protocol Origin Trial Email Verification ProtocolのOrigin Trialが始まったようです。 https://developer.chrome.com/blog/email-verification-protocol-origin-trial 「なんか便利そうな仕組みやな〜」とのんびり眺めるのではなく、ID管理の基本を用いて解像度を上げていきましょう...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」** — Score 5, observation — [Quelle](https://togetter.com/li/2719204)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-10T23:14:22+00:00`, fetched `2026-07-11T02:14:10+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: でん @OsenbeBaribari 怖すぎる、わかる人いますか？😭😭 夫にSMSを送ったらなぜか数通だけ知らない人に届いてしまい、夫の方の携帯ではそのメッセージ履歴が確認できません😭 こういう現象が起きたことがある人はいますか？（ ; ; ） pic.x.com/YvgglMjOm5 2026-07-11 00:13:43
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **oven-sh/bun** — Score 5, observation — [Quelle](https://github.com/oven-sh/bun)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

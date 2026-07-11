@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T03:26:31+00:00",
+  "generated_at": "2026-07-11T04:33:02+00:00",
   "topics": {
     "ai": [
       {
@@ -38,6 +38,13 @@
         "published_at": "2026-07-10T12:33:31+00:00",
         "relevance_score": 7,
         "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745"
+      },
+      {
+        "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった - Qiita",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T06:15:46+00:00",
+        "relevance_score": 5,
+        "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166"
       },
       {
         "title": "oven-sh/bun",
@@ -84,6 +91,13 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "title": "ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-10T11:08:57+00:00",
+        "relevance_score": 8,
+        "url": "https://zenn.dev/sonicgarden/articles/682b080ec34a37"
       },
       {
         "title": "abseil/abseil-cpp",
