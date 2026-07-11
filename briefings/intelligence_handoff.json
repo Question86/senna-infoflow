@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-11T18:02:46Z",
+  "generated_at": "2026-07-11T18:32:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.67,
+      "age_days": 22.69,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-11T17:55:44+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:23:39.703+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -124,7 +124,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -149,7 +149,7 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:00:47.513+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -199,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:19:31.934+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T08:16:48.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -245,11 +245,35 @@
       "summary": "Time 2026-07-11 07:58:27 UTC 2026-07-11 07:58:27 UTC at epicenter Location 10.859°S 79.030°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.2 - 56 km SSW of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-11T18:07:48.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-11 17:49:31 UTC 2026-07-11 17:49:31 UTC at epicenter Location 4.941°N 125.245°E Depth 61.68 km (38.33 mi)"
+    },
+    {
       "title": "M 5.1 - 89 km NE of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T16:20:11.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -274,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:02:25.623+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -293,31 +317,6 @@
         "high terms: 10"
       ],
       "summary": "DYFI? - III Time 2026-07-11 06:11:59 UTC 2026-07-11 06:11:59 UTC at epicenter Location 51.538°N 16.164°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 211 km NE of Santa Cruz das Flores, Portugal",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T01:57:49.040+00:00",
-      "age_days": 0.67,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-11 01:33:17 UTC 2026-07-11 01:33:17 UTC at epicenter Location 40.941°N 29.564°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
