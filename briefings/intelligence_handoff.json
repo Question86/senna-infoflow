@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-11T06:58:49Z",
+  "generated_at": "2026-07-11T07:38:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.21,
+      "age_days": 22.24,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-11T02:14:27+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -144,11 +144,36 @@
       "summary": "A YAML parser and emitter in C++ yaml-cpp yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec . Usage See Tutorial and How to Emit YAML for reference. For the old API (until 0.5.0), see How To Parse A Document . How to Build yaml-cpp uses CMake to support cross-platform building. Install CMake (Res…"
     },
     {
+      "title": "M 4.9 - 6 km S of Grębocice, Poland",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-11T07:02:25.623+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - III Time 2026-07-11 06:11:59 UTC 2026-07-11 06:11:59 UTC at epicenter Location 51.538°N 16.164°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 211 km NE of Santa Cruz das Flores, Portugal",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T01:57:49.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -173,7 +198,7 @@
       "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T12:53:13+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -199,7 +224,7 @@
       "url": "https://togetter.com/li/2719204",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T23:14:22+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -223,7 +248,7 @@
       "url": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T12:33:31+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -249,7 +274,7 @@
       "url": "https://github.com/mattpocock/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -274,36 +299,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.17,
+      "age_days": 21.2,
       "topics": [
         "general"
       ],
-      "dynamics_score": 1.12,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -8.4 for 21.2d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 21.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 1.12,
+      "dynamics_score": 1.1,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -330,8 +330,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 1,
-      "quiet": 6
+      "watch": 2,
+      "quiet": 5
     }
   }
 }
