@@ -101,6 +101,28 @@
     "id": "c5af4c1adaf1ec3df613"
   },
   {
+    "title": "やさしいループエンジニアリング入門 | ドクセル",
+    "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-10T12:53:13+00:00",
+    "fetched_at": "2026-07-11T06:18:54+00:00",
+    "summary": "ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Development Center Corporation Boris Cherny Claude Code の責任者 ‹#›",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "efd11daa24b5ed3b4d05"
+  },
+  {
     "title": "M 4.5 - 211 km NE of Santa Cruz das Flores, Portugal",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm1",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -286,6 +308,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "16c6dedb5dd40d541c5b"
+  },
+  {
+    "title": "総務省｜不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～",
+    "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2025-05-02T04:15:16+00:00",
+    "fetched_at": "2026-07-11T06:18:54+00:00",
+    "summary": "お知らせ 令和7年5月2日 （令和7年5月15日更新） 不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～ 昨今、都内周辺をはじめとする一部の都市において、不法無線局の疑いのある無線機器からの携帯電話サービスへの混信事案が発生しており、携帯電話が圏外と...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ef96b4765caae4b49fca"
   },
   {
     "title": "jbeder/yaml-cpp",
