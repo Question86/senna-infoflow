@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-11T07:46:43+00:00",
+  "generated_at": "2026-07-11T08:25:45+00:00",
   "topics": {
     "ai": [
       {
@@ -75,6 +75,13 @@
         "published_at": "2026-07-11T07:19:31.934+00:00",
         "relevance_score": 13,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc"
+      },
+      {
+        "title": "M 5.1 - 129 km SW of Huarmey, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-11T08:16:48.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq"
       },
       {
         "title": "やさしいループエンジニアリング入門 | ドクセル",
