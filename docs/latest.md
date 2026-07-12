@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-12T15:25:47+00:00_
+_Generiert: 2026-07-12T16:09:43+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0)
   - Kurz: ﾎﾞｳﾞ @cornwallcapital 会計事務所にほぼ必ずいる、クライアントから送られてきた通帳やらカード明細やらをひたすら弥生会計に入力するオバさんパートとかAIでマジ不要になってると思うんだけど、どうすんのかな。 2026-07-11 15:57:24 ﾎﾞｳﾞ @cornwallcapital 公認会計士。零細会計事務所と弱小監査法人を経営しながら、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話** — Score 12, observation — [Quelle](https://zenn.dev/seiuchi3939/articles/b12d6746d9f187)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-12T02:19:36+00:00`, fetched `2026-07-12T16:09:15+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 私は国内の金融機関で、社内の情報システム・セキュリティに関わる業務をしています。この記事では、情報漏洩リスクに人一倍敏感な金融機関という環境で、Claude・Gemini・ChatGPTという複数の生成AIサービスを全社導入するに至った経緯と、その際にどうリスクを整理したかをまとめます。 「生成AIを導入したい...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 27 km SSW of Unalaska, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szv2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-12T11:43:28.449+00:00`, fetched `2026-07-12T11:44:15+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Otty — A fast, modern terminal** — Score 11, observation — [Quelle](https://otty.sh/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-17T05:30:16+00:00`, fetched `2026-07-12T12:29:57+00:00`
-  - Treffer: agent, Hatena, hotentry, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0)
-  - Kurz: Otty A native, beautiful terminal app. Designed for anyone who cares about the feel of every keystroke. Tuned for code agents you already run. Download macOSApple Silicon macOSIntel Windows ComingJoin the waitlist Linux ComingJoin the waitlist iOS ComingJoin the waitlist
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 139 km S of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
