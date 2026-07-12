@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T07:31:49+00:00",
+  "generated_at": "2026-07-12T08:22:52+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-12T02:10:51+00:00",
+        "published_at": "2026-07-12T08:22:39+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -31,6 +31,13 @@
         "published_at": "2026-07-11T23:28:47+00:00",
         "relevance_score": 13,
         "url": "https://togetter.com/li/2719544"
+      },
+      {
+        "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T23:11:58+00:00",
+        "relevance_score": 10,
+        "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types"
       },
       {
         "title": "米「AIがインフレの一因」 FRB金融政策報告書",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/zeux/meshoptimizer"
-      },
-      {
-        "title": "catchorg/Catch2",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/catchorg/Catch2"
       }
     ],
     "github": [
@@ -119,6 +119,13 @@
         "published_at": "2026-07-12T01:13:27.175+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv"
+      },
+      {
+        "title": "M 5.5 - southern East Pacific Rise",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-12T07:57:25.982+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
       },
       {
         "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",

@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-12T02:10:51+00:00",
-    "fetched_at": "2026-07-12T02:10:32+00:00",
+    "published_at": "2026-07-12T08:22:39+00:00",
+    "fetched_at": "2026-07-12T08:22:19+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "391361c1612751aa7f02"
+    "id": "8c2b57d25a65aef700a8"
   },
   {
     "title": "google-labs-code/stitch-skills",
@@ -150,6 +150,44 @@
     "id": "0ffbd3ef3f4161e69874"
   },
   {
+    "title": "M 5.5 - southern East Pacific Rise",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-12T07:57:25.982+00:00",
+    "fetched_at": "2026-07-12T08:22:19+00:00",
+    "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-12 07:29:23 UTC 2026-07-12 07:29:23 UTC at epicenter Location 54.601°S 118.973°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cd0aee083fed05a7d64c"
+  },
+  {
     "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
     "url": "https://togetter.com/li/2719544",
     "source": "Hatena Bookmark Hotentry IT",
@@ -225,6 +263,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "55df8edf871f0ff895e3"
+  },
+  {
+    "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+    "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-11T23:11:58+00:00",
+    "fetched_at": "2026-07-12T08:22:19+00:00",
+    "summary": "本シリーズ 第1部（全3部）: AI エージェント文脈のグラフを Node / Edge の意味で 5 種類に分類します。特殊化は 第2部、レイヤー連携と本番構成は第3部（執筆予定）で扱います。 前提: ナレッジグラフの基礎（エンティティ・関係・GraphRAG との区別）は「ナレッジグラフ入門」「RAG を超える知識統合」で扱っています...",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bfd875b369906399e3cc"
   },
   {
     "title": "M 4.6 - 28 km E of Port-Olry, Vanuatu",
