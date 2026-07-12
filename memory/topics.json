@@ -1,8 +1,103 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T01:22:52+00:00",
+  "generated_at": "2026-07-12T02:11:03+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-07-12T02:10:51+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "google-labs-code/stitch-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      {
+        "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T23:28:47+00:00",
+        "relevance_score": 13,
+        "url": "https://togetter.com/li/2719544"
+      },
+      {
+        "title": "米「AIがインフレの一因」 FRB金融政策報告書",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T00:29:41+00:00",
+        "relevance_score": 8,
+        "url": "https://www.47news.jp/14607274.html"
+      },
+      {
+        "title": "hashicorp/terraform",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/hashicorp/terraform"
+      },
+      {
+        "title": "davila7/claude-code-templates",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 7,
+        "url": "https://github.com/davila7/claude-code-templates"
+      },
+      {
+        "title": "zeux/meshoptimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/zeux/meshoptimizer"
+      },
+      {
+        "title": "catchorg/Catch2",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/catchorg/Catch2"
+      }
+    ],
+    "github": [
+      {
+        "title": "google-labs-code/stitch-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      {
+        "title": "hashicorp/terraform",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/hashicorp/terraform"
+      },
+      {
+        "title": "davila7/claude-code-templates",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 7,
+        "url": "https://github.com/davila7/claude-code-templates"
+      },
+      {
+        "title": "zeux/meshoptimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/zeux/meshoptimizer"
+      },
+      {
+        "title": "catchorg/Catch2",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/catchorg/Catch2"
+      }
+    ],
     "general": [
       {
         "title": "M 4.9 - 241 km NNW of Tobelo, Indonesia",
@@ -17,15 +112,22 @@
         "published_at": "2026-07-08T23:46:18+00:00",
         "relevance_score": 9,
         "url": "https://japan.zdnet.com/article/35250320/"
+      },
+      {
+        "title": "クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-11T15:58:37+00:00",
+        "relevance_score": 5,
+        "url": "https://engineering.nifty.co.jp/blog/37405"
       }
     ],
-    "ai": [
+    "geopolitics": [
       {
-        "title": "米「AIがインフレの一因」 FRB金融政策報告書",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-11T00:29:41+00:00",
-        "relevance_score": 8,
-        "url": "https://www.47news.jp/14607274.html"
+        "title": "zeux/meshoptimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/zeux/meshoptimizer"
       }
     ]
   }
