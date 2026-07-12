@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T13:25:09+00:00",
+  "generated_at": "2026-07-12T14:03:04+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
     ],
     "general": [
       {
+        "title": "M 5.1 - 27 km SSE of Tambolaka, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-12T13:41:02.387+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
+      },
+      {
         "title": "M 4.7 - 80 km WSW of Gorontalo, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-12T10:22:54.040+00:00",
@@ -189,13 +196,6 @@
         "published_at": "2026-07-08T23:46:18+00:00",
         "relevance_score": 9,
         "url": "https://japan.zdnet.com/article/35250320/"
-      },
-      {
-        "title": "前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-12T10:36:28+00:00",
-        "relevance_score": 5,
-        "url": "https://nikkan-spa.jp/2172263"
       }
     ],
     "economy": [

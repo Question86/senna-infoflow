@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T13:25:09+00:00_
+_Generated: 2026-07-12T14:03:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-12T13:25:09+00:00_
 - url: https://github.com/google-labs-code/stitch-skills
 - summary: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. Stitch Design Skills A collection of agent ski…
 
-### 3. M 4.7 - 80 km WSW of Gorontalo, Indonesia
+### 3. M 5.1 - 27 km SSE of Tambolaka, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-07-12T13:41:02.387+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq
+- summary: DYFI? - IV Time 2026-07-12 13:20:25 UTC 2026-07-12 13:20:25 UTC at epicenter Location 9.671°S 119.304°E Depth 42.94 km (26.68 mi)
+
+### 4. M 4.7 - 80 km WSW of Gorontalo, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-07-12T10:22:54.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szus
 - summary: Time 2026-07-12 10:05:37 UTC 2026-07-12 10:05:37 UTC at epicenter Location 0.220°N 122.411°E Depth 152.28 km (94.62 mi)
-
-### 4. M 4.9 - 241 km NNW of Tobelo, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-12T01:13:27.175+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv
-- summary: DYFI? - II Time 2026-07-12 00:43:30 UTC 2026-07-12 00:43:30 UTC at epicenter Location 3.677°N 127.025°E Depth 41.80 km (25.97 mi)
 
 ### 5. M 5.5 - southern East Pacific Rise
 - source: USGS M4.5+ Earthquakes Past Hour
