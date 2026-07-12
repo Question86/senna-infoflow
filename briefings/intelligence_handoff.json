@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-11T23:33:11Z",
+  "generated_at": "2026-07-12T00:04:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “abseil/abseil-cpp” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/abseil/abseil-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 22.9,
+      "age_days": 22.92,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-07-11T23:14:40+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro",
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:23:39.703+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -124,7 +124,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T02:48:58.040+00:00",
-      "age_days": 0.86,
+      "age_days": 0.89,
       "topics": [
         "disaster"
       ],
@@ -149,7 +149,7 @@
       "url": "https://github.com/jbeder/yaml-cpp",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-11T02:14:10+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T11:00:47.513+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -199,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T07:19:31.934+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "disaster"
       ],
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T08:16:48.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -249,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T18:07:48.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -269,11 +269,37 @@
       "summary": "Time 2026-07-11 17:49:31 UTC 2026-07-11 17:49:31 UTC at epicenter Location 4.941°N 125.245°E Depth 61.68 km (38.33 mi)"
     },
     {
+      "title": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-11T05:42:34+00:00",
+      "age_days": 0.77,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10, auth",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO"
+    },
+    {
       "title": "M 5.1 - 89 km NE of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-11T16:20:11.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -292,31 +318,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-07-11 15:33:17 UTC 2026-07-11 15:33:17 UTC at epicenter Location 15.314°S 173.293°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 6 km S of Grębocice, Poland",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szn3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-11T07:02:25.623+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - III Time 2026-07-11 06:11:59 UTC 2026-07-11 06:11:59 UTC at epicenter Location 51.538°N 16.164°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
