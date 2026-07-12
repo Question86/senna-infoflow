@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T16:32:04+00:00",
+  "generated_at": "2026-07-12T16:54:53+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-12T02:07:23+00:00",
         "relevance_score": 14,
         "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering"
+      },
+      {
+        "title": "有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-12T10:20:50+00:00",
+        "relevance_score": 13,
+        "url": "https://note.com/ai_eng_tech/n/n1ef4d57df219"
       },
       {
         "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/hashicorp/terraform"
-      },
-      {
-        "title": "davila7/claude-code-templates",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 7,
-        "url": "https://github.com/davila7/claude-code-templates"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": "2026-07-12T02:12:00+00:00",
         "relevance_score": 14,
         "url": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel"
+      },
+      {
+        "title": "有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-12T10:20:50+00:00",
+        "relevance_score": 13,
+        "url": "https://note.com/ai_eng_tech/n/n1ef4d57df219"
       },
       {
         "title": "hashicorp/terraform",
@@ -177,6 +184,13 @@
         "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering"
       },
       {
+        "title": "M 4.6 - 58 km E of Hanmer Springs, New Zealand",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-12T16:49:16.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szwc"
+      },
+      {
         "title": "M 5.0 - 139 km S of ‘Ohonua, Tonga",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-07-12T11:33:54.040+00:00",
@@ -189,13 +203,6 @@
         "published_at": "2026-07-12T03:21:16.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5"
-      },
-      {
-        "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-11T21:30:16+00:00",
-        "relevance_score": 9,
-        "url": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective"
       }
     ],
     "economy": [

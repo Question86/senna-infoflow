@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-12T16:32:04+00:00_
+_Generiert: 2026-07-12T16:54:53+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎** — Score 13, observation — [Quelle](https://note.com/ai_eng_tech/n/n1ef4d57df219)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-12T10:20:50+00:00`, fetched `2026-07-12T16:54:23+00:00`
+  - Treffer: AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方 いま GitHub で、有名エンジニアが自分の .claude ディレクトリを丸ごと公開する動きが続いています。 Total TypeScript の Matt Pocock が公開した mattpocock/skills は 16万スター、Google Chrome チームの Addy Osmani に...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.5 - southern East Pacific Rise** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-12T07:57:25.982+00:00`, fetched `2026-07-12T08:22:19+00:00`
@@ -114,23 +123,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - III Time 2026-07-12 11:23:48 UTC 2026-07-12 11:23:48 UTC at epicenter Location 53.650°N 166.716°W Depth 95.22 km (59.16 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと** — Score 11, observation — [Quelle](https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-10T17:02:08+00:00`, fetched `2026-07-12T04:33:47+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 139 km S of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuz)
+- **M 4.6 - 58 km E of Hanmer Springs, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szwc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-12T11:33:54.040+00:00`, fetched `2026-07-12T11:44:15+00:00`
+  - Zeit: published `2026-07-12T16:49:16.040+00:00`, fetched `2026-07-12T16:54:23+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-12 11:09:45 UTC 2026-07-12 11:09:45 UTC at epicenter Location 22.604°S 174.917°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-12 16:31:08 UTC 2026-07-12 16:31:08 UTC at epicenter Location 42.578°S 173.518°E Depth 29.35 km (18.24 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **hashicorp/terraform** — Score 8, observation — [Quelle](https://github.com/hashicorp/terraform)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
