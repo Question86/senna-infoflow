@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-12T10:03:22Z",
+  "generated_at": "2026-07-12T10:43:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 24,
     "bands": {
       "strong": 6,
       "watch": 2,
-      "quiet": 15
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 6,
       "watch": 2,
-      "quiet": 15
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/hashicorp/terraform",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 23.34,
+      "age_days": 23.36,
       "topics": [
         "ai"
       ],
@@ -66,7 +66,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -0.8 for 23.3d old signal",
+        "aging penalty -0.8 for 23.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -75,8 +75,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-07-12T09:08:12+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-07-12T10:20:18+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -105,7 +105,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -132,7 +132,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T07:57:25.982+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -157,7 +157,7 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -184,7 +184,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T01:13:27.175+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -208,7 +208,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-12T03:21:16.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -232,7 +232,7 @@
       "url": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T21:30:16+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -256,7 +256,7 @@
       "url": "https://japan.zdnet.com/article/35250320/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-08T23:46:18+00:00",
-      "age_days": 3.43,
+      "age_days": 3.46,
       "topics": [
         "general"
       ],
@@ -280,7 +280,7 @@
       "url": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T17:02:08+00:00",
-      "age_days": 1.71,
+      "age_days": 1.74,
       "topics": [
         "ai"
       ],
@@ -306,7 +306,7 @@
       "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-12T02:07:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -331,7 +331,7 @@
       "url": "https://togetter.com/li/2719544",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T23:28:47+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -357,7 +357,7 @@
       "url": "https://www.47news.jp/14607274.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T00:29:41+00:00",
-      "age_days": 1.4,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -383,7 +383,7 @@
       "url": "https://engineering.nifty.co.jp/blog/37405",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T15:58:37+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -407,11 +407,11 @@
       "url": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-01T07:01:02+00:00",
-      "age_days": 11.13,
+      "age_days": 11.15,
       "topics": [
         "general"
       ],
-      "dynamics_score": 3.16,
+      "dynamics_score": 3.13,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -422,7 +422,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -0.8 for 11.1d old signal"
+        "aging penalty -0.9 for 11.2d old signal"
       ],
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?"
     },
@@ -431,7 +431,7 @@
       "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-11T23:11:58+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -456,11 +456,11 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 22.3,
+      "age_days": 22.33,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.27,
+      "dynamics_score": 0.25,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -481,11 +481,11 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 22.3,
+      "age_days": 22.33,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0.27,
+      "dynamics_score": 0.25,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -506,7 +506,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 22.3,
+      "age_days": 22.33,
       "topics": [
         "ai"
       ],
@@ -529,11 +529,37 @@
       "summary": ""
     },
     {
+      "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
+      "url": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-07T11:16:39+00:00",
+      "age_days": 4.98,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "はじめに 前回、AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か という記事を書きました。結論はシンプルで、**「構造はディレクトリ、意味はタグ、両取りが最強」**でした。 この記事は、その続編です。「1つのリポジトリをAIに読ませる」という話を、**「..."
+    },
+    {
       "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
       "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-10T14:55:10+00:00",
-      "age_days": 1.8,
+      "age_days": 1.83,
       "topics": [
         "ai"
       ],
@@ -558,7 +584,7 @@
       "url": "https://github.com/zeux/meshoptimizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "infra"
@@ -585,7 +611,7 @@
       "url": "https://github.com/catchorg/Catch2",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-12T02:10:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
