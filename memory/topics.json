@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-12T09:49:03+00:00",
+  "generated_at": "2026-07-12T10:20:29+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-07-12T09:08:12+00:00",
+        "published_at": "2026-07-12T10:20:18+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -61,18 +61,18 @@
         "url": "https://github.com/davila7/claude-code-templates"
       },
       {
+        "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T11:16:39+00:00",
+        "relevance_score": 6,
+        "url": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os"
+      },
+      {
         "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-10T14:55:10+00:00",
         "relevance_score": 5,
         "url": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men"
-      },
-      {
-        "title": "zeux/meshoptimizer",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/zeux/meshoptimizer"
       }
     ],
     "github": [
@@ -96,6 +96,13 @@
         "published_at": null,
         "relevance_score": 7,
         "url": "https://github.com/davila7/claude-code-templates"
+      },
+      {
+        "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T11:16:39+00:00",
+        "relevance_score": 6,
+        "url": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os"
       },
       {
         "title": "zeux/meshoptimizer",
@@ -168,6 +175,15 @@
         "published_at": "2026-07-01T07:01:02+00:00",
         "relevance_score": 4,
         "url": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54"
+      }
+    ],
+    "economy": [
+      {
+        "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-07T11:16:39+00:00",
+        "relevance_score": 6,
+        "url": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os"
       }
     ],
     "geopolitics": [
