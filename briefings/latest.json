@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:09:33+00:00",
-  "run_id": "2026-07-12T22:09:33+00:00",
+  "generated_at": "2026-07-12T22:29:33+00:00",
+  "run_id": "2026-07-12T22:29:33+00:00",
   "date": "2026-07-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -2091,74 +2091,7 @@
       "id": "f255696f1bed8e2516e2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-07-12T22:09:22+00:00",
-      "fetched_at": "2026-07-12T22:09:00+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "32730ce2b1bb4e1ea0be"
-    },
-    {
-      "title": "AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か",
-      "url": "https://zenn.dev/yamitake/articles/github-ai-context-structure-vs-obsidian",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-03T22:19:13+00:00",
-      "fetched_at": "2026-07-12T22:09:00+00:00",
-      "summary": "はじめに 「ドキュメントやナレッジをAIに読ませたい」というニーズが一気に増えました。Claude Code のようなエージェントにリポジトリを丸ごと渡す、RAG の知識ベースとして食わせる、社内 Wiki をそのまま参照させる——用途はさまざまですが、そこで必ず出てくる問いがあります。 ディレクトリがきれいに整理されてい...",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63451b397f1fe6391657"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
