@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T05:42:11+00:00_
+_Generated: 2026-07-12T06:38:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-07-12T05:42:11+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5
 - summary: Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)
 
-### 7. 「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介
+### 7. 依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
-- published: `2026-07-08T23:46:18+00:00`
-- url: https://japan.zdnet.com/article/35250320/
-- summary: 「Windows」のディスク容量が不可解に減少していると感じる場合、それは気のせいではないかもしれない。システムが既知のバグの影響を受けている可能性がある。 「Windows 11」の特定のファイルが肥大化し、ディスク容量の減少が目に見えて分かるようになるバグが報告されている。ニュースサイトののWindows Latestによ...
+- published: `2026-07-11T21:30:16+00:00`
+- url: https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective
+- summary: 依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective
 
 END OF DOCUMENT
