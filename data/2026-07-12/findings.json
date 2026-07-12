@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-12T08:22:39+00:00",
-    "fetched_at": "2026-07-12T08:22:19+00:00",
+    "published_at": "2026-07-12T09:08:12+00:00",
+    "fetched_at": "2026-07-12T09:07:53+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "8c2b57d25a65aef700a8"
+    "id": "19f29b6bf20c213030d9"
   },
   {
     "title": "google-labs-code/stitch-skills",
@@ -541,5 +541,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d809d329d5f8e403b3e0"
+  },
+  {
+    "title": "Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する - Qiita",
+    "url": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T07:01:02+00:00",
+    "fetched_at": "2026-07-12T09:07:53+00:00",
+    "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f255696f1bed8e2516e2"
   }
 ]

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-12T08:22:52+00:00_
+_Generiert: 2026-07-12T09:08:23+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-07-12T08:22:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
-- **USGS earthquake M5.5 - southern East Pacific Rise** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6)
-  - Quelle: USGS
-  - Zeit: `2026-07-12T07:29:23+00:00`
-  - Kurz: M5.5 - southern East Pacific Rise. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -75,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-07-12T08:22:39+00:00`, fetched `2026-07-12T08:22:19+00:00`
+  - Zeit: published `2026-07-12T09:08:12+00:00`, fetched `2026-07-12T09:07:53+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
