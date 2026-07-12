@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-12T03:21:55+00:00_
+_Generated: 2026-07-12T04:34:18+00:00_
 
 ## Status
-- status: `normal`
-- findings: `12`
+- status: `warning`
+- findings: `13`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-07-12T03:21:55+00:00_
 - url: https://togetter.com/li/2719544
 - summary: ﾎﾞｳﾞ @cornwallcapital 会計事務所にほぼ必ずいる、クライアントから送られてきた通帳やらカード明細やらをひたすら弥生会計に入力するオバさんパートとかAIでマジ不要になってると思うんだけど、どうすんのかな。 2026-07-11 15:57:24 ﾎﾞｳﾞ @cornwallcapital 公認会計士。零細会計事務所と弱小監査法人を経営しながら、...
 
-### 5. M 4.6 - 28 km E of Port-Olry, Vanuatu
+### 5. BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-07-10T17:02:08+00:00`
+- url: https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering
+- summary: はじめに こんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。 本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。 Bunは、N...
+
+### 6. M 4.6 - 28 km E of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-07-12T03:21:16.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000szt5
 - summary: Time 2026-07-12 03:04:07 UTC 2026-07-12 03:04:07 UTC at epicenter Location 15.089°S 167.336°E Depth 126.09 km (78.35 mi)
 
-### 6. 「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介
+### 7. 「Windows 11」には500GBのストレージに関する不具合？ 確認方法を紹介
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-07-08T23:46:18+00:00`
 - url: https://japan.zdnet.com/article/35250320/
 - summary: 「Windows」のディスク容量が不可解に減少していると感じる場合、それは気のせいではないかもしれない。システムが既知のバグの影響を受けている可能性がある。 「Windows 11」の特定のファイルが肥大化し、ディスク容量の減少が目に見えて分かるようになるバグが報告されている。ニュースサイトののWindows Latestによ...
-
-### 7. 米「AIがインフレの一因」 FRB金融政策報告書
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-07-11T00:29:41+00:00`
-- url: https://www.47news.jp/14607274.html
-- summary: 【ワシントン共同】米連邦準備制度理事会（FRB）は10日、半期ごとに議会に提出する金融政策報告書を公表した。インフレは「今春に一段と加速した」と指摘。人工知能（AI）を支えるデータセンター向けの半導体などの需要が急増し、電子機器やコンピューターといった関連製品の価格が急上昇したことが一因となったと説明し...
 
 END OF DOCUMENT
