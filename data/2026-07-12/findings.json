@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-07-12T21:07:33+00:00",
-    "fetched_at": "2026-07-12T21:07:12+00:00",
+    "published_at": "2026-07-12T21:48:16+00:00",
+    "fetched_at": "2026-07-12T21:47:57+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "a7fcb341e8f858dc9359"
+    "id": "18781460b70dfe471be0"
   },
   {
     "title": "google-labs-code/stitch-skills",
@@ -420,6 +420,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4bbfdb72686e1a21d646"
+  },
+  {
+    "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+    "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-12T12:13:01+00:00",
+    "fetched_at": "2026-07-12T21:47:57+00:00",
+    "summary": "はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何から手を付ければ…」となっている新卒・若手エンジニア...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "43a365e245dca0409fcb"
   },
   {
     "title": "M 4.5 - 27 km SSW of Unalaska, Alaska",
